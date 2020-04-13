@@ -28,11 +28,11 @@ Furthermore, MIPs will provide a mechanism for any community member to define ke
         Dependencies: n/a
         Replaces: n/a
         ```
--  In the **RFC Phase**, community members may propose changes to proposed MIPs. When proposing changes to MIPs in the RFC Phase, clone the MIPs repository from GitHub, and then make a Pull Request (PR) for the respetive MIP with the following details: 
-    -  PR title: `Add/Change/Delete <details> to MIP#`
-    -  In the PR comment box, include a short description of the proposed change. 
+    -  In the **RFC Phase**, community members may propose changes to proposed MIPs. When proposing changes to MIPs in the RFC Phase, clone the MIPs repository from GitHub, and then make a Pull Request (PR) for the respetive MIP with the following details: 
+        -  PR title: `Add/Change/Delete <details> to MIP#`
+        -  In the PR comment box, include a short description of the proposed change. 
 
-    Note that is it ultimately up to the MIP Author to     decide whether or not these proposed changes or         addtions will be included in the final version of the MIP.
+        Note that is it ultimately up to the MIP Author to     decide whether or not these proposed changes or         addtions will be included in the final version of the MIP.
 
 ## The MIP Lifecycle
 
