@@ -6,6 +6,7 @@ MIP#: 1
 Title: Governance Paradigms
 Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
 Type: Process
+Tags: process, core, problem-space
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
 Dependencies: n/a

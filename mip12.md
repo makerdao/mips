@@ -6,6 +6,7 @@ MIP#: 12
 Title: Collateral and Risk Parameter Management
 Author(s): Charles St.Louis (@CPSTL) and Rune Christensen (@Rune23) 
 Type: Technical, Process
+Tags: process, collateral-onboarding, oracle-team, risk-team, smart-contracts-team, legal-team
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
 Dependencies: MIP0, MIP3, MIP7, MIP10, MIP11

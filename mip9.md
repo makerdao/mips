@@ -7,6 +7,7 @@ MIP#: 9
 Title: Community Greenlight
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL), Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
+Tags: process, collateral-onboarding
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
 Dependencies: MIP6, MIP8

@@ -2,16 +2,17 @@
 
 
 ## Preamble
-
-    MIP#: 10
-    Title: Oracle Management 
-    Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
-    Type: Process
-    Status: <Assigned by MIP Editor>
-    Date Proposed: 2020-04-06
-    Dependencies: n/a
-    Replaces: n/a
-    
+```
+MIP#: 10
+Title: Oracle Management 
+Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
+Type: Process
+Tags: process, collateral-onboarding, oracles, oracle-team
+Status: <Assigned by MIP Editor>
+Date Proposed: 2020-04-06
+Dependencies: n/a
+Replaces: n/a
+```
 
 ## Summary
 

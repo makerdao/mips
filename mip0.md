@@ -6,6 +6,7 @@ MIP#: 0
 Title: The Maker Improvement Proposal Framework
 Author(s): Charles St.Louis (@CPSTL) and Rune Christensen (@Rune23)
 Type: Process
+Tags: process, core, mip-editor, governance-facilitator
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
 Dependencies: n/a
@@ -219,6 +220,7 @@ MIP#:
 Title:
 Author(s): 
 Type: 
+Tags: 
 Status: <Assigned by MIP Editor>
 Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Dependencies: n/a
@@ -247,6 +249,7 @@ MIP#: <# to be assigned>
 Title: <MIP title>
 Author: <list of authors' names and/or email addresses and GitHub handles>
 Type: MIP Type
+Tags: 
 Status: <Assigned by MIP Editor>
 Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Dependencies: <List of depdendent MIPs>

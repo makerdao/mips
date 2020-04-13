@@ -7,6 +7,7 @@ MIP#: 7
 Title: Onboarding and Offboarding Domain Teams (Collateral Onboarding)
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23), Leo Jsaraceno (Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
+Tags: process, collateral-onboarding, domain-team, risk-team, smart-contracts-team, oracle-team, legal-team, active-list
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
 Dependencies: n/a

@@ -6,6 +6,7 @@ MIP#: 11
 Title: Collateral Onboarding General Risk Model Management
 Author(s): Cyrus Younessi (@DonutJr), Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Type: Process
+Tags: process, collateral-onboarding, risk, risk-team, active-list
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
 Dependencies: MIP0, MIP3, MIP7

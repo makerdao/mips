@@ -6,6 +6,7 @@ MIP#: 5
 Title: Emergency Voting System
 Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
 Type: Process
+Tags: process, core, emergency, governance-facilitator
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
 Dependencies: n/a
