@@ -1,0 +1,120 @@
+# Project information
+site_name: Maker Improvement Proposals
+site_description: Making Maker Better, Step by Step
+site_author: Andy Tudhope
+
+# Specific to set up
+site_url: https://andytudhope.github.io/mips/
+
+# Repository
+repo_name: makerdao/mips
+repo_url: https://github.com/makerdao/mips
+edit_uri: ""
+
+extra_css: [extra.css]
+
+# Configuration
+theme:
+  name: null
+  custom_dir: material
+
+  # 404 page
+  static_templates:
+    - 404.html
+
+  # Don't include MkDocs' JavaScript
+  include_search_page: false
+  search_index_only: true
+
+  # Default values, taken from mkdocs_theme.yml
+  language: en
+  features:
+    - tabs
+    #- instant
+  palette:
+    primary: black
+    accent: lime
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: logo
+  favicon: assets/favicon.png
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/makerdao
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/MakerDAO
+
+# Extensions
+markdown_extensions:
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  # - pymdownx.highlight:
+  #     linenums_style: pymdownx-inline
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: andytudhope
+      repo: mips
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.extra
+  
+
+# Page tree
+nav:
+  - Home: index.md
+  - Status: status.md
+  - Core Governance:
+    - 'MIP Framework': 'core-governance/mip0.md'
+    - 'Governance Paradigms': 'core-governance/mip1.md'
+    - 'Launch Period': 'core-governance/mip2.md'
+    - 'Governance Cycle': 'core-governance/mip3.md'
+    - 'Amendment & Removal': 'core-governance/mip4.md'
+    - 'Emergency Voting System': 'core-governance/mip5.md'
+  - Collateral Onboarding:
+    - 'Onboarding Template': 'collateral-onboarding/mip6.md'
+    - 'Domain Teams': 'collateral-onboarding/mip7.md'
+    - 'Domain Greenlight': 'collateral-onboarding/mip8.md'
+    - 'Community Greenlight': 'collateral-onboarding/mip9.md'
+    - 'Oracle Management': 'collateral-onboarding/mip10.md'
+    - 'General Risk Model': 'collateral-onboarding/mip11.md'
+    - 'Risk Parameter Management': 'collateral-onboarding/mip12.md'
+  - Contributing:
+    - 'Get Started': 'contributing/index.md'
+    - Templates:
+      - 'Process': 'contributing/templates/general.md'
+      - 'Technical': 'contributing/templates/technical.md'
