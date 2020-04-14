@@ -13,6 +13,9 @@ Dependencies: MIP6, MIP8
 Replaces: n/a
 ```
 
+### Components
+**MIP9c1:** The Community Greenlight Requirements and Process  
+**MIP9c2:** Governance Poll Template  
 
 ## Summary
 
@@ -26,13 +29,6 @@ While domain teams are free to choose their own workload, an on-chain governance
 ## Specification / Proposal Details
 
 In this stage, the Governance Facilitator (GF) will create an on-chain governance poll in the template format defined in MIP9c2 and the community will vote with their preferences.
-
-### MIP9 Components
-
-1. **MIP9c1:** The Community Greenlight Requirements and Process
-2. **MIP9c2:** Governance Poll Template 
-
----
 
 ### MIP9c1: The Community Greenlight Requirements and Process
 

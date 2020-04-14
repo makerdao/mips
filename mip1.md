@@ -12,6 +12,11 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+### Components
+**MIP1c1:** Definitions  
+**MIP1c2:** The Initial Problem Space  
+**MIP1c3:** Changing the Problem Space  
+
 ## Summary
 
 A Governance Paradigm is a complete and specific group of MIP Sets that solve an entire problem space. A problem space is defined as a list of issues that must be addressed in order for the Maker Protocol to be able to sustain itself and grow into the future Maker governance.
@@ -23,14 +28,6 @@ The goal of having a defined governance paradigm is to give the community a comp
 It is important at all times to have the best possible estimate of what the long-term problem space list will look like. The current list defined within this MIP represents the problems that the Maker Foundation currently believes need to be addressed in order to enable MakerDAO to become self-sustainable. The expectation is that this list will be changed over time as practical experience of the community is gained. After the ratification of this MIP, the Maker community can use the subproposal process to change the list at any time. Therefore, the problem space list is not permanent. The problem space list serves as a best estimate for the problems the Maker community must solve for over the course of the next few years and is expected to change as more information become available. 
 
 ## Specification / Proposal Details
-
-### MIP1 Components
-
-1. **MIP1c1:** Definitions
-2. **MIP1c2:** The Initial Problem Space
-3. **MIP1c3:** Changing the Problem Space
-
----
 
 ### MIP1c1: Definitions
 
