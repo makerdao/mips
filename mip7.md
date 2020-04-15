@@ -12,6 +12,12 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
+### Components
+**MIP7c1:** Domain Team Descriptions  
+**MIP7c2:** The Current Domain Roles List  
+**MIP7c3:** Domain Team onboarding  
+**MIP7c4:** Domain Team offboarding  
+
 ## Summary
 
 The Domain Teams Onboarding & Offboarding proposal provides a predictable framework for both onboarding and offboarding domain teams required for the collateral onboarding process.
@@ -22,14 +28,6 @@ The Maker Protocol requires a decentralized workforce in order to onboard new co
 
 ## Specification / Proposal Details
 
-### MIP7 Components
-
-1. **MIP7c1:** Domain Team Descriptions
-2. **MIP7c2:** The Current Domain Roles List
-3. **MIP7c3:** Domain Team onboarding
-4. **MIP7c4:** Domain Team offboarding
-
----
 ### MIP7c1: Domain Team Descriptions
 
 

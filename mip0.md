@@ -12,6 +12,19 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+### Components
+**MIP0c1:** Definitions of the Maker Improvement Proposal Framework  
+**MIP0c2:** Three Core Principles  
+**MIP0c3:** The MIP Lifecycle  
+**MIP0c4:** MIP Components and MIP Component Types  
+**MIP0c5:** MIP Replacement Process  
+**MIP0c6:** MIP Templates  
+**MIP0c7:** MIP0 Domain Role Dependencies  
+**MIP0c8:** MIP Editor Election Process  
+**MIP0c9:** MIP Editor Removal Process  
+**MIP0c10:** Governance Facilitator Election Process  
+**MIP0c11:** Governance Facilitator Removal Process  
+
 ## Summary
 
 MIP0 is the genesis proposal describing the MIPs Framework. This includes the core components and statuses as well as the various MIP types and the overall MIP lifecycle. Furthermore, it provides the necessary tools, such as MIP templates, replacement processes, and dependencies. Lastly, the proposal details the key roles of the framework, the MIP Editor and the Governance Facilitator along with the process for adding and removing them.
@@ -30,22 +43,6 @@ In order for MIPs to be functional they need to comply with a basic standard out
 
 
 ## Specification / Proposal Details
-
-
-### MIP0 Components
-1. **MIP0c1:** Definitions of the Maker Improvement Proposal Framework
-2. **MIP0c2:** Core Principles
-3. **MIP0c3:** The MIP Lifecycle
-4. **MIP0c4:** MIP Components and MIP Component Types
-6. **MIP0c5:** MIP Replacement Process
-7. **MIP0c6:** MIP Templates
-8. **MIP0c7:** MIP0 Domain Role Dependencies
-9. **MIP0c8:** MIP Editor Election Process  
-10. **MIP0c9:** MIP Editor Removal Process
-11. **MIP0c10:** Governance Facilitator Election Process
-12. **MIP0c11:** Governance Facilitator Removal Process
-
----
 
 ### MIP0c1: Definitions of the Maker Improvement Proposal Framework
 
@@ -226,7 +223,10 @@ Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Dependencies: n/a
 Replaces: n/a
 ```
-  
+**Components**
+
+A list of components that are included in the specification / proposal details.
+
 **Summary**
 
 A description of what the Maker Improvement Proposal (MIP) is focused on.
@@ -255,6 +255,9 @@ Dependencies: <List of depdendent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
 ```
+**Components**
+
+A list of components that are included in the specification.
 
 **Summary**
 

@@ -13,6 +13,11 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+### Components
+**MIP2c1:** Interim Phase 1  
+**MIP2c2:** Interim Phase 2  
+**MIP2c3:** MIP2 Obsolescence  
+
 ## Summary
 
 This proposal details the process of how Maker Governance can bootstrap the setup and implementation of the first Governance Paradigm. More specifically, it defines two phases: 
@@ -33,14 +38,6 @@ However, these two goals contradict each other in the initial "launch period" wh
 As a result, the community should prioritize getting the initial processes in place that will cover all the critical risks and opportunities that are built as a formalization of existing processes or knowledge in the community and Maker Foundation. Once the initial governance paradigm is in place the community can amend or replace it as necessary to build a more permanent and robust paradigm, taking advantage of the practical knowledge gained in the interim period.
 
 ## Specification / Proposal Details
-
-### MIP2 Components
-
-1. **MIP2c1:** Interim Phase 1
-2. **MIP2c2:** Interim Phase 2
-3. **MIP2c3:** MIP2 Obsolescence 
-
----
 
 ### MIP2c1: Interim Phase 1
 
