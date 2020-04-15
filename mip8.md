@@ -11,6 +11,8 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
+### Components
+**MIP8c1:** The Domain Greenlight Requirements and Process  
 
 ## Summary
 
@@ -23,13 +25,6 @@ The goal of this proposal is to inform the community about the pre-evaluation st
 ## Specification / Proposal Details
 
 In this stage, the domain teams will signal that they believe the collateral type is worth the time to perform a full evaluation in their respective domain. Note that this stage may happen in parallel to the MIP6 process, but communication from the Domain teams should always come within two weeks of the end of the allotted review time for MIP6's collateral onboarding form/forum publication. 
-
-
-### MIP8 Components
-
-1. **MIP8c1:** The Domain Greenlight Requirements and Process
-
----
 
 ### MIP8c1: The Domain Greenlight Requirements and Process
 
