@@ -14,7 +14,7 @@ Replaces: n/a
 
 ### Components
 **MIP0c1:** Definitions of the Maker Improvement Proposal Framework  
-**MIP0c2:** Three Core Principles  
+**MIP0c2:** Core Principles  
 **MIP0c3:** The MIP Lifecycle  
 **MIP0c4:** MIP Components and MIP Component Types  
 **MIP0c5:** MIP Replacement Process  
@@ -70,6 +70,8 @@ In order for MIPs to be functional they need to comply with a basic standard out
 	- This way the primary and best-understood process for each particular behaviour will be fairly available to everyone, without risking having a knowledge gap that makes it possible for some actors with better access to information to use different and potentially better processes
 4. **Clarity:** A MIP must not have equally valid conflicting interpretations. MIP Authors and MIP Editors must strive to reduce ambiguity. A MIP must be as clear and easy to understand as possible.
 	- Any ambiguous MIPs are likely to cause contention or confusion in the future. Making everything as clear as possible also aids readability and helps to mitigate the risk of hidden attacks.
+5. **Brevity:** A MIP must be as short as possible, including only that which is essential given the other core principles.
+	- The shorter MIPs are the more likely participants in governance are to read them in full. This also serves to reduce the surface area for hidden attacks.
 	
 ---
 
