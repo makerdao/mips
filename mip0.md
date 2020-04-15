@@ -12,6 +12,19 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+### Components
+**MIP0c1:** Definitions of the Maker Improvement Proposal Framework  
+**MIP0c2:** Three Core Principles  
+**MIP0c3:** The MIP Lifecycle  
+**MIP0c4:** MIP Components and MIP Component Types  
+**MIP0c5:** MIP Replacement Process  
+**MIP0c6:** MIP Templates  
+**MIP0c7:** MIP0 Domain Role Dependencies  
+**MIP0c8:** MIP Editor Election Process  
+**MIP0c9:** MIP Editor Removal Process  
+**MIP0c10:** Governance Facilitator Election Process  
+**MIP0c11:** Governance Facilitator Removal Process  
+
 ## Summary
 
 MIP0 is the genesis proposal describing the MIPs Framework. This includes the core components and statuses as well as the various MIP types and the overall MIP lifecycle. Furthermore, it provides the necessary tools, such as MIP templates, replacement processes, and dependencies. Lastly, the proposal details the key roles of the framework, the MIP Editor and the Governance Facilitator along with the process for adding and removing them.
@@ -31,22 +44,6 @@ In order for MIPs to be functional they need to comply with a basic standard out
 
 ## Specification / Proposal Details
 
-
-### MIP0 Components
-1. **MIP0c1:** Definitions of the Maker Improvement Proposal Framework
-2. **MIP0c2:** Three Core Principles
-3. **MIP0c3:** The MIP Lifecycle
-4. **MIP0c4:** MIP Components and MIP Component Types
-6. **MIP0c5:** MIP Replacement Process
-7. **MIP0c6:** MIP Templates
-8. **MIP0c7:** MIP0 Domain Role Dependencies
-9. **MIP0c8:** MIP Editor Role  
-10. **MIP0c9:** Governance Facilitator Role
-11. **MIP0c10:** Core Personnel Onboarding
-12. **MIP0c11:** Core Personnel Offboarding
-
----
-
 ### MIP0c1: Definitions of the Maker Improvement Proposal Framework
 
 - **Maker Improvement Proposals (MIPs)** are the preferred mechanism for improving Maker Governance and the Maker Protocol. Through an open and documented process, the goal is to collect as much community feedback as possible and reach the broadest possible consensus on how the Maker Protocol should evolve. A proposal clearly defines how and why Maker Governance or the Maker Protocol should be changed and ensures that this improvement is introduced in a responsible way, respecting the highest quality, security and community standards.
@@ -63,7 +60,7 @@ In order for MIPs to be functional they need to comply with a basic standard out
     
 
 ---
-### MIP0c2: Three Core Principles
+### MIP0c2: Core Principles
 
  1. **Specificity:** A MIP needs to define and address a specific behaviour or single responsibility. MIPs with many different behaviours or responsibilities will not be allowed and must be split up into multiple MIPs.
 	 - This mitigates the risk of having “fine print” or potential attacks hidden in large, complex MIPs.
@@ -71,6 +68,8 @@ In order for MIPs to be functional they need to comply with a basic standard out
 	 - This is important for both understandability, readability and accessibility of MIPs.
 3.  **Avoid overlap:** Multiple MIPs should not implement the same type of behaviour independently. For instance, there should not be two separate but interchangeable ways to do collateral onboarding.
 	- This way the primary and best-understood process for each particular behaviour will be fairly available to everyone, without risking having a knowledge gap that makes it possible for some actors with better access to information to use different and potentially better processes
+4. **Clarity:** A MIP must not have equally valid conflicting interpretations. MIP Authors and MIP Editors must strive to reduce ambiguity. A MIP must be as clear and easy to understand as possible.
+	- Any ambiguous MIPs are likely to cause contention or confusion in the future. Making everything as clear as possible also aids readability and helps to mitigate the risk of hidden attacks.
 	
 ---
 
@@ -224,7 +223,10 @@ Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Dependencies: n/a
 Replaces: n/a
 ```
-  
+**Components**
+
+A list of components that are included in the specification / proposal details.
+
 **Summary**
 
 A description of what the Maker Improvement Proposal (MIP) is focused on.
@@ -253,6 +255,9 @@ Dependencies: <List of depdendent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
 ```
+**Components**
+
+A list of components that are included in the specification.
 
 **Summary**
 

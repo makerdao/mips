@@ -12,6 +12,11 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+### Components
+**MIP6c1:** Process Overview  
+**MIP6c2:** Application Form Template  
+**MIP6c3:** Sub Proposal Framework  
+
 ## Summary
 
 The purpose of this proposal is to standardize the collateral onboarding form/forum template that community members and third-party projects can use to begin the process of getting their collateral onboarded to the Maker Protocol.
@@ -23,14 +28,6 @@ This proposal aims to layout one part of the generalized process for adding coll
 Although this is only one component of the overall collateral onboarding process, this proposed standard would decrease confusion surrounding how to start the process of getting collateral added to the Maker Protocol and ultimately, increase the onboarding speed at which new collateral types can be onboarded.
 
 ## Specification / Proposal Details
-
-### MIP6 Components
-
-1. **MIP6c1:** Process Overview
-2. **MIP6c2:** Application Form Template
-3. **MIP6c3:** Sub Proposal Framework
-
----
 
 ### MIP6c1: Process Overview
 

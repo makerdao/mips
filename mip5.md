@@ -11,6 +11,9 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
+### Components
+**MIP5c1:** Governance Facilitator Emergency Votes  
+**MIP5c2:** An Emergency State Change  
 
 ## Summary
 
@@ -22,13 +25,6 @@ This standard is being proposed in order to allow the community to overcome the 
 
 
 ## Specification / Proposal Details
-
-### MIP5 Components
-
-1. **MIP5c1:** Governance Facilitator Emergency Votes
-2. **MIP5c2:** An Emergency State Change
-
----
 
 ### MIP5c1: Governance Facilitator Emergency Votes
 
