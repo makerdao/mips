@@ -18,6 +18,9 @@ Replaces: n/a
 **MIP7c3:** Domain Team onboarding  
 **MIP7c4:** Domain Team offboarding  
 
+### References
+No referenced materials.
+
 ## Summary
 
 The Domain Teams Onboarding & Offboarding proposal provides a predictable framework for both onboarding and offboarding domain teams required for the collateral onboarding process.

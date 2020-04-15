@@ -17,6 +17,9 @@ Replaces: n/a
 **MIP9c1:** The Community Greenlight Requirements and Process  
 **MIP9c2:** Governance Poll Template  
 
+### References
+No referenced materials.
+
 ## Summary
 
 This proposal aims to standardize the process for allowing MKR Token Holders to inform the Domain Teams of their preferences for collateral types that have been proposed through MIP6. The preferences of the MKR Token holders are expressed in the form of an on-chain governance poll. The governance poll (Greenlight poll) runs at the end of the governance cycle and will run for a period of two weeks.

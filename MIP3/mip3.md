@@ -16,6 +16,9 @@ Replaces: n/a
 **MIP3c1:** Governance Cycle Breakdown  
 **MIP3c2:** Default Inclusion Threshold Modification Subproposals  
 
+### References
+No referenced materials.
+
 ## Summary
 
 This proposal formally introduces a Governance Cycle. The Governance Cycle provides a predictable framework for Maker Governance decisions. Furthermore, it provides participants (MKR holders) with a monthly overview of the decisions that are to be made, allowing participation despite time constraints.

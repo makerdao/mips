@@ -15,6 +15,9 @@ Replaces: n/a
 **MIP5c1:** Governance Facilitator Emergency Votes  
 **MIP5c2:** An Emergency State Change  
 
+### References
+No referenced materials.
+
 ## Summary
 
 This proposal defines an emergency voting system. Emergency votes are executive votes that can be initiated by any community member.

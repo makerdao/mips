@@ -14,6 +14,9 @@ Replaces: n/a
 ### Components
 **MIP8c1:** The Domain Greenlight Requirements and Process  
 
+### References
+No referenced materials.
+
 ## Summary
 
 This proposal aims to define the process where at least one domain team from each domain (Risk, Smart Contracts, Oracles, Legal, etc) "Greenlights" the collateral type (based on research) in order for the collateral onboarding process to proceed.

@@ -24,6 +24,10 @@ Replaces: n/a
 **MIP0c9:** MIP Editor Removal Process  
 **MIP0c10:** Governance Facilitator Election Process  
 **MIP0c11:** Governance Facilitator Removal Process  
+**MIP0c12:** Supporting Materials  
+
+### References
+No referenced materials.
 
 ## Summary
 
@@ -227,6 +231,10 @@ Replaces: n/a
 
 A list of components that are included in the specification / proposal details.
 
+**References**
+
+A list of supporting materials referenced by this MIP.
+
 **Summary**
 
 A description of what the Maker Improvement Proposal (MIP) is focused on.
@@ -258,6 +266,10 @@ License: <added by MIP Author>
 **Components**
 
 A list of components that are included in the specification.
+
+**References**
+
+A list of supporting materials referenced by this MIP.
 
 **Summary**
 
@@ -514,3 +526,13 @@ Removal Form and Supporting Evidence
 	 -  Links to evidence further backing the motivation behind the removal of the Governance Facilitator.
 ```  
 ---
+
+### MIP0c12: Supporting Materials
+
+MIPs can optionally refer to external materials. External Materials must be added to the MIPs github in the same folder as the MIP which references them.
+
+Externally referenced materials are not MIP content, and are not ratified when a MIP becomes Accepted unless it is explicitly stated otherwise in a MIP Component specification.
+
+MIP References are named according to their parent MIP. The convention MIPXrY is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
+
+

@@ -17,6 +17,9 @@ Replaces: n/a
 **MIP4c2:** MIP Amendment Process  
 **MIP4c3:** MIP Removal Process  
 
+### References
+No referenced materials.
+
 ## Summary
 
 The Amendment and Removal Process-MIP outlines the process for very small and relatively superficial changes to MIPs. This MIP Contains two Process Components, the first dealing with the Removal of ratified MIPs, and the second dealing with Amending current active MIPs.

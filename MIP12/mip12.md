@@ -17,6 +17,9 @@ Replaces: n/a
 **MIP12c2:** Proposing New Risk Parameters, Oracles, and Collateral Adapters  
 **MIP12c3:** Collateral Type Checklist (Governance)  
 
+### References
+No referenced materials.
+
 ## Summary
 
 This proposal defines the documentation requirements for the onboarding of a new collateral type to the Maker Protocol, more specifically, the risk teams' objectives and requirements to deliver it in a unified package risk construct.

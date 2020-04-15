@@ -19,6 +19,9 @@
 **MIP10c3:** Process for onboarding  
 **MIP10c4:** Process for offboarding  
 
+### References
+No referenced materials.
+
 ## Summary
 
 This proposal defines the process for onboarding, offboarding and managing oracles.

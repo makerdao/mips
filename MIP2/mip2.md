@@ -18,6 +18,9 @@ Replaces: n/a
 **MIP2c2:** Interim Phase 2  
 **MIP2c3:** MIP2 Obsolescence  
 
+### References
+No referenced materials.
+
 ## Summary
 
 This proposal details the process of how Maker Governance can bootstrap the setup and implementation of the first Governance Paradigm. More specifically, it defines two phases: 
