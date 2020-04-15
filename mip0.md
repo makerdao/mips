@@ -60,7 +60,7 @@ In order for MIPs to be functional they need to comply with a basic standard out
     
 
 ---
-### MIP0c2: Three Core Principles
+### MIP0c2: Core Principles
 
  1. **Specificity:** A MIP needs to define and address a specific behaviour or single responsibility. MIPs with many different behaviours or responsibilities will not be allowed and must be split up into multiple MIPs.
 	 - This mitigates the risk of having “fine print” or potential attacks hidden in large, complex MIPs.
@@ -68,6 +68,8 @@ In order for MIPs to be functional they need to comply with a basic standard out
 	 - This is important for both understandability, readability and accessibility of MIPs.
 3.  **Avoid overlap:** Multiple MIPs should not implement the same type of behaviour independently. For instance, there should not be two separate but interchangeable ways to do collateral onboarding.
 	- This way the primary and best-understood process for each particular behaviour will be fairly available to everyone, without risking having a knowledge gap that makes it possible for some actors with better access to information to use different and potentially better processes
+4. **Clarity:** A MIP must not have equally valid conflicting interpretations. MIP Authors and MIP Editors must strive to reduce ambiguity. A MIP must be as clear and easy to understand as possible.
+	- Any ambiguous MIPs are likely to cause contention or confusion in the future. Making everything as clear as possible also aids readability and helps to mitigate the risk of hidden attacks.
 	
 ---
 
