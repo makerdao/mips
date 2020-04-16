@@ -13,13 +13,21 @@ Dependencies: MIP6, MIP8
 Replaces: n/a
 ```
 
-### Components
-**MIP9c1:** The Community Greenlight Requirements and Process  
-**MIP9c2:** Governance Poll Template  
+## Sentence Summary
 
-## Summary
+MIP9 defines the process by which MKR Token Holders can signal their judgement on the value of a potential collateral type before domain teams spent time fully investigating its inclusion into the Maker Protocol.
+
+## Paragraph Summary
 
 This proposal aims to standardize the process for allowing MKR Token Holders to inform the Domain Teams of their preferences for collateral types that have been proposed through MIP6. The preferences of the MKR Token holders are expressed in the form of an on-chain governance poll. The governance poll (Greenlight poll) runs at the end of the governance cycle and will run for a period of two weeks.
+
+## Component Summary
+
+**MIP9c1: The Community Greenlight Requirements and Process**  
+Defines the process, requirements and possible outcomes from Community Greenlight process and the Governance Facilitators responsibilities in its operation.
+
+**MIP9c2: Governance Poll Template**  
+Defines a governance poll template to be used in the on-chain Community Greenlight poll.
 
 ## Motivation
 

@@ -12,14 +12,24 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-### Components
-**MIP1c1:** Definitions  
-**MIP1c2:** The Initial Problem Space  
-**MIP1c3:** Changing the Problem Space  
+## Sentence Summary
 
-## Summary
+MIP1 defines and describes Governance Paradigms and problem spaces.
+
+## Paragraph Summary
 
 A Governance Paradigm is a complete and specific group of MIP Sets that solve an entire problem space. A problem space is defined as a list of issues that must be addressed in order for the Maker Protocol to be able to sustain itself and grow into the future Maker governance.
+
+## Component Summary
+
+**MIP1c1: Definitions**
+Defines what is meant by a problem space and a Governance Paradigm and describes the processes to change these.
+
+**MIP1c2: The Initial Problem Space**
+Defines an initial list of problems that will need to be solved in order for there to be a complete Governance Paradigm.
+
+**MIP1c3: Changing the Problem Space**
+A process component that provides a method and a template for adjusting the problem space.
 
 ## Motivation
 

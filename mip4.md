@@ -12,14 +12,24 @@ Dependencies: n/a
 Replaces: n/a
   ```
 
-### Components
-**MIP4c1:** Purpose Description  
-**MIP4c2:** MIP Amendment Process  
-**MIP4c3:** MIP Removal Process  
+## Sentence Summary
 
-## Summary
+MIP4 defines processes for the amendment and removal of accepted MIPs.
+
+## Paragraph Summary
 
 The Amendment and Removal Process-MIP outlines the process for very small and relatively superficial changes to MIPs. This MIP Contains two Process Components, the first dealing with the Removal of ratified MIPs, and the second dealing with Amending current active MIPs.
+
+## Component Summary
+
+**MIP4c1: Purpose Description**  
+Suggests the purpose of the amendment and removal processes and possible reasons for using each process.
+
+**MIP4c2: MIP Amendment Process**  
+A process component which defines a method and template for the amendment of an accepted MIP.
+
+**MIP4c3: MIP Removal Process**  
+A process component which defines a method and template for the removal of an accepted MIP.
 
 ## Motivation
 
