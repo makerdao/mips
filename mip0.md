@@ -12,22 +12,48 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-### Components
-**MIP0c1:** Definitions of the Maker Improvement Proposal Framework  
-**MIP0c2:** Core Principles  
-**MIP0c3:** The MIP Lifecycle  
-**MIP0c4:** MIP Components and MIP Component Types  
-**MIP0c5:** MIP Replacement Process  
-**MIP0c6:** MIP Templates  
-**MIP0c7:** MIP0 Domain Role Dependencies  
-**MIP0c8:** MIP Editor Election Process  
-**MIP0c9:** MIP Editor Removal Process  
-**MIP0c10:** Governance Facilitator Election Process  
-**MIP0c11:** Governance Facilitator Removal Process  
+## Sentence Summary
 
-## Summary
+MIP0 defines and describes the MIPs Framework. 
+
+## Paragraph Summary
 
 MIP0 is the genesis proposal describing the MIPs Framework. This includes the core components and statuses as well as the various MIP types and the overall MIP lifecycle. Furthermore, it provides the necessary tools, such as MIP templates, replacement processes, and dependencies. Lastly, the proposal details the key roles of the framework, the MIP Editor and the Governance Facilitator along with the process for adding and removing them.
+
+## Component Summary
+
+**MIP0c1: Definitions of the Maker Improvement Proposal Framework**  
+Defines several concepts that are important for understanding the MIPs process.
+
+**MIP0c2: Core Principles**  
+Discusses some core principles that all MIPs should aim to follow.
+
+**MIP0c3: The MIP Lifecycle**  
+Lays out how a MIP is created and moves through the process to become Accepted or Rejected.
+
+**MIP0c4: MIP Components and MIP Component Types**  
+Discusses the use of components to compartmentalize and organise MIPs
+
+**MIP0c5: MIP Replacement Process**  
+Discusses how MIPs can be replaced and the steps to be taken to maintain dependencies.
+
+**MIP0c6: MIP Templates**  
+Defines the MIP templates for both General and Technical MIPs.
+
+**MIP0c7: MIP0 Domain Role Dependencies**  
+Defines the core roles that the MIPs process requires to operate successfully.
+
+**MIP0c8: MIP Editor Election Process**  
+A process component that defines both the role and the process to elect a new MIP Editor.
+
+**MIP0c9: MIP Editor Removal Process**  
+A process component that defines both the criteria and the process to remove a MIP Editor.
+
+**MIP0c10: Governance Facilitator Election Process**  
+A process component that defines both the role and the process to elect a Governance Facilitator.
+
+**MIP0c11: Governance Facilitator Removal Process**  
+A process component that defines both the criteria and the process to remove a Governance Facilitator.
 
 
 ## Motivation
@@ -225,13 +251,17 @@ Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Dependencies: n/a
 Replaces: n/a
 ```
-**Components**
+**Sentence Summary**
 
-A list of components that are included in the specification / proposal details.
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
 
-**Summary**
+**Paragraph Summary**
 
-A description of what the Maker Improvement Proposal (MIP) is focused on.
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
+
+**Component Summary**
+
+A description of the purpose of each component in the MIP . Suggest 30 words max per component.
 
 **Motivation**
 
@@ -257,13 +287,17 @@ Dependencies: <List of depdendent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
 ```
-**Components**
+**Sentence Summary**
 
-A list of components that are included in the specification.
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
 
-**Summary**
+**Paragraph Summary**
 
-A short description of what the Maker Improvement Proposal (MIP) is focused on.
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
+
+**Component Summary**
+
+A description of the purpose of each component in the MIP . Suggest 30 words max per component.
 
 **Motivation**
 

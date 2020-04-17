@@ -12,14 +12,24 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-### Components
-**MIP6c1:** Process Overview  
-**MIP6c2:** Application Form Template  
-**MIP6c3:** Sub Proposal Framework  
+## Sentence Summary
 
-## Summary
+MIP6 provides an overview of defines a standardised application form used to kick off the process of onboarding a new collateral asset to the Maker Protocol.
+
+## Paragraph Summary
 
 The purpose of this proposal is to standardize the collateral onboarding form/forum template that community members and third-party projects can use to begin the process of getting their collateral onboarded to the Maker Protocol.
+
+## Component Summary
+
+**MIP6c1: Process Overview**  
+Provides an overview of the collateral application form submission process which includes location, involved stakeholders and the next phase.
+
+**MIP6c2: Application Form Template**  
+Provides an collateral application form template to be used in the submission process defined in MIP6c1. 
+
+**MIP6c3: Sub Proposal Framework**  
+A process component that defines a method and template to amend the collateral application form template defined in MIP6c2.
 
 ## Motivation
 

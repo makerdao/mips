@@ -11,13 +11,22 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
-### Components
-**MIP5c1:** Governance Facilitator Emergency Votes  
-**MIP5c2:** An Emergency State Change  
 
-## Summary
+## Sentence Summary
+
+MIP5 defines emergency changes to the protocol and Governance Facilitator role and how they should be handled in practice.
+
+## Paragraph Summary
 
 This proposal defines an emergency voting system. Emergency votes are executive votes that can be initiated by any community member.
+
+## Component Summary
+
+**MIP5c1: Governance Facilitator Emergency Votes**  
+This component addresses the emergency removal of an individual from the Governance Facilitator role.
+
+**MIP5c2: An Emergency State Change**  
+This component addresses emergency state changes to the protocol and how they are to be handled by the Governance Facilitators.
 
 ## Motivation
 

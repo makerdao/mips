@@ -12,15 +12,27 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
-### Components
-**MIP7c1:** Domain Team Descriptions  
-**MIP7c2:** The Current Domain Roles List  
-**MIP7c3:** Domain Team onboarding  
-**MIP7c4:** Domain Team offboarding  
+## Sentence Summary
 
-## Summary
+MIP7 defines processes for onboarding and offboarding domain teams and members of those domain teams.
+
+## Paragraph Summary
 
 The Domain Teams Onboarding & Offboarding proposal provides a predictable framework for both onboarding and offboarding domain teams required for the collateral onboarding process.
+
+## Component Summary
+
+**MIP7c1: Domain Team Descriptions**  
+Describes the various domain teams and their responsibilities as they relate to the collateral onboarding process.
+
+**MIP7c2: The Current Domain Roles List**  
+A list component that is kept up-to-date with the currently ratified domain teams and their members.
+
+**MIP7c3: Domain Team onboarding**  
+A process component that defines a method and a template that allows the onboarding of domain teams and domain team members.
+
+**MIP7c4: Domain Team offboarding**  
+A process component that defines a method and a template that allows the offboarding of domain teams and domain team members.
 
 ## Motivation
 
