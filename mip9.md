@@ -1,11 +1,11 @@
 # MIP9: Community Greenlight
 
-
 ## Preamble
 ```
 MIP#: 9
 Title: Community Greenlight
-Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL), Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
+Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
+Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
