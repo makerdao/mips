@@ -1,15 +1,15 @@
 # MIP2: Launch Period
 
-
 ## Preamble
 ```
 MIP#: 2
 Title: Launch Period
 Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Contributors: @LongForWisdom
 Type: Process
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
-Dependencies: n/a
+Dependencies: MIP0, MIP1
 Replaces: n/a
 ```
 
@@ -51,16 +51,16 @@ As a result, the community should prioritize getting the initial processes in pl
 
 ### MIP2c1: Interim Phase 1
 
-**Interim Phase 1 commences with the ratification of this MIP. During Interim Phase 1, the following logic overrides that defined in MIP0:**
+**Interim Phase 1 commences when the governance timing vote elects that the initial MIPs should proceed with the ratification vote. During Interim Phase 1, the following logic overrides that defined in MIP0:**
 1.  The Feedback Period and Frozen Period defined in MIP0 are ignored for both MIPs and Subproposals.
-2.  Multiple MIPs can be voted in with a single vote.
+2.  Multiple MIPs and Subproposals and can be voted in with a single vote.
 	-  Before the vote, alternatives to the MIPs within the MIP Set can be proposed if they interface correctly with all the other MIPs within the Set.
 
 **During Interim Phase 1, the following additional logic is applied to the MIPs process defined in MIP0:**
-- A single vote approves or rejects all MIPs during phase 1. 
+- A single vote approves or rejects all MIPs and Subproposals during phase 1. 
 - If rejected, MIPs can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
 
-Interim Phase 1 ends when there is a core governance framework in place and a functional collateral onboarding process.
+Interim Phase 1 ends 3 months after there is a formal a core governance framework in place and a functional collateral onboarding process.
 
 ---
 ### MIP2c2: Interim Phase 2
@@ -68,13 +68,13 @@ Interim Phase 1 ends when there is a core governance framework in place and a fu
 Interim Phase 2 commences as Interim Phase 1 ends. 
 
 **During Interim Phase 2, the following logic overrides that defined in MIP0:**
-1.  The Feedback Period and Frozen Period defined in MIP0 are ignored.
+1.  The Feedback Period and Frozen Period defined in MIP0 are ignored for both MIPs and Subproposals.
 
 **During Interim Phase 2, the following additional logic is applied to the MIPs process defined in MIP0:**
 
-1.  The Feedback Period for the MIPs going through the MIPs process is 1 month.
-2.  The Frozen Period for the MIPs going through the MIPs process is 1 week.
-3.  If rejected, MIPs can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
+1.  The Feedback Period for the MIPs and Subproposals going through the MIPs process is 1 month unless otherwise defined to be shorter.
+2.  The Frozen Period for the MIPs and Subproposals going through the MIPs process is 1 week unless otherwise defined to be shorter.
+3.  If rejected, MIPs and Subproposals can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
 
 Interim Phase 2 ends when the Problem Space has been addressed. More specifically, this is when MIP Sets have been ratified that have addressed each problem statement within the Problem Space.
 
