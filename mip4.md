@@ -5,6 +5,7 @@
 MIP#: 4
 Title: MIP Amendment and Removal Process
 Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Contributors: @LongForWisdom
 Type: Process
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
@@ -41,22 +42,25 @@ The motivation behind this proposal is that changing small details to MIPs shoul
 ### MIP4c1: Purpose Description
 
 **Amendments**
--   MIP Amendments that preserve the MIP number can be performed as long as there are no changes to the logic of the MIP or to the MIP's external output dependencies. They should only be used when minor changes are required. The validity of MIP Amendments is ultimately up to the community but possible reasons for amendments could be (but are not limited to): 
-    -   A formatting change
-    -   Typos
-    -   Rewording/clarification
+MIP Amendments that preserve the MIP number can be performed as long as there are no changes to the logic of the MIP or to the MIP's external output dependencies. They should only be used when minor changes are required. 
 
--   MIP Amendments are invalid if, based on the assessment of the community and confirmed by a governance facilitator, are so severe that the changes should be achieved through a MIP replacement instead.
+**Validity**
+The validity of MIP Amendments is ultimately up to the community but possible reasons for amendments could be (but are not limited to): 
+-  A formatting change
+-  Typos
+-  Rewording/clarification
+
+MIP Amendments are invalid if, based on the assessment of the community, the changes are so severe that they should be achieved through a MIP replacement instead.
 
 **Removals**
--   MIP4 also enables the removal of MIPs that are no longer useful. If there are other MIPs that depend on a MIP that is being removed, they must also be removed in the same governance cycle, or the proposal will be invalid.
+MIP4 also enables the removal of MIPs that are no longer useful. If there are other MIPs that depend on a MIP that is being removed, they must also be removed in the same governance cycle, or the proposal will be invalid.
     
 ---
 ### MIP4c2: MIP Amendment Process 
 
- This component details the process of making the amendments.
-- **Feedback Period:** 3 months
-- **Frozen Period:** 1 month
+ This component details the process of making amendments.
+- **Feedback Period:** 1 month
+- **Frozen Period:** 1 week
 - **Template:**
 	- The amendment process follows the same template of the MIP you are proposing an amendment to. 
     
