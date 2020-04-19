@@ -1,11 +1,11 @@
 # MIP9: Community Greenlight
 
-
 ## Preamble
 ```
 MIP#: 9
 Title: Community Greenlight
-Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL), Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
+Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
+Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
 Tags: process, collateral-onboarding
 Status: <Assigned by MIP Editor>
@@ -14,10 +14,21 @@ Dependencies: MIP6, MIP8
 Replaces: n/a
 ```
 
+## Sentence Summary
 
-## Summary
+MIP9 defines the process by which MKR Token Holders can signal their judgement on the value of a potential collateral type before domain teams spent time fully investigating its inclusion into the Maker Protocol.
+
+## Paragraph Summary
 
 This proposal aims to standardize the process for allowing MKR Token Holders to inform the Domain Teams of their preferences for collateral types that have been proposed through MIP6. The preferences of the MKR Token holders are expressed in the form of an on-chain governance poll. The governance poll (Greenlight poll) runs at the end of the governance cycle and will run for a period of two weeks.
+
+## Component Summary
+
+**MIP9c1: The Community Greenlight Requirements and Process**  
+Defines the process, requirements and possible outcomes from Community Greenlight process and the Governance Facilitators responsibilities in its operation.
+
+**MIP9c2: Governance Poll Template**  
+Defines a governance poll template to be used in the on-chain Community Greenlight poll.
 
 ## Motivation
 
@@ -27,13 +38,6 @@ While domain teams are free to choose their own workload, an on-chain governance
 ## Specification / Proposal Details
 
 In this stage, the Governance Facilitator (GF) will create an on-chain governance poll in the template format defined in MIP9c2 and the community will vote with their preferences.
-
-### MIP9 Components
-
-1. **MIP9c1:** The Community Greenlight Requirements and Process
-2. **MIP9c2:** Governance Poll Template 
-
----
 
 ### MIP9c1: The Community Greenlight Requirements and Process
 

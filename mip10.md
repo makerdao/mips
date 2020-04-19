@@ -14,24 +14,33 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-## Summary
+## Sentence Summary
+
+MIP10 defines how oracles are onboarded, offboarded and managed in order to support the collateral onboarding process.
+
+## Paragraph Summary
 
 This proposal defines the process for onboarding, offboarding and managing oracles.
+
+## Component Summary
+
+**MIP10c1: Oracle Onboarding**  
+Defines a process for onboarding new oracles into the Maker Protocol.
+
+**MIP10c2: List of Active Oracle Data Models**  
+A list component that is kept up-to-date with the currently active oracle data models.
+
+**MIP10c3: Process for onboarding**  
+A process component that defines the method and template to be used to onboard new oracles for collateral assets.
+
+**MIP10c4: Process for offboarding**  
+A process component that defines the method and template to be used to offboard oracles in the case they have become obsolete or otherwise undesireable.
 
 ## Motivation
 
 In the Maker Protocol, every collateral type has a corresponding Oracle that publishes a reference price that the protocol utilizes. Therefore, the Oracle requirements must be laid out in detail for the collateral onboarding process. Governance may also choose to create Oracles for non-collateral assets for use by 3rd parties.
 
 ## Specification / Proposal Details
-
-### MIP10 Components
-
-1. **MIP10c1:** Oracle Onboarding
-2. **MIP10c2:** List of Active Oracle Data Models
-3. **MIP10c3:** Process for onboarding
-4. **MIP10c4:** Process for offboarding
-
----
 
 ### MIP10c1: Oracle Onboarding
 

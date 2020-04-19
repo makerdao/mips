@@ -13,9 +13,22 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-## Summary
+## Sentence Summary
+
+MIP3 defines a monthly Governance Cycle with the aim of providing a predictable framework for Maker governance decisions.
+
+## Paragraph Summary
 
 This proposal formally introduces a Governance Cycle. The Governance Cycle provides a predictable framework for Maker Governance decisions. Furthermore, it provides participants (MKR holders) with a monthly overview of the decisions that are to be made, allowing participation despite time constraints.
+
+## Component Summary
+
+**MIP3c1: Governance Cycle Breakdown**  
+Breaks the Governance Cycle down into the actions that take place each week of the monthly cycle. 
+
+**MIP3c2: Default Inclusion Threshold Modification Subproposals**  
+A process component that defines a method and template for the modification of the default inclusion threshold.
+
 
 ## Motivation
 
@@ -24,12 +37,6 @@ The goal of the standardized monthly governance cycle is to provide advance noti
 The structure of the governance cycle enables active governance participants to join the discussion at the proposal submission level from the beginning of the month, while less active governance participants can simply review the end results at the end of the month and decide whether or not to vote for the final executive vote.
 
 ## Specification / Proposal Details
-
-### MIP3 Components
-
-1. **MIP3c1:** Governance Cycle Breakdown
-2. **MIP3c2:** Default Inclusion Threshold Modification Subproposals
----
 
 ### MIP3c1: Governance Cycle Breakdown
 
