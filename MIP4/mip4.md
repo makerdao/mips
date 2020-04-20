@@ -13,6 +13,9 @@ Dependencies: n/a
 Replaces: n/a
   ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP4 defines processes for the amendment and removal of accepted MIPs.

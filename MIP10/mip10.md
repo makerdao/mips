@@ -13,6 +13,9 @@
     Replaces: n/a
     
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP10 defines how oracles are onboarded, offboarded and managed in order to support the collateral onboarding process.

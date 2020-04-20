@@ -12,6 +12,9 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP8 defines the process by which domain teams signal that a potential collateral type is worth the time spent investigating its inclusion in the Maker Protocol.

@@ -12,6 +12,10 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
+
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP7 defines processes for onboarding and offboarding domain teams.
