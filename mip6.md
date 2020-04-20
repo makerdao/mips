@@ -4,7 +4,8 @@
 ```
 MIP#: 6
 Title: Collateral onboarding form/forum template
-Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23), Leo Jsaraceno (Mitote), Helge Andreas Qvam (@planet_X)
+Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
+Contributors: @LongForWisdom, Leo Jsaraceno (Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
 Status: <Assigned by MIP Editor>
 Date Proposed: 2020-04-06
@@ -12,14 +13,24 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-### Components
-**MIP6c1:** Process Overview  
-**MIP6c2:** Application Form Template  
-**MIP6c3:** Sub Proposal Framework  
+## Sentence Summary
 
-## Summary
+MIP6 provides an overview of defines a standardised application form used to kick off the process of onboarding a new collateral asset to the Maker Protocol.
+
+## Paragraph Summary
 
 The purpose of this proposal is to standardize the collateral onboarding form/forum template that community members and third-party projects can use to begin the process of getting their collateral onboarded to the Maker Protocol.
+
+## Component Summary
+
+**MIP6c1: Process Overview**  
+Provides an overview of the collateral application form submission process which includes location, involved stakeholders and the next phase.
+
+**MIP6c2: Application Form Template**  
+Provides an collateral application form template to be used in the submission process defined in MIP6c1. 
+
+**MIP6c3: Sub Proposal Framework**  
+A process component that defines a method and template to amend the collateral application form template defined in MIP6c2.
 
 ## Motivation
 
@@ -35,14 +46,16 @@ Although this is only one component of the overall collateral onboarding process
 1.  Fill out the application/questions in as much detail as you’re willing.
     
 
-	-   Once filled out, the application must be published on the official MakerDAO forum and should be posted within the Collateral Discussion subcategory within the Risk category.
-	-   This post should have the tag ‘collateral-app’
+	-   Once filled out, the application must be published on the official MakerDAO forum and should be posted within the `Collateral Onboarding App` subcategory within the `Maker Improvement Proposals` category.
+	-   This post should have the tag `collateral-app`.
 	-   Note that an 'interested party' refers to anybody willing to act as a stakeholder for this onboarding process.
     
 
 2.  After the submission on the forum, the community will likely have follow up questions. While not a requirement, answering questions about your project may help generate support or excitement for the proposed collateral type. Additionally, the interested party may organize an optional call to pitch their proposal as well as open up further discussion to the community. 
     
-3.  Once the application has been submitted to the forum, it is eligible for Domain team review and can, therefore, move forward in the collateral onboarding process.
+3.  Once the application has been submitted to the forum, it is eligible for Domain Greenlight as defined in MIP8.
+
+4.  After two weeks of discussion have passed, and Domain Greenlight (MIP8) has been completed, the application is eligible to move to the Community Greenlight poll defined in MIP9.
     
 
 ### Overall Process Overview Diagram
@@ -57,16 +70,16 @@ Responses to these questions serve as an introduction to the community, this min
 **The suggested application questions are as follows:**
 
 1. Who is the interested party for this collateral application?
-2. Provide a brief high-level overview of the project, with a focus on the applying collateral token
-3. Provide a brief history of the project
+2. Provide a brief high-level overview of the project, with a focus on the applying collateral token.
+3. Provide a brief history of the project.
 4. Link the whitepaper, documentation portals, and source code for the system(s) that interact with the proposed collateral, and all relevant Ethereum addresses. If the system is complex, schematic(s) are especially appreciated.
 5. Link any available audits of the project. Both procedural and smart contract focused audits. 
 6. Link to any active communities relating to your project.
 7. How is the applying collateral type currently used?
 8. Does one organization bear legal responsibility for the collateral? What jurisdiction does that organization reside in?
 9. Where does exchange for the asset occur?
-10. (Determined by Legal Domain Team) Has your project obtained any legal opinions or memoranda regarding the regulatory standing of the token or an explanation of the same from the perspective of any jurisdiction? If so, those materials should be provided for community review.
-11. (Determined by Legal Domain Team) Describe whether there are any regulatory registrations for the token and provide related documentation (including an explanation of any past or existing interactions with any regulatory authorities, regardless of jurisdiction), if applicable.
+10. (Optional) Has your project obtained any legal opinions or memoranda regarding the regulatory standing of the token or an explanation of the same from the perspective of any jurisdiction? If so, those materials should be provided for community review.
+11. (Optional) Describe whether there are any regulatory registrations for the token and provide related documentation (including an explanation of any past or existing interactions with any regulatory authorities, regardless of jurisdiction), if applicable.
 12. (Optional) List any possible oracle data sources for the proposed Collateral type.
 13. (Optional) List any parties interested in taking part in liquidations for the proposed Collateral type.
 
@@ -83,14 +96,9 @@ MIP6-SPs will be used to define changes to the required fields of this collatera
 In order to submit a MIP6-Subproposals, one must create a MIP from the provided template.
 
 **MIP6-SP Template:**  
-
-- **Feedback Period**: 3 months
-
-- **Frozen Period**: 1 months
-
+- **Feedback Period**: 1 month
+- **Frozen Period**: 1 week
 - **Sub Proposal Template**:
-
-
 
 
 ```
@@ -106,11 +114,9 @@ Introduction
 
 Specification 
 
-  - Summary
-    - A short description of the proposed process improvement.
-
   - Motivation
-    - Explain the motivation behind why this subproposal necessary.
+    - Explain the motivation behind the changes to the application questions.
+    
+  - List of changes to Application questions.
 
- - Proposal Details
-    - Proposal details about why MIP6 needs to be changed. The specification section should highlight the Feedback Period of the proposal MIP and the scope of what the MIP should contain. It must also describe exactly what you will put in the SP based on the parent MIP.
+```

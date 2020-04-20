@@ -11,15 +11,24 @@ Date Proposed: 2020-04-06
 Dependencies: MIP0, MIP3, MIP7, MIP10, MIP11
 Replaces: n/a
 ```  
+## Sentence Summary
 
-### MIP11 Components
-**MIP12c1:** Domain Team Requirements for Onboarding Collateral Type to the Maker Protocol  
-**MIP12c2:** Proposing New Risk Parameters, Oracles, and Collateral Adapters  
-**MIP12c3:** Collateral Type Checklist (Governance)  
+MIP12 defines the domain team and documentation requirements for adding or changing collateral packages in the Maker Protocol.
 
-## Summary
+## Paragraph Summary
 
 This proposal defines the documentation requirements for the onboarding of a new collateral type to the Maker Protocol, more specifically, the risk teams' objectives and requirements to deliver it in a unified package risk construct.
+
+## Component Summary
+
+**MIP12c1: Domain Team Requirements for Onboarding Collateral Type to the Maker Protocol**  
+Lists the required and optional domain teams involved in onboarding a collateral type to the Maker Protocol.
+
+**MIP12c2: Proposing New Risk Parameters, Oracles, and Collateral Adapters**  
+A process component that defines a method, a template and the requirements for proposing new risk parameters, oracles or collateral adaptors.
+
+**MIP12c3: Collateral Type Checklist (Governance)**  
+Defines a checklist of actions that must be completed before and after governance approval of a collateral type.
 
 ## Motivation
 
