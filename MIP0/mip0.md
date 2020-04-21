@@ -5,9 +5,11 @@
 MIP#: 0
 Title: The Maker Improvement Proposal Framework
 Author(s): Charles St.Louis (@CPSTL) and Rune Christensen (@Rune23)
+Contributors: @LongForWisdom
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -39,26 +41,30 @@ Discusses the use of components to compartmentalize and organise MIPs
 **MIP0c5: MIP Replacement Process**  
 Discusses how MIPs can be replaced and the steps to be taken to maintain dependencies.
 
-**MIP0c6: MIP Templates**  
+**MIP0c6: Supporting Materials**
+A component that defines how to include external materials inside MIPs.
+
+**MIP0c7: MIP Templates**  
 Defines the MIP templates for both General and Technical MIPs.
 
-**MIP0c7: MIP0 Domain Role Dependencies**  
+**MIP0c8: MIP0 Domain Role Dependencies**  
 Defines the core roles that the MIPs process requires to operate successfully.
 
-**MIP0c8: MIP Editor Role**  
+**MIP0c9: Core Personnel Role List**  
+List of of personnel currently occupying core roles.
+
+**MIP0c10: MIP Editor Role**  
 A component that defines the responsibilities, criteria and grounds for removal of the MIP Editor role.
 
-**MIP0c9: Governance Facilitator Role**  
+**MIP0c11: Governance Facilitator Role**  
 A component that defines the responsibilities, criteria and grounds for removal of the Governance Facilitator role.
 
-**MIP0c10: Core Personnel Onboarding**  
+**MIP0c12: Core Personnel Onboarding**  
 A process component that defines the process to add personnel to the MIP Editor or Governance Facilitator roles.
 
-**MIP0c11: Core Personnel Offboarding**  
+**MIP0c13: Core Personnel Offboarding**  
 A process component that defines the process to remove personnel from the MIP Editor or Governance Facilitator roles.
 
-**MIP0c12: Supporting Materials**
-A component that defines how to include external materials inside MIPs.
 
 ## Motivation
 
@@ -190,24 +196,8 @@ A status change for a MIP is requested by the MIP Author and will be reviewed by
 - MIP components are categorized by types, depending on what kind of logic they contain. MIP components are named by their parent MIP. The abbreviation convention MIPXcY is used to refer to these components (as seen in this document).
 - A MIP component has one type or no types. 
 
-Note: MIP0's MIP Components are introduced at the beginning of the **Specification** section. 
 
 **Component Types**
-
--   **Technical MIP Components**  
-      
-    **Summary:** The purpose of technical MIP components is to perform state changes to the Maker Protocol.  
-    **Specific Template:** Technical MIPs are based on the General MIP Template but must include the following additional information in their specification section:  
-	-   **Proposed Code**
-		-   Audited, final code that can be used directly in the executive vote to accept or reject the MIP.
-	-   **Test Cases**
-		-   Test cases for the implementation or testing of the proposed code
-	-   **Security Considerations**
-		-   The purpose of this section is to proactively document any security-relevant design information, decisions, potential failure modes, implementation details, and important discussions related to the proposed change.
-		-   Backwards compatibility
-	-   **Auditor Information and Report**
-		-   This section includes the audit partner details and the final audit report for the proposed code.
-	-   **License**
     
 -   **Process MIP Component**  
       
@@ -240,7 +230,17 @@ Due to the fact that the dependencies carry over, a MIP with defined replacement
 
 ---
 
-### MIP0c6: MIP Templates
+### MIP0c6: Supporting Materials
+
+MIPs can optionally refer to external materials. External Materials must be added to the MIPs github in the same folder as the MIP which references them.
+
+Externally referenced materials are not MIP content, and are not ratified when a MIP becomes Accepted unless it is explicitly stated otherwise in a MIP Component specification.
+
+MIP References are named according to their parent MIP. The convention MIPXrY is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
+
+---
+
+### MIP0c7: MIP Templates
 
 **General MIP Template**
 
@@ -318,7 +318,7 @@ A short description of the motivation behind the proposed technical solution.
 
 **Specification**
 
-The details of the proposed technical solution. The specification should be detailed enough to allow an implementation team to begin development as well as testing.
+The details of the proposed technical solution. The specification should be detailed enough to allow an implementation team to begin development as well as testing. The specification for technical MIPs must  include the following components:
 
 
 - **Proposed Code:**
@@ -347,7 +347,7 @@ The details of the proposed technical solution. The specification should be deta
     
 ---    
 
-### MIP0c7: MIP0 Domain Role Dependencies
+### MIP0c8: MIP0 Domain Role Dependencies
 
 
 The MIPs Framework depends on these types of Domain Roles:
@@ -366,8 +366,30 @@ Personnel may be added to these roles using a MIP0c10 sub-proposal.
 Personnel may be removed from these roles using a MIP0c11 sub-proposal.
 
 ---
+### MIP0c9: Core Personnel Role List 
 
-### MIP0c8: MIP Editor Role  
+This list can be amended through the core personnel onboarding (MIP0c12) and offboarding components (MIP0c13) of MIP0.
+
+Entries into this list should follow the following template:
+
+```
+- Person Name: The name of the person in the core role.
+- Sub-proposal Number (MIP0c12-SP): #
+- Core Role: The core role in which the person operates.
+- Date Added: <date in (yyyy-mm-dd) format>
+```
+
+**Active Core Personnel List:**
+
+
+**Person Name:** Richard Brown
+**Sub-proposal Number (MIP0c12-SP):** N/A
+**Core Role:** Governance Facilitator
+**Date Added:** ???
+
+---
+
+### MIP0c10: MIP Editor Role  
 
 
 **Responsibilities**
@@ -376,6 +398,7 @@ The MIP Editor enforces the administrative and editorial aspects of the overall 
 -   Maintain and manage mips.makerdao.com.
 -   Provide feedback and have discussions in the MIP section of forum.makerdao.com (ex: helping vet proposal ideas).
 -   MIPs processing.
+-   Management and organization of MIP and Subproposal Preambles. 
 -   Onboard and vet new MIP Editors.
 -   Enforcing the proper MIPs process with responsibilities such as:
     -   Confirm that the title accurately describes the content of the proposal.
@@ -427,8 +450,9 @@ The removal process begins once the community has agreed on the reasoning for re
 -   RocketChat
 -   Forums
 
+---
 
-### MIP0c9: Governance Facilitator Role
+### MIP0c11: Governance Facilitator Role
 
 **Responsibilities**
 
@@ -460,7 +484,9 @@ The removal process begins once the community has agreed on the reasoning for re
 -   RocketChat
 -   Forums
 
-### MIP0c10: Core Personnel Onboarding
+---
+
+### MIP0c12: Core Personnel Onboarding
 
 **A MIP0 Sub Proposal is required to onboard core personnel**
 
@@ -494,7 +520,7 @@ Application Form
 ```
 ---
 
-### MIP0c11: Core Personnel Offboarding
+### MIP0c13: Core Personnel Offboarding
 
 **A MIP0 Sub Proposal is required to remove core personnel**
 
@@ -520,13 +546,3 @@ Removal Form and Supporting Evidence
 	 -  Links to evidence further backing the motivation behind the removal of the person from the role given above.
 ```  
 ---
-
-### MIP0c12: Supporting Materials
-
-MIPs can optionally refer to external materials. External Materials must be added to the MIPs github in the same folder as the MIP which references them.
-
-Externally referenced materials are not MIP content, and are not ratified when a MIP becomes Accepted unless it is explicitly stated otherwise in a MIP Component specification.
-
-MIP References are named according to their parent MIP. The convention MIPXrY is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
-
-
