@@ -462,7 +462,7 @@ The removal process begins once the community has agreed on the reasoning for re
 
 ### MIP0c10: Core Personnel Onboarding
 
-**MIP Editor Election Subproposal**
+**A MIP0 Sub Proposal is required to onboard core personnel**
 
 -   **Subproposal Feedback Period**: 3 months
 -   **Sub proposal Frozen Period**: 1 month
@@ -496,7 +496,7 @@ Application Form
 
 ### MIP0c11: Core Personnel Offboarding
 
-**A MIP0 Sub Proposal is required to remove a Governance Facilitator**
+**A MIP0 Sub Proposal is required to remove core personnel**
 
 -   **Sub proposal Feedback Period**: 0 days
 -   **Sub proposal Frozen Period**: 0 days
