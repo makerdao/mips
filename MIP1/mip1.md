@@ -13,6 +13,9 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP1 defines and describes Governance Paradigms and problem spaces.

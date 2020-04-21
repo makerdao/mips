@@ -13,6 +13,9 @@ Dependencies: MIP0, MIP1
 Replaces: n/a
 ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP2 details two interim phases during which logic defined in MIP0 is overriden.

@@ -11,6 +11,10 @@ Date Proposed: 2020-04-06
 Dependencies: MIP0, MIP3, MIP7, MIP10, MIP11
 Replaces: n/a
 ```  
+
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP12 defines the domain team and documentation requirements for adding or changing collateral packages in the Maker Protocol.

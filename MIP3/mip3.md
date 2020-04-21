@@ -12,6 +12,9 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP3 defines a monthly Governance Cycle with the aim of providing a predictable framework for Maker governance decisions.

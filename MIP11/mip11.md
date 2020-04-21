@@ -11,6 +11,10 @@ Date Proposed: 2020-04-06
 Dependencies: MIP0, MIP3, MIP7
 Replaces: n/a
 ```
+
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP11 defines the requirements of general risk models and how they are onboarded to and offboarded from the Maker Protocol.

@@ -11,6 +11,8 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
+## References
+No referenced materials.
 
 ## Sentence Summary
 
@@ -55,6 +57,8 @@ A process component that defines both the role and the process to elect a Govern
 **MIP0c11: Governance Facilitator Removal Process**  
 A process component that defines both the criteria and the process to remove a Governance Facilitator.
 
+**MIP0c12: Supporting Materials**
+A component that defines how to include external materials inside MIPs.
 
 ## Motivation
 
@@ -251,6 +255,10 @@ Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Dependencies: n/a
 Replaces: n/a
 ```
+**References**
+
+A list of supporting materials referenced by this MIP.
+
 **Sentence Summary**
 
 A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
@@ -287,6 +295,10 @@ Dependencies: <List of depdendent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
 ```
+**References**
+
+A list of supporting materials referenced by this MIP.
+
 **Sentence Summary**
 
 A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
@@ -298,6 +310,7 @@ A description of what the Maker Improvement Proposal (MIP) is focused on. Sugges
 **Component Summary**
 
 A description of the purpose of each component in the MIP . Suggest 30 words max per component.
+
 
 **Motivation**
 
@@ -550,3 +563,13 @@ Removal Form and Supporting Evidence
 	 -  Links to evidence further backing the motivation behind the removal of the Governance Facilitator.
 ```  
 ---
+
+### MIP0c12: Supporting Materials
+
+MIPs can optionally refer to external materials. External Materials must be added to the MIPs github in the same folder as the MIP which references them.
+
+Externally referenced materials are not MIP content, and are not ratified when a MIP becomes Accepted unless it is explicitly stated otherwise in a MIP Component specification.
+
+MIP References are named according to their parent MIP. The convention MIPXrY is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
+
+

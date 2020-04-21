@@ -13,6 +13,9 @@ Dependencies: MIP6, MIP8
 Replaces: n/a
 ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP9 defines the process by which MKR Token Holders can signal their judgement on the value of a potential collateral type before domain teams spent time fully investigating its inclusion into the Maker Protocol.

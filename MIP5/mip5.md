@@ -13,6 +13,9 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP5 defines emergency changes to the protocol and Governance Facilitator role and how they should be handled in practice.

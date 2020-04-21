@@ -13,6 +13,9 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
+## References
+No referenced materials.
+
 ## Sentence Summary
 
 MIP6 provides an overview of defines a standardised application form used to kick off the process of onboarding a new collateral asset to the Maker Protocol.
