@@ -4,7 +4,7 @@
 ```
 MIP#: 0
 Title: The Maker Improvement Proposal Framework
-Author(s): Charles St.Louis (@CPSTL) and Rune Christensen (@Rune23)
+Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom
 Type: Process
 Status: Request for Comments (RFC)
@@ -82,7 +82,7 @@ In order for MIPs to be functional they need to comply with a basic standard out
 
 ### MIP0c1: Definitions of the Maker Improvement Proposal Framework
 
-- **Maker Improvement Proposals (MIPs)** are the preferred mechanism for improving Maker Governance and the Maker Protocol. Through an open and documented process, the goal is to collect as much community feedback as possible and reach the broadest possible consensus on how the Maker Protocol should evolve. A proposal clearly defines how and why Maker Governance or the Maker Protocol should be changed and ensures that this improvement is introduced in a responsible way, respecting the highest quality, security and community standards.
+- **Maker Improvement Proposals (MIPs):** are the preferred mechanism for improving Maker Governance and the Maker Protocol. Through an open and documented process, the goal is to collect as much community feedback as possible and reach the broadest possible consensus on how the Maker Protocol should evolve. A proposal clearly defines how and why Maker Governance or the Maker Protocol should be changed and ensures that this improvement is introduced in a responsible way, respecting the highest quality, security and community standards.
 -   **MIP0:** The genesis MIP defining the MIPs framework. This MIP defines all of the processes that are required for the implementation of future MIPs. 
 -   **MIP Sets:** A MIP set is a group of several MIPs that are interdependent, in which without the entire set of MIPs existing, one or more MIPs in the Set become inconsistent, invalid or nonsensical. The intention is for MIP sets to together describe a single complex behaviour in such a way that allows each individual MIP to be written following the principle of Specificity but work together as a cohesive modular whole.
 -   **MIP Types:** MIPs are separated into a number of types, and each type has its own list of MIPs and processes.
@@ -142,16 +142,16 @@ In order for MIPs to be functional they need to comply with a basic standard out
 
 **4. Fulfilled Feedback Period Requirements:** This status is given once the MIP has fulfilled the defined Feedback Period and Frozen Period. After the MIP has waited out its Feedback Period and Frozen Period, it’s ready for Formal Submission. Note that the Feedback Period and Frozen Period can overlap.
 
-**5. Formal Submission (FS)** - This phase is when MIP Authors submit their complete MIP(s) to the Governance cycle by posting it to the formal submission forum category within the formal submission window of a governance cycle.
+**5. Formal Submission (FS):** This phase is when MIP Authors submit their complete MIP(s) to the Governance cycle by posting it to the formal submission forum category within the formal submission window of a governance cycle.
     - A MIP can be re-submitted to the formal submission process a maximum of 2 additional times (3 total), without having to go through phase 1- 4 again, if it failed to pass due to legitimate external reasons (e.g. got bundled in a governance poll or executive vote with a controversial proposal - subject to the governance facilitators judgement).
   
 
-**6. Approved by the Governance Facilitator(s)**: This phase is when the MIP must be formally approved by the Governance Facilitators.   
+**6. Approved by the Governance Facilitator(s):** This phase is when the MIP must be formally approved by the Governance Facilitators.   
 
 - Once approved by the Governance Facilitator, the MIP will be included in the inclusion poll of the Governance cycle.
 - If the MIP is not approved by the Governance Facilitator, it may be reconsidered at a later date to enter the Governance cycle. 
     
-**7. Governance Cycle**: This phase is when MKR holders vote on whether to include the MIP in the governance poll, ultimately determining whether or not the MIP can formally enter the governance cycle.
+**7. Governance Cycle:** This phase is when MKR holders vote on whether to include the MIP in the governance poll, ultimately determining whether or not the MIP can formally enter the governance cycle.
 - Once approved for the governance poll, MKR holders determine whether to accept or reject the package of proposals in the governance poll and finally to ratify the result in the executive vote.  
 
 **8. Executive Vote:** This phase is when the MIP becomes officially ratified or not. Determined by MKR holders, the executive vote ultimately accepts or rejects the MIP.  
@@ -164,15 +164,15 @@ In order for MIPs to be functional they need to comply with a basic standard out
 **Other MIP Statuses:**  
      
 
-**Withdrawn**: when a MIP Author withdraws their MIP proposal, such as when:
+**Withdrawn:** when a MIP Author withdraws their MIP proposal, such as when:
 
  - A MIP may be withdrawn at any point before it enters the Governance cycle. 
  - Note that a withdrawn proposal can be taken over from the original Author with a simple transition facilitated by a MIP Editor(s) and the respective parties. If the original MIP Author ceases to be available, the MIP Editor(s) may proceed with the transfer of Authors.
 
-**Deferred**: when a proposal has been deemed as not ready or not a priority but can be re-proposed at a later date.
+**Deferred:** when a proposal has been deemed as not ready or not a priority but can be re-proposed at a later date.
 -   Request for Comments (RFC) - Forum poll/signal request rejects a MIP Proposal.
 
-**Obsolete**: when a proposal is no longer used or is out of date, such as:
+**Obsolete:** when a proposal is no longer used or is out of date, such as:
     
 -   A MIP is replaced with a new proposal.
 -   A MIP has been deferred for over 6 months.
@@ -249,9 +249,11 @@ MIP References are named according to their parent MIP. The convention MIPXrY is
 MIP#:
 Title:
 Author(s): 
+Contributors:
 Type: 
 Status: <Assigned by MIP Editor>
 Date Proposed: <date created on, in (yyyy-mm-dd) format>
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -288,9 +290,11 @@ Proposed process standard details - describes the new process or feature and the
 MIP#: <# to be assigned>
 Title: <MIP title>
 Author: <list of authors' names and/or email addresses and GitHub handles>
+Contributors:
 Type: MIP Type
 Status: <Assigned by MIP Editor>
 Date Proposed: <date created on, in (yyyy-mm-dd) format>
+Date Ratified: <yyyy-mm-dd>
 Dependencies: <List of depdendent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
@@ -374,18 +378,22 @@ Entries into this list should follow the following template:
 
 ```
 - Person Name: The name of the person in the core role.
-- Sub-proposal Number (MIP0c12-SP): #
-- Core Role: The core role in which the person operates.
-- Date Added: <date in (yyyy-mm-dd) format>
+	- Sub-proposal Number (MIP0c12-SP): #
+	- Core Role: The core role in which the person operates.
+	- Date Added: <date in (yyyy-mm-dd) format>
 ```
 
 **Active Core Personnel List:**
 
+1. **Governance Facilitators:** 
 
-**Person Name:** Richard Brown
-**Sub-proposal Number (MIP0c12-SP):** N/A
-**Core Role:** Governance Facilitator
-**Date Added:** ???
+- **Person Name:** Richard Brown
+    - **Sub-proposal Number (MIP0c12-SP):** N/A (Governance Facilitator was ratified prior to the MIPs process. Reference: [Mandate: Interim Governance Facilitators](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264))
+    - **Core Role:** Governance Facilitator
+    - **Date Added:** 2019-09-09 ([Poll: Ratify the Interim Governance Facilitator Mandate](https://vote.makerdao.com/polling-proposal/qmvh4z3l5ymqgtfs6tifq3jpjx5mxgdfnjy6alewnwwvba))
+
+2. **MIP Editors:**
+- There are no active MIP Editors at this point in time. 
 
 ---
 
