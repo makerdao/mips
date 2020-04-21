@@ -45,17 +45,17 @@ Defines the MIP templates for both General and Technical MIPs.
 **MIP0c7: MIP0 Domain Role Dependencies**  
 Defines the core roles that the MIPs process requires to operate successfully.
 
-**MIP0c8: MIP Editor Election Process**  
-A process component that defines both the role and the process to elect a new MIP Editor.
+**MIP0c8: MIP Editor Role**  
+A component that defines the responsibilities, criteria and grounds for removal of the MIP Editor role.
 
-**MIP0c9: MIP Editor Removal Process**  
-A process component that defines both the criteria and the process to remove a MIP Editor.
+**MIP0c9: Governance Facilitator Role**  
+A component that defines the responsibilities, criteria and grounds for removal of the Governance Facilitator role.
 
-**MIP0c10: Governance Facilitator Election Process**  
-A process component that defines both the role and the process to elect a Governance Facilitator.
+**MIP0c10: Core Personnel Onboarding**  
+A process component that defines the process to add personnel to the MIP Editor or Governance Facilitator roles.
 
-**MIP0c11: Governance Facilitator Removal Process**  
-A process component that defines both the criteria and the process to remove a Governance Facilitator.
+**MIP0c11: Core Personnel Offboarding**  
+A process component that defines the process to remove personnel from the MIP Editor or Governance Facilitator roles.
 
 **MIP0c12: Supporting Materials**
 A component that defines how to include external materials inside MIPs.
@@ -361,16 +361,22 @@ The MIPs Framework depends on these types of Domain Roles:
 -   **Specific authority of the Governance Facilitator in MIP0 processes:**
 
 	-   Consensus from all governance facilitators controls phase 6 of the MIP lifecycle, which allows them to, with consensus, add valid MIPs to the inclusion poll of the next governance cycle, moving them from phase 5 (formal submission) to phase 7 (governance cycle).
-	
+
+Personnel may be added to these roles using a MIP0c10 sub-proposal.
+Personnel may be removed from these roles using a MIP0c11 sub-proposal.
+
 ---
 
-### MIP0c8: MIP Editor Election Process  
+### MIP0c8: MIP Editor Role  
 
 
-**Description of MIP Editor Role**: The MIP Editor enforces the administrative and editorial aspects of the overall MIPs process and framework. This includes:
+**Responsibilities**
+
+The MIP Editor enforces the administrative and editorial aspects of the overall MIPs process and framework. This includes:
 -   Maintain and manage mips.makerdao.com.
 -   Provide feedback and have discussions in the MIP section of forum.makerdao.com (ex: helping vet proposal ideas).
 -   MIPs processing.
+-   Onboard and vet new MIP Editors.
 -   Enforcing the proper MIPs process with responsibilities such as:
     -   Confirm that the title accurately describes the content of the proposal.
     -   Confirm there is a (real) dedicated author, coordinator, funder and/or sponsor, etc. of the MIP.
@@ -380,13 +386,12 @@ The MIPs Framework depends on these types of Domain Roles:
     -   Correspond with MIP authors/coordinators.
     -   Review the MIP for obvious defects in the language (format, completeness, spelling, grammar, sentence structure) and that it follows the style guide (template). MIP Editors are allowed to correct problems themselves, but are not required to do so and can send comments to authors to improve it themselves.
     -   Work and communicate with Governance Facilitators on coordinating governance and executive votes in relation to MIPs and the governance cycle.
-    -   Onboard and vet new MIP Editors.
-    -   The expectation is that the system will start out with an interim editor from the Maker Foundation and that others will join later.
-    -   A MIP Editor must be vetted by the current MIP Editor(s) and by MKR holders through this sub proposal. Once an Editor, they will be added to Github and subscribed to watching the MIP repository. They will also become a moderator in the MIPs Rocket.Chat Channel and the MIPs Forum. Much of the correspondence regarding MIPs will be handled through GitHub as well in the MakerDAO forums.
+
     
 
-**MIP Editor Selection Criteria**
+**Selection Criteria**
     
+The following criteria should be used when selecting a MIP Editor:
 
 -   A complete understanding of the MIPs Framework
 -   Knowledge share will occur when onboarded but the candidate must be very familiar with the framework and how other improvement proposal frameworks operate.
@@ -401,49 +406,20 @@ The MIPs Framework depends on these types of Domain Roles:
     -   Adding tags / labels
 -   Experience with the Markdown language
     -   MIPs will be written in Markdown, so editors will need to be familiar with the language. 
-        
 
-**MIP Editor Election Subproposal**
+**Addition**
 
--   **Subproposal Feedback Period**: 3 months
--   **Sub proposal Frozen Period**: 1 month
--   **Sub proposal template**:
-    
-```
-Introduction
-
-- Role: MIP Editor
-
-- Name of applicant or proposed applicant:
-
-- Date Applied: <date created on, in (yyyy-mm-dd) format>
+Once a person has been onboarded to the MIP Editor role, they will be added to Github and subscribed to watching the MIP repository. They will also become a moderator in the MIPs Rocket.Chat Channel and the MIPs Forum. Much of the correspondence regarding MIPs will be handled through GitHub as well in the MakerDAO forums.
 
 
-Application Form
-    
-- Motivation:
-    - Explanation of why and how you want to become a MIP Editor
-    
-- Credentials:
-	- Past work experience
-	- Github account
-	- Forum account
+**Removal**
 
-- Relevant Information:
-	-  Links to forum posts, blog posts, or any other community contributions related to Maker. 
-    
-```
-
----
-### MIP0c9: MIP Editor Removal Process
-
-
-**A MIP Editor should be considered for removal if they are:**
+A MIP Editor should be considered for removal if they are:
     
 -   Not adequately performing their defined duties
--   Absence from their duties for a longer period
--   Biased or malicious behaviour
--   The Editor expresses unwillingness to continue in their role.
+-   Absent from their duties for a prolonged period
+-   Displaying biased or malicious behaviour
+-   Expressing unwillingness to continue in their role.
 
 The removal process begins once the community has agreed on the reasoning for removal. This process must be communicated publicly via the forums in order to provide complete transparency. **The MIP Editor will then be removed from the following channels:**
 
@@ -451,55 +427,52 @@ The removal process begins once the community has agreed on the reasoning for re
 -   RocketChat
 -   Forums
 
-**A MIP0 Sub Proposal is required to remove a MIP Editor.**
-    
 
--   **Sub proposal Feedback Period**: 0 days
--   **Sub proposal Frozen Period**: 0 days
--   **Sub proposal template**:
-  
-```
-Introduction
+### MIP0c9: Governance Facilitator Role
 
-  - Role: MIP Editor
+**Responsibilities**
 
-  - Person to be removed:
-
-  - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-
-Removal Form and Supporting Evidence
-    
-  - Motivation:
-    - Explanation behind the removal of the MIP Editor
-
-  - Relevant Information:
-	-  Links to evidence further backing the motivation behind the removal of the MIP Editor
-
-```
----
-
-### MIP0c10: Governance Facilitator Election Process
-
-
-**Description of Governance Facilitator Role and Authority**:
 -   Governance Facilitators are persons or teams responsible for operating a governance and voting frontend that is available to the entire community as well as venues the community uses for communications.
 -   Governance Facilitators have the authority and responsibility to put proposals up for MKR vote for full community ratification, if they determine, with input from the community, that the proposals have fulfilled all requirements to be eligible for MKR voting.
 -   Reference: [“Mandate: Interim Governance Facilitators”](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264).
     
 
-**GF Selection Criteria**
+**Selection Criteria**
     
+The following criteria should be used when selecting a Governance Facilitator:
 
 -   Governance Facilitators must have experience engaging with different stakeholders in the community in all the different venues the community uses for communications including chat rooms, forums and video conference calls.
 - **Feedback Period:** 3 months
 - **Frozen Period**: 1 month
 - **Sub proposal template**:
 
+**Removal**
+
+A Governance Facilitator should be considered for removal if they are:
+-   Not adequately performing their defined duties
+-   Absent from their duties for a prolonged period
+-   Displaying biased or malicious behaviour
+-   Expressing unwillingness to continue in their role.
+    
+
+The removal process begins once the community has agreed on the reasoning for removal. This process must be communicated publicly via the forums in order to provide complete transparency. **The Governance Facilitator will then be removed from the following channels:**
+-   Github
+-   RocketChat
+-   Forums
+
+### MIP0c10: Core Personnel Onboarding
+
+**A MIP0 Sub Proposal is required to onboard core personnel**
+
+-   **Subproposal Feedback Period**: 3 months
+-   **Sub proposal Frozen Period**: 1 month
+-   **Sub proposal template**:
+
 ```
 
 Introduction
 
-- Role: Governance Facilitator
+- Role:
 
 - Name of applicant or proposed applicant:
 
@@ -509,7 +482,7 @@ Introduction
 Application Form
     
 - Motivation:
-    - Explanation of why and how you want to become a Governance Facilitator. 
+    - Explanation of why and how you want to fulfil this role. 
     
 - Credentials:
 	- Past work experience
@@ -521,34 +494,18 @@ Application Form
 ```
 ---
 
-### MIP0c11: Governance Facilitator Removal Process
+### MIP0c11: Core Personnel Offboarding
 
-
-**A Governance Facilitator should be considered for removal if they are:**
-
--   Not adequately performing their defined duties
--   Absence from their duties for a longer period
--   Biased or malicious behaviour
--   A Governance Facilitator expresses unwillingness to continue in their role.
-    
-
-The removal process begins once the community has agreed on the reasoning for removal. This process must be communicated publicly via the forums in order to provide complete transparency. **The Governance Facilitator will then be removed from the following channels:**
--   Github
--   RocketChat
--   Forums
--  Other Relevant Channels
-    
-
-**A MIP0 Sub Proposal is required to remove a Governance Facilitator**
+**A MIP0 Sub Proposal is required to remove core personnel**
 
 -   **Sub proposal Feedback Period**: 0 days
 -   **Sub proposal Frozen Period**: 0 days
 -   **Sub proposal template**:
-    
+
 ```
 Introduction
 
-  - Role: Governance Facilitator
+  - Role:
 
   - Person to be removed:
 
@@ -557,10 +514,10 @@ Introduction
 Removal Form and Supporting Evidence
     
   - Motivation:
-     - The explanation behind the removal of the Governance Facilitator
+     - The explanation behind the removal of the person from the role given above.
 
   - Relevant Information:
-	 -  Links to evidence further backing the motivation behind the removal of the Governance Facilitator.
+	 -  Links to evidence further backing the motivation behind the removal of the person from the role given above.
 ```  
 ---
 
