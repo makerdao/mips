@@ -12,24 +12,36 @@ Dependencies: MIP0, MIP3, MIP7
 Replaces: n/a
 ```
 
-## Summary
+## References
+No referenced materials.
+
+## Sentence Summary
+
+MIP11 defines the requirements of general risk models and how they are onboarded to and offboarded from the Maker Protocol.
+
+## Paragraph Summary
 
 This proposal defines the process and requirements for risk teams to onboard general risk models for use in collateral onboarding in MIP12.
+
+## Component Summary
+
+**MIP11c1: General Risk Model Requirements**  
+Describes the concept of a general risk model and defines both the required components that all general risk models must have and optional components that a general risk model may have.
+
+**MIP11c2: List of Active General Risk Models**  
+A list component that is kept up-to-date with the currently active general risk models.
+
+**MIP11c3: Process for Onboarding**  
+A process component that defines a method and a template for onboarding a general risk model.
+
+**MIP11c4: Process for offboarding**  
+A process component that defines a method and a template for offboarding a general risk model.
 
 ## Motivation
 
 Risk models are a crucial element of the Maker Protocol's maintenance and growth. The models provide a representation of how a risk team intends to evaluate an asset or other part of the risk function. Therefore, the purpose of this proposal is to create a defined and formalized process for Risk teams to more easily onboard their models to the Maker Protocol and ultimately help grow and maintain the Protocol.
 
 ## Specification / Proposal Details
-
-### MIP11 Components
-
-1. **MIP11c1:** General Risk Model Requirements
-2. **MIP11c2:** List of Active General Risk Models
-3. **MIP11c3:** Process for Onboarding
-4. **MIP11c4:** Process for offboarding
-
----
 
 ### MIP11c1: General Risk Model Requirements
 

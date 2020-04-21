@@ -12,9 +12,21 @@ Dependencies: n/a
 Replaces: n/a
 ```
 
-## Summary
+## References
+No referenced materials.
+
+## Sentence Summary
+
+MIP8 defines the process by which domain teams signal that a potential collateral type is worth the time spent investigating its inclusion in the Maker Protocol.
+
+## Paragraph Summary
 
 This proposal aims to define the process where at least one domain team from each domain (Risk, Smart Contracts, Oracles, Legal, etc) "Greenlights" the collateral type (based on research) in order for the collateral onboarding process to proceed.
+
+## Component Summary
+
+**MIP8c1: The Domain Greenlight Requirements and Process**  
+Defines the process, requirements and possible outcomes from the domain greenlight process. 
 
 ## Motivation
 
@@ -23,13 +35,6 @@ The goal of this proposal is to inform the community about the pre-evaluation st
 ## Specification / Proposal Details
 
 In this stage, the domain teams will signal that they believe the collateral type is worth the time to perform a full evaluation in their respective domain. Note that this stage may happen in parallel to the MIP6 process, but communication from the Domain teams should always come within two weeks of the end of the allotted review time for MIP6's collateral onboarding form/forum publication. 
-
-
-### MIP8 Components
-
-1. **MIP8c1:** The Domain Greenlight Requirements and Process
-
----
 
 ### MIP8c1: The Domain Greenlight Requirements and Process
 

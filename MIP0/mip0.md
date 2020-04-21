@@ -11,11 +11,54 @@ Date Proposed: 2020-04-06
 Dependencies: n/a
 Replaces: n/a
 ```
+## References
+No referenced materials.
 
-## Summary
+## Sentence Summary
+
+MIP0 defines and describes the MIPs Framework. 
+
+## Paragraph Summary
 
 MIP0 is the genesis proposal describing the MIPs Framework. This includes the core components and statuses as well as the various MIP types and the overall MIP lifecycle. Furthermore, it provides the necessary tools, such as MIP templates, replacement processes, and dependencies. Lastly, the proposal details the key roles of the framework, the MIP Editor and the Governance Facilitator along with the process for adding and removing them.
 
+## Component Summary
+
+**MIP0c1: Definitions of the Maker Improvement Proposal Framework**  
+Defines several concepts that are important for understanding the MIPs process.
+
+**MIP0c2: Core Principles**  
+Discusses some core principles that all MIPs should aim to follow.
+
+**MIP0c3: The MIP Lifecycle**  
+Lays out how a MIP is created and moves through the process to become Accepted or Rejected.
+
+**MIP0c4: MIP Components and MIP Component Types**  
+Discusses the use of components to compartmentalize and organise MIPs
+
+**MIP0c5: MIP Replacement Process**  
+Discusses how MIPs can be replaced and the steps to be taken to maintain dependencies.
+
+**MIP0c6: MIP Templates**  
+Defines the MIP templates for both General and Technical MIPs.
+
+**MIP0c7: MIP0 Domain Role Dependencies**  
+Defines the core roles that the MIPs process requires to operate successfully.
+
+**MIP0c8: MIP Editor Role**  
+A component that defines the responsibilities, criteria and grounds for removal of the MIP Editor role.
+
+**MIP0c9: Governance Facilitator Role**  
+A component that defines the responsibilities, criteria and grounds for removal of the Governance Facilitator role.
+
+**MIP0c10: Core Personnel Onboarding**  
+A process component that defines the process to add personnel to the MIP Editor or Governance Facilitator roles.
+
+**MIP0c11: Core Personnel Offboarding**  
+A process component that defines the process to remove personnel from the MIP Editor or Governance Facilitator roles.
+
+**MIP0c12: Supporting Materials**
+A component that defines how to include external materials inside MIPs.
 
 ## Motivation
 
@@ -30,22 +73,6 @@ In order for MIPs to be functional they need to comply with a basic standard out
 
 
 ## Specification / Proposal Details
-
-
-### MIP0 Components
-1. **MIP0c1:** Definitions of the Maker Improvement Proposal Framework
-2. **MIP0c2:** Three Core Principles
-3. **MIP0c3:** The MIP Lifecycle
-4. **MIP0c4:** MIP Components and MIP Component Types
-6. **MIP0c5:** MIP Replacement Process
-7. **MIP0c6:** MIP Templates
-8. **MIP0c7:** MIP0 Domain Role Dependencies
-9. **MIP0c8:** MIP Editor Role  
-10. **MIP0c9:** Governance Facilitator Role
-11. **MIP0c10:** Core Personnel Onboarding
-12. **MIP0c11:** Core Personnel Offboarding
-
----
 
 ### MIP0c1: Definitions of the Maker Improvement Proposal Framework
 
@@ -63,7 +90,7 @@ In order for MIPs to be functional they need to comply with a basic standard out
     
 
 ---
-### MIP0c2: Three Core Principles
+### MIP0c2: Core Principles
 
  1. **Specificity:** A MIP needs to define and address a specific behaviour or single responsibility. MIPs with many different behaviours or responsibilities will not be allowed and must be split up into multiple MIPs.
 	 - This mitigates the risk of having “fine print” or potential attacks hidden in large, complex MIPs.
@@ -71,6 +98,10 @@ In order for MIPs to be functional they need to comply with a basic standard out
 	 - This is important for both understandability, readability and accessibility of MIPs.
 3.  **Avoid overlap:** Multiple MIPs should not implement the same type of behaviour independently. For instance, there should not be two separate but interchangeable ways to do collateral onboarding.
 	- This way the primary and best-understood process for each particular behaviour will be fairly available to everyone, without risking having a knowledge gap that makes it possible for some actors with better access to information to use different and potentially better processes
+4. **Clarity:** A MIP must not have equally valid conflicting interpretations. MIP Authors and MIP Editors must strive to reduce ambiguity. A MIP must be as clear and easy to understand as possible.
+	- Any ambiguous MIPs are likely to cause contention or confusion in the future. Making everything as clear as possible also aids readability and helps to mitigate the risk of hidden attacks.
+5. **Brevity:** A MIP must be as short as possible, including only that which is essential given the other core principles.
+	- The shorter MIPs are the more likely participants in governance are to read them in full. This also serves to reduce the surface area for hidden attacks.
 	
 ---
 
@@ -224,10 +255,21 @@ Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Dependencies: n/a
 Replaces: n/a
 ```
-  
-**Summary**
+**References**
 
-A description of what the Maker Improvement Proposal (MIP) is focused on.
+A list of supporting materials referenced by this MIP.
+
+**Sentence Summary**
+
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
+
+**Paragraph Summary**
+
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
+
+**Component Summary**
+
+A description of the purpose of each component in the MIP . Suggest 30 words max per component.
 
 **Motivation**
 
@@ -253,10 +295,22 @@ Dependencies: <List of depdendent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
 ```
+**References**
 
-**Summary**
+A list of supporting materials referenced by this MIP.
 
-A short description of what the Maker Improvement Proposal (MIP) is focused on.
+**Sentence Summary**
+
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
+
+**Paragraph Summary**
+
+A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
+
+**Component Summary**
+
+A description of the purpose of each component in the MIP . Suggest 30 words max per component.
+
 
 **Motivation**
 
@@ -466,3 +520,13 @@ Removal Form and Supporting Evidence
 	 -  Links to evidence further backing the motivation behind the removal of the person from the role given above.
 ```  
 ---
+
+### MIP0c12: Supporting Materials
+
+MIPs can optionally refer to external materials. External Materials must be added to the MIPs github in the same folder as the MIP which references them.
+
+Externally referenced materials are not MIP content, and are not ratified when a MIP becomes Accepted unless it is explicitly stated otherwise in a MIP Component specification.
+
+MIP References are named according to their parent MIP. The convention MIPXrY is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
+
+
