@@ -29,10 +29,10 @@ This proposal aims to define the process where at least one domain team from eac
 **MIP8c1: Domain Greenlight Requirements**  
 Defines the responsibilities of the domain teams in the domain greenlight process.
 
-**MIP8c2: Domain Greenlight Process**
+**MIP8c2: Domain Greenlight Process**  
 Defines the domain greenlight process and its interaction with the collateral onboarding process.
 
-**MIP8c3: Domain Greenlight Outcomes**
+**MIP8c3: Domain Greenlight Outcomes**  
 Defines the possible outcomes from the domain greenlight process.
 
 
