@@ -464,19 +464,51 @@ The removal process begins once the community has agreed on the reasoning for re
 
 **Responsibilities**
 
--   Governance Facilitators are persons or teams responsible for operating a governance and voting frontend that is available to the entire community as well as venues the community uses for communications.
--   Governance Facilitators have the authority and responsibility to put proposals up for MKR vote for full community ratification, if they determine, with input from the community, that the proposals have fulfilled all requirements to be eligible for MKR voting.
--   Reference: [“Mandate: Interim Governance Facilitators”](https://forum.makerdao.com/t/mandate-interim-governance-facilitators/264).
-    
+The Governance Facilitator's responsibilities are defined as the following:
+
+Core Responsibilities
+- Responsible for ensuring the health and integrity of communication channels that are used for communication within MakerDAO. These tasks include moderation duties, establishing processes and social norms, and defending the channels from trolling and Sybil attacks.
+- Required to remain neutral and objective on issues outside the governance domain and focus on policy, procedure and facilitation.
+- Required to schedule, run and moderate weekly governance and risk meetings from a position of neutrality.
+- Required to manage and run governance processes as directed by relevant Accepted MIPs or MIP sets. 
+- Required to create on-chain polls on the ‘official’ voting frontend as directed by governance processes defined in relevant Accepted MIPs or MIP sets.
+- Should aim to foster a culture of openness, receptiveness and reasoned discussion within the community.
+- Should work with the community to operate an emergency voting process to defend the system in the event of an emergency.
+- Should aim to onboard and maintain at least three Governance Facilitators at all times while prioritising candidates from unrepresented geographic regions.
+
+
+Encouraging Participation
+- Should work to maintain and encourage healthy debate, in accordance with the guidelines outlined in the Scientific Governance and Risk Framework and the Core Foundation Principals.
+- Should ensure that the upcoming governance schedule is well communicated to all stakeholders at least a week in advance.
+- Should aim to promote and increase engagement by stakeholders in the governance process. 
+- Should ensure that new members of the community understand the general level of decorum and civility expected by the group, that they have the resources they need to get onboarded quickly.
+
+Improving Efficiency
+
+- Should ensure that once debate reaches its natural end that appropriate consensus gathering methods take place.
+- Should support and facilitate communications between the other mandated actors in the Maker Protocol.
+- Should look for opportunities to streamline the governance process without sacrificing its integrity. 
+
+Cohesion and Morale
+- Responsible for raising community governance issues to the Maker Foundation or the third-party ecosystem and ensuring appropriate follow up for the community.
+- Should help to build and maintain morale and engagement among members of the governance community.
+- Should encourage the community to come to consensus over the least objectionable option(s) rather than treating decision-making as a competition where a subset of the community must end up disappointed in the outcome. 
+- Should work to bring the governance community together on divisive topics and to prevent political polarisation and demagoguery. 
 
 **Selection Criteria**
     
-The following criteria should be used when selecting a Governance Facilitator:
+The following criteria should be used when evaluating an individual for the role of Governance Facilitator:
 
--   Governance Facilitators must have experience engaging with different stakeholders in the community in all the different venues the community uses for communications including chat rooms, forums and video conference calls.
-- **Feedback Period:** 3 months
-- **Frozen Period**: 1 month
-- **Sub proposal template**:
+- Should have a complete understanding of the MIPs Framework and content, especially in relation to core governance MIPs.
+- Required to be a community member for some time. This can be shown through various proof of participation methods, such as:
+	- Past forum posts
+	- Attendance of community and governance calls
+	- Input into issues of governance in any communications venue.
+- Knowledge share will occur when onboarded but the candidate must be familiar with the roles and responsibilities of Governance Facilitators.
+- Should have familiarity with the technical inner workings of the Maker Protocol (bonus)
+- Must have experience engaging with different stakeholders in the community in all the different venues the community uses for communications including chat rooms, forums and video conference calls.
+- Should be confident in expressing themselves in each of the different venues the community uses for communications including chat rooms, forums and video conference calls.
+- Should have an interest in governance mechanisms used presently and historically across the world.
 
 **Removal**
 
@@ -486,7 +518,6 @@ A Governance Facilitator should be considered for removal if they are:
 -   Displaying biased or malicious behaviour
 -   Expressing unwillingness to continue in their role.
     
-
 The removal process begins once the community has agreed on the reasoning for removal. This process must be communicated publicly via the forums in order to provide complete transparency. **The Governance Facilitator will then be removed from the following channels:**
 -   Github
 -   RocketChat
