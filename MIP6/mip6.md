@@ -7,8 +7,9 @@ Title: Collateral onboarding form/forum template
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```

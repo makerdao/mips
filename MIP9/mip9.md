@@ -7,8 +7,9 @@ Title: Community Greenlight
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP6, MIP8
 Replaces: n/a
 ```

@@ -9,6 +9,7 @@ Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@plan
 Type: Process
 Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
