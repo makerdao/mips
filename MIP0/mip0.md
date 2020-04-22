@@ -35,34 +35,37 @@ Discusses some core principles that all MIPs should aim to follow.
 **MIP0c3: The MIP Lifecycle**  
 Lays out how a MIP is created and moves through the process to become Accepted or Rejected.
 
-**MIP0c4: MIP Components and MIP Component Types**  
+**MIP0c4: MIP Components**  
 Discusses the use of components to compartmentalize and organise MIPs
 
-**MIP0c5: MIP Replacement Process**  
+**MIP0c5: Sub-Proposals**  
+Introduces the concept of sub-proposals, which are used to define and optimize repeatable governance processes.
+
+**MIP0c6: MIP Replacement Process**  
 Discusses how MIPs can be replaced and the steps to be taken to maintain dependencies.
 
-**MIP0c6: Supporting Materials**
+**MIP0c7: Supporting Materials**
 A component that defines how to include external materials inside MIPs.
 
-**MIP0c7: MIP Templates**  
+**MIP0c8: MIP Templates**  
 Defines the MIP templates for both General and Technical MIPs.
 
-**MIP0c8: MIP0 Domain Role Dependencies**  
+**MIP0c9: MIP0 Domain Role Dependencies**  
 Defines the core roles that the MIPs process requires to operate successfully.
 
-**MIP0c9: Core Personnel Role List**  
+**MIP0c10: Core Personnel Role List**  
 List of of personnel currently occupying core roles.
 
-**MIP0c10: MIP Editor Role**  
+**MIP0c11: MIP Editor Role**  
 A component that defines the responsibilities, criteria and grounds for removal of the MIP Editor role.
 
-**MIP0c11: Governance Facilitator Role**  
+**MIP0c12: Governance Facilitator Role**  
 A component that defines the responsibilities, criteria and grounds for removal of the Governance Facilitator role.
 
-**MIP0c12: Core Personnel Onboarding**  
+**MIP0c13: Core Personnel Onboarding**  
 A process component that defines the process to add personnel to the MIP Editor or Governance Facilitator roles.
 
-**MIP0c13: Core Personnel Offboarding**  
+**MIP0c14: Core Personnel Offboarding**  
 A process component that defines the process to remove personnel from the MIP Editor or Governance Facilitator roles.
 
 
@@ -187,42 +190,25 @@ In order for MIPs to be functional they need to comply with a basic standard out
 A status change for a MIP is requested by the MIP Author and will be reviewed by the MIP Editor(s) to see if it meets the status criteria of the requested status change. If it does, the Editor(s) will change the status of the MIP and the Author may proceed with the next stage of the process. If it does not, the MIP Editor(s) will revert with highlighted issues, and the Author must fix the highlighted issues before requesting another status change.
     
 ---
-### MIP0c4: MIP Components and MIP Component Types
+### MIP0c4: MIP Components
 
+- When necessary, a MIP can have multiple components if it needs to contain multiple units of logic to satisfy completeness. A MIP can also have only a single component.
+- MIP components are named by their parent MIP. The abbreviation convention `MIPXcY` is used to refer to these components (as seen in this document).
 
-**MIP Components**
-
-- When necessary, MIPs can have multiple components if it needs to contain multiple units of logic to satisfy completeness. A MIP can also have only a single component.
-- MIP components are categorized by types, depending on what kind of logic they contain. MIP components are named by their parent MIP. The abbreviation convention MIPXcY is used to refer to these components (as seen in this document).
-- A MIP component has one type or no types. 
-
-
-**Component Types**
-    
--   **Process MIP Component**  
-      
-    **Summary:** The purpose of a Process MIP component is to shape a specific process flow for the Maker community to adopt and standardize with respect to how governance operates. This MIP component type helps streamline specific processes in a transparent, open and traceable manner. A Process MIP will provide a publicly documented scope of a proposed process framework as well as a detailed description of the subproposal structure.  
-      
-    **Special Template:** N/A  
-      
-    **Important Notes:**  
-
-	-   A Process MIP component must define the Feedback Period and Frozen Period for its sub proposals.
-	-   Sub proposals of Process MIP components with additional MIP Component types inherit the same types.  
-      
-    
-
--   **Sub Proposals**  
-      
-    **Summary:** A MIP component creates a bespoke process that is engaged by submitting sup proposals according to the framework specified in the process MIP component.
-    
-    -  The subproposal component naming convention is `MIP#c#-SP#`. This is important in order to delineate between different SPs under the same MIP.
-   
-**Special Template:** N/A  
-  
 ---
 
-### MIP0c5: MIP Replacement Process
+### MIP0c5: Sub-Proposals
+
+- A sub-proposal is an expedited process that is defined within a MIP to serve as a definition of how to run a given process within the MIPs framework.
+- Sub-proposals require a template, a feedback period and a frozen period and are submitted using that template.
+- Sub-proposals go through the MIPs process in the same way that full MIPs do.
+- The template, feedback period and frozen period for a set of sub-proposals are defined using a MIP component known as a Process component.
+- Any MIP containing a Process Component gains the Process type.
+- The sub-proposal naming convention is `MIPXcY-SPZ` where Y is the Process Component that contains the sub-proposal template and X is the MIP containing that component. This is important in order to delineate between different types of sub-proposal defined in the same MIP under different Process components.
+
+---
+
+### MIP0c6: MIP Replacement Process
 
 A MIP can define one or more replacement targets in its preamble. If the MIP is given the accepted status, the replacement target(s) MIPs then receive the Obsolete status and effectively become inactive. The replaced MIP will in its MIP document contain the number of the MIP that replaced it, and other MIPs that depend on the replaced MIP, will instead interact with the new MIP.
 
@@ -230,19 +216,21 @@ Due to the fact that the dependencies carry over, a MIP with defined replacement
 
 ---
 
-### MIP0c6: Supporting Materials
+### MIP0c7: Supporting Materials
 
 MIPs can optionally refer to external materials. External Materials must be added to the MIPs github in the same folder as the MIP which references them.
 
 Externally referenced materials are not MIP content, and are not ratified when a MIP becomes Accepted unless it is explicitly stated otherwise in a MIP Component specification.
 
-MIP References are named according to their parent MIP. The convention MIPXrY is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
+MIP References are named according to their parent MIP. The convention `MIPXrY` is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
 
 ---
 
-### MIP0c7: MIP Templates
+### MIP0c8: MIP Templates
 
 **General MIP Template**
+
+This template is to be used for MIPs that do not propose smart-contract changes to the Maker Protocol.
 
 **Preamble**
 ```
@@ -284,6 +272,8 @@ Proposed process standard details - describes the new process or feature and the
 ---
     
 **Technical MIP Template**
+
+This template is to be used for MIPs that propose smart-contract changes to the Maker Protocol.
 
 **Preamble**
 ```
@@ -351,7 +341,7 @@ The details of the proposed technical solution. The specification should be deta
     
 ---    
 
-### MIP0c8: MIP0 Domain Role Dependencies
+### MIP0c9: MIP0 Domain Role Dependencies
 
 
 The MIPs Framework depends on these types of Domain Roles:
@@ -370,7 +360,7 @@ Personnel may be added to these roles using a MIP0c10 sub-proposal.
 Personnel may be removed from these roles using a MIP0c11 sub-proposal.
 
 ---
-### MIP0c9: Core Personnel Role List 
+### MIP0c10: Core Personnel Role List 
 
 This list can be amended through the core personnel onboarding (MIP0c12) and offboarding components (MIP0c13) of MIP0.
 
@@ -397,7 +387,7 @@ Entries into this list should follow the following template:
 
 ---
 
-### MIP0c10: MIP Editor Role  
+### MIP0c11: MIP Editor Role  
 
 
 **Responsibilities**
@@ -460,7 +450,7 @@ The removal process begins once the community has agreed on the reasoning for re
 
 ---
 
-### MIP0c11: Governance Facilitator Role
+### MIP0c12: Governance Facilitator Role
 
 **Responsibilities**
 
@@ -494,7 +484,7 @@ The removal process begins once the community has agreed on the reasoning for re
 
 ---
 
-### MIP0c12: Core Personnel Onboarding
+### MIP0c13: Core Personnel Onboarding
 
 **A MIP0 Sub Proposal is required to onboard core personnel**
 
@@ -528,7 +518,7 @@ Application Form
 ```
 ---
 
-### MIP0c13: Core Personnel Offboarding
+### MIP0c14: Core Personnel Offboarding
 
 **A MIP0 Sub Proposal is required to remove core personnel**
 
