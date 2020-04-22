@@ -5,17 +5,41 @@
 MIP#: 1
 Title: Governance Paradigms
 Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Contributors: @LongForWisdom
 Type: Process
 Tags: process, core, problem-space
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
 
-## Summary
+## References
+No referenced materials.
+
+## Sentence Summary
+
+MIP1 defines and describes Governance Paradigms and problem spaces.
+
+## Paragraph Summary
 
 A Governance Paradigm is a complete and specific group of MIP Sets that solve an entire problem space. A problem space is defined as a list of issues that must be addressed in order for the Maker Protocol to be able to sustain itself and grow into the future Maker governance.
+
+## Component Summary
+
+**MIP1c1: Definitions**
+Defines what is meant by a problem space and a Governance Paradigm.
+
+**MIP1c2: The Initial Problem Space**
+Defines an initial list of problems that will need to be solved in order for there to be a complete Governance Paradigm.
+
+**MIP1c3: Changing the Governance Paradigm**
+Defines MIPs and MIP Sets as the method used to amend or replace the Governance Paradigm.
+
+
+**MIP1c4: Changing the Problem Space**
+A process component that provides a method and a template for adjusting the problem space.
 
 ## Motivation
 
@@ -25,15 +49,7 @@ It is important at all times to have the best possible estimate of what the long
 
 ## Specification / Proposal Details
 
-### MIP1 Components
-
-1. **MIP1c1:** Definitions
-2. **MIP1c2:** The Initial Problem Space
-3. **MIP1c3:** Changing the Problem Space
-
----
-
-### MIP1c1: Definitions
+### MIP1c1: Definitions 
 
 **Problem Space**
 
@@ -52,20 +68,6 @@ A complete set of processes, implemented through MIPs, that allows Maker Governa
 **MIP Sets**
 
 A MIP Set is a group of several MIPs that are interdependent, in which without the entire set of MIPs existing, one or more MIPs in the Set becomes inconsistent, invalid or nonsensical. The intention is for MIP sets to together describe a single complex behaviour in such a way that allows each individual MIP to be written following the principle of Specificity but work together as a cohesive modular whole. 
-
-**Amending the Governance Paradigm**
-
-A Governance Paradigm can be amended by replacing specific MIPs, or an entire MIP Set, in the Governance Paradigm while maintaining correct interfacing with all other MIPs within the MIP set and wider Governance Paradigm.
-
-**Replacing a Governance Paradigm**
-
-A governance paradigm can be replaced in its entirety by replacing all MIPs in the Governance Paradigm with a complete grouping of new MIPs, contained in MIP Sets that fully address all items in the Governance Paradigm Problem Space
-
-An individual MIP or MIP Set in the active Governance Paradigm cannot be replaced if the replacement doesn't properly interact with the other MIPs in the Governance Paradigm that the replaced MIP is dependent on, or that are dependent on the replaced MIP. Otherwise, the Governance Paradigm as a whole could break and MIPs could stop functioning correctly due to interdependency issues. Thus, you have to either replace an individual MIP or MIP Set in a Governance Paradigm or replace the entire Governance Paradigm with a completely new grouping of MIP Sets that fully address all items in the Governance Paradigm Problem Space.
-
-**Amending the Problem Space**
-
-If Maker Governance wishes to change the Governance Paradigm and processes more drastically, they need to alter the Governance Paradigm Problem Space. In most cases, this is done by expanding the Problem Space after practical experience makes it clear there are additional problems, challenges or opportunities that Maker Governance needs a clear predetermined process to deal with. However, it could also be reducing the scope of the Problem Space, or changing the language or logical grouping of some of its aspects.
 
 ---
 
@@ -92,14 +94,31 @@ The current Governance Paradigm Problem Space is defined as follows and is organ
 15.  **Dai Foundation:** Manage and fund the entity that controls legal and centralized assets, such as trademarks and copyrights, that are critical to MakerDAO. This is important for the safeguarding of the assets and preventing any possible misuse. It is critical that the community is able to have a formalized process for funding and interacting with the Dai Foundation.
 
     
-**Important Note**: 
-- The problem spaces listed above are not final but rather estimates of the problems the Maker Foundation believes will need to be addressed over the course of the next few years on our path to self-sustainability. Overall, this is a starting point and does not represent a long term commitment. It is expected that it will change over time based on the needs and experience of the Maker community.  
+**Important Note**
+
+The problem spaces listed above are not final but rather estimates of the problems the Maker Foundation believes will need to be addressed over the course of the next few years on our path to self-sustainability. Overall, this is a starting point and does not represent a long term commitment. It is expected that it will change over time based on the needs and experience of the Maker community.  
 
 ---
 
-### MIP1c3: Changing the Problem Space
+### MIP1c3: Changing the Governance Paradigm
 
-MIP1c3 is a Process-MIP component that allows the creation of sub proposals with a 3 month feedback period that can add or delete items in the Governance Paradigm Problem space.
+**Amending the Governance Paradigm**
+
+A Governance Paradigm can be amended by replacing specific MIPs, or an entire MIP Set, in the Governance Paradigm while maintaining correct interfacing with all other MIPs within the MIP set and wider Governance Paradigm.
+
+**Replacing a Governance Paradigm**
+
+A governance paradigm can be replaced in its entirety by replacing all MIPs in the Governance Paradigm with a complete grouping of new MIPs, contained in MIP Sets that fully address all items in the Governance Paradigm Problem Space
+
+An individual MIP or MIP Set in the active Governance Paradigm cannot be replaced if the replacement doesn't properly interact with the other MIPs in the Governance Paradigm that the replaced MIP is dependent on, or that are dependent on the replaced MIP. Otherwise, the Governance Paradigm as a whole could break and MIPs could stop functioning correctly due to interdependency issues. Thus, you have to either replace an individual MIP or MIP Set in a Governance Paradigm or replace the entire Governance Paradigm with a completely new grouping of MIP Sets that fully address all items in the Governance Paradigm Problem Space.
+
+---
+
+### MIP1c4: Changing the Problem Space
+
+If Maker Governance wishes to change the Governance Paradigm and processes more drastically, they need to alter the Governance Paradigm Problem Space. In most cases, this is done by expanding the Problem Space after practical experience makes it clear there are additional problems, challenges or opportunities that Maker Governance needs a clear predetermined process to deal with. However, it could also be reducing the scope of the Problem Space, or changing the language or logical grouping of some of its aspects.
+
+MIP1c3 is a Process MIP component that allows the creation of sub proposals with a 3 month feedback period that can add or delete items in the Governance Paradigm Problem space.
 
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
