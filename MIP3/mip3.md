@@ -7,7 +7,7 @@ Title: Governance Cycle
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Type: Process
-Tags: process, core, governance-cycle
+Tags: process, core, governance-cycle, governance-facilitator
 Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
 Date Ratified: <yyyy-mm-dd>

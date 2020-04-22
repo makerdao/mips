@@ -5,6 +5,7 @@
 MIP#: 11
 Title: Collateral Onboarding General Risk Model Management
 Author(s): Cyrus Younessi (@DonutJr), Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
+Contributors: @LongForWisdom
 Type: Process
 Tags: process, collateral-onboarding, risk, risk-team, active-list
 Status: Request for Comments (RFC)

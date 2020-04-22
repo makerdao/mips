@@ -6,7 +6,8 @@ MIP#: 5
 Title: Emergency Voting System
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
-Type: Process
+Type: General
+Tags: core, emergency, governance-facilitator
 Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
 Date Ratified: <yyyy-mm-dd>

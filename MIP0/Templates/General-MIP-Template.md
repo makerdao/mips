@@ -6,7 +6,8 @@ MIP#:
 Title:
 Author(s): 
 Contributors:
-Type: 
+Type:
+Tags:
 Status: <Assigned by MIP Editor>
 Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Date Ratified: <yyyy-mm-dd>

@@ -7,6 +7,7 @@ Title: <MIP title>
 Author: <list of authors' names and/or email addresses and GitHub handles>
 Contributors:
 Type: MIP Type
+Tags:
 Status: <Assigned by MIP Editor>
 Date Proposed: <date created on, in (yyyy-mm-dd) format>
 Date Ratified: <yyyy-mm-dd>

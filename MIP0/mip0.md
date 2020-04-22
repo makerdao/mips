@@ -7,13 +7,14 @@ Title: The Maker Improvement Proposal Framework
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom
 Type: Process
-Tags: process, core, mip-editor, governance-facilitator
+Tags: process, core, mip-editor, governance-facilitator, active-list
 Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
+
 ## References
 No referenced materials.
 
