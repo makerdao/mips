@@ -423,7 +423,7 @@ The removal process begins once the community has agreed on the reasoning for re
 
 ### MIP0c12: Core Personnel Onboarding
 
-A MIP0c12 subproposal is required to onboard core personnel. MIP0c12 subproposals have the following parameters:
+MIP0c12 is a Process MIP component that allows the onboarding of core personnel using a subproposal. MIP0c12 subproposals have the following parameters:
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
 
@@ -433,7 +433,7 @@ MIP0c12 subproposals must use the template located at  **[MIP0c12-Subproposal-Te
 
 ### MIP0c13: Core Personnel Offboarding
 
-A MIP0c13 subproposal is required to remove core personnel. MIP0c13 subproposals have the following parameters:
+MIP0c13 is a Process MIP component that allows the removal of core personnel using a subproposal. MIP0c13 subproposals have the following parameters:
 
 -   **Feedback Period**: 0 days
 -   **Frozen Period**: 0 days
