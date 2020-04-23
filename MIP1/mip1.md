@@ -15,7 +15,7 @@ Replaces: n/a
 ```
 
 ## References
-No referenced materials.
+**[Templates\MIP1c4-Subproposal-Template.md](Templates\MIP1c4-Subproposal-Template.md)**
 
 ## Sentence Summary
 
@@ -27,17 +27,16 @@ A Governance Paradigm is a complete and specific group of MIP Sets that solve an
 
 ## Component Summary
 
-**MIP1c1: Definitions**
+**MIP1c1: Definitions**  
 Defines what is meant by a problem space and a Governance Paradigm.
 
-**MIP1c2: The Initial Problem Space**
+**MIP1c2: The Initial Problem Space**  
 Defines an initial list of problems that will need to be solved in order for there to be a complete Governance Paradigm.
 
-**MIP1c3: Changing the Governance Paradigm**
+**MIP1c3: Changing the Governance Paradigm**  
 Defines MIPs and MIP Sets as the method used to amend or replace the Governance Paradigm.
 
-
-**MIP1c4: Changing the Problem Space**
+**MIP1c4: Changing the Problem Space**  
 A process component that provides a method and a template for adjusting the problem space.
 
 ## Motivation
@@ -117,10 +116,11 @@ An individual MIP or MIP Set in the active Governance Paradigm cannot be replace
 
 If Maker Governance wishes to change the Governance Paradigm and processes more drastically, they need to alter the Governance Paradigm Problem Space. In most cases, this is done by expanding the Problem Space after practical experience makes it clear there are additional problems, challenges or opportunities that Maker Governance needs a clear predetermined process to deal with. However, it could also be reducing the scope of the Problem Space, or changing the language or logical grouping of some of its aspects.
 
-MIP1c3 is a Process MIP component that allows the creation of sub proposals with a 3 month feedback period that can add or delete items in the Governance Paradigm Problem space.
-
+MIP1c4 is a Process MIP component that allows the creation of subproposals that can add or delete items in the Governance Paradigm Problem Space. MIP1c4 subproposals have the following parameters:
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
--   **Template** (link)
+
+MIP1c4 subproposals must use the template located at  **[Templates\MIP1c4-Subproposal-Template.md](Templates\MIP1c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+
 
 ---
