@@ -7,8 +7,9 @@ Title: Collateral onboarding form/forum template
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -101,25 +102,6 @@ In order to submit a MIP6-Subproposals, one must create a MIP from the provided 
 **MIP6-SP Template:**  
 - **Feedback Period**: 1 month
 - **Frozen Period**: 1 week
-- **Sub Proposal Template**:
+- **Sub Proposal Template**: (link)
 
-
-```
-Introduction 
-
-  - MIP6c3-SP: #
-
-  - Title: <Title>
-
-  - Author(s): <Name>, <Github handle>
-
-  - Date Proposed: year-month-day
-
-Specification 
-
-  - Motivation
-    - Explain the motivation behind the changes to the application questions.
-    
-  - List of changes to Application questions.
-
-```
+---

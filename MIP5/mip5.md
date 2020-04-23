@@ -4,11 +4,12 @@
 ```
 MIP#: 5
 Title: Emergency Voting System
-Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -34,7 +35,7 @@ This component addresses emergency state changes to the protocol and how they ar
 
 ## Motivation
 
-This standard is being proposed in order to allow the community to overcome the constraints of the governance cycle (MIP3) in special situations where it is time critical to make changes or remove a part of the operating system.
+This standard is being proposed in order to allow the community to overcome the constraints of the governance cycle ([MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md)) in special situations where it is time critical to make changes or remove a part of the operating system.
 
 
 ## Specification / Proposal Details

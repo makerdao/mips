@@ -4,10 +4,11 @@
 ```
 MIP#: 12
 Title: Collateral and Risk Parameter Management
-Author(s): Charles St.Louis (@CPSTL) and Rune Christensen (@Rune23) 
+Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Type: Technical, Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP0, MIP3, MIP7, MIP10, MIP11
 Replaces: n/a
 ```  
@@ -59,34 +60,8 @@ This proposal will focus on the collateral onboarding process blueprint for subm
 
 
 **Feedback Period:** 0 days
-
 **Frozen Period:** 0 days
-
-**Subproposal Template:**
-
-    Introduction 
-    
-    MIP12c2-SP: #
-    Title: <Title>
-    Name: <Name and/or Github handle>
-    Date Proposed: <date created on, in (yyyy-mm-dd) format>
-    
-    Specification 
-    
-    - Summary
-    
-    	- A short description of the proposed improvement.
-        
-    - Proposal Details
-        - The three required deliverables 
-    
-    - Motivation
-    
-    	- Explanation as to why the sub proposal is necessary.
-    
-    Relevant Information:
-    
-    - Links to evidence further backing the motivation behind the proposal for adding n**ew Risk Parameters, Oracle, or Collateral Adapter**
+**Subproposal Template:** (link)
 
 ---
 

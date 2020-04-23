@@ -4,10 +4,12 @@
 ```
 MIP#: 3
 Title: Governance Cycle
-Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
+Contributors: @LongForWisdom
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -115,26 +117,6 @@ Proposals submitted must follow the guidelines defined in MIP0.
 The Default Inclusion Threshold can be modified with subproposals. The subproposals will follow the logic below: 
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
--   **Subproposal Template**:
-
-```
-Introduction
-
-- MIP3c2-SP#:
-- Author(s): 
-- Date Proposed: <date created on, in (yyyy-mm-dd) format>
-
-
-Specification
-
-Summary
-- Proposal to modify the Default Inclusion Threshold
-
-Motivation
-- Input the motivation and reasoning behind the proposed change of the default inclusion threshold.
-
-Specification / Proposal Details
-- The new default inclusion threshold amount (number).
-```
+- **Subproposal Template** (link)
 
 ---

@@ -4,11 +4,12 @@
 ```
 MIP#: 4
 Title: MIP Amendment and Removal Process
-Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
   ```
@@ -64,34 +65,13 @@ MIP4 also enables the removal of MIPs that are no longer useful. If there are ot
  This component details the process of making amendments.
 - **Feedback Period:** 1 month
 - **Frozen Period:** 1 week
-- **Template:**
-	- The amendment process follows the same template of the MIP you are proposing an amendment to. 
-    
+- **Template:** (link)
 ---
 ### MIP4c3: MIP Removal Process 
-
 
 - This component details the process of removing MIPs. 
 - **Feedback Period:** 3 months
 - **Frozen Period:** 1 month
-- **Template:**
+- **Template:** (link)
 
-```
-Introduction
-
-  - MIP to be removed: <MIP#>
-
-  - Author:
-
-  - Date of Submission: <date created on, in (yyyy-mm-dd) format>
-
-Specification
-    
-  - Motivation:
-    - Explanation behind the removal of the MIP
-    - Any impact this has on other MIPs that interact with the MIP in question. 
-
-  - Relevant Information:
-	-  Links to evidence further backing the motivation.
-```
 ---

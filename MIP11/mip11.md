@@ -6,8 +6,9 @@ MIP#: 11
 Title: Collateral Onboarding General Risk Model Management
 Author(s): Cyrus Younessi (@DonutJr), Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Type: Process
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP0, MIP3, MIP7
 Replaces: n/a
 ```
@@ -75,26 +76,7 @@ Risk models are a crucial element of the Maker Protocol's maintenance and growth
 - **Outcome:** The General Risk Model specified in the MIP11c3 Sub Proposal is appended to MIP11c2.
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
-- **Subproposal Template:**
-```
-    Introduction
-    - MIP11c3-SP: #
-    - Risk Team Name:  
-    - General Risk Model Name: 
-    - Date Proposed: <date created on, in (yyyy-mm-dd) format>
-    
-    Specification 
-        
-    - Motivation:
-        - A detailed explanation advocating the need for the addition of the general risk model. 
-    - General Model Details
-    		- The full details of the proposed general model. This includes the following requirements (as highlighted in **MIP11c1 - General Model Requirements)**
-    			1. A framework for quantitative risk methodology, fundamental analysis or due diligence.  
-    			2. A scoring framework for collateral assets that enables a standardized approach for converting qualitative analysis into numerical outputs. This is achieved through a ratings-based methodology.
-    			3. A quantitative model that describes the process for computing risk parameters such as the Stability Fee, Liquidation Ratio, DSR, etc.
-    - Relevant Information:
-    	-  Links to any further discussions related to the onboarding of the proposed general model. 
-```
+- **Subproposal Template:** (link)
 ---
 
 ### MIP11c4: Process for Offboarding
@@ -102,20 +84,6 @@ Risk models are a crucial element of the Maker Protocol's maintenance and growth
 - **Outcome:** The General Risk Model specified in the MIP11c4 Sub Proposal is removed from MIP11c2.
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
-- **Subproposal Template:**
-```
-    Introduction
-    - MIP11c4-SP: #
-    - Risk Team Name:  
-    - General Risk Model Name: 
-    - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-    
-    Specification
-        
-    - Removal Motivation:
-        - An explanation behind the motivation for the removal of the general risk model. 
-    
-    - Relevant Information:
-    	-  Links to evidence further backing the motivation behind the removal of the general risk model.
-```
+- **Subproposal Template:** (link)
+
 ---

@@ -7,8 +7,9 @@
     Title: Oracle Management 
     Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
     Type: Process
-    Status: <Assigned by MIP Editor>
+    Status: Request for Comments (RFC)
     Date Proposed: 2020-04-06
+    Date Ratified: <yyyy-mm-dd>
     Dependencies: n/a
     Replaces: n/a
     
@@ -116,33 +117,7 @@ This process MIP component is used by the Oracle Team(s) to onboard new oracles 
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 - **Update Interval:** Feeds have a period of 2 weeks during which to upgrade their systems to include the Oracle type and data models. Any Feeds not upgraded during this interval are presumed to be in breach of their responsibilities and potentially subject to removal.
-
-**Subproposal Template:**
-
-    Introduction
-    
-    - Oracle Team Name:
-    - Oracle Data model Name:
-    - Oracle Data Model: 
-    
-    |    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-    | :------------ | :------------ | :----: | :---------: | :----------: |
-    | <data source> |   <param>     |  <#>   |   <model>   |    <model    |
-    
-    - Date of Proposed Inclusion: <date created on, in (yyyy-mm-dd) format>
-    
-    - Supported Tools: 
-        - <tool name> <version commit hash> <link to github repo>
-    	 
-    
-    Specification
-    
-    - Communication Medium(s)
-    	- Oracle Team Posting the MIP on the Maker Forum
-    	- Oracle Team posting the MIP in the Keybase Feeds channel
-    
-    - Update Interval
-    	- Feeds have a period of 2 weeks during which to upgrade their systems to include the Oracle type and data models. Any Feeds not upgraded during this interval are presumed to be in breach of their responsibilities and potentially subject to removal.
+**Subproposal Template:** (link)
     
 ---
 
@@ -151,26 +126,6 @@ This process MIP component is used by the Oracle Team(s) to onboard new oracles 
 If an Oracle has been made obsolete, anyone can make a proposal to remove it, in order to reduce unnecessary costs such as gas fees. 
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
-- **Subproposal Template:**
-```
+- **Subproposal Template:** (link)
 
-Introduction
-    
-    - Oracle Team Name:  
-    - Oracle Type Name: 
-    - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-    
-Specification
-        
-    - Removal Motivation:
-        - An explanation behind the motivation for the removal of the Oracle. Possible reasons include:
-                - An asset ceasing to exist 
-                - Removal of a collateral type from the Maker Protocol
-                - Oracle not being utilized by neither the Maker Protocol nor a 3rd party
-                - Failure to upgrade their systems to include an Oracle type and data models.
-    				
-    - Relevant Information:
-    	-  Links to evidence further backing the motivation behind the removal of the Oracle
-
-```
 ---
