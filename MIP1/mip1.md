@@ -15,7 +15,7 @@ Replaces: n/a
 ```
 
 ## References
-**[Templates\MIP1c4-Subproposal-Template.md](Templates\MIP1c4-Subproposal-Template.md)**
+**[MIP1c4-Subproposal-Template.md](MIP1c4-Subproposal-Template.md)**
 
 ## Sentence Summary
 
@@ -120,7 +120,7 @@ MIP1c4 is a Process MIP component that allows the creation of subproposals that 
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
 
-MIP1c4 subproposals must use the template located at  **[Templates\MIP1c4-Subproposal-Template.md](Templates\MIP1c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP1c4 subproposals must use the template located at  **[MIP1c4-Subproposal-Template.md](MIP1c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 
 ---

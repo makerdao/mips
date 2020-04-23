@@ -14,10 +14,10 @@ Dependencies: n/a
 Replaces: n/a
 ```
 ## References
-**[Templates\General-MIP-Template.md](Templates\General-MIP-Template.md)**  
-**[Templates\Technical-MIP-Template.md](Templates\Technical-MIP-Template.md)**  
-**[Templates\MIP0c12-Subproposal-Template.md](Templates\MIP0c12-Subproposal-Template.md)**  
-**[Templates\MIP0c13-Subproposal-Template.md](Templates\MIP0c13-Subproposal-Template.md)**  
+**[General-MIP-Template.md](General-MIP-Template.md)**  
+**[Technical-MIP-Template.md](Technical-MIP-Template.md)**  
+**[MIP0c12-Subproposal-Template.md](MIP0c12-Subproposal-Template.md)**  
+**[MIP0c13-Subproposal-Template.md](MIP0c13-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -240,11 +240,11 @@ Externally referenced materials are not MIP content, and are not ratified when a
 
 **General MIP Template**
 - The General MIP Template should be used for MIPs whenever a more specific ratified template is not more appropriate. 
-- The General MIP Template is located at **[Templates\General-MIP-Template.md](Templates\General-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+- The General MIP Template is located at **[General-MIP-Template.md](General-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 **Technical MIP Template**
 - The Technical MIP Template should be used for MIPs whenever a MIP proposes changes to the smart contract code within the Maker Protocol.
-- The Technical MIP Template is located at **[Templates\Technical-MIP-Template.md](Templates\Technical-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+- The Technical MIP Template is located at **[Technical-MIP-Template.md](Technical-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 ---    
 
 ### MIP0c8: MIP0 Domain Role Dependencies
@@ -427,7 +427,7 @@ A MIP0c12 subproposal is required to onboard core personnel. MIP0c12 subproposal
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
 
-MIP0c12 subproposals must use the template located at  **[Templates\MIP0c12-Subproposal-Template.md](Templates\MIP0c12-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP0c12 subproposals must use the template located at  **[MIP0c12-Subproposal-Template.md](MIP0c12-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -438,6 +438,6 @@ A MIP0c13 subproposal is required to remove core personnel. MIP0c13 subproposals
 -   **Feedback Period**: 0 days
 -   **Frozen Period**: 0 days
 
-MIP0c13 subproposals must use the template located at  **[Templates\MIP0c13-Subproposal-Template.md](Templates\MIP0c13-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP0c13 subproposals must use the template located at  **[MIP0c13-Subproposal-Template.md](MIP0c13-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
