@@ -2,11 +2,17 @@
 
 ## Preamble
 
-- Core Role:
-- Name of applicant or proposed applicant:
-- Date Applied: <date created on, in (yyyy-mm-dd) format>
-- Date Onboarded: <date created on, in (yyyy-mm-dd) format>
-
+```
+MIP0c8-SP#: #
+Author(s):
+Contributors: 
+Status:
+Date Applied: yyyy-mm-dd
+Date Ratified: yyyy-mm-dd
+---
+Core Personnel Role: MIP Editor or Governance Facilitator
+Proposed applicant: Name of applicant
+```
 
 ## Application Form
     

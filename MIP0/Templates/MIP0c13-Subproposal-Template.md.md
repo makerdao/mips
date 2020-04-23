@@ -1,11 +1,17 @@
 # Subproposal Template for Core Personnel Offboarding
 
 ## Preamble
-
-  - Core Role:
-  - Personnel to be removed:
-  - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-  - Date Removed: <date created on, in (yyyy-mm-dd) format>
+```
+MIP0c8-SP#: #
+Author(s):
+Contributors: 
+Status:
+Date Proposed: yyyy-mm-dd
+Date Removed: yyyy-mm-dd
+---
+Core Personnel Role: MIP Editor or Governance Facilitator
+Core Personnel to be removed: Name of core personnel
+```
 
 ## Removal Form and Supporting Evidence
     

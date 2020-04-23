@@ -4,12 +4,12 @@
 ```
 MIP#: <# to be assigned>
 Title: <MIP title>
-Author: <list of authors' names and/or email addresses and GitHub handles>
+Author(s): <list of authors' names and/or email addresses and GitHub handles>
 Contributors:
 Type: MIP Type
 Status: <Assigned by MIP Editor>
-Date Proposed: <date created on, in (yyyy-mm-dd) format>
-Date Ratified: <yyyy-mm-dd>
+Date Proposed: yyyy-mm-dd
+Date Ratified: yyyy-mm-dd
 Dependencies: <List of depdendent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>

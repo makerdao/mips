@@ -65,58 +65,13 @@ MIP4 also enables the removal of MIPs that are no longer useful. If there are ot
  This component details the process of making amendments.
 - **Feedback Period:** 1 month
 - **Frozen Period:** 1 week
-- **Template:**
-
-```
-Introduction
-
-  - MIP to be amended: <MIP#>
-
-  - Amendment Author:
-
-  - Date of Amendment Submission: <date created on, in (yyyy-mm-dd) format>
-
-Specification
-    
-  - Motivation:
-    - Explanation behind the amendment of the MIP
-    - Explanation of why this change is valid for an amendment rather than a replacement.
-    - Any impact this has on other MIPs that interact with the MIP in question. 
-
-  - Amended Components:
-    - A list of the components that have been amended.
-
-  - Amendment PR:
-    -  A link to the PR containing the amendment. This PR must have remained unchanged for the Frozen Period.
-
-  - Relevant Information:
-    -  Links to evidence further backing the motivation.
-```
+- **Template:** (link)
 ---
 ### MIP4c3: MIP Removal Process 
-
 
 - This component details the process of removing MIPs. 
 - **Feedback Period:** 3 months
 - **Frozen Period:** 1 month
-- **Template:**
+- **Template:** (link)
 
-```
-Introduction
-
-  - MIP to be removed: <MIP#>
-
-  - Author:
-
-  - Date of Submission: <date created on, in (yyyy-mm-dd) format>
-
-Specification
-    
-  - Motivation:
-    - Explanation behind the removal of the MIP
-    - Any impact this has on other MIPs that interact with the MIP in question. 
-
-  - Relevant Information:
-	-  Links to evidence further backing the motivation.
-```
 ---

@@ -88,59 +88,14 @@ This list can be amended through the onboarding (MIP7c3) and offboarding compone
 - **Outcome:** Domain team is either onboarding successfully or is rejected. If onboarded, the domain team is added to the The Current Domain Team Roles list defined in MIP7c2 by the MIP Editor.
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
--   **Onboarding template:**
+-   **Onboarding template:** (link)
 
-```
-Introduction
-
- - Domain: <Ex: Risk>
- - Domain Team Name: <Ex: Risk Team A>
- - Author: <Person creating this proposal>
- - Date Applied: <date created on, in (yyyy-mm-dd) format>
-
-Application
-
--   Domain Team Introduction
-
-	-   Brief introduction / pitch of the team, why they want to work.
-    
-
--   Motivation
-
-	-   Why the team wants to join a certain domain.
-    
-
--   Work Credentials
-
-	-   Full names of members
-	-   Past work experience of members
-    
--   Relevant Information
-    
-	- Github accounts
-	- Forum accounts
-	- Other 
-```
 ---
 
 ### MIP7c4: Domain Team offboarding
 - **Outcome:** The Domain team is offboarded and the Domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by the MIP Editor.
 -   **Feedback Period**: 0 days
 -   **Frozen Period**: 0 days
--   **Offboarding template:**
+-   **Offboarding template:** (link)
 
-```
-Introduction
-    
-    - Domain Team Name:   
-    - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-    
-Specification
-        
-    - Removal Motivation:
-        - An explanation behind the motivation for the removal of the domain team. 
-    
-    - Relevant Information:
-    	-  Links to evidence further backing the motivation behind the removal of the domain team.
-```
 ---

@@ -121,23 +121,6 @@ MIP1c3 is a Process MIP component that allows the creation of sub proposals with
 
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
--   **Template**:
-    
-```
-Introduction
+-   **Template** (link)
 
-  - Problem Space Item to be Added or Deleted:
-
-  - Author:
-
-  - Date of Submission: <date created on, in (yyyy-mm-dd) format>
-
-Specification
-    
-  - Motivation:
-    - Explanation behind the addition or deletion to the Problem Space list. 
-
-  - Relevant Information:
-	-  Links to evidence further backing the motivation.
- 
- ```
+---

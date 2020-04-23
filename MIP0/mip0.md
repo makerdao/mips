@@ -72,7 +72,6 @@ MakerDAO is evolving into an organization that is trustless, fully decentralized
 
 The purpose of the MIPs Framework is to open up the ability to improve Maker Governance and the Maker Protocol to anyone in the community.
 
-
 By empowering the participation of the community and other stakeholders to have a standard approach to proposing improvements, specifications, or process and state changes, the goal is to enable organic growth that will in turn bring MakerDAO closer to self-sustainability.
 
 In order for MIPs to be functional they need to comply with a basic standard outlining their internal structure and external dependencies. This standard is MIPs described in MIP0, the Maker Improvement Proposal Framework.
@@ -119,7 +118,6 @@ In order for MIPs to be functional they need to comply with a basic standard out
 
 
 **MIP Status Criteria**  
-  
 
 **1. Conception:** The lifecycle of a MIP begins when the MIP proposal is posted on the Maker forum. However, in order for a MIP to move to the next stage, it needs to satisfy the transition criteria (1) described below:
 
@@ -138,14 +136,12 @@ In order for MIPs to be functional they need to comply with a basic standard out
  - MIP Author finalizes changes of the MIP, based on community feedback.
  - MIPs have a Feedback Period of 3 months. The RFC phase lasts at least 3 months before the MIP can move to the next phase. 
  - MIPs have a Frozen Period of 1 month. MIPs must not have had any changes for the last 1 month before they move to the next phase.
-  
 
 **4. Fulfilled Feedback Period Requirements:** This status is given once the MIP has fulfilled the defined Feedback Period and Frozen Period. After the MIP has waited out its Feedback Period and Frozen Period, it’s ready for Formal Submission. Note that the Feedback Period and Frozen Period can overlap.
 
 **5. Formal Submission (FS):** This phase is when MIP Authors submit their complete MIP(s) to the Governance cycle by posting it to the formal submission forum category within the formal submission window of a governance cycle.
     - A MIP can be re-submitted to the formal submission process a maximum of 2 additional times (3 total), without having to go through phase 1- 4 again, if it failed to pass due to legitimate external reasons (e.g. got bundled in a governance poll or executive vote with a controversial proposal - subject to the governance facilitators judgement).
   
-
 **6. Approved by the Governance Facilitator(s):** This phase is when the MIP must be formally approved by the Governance Facilitators.   
 
 - Once approved by the Governance Facilitator, the MIP will be included in the inclusion poll of the Governance cycle.
@@ -159,7 +155,6 @@ In order for MIPs to be functional they need to comply with a basic standard out
 **9. Accepted/Rejected:** The Executive vote results in either acceptance or rejection of the MIP. If passed, the MIP is officially accepted and is given the accepted status. If the executive vote fails to pass before expiring, the MIP is rejected.
 - As described in phase 5, a rejected MIP, can be resubmitted, and in some cases (if it was rejected for provable extraneous explanation) may be allowed to enter the next Governance cycle immediately.  
       
-    
 
 **Other MIP Statuses:**  
      
@@ -242,113 +237,9 @@ MIP References are named according to their parent MIP. The convention MIPXrY is
 
 ### MIP0c7: MIP Templates
 
-**General MIP Template**
+**General MIP Template** (link)    
+**Technical MIP Template** (link)   
 
-**Preamble**
-```
-MIP#:
-Title:
-Author(s): 
-Contributors:
-Type: 
-Status: <Assigned by MIP Editor>
-Date Proposed: <date created on, in (yyyy-mm-dd) format>
-Date Ratified: <yyyy-mm-dd>
-Dependencies: n/a
-Replaces: n/a
-```
-**References**
-
-A list of supporting materials referenced by this MIP.
-
-**Sentence Summary**
-
-A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
-
-**Paragraph Summary**
-
-A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
-
-**Component Summary**
-
-A description of the purpose of each component in the MIP . Suggest 30 words max per component.
-
-**Motivation**
-
-A short description of the motivation behind the MIP. 
-
-**Specification / Proposal Details**
-
-Proposed process standard details - describes the new process or feature and the problem it is solving.
-
----
-    
-**Technical MIP Template**
-
-**Preamble**
-```
-MIP#: <# to be assigned>
-Title: <MIP title>
-Author: <list of authors' names and/or email addresses and GitHub handles>
-Contributors:
-Type: MIP Type
-Status: <Assigned by MIP Editor>
-Date Proposed: <date created on, in (yyyy-mm-dd) format>
-Date Ratified: <yyyy-mm-dd>
-Dependencies: <List of depdendent MIPs>
-Replaces: <List of MIP it is replacing>
-License: <added by MIP Author>
-```
-**References**
-
-A list of supporting materials referenced by this MIP.
-
-**Sentence Summary**
-
-A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
-
-**Paragraph Summary**
-
-A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
-
-**Component Summary**
-
-A description of the purpose of each component in the MIP . Suggest 30 words max per component.
-
-
-**Motivation**
-
-A short description of the motivation behind the proposed technical solution. 
-
-**Specification**
-
-The details of the proposed technical solution. The specification should be detailed enough to allow an implementation team to begin development as well as testing. The specification for technical MIPs must  include the following components:
-
-
-- **Proposed Code:**
-    -  The final code that can be used directly in the executive vote to accept or reject the MIP.
-
-
-- **Test Cases:**
-    - For the implementation or testing of the proposed code
-- **Security Considerations**
-
-    - This is one of the most important aspects of the Technical MIP proposal. The purpose of this section is to proactively document any security-relevant design information, decisions, potential failure modes, implementation details, and important discussions related to the proposed change. This section helps to optimize the MIP process by providing proactive guidance on security considerations when proposing a change that will affect the Maker Protocol.
-    - Backwards compatibility
-
-- **Auditor Information and Report**
-
-    - This section includes the audit partner details and the final audit report for the proposed code.
-
-- **Licensing**
-    - Recommended licenses for developed code:
-        -   MIT: [Expat/MIT/X11 license](https://opensource.org/licenses/MIT)
-        -   BSD-2-Clause: [OSI-approved BSD 2-clause license](https://opensource.org/licenses/BSD-2-Clause)
-        -   BSD-3-Clause: [OSI-approved BSD 3-clause license](https://opensource.org/licenses/BSD-3-Clause)
-        -   CC0-1.0: [Creative Commons CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
-        -   GNU-All-Permissive: [GNU All-Permissive License](http://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html)
-        -   Apache-2.0: [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
-    
 ---    
 
 ### MIP0c8: MIP0 Domain Role Dependencies
@@ -531,32 +422,8 @@ The removal process begins once the community has agreed on the reasoning for re
 
 -   **Subproposal Feedback Period**: 3 months
 -   **Sub proposal Frozen Period**: 1 month
--   **Sub proposal template**:
+-   **Sub proposal template** (link)
 
-```
-
-Introduction
-
-- Role:
-
-- Name of applicant or proposed applicant:
-
-- Date Applied: <date created on, in (yyyy-mm-dd) format>
-
-
-Application Form
-    
-- Motivation:
-    - Explanation of why and how you want to fulfil this role. 
-    
-- Credentials:
-	- Past work experience
-	- Github account
-	- Forum account
-
-- Relevant Information:
-	-  Links to forum posts, blog posts, or any other community contributions related to Maker. 
-```
 ---
 
 ### MIP0c13: Core Personnel Offboarding
@@ -565,23 +432,6 @@ Application Form
 
 -   **Sub proposal Feedback Period**: 0 days
 -   **Sub proposal Frozen Period**: 0 days
--   **Sub proposal template**:
+-   **Sub proposal template** (link)
 
-```
-Introduction
-
-  - Role:
-
-  - Person to be removed:
-
-  - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-
-Removal Form and Supporting Evidence
-    
-  - Motivation:
-     - The explanation behind the removal of the person from the role given above.
-
-  - Relevant Information:
-	 -  Links to evidence further backing the motivation behind the removal of the person from the role given above.
-```  
 ---
