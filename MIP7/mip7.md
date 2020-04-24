@@ -15,7 +15,8 @@ Replaces: n/a
 ```
 
 ## References
-No referenced materials.
+**[MIP7c3-Subproposal-Template.md](MIP7c3-Subproposal-Template.md)**  
+**[MIP7c4-Subproposal-Template.md](MIP7c4-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -83,19 +84,30 @@ This list can be amended through the onboarding (MIP7c3) and offboarding compone
 **4. Legal Domain Teams:**
 
 ---
-
 ### MIP7c3: Domain Team Onboarding
-- **Outcome:** Domain team is either onboarding successfully or is rejected. If onboarded, the domain team is added to the The Current Domain Team Roles list defined in MIP7c2 by the MIP Editor.
+
+MIP7c3 is a Process MIP component that allows the onboarding of a domain team using a subproposal. 
+
+If onboarded through a MIP7c3 subproposal, the domain team is added to the The Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
+
+MIP7c3 subproposals have the following parameters:
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
--   **Onboarding template:** (link)
+
+MIP7c3 subproposals must use the template located at  **[MIP7c3-Subproposal-Template.md](MIP7c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
 ### MIP7c4: Domain Team offboarding
-- **Outcome:** The Domain team is offboarded and the Domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by the MIP Editor.
+
+MIP7c4 is a Process MIP component that allows the removal of a domain team using a subproposal.
+
+If offboarded through a MIP7c4 subproposal the domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
+
+ MIP7c4 subproposals have the following parameters:
 -   **Feedback Period**: 0 days
 -   **Frozen Period**: 0 days
--   **Offboarding template:** (link)
+
+MIP7c4 subproposals must use the template located at  **[MIP7c4-Subproposal-Template.md](MIP7c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
