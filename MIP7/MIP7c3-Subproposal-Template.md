@@ -4,10 +4,10 @@
 ```
 MIP7c3-SP#: #
 Author(s):
-Contributors: n/a
+Contributors:
 Status: 
-Date Applied: yyyy-mm-dd
-Date Ratified: yyyy-mm-dd
+Date Applied: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ---
 Domain Role: <Ex: Smart Contract Domain Team>
 Proposed Applicant: 
@@ -16,21 +16,21 @@ Proposed Applicant:
 
 ### Domain Team Introduction
 
-	-   Brief introduction / pitch of the team, why they want to work.
+-   Brief introduction / pitch of the team, why they want to work.
     
 
 ### Motivation
 
-	-   Why the team wants to join a certain domain.
+-   Why the team wants to join a certain domain.
     
 
 ### Work Credentials
 
-	-   Full names of members
-	-   Past work experience of members
+-   Full names of team members
+-   Past work experience of members
     
 ### Relevant Information
     
-	- Github accounts
-	- Forum accounts
-	- Other 
+- Github Accounts
+- Forum Accounts
+- Other 
