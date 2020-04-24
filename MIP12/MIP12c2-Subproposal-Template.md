@@ -7,23 +7,23 @@ Title: <Title>
 Author(s):
 Contributors:
 Status:
-Date Proposed: yyyy-mm-dd
-Date ratified: yyyy-mm-dd
+Date Proposed: <yyyy-mm-dd>
+Date ratified: <yyyy-mm-dd>
 ```
 
 ## Specification 
 
 ### Summary
 
-	- A short description of the proposed improvement.
+- A short description of the proposed improvement.
     
 ### Proposal Details
-    - The three required deliverables 
+- The three required deliverables 
 
 ### Motivation
 
-	- Explanation as to why the sub proposal is necessary.
+- Explanation as to why the sub proposal is necessary.
 
 ### Relevant Information:
 
-    - Links to evidence further backing the motivation behind the proposal for adding n**ew Risk Parameters, Oracle, or Collateral Adapter**
+- Links to evidence further backing the motivation behind the proposal for adding new Risk Parameters, Oracle, or Collateral Adapter.
