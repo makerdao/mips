@@ -118,6 +118,6 @@ MIP3c2 is a Process MIP component that allows the Default Inclusion Threshold to
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
 
-MIP1c4 subproposals must use the template located at  **[MIP3c2-Subproposal-Template.md](MIP3c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP3c2 subproposals must use the template located at  **[MIP3c2-Subproposal-Template.md](MIP3c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
