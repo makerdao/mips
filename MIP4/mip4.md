@@ -64,8 +64,8 @@ MIP4 also enables the removal of MIPs that are no longer useful. If there are ot
 ### MIP4c2: MIP Amendment Process 
 
 MIP4c2 is a Process MIP component that allows the amendment of an Accepted MIP using a subproposal. MIP4c2 subproposals have the following parameters:
-- **Default Feedback Period**: 1 month
-- **Frozen Period**: 1 week
+- **Default Feedback Period**: 3 months
+- **Frozen Period**: 1 month
 
 MIP4c2 subproposals must use the template located at  **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
