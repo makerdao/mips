@@ -1,28 +1,28 @@
-# Subproposal Template for Core Personnel Onboarding
+# MIP0c12: Subproposal Template for Core Personnel Onboarding
 
 ## Preamble
 
 ```
-MIP0c8-SP#: #
+MIP0c12-SP#: #
 Author(s):
 Contributors: 
 Status:
-Date Applied: yyyy-mm-dd
-Date Ratified: yyyy-mm-dd
+Date Applied: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ---
 Core Personnel Role: MIP Editor or Governance Facilitator
 Proposed applicant: Name of applicant
 ```
 
-## Application Form
+## Application
     
-- Motivation:
-    - Explanation of why and how you want to fulfil this role. 
+### Motivation
+- Explanation of why and how you want to fulfil this role. 
     
-- Credentials:
-	- Past work experience
-	- Github account
-	- Forum account
+### Credentials
+- Past work experience.
 
-- Relevant Information:
-	-  Links to forum posts, blog posts, or any other community contributions related to Maker. 
+### Relevant Information
+- Github Account
+- MakerDAO Forum Account 
+- Other relevant Accounts
