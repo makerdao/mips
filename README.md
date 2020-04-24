@@ -11,22 +11,24 @@ Furthermore, MIPs will provide a mechanism for any community member to define ke
     - [Announcement: Kickstarting the Self-Sustaining MakerDAO Initiative](https://forum.makerdao.com/t/announcement-kickstarting-the-self-sustaining-makerdao-initiative/1864)
     - [The Maker Foundation’s Vision of a Self-sustaining MakerDAO: Initiation of Maker Improvement Proposals (MIPs) Framework](https://forum.makerdao.com/t/the-maker-foundation-s-vision-of-a-self-sustaining-makerdao-initiation-of-maker-improvement-proposals-mips-framework/1882)
     - [The Release of the 13 Initial Maker Improvement Proposals (MIPs)](https://forum.makerdao.com/t/the-release-of-the-13-initial-maker-improvement-proposals-mips/1915)
-    - [MIP0: The Maker Improvement Proposal Framework](https://forum.makerdao.com/t/mip0-the-maker-improvement-proposal-framework/1902)
+    - [MIP0: The Maker Improvement Proposal Framework](https://github.com/makerdao/mips/blob/templates/MIP0/mip0.md)
 -  After reading through the above materials, prospective MIP Authors should first propose their proposal on the [MakerDAO Forums](https://forum.makerdao.com/c/MIPS/14) as well as complete the other criteria laid out in the `Conception` phase of the MIPs Lifecycle (described below).
 - **Important Notes:**
-    - When creating a MIP, clone the MIPs repository from GitHub, and start by filling out the appropriate [MIP template](https://github.com/makerdao/mips/blob/master/mip0.md#mip0c6-mip-templates).
+    - When creating a General or Technical MIP, clone the MIPs repository from GitHub, and start by filling out the appropriate [MIP template](https://github.com/makerdao/mips/tree/templates/MIP0).
     - When submitting a Pull Request (PR) for a MIP proposal, be sure to include the following details:
         - Pull Request Title:`MIP#: MIP Title`
         - In the PR comment box, please include the MIP's premable. This includes the following:
         ```
         MIP#:
-        Title: 
-        Author(s):
-        Type:
-        Status: Conception
-        Date Proposed: <year-month-day>
-        Dependencies: n/a
-        Replaces: n/a
+        Title:
+        Author(s): 
+        Contributors:
+        Type: 
+        Status: <Assigned by MIP Editor>
+        Date Proposed: <yyyy-mm-dd>
+        Date Ratified: <yyyy-mm-dd>
+        Dependencies:
+        Replaces:
         ```
     -  In the **RFC Phase**, community members may propose changes to proposed MIPs. When proposing changes to MIPs in the RFC Phase, clone the MIPs repository from GitHub, and then make a Pull Request (PR) for the respetive MIP with the following details: 
         -  PR title: `Add/Change/Delete <details> to MIP#`

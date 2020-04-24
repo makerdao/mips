@@ -15,7 +15,7 @@ Replaces: n/a
 ```
 
 ## References
-No referenced materials.
+**[MIP3c2-Subproposal-Template.md](MIP3c2-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -114,29 +114,10 @@ Proposals submitted must follow the guidelines defined in MIP0.
 
 ### MIP3c2: Default Inclusion Threshold Modification Subproposals
 
-The Default Inclusion Threshold can be modified with subproposals. The subproposals will follow the logic below: 
+MIP3c2 is a Process MIP component that allows the Default Inclusion Threshold to be modified through a subproposal. MIP3c2 subproposals have the following parameters:
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
--   **Subproposal Template**:
 
-```
-Introduction
-
-- MIP3c2-SP#:
-- Author(s): 
-- Date Proposed: <date created on, in (yyyy-mm-dd) format>
-
-
-Specification
-
-Summary
-- Proposal to modify the Default Inclusion Threshold
-
-Motivation
-- Input the motivation and reasoning behind the proposed change of the default inclusion threshold.
-
-Specification / Proposal Details
-- The new default inclusion threshold amount (number).
-```
+MIP3c2 subproposals must use the template located at  **[MIP3c2-Subproposal-Template.md](MIP3c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
