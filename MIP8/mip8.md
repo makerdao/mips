@@ -29,10 +29,10 @@ This proposal aims to define the process where at least one domain team from eac
 **MIP8c1: Domain Greenlight Requirements**  
 Defines the responsibilities of the domain teams in the domain greenlight process.
 
-**MIP8c2: Domain Greenlight Process**
+**MIP8c2: Domain Greenlight Process**  
 Defines the domain greenlight process and its interaction with the collateral onboarding process.
 
-**MIP8c3: Domain Greenlight Outcomes**
+**MIP8c3: Domain Greenlight Outcomes**  
 Defines the possible outcomes from the domain greenlight process.
 
 
@@ -50,6 +50,8 @@ In this stage, the domain teams will signal that they believe the collateral typ
 -   If resolvable issues arise with a specific domain, that domain team is responsible for communicating that the collateral is **deferred** to both the interested party, and to the community via the Maker forums. This communication will include an explanation for the change in status and the criteria that should be met before they resume work.
 -   If there are no issues that warrant stopping this process, then each domain team is responsible for communicating that they are happy to proceed to a full evaluation. This is done by a member of each type of domain team making a forum reply to the MIP6 collateral application forum post saying they have done a MIP8 review and found no issues.
 
+---
+
 ### MIP8c2: Domain Greenlight Process
 
 -   In case new information becomes available that changes the assessment of a domain team, they can revoke their greenlight by posting that they are revoking it in the same forum post.
@@ -59,12 +61,10 @@ In this stage, the domain teams will signal that they believe the collateral typ
 
 <img width="822" alt="mip8-diagram" src="https://user-images.githubusercontent.com/32653033/79890509-9637e000-83cd-11ea-8078-7fcaac410a51.png">
 
-
+---
     
 ### MIP8c3: Domain Greenlight Outcomes
 
 -   Regardless of whether any issues are raised, the process continues with MIP9 (Community Greenlight).
 -   If **deferred**, a resumption criterion is defined and communicated clearly. Until all **deferred** criteria are met, the deferring domain team will not work on the collateral. 
 -   If **rejected** by any domain team, that team has signalled that they are unwilling to do further work on the collateral and that they do not recommend it for inclusion into the Maker Protocol.
-    
----
