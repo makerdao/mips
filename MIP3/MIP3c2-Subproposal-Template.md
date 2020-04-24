@@ -2,21 +2,21 @@
 
 ## Preamble
 ```
-- MIP3c2-SP#:
-- Author(s): 
-- Contributors:
-- Status: 
-- Date Proposed: <date created on, in (yyyy-mm-dd) format>
-- Date Ratified: <date ratified, in (yyyy-mm-dd) format>
+MIP3c2-SP#:
+Author(s): 
+Contributors:
+Status: 
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Specification
 
 ### Summary
-- Proposal to modify the Default Inclusion Threshold
+Proposal to modify the Default Inclusion Threshold
 
 ### Motivation
-- Input the motivation and reasoning behind the proposed change of the default inclusion threshold.
+Input the motivation and reasoning behind the proposed change of the default inclusion threshold.
 
 ### Proposal Details
-- The new default inclusion threshold amount (number).
+The new default inclusion threshold amount (number).
