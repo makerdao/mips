@@ -63,10 +63,10 @@ This list can be amended through the onboarding (MIP7c3) and offboarding compone
 **Entries into this list should follow the following template:**
 
 ```
-- Team Name: The name of the onboarded domain team.
+Team Name: The name of the onboarded domain team.
 - Sub-proposal Number (MIP7c3-SP): #
 - Domain: The domain in which the team operates.
-- Date Added: <date in (yyyy-mm-dd) format>
+- Date Added: (yyyy-mm-dd)
 ```
 
 **Active Domain Teams List**
