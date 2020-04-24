@@ -8,7 +8,7 @@
 MIP7c3-SP#: 1
 Author: Mariano Conti
 Contributors: n/a
-Status: Conception
+Status: Request for Comments (RFC)
 Date Applied: 2020-04-22
 Date Ratified: <yyyy-mm-dd>
 ---
