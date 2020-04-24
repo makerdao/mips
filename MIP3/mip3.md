@@ -55,51 +55,46 @@ Proposals submitted must follow the guidelines defined in MIP0.
 
 *Time is inclusive and in based on UTC (Coordinated Universal Time) and the Gregorian calendar*
 
-**Week 1**
--   **1st Monday-Wednesday of the month:**
-	-   The **Formal submission** (Phase 5 described in MIP0c2) of proposals that are to be included in the new governance cycle.
-	-   The formal submission is done on the formal submission category on the MIPs Discourse forum (as defined in Phase 5 in MIP0c2)
--   **1st Thursday of the month:**
-	-  **Inclusion Poll Review (Governance Meeting):** Discussion surrounding which proposals are in accordance with guidelines (defined in the MIP0 Framework), which proposals are inadequate (even if technically following the guidelines)
+**Week 1, Monday**
+-   The **Formal Submission** (Phase 5 described in MIP0c3) of proposals that are to be included in the new governance cycle by the MIP Authors. This phase lasts for 72 hours.
+-   The formal submission is done on the formal submission category on the MIPs Discourse forum (as defined in Phase 5 in MIP0c3)
+
+**Week 1, Thursday**
+-  **Submission Review (Governance Meeting):** Discussion surrounding which proposals are in accordance with guidelines (defined in the MIP0 Framework), which proposals are inadequate (even if technically following the guidelines.)
     
 
-**Week 2**
+**Week 2, Monday**
+-   The Governance facilitators publish the **Inclusion Poll**. This poll lasts for 72 hours. The proposals that the specific Governance Facilitators' have general consensus on are included, but each Governance Facilitator, in their own can add their own individual short description and list order (which is critical for voter heuristic behaviour and important power of a governance facilitator in times of dispute or uncertainty).
+-   The **Default Inclusion Threshold** is a variable amount that can be changed by MIP3c3 sub proposals. The default inclusion threshold value is automatically counted towards the no vote tally of each item in the inclusion poll. The default inclusion threshold is changed with MIP3c2 subproposals.
+-   **An MKR voter has 2 options for each proposal in an inclusion poll:**
+	-   Yes or no.
+	-   Where the `no` votes simply increase the barrier of the proposal to pass.
+-   **Outcomes:** If the Yes votes for a given option in the inclusion poll are higher than the combination of No votes and the `default inclusion threshold`, the proposal will be included in the governance poll.
+	-   If votes: `yes` > (`no` + `default inclusion threshold`) = inclusion in governance poll.
 
--   **2nd Monday of the month**:
-	-   The Governance facilitators publish an inclusion poll. The proposals that the specific Governance Facilitators' have general consensus on are included, but each Governance Facilitator, in their own can add their own individual short description and list order (which is critical for voter heuristic behaviour and important power of a governance facilitator in times of dispute or uncertainty).
-	-   The **Default Inclusion Threshold** is a variable amount that can be changed by MIP3c3 sub proposals. The default inclusion threshold value is automatically counted towards the no vote tally of each item in the inclusion poll. The default inclusion threshold is changed with MIP3c2 subproposals.
-	-   **An MKR voter has 2 options for each proposal in an inclusion poll:**
-		-   Yes or no.
-		-   Where the `no` votes simply increase the barrier of the proposal to pass.
-	-   **Outcomes:** If the Yes votes for a given option in the inclusion poll are higher than the combination of No votes and the `default inclusion threshold`, the proposal will be included in the governance poll.
-		-   If votes: `yes` > (`no` + `default inclusion threshold`) = inclusion in governance poll.
+**Week 2, Thursday**
+-   The **Governance Poll Review (Governance Meeting)** occurs, covering the general risk and governance topics at hand and without any MIP decision making discussion.
 
--   **2nd Thursday of the month:**
-	-   **The Governance Poll Review (Governance Meeting)**: occurs, covering the general risk and governance topics at hand and without any MIP decision making discussion.
+
+**Week 3, Monday**
+- The **Governance Poll** is submitted by the Governance Facilitators. This poll runs for 72 hours.
+-   The Governance Poll is a yes/no MKR poll that accepts or rejects the combination of all MIPs that passed the inclusion poll stage, including any executive vote code from Technical MIP components or sub proposals.
+
+**Week 3, Thursday**
+- The **Executive Vote Review (Governance Meeting)** this public meeting will focus on either future proposals or controversy around the current governance poll and the future upcoming executive vote.
+-   In case there are too many `no` votes in the governance poll, and there is evidence that there is an effort to silence legitimate concerns in the community this meeting provides opportunities for compromise and the community and governance facilitators must consider whether it is creating a risk of governance split. If a governance facilitator believes that the proposed executive vote will result in a governance split, the Governance Facilitator should not deploy the executive vote and must instead work with the community to resolve the problem. Thus, if all governance facilitators are in consensus that the executive vote creates a significant risk of a community split, the executive vote will not happen and the MIPs that were supposed to be up for an executive vote, instead have their status changed to deferred.
     
 
-**Week 3**
-    
+**Week 4, Monday**
 
--   **3rd Monday-Wednesday of the month:**
-	-   The Governance poll submitted by the Governance Facilitator.
-	-   The Governance poll will run from Monday until Wednesday.
-	-   The Governance Poll is a yes/no MKR poll that accepts or rejects the combination of all MIPs that passed the inclusion poll stage, including any executive vote code from Technical MIP components or sub proposals.
--   **3rd Thursday of the month:**
-	-   **Executive Vote Review (Governance Meeting)** - this public meeting will focus on either future proposals or controversy around the current governance poll and the future upcoming executive vote.
-	-   In case there are too many `no` votes in the governance poll, and there is evidence that there is an effort to silence legitimate concerns in the community this meeting provides opportunities for compromise and the community and governance facilitators must consider whether it is creating a risk of governance split. If a governance facilitator believes that the proposed executive vote will result in a governance split, the Governance Facilitator should not deploy the executive vote and must instead work with the community to resolve the problem. Thus, if all governance facilitators are in consensus that the executive vote creates a significant risk of a community split, the executive vote will not happen and the MIPs that were supposed to be up for an executive vote, instead have their status changed to deferred.
-    
+-   The **Executive Vote** is submitted if the governance poll has passed and the `no` votes are not too high to deem it a threat to consensus.
+-   Regular Executive votes must have an expiration of 7 days, meaning they blank themselves after 7 days.
+-   MIPs and Sub Proposals only get the accepted status if the executive vote they are included in passes within the 7-day limit. If the executive vote fails to pass within the 7-day limit, the MIPs and Sub Proposals have their status changed to rejected.
 
-**Week 4**
-
--   **4th Monday of the month:**
-	-   The Executive vote is submitted if the governance poll has passed and the `no` votes are not too high to deem it a threat to consensus.
-	-   Regular Executive votes must have an expiration of 7 days, meaning they blank themselves after 7 days.
-	-   MIPs and Sub Proposals only get the accepted status if the executive vote they are included in passes within the 7-day limit. If the executive vote fails to pass within the 7-day limit, the MIPs and Sub Proposals have their status changed to rejected.    
--   **4th Thursday of the month:**
-	-   The **Retro & Planning Meeting** occurs, covering the general risk and governance topics at hand and without any MIP decision making discussion. Discussion around the governance poll outcomes (for proposed collateral types) and proposals for next month, or retrospective on current governance cycle controversy.
-	-   MIP3 sub proposals focus on modifying the default inclusion threshold for the inclusion polls.
-	-   They are submitted to the governance cycle like any other proposal and their modified default inclusion threshold takes effect from the governance cycle following the successful passing of their governance cycle’s executive vote.
+**Week 4, Thursday**
+-   The **Retro & Planning Meeting** occurs, covering the general risk and governance topics at hand and without any MIP decision making discussion. Discussion around the governance poll outcomes (for proposed collateral types) and proposals for next month, or retrospective on current governance cycle controversy.
+-   MIP3 sub proposals focus on modifying the default inclusion threshold for the inclusion polls.
+-   They are submitted to the governance cycle like any other proposal and their modified default inclusion threshold takes effect from the governance cycle following the successful passing of their governance cycle’s executive vote.
     
 
 ### Governance Cycle Overview Diagram
