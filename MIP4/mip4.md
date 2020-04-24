@@ -15,8 +15,8 @@ Replaces: n/a
   ```
 
 ## References
-**[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**
-**[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**
+**[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**  
+**[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
