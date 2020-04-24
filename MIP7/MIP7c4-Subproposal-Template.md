@@ -2,19 +2,19 @@
 
 ## Preamble
 ```
-MIP7c3-SP#: #
+MIP7c4-SP#: #
 Author(s):
-Contributors: n/a
+Contributors:
 Status: 
-Date Proposed: yyyy-mm-dd
-Date Removed: yyyy-mm-dd
+Date Proposed: <yyyy-mm-dd>
+Date Removed: <yyyy-mm-dd>
 ---
 Domain Team Name: <Ex: Smart Contract Domain Team> 
 ```
 ## Specification
         
-### Removal Motivation:
-    - An explanation behind the motivation for the removal of the domain team. 
+### Removal Motivation
+   - An explanation behind the motivation for the removal of the domain team. 
     
-### Relevant Information:
-    -  Links to evidence further backing the motivation behind the removal of the domain team.
+### Relevant Information
+   -  Links to evidence further backing the motivation behind the removal of the domain team.
