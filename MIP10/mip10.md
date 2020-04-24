@@ -119,7 +119,7 @@ MIP10c3 subproposals have the following parameters:
 - **Frozen period:** 0 days
 - **Update Interval:** Feeds have a period of 2 weeks during which to upgrade their systems to include the Oracle type and data models. Any Feeds not upgraded during this interval are presumed to be in breach of their responsibilities and potentially subject to removal.
 
-MIP10c3 subproposals must use the template located at  **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
     
 ---
 
@@ -129,6 +129,6 @@ MIP10c4 is a Process MIP component that allows anyone to remove an Oracle using 
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
 
-MIP10c4 subproposals must use the template located at  **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
