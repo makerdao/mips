@@ -15,7 +15,8 @@
     
 
 ## References
-No referenced materials.
+**[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**  
+**[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -111,21 +112,23 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 ---
 ### MIP10c3: Process for Onboarding
 
+MIP10c3 is a Process MIP component that is used by the Oracle Team(s) to onboard new oracles for collateral assets as well as compel the Feeds to update their Data Models in preparation for deploying a new Oracle. 
 
-This process MIP component is used by the Oracle Team(s) to onboard new oracles for collateral assets as well as compel the Feeds to update their Data Models in preparation for deploying a new Oracle.
-
+MIP10c3 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 - **Update Interval:** Feeds have a period of 2 weeks during which to upgrade their systems to include the Oracle type and data models. Any Feeds not upgraded during this interval are presumed to be in breach of their responsibilities and potentially subject to removal.
-**Subproposal Template:** (link)
+
+MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
     
 ---
 
 ### MIP10c4: Process for Offboarding
 
-If an Oracle has been made obsolete, anyone can make a proposal to remove it, in order to reduce unnecessary costs such as gas fees. 
+MIP10c4 is a Process MIP component that allows anyone to remove an Oracle using a MIP10c4 subproposal. MIP10c4 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
-- **Subproposal Template:** (link)
+
+MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---

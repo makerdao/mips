@@ -14,7 +14,8 @@ Replaces: n/a
 ```
 
 ## References
-No referenced materials.
+**[MIP11c3-Subproposal-Template.md](MIP11c3-Subproposal-Template.md)**  
+**[MIP11c4-Subproposal-Template.md](MIP11c4-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -73,17 +74,29 @@ Risk models are a crucial element of the Maker Protocol's maintenance and growth
 
 ### MIP11c3: Process for Onboarding
 
-- **Outcome:** The General Risk Model specified in the MIP11c3 Sub Proposal is appended to MIP11c2.
+MIP11c3 is a Process MIP component that allows the onboarding of a general risk model using a subproposal. 
+
+If a MIP11c3 subproposal is Accepted, The General Risk Model specified in the MIP11c3 subproposal is appended to the list in MIP11c2 by a MIP Editor.
+
+MIP11c3 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
-- **Subproposal Template:** (link)
+
+MIP11c3 subproposals must use the template located at  **[MIP11c3-Subproposal-Template.md](MIP11c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
 ### MIP11c4: Process for Offboarding
 
-- **Outcome:** The General Risk Model specified in the MIP11c4 Sub Proposal is removed from MIP11c2.
+MIP11c4 is a Process MIP component that allows the removal of an active general risk model using a subproposal. 
+
+If a MIP11c4 subproposal is Accepted, The General Risk Model specified in the MIP11c4 Sub Proposal is removed from the list in MIP11c2 by a MIP Editor.
+
+MIP11c4 subproposals have the following parameters:
+
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
-- **Subproposal Template:** (link)
+
+MIP11c4 subproposals must use the template located at  **[MIP11c4-Subproposal-Template.md](MIP11c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---

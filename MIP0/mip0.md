@@ -14,7 +14,10 @@ Dependencies: n/a
 Replaces: n/a
 ```
 ## References
-No referenced materials.
+**[General-MIP-Template.md](General-MIP-Template.md)**  
+**[Technical-MIP-Template.md](Technical-MIP-Template.md)**  
+**[MIP0c12-Subproposal-Template.md](MIP0c12-Subproposal-Template.md)**  
+**[MIP0c13-Subproposal-Template.md](MIP0c13-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -227,19 +230,21 @@ Due to the fact that the dependencies carry over, a MIP with defined replacement
 
 ### MIP0c6: Supporting Materials
 
-MIPs can optionally refer to external materials. External Materials must be added to the MIPs github in the same folder as the MIP which references them.
+MIPs can optionally refer to external materials. External materials must be added to the MIPs github in the same folder as the MIP which references them.
 
 Externally referenced materials are not MIP content, and are not ratified when a MIP becomes Accepted unless it is explicitly stated otherwise in a MIP Component specification.
-
-MIP References are named according to their parent MIP. The convention MIPXrY is used to refer to external materials. When referenced inline the reference should include both the reference code and the title and it should be bolded. For example: **MIPXrY - My Important Supporting Material**
 
 ---
 
 ### MIP0c7: MIP Templates
 
-**General MIP Template** (link)    
-**Technical MIP Template** (link)   
+**General MIP Template**
+- The General MIP Template should be used for MIPs whenever a more specific ratified template is not more appropriate. 
+- The General MIP Template is located at **[General-MIP-Template.md](General-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
+**Technical MIP Template**
+- The Technical MIP Template should be used for MIPs whenever a MIP proposes changes to the smart contract code within the Maker Protocol.
+- The Technical MIP Template is located at **[Technical-MIP-Template.md](Technical-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 ---    
 
 ### MIP0c8: MIP0 Domain Role Dependencies
@@ -418,20 +423,21 @@ The removal process begins once the community has agreed on the reasoning for re
 
 ### MIP0c12: Core Personnel Onboarding
 
-**A MIP0 Sub Proposal is required to onboard core personnel**
+MIP0c12 is a Process MIP component that allows the onboarding of core personnel using a subproposal. MIP0c12 subproposals have the following parameters:
+-   **Feedback Period**: 3 months
+-   **Frozen Period**: 1 month
 
--   **Subproposal Feedback Period**: 3 months
--   **Sub proposal Frozen Period**: 1 month
--   **Sub proposal template** (link)
+MIP0c12 subproposals must use the template located at  **[MIP0c12-Subproposal-Template.md](MIP0c12-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
 ### MIP0c13: Core Personnel Offboarding
 
-**A MIP0 Sub Proposal is required to remove core personnel**
+MIP0c13 is a Process MIP component that allows the removal of core personnel using a subproposal. MIP0c13 subproposals have the following parameters:
 
--   **Sub proposal Feedback Period**: 0 days
--   **Sub proposal Frozen Period**: 0 days
--   **Sub proposal template** (link)
+-   **Feedback Period**: 0 days
+-   **Frozen Period**: 0 days
+
+MIP0c13 subproposals must use the template located at  **[MIP0c13-Subproposal-Template.md](MIP0c13-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
