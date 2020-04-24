@@ -14,7 +14,7 @@ Replaces: n/a
 ```  
 
 ## References
-No referenced materials.
+**[MIP12c2-Subproposal-Template.md](MIP12c2-Subproposal-Template.md)**
 
 ## Sentence Summary
 
@@ -52,16 +52,19 @@ This proposal will focus on the collateral onboarding process blueprint for subm
 
 ### MIP12c2: Proposing New Risk Parameters, Oracles, and Collateral Adapters
 
-**Description:** This is a technical process MIP component for submitting **MIP12c2-SPs** that allows any community member to propose new risk parameters, oracles, and adapters for a new, or existing collateral type, based on the work products of domain teams. MIP12-Subproposals (MIP12c2-SPs) MUST contain the following **three** deliverables in the specification section:
+MIP12c2 is a Process MIP component that allows the any community member to propose new risk parameters, oracles, and adaptors for a new, or existing collateral type based on the work products of domain teams using a subproposal.
 
+MIP12c2 subproposals must contain the following three deliverables in the specification section:
 1. A risk construct based on an active general risk model by a ratified risk team and the results of polls that define all risk parameters for the collateral type.
 2. A security audit and risk assessment of a deployed and operational collateral adapter, medianizer, oracle security module and executive vote code by a smart contracts domain team.
 3. A security audit and risk assessment of the current status of the oracle price feeds for supporting the new collateral type by an oracle domain team.
 
+ MIP12c2 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen Period:** 0 days
 
-**Feedback Period:** 0 days
-**Frozen Period:** 0 days
-**Subproposal Template:** (link)
+MIP12c2 subproposals must use the template located at **[MIP12c2-Subproposal-Template.md](MIP12c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+
 
 ---
 
