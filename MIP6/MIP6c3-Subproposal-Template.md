@@ -2,17 +2,18 @@
 
 ## Preamble
 ```
-- MIP6c3-SP: #
-- Title: <Title>
-- Author(s): <Name>, <Github handle>
-- Contributors: 
-- Status: 
-- Date Proposed: yyyy-mm-dd
-- Date Ratified: yyyy-mm-dd
+MIP6c3-SP: #
+Title:
+Author(s):
+Contributors: 
+Status: 
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ```
 ## Specification 
 
 ### Motivation
-    - Explain the motivation behind the changes to the application questions.
+   - Explain the motivation behind the changes to the application questions.
     
-### List of changes to Application questions.
+### List of changes to Application questions
+   - < List >
