@@ -105,7 +105,9 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 
 **The Oracle Onboarding process is as follows:**
 
-0. A community members requests a new Oracle by publishing the MIP10c2 subtemplate in the Oracle section of the Maker Forum. At this point the proposal is in limbo until an Oracle Team commits to doing the work. An Oracle Team at its discretion may opt to skip this step.
+Note, the process to onboard Oracles for new collateral types is handled through the collateral onboarding process in [MIP#####](MIP#####.md).
+
+0. A community members requests a new Oracle by publishing the [MIP10c2-Subproposal-Template](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. At this point the proposal is in limbo until an Oracle Team commits to doing the work. An Oracle Team at its discretion may opt to skip this step.
 
 1. Oracle Team finds and select data sources
     - Exchange options
@@ -117,12 +119,12 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 4. Deploy new instances of previously audited smart contracts for the asset type. This includes two smart contracts:
     - Medianizer
     - Oracle Security Module (OSM) - only required for collateral assets
-5. Oracle Team publishes MIP10c3 subtemplate to the Oracle Forum for community review as well as submitting a PR to the MIPs Github repo.
-6. Feedback is incorporated into the MIP10c3 subtemplate with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as the Github PR.
+5. Oracle Team publishes [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle Forum for community review as well as submitting a PR to the MIPs Github repo.
+6. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) subtemplate with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as the Github PR.
 7. The Oracle Team submits a Polling Vote to the Governance Portal. 
-8. If the Polling Vote passes, the Oracle Team will alert the Feeds to update their Oracle clients. If the Polling Vote fails the Oracle Team may make changes to the MIP10c3 subtemplate and resubmit a new Polling Vote. If the Oracle Team does not, and no other Oracle Team decides to take up this responsibility, the process ends here.
-5. Notify the Feeds to update their Oracle clients 
-    - Alert sent out on the official Keybase channel
+8. If the Polling Vote passes, the Oracle Team will alert the Feeds to update their Oracle clients. If the Polling Vote fails the Oracle Team may make changes to the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and resubmit a new Polling Vote. If the Oracle Team does not, and no other Oracle Team decides to take up this responsibility, the process ends here.
+5. Oracle Team Notifies the Feeds to update their Oracle clients 
+    - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy and 1 week to confirm stability
     - Feeds who do not deploy within the given timeline are given a warning. Give enough warnings governance may opt to remove the Feed through MIP10c14.
 6. If necessary, the actions are bundled up in the subsequent Executive Vote. 
@@ -131,11 +133,15 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 
 ### MIP10c2: Process for Community Oracle Onboarding Request
 
-Used by the community to signal demand for onboarding new Oracles for non-collateral assets. Typically this will be a 3rd party with a desire to consume the requested Oracle's data. Requests are reviewed by the Oracle Team(s) who then choose whether to take on the work required to submit MIP10c3 and continue the Oracle Onboarding process.
+Used by the community to signal demand for onboarding new Oracles for non-collateral assets.
 
-Processes to onboard Oracles for new collateral types are handled through the collateral onboarding process in MIP#####.
+This process is initiated by a community member or other 3rd party publishing the [MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum.  Typically this will be a 3rd party with a desire to consume the requested Oracle's data. 
 
-MIP10c2 subproposals must use the template located at **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**.
+Requests are reviewed by the Oracle Team(s) who then choose whether to take on the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Oracle Onboarding process.
+
+If a contract address is included to be whitelisted, the Oracle data must be used in a permissioned manner so as to prohibit parasitic use of the Oracle data by other smart contract. This means Oracle values, if saved in storage, must be stored in private variables accessible only by that system (defined as the set of smart contracts pertaining to customer(s). Exposure of the Oracle data through events is permitted.
+
+**[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**.
 
 ---
 
