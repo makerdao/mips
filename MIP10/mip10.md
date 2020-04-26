@@ -24,6 +24,15 @@
 **[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**   
 **[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**    
 **[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**    
+**[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**    
+**[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**    
+**[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**    
+**[MIP10c15-Subproposal-Template.md](MIP10c15-Subproposal-Template.md)**    
+**[MIP10c16-Subproposal-Template.md](MIP10c16-Subproposal-Template.md)**    
+**[MIP10c17-Subproposal-Template.md](MIP10c17-Subproposal-Template.md)**    
+**[MIP10c18-Subproposal-Template.md](MIP10c18-Subproposal-Template.md)**    
+**[MIP10c19-Subproposal-Template.md](MIP10c19-Subproposal-Template.md)**    
+**[MIP10c20-Subproposal-Template.md](MIP10c20-Subproposal-Template.md)**    
 
 ## Sentence Summary
 
