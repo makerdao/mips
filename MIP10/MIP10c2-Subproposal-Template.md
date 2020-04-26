@@ -1,4 +1,4 @@
-# MIP10c2: Subproposal for Community Oracle Onboarding Request
+# MIP10c2: Subproposal for Oracle Onboarding Request
 
 ## Preamble
 ```

@@ -35,8 +35,8 @@ This proposal defines the processes for onboarding, offboarding and managing Ora
 **MIP10c1: Oracle Onboarding (OT)**  
 Defines a process for onboarding new oracles into the Maker Protocol.
 
-**MIP10c2: Process for Community Oracle Onboarding Request**   
-A process component that defines the method and template for the community to request a new Oracle.
+**MIP10c2: Process for Oracle Onboarding Request**   
+A process component that defines the method and template to request a new Oracle.
 
 **MIP10c3: Process to Onboard Oracle (OT)**  
 A process component that defines the method and template for the Oracle Team to onboard a new Oracle.
@@ -47,8 +47,8 @@ A process component that defines the method and template to offboard an Oracle i
 **MIP10c5: List of Active Oracles**   
 A list component that is kept-up-to-date with the currently active Oracles and their properties.
 
-**MIP10c6: Process for Community Data Model Update Request**   
-A process component that defines the method and template for the community to update a Data Model.
+**MIP10c6: Process for Data Model Update Request**   
+A process component that defines the method and template to request to update a Data Model.
 
 **MIP10c7: Process to Update Oracle Data Model (OT)**   
 A process component that defines the method and template for the Oracle Team to update the Data Model of an asset pair.
@@ -108,13 +108,6 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
 
-0. 
-    a) A community members requests a new Oracle by publishing the [MIP10c2-Subproposal-Template](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. At this point the proposal is in limbo until an Oracle Team commits to doing the work.
-    or   
-    b) The Oracle Team(s) are requested to create a new Oracle as part of the collateral onboarding process. At this point the proposal is in limbo until an Oracle Team commits to doing the work.
-
-**An Oracle Team may opt to skip this step and submit MIP10c3**
-
 1. An Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
 2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
 3. The Oracle Team submits a Polling Vote to the Governance Portal. If the Oracle is being onboarded as part of the collateral onboarding process, this proposal may be bundled up with other deliverables necessary for collateral onboarding.  
@@ -133,7 +126,7 @@ This MIP is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c2: Process for Community Oracle Onboarding Request
+### MIP10c2: Process for Oracle Onboarding Request
 
 Used by the community to signal demand for onboarding new Oracles for non-collateral assets.
 
@@ -143,9 +136,11 @@ MIP10c2 subproposals have the following parameters:
 
 MIP10c2 subproposals must use the template located at **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**.
 
+**An Oracle Team may opt to skip this step and submit MIP10c3**
+
 1. A community member or other 3rd party publishes the [MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. Typically this will be a 3rd party with a desire to consume the requested Oracle's data. 
 
-2. Requests are reviewed by the Oracle Team(s) who then choose whether to take on the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Oracle Onboarding process.
+2. At this point the proposal is in limbo until one or more Oracle Teams commits to doing the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Oracle Onboarding process.
 
 This MIP is considered ratified once this MIP moves to Accepted status.
 ---
@@ -197,7 +192,7 @@ MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Tem
 
 3. The Oracle Team(s) submit a Polling Vote to the Governance Portal.
 
-4. If the Polling Vote passes, any customers whitelisted on the Oracle are given 30 days notice that the Oracle is shutting down.
+4. If the Polling Vote passes, the Oracle Team(s) gives 30 day notice to any customers whitelisted on the Oracle that the Oracle is shutting down.
     - Notice is sent to each customer via the email provided in MIP10c9.
 
 5. The Oracle Team(s) complete the following technical deliverables:
@@ -221,19 +216,73 @@ This template is considered ratified once this MIP moves to Accepted status.
 
 ### MIP10c5: List of Active Oracles
 A canonical record of the Oracles in active operation by the Maker Protocol.
-MIP10c5 must be updated when an Oracle is onboarded or offboarded by governance via MIP10c3 and MIP10c4.
-It is the responsibility of the Oracle Team(s) to ensure MIP10c5 is kept up to date.
+
+MIP10c5 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen Period:** 0 days
 
 The MIP10c5 template is located at **[MIP10c5-Subproposal-Template.md](MIP10c5-Subproposal-Template.md)**.
 
+MIP10c5 must be updated when an Oracle is onboarded or offboarded by governance via MIP10c3 and MIP10c4.
+It is the responsibility of the Oracle Team(s) to ensure MIP10c5 is kept up to date.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
-### MIP10c6: Process for Community Data Model Update Request
+### MIP10c6: Process for Data Model Update Request
+
+Used by the community to request to update an Oracle Data Model.
+
+MIP10c6 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen Period:** 0 days
+
+MIP10c6 subproposals must use the template located at **[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**.
+
+**An Oracle Team may opt to skip this step and submit MIP10c7**
+
+1. A community member or other 3rd party publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
+
+2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
+
+3. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to submit [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) and continue the Oracle Data Model Update process.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
 ### MIP10c7: Process to Update Oracle Data Model (OT)
 
+Used by the Oracle Team(s) to update an Oracle Data Model.
+
+MIP10c7 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen Period:** 0 days
+
+MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**.
+
+1. The Oracle Team(s) complete the following technical deliverables:
+    - Update price querying tool(s) to implement the Data Model for the Oracle.
+    - Update the Oracle client(s) to integrate the latest version of the price querying tool(s) and implement technical changes to utilize the new Data Model.
+
+2. An Oracle Team publishes the [MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
+
+3. Feedback is incorporated into the [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the MIPS Github repo.
+
+4. The Oracle Team submits a Polling Vote to the Governance Portal.
+
+5. If the Polling Vote passes, the Oracle Team(s) gives 30 day notice to any customers whitelisted on the Oracle that the Oracle Data Model is changing.
+    - Notice is sent to each customer via the email provided in MIP10c9.
+
+6. After the 30-day period has elapsed, the Oracle Team(s) notify the Feeds to update their Oracle clients 
+    - Alert sent out on the official Feeds Keybase channels
+    - Timeline: 1 week to deploy
+    - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c14.
+
+7. The Oracle Team(s) update [MIP10c8](MIP10c8-Subproposal-Template) and [MIP10c5](MIP10c5-Subproposal-Template) and submit a PR to the MIPS Github repo.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -333,7 +382,7 @@ MIP10c10 must be updated when an entity is added or removed from the whitelist f
 
 ---
 
-### MIP10c15: List of Feeds Registry**
+### MIP10c15: List of Feeds**
 
 ---
 
