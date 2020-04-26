@@ -119,8 +119,8 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 6. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
 
 7. The Oracle Team(s) update [MIP10c5-List of Active Oracles](MIP10c5-Subproposal-Template.md) to append the new Oracle and submit a PR to the MIPS Github repo.
-
-8. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
+8. The Oracle Team(s) update [MIP10c8-List of Oracle Data Models](MIP10c8-Subproposal-Template.md) to append the new Data Model and submit a PR to the MIPS Github repo.
+9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
 
 This MIP is considered ratified once this MIP moves to Accepted status.
 
@@ -187,27 +187,19 @@ MIP10c4 subproposals have the following parameters:
 MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**.
 
 1. A community member or other 3rd party publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-
 2. After a period for the community to review and give feedback on the proposal, an Oracle Team may choose to commit to the work required to continue the Oracle Offboarding process.
-
 3. The Oracle Team(s) submit a Polling Vote to the Governance Portal.
-
 4. If the Polling Vote passes, the Oracle Team(s) gives 30 day notice to any customers whitelisted on the Oracle that the Oracle is shutting down.
     - Notice is sent to each customer via the email provided in MIP10c9.
-
 5. The Oracle Team(s) complete the following technical deliverables:
     - Update price querying tool(s) to cease collecting data for the Oracle.
     - Update the Oracle client(s) to integrate the latest version of the price querying tool(s) and cease publishing data for the Oracle.
-
 6. After the 30-day period has elapsed, the Oracle Team Notifies the Feeds to update their Oracle clients 
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c14.
-
 7. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
-
 8. The Oracle Team(s) update [MIP10c5-Subproposal-Template](MIP10c5-Subproposal-Template.md) to remove the Oracle and submit a PR to the MIPS Github repo. 
-
 9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to remove all whitelist entries and submit a PR to the MIPS Github repo.
 
 This template is considered ratified once this MIP moves to Accepted status.
@@ -243,9 +235,7 @@ MIP10c6 subproposals must use the template located at **[MIP10c6-Subproposal-Tem
 **An Oracle Team may opt to skip this step and submit MIP10c7**
 
 1. A community member or other 3rd party publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-
 2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
-
 3. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to submit [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) and continue the Oracle Data Model Update process.
 
 This template is considered ratified once this MIP moves to Accepted status.
@@ -265,22 +255,17 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
 1. The Oracle Team(s) complete the following technical deliverables:
     - Update price querying tool(s) to implement the Data Model for the Oracle.
     - Update the Oracle client(s) to integrate the latest version of the price querying tool(s) and implement technical changes to utilize the new Data Model.
-
 2. An Oracle Team publishes the [MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-
 3. Feedback is incorporated into the [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the MIPS Github repo.
-
 4. The Oracle Team submits a Polling Vote to the Governance Portal.
-
 5. If the Polling Vote passes, the Oracle Team(s) gives 30 day notice to any customers whitelisted on the Oracle that the Oracle Data Model is changing.
     - Notice is sent to each customer via the email provided in MIP10c9.
-
 6. After the 30-day period has elapsed, the Oracle Team(s) notify the Feeds to update their Oracle clients 
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c14.
-
-7. The Oracle Team(s) update [MIP10c8](MIP10c8-Subproposal-Template) and [MIP10c5](MIP10c5-Subproposal-Template) and submit a PR to the MIPS Github repo.
+7. The Oracle Team(s) update [MIP10c8](MIP10c8-Subproposal-Template) to update the Data Model and submit a PR to the MIPS Github repo.
+8. The Oracle Team(s) update [MIP10c5](MIP10c5-Subproposal-Template) to update the Active Oracle record with the updated Data Model and submit a PR to the MIPS Github repo.
 
 This template is considered ratified once this MIP moves to Accepted status.
 
@@ -288,71 +273,20 @@ This template is considered ratified once this MIP moves to Accepted status.
 
 ### MIP10c8: List of Oracle Data Models
 
-MIP10c7 is a List Component that serves as a canonical record of the ratified Data Models actively being used by the Oracles.
-MIP10c7 must be updated when a Data Model is ratified by governance.
 
-**Oracle Data Model Template Explanation:**
-- **Source:** The data source for the Oracle Feed
-- **Asset Pair:** The asset pair is a price quote of the exchange rate for two different assets traded on the market.
-- **Quorum:** The number of Feeds you need to reach a consensus on a price.
-- **Feed Model:**  Model for how a Feed processes all sourced data into a singular price
-- **Oracle Model:** Model for how an Oracle processes all Feed data into a singular price
-- **Example Template**:
+A canonical record of the ratified Data Models actively being used by the Oracles.
 
-| Source        |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :----: | :---------: | :----------: |
-| <data source> |   <param>     |  <#>   |   <model>   |    <model>   |
+MIP10c8 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen Period:** 0 days
 
-**Active Oracle Data Models:**
+The MIP10c8 template is located at **[MIP10c8-Subproposal-Template.md](MIP10c8-Subproposal-Template.md)**.
 
-**BAT/USD Data Model**
+MIP10c8 must be updated when a new Data Mode is ratified as part of Oracle onboarding via MIP10c1 as well as when an Oracle Data Model is updated via MIP10c7.
 
-    |    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-    | :------------ | :------------ | :----: | :---------: | :----------: |
-    |   Binance     |    BAT/BTC    |   13   |    Median   |    Median    |
-    |   Bittrex     |    BAT/BTC    |
-    |   Coinbase    |    BAT/USDC   |
-    |   Upbit       |    BAT/KRW    |
+It is the responsibility of the Oracle Team(s) to ensure MIP10c8 is kept up to date.
 
-**BTC/USD Data Model**
-
-|    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :---: | :---------: | :----------: |
-|   Binance     |    BTC/USDT   |   13  |    Median   |    Median    |
-|   BitFinex    |    BTC/USDT   |
-|   Bitstamp    |    BTC/USD    |
-|   Bittrex     |    BTC/USD    | 
-|   Coinbase    |    BTC/USD    |
-|   Gemini      |    BTC/USD    |
-|   Kraken      |    BTC/USD    |
-
-**ETH/BTC Data Model**
-
-|    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :---: | :---------: | :----------: |
-|   Binance     |    ETH/BTC    |   13  |    Median   |    Median    |
-|   BitFinex    |    ETH/BTC    |
-|   Coinbase    |    ETH/BTC    |
-|   Huobi       |    ETH/BTC    |
-|   Kraken      |    ETH/BTC    |
-|   Poloniex    |    ETH/BTC    | 
-
-**ETH/USD Data Model**
-
-    |    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-    | :------------ | :------------ | :---: | :---------: | :----------: |
-    |   Binance     |    ETH/BTC    |   13  |    Median   |    Median    |
-    |   Bitstamp    |    ETH/USD    |
-    |   Coinbase    |    ETH/USD    |
-    |   Gemini      |    ETH/USD    |
-    |   Kraken      |    ETH/USD    |
-
-
-**USDC/USD Data Model**
-
-    |    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-    | :------------ | :-----------: | :----: | :---------: | :----------: |
-    |      1        |      N/A      |   N/A  |     N/A     |      N/A     |
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 

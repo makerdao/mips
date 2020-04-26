@@ -6,7 +6,7 @@ MIP10c2-SP#:
 Author(s):
 Contributors:
 Type: Process Component
-Status: <proposed/accepted
+Status: <proposed/accepted>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
