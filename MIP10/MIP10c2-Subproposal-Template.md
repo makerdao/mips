@@ -12,15 +12,14 @@ Date Ratified: <yyyy-mm-dd>
 ## Specification
 
 ### Introduction
+	- What will this Oracle be used for?
+	- General comments by proposer
 
 ### Customer(s)
- 	- <customer name> <what will the Oracle be used for>
+ 	- <customer name> <email>
 
 ### Whitelist
 	- <customer name> - <address(es) to whitelist>
-
-### Contact
-	- <customer name> - <email>
 
 ### Requirements
 	For each address to be whitelisted:

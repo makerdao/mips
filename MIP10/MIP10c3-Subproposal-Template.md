@@ -16,6 +16,8 @@ Date Ratified: <yyyy-mm-dd>
 ## Specification
 
 ### Introduction
+	- What will this Oracle be used for?
+	- General comments by Oracle Team
 
 ### Oracle Data Model 
 
@@ -36,21 +38,21 @@ Date Ratified: <yyyy-mm-dd>
  	- Oracle Security Module (OSM)
 
 ### Customer(s)
- 	- <customer name> <what Oracle will be used for>
+ 	- <customer name> <email>
 
 ### Whitelist
 	- <customer name> - <address(es) to whitelist>
+
+### Requirements
+	For each customer address to be whitelisted:
+		- Is contract source code verified on etherscan? <yes/no>
+		- Is Oracle data used in a permissioned manner that would prevent parasitic behavior? <yes/no>
+		- Is Oracle data written to storage? <yes/no>
+			- If Oracle data is stored, is it stored in a private variable? <yes/no>
+			- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? <yes/no>
 
 ### Fee
 	- <customer name> - <amount in Dai>
     
 ### Supported Tools
 	- <tool name> <version commit hash> <link to github repo>
-    
-### Communication Medium(s)
- 	- Oracle Team posts MIP10c3 in the Maker Forum for review by Maker governance.
- 	- Oracle Team posts MIP10c3 in the Keybase Feeds channel after it has been ratified by a governance Polling Vote.
-    
-### Update Interval
-   
- 	After the proposal has passed a Polling Vote the Oracle Team will publish update document and alert the Feeds to update via Keybase. The Feeds have a period of 1 week during which to upgrade their systems to include the Oracle type and data model(s). Any Feeds not upgraded during this interval are presumed to be in breach of their responsibilities and potentially subject to removal.
