@@ -15,9 +15,9 @@
 
 ## References
 **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**  
-**[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**
-**[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**
-**[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**
+**[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**   
+**[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**   
+**[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**   
 
 ## Sentence Summary
 
@@ -34,7 +34,7 @@ This proposal defines the processes for onboarding, offboarding and managing Ora
 **MIP10c1: Oracle Onboarding**  
 Defines a process for onboarding new oracles into the Maker Protocol.
 
-**MIP10c2: Process for Community Oracle Onboarding Request**
+**MIP10c2: Process for Community Oracle Onboarding Request**   
 A process component that defines the method and template for the community to request a new Oracle.
 
 **MIP10c3: Process to Onboard Oracle (OT)**  
@@ -43,55 +43,56 @@ A process component that defines the method and template for the Oracle Team to 
 **MIP10c4: Process to Offboard Oracle**  
 A process component that defines the method and template to offboard an Oracle in the case it has become obsolete or otherwise undesireable.
 
-**MIP10c5: List of Active Oracles**
+**MIP10c5: List of Active Oracles**   
 A list component that is kept-up-to-date with the currently active Oracles and their properties.
 
-**MIP10c6: Process for Community Data Model Update Request**
+**MIP10c6: Process for Community Data Model Update Request**   
+A process component that defines the method and template for the community to update a Data Model.
 
-**MIP10c7: Process to Update Oracle Data Model (OT)**
-A process component that defines the method and template to update the Data Model of an Oracle.
+**MIP10c7: Process to Update Oracle Data Model (OT)**   
+A process component that defines the method and template for the Oracle Team to update the Data Model of an asset pair.
 
 **MIP10c8: List of Active Oracle Data Models**  
 A list component that is kept up-to-date with the currently active Oracle Data Models.
 
-**MIP10c9: Process to Whitelist Oracle Access**
+**MIP10c9: Process to Whitelist Oracle Access**   
 A process component that defines the method and template to whitelist access for a specific Oracle.
 
-**MIP10c10: Process to Remove Oracle Access**
+**MIP10c10: Process to Remove Oracle Access**   
 A process component that defines the method and template to remove whitelist access for a specific Oracle.
 
-**MIP10c11: List of Oracle Whitelists Registry**
+**MIP10c11: List of Oracle Whitelists Registry**   
 A list component that is kept up-to-date with the whitelist for each Oracle.
 
 ### Feeds:
 
-**MIP10c12: Process to Appoint Dark Feed**
+**MIP10c12: Process to Appoint Dark Feed**   
 A process component that defines the method and template to appoint a Dark Feed.
 
-**MIP10c13: Process to Appoint Light Feed**
+**MIP10c13: Process to Appoint Light Feed**   
 A process component that defines the method and template to appoint a Light Feed.
 
-**MIP10c14: Process to Remove Feed**
+**MIP10c14: Process to Remove Feed**   
 A process component that defines the method and template to remove a Feed.
 
-**MIP10c15: List of Feeds Registry**
+**MIP10c15: List of Feeds Registry**   
 A list component that is kept up-to-date with the current Feeds.
 
-**MIP10c16: Process to Update Feed Stipend**
+**MIP10c16: Process to Update Feed Stipend**   
 A process component that defines the method and template to update the Feed Stipend.
 
 ### Oracle Parameters:
 
-**MIP10c17: Process to Update Oracle Access Fee**
+**MIP10c17: Process to Update Oracle Access Fee**   
 A process component that defines the method and template to update the Oracle Access Fee.
 
-**MIP10c18: Process to Update Oracle Expiration Time**
+**MIP10c18: Process to Update Oracle Expiration Time**   
 A process component that defines the method and template to update the Oracle Expiration Time.
 
-**MIP10c19: Process to Update Oracle Security Module Delay**
+**MIP10c19: Process to Update Oracle Security Module Delay**   
 A process component that defines the method and template to update the Oracle Security Module Delay.
 
-**MIP10c20: Process to Update Oracle Spread**
+**MIP10c20: Process to Update Oracle Spread**   
 A process component that defines the method and template to update the Oracle Spread.
 
 ## Motivation
