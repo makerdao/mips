@@ -105,8 +105,6 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 
 **The Oracle Onboarding process is as follows:**
 
-Note, the process to onboard Oracles for new collateral types is handled through the collateral onboarding process in [MIP#####](MIP#####.md).
-
 0. A community members requests a new Oracle by publishing the [MIP10c2-Subproposal-Template](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. At this point the proposal is in limbo until an Oracle Team commits to doing the work. An Oracle Team at its discretion may opt to skip this step.
 
 1. Oracle Team finds and select data sources
@@ -121,13 +119,13 @@ Note, the process to onboard Oracles for new collateral types is handled through
     - Oracle Security Module (OSM) - only required for collateral assets
 5. Oracle Team publishes [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle Forum for community review as well as submitting a PR to the MIPs Github repo.
 6. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) subtemplate with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as the Github PR.
-7. The Oracle Team submits a Polling Vote to the Governance Portal. 
+7. The Oracle Team submits a Polling Vote to the Governance Portal. If the Oracle is being onboarded as part of the collateral onboarding process, this proposal may be bundled up with other deliverables necessary for collateral onboarding.  
 8. If the Polling Vote passes, the Oracle Team will alert the Feeds to update their Oracle clients. If the Polling Vote fails the Oracle Team may make changes to the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and resubmit a new Polling Vote. If the Oracle Team does not, and no other Oracle Team decides to take up this responsibility, the process ends here.
-5. Oracle Team Notifies the Feeds to update their Oracle clients 
+9. Oracle Team Notifies the Feeds to update their Oracle clients 
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy and 1 week to confirm stability
     - Feeds who do not deploy within the given timeline are given a warning. Give enough warnings governance may opt to remove the Feed through MIP10c14.
-6. If necessary, the actions are bundled up in the subsequent Executive Vote. 
+10. If necessary, the actions are bundled up in the subsequent Executive Vote. 
 
 ---
 
@@ -139,7 +137,7 @@ This process is initiated by a community member or other 3rd party publishing th
 
 Requests are reviewed by the Oracle Team(s) who then choose whether to take on the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Oracle Onboarding process.
 
-If a contract address is included to be whitelisted, the Oracle data must be used in a permissioned manner so as to prohibit parasitic use of the Oracle data by other smart contract. This means Oracle values, if saved in storage, must be stored in private variables accessible only by that system (defined as the set of smart contracts pertaining to customer(s). Exposure of the Oracle data through events is permitted.
+If a contract address is included to be whitelisted, the Oracle data must be used in a permissioned manner so as to prohibit parasitic use of the Oracle data by other smart contract. This means Oracle values, if saved in storage, must be stored in private variables accessible only by that system (defined as the set of smart contracts pertaining to customer(s). Exposure of the Oracle data through events is permitted. It is the responsibility of the Oracle Team to verify the information provided.
 
 **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**.
 
@@ -147,7 +145,7 @@ If a contract address is included to be whitelisted, the Oracle data must be use
 
 ### MIP10c3: Process to Onboard Oracle (OT)
 
-Used by the Oracle Team(s) to onboard new Oracles for collateral assets or assets requested by 3rd parties. This component compels the Feeds to update their Data Models in preparation for deploying a new Oracle. 
+Used by the Oracle Team(s) to onboard new Oracles for collateral assets or assets requested by 3rd parties.  
 
 MIP10c3 subproposals have the following parameters:
 - **Feedback Period:** 0 days

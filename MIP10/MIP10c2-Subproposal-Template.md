@@ -14,13 +14,18 @@ Date Ratified: <yyyy-mm-dd>
 ### Introduction
 
 ### Customer(s)
- 	- <customer name> <what Oracle will be used for>
+ 	- <customer name> <what will the Oracle be used for>
 
 ### Whitelist
 	- <customer name> - <address(es) to whitelist>
 
+### Contact
+	- <customer name> - <email>
+
 ### Requirements
-	- Is Oracle data used in a permissioned manner that would prevent parasitic behavior? <yes/no>
-	- Is Oracle data written to storage? <yes/no>
-		- If Oracle data is stored, is it stored in a private variable?
-		- If Oracle data is stored, is permission to access that variable accessible only by the protocol?
+	For each address to be whitelisted:
+		- Is contract source code verified on etherscan? <yes/no>
+		- Is Oracle data used in a permissioned manner that would prevent parasitic behavior? <yes/no>
+		- Is Oracle data written to storage? <yes/no>
+			- If Oracle data is stored, is it stored in a private variable? <yes/no>
+			- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? <yes/no>
