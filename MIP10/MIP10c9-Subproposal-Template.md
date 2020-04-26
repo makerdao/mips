@@ -1,12 +1,11 @@
-# MIP10c3: Subproposal to Onboard Oracle
+# MIP10c9: Subproposal to Whitelist Oracle Access
 
 ## Preamble
 ```
-MIP10c3-SP#: 
+MIP10c9-SP#: 
 Author(s):
 Contributors:
 Type: Process Component
-Oracle Team Name:
 Status: <proposed/accepted>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
@@ -15,27 +14,10 @@ Date Ratified: <yyyy-mm-dd>
 ## Specification
 
 ### Introduction
-	- What data would this Oracle provide?
 	- What would this Oracle be used for?
-	- General comments by Oracle Team
 
-### Oracle Data Model 
-
-|      Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-| :-------------- | :------------ | :----: | :---------: | :----------: |
-| < data source > |   < param >   | < # >  |  < model >  |  < model >   |
-
-
-### Oracle Supporting Data Model(s)
-    
- |      Source     |  Asset Pair   |  Feed Model  |
- | :-------------- | :------------ | :----------: |
- | < data source > |   < param >   |   < model >  |
- 
- 
-### Oracle Address
- 	- Medianizer
- 	- Oracle Security Module (OSM)
+### Oracle Name
+	- What is the name of this Oracle in MIP10c5?
 
 ### Customer(s)
  	- <customer name> <point of contact email>
@@ -53,8 +35,3 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Fee
 	- <customer name> - <amount in Dai>
-    
-### Supported Tools
-	- <tool name> <version commit hash> <link to github repo>
-
-### Changelog

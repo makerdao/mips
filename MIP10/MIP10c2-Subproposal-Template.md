@@ -19,10 +19,10 @@ Date Ratified: <yyyy-mm-dd>
 	- General comments by proposer
 
 ### Customer(s)
- 	- <customer name> <email>
+ 	- <customer name> <point of contact email>
 
 ### Whitelist
-	- <customer name> - <address(es) to whitelist>
+	- <customer name> - <address(es) to whitelist> - <Medianizer/OSM>
 
 ### Requirements
 	For each address to be whitelisted:

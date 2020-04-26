@@ -292,6 +292,27 @@ This template is considered ratified once this MIP moves to Accepted status.
 
 ### MIP10c9: Process to Whitelist Oracle Access
 
+Used by the community to request whitelist access to an Oracle. 
+
+MIP10c9 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**.
+
+1. A community member or other 3rd party publishes the [MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md) in the Oracle section of the Maker Forum. Typically this will be the 3rd party with a desire to consume the requested Oracle's data. An Oracle Team may also submit such a proposal on behalf of the interested party.
+
+2. At this point the proposal is in limbo until one or more Oracle Teams commits to doing the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Whitelist Oracle Access process.
+
+3. The Oracle Team(s) verify for each proposed contract to whitelist:
+    - contract is verified on etherscan
+    - contract uses Oracle data in a permissioned manner so as to prohibit on-chain parasitic behavior by 3rd parties.
+    - If Oracle data is saved to storage, it is stored in a private variable accessible exclusively by the protocol.
+
+4. The Oracle Team(s) submit a Polling Vote to the Governance Portal.
+
+5. If the Polling Vote passes the Oracle Team will bundle the proposal in the subsequent Executive Vote.
+
 ---
 
 ### MIP10c10: Process to Remove Oracle Access
