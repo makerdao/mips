@@ -53,8 +53,8 @@ A process component that defines the method and template for the community to up
 **MIP10c7: Process to Update Oracle Data Model (OT)**   
 A process component that defines the method and template for the Oracle Team to update the Data Model of an asset pair.
 
-**MIP10c8: List of Active Oracle Data Models**  
-A list component that is kept up-to-date with the currently active Oracle Data Models.
+**MIP10c8: List of Oracle Data Models**  
+A list component that is kept up-to-date with the ratified Oracle Data Models.
 
 **MIP10c9: Process to Whitelist Oracle Access**   
 A process component that defines the method and template to whitelist access for a specific Oracle.
@@ -62,7 +62,7 @@ A process component that defines the method and template to whitelist access for
 **MIP10c10: Process to Remove Oracle Access**   
 A process component that defines the method and template to remove whitelist access for a specific Oracle.
 
-**MIP10c11: List of Oracle Whitelists Registry**   
+**MIP10c11: List of Oracle Whitelists**   
 A list component that is kept up-to-date with the whitelist for each Oracle.
 
 ### Feeds:
@@ -76,7 +76,7 @@ A process component that defines the method and template to appoint a Light Feed
 **MIP10c14: Process to Remove Feed**   
 A process component that defines the method and template to remove a Feed.
 
-**MIP10c15: List of Feeds Registry**   
+**MIP10c15: List of Feeds**   
 A list component that is kept up-to-date with the current Feeds.
 
 **MIP10c16: Process to Update Feed Stipend**   
@@ -110,9 +110,7 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 
 0. 
     a) A community members requests a new Oracle by publishing the [MIP10c2-Subproposal-Template](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. At this point the proposal is in limbo until an Oracle Team commits to doing the work.
-
-    or 
-
+    or   
     b) The Oracle Team(s) are requested to create a new Oracle as part of the collateral onboarding process. At this point the proposal is in limbo until an Oracle Team commits to doing the work.
 
 **An Oracle Team may opt to skip this step and submit MIP10c3**
@@ -127,6 +125,10 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c14.
 6. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
 
+7. The Oracle Team(s) update [MIP10c5-List of Active Oracles](MIP10c5-Subproposal-Template.md) to append the new Oracle and submit a PR to the MIPS Github repo.
+
+8. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
+
 This MIP is considered ratified once this MIP moves to Accepted status.
 
 ---
@@ -139,11 +141,11 @@ MIP10c2 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
 
+MIP10c2 subproposals must use the template located at **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**.
+
 1. A community member or other 3rd party publishes the [MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. Typically this will be a 3rd party with a desire to consume the requested Oracle's data. 
 
 2. Requests are reviewed by the Oracle Team(s) who then choose whether to take on the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Oracle Onboarding process.
-
-MIP10c2 subproposals must use the template located at **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**.
 
 This MIP is considered ratified once this MIP moves to Accepted status.
 ---
@@ -155,6 +157,8 @@ Used by the Oracle Team(s) to onboard new Oracles for collateral assets or asset
 MIP10c3 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
+
+MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**.
 
 1. The Oracle Team(s) verify for each customer whitelisted contract:
     - contract is verified on etherscan
@@ -173,28 +177,28 @@ MIP10c3 subproposals have the following parameters:
 
 6. The Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
 
-MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**.
-
 This template is considered ratified once this MIP moves to Accepted status.
     
 ---
 
 ### MIP10c4: Process to Offboard Oracle
 
-Allow anyone to remove an Oracle using a MIP10c4 subproposal. MIP10c4 subproposals have the following parameters:
+Allow anyone to remove an Oracle using a MIP10c4 subproposal.
 
 MIP10c4 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
 
+MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**.
+
 1. A community member or other 3rd party publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
 
-2. After a period for the community to review and give feedback on the proposal, an Oracle Team may choose to take on the work required to continue the Oracle Offboarding process.
+2. After a period for the community to review and give feedback on the proposal, an Oracle Team may choose to commit to the work required to continue the Oracle Offboarding process.
 
 3. The Oracle Team(s) submit a Polling Vote to the Governance Portal.
 
 4. If the Polling Vote passes, any customers whitelisted on the Oracle are given 30 days notice that the Oracle is shutting down.
-    - Notice is sent to each customer  via the email provided in MIP10c9.
+    - Notice is sent to each customer via the email provided in MIP10c9.
 
 5. The Oracle Team(s) complete the following technical deliverables:
     - Update price querying tool(s) to cease collecting data for the Oracle.
@@ -207,16 +211,20 @@ MIP10c4 subproposals have the following parameters:
 
 7. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
 
+8. The Oracle Team(s) update [MIP10c5-Subproposal-Template](MIP10c5-Subproposal-Template.md) to remove the Oracle and submit a PR to the MIPS Github repo. 
 
-MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**.
+9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to remove all whitelist entries and submit a PR to the MIPS Github repo.
 
 This template is considered ratified once this MIP moves to Accepted status.
 
 --- 
 
 ### MIP10c5: List of Active Oracles
-A canonical record of the Oracles in active operation by the Maker Protocol. 
-MIP10c5 must be updated when an Oracle is onboarded or offboarded by governance.
+A canonical record of the Oracles in active operation by the Maker Protocol.
+MIP10c5 must be updated when an Oracle is onboarded or offboarded by governance via MIP10c3 and MIP10c4.
+It is the responsibility of the Oracle Team(s) to ensure MIP10c5 is kept up to date.
+
+The MIP10c5 template is located at **[MIP10c5-Subproposal-Template.md](MIP10c5-Subproposal-Template.md)**.
 
 ---
 
@@ -229,7 +237,7 @@ MIP10c5 must be updated when an Oracle is onboarded or offboarded by governance.
 
 ---
 
-### MIP10c8: List of Active Oracle Data Models
+### MIP10c8: List of Oracle Data Models
 
 MIP10c7 is a List Component that serves as a canonical record of the ratified Data Models actively being used by the Oracles.
 MIP10c7 must be updated when a Data Model is ratified by governance.
@@ -307,7 +315,7 @@ MIP10c7 must be updated when a Data Model is ratified by governance.
 
 ---
 
-### MIP10c11: List of Oracle Whitelists Registry
+### MIP10c11: List of Oracle Whitelists
 A canonical record of the the whitelist for each Oracle.
 MIP10c10 must be updated when an entity is added or removed from the whitelist for an Oracle.
 

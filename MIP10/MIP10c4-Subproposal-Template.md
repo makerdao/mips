@@ -3,20 +3,25 @@
 ## Preamble
 ```
 MIP10c4-SP#: 
-Author(s): 
+Author(s):
 Contributors:
+Type: Process Component
 Oracle Team Name:
-Oracle Data Model Name:
 Status: <proposed/accepted>
-Date proposed: <yyyy-mm-dd>
-Date of Proposed Removal: <yyyy-mm-dd>
+Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
 
 ## Specification
 
+### Oracle Name
+	- What is the name of this Oracle in MIP10c5?
+
 ### Oracle Type
-	- What data does this Oracle provide?
+	- What type of data does this Oracle provide?
+
+### Customers
+	- Which customers (if any) use this Oracle?
 
 ### Oracle Address
 	- Medianizer <contract address>

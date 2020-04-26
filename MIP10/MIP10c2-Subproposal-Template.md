@@ -3,10 +3,11 @@
 ## Preamble
 ```
 MIP10c2-SP#: 
-Author(s): 
-Contributors:  
-Status: <proposed/accepted>
-Date proposed: <yyyy-mm-dd>
+Author(s):
+Contributors:
+Type: Process Component
+Status: <proposed/accepted
+Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
 

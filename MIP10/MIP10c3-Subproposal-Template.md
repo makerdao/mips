@@ -3,12 +3,12 @@
 ## Preamble
 ```
 MIP10c3-SP#: 
-Author(s): 
+Author(s):
 Contributors:
+Type: Process Component
 Oracle Team Name:
 Status: <proposed/accepted>
-Date proposed: <yyyy-mm-dd>
-Date of Proposed Inclusion: <yyyy-mm-dd>
+Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
 
