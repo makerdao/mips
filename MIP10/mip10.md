@@ -104,6 +104,8 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 
 **The Oracle Onboarding process is as follows:**
 
+0. A community members requests a new Oracle by publishing the MIP10c2 subtemplate in the Oracle section of the Maker Forum. At this point the proposal is in limbo until an Oracle Team commits to doing the work. An Oracle Team at its discretion may opt to skip this step.
+
 1. Oracle Team finds and select data sources
     - Exchange options
     - Pair selection
@@ -114,10 +116,15 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 4. Deploy new instances of previously audited smart contracts for the asset type. This includes two smart contracts:
     - Medianizer
     - Oracle Security Module (OSM) - only required for collateral assets
+5. Oracle Team publishes MIP10c3 subtemplate to the Oracle Forum for community review as well as submitting a PR to the MIPs Github repo.
+6. Feedback is incorporated into the MIP10c3 subtemplate with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as the Github PR.
+7. The Oracle Team submits a Polling Vote to the Governance Portal. 
+8. If the Polling Vote passes, the Oracle Team will alert the Feeds to update their Oracle clients. If the Polling Vote fails the Oracle Team may make changes to the MIP10c3 subtemplate and resubmit a new Polling Vote. If the Oracle Team does not, and no other Oracle Team decides to take up this responsibility, the process ends here.
 5. Notify the Feeds to update their Oracle clients 
     - Alert sent out on the official Keybase channel
-    - Timeline: 1 to 2 weeks to monitor deployment and confirm stability
-6. The Oracle Team publishes the Medianizer and OSM smart contract addresses in the onboarding proposal (MIP10c3) itself.
+    - Timeline: 1 week to deploy and 1 week to confirm stability
+    - Feeds who do not deploy within the given timeline are given a warning. Give enough warnings governance may opt to remove the Feed through MIP10c14.
+6. If necessary, the actions are bundled up in the subsequent Executive Vote. 
 
 ---
 
