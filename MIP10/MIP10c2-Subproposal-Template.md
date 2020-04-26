@@ -4,6 +4,7 @@
 ```
 MIP10c2-SP#: 
 Author(s): 
+Contributors:  
 Status: <proposed/accepted>
 Date proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
@@ -12,6 +13,7 @@ Date Ratified: <yyyy-mm-dd>
 ## Specification
 
 ### Introduction
+	- What data should this Oracle provide?
 	- What will this Oracle be used for?
 	- General comments by proposer
 
