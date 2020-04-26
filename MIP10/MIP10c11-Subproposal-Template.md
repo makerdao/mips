@@ -15,18 +15,15 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Glossary
 
-- **Oracle Name:** The name of the Oracle that is indicative of the data is broadcasts
-- **Type:** The type of data that this Oracle broadcasts
-- **Collateral(?):** Is the Asset Pair a collateral type in the Maker Protocol
-- **Feeds** The number of Feeds submitting prices to the Oracle
-- **Quorum:** The number of Feeds needed to reach consensus on a price
-- **Data Model:** The model that defines where data is sourced and how it is processed
-- **Oracle Spread:**  The maximum difference in price before an Oracle price is updated
-- **Oracle Expiration:** The maximum time interval before an Oracle price is updated
-- **Medianizer:** The address of the Medianizer smart contract
-- **OSM:** The address of the Oracle Security Module smart contract
-- **OSM Delay** The amount of time before an Oracle price is utilized by the Maker Protocol
-
+- **Oracle Name:** The name of the Oracle as indicated in MIP10c5
+- **Oracle Classification:** The type of Oracle, can be Medianizer or Oracle Security Module (OSM)
+- **Contract Address:** The Ethereum address of the Oracle contract
+- **Customer** The whitelisted entity
+- **Date Joined:** Date the customer was added to the whitelist
+- **Email:** The point of contact with the customer for all issues relating to Oracles.
+- **Fee (Dai):**  The monthly whitelisting fee in Dai.
+- **Whitelisted Contract:** The Ethereum address of the whitelisted contract
+- **Origin:** A link to the Governance Vote that added the customer to the Oracle whitelist. 
 
 ### Template Spec
 
@@ -56,10 +53,10 @@ Date Ratified: <yyyy-mm-dd>
 **Oracle Name:** BTC/USD    
 **Oracle Classification:** Medianizer   
 **Contract Address:** 0xe0F30cb149fAADC7247E953746Be9BbBB6B5751f   
-|     Customer   |  Date Joined   |   Email   | Fee (Dai) |             Whitelisted Contract           |           Origin            |
-| :--------------| :------------- | :-------- | :-------- | :----------------------------------------- | :-------------------------- |
-|  Set Protocol  |   2020-04-25   |    N/A    |   ROMP    | 0xbf63446ecF3341e04c6569b226a57860B188edBc | [Governance Vote](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo) |
-|      dYdX      |   2020-04-25   |    N/A    |   ROMP    | 0x538038E526517680735568f9C5342c6E68bbDA12 | [Governance Vote](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo) |
+|     Customer   |  Date Joined   |           Email         | Fee (Dai) |             Whitelisted Contract           |           Origin            |
+| :--------------| :------------- | :---------------------- | :-------- | :----------------------------------------- | :-------------------------- |
+|  Set Protocol  |   2020-04-25   |            N/A          |   ROMP    | 0xbf63446ecF3341e04c6569b226a57860B188edBc | [Governance Vote](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo) |
+|      dYdX      |   2020-04-25   | contact@dydx.exchange   |   ROMP    | 0x538038E526517680735568f9C5342c6E68bbDA12 | [Governance Vote](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo) |
 
 **Oracle Name:** ETH/BTC   
 **Oracle Classification:** Medianizer   

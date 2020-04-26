@@ -276,10 +276,6 @@ This template is considered ratified once this MIP moves to Accepted status.
 
 A canonical record of the ratified Data Models actively being used by the Oracles.
 
-MIP10c8 subproposals have the following parameters:
-- **Feedback Period:** 0 days
-- **Frozen Period:** 0 days
-
 The MIP10c8 template is located at **[MIP10c8-Subproposal-Template.md](MIP10c8-Subproposal-Template.md)**.
 
 MIP10c8 must be updated when a new Data Mode is ratified as part of Oracle onboarding via MIP10c1 as well as when an Oracle Data Model is updated via MIP10c7.
@@ -348,7 +344,14 @@ This template is considered ratified once this MIP moves to Accepted status.
 ### MIP10c11: List of Oracle Whitelists
 
 A canonical record of the the whitelist for each Oracle.
-MIP10c10 must be updated when an entity is added or removed from the whitelist for an Oracle.
+
+The MIP10c11 template is located at **[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**.
+
+MIP10c11 must be updated when an entity is added or removed from the whitelist for an Oracle via MIP10c3/MIP10c9/MIP10c10.
+
+It is the responsibility of the Oracle Team(s) to ensure MIP10c8 is kept up to date.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
