@@ -362,19 +362,28 @@ This template is considered ratified once this MIP moves to Accepted status.
 
 ### MIP10c11: List of Oracle Whitelists
 
-A canonical record of the the whitelist for each Oracle.
+A canonical record of the whitelist for each Oracle.
 
 The MIP10c11 template is located at **[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**.
 
 MIP10c11 must be updated when an entity is added or removed from the whitelist for an Oracle via MIP10c3/MIP10c9/MIP10c10.
-
-It is the responsibility of the Oracle Team(s) to ensure MIP10c8 is kept up to date.
+It is the responsibility of the Oracle Team(s) to ensure MIP10c11 is kept up to date.
 
 This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
 ### MIP10c12: Process to Update Oracle Access Fee
+
+Used by the community to update the Oracle Access Fee for an Oracle.
+
+MIP10c13 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+The MIP10c12 template is located at **[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -386,35 +395,106 @@ MIP10c13 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 
-MIP10c13 subproposals must use the template located at **[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**.
+MIP10c13 subproposals must use the template located at **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
 ### MIP10c14: Process to Appoint Light Feed
 
+Used by the community to appoint a Light Feed.
+
+MIP10c14 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c14 subproposals must use the template located at **[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
 ### MIP10c15: Process to Remove Feed
+
+Used by the community to remove a Feed.
+
+MIP10c15 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
 ### MIP10c16: List of Feeds
 
+A canonical record of the the whitelist for each Oracle.
+
+MIP10c16 subproposals must use the template located at **[MIP10c16-Subproposal-Template](MIP10c16-Subproposal-Template.md)**.
+
+MIP10c16 must be updated when a Feed is added or removed via MIP10c13/MIP10c14/MIP10c15.
+It is the responsibility of the Oracle Team(s) to ensure MIP10c16 is kept up to date.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
 ### MIP10c17: Process to Update Feed Stipend
+
+Used by the community to update the Feed Stipend amount that is paid monthly to each Feed.
+
+MIP10c17 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c17 subproposals must use the template located at **[MIP10c17-Subproposal-Template](MIP10c17-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
 ### MIP10c18: Process to Update Oracle Expiration Time
 
+Used by the community to update an Oracle's Expiration Time. This is the maximum period of time the Oracle will not update its price.
+
+MIP10c18 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c18 subproposals must use the template located at **[MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
 ### MIP10c19: Process to Update Oracle Spread
 
+Used by the community to update an Oracle's Spread. This is the minimum percentage difference between the current Oracle's price and the new price that will trigger the Oracle to update its price.
+
+MIP10c18 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c19 subproposals must use the template located at **[MIP10c19-Subproposal-Template](MIP10c19-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
 ### MIP10c20: Process to Update Oracle Security Module Delay
+
+Used by the community to update an Oracle's Oracle Security Module delay. The delay is the amount of time between the Oracle updating and the Maker Protocol utilizing the new price.
+
+MIP10c20 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c20 subproposals must use the template located at **[MIP10c20-Subproposal-Template](MIP10c20-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
