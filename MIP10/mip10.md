@@ -14,11 +14,16 @@
     Replaces: n/a
 
 ## References
-**[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**
-**[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**  
+**[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**   
+**[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**   
 **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**   
-**[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**   
+**[MIP10c5-Subproposal-Template.md](MIP10c5-Subproposal-Template.md)** 
+**[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**    
 **[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**   
+**[MIP10c8-Subproposal-Template.md](MIP10c8-Subproposal-Template.md)**   
+**[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**   
+**[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**    
+**[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**    
 
 ## Sentence Summary
 
