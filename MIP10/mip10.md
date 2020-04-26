@@ -300,7 +300,7 @@ MIP10c9 subproposals have the following parameters:
 
 MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**.
 
-1. A community member or other 3rd party publishes the [MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md) in the Oracle section of the Maker Forum. Typically this will be the 3rd party with a desire to consume the requested Oracle's data. An Oracle Team may also submit such a proposal on behalf of the interested party.
+1. A community member or other 3rd party publishes the [MIP10c9-Subproposal-Template](MIP10c9-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPs Github repo. Typically this will be the 3rd party with a desire to consume the requested Oracle's data. An Oracle Team may also submit such a proposal on behalf of the interested party.
 
 2. At this point the proposal is in limbo until one or more Oracle Teams commits to doing the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Whitelist Oracle Access process.
 
@@ -313,13 +313,40 @@ MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Tem
 
 5. If the Polling Vote passes the Oracle Team will bundle the proposal in the subsequent Executive Vote.
 
+6. The Oracle Team(s) update [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
 ### MIP10c10: Process to Remove Oracle Access
 
+Used by a customer or Oracle Team to remove customer's access to Oracle data.
+
+MIP10c10 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c10 subproposals must use the template located at **[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**.
+
+1. A customer or Oracle Team publishes the [MIP10c10-Subproposal-Template](MIP10c10-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+
+If voluntary:
+    2. The Oracle Team(s) contacts the customer via the email provided in MIP10c3/MIP10c9 to verify this action.
+    3. The Oracle Team(s) bundle the proposal into the next Executive Vote.
+    4. The Oracle Team(s) update [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
+
+If involuntary:
+    2. The Oracle Team(s) gives the customer 30 days notice via the email the customer provided in MIP10c3/MIP10c9.
+    3. After the 30 day period has elapsed, the Oracle Team(s) bundle the proposal into the next Executive Vote.
+    4. The Oracle Team(s) update [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
 ---
 
 ### MIP10c11: List of Oracle Whitelists
+
 A canonical record of the the whitelist for each Oracle.
 MIP10c10 must be updated when an entity is added or removed from the whitelist for an Oracle.
 
@@ -337,11 +364,11 @@ MIP10c10 must be updated when an entity is added or removed from the whitelist f
 
 ---
 
-### MIP10c15: List of Feeds**
+### MIP10c15: List of Feeds
 
 ---
 
-### MIP10c16: Process to Update Feed Stipend**
+### MIP10c16: Process to Update Feed Stipend
 
 ---
 
