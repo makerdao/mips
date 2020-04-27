@@ -1,35 +1,35 @@
 # MIP10: Oracle Management
 
-
 ## Preamble
-
-    MIP#: 10
-    Title: Oracle Management 
-    Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
-    Type: Process
-    Status: Request for Comments (RFC)
-    Date Proposed: 2020-04-06
-    Date Ratified: <yyyy-mm-dd>
-    Dependencies: n/a
-    Replaces: n/a
+```
+MIP#: 10
+Title: Oracle Management 
+Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
+Type: Process
+Status: Request for Comments (RFC)
+Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
+Dependencies: n/a
+Replaces: n/a
+```
 
 ## References
 **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**   
 **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**   
 **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**   
-**[MIP10c5-Subproposal-Template.md](MIP10c5-Subproposal-Template.md)**    
+**[MIP10c5-List-of-Active-Oracles.md](MIP10c5-List-of-Active-Oracles.md)**    
 **[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**    
 **[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**   
-**[MIP10c8-Subproposal-Template.md](MIP10c8-Subproposal-Template.md)**   
+**[MIP10c8-List-of-Oracle-Data-Models.md](MIP10c8-List-of-Oracle-Data-Models.md)**   
 **[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**   
 **[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**    
-**[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**    
+**[MIP10c11-List-of-Oracle-Whitelists.md](MIP10c11-List-of-Oracle-Whitelists.md)**    
 **[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**    
 **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**    
 **[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**    
 **[MIP10c15-Subproposal-Template.md](MIP10c15-Subproposal-Template.md)**    
 **[MIP10c16-Subproposal-Template.md](MIP10c16-Subproposal-Template.md)**    
-**[MIP10c17-Subproposal-Template.md](MIP10c17-Subproposal-Template.md)**    
+**[MIP10c17-List-of-Feeds.md](MIP10c17-List-of-Feeds.md)**    
 **[MIP10c18-Subproposal-Template.md](MIP10c18-Subproposal-Template.md)**    
 **[MIP10c19-Subproposal-Template.md](MIP10c19-Subproposal-Template.md)**    
 **[MIP10c20-Subproposal-Template.md](MIP10c20-Subproposal-Template.md)**  
@@ -151,9 +151,9 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c15.
 6. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
 
-7. The Oracle Team(s) update [MIP10c5-List of Active Oracles](MIP10c5-Subproposal-Template.md) to append the new Oracle and submit a PR to the MIPS Github repo.
-8. The Oracle Team(s) update [MIP10c8-List of Oracle Data Models](MIP10c8-Subproposal-Template.md) to append the new Data Model and submit a PR to the MIPS Github repo.
-9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
+7. The Oracle Team(s) update [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to append the new Oracle and submit a PR to the MIPS Github repo.
+8. The Oracle Team(s) update [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to append the new Data Model and submit a PR to the MIPS Github repo.
+9. The Oracle Team(s) update [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
 
 ---
 
@@ -228,19 +228,15 @@ MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Tem
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
 7. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
-8. The Oracle Team updates [MIP10c5-Subproposal-Template](MIP10c5-Subproposal-Template.md) to remove the Oracle and submits a PR to the MIPS Github repo. 
-9. The Oracle Team updates [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to remove all whitelist entries and submits a PR to the MIPS Github repo.
+8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to remove the Oracle and submits a PR to the MIPS Github repo. 
+9. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to remove all whitelist entries and submits a PR to the MIPS Github repo.
 
 --- 
 
 ### MIP10c5: List of Active Oracles
 A canonical record of the Oracles in active operation by the Maker Protocol.
 
-MIP10c5 subproposals have the following parameters:
-- **Feedback Period:** 0 days
-- **Frozen Period:** 0 days
-
-The MIP10c5 template is located at **[MIP10c5-Subproposal-Template.md](MIP10c5-Subproposal-Template.md)**.
+The active list is located at **[MIP10c5-List-of-Active-Oracles.md](MIP10c5-List-of-Active-Oracles.md)**.
 
 MIP10c5 must be updated when an Oracle is onboarded or offboarded by governance via MIP10c3 and MIP10c4.
 It is the responsibility of the Oracle Team(s) to ensure MIP10c5 is kept up to date.
@@ -287,8 +283,8 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
-7. The Oracle Team updates [MIP10c8](MIP10c8-Subproposal-Template) to update the Data Model and submits a PR to the MIPS Github repo.
-8. The Oracle Team updates [MIP10c5](MIP10c5-Subproposal-Template) to update the Active Oracle record with the updated Data Model and submits a PR to the MIPS Github repo.
+7. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to update the Data Model and submits a PR to the MIPS Github repo.
+8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to update the Active Oracle record with the updated Data Model and submits a PR to the MIPS Github repo.
 
 ---
 
@@ -297,9 +293,9 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
 
 A canonical record of the ratified Data Models actively being used by the Oracles.
 
-The MIP10c8 template is located at **[MIP10c8-Subproposal-Template.md](MIP10c8-Subproposal-Template.md)**.
+The ratified list of Oracle Data Models is located at [MIP10c8-List-of-Oracle-Data-Models.md](MIP10c8-List-of-Oracle-Data-Models.md).
 
-MIP10c8 must be updated when a new Data Mode is ratified as part of Oracle onboarding via MIP10c1 as well as when an Oracle Data Model is updated via MIP10c7.
+MIP10c8 must be updated when a new Data Model is ratified as part of Oracle onboarding via MIP10c1 as well as when an Oracle Data Model is updated via MIP10c7.
 
 It is the responsibility of the Oracle Team(s) to ensure MIP10c8 is kept up to date.
 
@@ -328,7 +324,7 @@ MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Tem
 
 5. If the Polling Vote passes the Oracle Team will bundle the proposal in the subsequent Executive Vote.
 
-6. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
+6. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
 
 ---
 
@@ -349,12 +345,12 @@ MIP10c10 subproposals must use the template located at **[MIP10c10-Subproposal-T
 If voluntary:
     3. The Oracle Team contacts the customer via the email provided in MIP10c3/MIP10c9 to verify this action.
     4. The Oracle Team bundles the proposal into the next Executive Vote.
-    5. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
+    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
 
 If involuntary:
     3. The Oracle Team gives the customer 30 days notice via the email the customer provided in MIP10c3/MIP10c9.
     4. After the 30 day period has elapsed, the Oracle Team bundles the proposal into the next Executive Vote.
-    5. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
+    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
 
 ---
 
@@ -362,7 +358,7 @@ If involuntary:
 
 A canonical record of the whitelist for each Oracle.
 
-The MIP10c11 template is located at **[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**.
+The whitelist for each oracle is located at [MIP10c11-List-of-Oracle-Whitelists.md](MIP10c11-List-of-Oracle-Whitelists.md)
 
 MIP10c11 must be updated when an entity is added or removed from the whitelist for an Oracle via MIP10c3/MIP10c9/MIP10c10.
 It is the responsibility of the Oracle Team(s) to ensure MIP10c11 is kept up to date.
@@ -385,9 +381,9 @@ The MIP10c12 template is located at **[MIP10c12-Subproposal-Template.md](MIP10c1
 
 3. An Oracle Team submits a Polling Vote to the Governance Portal.
 
-4. If the Polling Vote passes the Oracle Team gives affected customers 30 days notice via the email stored in [MIP12c11](MIP10c12-Subproposal-Template.md).
+4. If the Polling Vote passes the Oracle Team gives affected customers 30 days notice via the email stored in [MIP10c12](MIP10c12-Subproposal-Template.md).
 
-5. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the fees for each modified entry and submit a PR to the MIPS Github repo.
+5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the fees for each modified entry and submit a PR to the MIPS Github repo.
 
 ---
 
@@ -451,11 +447,11 @@ MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-T
 
 6. If the Executive Vote passes, the Oracle Team assists the newly appointed Feed to set up their Feed infrastructure and communication channels.
 
-7. The Oracle Team updates [MIP10c17](MIP10c17-Subproposal-Template.md)
+7. The Oracle Team updates [MIP10c17: List of Feeds](MIP10c17-List-of-Feeds.md)
 
-8. The Oracle Team updates [MIP10c5](MIP10c5-Subproposal-Template.md)
+8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md)
 
-9. The Oracle Team updates [MIP10c8](MIP10c8-Subproposal-Template.md)
+9. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md)
 
 --
 
@@ -477,20 +473,20 @@ MIP10c16 subproposals must use the template located at **[MIP10c16-Subproposal-T
 
 4. If the Polling Vote succeeds, the Oracle Team bundles the proposal into the subsequent Executive Vote.
 
-5. The Oracle Team updates [MIP10c17](MIP10c17-Subproposal-Template.md)
+5. The Oracle Team updates [MIP10c17: List of Feeds](MIP10c17-List-of-Feeds.md)
 
-6. The Oracle Team updates [MIP10c5](MIP10c5-Subproposal-Template.md)
+6. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md)
 
-7. The Oracle Team updates [MIP10c8](MIP10c8-Subproposal-Template.md)
+7. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md)
 
 
 ---
 
 ### MIP10c17: List of Feeds
 
-A canonical record of the the whitelist for each Oracle.
+A canonical record of the list of feeds.
 
-MIP10c17 subproposals must use the template located at **[MIP10c17-Subproposal-Template](MIP10c17-Subproposal-Template.md)**.
+The list of feeds is located at **[MIP10c17-List-of-Feeds.md](MIP10c17-List-of-Feeds.md)**.
 
 MIP10c17 must be updated when a Feed is added or removed via MIP10c15/MIP10c16.
 It is the responsibility of the Oracle Team(s) to ensure MIP10c17 is kept up to date.
@@ -517,7 +513,7 @@ MIP10c18 subproposals must use the template located at **[MIP10c18-Subproposal-T
 
 4. An Oracle Team submits a Polling Vote to the Governance Portal.
 
-5. The Oracle Team updates [MIP10c17](MIP10c17-Subproposal-Template.md)
+5. The Oracle Team updates [MIP10c17: List of Feeds](MIP10c17-List-of-Feeds.md)
 
 ---
 
