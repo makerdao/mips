@@ -1,4 +1,4 @@
-# MIP10c13: Subproposal to Appoint Light Feed
+# MIP10c14: Subproposal to Appoint Light Feed
 
 ## Preamble
 ```
@@ -19,7 +19,8 @@ Date Ratified: <yyyy-mm-dd>
 - Github
 - Number of Employees
 - Email < domain must be organization >
-- Headquarters Location
+- Incorporated
+- Domiciled
 - Number of employees
 - When was the organization founded?
 - Who are the major investors in your organization?
@@ -27,10 +28,10 @@ Date Ratified: <yyyy-mm-dd>
 - Please provide public references for the above where possible.
 
 ### Introduction
-Motivation for running a Light Feed
+- Motivation for running a Light Feed
 
 ### Community
-- What has your organization done for the crypto community?
+- What has your organization contributed to the crypto community?
 - Successful products, services, tools, libraries, thought-leadership
 - How will the Maker Community benefit from your inclusion as a Light Feed?
 
