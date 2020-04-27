@@ -23,7 +23,7 @@
 **[MIP10c8-List-of-Oracle-Data-Models.md](MIP10c8-List-of-Oracle-Data-Models.md)**   
 **[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**   
 **[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**    
-**[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**    
+**[MIP10c11-List-of-Oracle-Whitelists.md](MIP10c11-List-of-Oracle-Whitelists.md)**    
 **[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**    
 **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**    
 **[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**    
@@ -153,7 +153,7 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 
 7. The Oracle Team(s) update [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to append the new Oracle and submit a PR to the MIPS Github repo.
 8. The Oracle Team(s) update [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to append the new Data Model and submit a PR to the MIPS Github repo.
-9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
+9. The Oracle Team(s) update [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
 
 ---
 
@@ -229,7 +229,7 @@ MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Tem
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
 7. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
 8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to remove the Oracle and submits a PR to the MIPS Github repo. 
-9. The Oracle Team updates [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to remove all whitelist entries and submits a PR to the MIPS Github repo.
+9. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to remove all whitelist entries and submits a PR to the MIPS Github repo.
 
 --- 
 
@@ -324,7 +324,7 @@ MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Tem
 
 5. If the Polling Vote passes the Oracle Team will bundle the proposal in the subsequent Executive Vote.
 
-6. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
+6. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
 
 ---
 
@@ -345,12 +345,12 @@ MIP10c10 subproposals must use the template located at **[MIP10c10-Subproposal-T
 If voluntary:
     3. The Oracle Team contacts the customer via the email provided in MIP10c3/MIP10c9 to verify this action.
     4. The Oracle Team bundles the proposal into the next Executive Vote.
-    5. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
+    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
 
 If involuntary:
     3. The Oracle Team gives the customer 30 days notice via the email the customer provided in MIP10c3/MIP10c9.
     4. After the 30 day period has elapsed, the Oracle Team bundles the proposal into the next Executive Vote.
-    5. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
+    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
 
 ---
 
@@ -358,7 +358,7 @@ If involuntary:
 
 A canonical record of the whitelist for each Oracle.
 
-The MIP10c11 template is located at **[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**.
+The whitelist for each oracle is located at [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md)
 
 MIP10c11 must be updated when an entity is added or removed from the whitelist for an Oracle via MIP10c3/MIP10c9/MIP10c10.
 It is the responsibility of the Oracle Team(s) to ensure MIP10c11 is kept up to date.
@@ -381,9 +381,9 @@ The MIP10c12 template is located at **[MIP10c12-Subproposal-Template.md](MIP10c1
 
 3. An Oracle Team submits a Polling Vote to the Governance Portal.
 
-4. If the Polling Vote passes the Oracle Team gives affected customers 30 days notice via the email stored in [MIP12c11](MIP10c12-Subproposal-Template.md).
+4. If the Polling Vote passes the Oracle Team gives affected customers 30 days notice via the email stored in [MIP10c12](MIP10c12-Subproposal-Template.md).
 
-5. The Oracle Team updates [MIP10c11](MIP10c11-Subproposal-Template) to update the fees for each modified entry and submit a PR to the MIPS Github repo.
+5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the fees for each modified entry and submit a PR to the MIPS Github repo.
 
 ---
 

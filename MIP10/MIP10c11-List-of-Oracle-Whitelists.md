@@ -1,19 +1,6 @@
 # MIP10c11: Subproposal for List of Oracle Whitelists
 
-## Preamble
-```
-MIP10c11-SP#: 
-Author(s):
-Contributors:
-Type: List Component
-Status:
-Date Proposed: <yyyy-mm-dd>
-Date Ratified: <yyyy-mm-dd>
-``` 
-
-## Specification
-
-### Glossary
+## Glossary
 
 - **Oracle Name:** The name of the Oracle as indicated in MIP10c5
 - **Oracle Classification:** The type of Oracle, can be Medianizer or Oracle Security Module (OSM)
@@ -25,7 +12,7 @@ Date Ratified: <yyyy-mm-dd>
 - **Whitelisted Contract:** The Ethereum address of the whitelisted contract
 - **Origin:** A link to the Governance Vote that added the customer to the Oracle whitelist. 
 
-### Template Spec
+## Template Spec
 
 **Oracle Name:** < name in MIP10c5 >    
 **Oracle Classification:** <Medianizer/Oracle Security Module   
@@ -34,7 +21,7 @@ Date Ratified: <yyyy-mm-dd>
 | :------- | :------------- | :-------- | :-------- | :------------------- | :-------------------------- |
 | < name > | < yyyy-mm-dd > | < email > |   < # >   |     < address >      | < link to MIP10c3/MIP10c9 > |
 
-### Oracle Whitelists
+## Oracle Whitelists
 
 **Oracle Name:** BAT/USD    
 **Oracle Classification:** Medianizer   
