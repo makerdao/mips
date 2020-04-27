@@ -1,24 +1,11 @@
 # MIP10c17: Subproposal for List of Feeds
 
-## Preamble
-```
-MIP10c17-SP#: 
-Author(s):
-Contributors:
-Type: List Component
-Status:
-Date Proposed: <yyyy-mm-dd>
-Date Ratified: <yyyy-mm-dd>
-``` 
-
-## Specification
-
-### Number of Feeds
+## Number of Feeds
 **Dark Feeds =** 15
 **Light Feeds =** 5
 **Total Feeds =** 20
 
-### Glossary
+## Glossary
 
 - **Feed:** Bots run by individuals and institutions that push prices to the Oracles
 - **Dark Feed:** An anonymous individual or institution running a Feed
@@ -30,7 +17,7 @@ Date Ratified: <yyyy-mm-dd>
 - **MIP:**  Maker Improvement Proposal to trace the origin of Feed onboarding
 - **Governance Vote:** Ratified governance proposals to onboard Feeds to confirm authorization
 
-### Template Spec
+## Template Spec
 
 |     Feed    |       Type     |  Date Added | Organization | Feed Stipend |    MIP    | Governance Vote | 
 | :---------- | :------------- | :---------- | :----------- | :----------- | :-------- | :-------------- |
@@ -38,7 +25,7 @@ Date Ratified: <yyyy-mm-dd>
 
 
 
-### Feed List
+## Feed List
 
 **Dark Feeds**   
 |                     Feed                   |   Type  |  Date Added  | Feed Stipend |   MIP   |  Governance Vote  |
