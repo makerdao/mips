@@ -19,7 +19,7 @@ Replaces: n/a
 
 ## Sentence Summary
 
-MIP11 defines the requirements of general risk models and how they are onboarded to and offboarded from the Maker Protocol.
+MIP11 defines the requirements of general risk models and how they are onboarded and offboarded from the Maker Protocol.
 
 ## Paragraph Summary
 
