@@ -1,19 +1,6 @@
-# MIP10c5: Subproposal for List of Active Oracles
+# MIP10c5: List of Active Oracles
 
-## Preamble
-```
-MIP10c5-SP#: 
-Author(s):
-Contributors:
-Type: List Component
-Status:
-Date Proposed: <yyyy-mm-dd>
-Date Ratified: <yyyy-mm-dd>
-``` 
-
-## Specification
-
-### Glossary
+## Glossary
 
 - **Oracle Name:** The name of the Oracle that is indicative of the data is broadcasts
 - **Type:** The type of data that this Oracle broadcasts
@@ -28,13 +15,13 @@ Date Ratified: <yyyy-mm-dd>
 - **OSM Delay** The amount of time before an Oracle price is utilized by the Maker Protocol
 
 
-### Template Spec
+## Template Spec
 
 |   Oracle Name  |      Type     | Is Collateral? | Feeds | Quorum |  Data Model | Oracle Spread (%) | Oracle Expiration (s) |  Medianizer  |     OSM     | OSM Delay (s) |
 | :------------- | :------------ | :------------- |:----- | :----- |:----------- | :---------------- | :-------------------- | :----------- | :---------- | :------------ |
 |    < name >    |    < data >   |    < bool >    | < # > |  < # > |  < model >  |       < # >       |          < # >        |  < address > | < address > |     < # >     |
 
-### Active Oracle List
+## Active Oracle List
 
 |      Oracle    |       Type    | Is Collateral? | Feeds | Quorum |  Data Model | Oracle Spread (%) | Oracle Expiration (s) |  Medianizer  |     OSM     | OSM Delay (s) |
 | :------------- | :------------ | :------------- |:----- | :----- |:----------- | :---------------- | :-------------------- | :----------- | :---------- | :------------ |
