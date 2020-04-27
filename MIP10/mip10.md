@@ -1,17 +1,17 @@
 # MIP10: Oracle Management
 
-
 ## Preamble
-
-    MIP#: 10
-    Title: Oracle Management 
-    Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
-    Type: Process
-    Status: Request for Comments (RFC)
-    Date Proposed: 2020-04-06
-    Date Ratified: <yyyy-mm-dd>
-    Dependencies: n/a
-    Replaces: n/a
+```
+MIP#: 10
+Title: Oracle Management 
+Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
+Type: Process
+Status: Request for Comments (RFC)
+Date Proposed: 2020-04-06
+Date Ratified: <yyyy-mm-dd>
+Dependencies: n/a
+Replaces: n/a
+```
 
 ## References
 **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**   
