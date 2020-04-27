@@ -5,7 +5,7 @@
 
     MIP#: 10
     Title: Oracle Management 
-    Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
+    Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
     Type: Process
     Status: Request for Comments (RFC)
     Date Proposed: 2020-04-06
@@ -101,27 +101,31 @@ A process component that defines the method and template to appoint a Dark Feed.
 **MIP10c14: Process to Appoint Light Feed**   
 A process component that defines the method and template to appoint a Light Feed.
 
-**MIP10c15: Process to Remove Feed**   
+**MIP10c15: Process to Appoint Feed (OT)**
+A process component that defines the method and template for the Oracle Team to appoint a Feed.
+
+**MIP10c16: Process to Remove Feed**   
 A process component that defines the method and template to remove a Feed.
 
-**MIP10c16: List of Feeds**   
+**MIP10c17: List of Feeds**   
 A list component that is kept up-to-date with the current Feeds.
 
-**MIP10c17: Process to Update Feed Stipend**   
+**MIP10c18: Process to Update Feed Stipend**   
 A process component that defines the method and template to update the Feed Stipend.
+
 
 ### Oracle Parameters:
 
 **Description**
 The Oracle system has several parameters that determine how frequently the Oracles are updated. Updating more frequently leads to a more sensitive Oracle, at the expense of higher costs. The Oracle Security Module (OSM) is the watchdog between the Oracle and the Maker Protocol. It delays prices by a delay interval before the price is utilizied by the Maker Protocol. This delay protects the Maker Protocol from Oracle attacks by enabling Governance to take emergency action during the delay period.
 
-**MIP10c18: Process to Update Oracle Expiration Time**   
+**MIP10c19: Process to Update Oracle Expiration Time**   
 A process component that defines the method and template to update the Oracle Expiration Time.
 
-**MIP10c19: Process to Update Oracle Spread**   
+**MIP10c20: Process to Update Oracle Spread**   
 A process component that defines the method and template to update the Oracle Spread.
 
-**MIP10c20: Process to Update Oracle Security Module Delay**   
+**MIP10c21: Process to Update Oracle Security Module Delay**   
 A process component that defines the method and template to update the Oracle Security Module Delay.
 
 ## Motivation
@@ -392,11 +396,21 @@ MIP10c13 subproposals have the following parameters:
 
 The MIP10c12 template is located at **[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**.
 
+1. A community member publishes the [MIP10c-12-Subproposal-Template](MIP10c12-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+
+2. Feedback is incorporated into the [MIP10c12-Subproposal-Template](MIP10c12-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the MIPS Github repo.
+
+3. The Oracle Team(s) submit a Polling Vote to the Governance Portal.
+
+4. If the Polling Vote passes the Oracle Team(s) give affected customers 30 days notice via the email stored in [MIP12c11](MIP10c12-Subproposal-Template.md).
+
+5. The Oracle Team(s) update [MIP10c11](MIP10c11-Subproposal-Template) to update the fees for each modified entry and submit a PR to the MIPS Github repo.
+
 This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c13: Process to Appoint Dark Feed
+### MIP10c13: Process to Appoint Dark Feed Reqest
 
 Used by the community to appoint a Dark Feed.
 
@@ -404,13 +418,17 @@ MIP10c13 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 
+1. An anon uses VPN/TOR/I2C to post [MIP10c13-Subproposal-Template](MIP10c13-Subproposal-Template.md) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo using a fresh Github Account registered with a throwaway email.
+
+2. At this point the proposal is in limbo until one or more Oracle Teams commits to doing the work required to validate the information provided. The Oracle Team may ask follow-up questions or request more data from the proposer.
+
 MIP10c13 subproposals must use the template located at **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**.
 
 This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c14: Process to Appoint Light Feed
+### MIP10c14: Process to Appoint Light Feed Request
 
 Used by the community to appoint a Light Feed.
 
@@ -420,54 +438,76 @@ MIP10c14 subproposals have the following parameters:
 
 MIP10c14 subproposals must use the template located at **[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**.
 
+1. An institution publishes [MIP10c14-Subproposal-Template](MIP10c14-Subproposal-Template.md) to the Oracle section of the Maker FOrum and submits a PR to the MIPS Github repo.
+
+2. At this point the proposal is in limbo until one or more Oracle Teams commits to doing the work required to validate the information provided. The Oracle Team may ask follow-up questions or request more data from the proposer.
+
+3. The Oracle Team(s) verify the identity of the individual purporting to represent the institution using the domain bonded email provided in MIP10c14 as well their network of contacts in the industry.
+
+4. The Oracle Team(s) prepare the assessment of the information provided by the proposed Light Feed to prepare MIP10c15.
+
 This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c15: Process to Remove Feed
+### MIP10c15: Process to Appoint Feed (OT)
+
+Used by the Oracle Team to validate submitted Feed appointments.
+
+MIP10c14 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-Template.md](MIP10c15-Subproposal-Template.md)**.
+
+1. The Oracle Team(s) compile and asses the information provided in MIP10c13/MIP10c14. The Oracle Team(s) compile and publish [MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template) to the Oracle section of the Maker Forum and submit a PR to the MIPS Github repo.
+
+2. The community reviews and gives feedback on the proposal.
+
+3. The Oracle Team(s) submit a Polling Vote to the Governance Portal.
+
+4. If the Polling Vote passes, the Oracle Team(s) assists the newly appointed Feed to set up their Feed infrastructure and communication channels.
+
+5. The Oracle Team(s) submits the proposal to include the Feed into the subsequent Executive Vote.
+
+6. If the Executive Vote passes, the Oracle Team updates [MIP10c17](MIP10c17-Subproposal-Template.md) to include the new Feed.
+
+7. The Oracle Team(s) update [MIP10c5](MIP10c5-Subproposal-Template.md) and [MIP10c8](MIP10c8-Subproposal-Template.md) to modify the total number of Feeds for each Oracle and Data Model respectively.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
+--
+
+### MIP10c16: Process to Remove Feed
 
 Used by the community to remove a Feed.
 
-MIP10c15 subproposals have the following parameters:
+MIP10c16 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
-
-MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template.md)**.
-
-This template is considered ratified once this MIP moves to Accepted status.
-
----
-
-### MIP10c16: List of Feeds
-
-A canonical record of the the whitelist for each Oracle.
 
 MIP10c16 subproposals must use the template located at **[MIP10c16-Subproposal-Template](MIP10c16-Subproposal-Template.md)**.
 
-MIP10c16 must be updated when a Feed is added or removed via MIP10c13/MIP10c14/MIP10c15.
-It is the responsibility of the Oracle Team(s) to ensure MIP10c16 is kept up to date.
-
 This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c17: Process to Update Feed Stipend
+### MIP10c17: List of Feeds
 
-Used by the community to update the Feed Stipend amount that is paid monthly to each Feed.
-
-MIP10c17 subproposals have the following parameters:
-- **Feedback Period:** 0 days
-- **Frozen period:** 0 days
+A canonical record of the the whitelist for each Oracle.
 
 MIP10c17 subproposals must use the template located at **[MIP10c17-Subproposal-Template](MIP10c17-Subproposal-Template.md)**.
 
+MIP10c16 must be updated when a Feed is added or removed via MIP10c15/MIP10c16.
+It is the responsibility of the Oracle Team(s) to ensure MIP10c17 is kept up to date.
+
 This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c18: Process to Update Oracle Expiration Time
+### MIP10c18: Process to Update Feed Stipend
 
-Used by the community to update an Oracle's Expiration Time. This is the maximum period of time the Oracle will not update its price.
+Used by the community to update the Feed Stipend amount that is paid monthly to each Feed.
 
 MIP10c18 subproposals have the following parameters:
 - **Feedback Period:** 0 days
@@ -479,11 +519,11 @@ This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c19: Process to Update Oracle Spread
+### MIP10c19: Process to Update Oracle Expiration Time
 
-Used by the community to update an Oracle's Spread. This is the minimum percentage difference between the current Oracle's price and the new price that will trigger the Oracle to update its price.
+Used by the community to update an Oracle's Expiration Time. This is the maximum period of time the Oracle will not update its price.
 
-MIP10c18 subproposals have the following parameters:
+MIP10c19 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 
@@ -493,15 +533,29 @@ This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP10c20: Process to Update Oracle Security Module Delay
+### MIP10c20: Process to Update Oracle Spread
 
-Used by the community to update an Oracle's Oracle Security Module delay. The delay is the amount of time between the Oracle updating and the Maker Protocol utilizing the new price.
+Used by the community to update an Oracle's Spread. This is the minimum percentage difference between the current Oracle's price and the new price that will trigger the Oracle to update its price.
 
-MIP10c20 subproposals have the following parameters:
+MIP10c18 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 
 MIP10c20 subproposals must use the template located at **[MIP10c20-Subproposal-Template](MIP10c20-Subproposal-Template.md)**.
+
+This template is considered ratified once this MIP moves to Accepted status.
+
+---
+
+### MIP10c21: Process to Update Oracle Security Module Delay
+
+Used by the community to update an Oracle's Oracle Security Module delay. The delay is the amount of time between the Oracle updating and the Maker Protocol utilizing the new price.
+
+MIP10c21 subproposals have the following parameters:
+- **Feedback Period:** 0 days
+- **Frozen period:** 0 days
+
+MIP10c21 subproposals must use the template located at **[MIP10c21-Subproposal-Template](MIP10c21-Subproposal-Template.md)**.
 
 This template is considered ratified once this MIP moves to Accepted status.
 
