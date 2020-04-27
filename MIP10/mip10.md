@@ -32,7 +32,8 @@
 **[MIP10c17-Subproposal-Template.md](MIP10c17-Subproposal-Template.md)**    
 **[MIP10c18-Subproposal-Template.md](MIP10c18-Subproposal-Template.md)**    
 **[MIP10c19-Subproposal-Template.md](MIP10c19-Subproposal-Template.md)**    
-**[MIP10c20-Subproposal-Template.md](MIP10c20-Subproposal-Template.md)**    
+**[MIP10c20-Subproposal-Template.md](MIP10c20-Subproposal-Template.md)**  
+**[MIP10c21-Subproposal-Template.md](MIP10c21-Subproposal-Template.md)**
 
 ## Sentence Summary
 
@@ -506,8 +507,17 @@ MIP10c18 subproposals have the following parameters:
 
 MIP10c18 subproposals must use the template located at **[MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md)**.
 
+**MIP10c18 is currently frozen until governance takes over the funding of Feed Stipends**
+
 1. A community member publishes the [MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
 
+2. The community reviews the details of the proposal and gives feedback.
+
+3. Feedback is incorporated into the [MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
+
+4. An Oracle Team submits a Polling Vote to the Governance Portal.
+
+5. The Oracle Team updates [MIP10c17](MIP10c17-Subproposal-Template.md)
 
 ---
 
@@ -521,6 +531,8 @@ MIP10c19 subproposals have the following parameters:
 
 MIP10c19 subproposals must use the template located at **[MIP10c19-Subproposal-Template](MIP10c19-Subproposal-Template.md)**.
 
+**Placeholder MIP component**
+
 ---
 
 ### MIP10c20: Process to Update Oracle Spread
@@ -533,6 +545,8 @@ MIP10c18 subproposals have the following parameters:
 
 MIP10c20 subproposals must use the template located at **[MIP10c20-Subproposal-Template](MIP10c20-Subproposal-Template.md)**.
 
+**Placeholder MIP component**
+
 ---
 
 ### MIP10c21: Process to Update Oracle Security Module Delay
@@ -544,6 +558,8 @@ MIP10c21 subproposals have the following parameters:
 - **Frozen period:** 0 days
 
 MIP10c21 subproposals must use the template located at **[MIP10c21-Subproposal-Template](MIP10c21-Subproposal-Template.md)**.
+
+**Placeholder MIP component**
 
 ---
 
