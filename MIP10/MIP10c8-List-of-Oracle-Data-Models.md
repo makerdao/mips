@@ -1,19 +1,6 @@
 # MIP10c8: Subproposal for List of Oracle Data Models
 
-## Preamble
-```
-MIP10c8-SP#: 
-Author(s):
-Contributors:
-Type: List Component
-Status:
-Date Proposed: <yyyy-mm-dd>
-Date Ratified: <yyyy-mm-dd>
-``` 
-
-## Specification
-
-### Glossary
+## Glossary
 
 - **Source:** The data source for the Oracle Feed
 - **Asset Pair:** The asset pair is a price quote of the exchange rate for two different assets traded on the market.
@@ -21,7 +8,7 @@ Date Ratified: <yyyy-mm-dd>
 - **Feed Model:**  Model for how a Feed processes all sourced data into a singular price
 - **Oracle Model:** Model for how an Oracle processes all Feed data into a singular price
 
-### Template Spec
+## Template Spec
 
 **Data Model Name:** < name >   
 **Data Model Origin:** < link to MIP10c1/MIP10c7 governance vote>   
@@ -31,7 +18,7 @@ Date Ratified: <yyyy-mm-dd>
 | < data source > |   < param >   |  < # >  |  < model >  |  < model >   |
 
 
-### Oracle Data Model List
+## Oracle Data Model List
 
 **Data Model Name:** BAT/USD Data Model   
 **Data Model Origin:** N/A   

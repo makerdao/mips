@@ -20,7 +20,7 @@
 **[MIP10c5-List-of-Active-Oracles.md](MIP10c5-List-of-Active-Oracles.md)**    
 **[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**    
 **[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**   
-**[MIP10c8-Subproposal-Template.md](MIP10c8-Subproposal-Template.md)**   
+**[MIP10c8-List-of-Oracle-Data-Models.md](MIP10c8-List-of-Oracle-Data-Models.md)**   
 **[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**   
 **[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**    
 **[MIP10c11-Subproposal-Template.md](MIP10c11-Subproposal-Template.md)**    
@@ -152,7 +152,7 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 6. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
 
 7. The Oracle Team(s) update [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to append the new Oracle and submit a PR to the MIPS Github repo.
-8. The Oracle Team(s) update [MIP10c8-List of Oracle Data Models](MIP10c8-Subproposal-Template.md) to append the new Data Model and submit a PR to the MIPS Github repo.
+8. The Oracle Team(s) update [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to append the new Data Model and submit a PR to the MIPS Github repo.
 9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
 
 ---
@@ -283,7 +283,7 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
-7. The Oracle Team updates [MIP10c8](MIP10c8-Subproposal-Template) to update the Data Model and submits a PR to the MIPS Github repo.
+7. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to update the Data Model and submits a PR to the MIPS Github repo.
 8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to update the Active Oracle record with the updated Data Model and submits a PR to the MIPS Github repo.
 
 ---
@@ -293,9 +293,9 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
 
 A canonical record of the ratified Data Models actively being used by the Oracles.
 
-The MIP10c8 template is located at **[MIP10c8-Subproposal-Template.md](MIP10c8-Subproposal-Template.md)**.
+The ratified list of Oracle Data Models is located at [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md).
 
-MIP10c8 must be updated when a new Data Mode is ratified as part of Oracle onboarding via MIP10c1 as well as when an Oracle Data Model is updated via MIP10c7.
+MIP10c8 must be updated when a new Data Model is ratified as part of Oracle onboarding via MIP10c1 as well as when an Oracle Data Model is updated via MIP10c7.
 
 It is the responsibility of the Oracle Team(s) to ensure MIP10c8 is kept up to date.
 
@@ -451,7 +451,7 @@ MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-T
 
 8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md)
 
-9. The Oracle Team updates [MIP10c8](MIP10c8-Subproposal-Template.md)
+9. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md)
 
 --
 
@@ -477,7 +477,7 @@ MIP10c16 subproposals must use the template located at **[MIP10c16-Subproposal-T
 
 6. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md)
 
-7. The Oracle Team updates [MIP10c8](MIP10c8-Subproposal-Template.md)
+7. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md)
 
 
 ---
