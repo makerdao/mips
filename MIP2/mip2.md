@@ -4,7 +4,7 @@
 ```
 MIP#: 2
 Title: Launch Period
-Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Type: Process
 Status: Request for Comments (RFC)
@@ -61,8 +61,8 @@ As a result, the community should prioritize getting the initial processes in pl
 	-  Before the vote, alternatives to the MIPs within the MIP Set can be proposed if they interface correctly with all the other MIPs within the Set.
 
 **During Interim Phase 1, the following additional logic is applied to the MIPs process defined in MIP0:**
-- A single vote approves or rejects all MIPs and Subproposals during phase 1. 
-- If rejected, MIPs can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
+1. A single vote approves or rejects all MIPs and Subproposals during phase 1. 
+2. If rejected, MIPs can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
 
 Interim Phase 1 ends 3 months after there is a formal a core governance framework in place and a functional collateral onboarding process.
 
@@ -86,5 +86,3 @@ Interim Phase 2 ends when the Problem Space has been addressed. More specificall
 ### MIP2c3: MIP2 Obsolescence 
 
 Once the Problem space has been addressed, MIP2 stops having an effect and the Feedback Period and Frozen Period defined in MIP0 take effect immediately. Furthermore, MIP2 is immediately granted the `Obsolete` status, meaning anything defined within MIP2 should no longer be considered to be the active standard. 
-
----

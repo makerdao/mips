@@ -15,7 +15,8 @@
     
 
 ## References
-No referenced materials.
+**[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**  
+**[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -111,67 +112,23 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 ---
 ### MIP10c3: Process for Onboarding
 
+MIP10c3 is a Process MIP component that is used by the Oracle Team(s) to onboard new oracles for collateral assets as well as compel the Feeds to update their Data Models in preparation for deploying a new Oracle. 
 
-This process MIP component is used by the Oracle Team(s) to onboard new oracles for collateral assets as well as compel the Feeds to update their Data Models in preparation for deploying a new Oracle.
-
+MIP10c3 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 - **Update Interval:** Feeds have a period of 2 weeks during which to upgrade their systems to include the Oracle type and data models. Any Feeds not upgraded during this interval are presumed to be in breach of their responsibilities and potentially subject to removal.
 
-**Subproposal Template:**
-
-    Introduction
-    
-    - Oracle Team Name:
-    - Oracle Data model Name:
-    - Oracle Data Model: 
-    
-    |    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-    | :------------ | :------------ | :----: | :---------: | :----------: |
-    | <data source> |   <param>     |  <#>   |   <model>   |    <model    |
-    
-    - Date of Proposed Inclusion: <date created on, in (yyyy-mm-dd) format>
-    
-    - Supported Tools: 
-        - <tool name> <version commit hash> <link to github repo>
-    	 
-    
-    Specification
-    
-    - Communication Medium(s)
-    	- Oracle Team Posting the MIP on the Maker Forum
-    	- Oracle Team posting the MIP in the Keybase Feeds channel
-    
-    - Update Interval
-    	- Feeds have a period of 2 weeks during which to upgrade their systems to include the Oracle type and data models. Any Feeds not upgraded during this interval are presumed to be in breach of their responsibilities and potentially subject to removal.
+MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
     
 ---
 
 ### MIP10c4: Process for Offboarding
 
-If an Oracle has been made obsolete, anyone can make a proposal to remove it, in order to reduce unnecessary costs such as gas fees. 
+MIP10c4 is a Process MIP component that allows anyone to remove an Oracle using a MIP10c4 subproposal. MIP10c4 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
-- **Subproposal Template:**
-```
 
-Introduction
-    
-    - Oracle Team Name:  
-    - Oracle Type Name: 
-    - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-    
-Specification
-        
-    - Removal Motivation:
-        - An explanation behind the motivation for the removal of the Oracle. Possible reasons include:
-                - An asset ceasing to exist 
-                - Removal of a collateral type from the Maker Protocol
-                - Oracle not being utilized by neither the Maker Protocol nor a 3rd party
-                - Failure to upgrade their systems to include an Oracle type and data models.
-    				
-    - Relevant Information:
-    	-  Links to evidence further backing the motivation behind the removal of the Oracle
+MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
-```
 ---
