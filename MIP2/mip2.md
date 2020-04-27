@@ -32,7 +32,7 @@ Lastly, the proposal states that MIP2 itself will become obsolete when the Probl
 ## Component Summary
 
 **MIP2c1: Interim Phase 1**  
-Defines the first interim phase, in which the feedback period and freeze period for MIPs are ignored until both a core governance framework and a functional collateral onboarding process are implemented through MIPs.
+Defines the first interim phase, in which the feedback period and freeze period for MIPs are ignored until 3 months after a core governance framework and a functional collateral onboarding process are implemented through MIPs.
 
 **MIP2c2: Interim Phase 2**  
 Defines the second interim phase, in which the feedback period and freeze period for MIPs are reduced until the initial problem space has been addressed.

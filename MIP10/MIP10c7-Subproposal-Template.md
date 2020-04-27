@@ -1,8 +1,8 @@
-# MIP10c3: Subproposal to Onboard Oracle
+# MIP10c7: Subproposal to Update Oracle Data Model
 
 ## Preamble
 ```
-MIP10c3-SP#: 
+MIP10c7-SP#: 
 Author(s):
 Contributors:
 Type: Process Component
@@ -15,9 +15,6 @@ Date Ratified: <yyyy-mm-dd>
 ## Specification
 
 ### Introduction
-- What data would this Oracle provide?
-- What would this Oracle be used for?
-- General comments by Oracle Team
 
 ### Oracle Data Model 
 
@@ -32,27 +29,16 @@ Date Ratified: <yyyy-mm-dd>
  | :-------------- | :------------ | :----------: |
  | < data source > |   < param >   |   < model >  |
  
+### Supporting Evidence
+- What is wrong with the current Data Model?
+- What is better about the new Data Model?
+- If possible provide empirical evidence showing the superiority of the new data model.
+	- data
+	- graphs
  
 ### Oracle Address
 - Medianizer
 - Oracle Security Module (OSM)
-
-### Customer(s)
-- < customer name > < point of contact email >
-
-### Whitelist
-- < customer name > - < address(es) to whitelist > - < Medianizer/OSM >
-
-### Requirements
-For each customer address to be whitelisted:
-	- Is the contract source code verified on etherscan? <yes/no>
-	- Isther  Oracle data used in a permissioned manner that would prevent parasitic behavior? <yes/no>
-	- Is Oracle data written to storage? <yes/no>
-		- If Oracle data is stored, is it stored in a private variable? <yes/no>
-		- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? <yes/no>
-
-### Fee
-- < customer name > - < amount in Dai >
     
 ### Supported Tools
 - < tool name > < version commit hash > < link to github repo >
