@@ -31,7 +31,7 @@
 |   Upbit       |    BAT/KRW    |
 
 **Data Model Name:** BTC/USD Data Model   
-**Data Model Origin:** [Maker Governance](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo)   
+**Data Model Origin:** [Governance Portal](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo)   
 **Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-btcusd-oracle-set-protocol-dydx/2011/14)   
 |    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
 | :------------ | :------------ | :----: | :---------: | :----------: |
