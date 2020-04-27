@@ -7,7 +7,7 @@ Author(s):
 Contributors:
 Type: Process Component
 Oracle Team Name:
-Status: <proposed/accepted>
+Status:
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
@@ -30,17 +30,18 @@ Date Ratified: <yyyy-mm-dd>
  | < data source > |   < param >   |   < model >  |
  
 ### Supporting Evidence
-	- What is wrong with the current Data Model?
-	- What is better about the new Data Model?
-	- If possible provide empirical evidence showing the superiority of the new data model.
-		- data
-		- graphs
+- What is wrong with the current Data Model?
+- What is better about the new Data Model?
+- If possible provide empirical evidence showing the superiority of the new data model.
+	- data
+	- graphs
  
 ### Oracle Address
- 	- Medianizer
- 	- Oracle Security Module (OSM)
+- Medianizer
+- Oracle Security Module (OSM)
     
 ### Supported Tools
-	- <tool name> <version commit hash> <link to github repo>
+- < tool name > < version commit hash > < link to github repo >
 
 ### Changelog
+- List of updates

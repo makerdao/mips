@@ -6,7 +6,7 @@ MIP10c10-SP#:
 Author(s):
 Contributors:
 Type: Process Component
-Status: <proposed/accepted>
+Status:
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
@@ -16,15 +16,15 @@ Date Ratified: <yyyy-mm-dd>
 ### Introduction
 
 ### Oracle Name
-	- What is the name of the Oracle(s) in MIP10c5?
+- What is the name of the Oracle(s) in MIP10c5?
 
 ### Customer(s)
- 	- <customer name> <point of contact email>
+- < customer name > < point of contact email >
 
 ### Removal Type
-	- <voluntary/involuntary>
+- < voluntary/involuntary >
 
 ### Reason for Removal
 
 ### Whitelist
-	- <Oracle Name> - <address(es) whitelisted> - <Medianizer/OSM>
+- < Oracle Name > - < address(es) whitelisted > - < Medianizer/OSM >

@@ -150,7 +150,7 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 8. The Oracle Team(s) update [MIP10c8-List of Oracle Data Models](MIP10c8-Subproposal-Template.md) to append the new Data Model and submit a PR to the MIPS Github repo.
 9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
 
-This MIP is considered ratified once this MIP moves to Accepted status.
+This MIP and Subproposal templates are considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -170,7 +170,6 @@ MIP10c2 subproposals must use the template located at **[MIP10c2-Subproposal-Tem
 
 2. At this point the proposal is in limbo until one or more Oracle Teams commits to doing the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Oracle Onboarding process.
 
-This MIP is considered ratified once this MIP moves to Accepted status.
 ---
 
 ### MIP10c3: Process to Onboard Oracle (OT)
@@ -199,8 +198,6 @@ MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Tem
     - Oracle Security Module (OSM) - only required for collateral assets
 
 6. The Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-
-This template is considered ratified once this MIP moves to Accepted status.
     
 ---
 
@@ -230,8 +227,6 @@ MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Tem
 8. The Oracle Team(s) update [MIP10c5-Subproposal-Template](MIP10c5-Subproposal-Template.md) to remove the Oracle and submit a PR to the MIPS Github repo. 
 9. The Oracle Team(s) update [MIP10c11-List of Oracles Whitelists](MIP10c11-Subproposal-Template.md) to remove all whitelist entries and submit a PR to the MIPS Github repo.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 --- 
 
 ### MIP10c5: List of Active Oracles
@@ -245,8 +240,6 @@ The MIP10c5 template is located at **[MIP10c5-Subproposal-Template.md](MIP10c5-S
 
 MIP10c5 must be updated when an Oracle is onboarded or offboarded by governance via MIP10c3 and MIP10c4.
 It is the responsibility of the Oracle Team(s) to ensure MIP10c5 is kept up to date.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -265,8 +258,6 @@ MIP10c6 subproposals must use the template located at **[MIP10c6-Subproposal-Tem
 1. A community member or other 3rd party publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
 2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
 3. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to submit [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) and continue the Oracle Data Model Update process.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -295,8 +286,6 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
 7. The Oracle Team(s) update [MIP10c8](MIP10c8-Subproposal-Template) to update the Data Model and submit a PR to the MIPS Github repo.
 8. The Oracle Team(s) update [MIP10c5](MIP10c5-Subproposal-Template) to update the Active Oracle record with the updated Data Model and submit a PR to the MIPS Github repo.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c8: List of Oracle Data Models
@@ -309,8 +298,6 @@ The MIP10c8 template is located at **[MIP10c8-Subproposal-Template.md](MIP10c8-S
 MIP10c8 must be updated when a new Data Mode is ratified as part of Oracle onboarding via MIP10c1 as well as when an Oracle Data Model is updated via MIP10c7.
 
 It is the responsibility of the Oracle Team(s) to ensure MIP10c8 is kept up to date.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -339,8 +326,6 @@ MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Tem
 
 6. The Oracle Team(s) update [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c10: Process to Remove Oracle Access
@@ -365,8 +350,6 @@ If involuntary:
     3. After the 30 day period has elapsed, the Oracle Team(s) bundle the proposal into the next Executive Vote.
     4. The Oracle Team(s) update [MIP10c11](MIP10c11-Subproposal-Template) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c11: List of Oracle Whitelists
@@ -377,8 +360,6 @@ The MIP10c11 template is located at **[MIP10c11-Subproposal-Template.md](MIP10c1
 
 MIP10c11 must be updated when an entity is added or removed from the whitelist for an Oracle via MIP10c3/MIP10c9/MIP10c10.
 It is the responsibility of the Oracle Team(s) to ensure MIP10c11 is kept up to date.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -392,8 +373,6 @@ MIP10c13 subproposals have the following parameters:
 
 The MIP10c12 template is located at **[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c13: Process to Appoint Dark Feed
@@ -405,8 +384,6 @@ MIP10c13 subproposals have the following parameters:
 - **Frozen period:** 0 days
 
 MIP10c13 subproposals must use the template located at **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -420,8 +397,6 @@ MIP10c14 subproposals have the following parameters:
 
 MIP10c14 subproposals must use the template located at **[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c15: Process to Remove Feed
@@ -434,8 +409,6 @@ MIP10c15 subproposals have the following parameters:
 
 MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template.md)**.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c16: List of Feeds
@@ -446,8 +419,6 @@ MIP10c16 subproposals must use the template located at **[MIP10c16-Subproposal-T
 
 MIP10c16 must be updated when a Feed is added or removed via MIP10c13/MIP10c14/MIP10c15.
 It is the responsibility of the Oracle Team(s) to ensure MIP10c16 is kept up to date.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -461,8 +432,6 @@ MIP10c17 subproposals have the following parameters:
 
 MIP10c17 subproposals must use the template located at **[MIP10c17-Subproposal-Template](MIP10c17-Subproposal-Template.md)**.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c18: Process to Update Oracle Expiration Time
@@ -474,8 +443,6 @@ MIP10c18 subproposals have the following parameters:
 - **Frozen period:** 0 days
 
 MIP10c18 subproposals must use the template located at **[MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md)**.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -489,8 +456,6 @@ MIP10c18 subproposals have the following parameters:
 
 MIP10c19 subproposals must use the template located at **[MIP10c19-Subproposal-Template](MIP10c19-Subproposal-Template.md)**.
 
-This template is considered ratified once this MIP moves to Accepted status.
-
 ---
 
 ### MIP10c20: Process to Update Oracle Security Module Delay
@@ -502,8 +467,6 @@ MIP10c20 subproposals have the following parameters:
 - **Frozen period:** 0 days
 
 MIP10c20 subproposals must use the template located at **[MIP10c20-Subproposal-Template](MIP10c20-Subproposal-Template.md)**.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
