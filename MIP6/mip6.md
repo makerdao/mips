@@ -20,7 +20,7 @@ Replaces: n/a
 
 ## Sentence Summary
 
-MIP6 provides an overview of defines a standardised application form used to kick off the process of onboarding a new collateral asset to the Maker Protocol.
+MIP6 defines a standardized application form used to kick off the process of onboarding a new collateral asset to the Maker Protocol.
 
 ## Paragraph Summary
 
