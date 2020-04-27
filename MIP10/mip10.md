@@ -397,11 +397,11 @@ MIP10c13 subproposals have the following parameters:
 - **Feedback Period:** 0 days
 - **Frozen period:** 0 days
 
+MIP10c13 subproposals must use the template located at **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**.
+
 1. An anon uses VPN/TOR/I2C to post [MIP10c13-Subproposal-Template](MIP10c13-Subproposal-Template.md) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo using a fresh Github Account registered with a throwaway email.
 
 2. At this point the proposal is in limbo until one or more Oracle Teams commits to doing the work required to validate the information provided. The Oracle Team may ask follow-up questions or request more data from the proposer.
-
-MIP10c13 subproposals must use the template located at **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**.
 
 ---
 
@@ -448,8 +448,6 @@ MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-T
 6. If the Executive Vote passes, the Oracle Team updates [MIP10c17](MIP10c17-Subproposal-Template.md) to include the new Feed.
 
 7. The Oracle Team(s) update [MIP10c5](MIP10c5-Subproposal-Template.md) and [MIP10c8](MIP10c8-Subproposal-Template.md) to modify the total number of Feeds for each Oracle and Data Model respectively.
-
-This template is considered ratified once this MIP moves to Accepted status.
 
 --
 
