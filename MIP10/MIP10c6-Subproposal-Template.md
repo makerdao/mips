@@ -6,7 +6,7 @@ MIP10c6-SP#:
 Author(s):
 Contributors:
 Type: Process Component
-Status: <proposed/accepted>
+Status:
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
@@ -29,10 +29,11 @@ Date Ratified: <yyyy-mm-dd>
  | < data source > |   < param >   |   < model >  |
 
 ### Supporting Evidence
-	- What is wrong with the current Data Model?
-	- What is better about the new Data Model?
-	- If possible provide empirical evidence showing the superiority of the new data model.
-		- data
-		- graphs
+- What is wrong with the current Data Model?
+- What is better about the new Data Model?
+- If possible provide empirical evidence showing the superiority of the new data model.
+	- data
+	- graphs
 
 ### Changelog
+- List of updates

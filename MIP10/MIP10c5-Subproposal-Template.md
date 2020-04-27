@@ -3,10 +3,10 @@
 ## Preamble
 ```
 MIP10c5-SP#: 
-Author(s): Niklas Kunkel (@NiklasKunkel)
+Author(s):
 Contributors:
 Type: List Component
-Status: <proposed/accepted>
+Status:
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 
