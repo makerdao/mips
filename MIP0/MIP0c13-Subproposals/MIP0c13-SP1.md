@@ -1,8 +1,8 @@
-# MIP0c12-SP1: Subproposal for Core Personnel Onboarding (MIP Editor) 
+# MIP0c13-SP1: Subproposal for Core Personnel Onboarding (MIP Editor) 
 
 ## Preamble
 ```
-MIP0c12-SP#: 1
+MIP0c13-SP#: 1
 Author: Charles St.Louis
 Contributors: n/a
 Status: Request for Comments (RFC)
