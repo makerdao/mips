@@ -1,22 +1,28 @@
-# MIP0c13: Subproposals Template for Core Personnel Offboarding
+# MIP0c12: Subproposal Template for Core Personnel Onboarding
 
 ## Preamble
+
 ```
-MIP0c13-SP#: #
+MIP0c12-SP#: #
 Author(s):
 Contributors: 
 Status:
-Date Proposed: <yyyy-mm-dd>
-Date Removed: <yyyy-mm-dd>
+Date Applied: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ---
 Core Personnel Role: MIP Editor or Governance Facilitator
-Core Personnel to be removed:
+Proposed applicant: Name of applicant
 ```
 
-## Removal Application and Supporting Evidence
+## Application
     
 ### Motivation
-- The explanation behind the removal of the person from the role listed above.
+- Explanation of why and how you want to fulfil this role. 
+    
+### Credentials
+- Past work experience.
 
 ### Relevant Information
--  Links to evidence further backing the motivation behind the removal of the person from the role listed above.
+- Github Account
+- MakerDAO Forum Account 
+- Other relevant Accounts

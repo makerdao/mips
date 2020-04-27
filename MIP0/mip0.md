@@ -16,8 +16,8 @@ Replaces: n/a
 ## References
 **[General-MIP-Template.md](General-MIP-Template.md)**  
 **[Technical-MIP-Template.md](Technical-MIP-Template.md)**  
-**[MIP0c12-Subproposal-Template.md](MIP0c12-Subproposal-Template.md)**  
 **[MIP0c13-Subproposal-Template.md](MIP0c13-Subproposal-Template.md)**  
+**[MIP0c14-Subproposal-Template.md](MIP0c14-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
