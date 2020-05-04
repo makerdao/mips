@@ -6,7 +6,7 @@ MIP#: 12
 Title: Collateral and Risk Parameter Management
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Type: Technical, Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: MIP0, MIP3, MIP7, MIP10, MIP11
