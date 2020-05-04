@@ -1,8 +1,8 @@
-# MIP0c13-SP2: Subproposal for Core Personnel Onboarding (Governance Facilitator) 
+# MIP0c12-SP2: Subproposal for Core Personnel Onboarding (Governance Facilitator) 
 
 ## Preamble
 ```
-MIP0c13-SP#: 2
+MIP0c12-SP#: 2
 Author: LongForWisdom
 Contributors: n/a
 Status: Conception
