@@ -28,6 +28,8 @@ So, with all this in mind, I’d be willing to take the role, if you’ll all ha
 
 To mitigate slightly the whole 'this job is horrible' thing above: that's a rather over-exaggerated view. I expect to enjoy the role in the general case (or I wouldn't be agreeing to it), and I am completely happy to take on the responsibility for the foreseeable future.
 
+---
+
 ### Credentials
 - Long(ish) standing member of the MakerDAO community.
 - Started several initiatives with the aim to improve the long-term prospects of MakerDAO.
@@ -45,6 +47,8 @@ To mitigate slightly the whole 'this job is horrible' thing above: that's a rath
 	- [The MIPs Framework](https://github.com/LongForWisdom/mips)
 
 - This thread produced by current governance facilitator Rich Brown: https://forum.makerdao.com/t/its-time-for-a-second-governance-facilitator/1998
+
+---
 
 ### Relevant Information
 - GitHub Account: [@LongForWisdom](https://github.com/LongForWisdom)
