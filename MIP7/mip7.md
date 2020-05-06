@@ -79,6 +79,11 @@ Team Name: The name of the onboarded domain team.
 
 **2. Smart Contracts Domain Teams:**
 
+- **Team Name:** Blue Team
+	- **Sub-proposal Number (MIP7c3-SP):** 1
+	- **Domain:** Smart Contracts
+	- **Date Added:** 2020-05-02 [Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals)
+
 **3. Risk Domain Teams:**
 
 **4. Legal Domain Teams:**
