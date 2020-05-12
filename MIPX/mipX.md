@@ -63,16 +63,16 @@ If a MIPXc2 subproposal is Accepted, The DAI Transfer is appended to the list in
 MIPXc2 subproposals have parameters that depend on the total amount of DAI to be transferred (even if split among multipe target addresses) according to the following logic:
 
 **< 10,000 DAI Transfer**
-- **Feedback Period:** 0 days
-- **Frozen period:** 0 days
+- **Feedback Period:** 0 full weeks
+- **Frozen period:** 0 full weeks
 
 **10,000 - 100,000 DAI Transfer**
-- **Feedback Period:** 4 weeks
-- **Frozen period:** 1 week
+- **Feedback Period:** 4 full weeks
+- **Frozen period:** 1 full week
 
 **> 100,000 DAI Transfer**
-- **Feedback Period:** 12 weeks
-- **Frozen period:** 4 weeks
+- **Feedback Period:** 12 full weeks
+- **Frozen period:** 4 full weeks
 
 MIPXc2 subproposals must use the template located at **[MIPXc2-Subproposal-Template.md](MIPXc2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
