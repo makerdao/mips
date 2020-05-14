@@ -1,8 +1,8 @@
-# MIPXc3: Subproposal Template for Declaration of Intent
+# MIP13c3: Subproposal Template for Declaration of Intent
 
 ## Preamble
 ```
-MIPXc3-SP#: #
+MIP13c3-SP#: #
 Author(s):
 Contributors:
 Status: 
@@ -10,7 +10,7 @@ Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ---
 Declaration Statement:
-Declaration to Replace: MIPXc3-SP# or n/a
+Declaration to Replace: MIP13c3-SP# or n/a
 Bounty: 
 ```
 ## Specification

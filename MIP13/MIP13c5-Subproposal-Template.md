@@ -1,15 +1,15 @@
-# MIPXc5: Subproposal Template for Acceptance of Work
+# MIP13c5: Subproposal Template for Acceptance of Work
 
 ## Preamble
 ```
-MIPXc5-SP#: #
+MIP13c5-SP#: #
 Author(s):
 Contributors:
 Status: 
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ---
-Declaration to Fulfil: MIPXc3-SP#
+Declaration to Fulfil: MIP13c3-SP#
 ```
 ## Specification
 

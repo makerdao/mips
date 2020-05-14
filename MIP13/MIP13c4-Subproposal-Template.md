@@ -1,15 +1,15 @@
-# MIPXc4: Subproposal Template for Revocation of Intent
+# MIP13c4: Subproposal Template for Revocation of Intent
 
 ## Preamble
 ```
-MIPXc4-SP#: #
+MIP13c4-SP#: #
 Author(s):
 Contributors:
 Status: 
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ---
-Declaration to Revoke: MIPXc3-SP#
+Declaration to Revoke: MIP13c3-SP#
 ```
 ## Specification
 
