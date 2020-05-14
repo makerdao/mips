@@ -1,54 +1,54 @@
-# MIPX: Declarations of Intent
+# MIP13: Declarations of Intent
 
 ## Preamble
 ```
-MIP#: X
+MIP#: 13
 Title: Declarations of Intent
 Author(s): @LongForWisdom
 Contributors: n/a
 Type: Process
-Status: <Assigned by MIP Editor>
-Date Proposed: <yyyy-mm-dd>
+Status: Request for Comments (RFC)
+Date Proposed: 2020-05-12
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP0
 Replaces: n/a
 ```
 ## References
-**[MIPXc3-Subproposal-Template.md](MIPXc3-Subproposal-Template.md)**  
-**[MIPXc4-Subproposal-Template.md](MIPXc4-Subproposal-Template.md)**  
-**[MIPXc5-Subproposal-Template.md](MIPXc5-Subproposal-Template.md)**  
+**[MIP13c3-Subproposal-Template.md](MIP13c3-Subproposal-Template.md)**  
+**[MIP13c4-Subproposal-Template.md](MIP13c4-Subproposal-Template.md)**  
+**[MIP13c5-Subproposal-Template.md](MIP13c5-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
-MIPX introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community and optionally attach a monetary incentive to help convert that intention into reality.
+MIP13 introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community and optionally attach a monetary incentive to help convert that intention into reality.
 
 ## Paragraph Summary
 
-MIPX introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community and optionally attach a monetary incentive to help make that intention into reality. MIPX defines a list of Active declarations, and the processes required to declare, revoke and modify declarations. Additionally, Maker Governance is able to optionally attach bounties to these declarations in order to incentivise actors to work on making them a reality.
+MIP13 introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community and optionally attach a monetary incentive to help make that intention into reality. MIP13 defines a list of Active declarations, and the processes required to declare, revoke and modify declarations. Additionally, Maker Governance is able to optionally attach bounties to these declarations in order to incentivise actors to work on making them a reality.
 
 ## Component Summary
 
-**MIPXc1: What is a Declaration of Intent?**  
+**MIP13c1: What is a Declaration of Intent?**  
 Describes the desireable properties of a Declaration of Intent, and the considerations that should be made when creating or modifying one.
 
-**MIPXc2: List of Active Declarations**  
+**MIP13c2: List of Active Declarations**  
 A list component which contains a list of the currently active declarations of intent.
 
-**MIPXc3: Declaration of Intent Process**  
+**MIP13c3: Declaration of Intent Process**  
 A process component that allows Maker Governance to create, replace or amend-through-replace a declaration of intent.
 
-**MIPXc4: Revocation of Intent Process**  
+**MIP13c4: Revocation of Intent Process**  
 A process component that allows Maker Governance to revoke a declaration of intent.
 
-**MIPXc5: Acceptance of Work Process**  
+**MIP13c5: Acceptance of Work Process**  
 A process component that allows Maker Governance to formally accept work done as the realisation of a declared intention and disburse any relevant bounties.
 
-**MIPXc6: Considerations for Bounty Hunters**  
+**MIP13c6: Considerations for Bounty Hunters**  
 Lays out a set of considerations for Bounty Hunters that wish to earn bounties through working on declared intents.
 
 ## Motivation
 
-MIPX is designed to formalize and expand on a pattern of behavior that has appeared consistently in the Maker Governance community. This pattern of behaviour tends to look like this:
+MIP13 is designed to formalize and expand on a pattern of behavior that has appeared consistently in the Maker Governance community. This pattern of behaviour tends to look like this:
 1. Recognise that something should be done.
 2. Discuss the problem.
 3. Vote in some form to ensure that a majority wants to do something.
@@ -66,7 +66,7 @@ The inclusion of bounties helps to deal directly with point 4 listed above, in t
 
 ## Specification / Proposal Details
 
-### MIPXc1: What is a Declaration of Intent?  
+### MIP13c1: What is a Declaration of Intent?  
 
 **Definition**
 
@@ -88,9 +88,9 @@ While it's perfectly acceptable to declare intent in vague terms, it is suggeste
 
 ---
 
-### MIPXc2: List of Active Declarations  
+### MIP13c2: List of Active Declarations  
 
-This list can be amended through subproposals created under MIPXc3, MIPXc4 and MIPXc5.
+This list can be amended through subproposals created under MIP13c3, MIP13c4 and MIP13c5.
 
 **Entries into this list should follow the following template:**
 
@@ -109,68 +109,68 @@ There are currently no active declarations. Below is an example declaration whic
 
 ```
 Declaration Statement: All Governance Facilitators should be given chocolate on the 30th of February each year.
-Sub-proposal Number: MIPXc3-SP0
+Sub-proposal Number: MIP13c3-SP0
 Date Ratified: 2020-02-30
 Bounty: 1,000,000 DAI
 ```
 
 ---
 
-### MIPXc3: Declaration of Intent Process  
-MIPXc3 is a Process MIP component that allows MKR Governance to create, replace or amend-through-replace a declaration of intent through a subproposal. 
+### MIP13c3: Declaration of Intent Process  
+MIP13c3 is a Process MIP component that allows MKR Governance to create, replace or amend-through-replace a declaration of intent through a subproposal. 
 
 Note that Declarations of Intent can be assigned bounties as part of this process. Bounties are always denominated and provided in DAI.
 
-If a declaration of intent is ratified through a MIPXc3 subproposal, it should be added to the MIPXc2 list by a MIP Editor. 
+If a declaration of intent is ratified through a MIP13c3 subproposal, it should be added to the MIP13c2 list by a MIP Editor. 
 
 If the subproposal defines a declaration to be replaced then:
-- That declaration should be removed from the MIPXc2 list by a MIP Editor
+- That declaration should be removed from the MIP13c2 list by a MIP Editor
 - The replaced declarations subproposal status should be changed to 'revoked' by a MIP Editor
 
-MIPXc3 subproposals have the following parameters:
+MIP13c3 subproposals have the following parameters:
 -   **Feedback Period**: 1 month
 -   **Frozen Period**: 1 week
 
-MIPXc3 subproposals must use the template located at **[MIPXc3-Subproposal-Template.md](MIPXc3-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
+MIP13c3 subproposals must use the template located at **[MIP13c3-Subproposal-Template.md](MIP13c3-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
 
 ---
 
-### MIPXc4: Revocation of Intent Process  
+### MIP13c4: Revocation of Intent Process  
 
-MIPXc4 is a Process MIP component that allows MKR Governance to revoke a declaration of intent through a subproposal.
+MIP13c4 is a Process MIP component that allows MKR Governance to revoke a declaration of intent through a subproposal.
 
-If a declaration of intent is revoked through a MIPXc4 subproposal then:
-- That declaration should be removed from the MIPXc2 list by a MIP Editor.
+If a declaration of intent is revoked through a MIP13c4 subproposal then:
+- That declaration should be removed from the MIP13c2 list by a MIP Editor.
 - The revoked declarations subproposal status should be changed to 'revoked' by a MIP Editor
 
-MIPXc4 subproposals have the following parameters:
+MIP13c4 subproposals have the following parameters:
 -   **Feedback Period**: 1 month
 -   **Frozen Period**: 1 week
 
-MIPXc4 subproposals must use the template located at **[MIPXc4-Subproposal-Template.md](MIPXc4-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
+MIP13c4 subproposals must use the template located at **[MIP13c4-Subproposal-Template.md](MIP13c4-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
 
 ---
 
-### MIPXc5: Acceptance of Work Process  
-MIPXc5 is a Process MIP component that allows MKR Governance to formally accept work done as the realisation of a declared intention and disburse any relevant bounties. Note that MIPXc5 subproposals are technical subproposals, they define executive code that transfers DAI from the Maker Protocol to the producer(s) of the accepted work.
+### MIP13c5: Acceptance of Work Process  
+MIP13c5 is a Process MIP component that allows MKR Governance to formally accept work done as the realisation of a declared intention and disburse any relevant bounties. Note that MIP13c5 subproposals are technical subproposals, they define executive code that transfers DAI from the Maker Protocol to the producer(s) of the accepted work.
 
 If work is accepted that fulfils a declared intention then:
-- The fulfilled declaration should be removed from the MIPXc2 list by a MIP Editor.
+- The fulfilled declaration should be removed from the MIP13c2 list by a MIP Editor.
 - The fulfilled declarations subproposal status should be changed to 'fulfilled' by a MIP Editor.
 
-MIPXc5 subproposals have the following parameters:
+MIP13c5 subproposals have the following parameters:
 -   **Feedback Period**: 1 month
 -   **Frozen Period**: 1 week
 
-MIPXc5 subproposals must use the template located at **[MIPXc5-Subproposal-Template.md](MIPXc5-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status. The 'Proposed Executive Code' section of this template should be left unchanged by subproposal authors.
+MIP13c5 subproposals must use the template located at **[MIP13c5-Subproposal-Template.md](MIP13c5-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status. The 'Proposed Executive Code' section of this template should be left unchanged by subproposal authors.
 
 ---
 
-### MIPXc6: Considerations for Bounty Hunters  
+### MIP13c6: Considerations for Bounty Hunters  
 This component is included to provided guidance to Bounty Hunters that wish to fulfil declared intentions and recieve DAI as bounty.
 
 1. Payment is contingent on demonstrating to Maker Governance that the intention has been satisfied.
-2. Once the work has been completed, the party responsible for the work should submit a MIPXc5 subproposal to claim the bounty.
+2. Once the work has been completed, the party responsible for the work should submit a MIP13c5 subproposal to claim the bounty.
 3. Work with Maker Governance as much as possible for each step of the process, make sure that you have a full understanding of the intention described in the declaration of intent subproposal.
 4. If you are worried that a specific declaration of intent is confusing, ambiguous, or otherwise badly formed, please communicate this before starting work.
 5. If a declaration of intent is quite old, consider reaching out to Maker Governance to enquire as to whether it is still valid before starting work. This may prompt a new declaration of intent in the case intentions have changed.
