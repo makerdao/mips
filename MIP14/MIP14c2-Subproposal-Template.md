@@ -1,8 +1,8 @@
-# MIPXc2: Subproposal for Protocol DAI Transfer
+# MIP14c2: Subproposal for Protocol DAI Transfer
 
 ## Preamble
 ```
-MIPXc2-SP: #
+MIP14c2-SP: #
 Title: <Title>
 Author(s):
 Contributors:
