@@ -210,11 +210,12 @@ A status change for a MIP is requested by the MIP Author and will be reviewed by
       
     
 
--   **Sub Proposals**  
+-   **Subproposals**  
       
-    **Summary:** A MIP component creates a bespoke process that is engaged by submitting sup proposals according to the framework specified in the process MIP component.
-    
-    -  The subproposal component naming convention is `MIP#c#-SP#`. This is important in order to delineate between different SPs under the same MIP.
+    **Summary:** A subproposal is an expedited process that is defined within a MIP to serve as a definition of how to run a given process within the MIPs framework. 
+
+- Subproposals require a template, a feedback period and a frozen period and are submitted using that template. Subproposals go through the MIPs process in the same way that full MIPs do. The template, feedback period and frozen period for a set of subproposals are defined using a MIP component known as a Process component. Any MIP containing a Process Component gains the Process type.
+- The subproposal naming convention is MIPXcY-SPZ where Y is the Process Component that contains the subproposal template and X is the MIP containing that component. This is important in order to delineate between different types of subproposal defined in the same MIP under different Process components.
    
 **Special Template:** N/A  
   
