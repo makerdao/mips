@@ -128,8 +128,8 @@ If the subproposal defines a declaration to be replaced then:
 - The replaced declarations subproposal status should be changed to 'revoked' by a MIP Editor
 
 MIP13c3 subproposals have the following parameters:
--   **Feedback Period**: 1 month
--   **Frozen Period**: 1 week
+-   **Feedback Period**: 4 full weeks
+-   **Frozen Period**: 1 full week
 
 MIP13c3 subproposals must use the template located at **[MIP13c3-Subproposal-Template.md](MIP13c3-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
 
@@ -144,8 +144,8 @@ If a declaration of intent is revoked through a MIP13c4 subproposal then:
 - The revoked declarations subproposal status should be changed to 'revoked' by a MIP Editor
 
 MIP13c4 subproposals have the following parameters:
--   **Feedback Period**: 1 month
--   **Frozen Period**: 1 week
+-   **Feedback Period**: 4 full weeks
+-   **Frozen Period**: 1 full week
 
 MIP13c4 subproposals must use the template located at **[MIP13c4-Subproposal-Template.md](MIP13c4-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
 
@@ -159,8 +159,8 @@ If work is accepted that fulfils a declared intention then:
 - The fulfilled declarations subproposal status should be changed to 'fulfilled' by a MIP Editor.
 
 MIP13c5 subproposals have the following parameters:
--   **Feedback Period**: 1 month
--   **Frozen Period**: 1 week
+-   **Feedback Period**: 4 full weeks
+-   **Frozen Period**: 1 full week
 
 MIP13c5 subproposals must use the template located at **[MIP13c5-Subproposal-Template.md](MIP13c5-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status. The 'Proposed Executive Code' section of this template should be left unchanged by subproposal authors.
 
