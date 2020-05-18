@@ -7,9 +7,9 @@ Title: The Maker Improvement Proposal Framework
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted 
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -290,7 +290,11 @@ Entries into this list should follow the following template:
     - **Date Added:** 2019-09-09 ([Poll: Ratify the Interim Governance Facilitator Mandate](https://vote.makerdao.com/polling-proposal/qmvh4z3l5ymqgtfs6tifq3jpjx5mxgdfnjy6alewnwwvba))
 
 2. **MIP Editors:**
-- There are no active MIP Editors at this point in time. 
+
+-  **Person Name:** Charles St.Louis
+	- **Sub-proposal Number (MIP0c12-SP):** 1
+	- **Core Role:** MIP Editor
+	- **Date Added:** 2020-05-02 ([Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals))
 
 ---
 

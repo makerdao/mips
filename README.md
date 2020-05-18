@@ -112,20 +112,46 @@ A status change for a MIP is requested by the MIP Author and will be reviewed by
 
 |MIP № |Date Proposed | Proposal Link                     |Description/Title                                  | Status    |
 |------|--------------|-----------------------------------|---------------------------------------------------|-----------|
-|   0  |   2020-04-06 | [MIP0](https://github.com/makerdao/mips/tree/master/MIP0)                          |Maker Improvement Proposals Framework              | RFC       |
-|   1  |   2020-04-06 | [MIP1](https://github.com/makerdao/mips/tree/master/MIP1)                          |Maker Governance Paradigms                         | RFC       |
-|   2  |   2020-04-06 | [MIP2](https://github.com/makerdao/mips/tree/master/MIP2)                          |Launch Period                                      | RFC       |
-|   3  |   2020-04-06 | [MIP3](https://github.com/makerdao/mips/tree/master/MIP3)                          |Governance Cycle                                  | RFC       |
-|   4  |   2020-04-06 | [MIP4](https://github.com/makerdao/mips/tree/master/MIP4)                          |MIP Amendment and Removal Process                 | RFC       |
-|   5  |   2020-04-06 | [MIP5](https://github.com/makerdao/mips/tree/master/MIP5)                          |Emergency Voting System                           | RFC       |
-|   6  |   2020-04-06 | [MIP6](https://github.com/makerdao/mips/tree/master/MIP6)                          |Collateral Onboarding Form/Forum Template         | RFC       |
-|   7  |   2020-04-06 | [MIP7](https://github.com/makerdao/mips/tree/master/MIP7)                          |Domain Teams (Collateral Onboarding)              | RFC       |
-|   8  |   2020-04-06 | [MIP8](https://github.com/makerdao/mips/tree/master/MIP8)                          |Domain Greenlight (Collateral Onboarding)         | RFC       |
-|   9  |   2020-04-06 | [MIP9](https://github.com/makerdao/mips/tree/master/MIP9)                          |Community Greenlight (Collateral Onboarding)      | RFC       |
-|   10 |   2020-04-06 | [MIP10](https://github.com/makerdao/mips/tree/master/MIP10)                         |Oracle Management                                 | RFC       |
-|   11 |   2020-04-06 | [MIP11](https://github.com/makerdao/mips/tree/master/MIP11)                         |General Risk Model Management (Collateral Onboarding)  | RFC       |
-|   12 |   2020-04-06 | [MIP12](https://github.com/makerdao/mips/tree/master/MIP12)                         |Collateral and Risk Parameter Management          | RFC       |
+|   0  |   2020-04-06 | [MIP0](https://github.com/makerdao/mips/tree/master/MIP0)                          |Maker Improvement Proposals Framework              | Accepted    |
+|   1  |   2020-04-06 | [MIP1](https://github.com/makerdao/mips/tree/master/MIP1)                          |Maker Governance Paradigms                         | Accepted   |
+|   2  |   2020-04-06 | [MIP2](https://github.com/makerdao/mips/tree/master/MIP2)                          |Launch Period                                      | Accepted    |
+|   3  |   2020-04-06 | [MIP3](https://github.com/makerdao/mips/tree/master/MIP3)                          |Governance Cycle                                  | Accepted   |
+|   4  |   2020-04-06 | [MIP4](https://github.com/makerdao/mips/tree/master/MIP4)                          |MIP Amendment and Removal Process                 | Accepted   |
+|   5  |   2020-04-06 | [MIP5](https://github.com/makerdao/mips/tree/master/MIP5)                          |Emergency Voting System                           | Accepted |
+|   6  |   2020-04-06 | [MIP6](https://github.com/makerdao/mips/tree/master/MIP6)                          |Collateral Onboarding Form/Forum Template         | Accepted    |
+|   7  |   2020-04-06 | [MIP7](https://github.com/makerdao/mips/tree/master/MIP7)                          |Domain Teams (Collateral Onboarding)              | Accepted     |
+|   8  |   2020-04-06 | [MIP8](https://github.com/makerdao/mips/tree/master/MIP8)                          |Domain Greenlight (Collateral Onboarding)         | Accepted  |
+|   9  |   2020-04-06 | [MIP9](https://github.com/makerdao/mips/tree/master/MIP9)                          |Community Greenlight (Collateral Onboarding)      | Accepted      |
+|   10 |   2020-04-06 | [MIP10](https://github.com/makerdao/mips/tree/master/MIP10)                         |Oracle Management                                 | Accepted      |
+|   11 |   2020-04-06 | [MIP11](https://github.com/makerdao/mips/tree/master/MIP11)                         |General Risk Model Management (Collateral Onboarding)  | Accepted     |
+|   12 |   2020-04-06 | [MIP12](https://github.com/makerdao/mips/tree/master/MIP12)                         |Collateral and Risk Parameter Management          | Accepted   |
 
+## Active MIPs Sets 
+
+### Core Governance Framework
+
+
+|MIP № |Date Ratified | Proposal Link                     |Description/Title                                  
+|------|--------------|-----------------------------------|---------------------------------------------------|
+|   1  |   2020-05-02 | [MIP1](https://github.com/makerdao/mips/tree/master/MIP1)                          |Maker Governance Paradigms  |
+|   2  |   2020-05-02 | [MIP2](https://github.com/makerdao/mips/tree/master/MIP2)                          |Launch Period                |
+|   3  |   2020-05-02 | [MIP3](https://github.com/makerdao/mips/tree/master/MIP3)                          |Governance Cycle                 |
+|   4  |   2020-05-02 | [MIP4](https://github.com/makerdao/mips/tree/master/MIP4)                          |MIP Amendment and Removal Process |
+|   5  |   2020-05-02 | [MIP5](https://github.com/makerdao/mips/tree/master/MIP5)                          |Emergency Voting System         |
+
+
+### Collateral Onboarding Framework
+
+
+|MIP № |Date Ratified | Proposal Link                     |Description/Title                                  
+|------|--------------|-----------------------------------|---------------------------------------------------|
+|   6  |   2020-05-02 | [MIP6](https://github.com/makerdao/mips/tree/master/MIP6)                          |Collateral Onboarding Form/Forum Template |
+|   7  |   2020-05-02 | [MIP7](https://github.com/makerdao/mips/tree/master/MIP7)                          |Domain Teams (Collateral Onboarding)  |
+|   8  |   2020-05-02 | [MIP8](https://github.com/makerdao/mips/tree/master/MIP8)                          |Domain Greenlight (Collateral Onboarding)|
+|   9  |   2020-05-02 | [MIP9](https://github.com/makerdao/mips/tree/master/MIP9)                          |Community Greenlight (Collateral Onboarding) |
+|   10 |   2020-05-02 | [MIP10](https://github.com/makerdao/mips/tree/master/MIP10)                         |Oracle Management |
+|   11 |   2020-05-02 | [MIP11](https://github.com/makerdao/mips/tree/master/MIP11)                         |General Risk Model Management (Collateral Onboarding) |
+|   12 |   2020-05-02 | [MIP12](https://github.com/makerdao/mips/tree/master/MIP12)                         |Collateral and Risk Parameter Management |
 
 
 ## Join the conversation 
