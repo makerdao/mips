@@ -7,15 +7,16 @@ Title: MIP Amendment and Removal Process
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
   ```
 
 ## References
-No referenced materials.
+**[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**  
+**[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -62,61 +63,19 @@ MIP4 also enables the removal of MIPs that are no longer useful. If there are ot
 ---
 ### MIP4c2: MIP Amendment Process 
 
- This component details the process of making amendments.
-- **Feedback Period:** 1 month
-- **Frozen Period:** 1 week
-- **Template:**
+MIP4c2 is a Process MIP component that allows the amendment of an Accepted MIP using a subproposal. MIP4c2 subproposals have the following parameters:
+- **Default Feedback Period**: 3 months
+- **Frozen Period**: 1 month
 
-```
-Introduction
+MIP4c2 subproposals must use the template located at  **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
-  - MIP to be amended: <MIP#>
-
-  - Amendment Author:
-
-  - Date of Amendment Submission: <date created on, in (yyyy-mm-dd) format>
-
-Specification
-    
-  - Motivation:
-    - Explanation behind the amendment of the MIP
-    - Explanation of why this change is valid for an amendment rather than a replacement.
-    - Any impact this has on other MIPs that interact with the MIP in question. 
-
-  - Amended Components:
-    - A list of the components that have been amended.
-
-  - Amendment PR:
-    -  A link to the PR containing the amendment. This PR must have remained unchanged for the Frozen Period.
-
-  - Relevant Information:
-    -  Links to evidence further backing the motivation.
-```
 ---
 ### MIP4c3: MIP Removal Process 
 
+MIP4c3 is a Process MIP component that allows the removal of an Accepted MIP using a subproposal. MIP4c3 subproposals have the following parameters:
+- **Default Feedback Period**: 3 months
+- **Frozen Period**: 1 month
 
-- This component details the process of removing MIPs. 
-- **Feedback Period:** 3 months
-- **Frozen Period:** 1 month
-- **Template:**
+MIP4c3 subproposals must use the template located at  **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
-```
-Introduction
-
-  - MIP to be removed: <MIP#>
-
-  - Author:
-
-  - Date of Submission: <date created on, in (yyyy-mm-dd) format>
-
-Specification
-    
-  - Motivation:
-    - Explanation behind the removal of the MIP
-    - Any impact this has on other MIPs that interact with the MIP in question. 
-
-  - Relevant Information:
-	-  Links to evidence further backing the motivation.
-```
 ---

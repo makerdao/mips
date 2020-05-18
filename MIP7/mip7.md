@@ -7,15 +7,16 @@ Title: Onboarding and Offboarding Domain Teams (Collateral Onboarding)
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
 ```
 
 ## References
-No referenced materials.
+**[MIP7c3-Subproposal-Template.md](MIP7c3-Subproposal-Template.md)**  
+**[MIP7c4-Subproposal-Template.md](MIP7c4-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -62,10 +63,10 @@ This list can be amended through the onboarding (MIP7c3) and offboarding compone
 **Entries into this list should follow the following template:**
 
 ```
-- Team Name: The name of the onboarded domain team.
+Team Name: The name of the onboarded domain team.
 - Sub-proposal Number (MIP7c3-SP): #
 - Domain: The domain in which the team operates.
-- Date Added: <date in (yyyy-mm-dd) format>
+- Date Added: (yyyy-mm-dd)
 ```
 
 **Active Domain Teams List**
@@ -78,69 +79,40 @@ This list can be amended through the onboarding (MIP7c3) and offboarding compone
 
 **2. Smart Contracts Domain Teams:**
 
+- **Team Name:** Blue Team
+	- **Sub-proposal Number (MIP7c3-SP):** 1
+	- **Domain:** Smart Contracts
+	- **Date Added:** 2020-05-02 [Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals)
+
 **3. Risk Domain Teams:**
 
 **4. Legal Domain Teams:**
 
 ---
-
 ### MIP7c3: Domain Team Onboarding
-- **Outcome:** Domain team is either onboarding successfully or is rejected. If onboarded, the domain team is added to the The Current Domain Team Roles list defined in MIP7c2 by the MIP Editor.
+
+MIP7c3 is a Process MIP component that allows the onboarding of a domain team using a subproposal. 
+
+If onboarded through a MIP7c3 subproposal, the domain team is added to the The Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
+
+MIP7c3 subproposals have the following parameters:
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
--   **Onboarding template:**
 
-```
-Introduction
+MIP7c3 subproposals must use the template located at  **[MIP7c3-Subproposal-Template.md](MIP7c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
- - Domain: <Ex: Risk>
- - Domain Team Name: <Ex: Risk Team A>
- - Author: <Person creating this proposal>
- - Date Applied: <date created on, in (yyyy-mm-dd) format>
-
-Application
-
--   Domain Team Introduction
-
-	-   Brief introduction / pitch of the team, why they want to work.
-    
-
--   Motivation
-
-	-   Why the team wants to join a certain domain.
-    
-
--   Work Credentials
-
-	-   Full names of members
-	-   Past work experience of members
-    
--   Relevant Information
-    
-	- Github accounts
-	- Forum accounts
-	- Other 
-```
 ---
 
 ### MIP7c4: Domain Team offboarding
-- **Outcome:** The Domain team is offboarded and the Domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by the MIP Editor.
+
+MIP7c4 is a Process MIP component that allows the removal of a domain team using a subproposal.
+
+If offboarded through a MIP7c4 subproposal the domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
+
+ MIP7c4 subproposals have the following parameters:
 -   **Feedback Period**: 0 days
 -   **Frozen Period**: 0 days
--   **Offboarding template:**
 
-```
-Introduction
-    
-    - Domain Team Name:   
-    - Date of Proposed Removal: <date created on, in (yyyy-mm-dd) format>
-    
-Specification
-        
-    - Removal Motivation:
-        - An explanation behind the motivation for the removal of the domain team. 
-    
-    - Relevant Information:
-    	-  Links to evidence further backing the motivation behind the removal of the domain team.
-```
+MIP7c4 subproposals must use the template located at  **[MIP7c4-Subproposal-Template.md](MIP7c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+
 ---

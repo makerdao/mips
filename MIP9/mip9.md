@@ -7,9 +7,9 @@ Title: Community Greenlight
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: MIP6, MIP8
 Replaces: n/a
 ```
@@ -19,7 +19,7 @@ No referenced materials.
 
 ## Sentence Summary
 
-MIP9 defines the process by which MKR Token Holders can signal their judgement on the value of a potential collateral type before domain teams spent time fully investigating its inclusion into the Maker Protocol.
+MIP9 defines the process by which MKR Token Holders can signal their judgment on the value of a potential collateral type before domain teams spend time thoroughly investigating its inclusion into the Maker Protocol.
 
 ## Paragraph Summary
 

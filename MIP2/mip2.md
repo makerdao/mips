@@ -4,12 +4,12 @@
 ```
 MIP#: 2
 Title: Launch Period
-Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
+Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: MIP0, MIP1
 Replaces: n/a
 ```
@@ -32,7 +32,7 @@ Lastly, the proposal states that MIP2 itself will become obsolete when the Probl
 ## Component Summary
 
 **MIP2c1: Interim Phase 1**  
-Defines the first interim phase, in which the feedback period and freeze period for MIPs are ignored until both a core governance framework and a functional collateral onboarding process are implemented through MIPs.
+Defines the first interim phase, in which the feedback period and freeze period for MIPs are ignored until 3 months after a core governance framework and a functional collateral onboarding process are implemented through MIPs.
 
 **MIP2c2: Interim Phase 2**  
 Defines the second interim phase, in which the feedback period and freeze period for MIPs are reduced until the initial problem space has been addressed.
@@ -61,8 +61,8 @@ As a result, the community should prioritize getting the initial processes in pl
 	-  Before the vote, alternatives to the MIPs within the MIP Set can be proposed if they interface correctly with all the other MIPs within the Set.
 
 **During Interim Phase 1, the following additional logic is applied to the MIPs process defined in MIP0:**
-- A single vote approves or rejects all MIPs and Subproposals during phase 1. 
-- If rejected, MIPs can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
+1. A single vote approves or rejects all MIPs and Subproposals during phase 1. 
+2. If rejected, MIPs can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
 
 Interim Phase 1 ends 3 months after there is a formal a core governance framework in place and a functional collateral onboarding process.
 
@@ -86,5 +86,3 @@ Interim Phase 2 ends when the Problem Space has been addressed. More specificall
 ### MIP2c3: MIP2 Obsolescence 
 
 Once the Problem space has been addressed, MIP2 stops having an effect and the Feedback Period and Frozen Period defined in MIP0 take effect immediately. Furthermore, MIP2 is immediately granted the `Obsolete` status, meaning anything defined within MIP2 should no longer be considered to be the active standard. 
-
----
