@@ -3,7 +3,7 @@
 ## Preamble
 ```
 MIP#: 15
-Title: Dark Fix Mechanism
+Title: Dark Spell Mechanism
 Author(s): Wil Barnes (@wilbarnes), Charles St.Louis (@CPSTL)
 Contributors: 
 Type: Process 
