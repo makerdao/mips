@@ -86,6 +86,8 @@ Declarations of both types (and anything inbetween) should be considered legitim
 
 While it's perfectly acceptable to declare intent in vague terms, it is suggested that Governance consider the vagueness of the declaration as a factor when determining if a bounty is released. Vague intentions may result in implementations that match the intention as written, but are not what Maker Governance expected, this should not be used as an excuse to deny bounty payments.
 
+One model that may appeal to Maker Governance and/or bounty hunters is that of involving a project manager familiar with Maker Governance who can act as an intermediary between Maker Governance and the bounty hunters. In this instance the intermediary can handle the required governance processes and organise the delivery of work in exchange for a share of the bounty.
+
 ---
 
 ### MIP13c2: List of Active Declarations  
