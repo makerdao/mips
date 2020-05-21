@@ -175,7 +175,7 @@ MIP15c7 subproposals have the following parameters:
 -   **Feedback Period**: 3 months
 -   **Frozen Period**: 1 month
 
-MIP15c7 subproposals must use the template located at **[MIP15c7-Subproposal-Template.md]('MIP15c7 Subproposal Template.md')**. This template is considered ratified once this MIP moves to the Accepted status.
+MIP15c7 subproposals must use the template located at **[MIP15c7-Subproposal-Template.md](MIP15c7 Subproposal Template.md)**. This template is considered ratified once this MIP moves to the Accepted status.
 
 ---
 
@@ -189,5 +189,5 @@ If offboarded through a MIP15c8 subproposal, the trusted third party is removed 
 -   **Feedback Period**: 0 days
 -   **Frozen Period**: 0 days
 
-MIP15c8 subproposals must use the template located at  **[MIP15c8-Subproposal-Template.md]('MIP15c8 Subproposal Template.md')**. This template is considered ratified once this MIP moves to the Accepted status.
+MIP15c8 subproposals must use the template located at  **[MIP15c8-Subproposal-Template.md](MIP15c8 Subproposal Template.md)**. This template is considered ratified once this MIP moves to the Accepted status.
 
