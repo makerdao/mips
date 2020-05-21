@@ -152,7 +152,7 @@ This process is designed to give the trusted third party autonomy over how they 
 
 This list can be amended through the onboarding (MIP15c7) and offboarding (MIP7c8) components of MIP15.
 
-**If there are no active trusted third parties, the responsibility for fulfilling these obligations falls upon the Smart Contracts domain team.
+If there are no active trusted third parties, the responsibility for fulfilling these obligations falls upon the Smart Contracts domain team.
 
 **Entries into this list should follow the following template:**
 
@@ -164,7 +164,7 @@ Trusted Third Party Name: The name of the onboarded third party.
 
 **Active Trusted Third Parties List**
 
-- There are no active, trusted third parties. 
+- There are currently no active trusted third parties. 
 
 ---
 ### MIP15c7: Trusted Third Party Onboarding
