@@ -15,9 +15,9 @@ Replaces:
 ```
 ## References
 
-**[Dark Fix Github Repository](https://github.com/makerdao/dss-darkspell)**
-**[MIP15c7-Subproposal-Template.md](MIP15c7-Subproposal-Template.md)**
-**[MIP15c8-Subproposal-Template.md](MIP15c8-Subproposal-Template.md)**
+**[Dark Fix Github Repository](https://github.com/makerdao/dss-darkspell)**  
+**[MIP15c7-Subproposal-Template.md](MIP15c7-Subproposal-Template.md)**  
+**[MIP15c8-Subproposal-Template.md](MIP15c8-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
