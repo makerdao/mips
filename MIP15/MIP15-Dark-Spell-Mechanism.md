@@ -66,7 +66,7 @@ This proposal aims to establish a process for how the Maker Community, the Smart
 - **Critical bug:** a bug that, if exploited, would result in significant economic damage to the system, is feasible for an attacker to exploit against the Ethereum mainnet either now or in the near future, with the system in normal operational mode. 
 - **Spell:** A spell is an un-owned object that performs one action or a series of atomic actions (multiple transactions) one time only to the Maker protocol.
 - **Dark Spell:** A special spell using an opcode that allows the address of a spell to be pre-determined before deployment. 
-- **Governance Security Module (GSM) Delay:** A configurable delay attribute, setting the minimum wait time before governance votes, can be applied to the system.  
+- **Governance Security Module (GSM) Delay:** A configurable delay attribute, setting the minimum wait time before governance votes can be applied to the system.  
 
 ---
 
