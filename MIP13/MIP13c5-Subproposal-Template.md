@@ -28,7 +28,7 @@ Amount To Transfer: 0 DAI
 - Links to evidence that proves the fulfilment of the intent.
 
 ### Proposed Executive Code
-The following executive code snippets are intended to be inserted within the 'Execute' function within 'SpellAction' contract of the executive spell. Any additional code required to support this executive code snippet is the responsibility of the Smart Contracts domain team when the executive spell is written. Any Smart Contracts domain team is free to modify this code snippet as required to match the intention of this subproposal.
+The following executive code snippets are intended to be inserted within the 'Execute' function within 'SpellAction' contract of the executive spell. Any additional code required to support this executive code snippet is the responsibility of the Smart Contracts domain team writing the executive spell. Any Smart Contracts domain team is free to modify this code snippet as required to match the intention of this subproposal.
 
 ```
 VatAbstract(MCD_VAT).hope(MCD_JOIN_DAI);
