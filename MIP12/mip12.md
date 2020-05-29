@@ -57,8 +57,8 @@ MIP12c2 is a process MIP component that allows any domain team to propose new ri
 
 MIP12c2 subproposals must contain the following three deliverables in the specification section:
 1. A risk domain team creates a risk construct for the collateral type (which should, in most cases, be based on a general risk model) and, in some cases, the results of polls that define all risk parameters for the collateral type.
-3. A security audit and risk assessment of a deployed and operational collateral adapter, medianizer, oracle security module, and executive vote code by a smart contracts domain team.
-4. A security audit and risk assessment of the current status of the oracle price feeds for supporting the new collateral type by an oracle domain team.
+2. A security audit and risk assessment of a deployed and operational collateral adapter, medianizer, oracle security module, and executive vote code by a smart contracts domain team.
+3. A security audit and risk assessment of the current status of the oracle price feeds for supporting the new collateral type by an oracle domain team.
 
  MIP12c2 subproposals have the following parameters:
 - **Feedback Period:** 0 days
