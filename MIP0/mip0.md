@@ -7,9 +7,9 @@ Title: The Maker Improvement Proposal Framework
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted 
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -210,11 +210,12 @@ A status change for a MIP is requested by the MIP Author and will be reviewed by
       
     
 
--   **Sub Proposals**  
+-   **Subproposals**  
       
-    **Summary:** A MIP component creates a bespoke process that is engaged by submitting sup proposals according to the framework specified in the process MIP component.
-    
-    -  The subproposal component naming convention is `MIP#c#-SP#`. This is important in order to delineate between different SPs under the same MIP.
+    **Summary:** A subproposal is an expedited process that is defined within a MIP to serve as a definition of how to run a given process within the MIPs framework. 
+
+- Subproposals require a template, a feedback period and a frozen period and are submitted using that template. Subproposals go through the MIPs process in the same way that full MIPs do. The template, feedback period and frozen period for a set of subproposals are defined using a MIP component known as a Process component. Any MIP containing a Process Component gains the Process type.
+- The subproposal naming convention is MIPXcY-SPZ where Y is the Process Component that contains the subproposal template and X is the MIP containing that component. This is important in order to delineate between different types of subproposal defined in the same MIP under different Process components.
    
 **Special Template:** N/A  
   
@@ -289,7 +290,11 @@ Entries into this list should follow the following template:
     - **Date Added:** 2019-09-09 ([Poll: Ratify the Interim Governance Facilitator Mandate](https://vote.makerdao.com/polling-proposal/qmvh4z3l5ymqgtfs6tifq3jpjx5mxgdfnjy6alewnwwvba))
 
 2. **MIP Editors:**
-- There are no active MIP Editors at this point in time. 
+
+-  **Person Name:** Charles St.Louis
+	- **Sub-proposal Number (MIP0c12-SP):** 1
+	- **Core Role:** MIP Editor
+	- **Date Added:** 2020-05-02 ([Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals))
 
 ---
 

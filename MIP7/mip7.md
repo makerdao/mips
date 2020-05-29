@@ -7,9 +7,9 @@ Title: Onboarding and Offboarding Domain Teams (Collateral Onboarding)
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
 ```
@@ -78,6 +78,11 @@ Team Name: The name of the onboarded domain team.
 	- **Date Added:** 2019-10-7 [Poll: Ratify the Interim Oracle Team Mandate](https://vote.makerdao.com/polling-proposal/qmas1bqrquo2h41qv4fa8hpek9ukb7dlwtpkpn62r5hhmq)
 
 **2. Smart Contracts Domain Teams:**
+
+- **Team Name:** Blue Team
+	- **Sub-proposal Number (MIP7c3-SP):** 1
+	- **Domain:** Smart Contracts
+	- **Date Added:** 2020-05-02 [Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals)
 
 **3. Risk Domain Teams:**
 
