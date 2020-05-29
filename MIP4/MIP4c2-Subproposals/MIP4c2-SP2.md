@@ -43,7 +43,7 @@ In summary, the amendments in this proposal affect the overall Collateral Onboar
 
 ### Amendment Pull Request (PR)
 
-- [Updated Version of MIP8 PR]()
+- [Updated Version of MIP8 PR](https://github.com/makerdao/mips/pull/40)
 
 ### Relevant Information
 
