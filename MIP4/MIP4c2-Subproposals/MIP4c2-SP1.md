@@ -31,7 +31,7 @@ This amendment to [MIP6](https://github.com/makerdao/mips/blob/master/MIP6/mip6.
 
 ### Amendment Pull Request (PR)
 
-- [Updated Version of MIP6 PR]()
+- [Updated Version of MIP6 PR](https://github.com/makerdao/mips/pull/39)
 
 ### Relevant Information
 
