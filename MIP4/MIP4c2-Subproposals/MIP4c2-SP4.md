@@ -44,7 +44,7 @@ This amendment MIP specifically impacts MIP12 subproposals. The update will allo
 
 ### Amendment Pull Request (PR)
 
-- [Updated Version of MIP12 PR]()
+- [Updated Version of MIP12 PR](https://github.com/makerdao/mips/pull/42)
 
 ### Relevant Information
 
