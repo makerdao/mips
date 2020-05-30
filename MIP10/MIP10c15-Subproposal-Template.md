@@ -38,7 +38,7 @@ Date Ratified: <yyyy-mm-dd>
 - Does the organization have a strong reputation in the crypto community?
 - What contributions has this organization made to the crypto ecosystem?
 - Would including the organization as a Light Feed instill a sense of trust in the Oracles?
-- Are there any public accussations of misconduct? How severe and numerous are they? Have they been confirmed?
+- Are there any public accusations of misconduct? How severe and numerous are they? Have they been confirmed?
 
 **Verification** 
 - Were sufficient public-facing resources provided or found that confirm the information in the application?
@@ -57,7 +57,7 @@ Date Ratified: <yyyy-mm-dd>
 - Given the ratio of Dark Feeds : Light Feeds, does the Maker Protocol benefit from adding another Dark/Light Feed at this time?
 - Given the extra cost of appointing a new Feed, does the benefit of the marginal security / marginal trust in the protocol exceed the cost?
 
-### Oracle Team Reccomendation
+### Oracle Team Recommendation
 - was the applicant honest with the data they provided?
 
 ### Changelog
