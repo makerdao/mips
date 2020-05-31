@@ -16,15 +16,14 @@ Replaces: n/a
 ## References
 **[MIP13c3-Subproposal-Template.md](MIP13c3-Subproposal-Template.md)**  
 **[MIP13c4-Subproposal-Template.md](MIP13c4-Subproposal-Template.md)**  
-**[MIP13c5-Subproposal-Template.md](MIP13c5-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
-MIP13 introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community and optionally attach a monetary incentive to help convert that intention into reality.
+MIP13 introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community.
 
 ## Paragraph Summary
 
-MIP13 introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community and optionally attach a monetary incentive to help make that intention into reality. MIP13 defines a list of Active declarations, and the processes required to declare, revoke and modify declarations. Additionally, Maker Governance is able to optionally attach bounties to these declarations in order to incentivise actors to work on making them a reality.
+MIP13 introduces declarations of intent, which allow Maker Governance to signal an intention to the wider community. MIP13 defines a list of Active declarations, and the processes required to declare, revoke and modify declarations. These declarations can help to inform DAO members or the Maker Foundation as to the issues and priorities that Governance considers to be important.
 
 ## Component Summary
 
@@ -40,12 +39,6 @@ A process component that allows Maker Governance to create, replace or amend-thr
 **MIP13c4: Revocation of Intent Process**  
 A process component that allows Maker Governance to revoke a declaration of intent.
 
-**MIP13c5: Acceptance of Work Process**  
-A process component that allows Maker Governance to formally accept work done as the realisation of a declared intention and disburse any relevant bounties.
-
-**MIP13c6: Considerations for Bounty Hunters**  
-Lays out a set of considerations for Bounty Hunters that wish to earn bounties through working on declared intents.
-
 ## Motivation
 
 MIP13 is designed to formalize and expand on a pattern of behavior that has appeared consistently in the Maker Governance community. This pattern of behaviour tends to look like this:
@@ -60,9 +53,6 @@ We've seen this pattern come up multiple times, across multiple different subjec
 3. Compensation of vaults that lost money on Black Thursday. 
 
 In each of these cases, there was no formal record of the declaration of intent beyond an on-chain poll and the various forum threads that led to the decision. By formalizing this process in MIPs, anyone wishing to interact with Maker Governance can easily discover what has been agreed on various topics in one place. In addition there will be a record of when each declaration took place, and the described reasons for it to have been declared.
-
-The inclusion of bounties helps to deal directly with point 4 listed above, in that after Maker Governance declares the intent to do something (regards of the method used to do so), it is currently unable to incentivise that thing to take place without relying in some way on the Maker Foundation. 
-
 
 ## Specification / Proposal Details
 
@@ -82,12 +72,6 @@ There may be times when Maker Governance does not care about the implementation 
 
 Declarations of both types (and anything inbetween) should be considered legitimate, but Maker Governance should take care to make it clear where each declaration lies on the scale between these two extremes.
 
-**With relation to bounties**
-
-While it's perfectly acceptable to declare intent in vague terms, it is suggested that Governance consider the vagueness of the declaration as a factor when determining if a bounty is released. Vague intentions may result in implementations that match the intention as written, but are not what Maker Governance expected, this should not be used as an excuse to deny bounty payments.
-
-One model that may appeal to Maker Governance and/or bounty hunters is that of involving a project manager familiar with Maker Governance who can act as an intermediary between Maker Governance and the bounty hunters. In this instance the intermediary can handle the required governance processes and organise the delivery of work in exchange for a share of the bounty.
-
 ---
 
 ### MIP13c2: List of Active Declarations  
@@ -100,28 +84,23 @@ This list can be amended through subproposals created under MIP13c3, MIP13c4 and
 Declaration Statement:
 Sub-proposal Number: #
 Date Ratified: (yyyy-mm-dd)
-Bounty: 
 ```
 
 Note that the subproposal code should link to the relevant subproposal.
 
-
 **Active Declarations List**  
-There are currently no active declarations. Below is an example declaration which should be removed (as should this paragraph) when the first ratified declaration is added to this list .
+There are currently no active declarations. Below is an example declaration which should be removed (as should this paragraph) when the first ratified declaration is added to this list. If there are no active declarations, the example declaration and this paragraph should be restored. 
 
 ```
 Declaration Statement: All Governance Facilitators should be given chocolate on the 30th of February each year.
 Sub-proposal Number: MIP13c3-SP0
 Date Ratified: 2020-02-30
-Bounty: 1,000,000 DAI
 ```
 
 ---
 
 ### MIP13c3: Declaration of Intent Process  
 MIP13c3 is a Process MIP component that allows MKR Governance to create, replace or amend-through-replace a declaration of intent through a subproposal. 
-
-Note that Declarations of Intent can be assigned bounties as part of this process. Bounties are always denominated and provided in DAI.
 
 If a declaration of intent is ratified through a MIP13c3 subproposal, it should be added to the MIP13c2 list by a MIP Editor. 
 
@@ -152,28 +131,3 @@ MIP13c4 subproposals have the following parameters:
 MIP13c4 subproposals must use the template located at **[MIP13c4-Subproposal-Template.md](MIP13c4-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
 
 ---
-
-### MIP13c5: Acceptance of Work Process  
-MIP13c5 is a Process MIP component that allows MKR Governance to formally accept work done as the realisation of a declared intention and disburse any relevant bounties. Note that MIP13c5 subproposals are technical subproposals, they define executive code that transfers DAI from the Maker Protocol to the producer(s) of the accepted work.
-
-If work is accepted that fulfils a declared intention then:
-- The fulfilled declaration should be removed from the MIP13c2 list by a MIP Editor.
-- The fulfilled declarations subproposal status should be changed to 'fulfilled' by a MIP Editor.
-
-MIP13c5 subproposals have the following parameters:
--   **Feedback Period**: 4 full weeks
--   **Frozen Period**: 1 full week
-
-MIP13c5 subproposals must use the template located at **[MIP13c5-Subproposal-Template.md](MIP13c5-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status. The 'Proposed Executive Code' section of this template should be left unchanged by subproposal authors.
-
----
-
-### MIP13c6: Considerations for Bounty Hunters  
-This component is included to provided guidance to Bounty Hunters that wish to fulfil declared intentions and recieve DAI as bounty.
-
-1. Payment is contingent on demonstrating to Maker Governance that the intention has been satisfied.
-2. Once the work has been completed, the party responsible for the work should submit a MIP13c5 subproposal to claim the bounty.
-3. Work with Maker Governance as much as possible for each step of the process, make sure that you have a full understanding of the intention described in the declaration of intent subproposal.
-4. If you are worried that a specific declaration of intent is confusing, ambiguous, or otherwise badly formed, please communicate this before starting work.
-5. If a declaration of intent is quite old, consider reaching out to Maker Governance to enquire as to whether it is still valid before starting work. This may prompt a new declaration of intent in the case intentions have changed.
-6. Due to the way the Governance Cycle operates, payment for completed bounties may be delayed for several months in the worst case.
