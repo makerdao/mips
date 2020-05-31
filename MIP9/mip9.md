@@ -94,7 +94,7 @@ Community Greenlight poll scores provide a reasonable first approximation of whi
 - If a previously deferred potential collateral asset is included in the monthly greenlight polls, a reason must be communicated to the community via the official forum before the greenlight poll occurs.
 - The Governance Facilitators are responsible for maintaining a list of collaterals based on the outcome of the individual Community Greenlight Polls. This list should include collateral types that have been both greenlit and deferred.
 - At the Governance Facilitators, discretion community greenlight polls may be deferred to a later a month.
-- If the Governance Facilitators opt to defer, community greenlight polls a reason must be communicated to the community via the official forum before the greenlight polls take place.
+- If the Governance Facilitators opt to defer community greenlight polls, a reason must be communicated to the community via the official forum before the greenlight polls take place.
 
 ---
 
