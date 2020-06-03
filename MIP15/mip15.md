@@ -58,7 +58,7 @@ Defines the process for the removal of a trusted third party.
 
 ## Motivation
 
-This proposal aims to establish a process for how the Maker Community, the Smart Contracts (SC) domain team, and a trusted third party will work together with urgency to respond to and resolve critical vulnerabilities discovered in the Maker Protocol. 
+A dark spell is necessary because it conceals the bytecode that fixes the critical bug. When the Maker Protocol has a non-zero GSM delay, protocol changes must pass a governance vote in order to be scheduled but cannot be applied until the GSM delay duration has passed. Furthermore, if a normal spell were used in such a situation, the bytecode would be available for anyone to inspect for the length of the delay. This would open up the opportunity for the bytecode to be reverse-engineered, allowing sophisticated attackers to exploit the available information before the bug is fixed. 
 
 ## Specification / Proposal Details
 
@@ -94,8 +94,6 @@ The Dark Spell mechanism occurs over seven main steps and involves four key stak
 ---
 
 **MIP15c3: Dark Spell Requirements**
-
-A dark spell is necessary because it conceals the bytecode that fixes the critical bug. When the Maker Protocol has a non-zero GSM delay, protocol changes must pass a governance vote in order to be scheduled but cannot be applied until the GSM delay duration has passed. Furthermore, if a normal spell were used in such a situation, the bytecode would be available for anyone to inspect for the length of the delay. This would open up the opportunity for the bytecode to be reverse-engineered, allowing sophisticated attackers to exploit the available information before the bug is fixed. 
 
 **Criteria for whether a critical vulnerability necessitates a dark spell fix:**
 
