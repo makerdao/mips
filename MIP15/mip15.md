@@ -7,7 +7,7 @@ Title: Dark Spell Mechanism
 Author(s): Wil Barnes (@wilbarnes), Charles St.Louis (@CPSTL)
 Contributors: 
 Type: Process 
-Status: Conception 
+Status: Request for Comments (RFC)
 Date Proposed: 2020-05-21
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
