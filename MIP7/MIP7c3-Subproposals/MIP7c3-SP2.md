@@ -6,7 +6,7 @@
 MIP7c3-SP#: 2
 Author(s): Cyrus Younessi (@DonutJr)
 Contributors: n/a
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Applied: 2020-06-01
 Date Ratified: <yyyy-mm-dd>
 ---
