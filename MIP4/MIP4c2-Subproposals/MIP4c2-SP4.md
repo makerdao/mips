@@ -7,7 +7,7 @@ MIP4c2-SP#: 4
 MIP to be Amended: MIP12
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Contributors:
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date of Amendment Submission: 2020-05-28
 Date of ratification: <yyyy-mm-dd>
 ```
