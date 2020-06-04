@@ -7,7 +7,7 @@ MIP4c2-SP#: 1
 MIP to be Amended: MIP6 
 Author(s): Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date of Amendment Submission: 2020-05-28
 Date of ratification: <yyyy-mm-dd>
 ```
