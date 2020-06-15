@@ -1,11 +1,10 @@
 ## Preamble
 
 ```
-MIP10c9-SP2
+MIP10c9-SP#: 2
 Author(s): Nenad Palinkasevic, Nikola Klipa, Nikola Jankovic
 Contributors: Nik Kunkel
-Type: Process Component
-Status: Proposed
+Status: Formal Submission
 Date Proposed: 2020-05-17
 Date Ratified: <yyyy-mm-dd>
 ```
