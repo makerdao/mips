@@ -1,11 +1,10 @@
 ## Preamble
 
 ```
-MIP10c15-SP2:
+MIP10c15-SP#: 2
 Author(s): Nik Kunkel
 Contributors:
-Type: Process Component
-Status: Proposed
+Status: Formal Submission
 Date Proposed: 2020-05-29
 Date Ratified: <yyyy-mm-dd>
 ```
