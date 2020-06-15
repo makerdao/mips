@@ -1,11 +1,10 @@
 ## Preamble
 
 ```
-MIP10c14-SP1
+MIP10c14-SP#: 1
 Author(s): Deniz Omer
 Contributors: Nik Kunkel
-Type: Process Component
-Status: Proposed
+Status: Formal Submission
 Date Proposed: 2020-05-24
 Date Ratified: <yyyy-mm-dd>
 ```
