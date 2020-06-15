@@ -10,7 +10,7 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Disclaimer
-MIP10 is meant to handle all of the Oracle relacated actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive and denoted with a `*` suffix as point of provenance to serve as a paper trail.
+MIP10 is meant to handle all of the Oracle related actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive as a point of provenance to serve as a paper trail.
 
 ## Specification
 
@@ -46,3 +46,7 @@ The leading Ethereum Block explorer, analytics and api service provider for the 
 * How will the Maker Community benefit from your inclusion as a Light Feed?
 
 As a Light Feed we believe our ethos of neutrality and impartiality will help in providing a reliable source of pricing data.
+
+### Changelog
+	- reformatted preamble
+	- added disclaimer

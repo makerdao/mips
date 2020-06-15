@@ -10,7 +10,7 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Disclaimer
-MIP10 is meant to handle all of the Oracle relacated actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive and denoted with a `*` suffix as point of provenance to serve as a paper trail.
+MIP10 is meant to handle all of the Oracle related actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive as a point of provenance to serve as a paper trail.
 
 ## Specification
 
@@ -51,4 +51,5 @@ Apart from Kyber Network, the various founders have been involved in:
 The Kyber team have gained valuable experience building one of the largest liquidity providers to the DeFi space over the last three years, and their addition as a stakeholder to the trustless Oracles further contributes to the strengthening of the expertise and know-how within the MakerDAO ecosystem.
 
 ### Changelog
-- Added disclaimer
+	- reformatted preamble
+	- added disclaimer

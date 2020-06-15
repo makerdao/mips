@@ -10,7 +10,7 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Disclaimer
-MIP10 is meant to handle all of the Oracle relacated actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive and denoted with a `*` suffix as point of provenance to serve as a paper trail.
+MIP10 is meant to handle all of the Oracle related actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive as a point of provenance to serve as a paper trail.
 
 ## Specification
 
@@ -113,3 +113,5 @@ The Oracle Team recommends that Maker Governance ratify the proposal to appoint 
 Gitcoin is an established member of the Ethereum tribe on a mission to create sustainable funding for open source. Dai is an integral part of the Gitcoin platform. Since its inception grants totalling $2,214,536 Sai/Dai have been awarded accounting for over 70% of all awarded grants. There is a clear alignement of incentives between Gitcoin providing trusted pricing data to the MakerDAO Oracles and Gitcoin's dominating use of Dai on its platform. The Oracle Team was able to verify most of the information provided by Kevin in the MIP10c14 Light Feed application. No confirmed cases of misconduct related to the organization were found.
 
 ### Changelog
+	- reformatted preamble
+	- added disclaimer

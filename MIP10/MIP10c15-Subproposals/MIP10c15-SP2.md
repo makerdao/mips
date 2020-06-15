@@ -10,7 +10,7 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Disclaimer
-MIP10 is meant to handle all of the Oracle relacated actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive and denoted with a `*` suffix as point of provenance to serve as a paper trail.
+MIP10 is meant to handle all of the Oracle related actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive as a point of provenance to serve as a paper trail.
 
 ## Specification
 
@@ -107,4 +107,5 @@ Yes.
 The Oracle Team recommends that Maker Governance ratify the proposal to appoint Infura as a Light Feed for the Maker Oracles. Infura's reputation within the industry as the backbone of connectivity to the Ethereum blockchain, present in everyday services like MetaMask, makes them a clear favorite to partner with to decentralize and secure Maker’s Oracles. Being owned by Consensys, itself founded and led by Ethereum cofounder Joe Lubin, just further cements the trustworthiness of Infura. The Oracle Team was able to verify the claims made by Infura in their application.
 
 ### Changelog
+	- reformatted preamble
 	- added disclaimer

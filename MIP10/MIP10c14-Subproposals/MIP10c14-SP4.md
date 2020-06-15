@@ -9,6 +9,9 @@ Date Proposed: 2020-06-10
 Date Ratified: <yyyy-mm-dd>
 ``` 
 
+## Disclaimer
+MIP10 is meant to handle all of the Oracle related actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive as a point of provenance to serve as a paper trail.
+
 ## Specification
 
 ### Organization
@@ -56,4 +59,5 @@ We will be faithful & responsible stewards of the data passed into the MKR Oracl
 Note that DAI/SAI are some of the most used tokens on the Gitcoin platform!  We have a rational economic incentive to keep the price data clean & good!  https://gitcoin.co/leaderboard/tokens?cadence=quarterly&keyword=all&product=all
 
 ### Changelog
-- Added disclaimer
+	- reformatted preamble
+	- added disclaimer

@@ -10,7 +10,7 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Disclaimer
-MIP10 is meant to handle all of the Oracle relacated actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive and denoted with a `*` suffix as point of provenance to serve as a paper trail.
+MIP10 is meant to handle all of the Oracle related actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive as a point of provenance to serve as a paper trail.
 
 ## Specification
 
@@ -46,3 +46,7 @@ For each customer address to be whitelisted:
 ### Fee
 
 In accordance with the Responsible Oracle Migration Proposal, fees are waived for the first year and determined by MKR Governance after that.
+
+### Changelog
+	- reformatted preamble
+	- added disclaimer
