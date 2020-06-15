@@ -1,11 +1,10 @@
 ## Preamble
 
 ```
-MIP10c14-SP3: 
+MIP10c14-SP#: 3
 Author(s): Elvis Hee
 Contributors: Nik Kunkel
-Type: Process Component
-Status: Proposed
+Status: Formal Submission
 Date Proposed: 2020-06-11
 Date Ratified: <yyyy-mm-dd>
 ```
