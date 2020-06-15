@@ -1,11 +1,10 @@
 ## Preamble
 
 ```
-MIP10c14-SP4
+MIP10c14-SP#: 4
 Author(s): Kevin Owocki <kevin@gitcoin.co>
 Contributors: Kevin Owocki <kevin@gitcoin.co>, Nik Kunkel
-Type: Process Component
-Status: Proposed
+Status: Formal Submission
 Date Proposed: 2020-06-10
 Date Ratified: <yyyy-mm-dd>
 ``` 
