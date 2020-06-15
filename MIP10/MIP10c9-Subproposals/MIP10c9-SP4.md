@@ -1,11 +1,10 @@
 ## Preamble
 
 ```
-MIP10c9-SP4
+MIP10c9-SP#: 4
 Author(s): Zhao Yang, Tianchi Zhu, Jie liu
 Contributors: Nik Kunkel
-Type: Process Component
-Status: Proposed
+Status: Formal Submission
 Date Proposed: 2020-06-03
 Date Ratified: <yyyy-mm-dd>
 ```
