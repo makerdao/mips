@@ -5,9 +5,9 @@ MIP12c2-SP: 1
 Title: Domain work requirements for onboarding the ZRX collateral type
 Author(s): Cyrus Younessi (@DonutJr), Niklas Kunkel (@NiklasKunkel), Mariano Conti (@nanexcool)
 Contributors: Charles St.Louis (@CPSTL)
-Status: Formal Submission (FS)
+Status: Obsolete
 Date Proposed: 2020-06-03
-Date ratified: <yyyy-mm-dd>
+Date ratified: n/a
 ```
 
 ## Specification
