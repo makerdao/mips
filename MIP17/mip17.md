@@ -17,8 +17,8 @@ Replaces:
 
 ## References
 
-[MIP17c3-Subproposal-Template.md](link)
-[MIP17c5-Subproposal-Template.md](link)
+- [MIP17c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/RFC/MIP17/MIP17c3-Subproposal-Template.md)
+- [MIP17c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/RFC/MIP17/MIP17c5-Subproposal-Template.md)
 
 ## Sentence Summary
 
