@@ -9,8 +9,8 @@ Type: Technical, Process
 Status: Accepted
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
-Last Amended: <yyyy-mm-dd>
-Dependencies: MIP0, MIP3, MIP7, MIP10, MIP11
+Last Amended: 2020-06-25
+Dependencies: MIP0, MIP3, MIP7
 Replaces: n/a
 ```  
 

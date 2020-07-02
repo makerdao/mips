@@ -10,8 +10,8 @@ Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
-Last Amended: <yyyy-mm-dd>
-Dependencies: MIP7, MIP9
+Last Amended: 2020-06-25
+Dependencies: n/a
 Replaces: n/a
 ```
 ## References
