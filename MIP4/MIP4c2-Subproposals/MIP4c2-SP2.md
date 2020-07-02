@@ -8,7 +8,7 @@ MIP4c2-SP#: 2
 MIP to be Amended: MIP8
 Author(s): Charles St.Louis (@CPSTL), @LongForWisdom, Rune Christensen (@Rune23)
 Contributors:
-Status: Formal Submission (FS)
+Status: Accepted
 Date of Amendment Submission: 2020-05-27
 Date of ratification: <yyyy-mm-dd>
 
