@@ -5,7 +5,7 @@
 MIP0c12-SP#: 2
 Author: LongForWisdom
 Contributors: n/a
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2020-05-04
 Date Ratified: <yyyy-mm-dd>
 ---
