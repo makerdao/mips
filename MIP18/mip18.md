@@ -95,7 +95,7 @@ MIP18c4 subproposals have the following parameters:
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
 
-MIP18c4 subproposals must use the template located at **[MIP18c4-Subproposal-Template.md] (link)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP18c4 subproposals must use the template located at **[MIP18c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/RFC/MIP18/MIP18c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
