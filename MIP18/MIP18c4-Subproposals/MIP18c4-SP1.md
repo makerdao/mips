@@ -31,5 +31,7 @@ Voting for this proposal does not mean voting against the concept of having adju
 - Remove the Dai Savings Rate (DSR) Spread from MIP18c2
 - Remove the Dai Savings Rate (DSR) Spread from MIP18c3
 
+**Note:** With the removal of the DSR Spread, this means that the Dai Savings Rate (DSR) will follow the Base Rate going forward.
+
 ### Relevant Information
 - n/a
