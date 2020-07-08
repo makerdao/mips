@@ -83,7 +83,7 @@ Meta-Parameters are parameters that do not correspond directly to parameters wit
 | Meta-Parameter | Vote Frequency| Vote Type|Option Distribution | Option Limits |
 |----------------|---------------|----------|------|---
 | Base Rate      | Weekly        | IRV      |Exponential-around-current      | -4, +4
-| DSR Spread     | Bi-Weekly     | IRV      | Exponential-around-current     | 4, +4, ≥ 0
+| DSR Spread     | Bi-Weekly     | IRV      | Exponential-around-current     | -4, +4, ≥ 0
 
 ---
 ### MIP18c4: Meta-Parameter Adjustments Process 
