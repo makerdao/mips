@@ -11,7 +11,6 @@ Date Ratified: <yyyy-mm-dd>
 ---
 Declaration Statement:
 Declaration to Replace: MIP13c3-SP# or n/a
-Bounty: 
 ```
 ## Specification
 
@@ -23,10 +22,6 @@ Bounty:
 
 - As clear a description as possible of the intent that Maker Governance wishes to declare.
 - How flexible is this intent in terms of implementation?
-
-### Justification of Bounty Amount
-
-- Why has this declaration been given the bounty it has?
 
 ### Relevant Links
     
