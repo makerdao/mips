@@ -57,7 +57,7 @@ The purpose of this MIP is to introduce an initial version of secure Actual Debt
 - **Actual Debt Ceiling:** The Actual Debt Ceiling is the current Debt Ceiling set in the Maker Protocol. Note this is different from the Target Debt Ceiling and current existing system Debt.
 - **Target Debt Ceiling:** This is a risk parameter that is set by MIP12 subproposals, which regulates the adjustment of the Actual Debt Ceiling and the Actual Risk Premium in the Weekly Governance Cycle ([MIP16](https://github.com/makerdao/mips/tree/RFC/MIP16)).
 - **Current Debt:** The current outstanding Debt in the Maker Protocol (this is **not** the same as the Debt Ceiling).
-- **Actual Risk Premium:** The Actual Risk Premium is the Maker Protocol's current Risk Premium. It is adjusted based on the utilization of the collateral type and used to calculate the Stability Fees in the Maker Protocol. The Actual Risk Premium is the value that is added to the Debt Ceiling to get the Base Rate value.
+- **Actual Risk Premium:** The Actual Risk Premium is the Maker Protocol's current Risk Premium. It is adjusted based on the utilization of the collateral type and used to calculate the Stability Fees in the Maker Protocol. The Actual Risk Premium is the value that is added to the Base Rate to get the Stability Fee value.
 - **Target Risk Premium:** A risk parameter set by MIP12 subproposals which regulates the Actual Risk Premium's adjustment.
 - **Actual Debt Ceiling Adjustment:** An adjustment process to securely modify the Actual Debt Ceiling so that it minimizes the system's attack surface while still enabling growth and not frustrating users.
 - **Actual Risk Premium Adjustment:** The Actual Risk Premium calculation is based on the Target Debt Ceiling utilization.
