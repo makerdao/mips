@@ -62,6 +62,7 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ### Proposed code
    see [vox.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.sol). The core price adjustment functionality is simple:
+
    ```
    function prod() external {
      if (way == ONE) return;        // optimised
@@ -77,7 +78,9 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
    ```
 
 ### Test cases
+
     _WIP_ see [vox.t.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.t.sol)
+
     ```
     test_prod_noop
     ```
