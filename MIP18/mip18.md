@@ -8,7 +8,7 @@ Title: Meta-Parameter Adjustments
 Author(s): @LongForWisdom, Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: 
 Type: Process
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Proposed: 2020-07-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
