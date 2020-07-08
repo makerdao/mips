@@ -26,7 +26,7 @@ MIP17 defines a process and solution for enabling weekly Debt Ceiling and utiliz
 
 ## Paragraph Summary
 
-This proposal defines and formalizes a solution using the Weekly Governance Cycle ([MIP16](https://github.com/makerdao/mips/tree/RFC/MIP16)) for making weekly Actual Debt Ceiling and Utilization Based Risk Premium Adjustments. Additionally, the proposal describes how to propose modifications to the actual calculation logic behind the debt ceiling and risk premium adjustments.
+This proposal defines and formalizes a solution using the Weekly Governance Cycle ([MIP16](https://github.com/makerdao/mips/tree/RFC/MIP16)) for making weekly Actual Debt Ceiling and Actual Risk Premium Adjustments. Additionally, the proposal describes how to propose modifications to the actual calculation logic behind the debt ceiling and risk premium adjustments.
 
 ## Component Summary
 
@@ -47,7 +47,7 @@ Defines the process for altering the calculation logic for the Actual Risk Premi
 
 ## Motivation
 
-The purpose of this MIP is to introduce an initial version of secure Actual Debt Ceiling adjustments and Debt Ceiling based Risk Premium curves. The Debt Ceiling based Risk Premium curves improve the Maker Governance system to more effectively and dynamically adjust Debt ceilings and Risk premiums to better match user patterns.
+The purpose of this MIP is to introduce an initial version of secure Actual Debt Ceiling adjustments and Actual Risk Premium curves. The Actual Risk Premium curves improve the Maker Governance system to more effectively and dynamically adjust Debt Ceilings and Risk Premiums to better match user patterns.
 
 ## Specification / Proposal Details
 
