@@ -38,6 +38,8 @@ Defines key terms related to the Weekly Governance cycle.
 
 Breaks the Weekly Governance Cycle down into the actions that take place over the course of the week. 
 
+**MIP16c3: Limiting Governance to MIP-defined processes**
+Defines the requirement of only allowing MIP-defined processes to be used for Maker Governance.
 
 ## Motivation
 
@@ -74,5 +76,14 @@ The goal of the standardized Weekly Governance Cycle is to formalize the current
 
 **Important Notes:** 
 - If a non-standard weekly poll ("signal request") has been proposed, it will also be put in the weekly poll. To create a non-standard weekly poll requires an urgent and apparent reason from a timing perspective to justify it. It is important to note that a non-standard weekly poll cannot be used for long-term decisions and requires consensus from the Governance facilitators before it can be accepted and published.
-- The Monthly and Weekly Governance Cycles are now the only valid way (outside of Emergency action) of making changes to the Maker Protocol, that are not already formalized in other MIPs in the [Core Governance MIPs Set](https://github.com/makerdao/mips#core-governance-framework). More specifically, this means that weekly polls should only be used when there is a specific need to use the weekly process. Otherwise, it should use the monthly governance cycle ([defined in MIP3](https://github.com/makerdao/mips/tree/master/MIP3)). 
+
+---
+### MIP16c3: Limiting Governance to MIP-defined processes
+
+With the acceptance of this MIP, non-emergency governance of the Maker Protocol must now happen under processes defined by Accepted MIPs. At the time of writing, MIPs defining governance processes include the [Core Governance MIPs Set](https://github.com/makerdao/mips#core-governance-framework). Such as [MIP3](https://github.com/makerdao/mips/tree/master/MIP3) and [MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md), which define monthly and weekly governance cycles, respectively.
+
+In addition, the use of the weekly cycle as defined in this MIP should only occur where there is a specific need to use the weekly cycle as opposed to the monthly cycle. Consensus among the Governance Facilitators is required in order to make use of the weekly cycle as opposed to the monthly cycle.
+
+Emergency governance actions are explicitly allowed outside of MIP-defined governance processes due to the time-sensitive nature of emergency responses and the permissionless nature of on-chain proposals and voting.
+
 ---
