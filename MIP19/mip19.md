@@ -7,7 +7,7 @@ Title: Liquidations System 1.1 Upgrade
 Author(s): Mariano Conti (@nanexcool), Charles St.Louis (@CPSTL) 
 Contributors: Kurt Barry (@kmbarry1)
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Proposed: 2020-07-06
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
