@@ -1,4 +1,4 @@
-Forward Guidance
+# MIP13c3-SP1: Declaration of Intent (Forward Guidance)
 
 ## Preamble
 ```
@@ -14,13 +14,13 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Context and Motivation
 
-Aware, of the efforts within the Maker community by companies to help Vault users hedge their exposure to the base rate via various derivative contracts,
+- Aware, of the efforts within the Maker community by companies to help Vault users hedge their exposure to the base rate via various derivative contracts,
 
-Acknowledging, the importance of the aforementioned services being necessary to the scalability of MakerDAO, due to the historic volatility in the DSR (and SF during SCD),
+- Acknowledging, the importance of the aforementioned services being necessary to the scalability of MakerDAO, due to the historic volatility in the DSR (and SF during SCD),
 
-Recognizing, the necessity of Risk Teams and voters having the ability to react to any risk presented to the system at any time, and enact measures to protect the system,
+- Recognizing, the necessity of Risk Teams and voters having the ability to react to any risk presented to the system at any time, and enact measures to protect the system,
 
-Supporting, the ongoing work of providing full transparency and fairness to its users, 
+- Supporting, the ongoing work of providing full transparency and fairness to its users, 
 
 The following is declared:
 
