@@ -1,10 +1,10 @@
-# MIP17: Weekly Actual Debt Ceiling Adjustments and Utilization Based Risk Premium Adjustments
+# MIP17: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments
 
 ## Preamble
 
 ```
 MIP#:17
-Title: Weekly Actual Debt Ceiling and Utilization Based Risk Premium Adjustments
+Title: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
 Type: Process
@@ -22,7 +22,7 @@ Replaces:
 
 ## Sentence Summary
 
-MIP17 defines a process and solution for enabling weekly Debt Ceiling and utilization based Risk Premium adjustments.
+MIP17 defines a process and solution for enabling weekly Debt Ceiling and utilization based Actual Risk Premium adjustments.
 
 ## Paragraph Summary
 
@@ -31,7 +31,7 @@ This proposal defines and formalizes a solution using the Weekly Governance Cycl
 ## Component Summary
 
 **MIP17c1: Definitions**
-Defines key terms related to the Weekly Actual Debt Ceiling and Utilization Based Risk Premium Adjustments.
+Defines key terms related to the Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments.
 
 **MIP17c2: Actual Debt Ceiling Adjustments**
 Defines the calculation logic on how to modify the Actual Debt Ceiling securely.
