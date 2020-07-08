@@ -26,7 +26,8 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ## Paragraph summary
 
-  _WIP_
+_WIP_
+
 - A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
 
 ## Component summary
@@ -63,39 +64,39 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 ### Proposed code
    see [vox.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.sol). The core price adjustment functionality is simple:
 
-   ```
-   function prod() external {
-     if (way == ONE) return;        // optimised
-     uint256 age = sub(now, tau);
-     if (age == 0) return;          // optimised
-     tau = now;
+```
+function prod() external {
+  if (way == ONE) return;        // optimised
+  uint256 age = sub(now, tau);
+  if (age == 0) return;          // optimised
+  tau = now;
 
-     // no adjustment after cage
-     if (spot.live() == 0) return;
-     uint256 par = max(cap, rmul(rpow(way, age, ONE), spot.par()));
-     spot.file("par", par);
-   }
-   ```
+  // no adjustment after cage
+  if (spot.live() == 0) return;
+  uint256 par = max(cap, rmul(rpow(way, age, ONE), spot.par()));
+  spot.file("par", par);
+}
+```
 
 ### Test cases
 
-    _WIP_ see [vox.t.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.t.sol)
+_WIP_ see [vox.t.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.t.sol)
 
-    ```
-    test_prod_noop
-    ```
+```
+test_prod_noop
+```
 
 ### Security considerations
 
-   _WIP_
+_WIP_
 
 ### Other considerations
 
-   _WIP_
+_WIP_
 
 ### Auditor information and report
 
-   _WIP_
+_WIP_
 
 ### Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
