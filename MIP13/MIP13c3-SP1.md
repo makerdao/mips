@@ -1,15 +1,18 @@
 Forward Guidance
 
-Preamble
-MIP13c3-SP#: 0
+## Preamble
+```
+MIP13c3-SP#: 1
 Author(s): Akiva Dubrofsky (@akiva)
 Contributors: @vitalyr
 Status: Request for Comments (RFC) 
 Date Proposed: <2020-07-08>
 Date Ratified: <yyyy-mm-dd>
-Specification
+```
 
-Context and Motivation
+## Specification
+
+### Context and Motivation
 
 Aware, of the efforts within the Maker community by companies to help Vault users hedge their exposure to the base rate via various derivative contracts,
 
@@ -21,7 +24,7 @@ Supporting, the ongoing work of providing full transparency and fairness to its 
 
 The following is declared:
 
-Declaration Detail
+### Declaration Detail
 
 1. MakerDAO will adjust the Risk Premia of specific collateral types in order to have proper System Surplus, and to avoid System Deficit, in the following list of scenarios:
 a. A change deemed significant by a Risk Team in the nature of the collateral object
@@ -33,6 +36,6 @@ c. An event that was unforeseeable (“a black swan” event)
 
 This declaration is flexible in implementation while aiming to improve fairness for users.
 
-Relevant Links
-https://forum.makerdao.com/t/soft-locks-and-future-guidance-a-pre-mip-discussion/2875
-https://forum.makerdao.com/t/rate-stabilization-for-makerdao/2274
+### Relevant Links
+- https://forum.makerdao.com/t/soft-locks-and-future-guidance-a-pre-mip-discussion/2875
+- https://forum.makerdao.com/t/rate-stabilization-for-makerdao/2274
