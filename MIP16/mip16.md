@@ -8,7 +8,7 @@ Title: The Weekly Governance Cycle
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
 Type: Process 
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Proposed: 2020-07-01
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
@@ -39,6 +39,7 @@ Defines key terms related to the Weekly Governance cycle.
 Breaks the Weekly Governance Cycle down into the actions that take place over the course of the week. 
 
 **MIP16c3: Limiting Governance to MIP-defined processes**
+
 Defines the requirement of only allowing MIP-defined processes to be used for Maker Governance.
 
 ## Motivation
