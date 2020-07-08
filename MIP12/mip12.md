@@ -10,7 +10,7 @@ Status: Accepted
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Last Amended: 2020-06-25
-Dependencies: MIP0, MIP3, MIP7
+Dependencies: MIP0, MIP3, MIP7, MIP17
 Replaces: n/a
 ```  
 
@@ -28,25 +28,37 @@ This proposal defines the documentation and work requirements for the onboarding
 ## Component Summary
 
 **MIP12c1: Domain Team Requirements for Onboarding Collateral Type to the Maker Protocol**  
+
 Lists the required and optional domain teams involved in onboarding a collateral type to the Maker Protocol as well as a high-level overview of the domain work required.
 
 **MIP12c2: Proposing New Risk Parameters, Oracles, and Collateral Adapters**  
+
 A process component that defines a method, a template, and the requirements for proposing new risk parameters, oracles, or collateral adaptors for collateral types.
 
 **MIP12c3: Collateral Type Checklist (Governance)**  
+
 Defines a checklist of actions that must be completed before and after governance approval of a collateral type.
+
+**MIP12c4: Target Debt Ceiling and Target Risk Premium Adjustment Requirements**
+
+Defines the requirements for which collateral types can have their Target Debt Ceiling and Target Risk Premium (TRP) risk parameters adjusted.
+
+
+**MIP12c5: List of Enabled Collateral Types and their Risk Parameters**
+
+Defines the requirements for getting a collateral type added to the List of Enabled Collateral Types. 
 
 ## Motivation
 
-This proposal will focus on the collateral onboarding process blueprint for submitting MIP12 Subproposals (MIP12-SPs). Submitting MIP12 Subproposals is the final step before collateral types go through the governance cycle and ultimately get added to or rejected from the Maker Protocol. The Subproposal process is reserved for domain teams to propose new risk parameters, oracles, and adapters for a new, or existing collateral type. This proposal also details the involvement of the community greenlight polls (MIP9) and the overall collateral onboarding process requirements. Furthermore, it allows domain teams to execute on collateral onboarding via the executive vote. 
+This proposal will focus on the collateral onboarding process blueprint for submitting MIP12 Subproposals (MIP12-SPs). Submitting MIP12 Subproposals is the final step before collateral types go through the governance cycle and ultimately get added to or rejected from the Maker Protocol. The Subproposal process is reserved for domain teams to propose new risk parameters, oracles, and adapters for a new, or existing collateral type. This proposal also details the overall collateral onboarding process requirements. Furthermore, it allows domain teams to execute on collateral onboarding via the executive vote. 
 
 ## Specification / Proposal Details
 
 ### MIP12c1: Domain Team Requirements for Onboarding Collateral Type to the Maker Protocol
 
-- **A Risk team** (elected through MIP7) builds and approves risk constructs for the collateral types that have been greenlit through the MIP9 and MIP8 processes. 
-- **A Smart Contracts team** (elected through MIP7) builds and approves the collateral types' adapter, medianizer, oracle security module for collateral types that have been greenlit through the MIP9 and MIP8 processes. Additionally, the Smart Contracts domain team will create the executive vote code (spell) as well as the technical risk assessments of the aforementioned smart contracts.
-- **An Oracles team** (elected through MIP7), updates the oracle operations for collateral types that have been greenlit through the MIP9 and MIP8 processes through MIP10 (Oracle Management). Additionally, the Oracles domain team approves the currently active price feeds as well as builds and approves their oracle security audit/risk assessment.
+- **A Risk team** (elected through MIP7) builds and approves risk constructs for the collateral types. 
+- **A Smart Contracts team** (elected through MIP7) builds and approves the collateral types' adapter, medianizer, oracle security module for collateral types. Additionally, the Smart Contracts domain team will create the executive vote code (spell) as well as the technical risk assessments of the aforementioned smart contracts.
+- **An Oracles team** (elected through MIP7), updates the oracle operations for collateral types. Additionally, the Oracles domain team approves the currently active price feeds as well as builds and approves their oracle security audit/risk assessment.
 - (Optional) **A Legal team** (elected through MIP7)  creates and approves the legal risk assessment of the collateral types based on the work completed by the above domain teams.
 
 ---
@@ -57,8 +69,8 @@ MIP12c2 is a process MIP component that allows any domain team to propose new ri
 
 MIP12c2 subproposals must contain the following three deliverables in the specification section:
 1. A risk domain team creates a risk construct for the collateral type (which should, in most cases, be based on a general risk model) and, in some cases, the results of polls that define all risk parameters for the collateral type.
-2. A security audit and risk assessment of a deployed and operational collateral adapter, medianizer, oracle security module, and executive vote code by a smart contracts domain team.
-3. A security audit and risk assessment of the current status of the oracle price feeds for supporting the new collateral type by an oracle domain team.
+2. A smart contracts domain team creates a security audit/risk assessment of a deployed and operational collateral adapter, medianizer, oracle security module, and executive vote code. 
+3. An oracle domain team creates a security audit/risk assessment of the current status of the oracle price feeds for supporting the new collateral type.
 
  MIP12c2 subproposals have the following parameters:
 - **Feedback Period:** 0 days
@@ -97,4 +109,45 @@ MIP12c2 subproposals must use the template located at **[MIP12c2-Subproposal-Tem
 - The collateral type has been added to the Maker Protocol.
 - Vaults can now be created with the new collateral type.
         
+---
+### MIP12c4: Target Debt Ceiling and Target Risk Premium Adjustment Requirements
+
+The [MIP17](https://github.com/makerdao/mips/blob/RFC/MIP17/mip17.md) proposal adds extra flexibility to collateral types that are MIP17 enabled, by giving Maker Governance the recurring option to dynamically adjust their Actual Debt Ceilings and Actual Risk Premiums based on the utilization of the collateral type. Only collateral types that have been added/specified as being MIP17 enabled through a **MIP12c2 Subproposal** (Proposing New Risk Parameters, Oracles, and Collateral Adapters) can have their Target Debt Ceiling and Target Risk Premium (TRP) risk parameters adjusted. The assets that are MIP17 enabled, and their Target Debt Ceiling and Target Risk Premium parameters are listed on the current active list of Enabled Collateral Types in MIP12c5. MIP12c5 is updated when Maker Governance successfully ratifies a MIP12c2 Subproposal. A MIP12c2 subproposal can either add a new MIP17 enabled collateral type or modify an already existing MIP17 enabled collateral type.
+
+**Note:**
+
+- The Target Debt Ceiling (TDC) risk parameter determines which debt level the Actual Risk Premium will be equal to the Target Risk Premium.
+- The Target Risk Premium (TRP) is the parameter that determines how the magnitude of Risk Premiums that the collateral type will have at different levels of Actual Debt Ceiling.
+
+---
+
+### MIP12c5: List of Enabled Collateral Types and their Risk Parameters
+
+The MIP17 enabled collateral types in this component list are authorized for the original collateral types added to the Maker Protocol. More specifically, this means that only assets with the '-A' indicator can be added to this Enabled Collateral Types list. For example, assets such as **USDC-B** are not authorized to be added to the list. 
+
+**The Enabled Collateral Types List:**
+
+- **ETH-A**
+    * TDC: 160 million 
+    * TRP: 0%
+- **BAT-A**
+    * TDC: 3 million
+    * TRP: 0%
+- **WBTC-A**
+    * TDC: 20 million
+    * TRP: 2%
+- **KNC-A**
+    * TDC: 5 million
+    * TRP: 4%
+- **ZRX-A**
+    * TDC: 5 million
+    * TRP: 4%
+- **USDC-A**
+    * TDC: 40 million
+    * TRP: 4%
+
+**Risk Parameter Definitions:**
+- **Target Debt Ceiling (TDC):** This is a risk parameter that is set by MIP12 subproposals, which regulates the adjustment of the Actual Debt Ceiling and the Actual Risk Premium in the Weekly Governance Cycle ([MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md)).
+- **Target Risk Premium (TRP):** A risk parameter set by MIP12 subproposals regulates the Actual Risk Premium's adjustment.
+
 ---
