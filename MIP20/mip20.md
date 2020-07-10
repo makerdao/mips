@@ -50,7 +50,7 @@ _WIP_
 ### Definitions
 
 - **Target Price**: the system accounting price of 1 dai in USD. This is currently represented as `spot.par()`, and is set to $1.00.
-- **Target Rate**: the annualised compounding rate of change of the Target Price.
+- **Target Rate**: the annualised compounding rate of change of the Target Price (short for Target Price Adjustment Rate).
 - **Target Price Adjustment Module**: the smart contract which periodically adjusts the Target Price by the Target Rate.
 - **Target Price Cap**: the maximum Target Price that the Target Price Adjustment Module is able to set.
 
