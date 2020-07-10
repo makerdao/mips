@@ -93,7 +93,7 @@ The proposed solution is simple and non-invasive, interacting with only one othe
 
 ### Other considerations
 
-_WIP_
+Upon adoption of this MIP, the Target Rate parameter can be adjusted by governance as an additional monetary policy lever, similar to the current notion of "Base Rate". Monetary policy processes may have to be amended in order to leverage this facility, and this MIP may be expanded in order to specify them.
 
 ### Formal verification/audit information
 
