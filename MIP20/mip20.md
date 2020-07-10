@@ -26,9 +26,9 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ## Paragraph summary
 
-_WIP_
+In an environment where the supply of DAI is too low to meet demand, monetary policy might find itself at the "zero lower bound" where stimulus can no longer be effected through lowering interest rates. In this case, it may necessary to purseu a policy of negative interest rates, in which the direction of the cashflow is reversed, with savers possibly paying borrowers. In the system as it exists today, the combination of the CDP Stability Fee and Dai Savings Rate serves as a cash flow from borrowers (CDP users) to savers (DAI holders), or in other words, an interest rate. However, that interest rate is effectively constrained to be positive: though it is technically possible to accrue a negative interest rate to CDPs, depositing DAI into the Savings Contract is optional so savers would be able to avoid negative rates simply by not using it, leaving a deficit on MakerDAO's balance sheet.
 
-- A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
+A crucial requirement in the implementation of this policy is for all DAI holders to be exposed to the negative rate. For technical reasons, it is not feasible to continuously manipulate on-chain user token balances, since this behaviour would undermine the implicit assumptions of well-behaved token semantics and could break integrations into other smart contract systems. A more compliant way of implementing negative interest rates is to manipulate the target price of DAI itself: this MIP implements such a system.
 
 ## Component summary
 
