@@ -82,12 +82,10 @@ function prod() external {
 
 see [vox.t.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.t.sol)
 
-```
-test_prod_noop
-test_prod_basic
-test_prod_cap
-test_mainnet_target_adjustment
-```
+- `test_prod_noop`
+- `test_prod_basic`
+- `test_prod_cap`
+- `test_mainnet_target_adjustment`
 
 ### Security considerations
 
