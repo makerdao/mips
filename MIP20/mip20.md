@@ -26,9 +26,7 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ## Paragraph summary
 
-In an environment where the supply of DAI is too low to meet demand, monetary policy might find itself at the "zero lower bound" where stimulus can no longer be effected through lowering interest rates. In this case, it may necessary to purseu a policy of negative interest rates, in which the direction of the cashflow is reversed, with savers possibly paying borrowers. In the system as it exists today, the combination of the CDP Stability Fee and Dai Savings Rate serves as a cash flow from borrowers (CDP users) to savers (DAI holders), or in other words, an interest rate. However, that interest rate is effectively constrained to be positive: though it is technically possible to accrue a negative interest rate to CDPs, depositing DAI into the Savings Contract is optional so savers would be able to avoid negative rates simply by not using it, leaving a deficit on MakerDAO's balance sheet.
-
-A crucial requirement in the implementation of this policy is for all DAI holders to be exposed to the negative rate. For technical reasons, it is not feasible to continuously manipulate on-chain user token balances, since this behaviour would undermine the implicit assumptions of well-behaved token semantics and could break integrations into other smart contract systems. A more compliant way of implementing negative interest rates is to manipulate the target price of DAI itself: this MIP implements such a system.
+_WIP_
 
 ## Component summary
 
@@ -38,12 +36,14 @@ A crucial requirement in the implementation of this policy is for all DAI holder
 #### MIP20c4: Test cases
 #### MIP20c5: Security considerations
 #### MIP20c6: Other considerations
-#### MIP20c6: Auditor information and report
+#### MIP20c6: Formal verification/audit information
 #### MIP20c7: Licensing
 
 ## Motivation
 
-- A short description of the motivation behind the proposed technical solution.
+In an environment where the supply of DAI is too low to meet demand, monetary policy might find itself at the "zero lower bound" where stimulus can no longer be effected through lowering interest rates. In this case, it may necessary to purseu a policy of negative interest rates, in which the direction of the cashflow is reversed, with savers possibly paying borrowers. In the system as it exists today, the combination of the CDP Stability Fee and Dai Savings Rate serves as a cash flow from borrowers (CDP users) to savers (DAI holders), or in other words, an interest rate. However, that interest rate is effectively constrained to be positive: though it is technically possible to accrue a negative interest rate to CDPs, depositing DAI into the Savings Contract is optional so savers would be able to avoid negative rates simply by not using it, leaving a deficit on MakerDAO's balance sheet.
+
+A crucial requirement in the implementation of this policy is for all DAI holders to be exposed to the negative rate. For technical reasons, it is not feasible to continuously manipulate on-chain user token balances, since this behaviour would undermine the implicit assumptions of well-behaved token semantics and could break integrations into other smart contract systems. A more compliant way of implementing negative interest rates is to manipulate the target price of DAI itself: this MIP implements such a system.
 
 ## Specification
 
@@ -91,15 +91,15 @@ test_mainnet_target_adjustment
 
 ### Security considerations
 
-_WIP_
+The proposed solution is simple and non-invasive, interacting with only one other component of the system (the `Spotter`) through an existing method for adjusting the `par` price. Even though the core system was designed with the possibility of a changing `par` in mind, peripheral components and integrations should be carefully inspected for reliance on a fixed `par`.
 
 ### Other considerations
 
 _WIP_
 
-### Auditor information and report
+### Formal verification/audit information
 
-_WIP_
+The proposed contract is written in a way which is amenable to formal specification and verification, in accordance with the style and practices of the core multi-collateral dai contracts. No formal audit or code review has taken place yet.
 
 ### Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
