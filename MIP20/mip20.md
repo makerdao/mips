@@ -26,7 +26,7 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ## Paragraph summary
 
-_WIP_
+The Dai Stablecoin System is intended to reliably maintain DAI's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates.
 
 ## Component summary
 
