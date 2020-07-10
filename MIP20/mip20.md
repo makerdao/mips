@@ -4,7 +4,7 @@
 ```
 MIP#: <# to be assigned>
 Title: Target Price Adjustment Module (`Vox`)
-Author(s): Lev Livnev (@equivrel)
+Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
 Type: Technical
 Status: <Assigned by MIP Editor>
