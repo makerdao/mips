@@ -66,15 +66,15 @@ _WIP_
 
 ```
 function prod() external {
-  if (way == ONE) return;        // optimised
-  uint256 age = sub(now, tau);
-  if (age == 0) return;          // optimised
-  tau = now;
+    uint256 age = sub(now, tau);
+    tau = now;
 
-  // no adjustment after cage
-  if (spot.live() == 0) return;
-  uint256 par = max(cap, rmul(rpow(way, age, ONE), spot.par()));
-  spot.file("par", par);
+    if (age == 0) return;          // optimised
+    if (way == ONE) return;        // optimised
+    if (spot.live() == 0) return;  // no adjustment after cage
+
+    uint256 par = min(cap, rmul(rpow(way, age, ONE), spot.par()));
+    spot.file("par", par);
 }
 ```
 
