@@ -1,4 +1,4 @@
-# MIP10c14: Subproposal to Appoint Light Feed
+# MIP10c14: Subproposal to Appoint MyCrypto as a Light Feed for the Maker Oracles
 
 ## Preamble
 ```
