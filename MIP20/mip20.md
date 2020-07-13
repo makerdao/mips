@@ -19,6 +19,7 @@ License: AGPL3+
 - The proposed [dss-vox](https://github.com/livnev/dss-vox) implementation
 - [target price adjustment in purple paper](https://makerdao.com/purple/#sec-4-3)
 - [target price adjustment in sai](https://github.com/makerdao/sai/blob/master/src/vox.sol#L63)
+- [The Target Rate Feedback Mechanism: An Introduction](https://forum.makerdao.com/t/the-target-rate-feedback-mechanism-an-introduction/2319)
 
 ## Sentence summary
 
@@ -94,6 +95,8 @@ The proposed solution is simple and non-invasive, interacting with only one othe
 ### MIP20c6: Other considerations
 
 Upon adoption of this MIP, the Target Rate parameter can be adjusted by governance as an additional monetary policy lever, similar to the current notion of "Base Rate". Monetary policy processes may have to be amended in order to leverage this facility, and this MIP may be expanded in order to specify them.
+
+This MIP can be compared with the folkloric Target Rate Feedback Mechanism (TRFM), an unused implementation of which was present in single-collateral dai. The TRFM relies on the same notion of adjusting the target price of DAI as a monetary policy tool. The crucial difference between the TRFM and the mechananism proposed in this MIP is that while the TRFM algorithm sets the Target Rate automatically and continuously depending on a DAI price oracle, this MIP does not propose for the Target Rate to be set algorithmically.
 
 ### MIP20c7: Formal verification/audit information
 
