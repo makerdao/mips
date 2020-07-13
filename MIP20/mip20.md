@@ -36,8 +36,8 @@ The Dai Stablecoin System is intended to reliably maintain DAI's exchange rate w
 #### MIP20c4: Test cases
 #### MIP20c5: Security considerations
 #### MIP20c6: Other considerations
-#### MIP20c6: Formal verification/audit information
-#### MIP20c7: Licensing
+#### MIP20c7: Formal verification/audit information
+#### MIP20c8: Licensing
 
 ## Motivation
 
@@ -47,21 +47,21 @@ A crucial requirement in the implementation of this policy is for all DAI holder
 
 ## Specification
 
-### Definitions
+### MIP20c1: Definitions
 
 - **Target Price**: the system accounting price of 1 dai in USD. This is currently represented as `spot.par()`, and is set to $1.00.
 - **Target Rate**: the annualised compounding rate of change of the Target Price (short for Target Price Adjustment Rate).
 - **Target Price Adjustment Module**: the smart contract which periodically adjusts the Target Price by the Target Rate.
 - **Target Price Cap**: the maximum Target Price that the Target Price Adjustment Module is able to set.
 
-### Desired properties
+### MIP20c2: Desired properties
 
 - At every call to `vox.prod()`, `spot.par()` should change by the target rate accrued over the period of time since the last call to `vox.prod()`.
 - The Target Rate should be initialised at 0% per year, which results in no change to the Target Price.
 - The Target Price should not be adjusted after Emergency Shutdown, regardless of the value of the Target Rate prior to Emergency Shutdown.
 - The Target Price should not be adjusted above the Target Price Cap. When the Target Price Cap is reached, the Target Price should be set to exactly the Target Price Cap and further upward adjustments should have no effect.
 
-### Proposed code
+### MIP20c3: Proposed code
    see [vox.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.sol). The core price adjustment functionality is simple:
 
 ```
@@ -78,7 +78,7 @@ function prod() external {
 }
 ```
 
-### Test cases
+### MIP20c4: Test cases
 
 see [vox.t.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.t.sol)
 
@@ -87,17 +87,17 @@ see [vox.t.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.t.sol)
 - `test_prod_cap`
 - `test_mainnet_target_adjustment`
 
-### Security considerations
+### MIP20c5: Security considerations
 
 The proposed solution is simple and non-invasive, interacting with only one other component of the system (the `Spotter`) through an existing method for adjusting the `par` price. Even though the core system was designed with the possibility of a changing `par` in mind, peripheral components and integrations should be carefully inspected for reliance on a fixed `par`.
 
-### Other considerations
+### MIP20c6: Other considerations
 
 Upon adoption of this MIP, the Target Rate parameter can be adjusted by governance as an additional monetary policy lever, similar to the current notion of "Base Rate". Monetary policy processes may have to be amended in order to leverage this facility, and this MIP may be expanded in order to specify them.
 
-### Formal verification/audit information
+### MIP20c7: Formal verification/audit information
 
 The proposed contract is written in a way which is amenable to formal specification and verification, in accordance with the style and practices of the core multi-collateral dai contracts. No formal audit or code review has taken place yet.
 
-### Licensing
+### MIP20c8: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
