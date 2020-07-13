@@ -23,11 +23,11 @@ License: AGPL3+
 
 ## Sentence summary
 
-This proposal provides a smart contract implementation of `Vox`, a module which adjusts the target price of Dai according to a governance defined rate, allowing the institution of negative effective interest rates.
+This proposal provides a smart contract implementation of `Vox`, a module which adjusts the target price of DAI according to a governance defined rate, allowing the institution of negative effective interest rates.
 
 ## Paragraph summary
 
-The Dai Stablecoin System is intended to reliably maintain DAI's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates.
+The Dai Stablecoin System is intended to reliably maintain dai's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates. In contrast to the Target Rate Feedback Mechanism (TRFM), the mechanism in this proposal does not adjust rates algorithmically using a DAI price oracle. Instead, the target rate is set directly by governance, similary to how the Stability Fees and Dai Savings Rate are set today. 
 
 ## Component summary
 
@@ -50,7 +50,7 @@ A crucial requirement in the implementation of this policy is for all DAI holder
 
 ### MIP20c1: Definitions
 
-- **Target Price**: the system accounting price of 1 dai in USD. This is currently represented as `spot.par()`, and is set to $1.00.
+- **Target Price**: the system accounting price of 1 DAI in USD. This is currently represented as `spot.par()`, and is set to $1.00.
 - **Target Rate**: the annualised compounding rate of change of the Target Price (short for Target Price Adjustment Rate).
 - **Target Price Adjustment Module**: the smart contract which periodically adjusts the Target Price by the Target Rate.
 - **Target Price Cap**: the maximum Target Price that the Target Price Adjustment Module is able to set.
