@@ -96,7 +96,7 @@ see [vox.t.sol](https://github.com/livnev/dss-vox/blob/master/src/vox.t.sol)
 - `test_prod_noop`
 - `test_prod_basic`
 - `test_prod_cap`
-- `test_mainnet_target_adjustment`
+- `test_mainnet_target_adjustment` (this one is an integration test using the mainnet deployment of `dss`)
 
 ### MIP20c5: Security considerations
 
