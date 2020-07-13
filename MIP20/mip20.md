@@ -60,7 +60,7 @@ Adjusting the target price of DAI up or down causes an implicit value transfer f
 
 ### MIP20c1: Definitions
 
-- **Target Price**: the system accounting price of 1 DAI in USD. This is currently represented as `spot.par()`, and is set to $1.00.
+- **Target Price**: the system accounting price of 1 DAI in USD. This is currently represented as `spot.par()`, and is set to $1.00. Multi-collateral dai uses the Target Price in two places: when measuring the collateral ratio of a CDP, and when calculating the redemption value of DAI after Emergency Shutdown. The governance community may also use the Target Price as the price target for DAI/USD when setting interest rates and other risk parameters.
 - **Target Rate**: the annualised compounding rate of change of the Target Price (short for Target Price Adjustment Rate).
 - **Target Price Adjustment Module**: the smart contract which periodically adjusts the Target Price by the Target Rate.
 - **Target Price Cap**: the maximum Target Price that the Target Price Adjustment Module is able to set.
