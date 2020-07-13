@@ -1,8 +1,8 @@
-# Target Price Adjustment Module (`Vox`)
+# MIP20: Target Price Adjustment Module (`Vox`)
 
 ## Preamble
 ```
-MIP#: <# to be assigned>
+MIP#: 20
 Title: Target Price Adjustment Module (`Vox`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
