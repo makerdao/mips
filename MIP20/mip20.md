@@ -97,7 +97,7 @@ Upon adoption of this MIP, the Target Rate parameter can be adjusted by governan
 
 ### MIP20c7: Formal verification/audit information
 
-The proposed contract is written in a way which is amenable to formal specification and verification, in accordance with the style and practices of the core multi-collateral dai contracts. No formal audit or code review has taken place yet.
+The proposed contract is written in a way which is amenable to formal specification and verification, in accordance with the style and practices of the core multi-collateral DAI contracts, though it has not been formally specified. No audit or code review has taken place yet.
 
 ### MIP20c8: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
