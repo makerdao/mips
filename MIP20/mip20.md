@@ -31,7 +31,7 @@ The Dai Stablecoin System is intended to reliably maintain dai's exchange rate w
 
 ## Component summary
 
-**MIP20c1: Definitions:** defines **Target Price**, **Target Rate**, **Target Price Adjustment Module**, and **Target Price Cap**.
+**MIP20c1: Definitions:** defines Target Price, Target Rate, Target Price Adjustment Module, and Target Price Cap.
 
 **MIP20c2: Desired properties:** lists important properties that the `Vox` implementation must satisfy.
 
