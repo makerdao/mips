@@ -54,6 +54,8 @@ In an environment where the supply of DAI is too low to meet demand, monetary po
 
 A crucial requirement in the implementation of this policy is for all DAI holders to be exposed to the negative rate. For technical reasons, it is not feasible to continuously manipulate on-chain user token balances, since this behaviour would undermine the implicit assumptions of well-behaved token semantics and could break integrations into other smart contract systems. A more compliant way of implementing negative interest rates is to manipulate the target price of DAI itself: this MIP implements such a system.
 
+Adjusting the target price of DAI up or down causes an implicit value transfer from DAI borrowers to DAI holders, or from DAI holders to DAI borrowers, respectively, meaning that Target Price adjustment at a fixed rate of change acts like an effective interest rate, with a negative Target Rate corresponding to a negative effective interest rate.
+
 ## Specification
 
 ### MIP20c1: Definitions
