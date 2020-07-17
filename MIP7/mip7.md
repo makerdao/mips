@@ -85,6 +85,10 @@ Team Name: The name of the onboarded domain team.
 	- **Date Added:** 2020-05-02 [Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals)
 
 **3. Risk Domain Teams:**
+- **Team Name:** Red Team
+	- **Sub-proposal Number (MIP7c3-SP):** 2
+	- **Domain:** Risk 
+	- **Date Added:** 2020-06-25 [Ratification Vote](https://mkrgov.science/executive/0x1d51ca29e35b6ce30167f634dd21376da1341d9b)
 
 **4. Legal Domain Teams:**
 
