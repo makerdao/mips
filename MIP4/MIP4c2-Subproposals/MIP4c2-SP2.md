@@ -10,7 +10,7 @@ Author(s): Charles St.Louis (@CPSTL), @LongForWisdom, Rune Christensen (@Rune23)
 Contributors:
 Status: Accepted
 Date of Amendment Submission: 2020-05-27
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2020-06-25
 
 ```
 

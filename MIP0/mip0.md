@@ -289,6 +289,11 @@ Entries into this list should follow the following template:
     - **Core Role:** Governance Facilitator
     - **Date Added:** 2019-09-09 ([Poll: Ratify the Interim Governance Facilitator Mandate](https://vote.makerdao.com/polling-proposal/qmvh4z3l5ymqgtfs6tifq3jpjx5mxgdfnjy6alewnwwvba))
 
+- **Person Name:** LongForWisdom
+    - **Sub-proposal Number (MIP0c12-SP):** 2
+    - **Core Role:** Governance Facilitator
+    - **Date Added:** 2020-05-28 [Ratification Vote: Officially Ratify the MIP0c12-SP2 Subproposal for Onboarding a Second Governance Facilitator](https://mkrgov.science/executive/0x9713187b6d7c8d54ac041efdbac13d52c2120fb9)
+
 2. **MIP Editors:**
 
 -  **Person Name:** Charles St.Louis
