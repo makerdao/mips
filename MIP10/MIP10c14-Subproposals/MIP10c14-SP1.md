@@ -4,9 +4,9 @@
 MIP10c14-SP#: 1
 Author(s): Deniz Omer
 Contributors: Nik Kunkel
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-05-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-07-4
 ```
 
 ## Disclaimer
