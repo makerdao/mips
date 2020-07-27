@@ -4,9 +4,9 @@
 MIP10c14-SP#: 2
 Author(s): Michael Wuehler
 Contributors: Nik Kunkel
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-05-28
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-07-04
 ```
 
 ## Disclaimer
