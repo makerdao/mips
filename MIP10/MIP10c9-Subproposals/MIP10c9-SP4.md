@@ -4,9 +4,9 @@
 MIP10c9-SP#: 4
 Author(s): Zhao Yang, Tianchi Zhu, Jie liu
 Contributors: Nik Kunkel
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-06-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-07-04
 ```
 
 ## Disclaimer
