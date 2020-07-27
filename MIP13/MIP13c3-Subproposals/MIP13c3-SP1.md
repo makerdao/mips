@@ -8,32 +8,25 @@ Contributors: @vitalyr
 Status: Request for Comments (RFC) 
 Date Proposed: <2020-07-08>
 Date Ratified: <yyyy-mm-dd>
+Declaration Statement: MakerDAO intends to keep RP on Vaults as  transparent and stable as possible.
+Declaration to Replace: n/a
 ```
 
 ## Specification
 
 ### Context and Motivation
 
-- Aware, of the efforts within the Maker community by companies to help Vault users hedge their exposure to the base rate via various derivative contracts,
+- Recognizing the necessity of Risk Teams and voters having the ability to react to any risk presented to the system at any time.
 
-- Acknowledging, the importance of the aforementioned services being necessary to the scalability of MakerDAO, due to the historic volatility in the DSR (and SF during SCD),
-
-- Recognizing, the necessity of Risk Teams and voters having the ability to react to any risk presented to the system at any time, and enact measures to protect the system,
-
-- Supporting, the ongoing work of providing full transparency and fairness to its users, 
+- Aware of a reality of a risk averse Vault user base.
 
 The following is declared:
 
 ### Declaration Detail
 
-1. MakerDAO will adjust the Risk Premia of specific collateral types in order to have proper System Surplus, and to avoid System Deficit, in the following list of scenarios:
-a. A change deemed significant by a Risk Team in the nature of the collateral object
-b. Some new piece of information is found previously unknown to a risk team
-c. An event that was unforeseeable (“a black swan” event)
-2. MakerDAO will, whenever possible, seek to minimize/mitigate any causal relationship between the actions of some given “Party A” (some user of Vaults) with some unrelated “Party B” (another Vault user’s) risk parameters. Whereas Party A and Party B have no relationship with one another other than merely both being users of the Maker system.
-3. MakerDAO will not adjust Risk Parameters without due cause and proper consideration of its impacts on Vault users, specifically those sensitive to such changes.
-4. The MakerDAO community, while reserving its right to react at any time to any given risk, will create a working group to identify particular factors that would result in events a,b,c, listed above in Article 1 thereby providing forward guidance to Vault users. In no situation will any list be considered exhaustive.
+1. The MakerDAO community, will enact a working group titled "Vault Holder Advocacy Group" led by this proposal’s Author to identify particular factors that would result in changes to Risk Premia and other risk parameters thereby providing forward guidance to Vault users on the parameters attached to their vault. This group will invite collaboration from MakerDAO’s risk team/s.
 
+2. MakerDAO intends to abide by the general guidelines of the working group after it has submitted the result of its work.
 This declaration is flexible in implementation while aiming to improve fairness for users.
 
 ### Relevant Links
