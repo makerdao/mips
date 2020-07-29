@@ -26,8 +26,9 @@ The following is declared:
 
 1. The MakerDAO community, will enact a working group titled "Vault Holder Advocacy Group" led by this proposal’s Author to identify particular factors that would result in changes to Risk Premia and other risk parameters thereby providing forward guidance to Vault users on the parameters attached to their vault. This group will invite collaboration from MakerDAO’s risk team/s.
 
-2. MakerDAO intends to abide by the general guidelines of the working group after it has submitted the result of its work.
-This declaration is flexible in implementation while aiming to improve fairness for users.
+2. In light of concerns Vault holders have regarding transparency of parameters, MakerDAO intends to seriously consider the general guidelines of the working group after it has submitted its results.
+
+This declaration is flexible in implementation while aiming to improve fairness for users. This declaration in non-binding.
 
 ### Relevant Links
 - https://forum.makerdao.com/t/soft-locks-and-future-guidance-a-pre-mip-discussion/2875
