@@ -34,7 +34,7 @@ Date Ratified: <yyyy-mm-dd>
 - Is it likely given the information provided that there are individuals who could identify this person? What order of magnitude?
 
 ### Light Feeds
-**Reputation*
+**Reputation**
 - Does the organization have a strong reputation in the crypto community?
 - What contributions has this organization made to the crypto ecosystem?
 - Would including the organization as a Light Feed instill a sense of trust in the Oracles?
@@ -50,7 +50,7 @@ Date Ratified: <yyyy-mm-dd>
 - Given the applicant's major investors, is there a risk adding this Light Feed would give a single investor too much influence over the Oracle protocol?
 - Given the incorporation and domicile location of the organization, is there a risk adding this Light Feed would give a single jurisdiction too much influence over the Oracle protocol?
 
-**Identity*
+**Identity**
 - Did the Oracle Team get in contact with the organization to confirm their application?
 
 ### Cost-Benefit

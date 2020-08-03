@@ -6,9 +6,9 @@ MIP#: 11
 Title: Collateral Onboarding General Risk Model Management
 Author(s): Cyrus Younessi (@DonutJr), Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Type: Process
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 Dependencies: MIP0, MIP3, MIP7
 Replaces: n/a
 ```

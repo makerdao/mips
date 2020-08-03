@@ -6,7 +6,7 @@ MIP4c2-SP#: 3
 MIP to be Amended: MIP9
 Author(s): Charles St.Louis (@CPSTL), @LongForWisdom, Rune Christensen (@Rune23) 
 Contributors:
-Status: Formal Submission (FS)
+Status: Accepted
 Date of Amendment Submission: 2020-05-28
 Date of ratification: <yyyy-mm-dd>
 ```
