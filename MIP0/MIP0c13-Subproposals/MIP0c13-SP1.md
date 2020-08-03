@@ -1,4 +1,4 @@
-# MIP0c13: Subproposals Template for Core Personnel Offboarding
+# MIP0c13-SP1: Subproposal for Core Personnel Offboarding
 
 ## Preamble
 ```
