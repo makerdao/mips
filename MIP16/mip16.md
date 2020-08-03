@@ -8,9 +8,9 @@ Title: The Weekly Governance Cycle
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
 Type: Process 
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-07-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-07-28
 Dependencies:
 Replaces: n/a
 ```

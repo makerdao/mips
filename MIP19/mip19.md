@@ -7,9 +7,9 @@ Title: Liquidations System 1.1 Upgrade
 Author(s): Mariano Conti (@nanexcool), Charles St.Louis (@CPSTL) 
 Contributors: Kurt Barry (@kmbarry1)
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-07-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-07-28
 Dependencies: n/a
 Replaces: n/a
 License: AGPL v3.0
