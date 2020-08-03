@@ -5,7 +5,7 @@
 MIP0c13-SP#: 1
 Author(s): LongForWisdom
 Contributors: n/a
-Status: RFC
+Status: Formal Submission (FS)
 Date Proposed: 03/08/20
 Date Removed: <yyyy-mm-dd>
 ---
