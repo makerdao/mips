@@ -44,9 +44,9 @@
 **Contract Address:** 0xe0F30cb149fAADC7247E953746Be9BbBB6B5751f   
 |     Customer   |  Date Joined   |           Email       | Fee (Dai) |             Whitelisted Contract           |           MIP            |        Governance Vote      |
 | :--------------| :------------- | :-------------------- | :-------- | :----------------------------------------- | :----------------------- | :-------------------------- |
-| Maker Protocol |   2020-04-25   |          N/A          |    N/A    | 0xf185d0682d50819263941e5f4EacC763CC5C6C42 | [Vote](https://mkrgov.science/executive/0x872c49c9e90e4ac7f84452ca52161fddc849246e) |
-|  Set Protocol  |   2020-04-25   | alex@setprotocol.com  |    ROMP   | 0xbf63446ecF3341e04c6569b226a57860B188edBc | [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
-|      dYdX      |   2020-04-25   | brendan@dydx.exchange |    ROMP   | 0x538038E526517680735568f9C5342c6E68bbDA12 | [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
+| Maker Protocol |   2020-04-25   |          N/A          |    N/A    | 0xf185d0682d50819263941e5f4EacC763CC5C6C42 | N/A | [Vote](https://mkrgov.science/executive/0x872c49c9e90e4ac7f84452ca52161fddc849246e) |
+|  Set Protocol  |   2020-04-25   | alex@setprotocol.com  |    ROMP   | 0xbf63446ecF3341e04c6569b226a57860B188edBc | [pre-MIP](https://forum.makerdao.com/t/proposal-btcusd-oracle-set-protocol-dydx/2011)| [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
+|      dYdX      |   2020-04-25   | brendan@dydx.exchange |    ROMP   | 0x538038E526517680735568f9C5342c6E68bbDA12 | [pre-MIP](https://forum.makerdao.com/t/proposal-btcusd-oracle-set-protocol-dydx/2011) | [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
 
 **Oracle Name:** BTC/USD    
 **Oracle Classification:** Oracle Security Module    
@@ -61,7 +61,7 @@
 **Contract Address:** 0x81A679f98b63B3dDf2F17CB5619f4d6775b3c5ED   
 |     Customer   |  Date Joined   |   Email   | Fee (Dai) |             Whitelisted Contract           |          MIP            |        Governance Vote      |
 | :--------------| :------------- | :-------- | :-------- | :----------------------------------------- | :---------------------- | :-------------------------- |
-|      tBTC      |   2020-04-25   |    N/A    |   ROMP    |                      TBD                   |          N/A            | [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
+|      tBTC      |   2020-04-25   |    N/A    |   ROMP    |                      TBD                   | [pre-MIP](https://forum.makerdao.com/t/proposal-ethbtc-oracle-tbtc/2010) | [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
 
 **Oracle Name:** ETH/USD  
 **Oracle Classification:** Medianizer   
@@ -69,7 +69,7 @@
 |     Customer   |  Date Joined   |            Email      | Fee (Dai) |             Whitelisted Contract           |           MIP            |        Governance Vote      |
 | :--------------| :------------- | :-------------------- | :-------- | :----------------------------------------- | :----------------------- | :-------------------------- |
 | Maker Protocol |   2019-11-18   |           N/A         |    N/A    | 0x81FE72B5A8d1A857d176C3E7d5Bd2679A9B85763 |          N/A             | [Vote](https://mkrgov.science/executive/0xf44113760c4f70afeeb412c63bc713b13e6e202e) |
-|  Set Protocol  |   2020-04-25   | alex@setprotocol.com  |   ROMP    | 0x97C3e595e8f80169266B5534e4d7A1bB58BB45ab |          N/A             | [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
+|  Set Protocol  |   2020-04-25   | alex@setprotocol.com  |   ROMP    | 0x97C3e595e8f80169266B5534e4d7A1bB58BB45ab | [pre-MIP](https://forum.makerdao.com/t/proposal-whitelist-set-protocol-on-ethusd-oracle/2013) | [Vote](https://mkrgov.science/executive/0x3526a5858aa91c058a7084ae8ab6d323d2baebb8) |
 |     MCDEX      |   2020-07-03   |    contact@mcdex.io   |   ROMP    | 0x12Ee7E3369272CeE4e9843F36331561DBF9Ae6b4 | [MIP10c9-SP4](https://github.com/makerdao/mips/blob/master/MIP10/MIP10c9-Subproposals/MIP10c9-SP4.md) | [Vote](https://mkrgov.science/executive/0x057d35a858d6350d10f714785baf5c07703dbd4c)  |
 |      dYdX      |   2020-08-02   | brendan@dydx.exchange |   ROMP    | 0x538038E526517680735568f9C5342c6E68bbDA12 | [MIP10c9-SP5](https://github.com/makerdao/mips/blob/master/MIP10/MIP10c9-Subproposals/MIP10c9-SP5.md) | [Vote](https://mkrgov.science/executive/0xf132619f3aa8fc35b256c089097e91a0c2b3902a)  |
 
