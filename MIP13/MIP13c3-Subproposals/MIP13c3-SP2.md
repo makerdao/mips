@@ -5,7 +5,7 @@
 MIP13c3-SP#: 2
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: n/a
-Status: 
+Status: Request for Comments (RFC)
 Date Proposed: 2020-08-11
 Date Ratified: <yyyy-mm-dd>
 ---
