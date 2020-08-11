@@ -28,9 +28,9 @@ A flash mint module will provide the following benefits:
 
 ### Declaration Detail
 
-MakerDAO Governance requests a Dai Flash Mint module be built and integrated with the Maker system. This module should include an optional fee parameter which MakerDAO Governance can adjust after deployment via executive vote.
+MakerDAO Governance requests a Dai Flash Mint module be built and integrated with the Maker system. This module should include both an optional fee parameter as well as an optional debt ceiling which MakerDAO Governance can adjust after deployment via executive vote.
 
-This implementation is flexible beyond the core criteria of adding a Flash Mint Module with a fee.
+This implementation is flexible beyond the core criteria of adding a Flash Mint Module with an optional fee and debt ceiling.
 
 ### Relevant Links
     
