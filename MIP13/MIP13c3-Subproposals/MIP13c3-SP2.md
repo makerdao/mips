@@ -20,7 +20,6 @@ Flash mints allow anyone to mint as much Dai as they need with the one condition
 
 A flash mint module will provide the following benefits:
 
- * Auctions V2 can be settled via flash mint which provides an added layer of emergency liquidity.
  * Improves market efficiencies for Dai.
  * Democratization of arbitrage - anyone can participate.
  * Exploits requiring a large amount of capital will be found quicker which makes the DeFi space safer overall.
