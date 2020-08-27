@@ -4,8 +4,8 @@
 ```
 MIP#: 14
 Title: Protocol DAI Transfer
-Author(s): @LongForWisdom
-Contributors: @jtathmann
+Author(s): @LongForWisdom @jtathmann
+Contributors: 
 Type: Process
 Status: Formal Submission (FS)
 Date Proposed: 2020-05-12
