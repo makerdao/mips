@@ -23,6 +23,10 @@ Amount:
 
 - More details regarding the reason for the Protocol DAI Transfer.
 
+### Surplus Analysis
+
+- An analysis of whether the proposed transfer can be taken from the current surplus or if it would result in a FLOP auction.
+
 ### Targets
 
 - Clearly listed target addresses with matching amounts in the format:
@@ -30,7 +34,7 @@ Amount:
 Recipient Address: 0x0000000000000000000000000000000000000000
 Amount To Transfer: 0 DAI
 ```
-- Combined amount of DAI should not be higher than the Amount specified in the Preamble.
+- Combined amount of DAI should not be higher than the Amount specified in the Preamble nor exceed the DAI Transfer Ceiling.
 
 ### Relevant Information:
 
