@@ -4,8 +4,8 @@
 ```
 MIP#: 14
 Title: Protocol DAI Transfer
-Author(s): @LongForWisdom
-Contributors: @jtathmann
+Author(s): @LongForWisdom @jtathmann
+Contributors: 
 Type: Process
 Status: Formal Submission (FS)
 Date Proposed: 2020-05-12
@@ -37,7 +37,7 @@ A process component that allows Maker Governance to transfer DAI from the Maker 
 A list component that lists the previous direct DAI transfers that have been made by the protocol in the past.
 
 **MIP14c4: Protocol DAI Transfer Ceiling**
-The maximum amount of DAI that can be transferred from the protocol in total
+The maximum amount of DAI that can be transferred from the protocol in total.
 
 
 ## Motivation
