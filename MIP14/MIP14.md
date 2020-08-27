@@ -37,7 +37,7 @@ A process component that allows Maker Governance to transfer DAI from the Maker 
 A list component that lists the previous direct DAI transfers that have been made by the protocol in the past.
 
 **MIP14c4: Protocol DAI Transfer Ceiling**
-The maximum amount of DAI that can be transferred from the protocol in total.
+The maximum amount of DAI that can be transferred from the protocol in total using this process
 
 
 ## Motivation
@@ -110,6 +110,6 @@ Recipient Address: 0x0000000000000000000000000000000000000000
 ---
 
 **MIP14c4: Protocol DAI Transfer Ceiling** 
-MIP14c4 sets the maximum amount of DAI that can be transferred in total from the protocol.  MIP14c2-subproposals will not be eligible if they cause the historic amount of DAI transferred from the protocol to exceed the ceiling, which will be initially set to 250,000 DAI and can be modified by MIP14c4 subproposal **[MIP14c4-Subproposal-Template.md](MIP14c4-Subproposal-Template.md)**
+MIP14c4 sets the maximum amount of DAI that can be transferred in total from the protocol using this process.  MIP14c2-subproposals will not be eligible if they cause the historic amount of DAI transferred from the protocol to exceed the ceiling, which will be initially set to 250,000 DAI and can be modified by MIP14c4 subproposal **[MIP14c4-Subproposal-Template.md](MIP14c4-Subproposal-Template.md)**
 
 ---
