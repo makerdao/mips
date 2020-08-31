@@ -81,6 +81,8 @@ It is recommended that Maker Governance aim to recruit and maintain three domain
 
 The Domain Facilitator role within any domain is an elected role. Personnel must be ratified via a subproposal to be defined in each individual domain definition MIP (see MIPXc4.) A list of Domain Facilitators will be maintained within the domain definition MIP for that domain by the Domain Facilitators.
 
+Each domain facilitator must provide a hardware-wallet secured ethereum public address to which they uniquely hold the private key. This address must be listed in the domain facilitator list for this domain (see MIPXc4). This address may be delegated powers or authority by Maker Governance at a future date.
+
 ---
 ### MIPXc3: Domain Contributors
 
