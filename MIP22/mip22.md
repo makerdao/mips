@@ -5,7 +5,7 @@
 MIP#: 22
 Title: Centrifuge Direct Liquidation Module
 Author(s): Lucas Vogelsang (@spin on forum.makerdoa.com, lucas@centrifuge.io)
-Contributor(s): Lea Schmidt (lea@centrifug.io), Lev Livnev
+Contributor(s): Lea Schmitt (lea@centrifug.io), Lev Livnev (@equivrel on forum.makerdao.com)
 Type: Technical
 Status: Conception
 Date Proposed: 2020-09-02
