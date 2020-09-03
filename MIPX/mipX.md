@@ -23,7 +23,7 @@ MIPX provides a flexible and consistent structural framework for personnel worki
 
 ## Paragraph Summary
 
-IPX provides a flexible and consistent structural framework for personnel working for MakerDAO within any domain. It defines two classes of roles, Domain Facilitators and Domain Contributors, and describes how they relate to one another. It also lays out guidelines for expansion into new domains, and how this should be defined under the MIPs framework.
+MIPX provides a flexible and consistent structural framework for personnel working for MakerDAO within any domain. It defines two classes of roles, Domain Facilitators and Domain Contributors, and describes how they relate to one another. It also lays out guidelines for expansion into new domains, and how this should be defined under the MIPs framework.
 
 ## Component Summary
 
@@ -56,13 +56,13 @@ It is hoped that the addition of an explicit entry-level role will increase inte
 
 ### MIPXc1: Domain Structure
 
-Specific role definitions of individual domains are not covered by this MIP, instead it seeks to lay out a generic and flexible structure that can be used by all domains within MakerDAO.
+Specific role definitions of individual domains are not covered by this MIP, instead it seeks to lay out a generic, flexible and lightweight structure that can be used by all domains within MakerDAO.
 
-Each domain should be structured into a two-level hierarchy with two roles. 
+Each domain is encouraged to build their own working structure under this umbrella to meet the requirements of their domain if they feel this is necessary. The key importance is to separate those with responsbility to the protocol, and those doing work for the protocol into two separate roles.
 
-The first level of the hierarchy is known as the Domain Facilitators. This position maps most closely to the previous Domain Team member role. This position takes responsibility for the domain as it relates to MakerDAO and takes more of a managerial role. 
+The first role is known as the Domain Facilitators. This position maps most closely to the previous Domain Team role. This position takes responsibility for the domain as it relates to MakerDAO and takes more of an organizational role. Persons in this role must be ratified by Maker Governance.
 
-The second level of this hierarchy is known as the Domain Contributors. This position is a working role that fulfils tasks as defined by the Domain Facilitators. Domain Contributors are not required to be ratified by governance.
+The second role is known as the Domain Contributors. This position is a working role that fulfils tasks as defined by the Domain Facilitators. Domain Contributors are not required to be ratified by governance.
 
 ---
 
