@@ -4,8 +4,8 @@
 ```
 MIP#: 22
 Title: Centrifuge Direct Liquidation Module
-Author(s): Lucas Vogelsang (@spin on forum.makerdoa.com, lucas@centrifuge.io)
-Contributor(s): Lea Schmitt (lea@centrifug.io), Lev Livnev (@equivrel on forum.makerdao.com)
+Author(s): Lucas Vogelsang (@spin on forum.makerdao.com, lucas@centrifuge.io)
+Contributor(s): Lea Schmitt (lea@centrifuge.io), Lev Livnev (@equivrel on forum.makerdao.com)
 Type: Technical
 Status: Conception
 Date Proposed: 2020-09-02
@@ -20,30 +20,36 @@ Licenses: AGPL
 
 - Introductory post discussing the economics and legal benefits of this liquidation: [Vault Liquidation Mechanism for Centrifuge Trade Finance Assets - A Pre MIP Discussion](https://forum.makerdao.com/t/vault-liquidation-mechanism-for-centrifuge-trade-finance-assets-a-pre-mip-discussion/3737)
 - Relevant MIP6 Proposals for which this liquidation could be used: [Paperchain](https://forum.makerdao.com/t/pc-drop-mip6-application-paperchain-drop-tokenized-music-streaming-invoices/2215), [ConsolFreight](https://forum.makerdao.com/t/cf-drop-mip6-application-consolfreight-drop-tokenized-freight-shipping-invoices/2214), [Harbor Trade Credit](https://forum.makerdao.com/t/htc-drop-mip6-application-harbor-trade-credit-drop-short-term-trade-receivables/3502)
-
+- Example code: `tinlake_flip.sol` and `drop_join.sol` in this repository
 
 ## Sentence Summary
 
-This proposal provides a vault liquidation mechanism for short-term loan collateral that entails letting a portfolio of said short term assets mature and using loan repayments to settle the Vault balance.
+This proposal provides a vault liquidation mechanism for Tinlake based short-term loan collateral that entails letting a portfolio of said short term assets mature or refinance them off-chain and using loan repayments to settle the Vault balance.
 
 ## Paragraph Summary
 
-For Vaults of pooled short term loans, auctioning off a portfolio of short term loans is not necessarily the most effective way for Maker to liquidate a vault. When these assets are very illiquid the discount a keeper would want outweights the benefit of just waiting for maturity of the underlying loans. Centrifuge has built the Tinlake contracts to manage the liquidations of loan portfolios on chain. This mechanism allows the Maker smart contracts to get direct access to these repayments without the need for any external keepers.
+For Vaults of Centrifuge pooled short term loans, auctioning off a portfolio of short term loans is not necessarily the most effective way for Maker to liquidate a vault. When these assets are very illiquid the discount a keeper would want outweights the benefit of just waiting for maturity of the underlying loans. Centrifuge has built the Tinlake contracts to manage the liquidations of loan portfolios on chain. This mechanism allows the Maker smart contracts to get direct access to these repayments without the need for any external keepers.
 
 ## Component Summary
 
 **MIP22c1: Collateral Prerequisites**
-Describes for which collateral types this adapter can be used.
+Describes the requirements for the collateral type to make use of the proposed liquidation module.
+
 **MIP22c2: Liquidation Mechanism**
 Describes the mechanism by which Vaults are liquidated when the described adapter is used.
+
 **MIP22c3: Definitions**
-Definition of the different components.
+Adapter Component Definitions
+
 **MIP22c4: Proposed Code**
 An explanation of the logic along with code
+
 **MIP22c5: Usage of Code & Test Cases**
 Still outstanding
+
 **MIP22c6: Security Considerations**
 Still outstanding
+
 **MIP22c7: License**
 The code is licensed under APGL.
 
@@ -51,9 +57,9 @@ The code is licensed under APGL.
 
 As we have stated in previous threads and discussions we believe that adding real world assets (RWA) to MCD is the path forward to scale Dai supply and balance the collateral risk portfolio through uncorrelated assets.
 
-For RWA to be addet to the system, the key problem for Maker has been the absence of a reliable process to liquidate a Maker vault that is backed by these assets.
+A key issue preventing the addition of RWA to the Maker Protocol has been the absence of a reliable process to liquidate a Maker vault that is backed by these assets.
 
-When a legal entity invests in a Tinlake pool that is backed by RWA they enter a legal contract with the issuer and therefore get a claim on the assets in the SPV.
+When a legal entity invests in a Tinlake pool that is backed by RWA they enter a legal contract with the issuer and therefore get a legal claim on the underlying collateral (the real world asset).
 
 When Maker liquidates a Vault backed by these tokens it must have a way to get the DAI repaid that was generated in the Vault without having to enter a legal contract with the issuer.
 
@@ -64,7 +70,7 @@ The solution proposed in this MIP requires that the pool of loans that is tokeni
 
 **or**
 
-2. The loans can be sold off by the asset originator off chain and there is a process in place for the liquidation of the pool in case any DROP token holder (such as Maker)
+2. The loans can be sold off (refinanced) by the issuer off chain and there is a process in place for the liquidation of the pool in case any DROP token holder (such as Maker)
 
 Whether the proposed liquidation component should be used for a given collateral type should be part of the Risk Assessment and discussed on an asset by asset basis. If that is desired, the below code should be configured to be used when adding a new collateral with the MIP12 executive vote.
 
@@ -75,7 +81,7 @@ Whether the proposed liquidation component should be used for a given collateral
 
 Assets that should be able to use this collateral have a few requirements:
 * This only works for collateral that is using Centrifuge's Tinlake smart contracts to tokenize their off-chain loans.
-* There must be sufficient investors besides the use of the tokens
+* There must be sufficient investors besides MakerDAO that ensure the correct operation of the legal recoure.
 * The Risk Domain Teams deem this liquidation mechanism for the collateral type sufficient.
 
 ---
@@ -90,14 +96,14 @@ When the liquidation of a Vault is kicked, the proposed liquidation adapter forc
 
 ### MIP22c3: Definitions
 * **Tinlake Flipper:** the contract that can liquidate a Vault by going to the Tinlake Pool contracts to redeem DROP for DAI and then transfer the raised DAI to the `Vow`
-* **Tinlake GemJoin:** a GemJoin adapter that only allows the pool to add collateral
+* **DROPJoin:** An adaptor based heavily on GemJoin which allows only a selected Tinlake pool contract to add collateral to the Maker Vault.
 * **Tinlake Pool:** a pool of asset backed loans settled in DAI
-* **DROP:** the senior pool share ERC20 token it is redeemable against a share of the DAI repaid by the loans in the Tinlake Pool
+* **DROP:** the senior pool share ERC20 token which is redeemable against a share of the DAI repaid by the loans in the Tinlake Pool
 
 ---
 
 ### MIP22c4: Proposed Code
-The code has been kept to a minimum and any functional changes are shown below. We will publish a repo after collecting some feedback on this proposal (to be ammended). The code in full can be viewed [here](https://gist.github.com/lucasvo/0928dc8118e6f140fe656bb4409c8495).
+The code has been kept to a minimum and any functional changes are shown below. We will publish a Git repository after collecting feedback on this proposal (to be ammended). The code in full can be viewed [here](https://github.com/lucasvo/mips/tree/mip22/MIP22).
 
 For each Tinlake pool there will only be one Vault owned by the pool. The pool will have the logic necessary to manage the Vault. We modify the standard GemJoin adapter to only allow the `join` method to be called by `wards` (i.e. it is an authorized call). This will prevent anyone else from opening a CDP with DROP tokens as they would not be able to add the collateral to the system.
 
