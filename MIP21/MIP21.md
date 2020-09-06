@@ -27,15 +27,15 @@ With the proposed on-boarding of Real World Assets as collateral into the Maker 
 
 ## Component Summary
 
-- **RwaLiquidationOracle:** which acts as a liquidation beacon for an off-chain enforcer.
-- **RwaFlipper:** which acts as a dummy liquidation module in the event of write-offs.
-- **RwaUrn:** which facilitates borrowing of DAI, delivering to a designated account.
-- **RwaDeploySpell** (TODO): which deploys and authorises the components for RWA collateral types
-- **RwaInitSpell** (TODO): which activates a new RWA collateral type
+- `RwaLiquidationOracle`: which acts as a liquidation beacon for an off-chain enforcer.
+- `RwaFlipper`: which acts as a dummy liquidation module in the event of write-offs.
+- `RwaUrn`: which facilitates borrowing of DAI, delivering to a designated account.
+- `RwaDeploySpell` (TODO): which deploys and authorises the components for RWA collateral types
+- `RwaInitSpell` (TODO): which activates a new RWA collateral type
 - (TODO) auxiliary wallet contracts for handling disbursement and repayment of DAI.
-- **RwaLiquidateSpell** (TODO): which allows MakerDAO governance to initiate liquidation proceedings.
-- **RwaRemedySpell** (TODO):  which allows MakerDAO governance to dismiss liquidation proceedings.
-- **RwaWriteoffSpell** (TODO):  which allows MakerDAO governance to write off a loan which was in liquidation.
+- `RwaLiquidateSpell` (TODO): which allows MakerDAO governance to initiate liquidation proceedings.
+- `RwaRemedySpell` (TODO):  which allows MakerDAO governance to dismiss liquidation proceedings.
+- `RwaWriteoffSpell` (TODO):  which allows MakerDAO governance to write off a loan which was in liquidation.
 
 ## Motivation
 See paragraph summary above.
