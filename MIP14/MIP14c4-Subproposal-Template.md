@@ -12,9 +12,13 @@ Date Ratified: <yyyy-mm-dd>
 ```
 ## Specification 
 
+## Current Transfer Ceiling
+
+- Initial transfer ceiling will be set at 250,000 DAI
+
 ## Transfer Ceiling Change
 
-- Maximum amount of DAI that can be transferred from the protocol in total
+- New maximum amount of DAI that can be transferred from the protocol in total
 
 ### Context and Motivation
 
