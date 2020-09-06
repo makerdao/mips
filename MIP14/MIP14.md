@@ -37,7 +37,7 @@ A process component that allows Maker Governance to transfer DAI from the Maker 
 A list component that lists the previous direct DAI transfers that have been made by the protocol in the past.
 
 **MIP14c4: Protocol DAI Transfer Ceiling**
-A process component that allows governance to define and modify the total amount of DAI that can be transferred from the protocol using MIP14.
+The maximum amount of DAI that can be transferred from the protocol in total
 
 
 ## Motivation
@@ -68,15 +68,15 @@ MIP14c2 subproposals have parameters that depend on the total amount of DAI to b
 
 **< 10,000 DAI Transfer**
 - **Feedback Period:** 0 full weeks
-- **Frozen Period:** 0 full weeks
+- **Frozen period:** 0 full weeks
 
 **10,000 - 100,000 DAI Transfer**
 - **Feedback Period:** 4 full weeks
-- **Frozen Period:** 1 full week
+- **Frozen period:** 1 full week
 
 **> 100,000 DAI Transfer**
 - **Feedback Period:** 12 full weeks
-- **Frozen Period:** 4 full weeks
+- **Frozen period:** 4 full weeks
 
 If a MIP14c2 subproposal would result in a FLOP auction, Governance Facilitator(s) will use established communication channels to ensure the community is informed
 
@@ -95,7 +95,6 @@ Sub-proposal Number: #
 Date Ratified: (yyyy-mm-dd)
 Amount Transferred:
 Recipient Address:
-Total DAI Processed Through MIP14 To Date:
 ```
 
 **Historical Transfer List**
@@ -104,19 +103,13 @@ There are currently no historical transfers. Below is an example transfer which 
 Reason: Funding Chocolate for Governance Facilitators
 Sub-proposal Number: MIP14c1-SP0
 Date Ratified: 2020-02-30
-Amount Transferred: 100,000 DAI
+Amount Transferred: 1,000,000 DAI
 Recipient Address: 0x0000000000000000000000000000000000000000
-Total DAI Processed Through MIP14 To Date: 100,000 DAI
 ```
 
 ---
 
 **MIP14c4: Protocol DAI Transfer Ceiling** 
-
 MIP14c4 sets the maximum amount of DAI that can be transferred in total from the protocol.  MIP14c2-subproposals will not be eligible if they cause the historic amount of DAI transferred from the protocol to exceed the ceiling, which will be initially set to 250,000 DAI and can be modified by MIP14c4 subproposal **[MIP14c4-Subproposal-Template.md](MIP14c4-Subproposal-Template.md)**
-
-**Protocol DAI Transfer Ceiling Adjustment
-- **Feedback Period:** 4 full weeks
-- **Frozen Period:** 1 full week
 
 ---

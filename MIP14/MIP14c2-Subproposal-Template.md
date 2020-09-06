@@ -27,10 +27,6 @@ Amount:
 
 - An analysis of whether the proposed transfer can be taken from the current surplus or if it would result in a FLOP auction.
 
-### Transfer Ceiling Analysis
-
-- An analysis of whether the proposed transfer is within the parameters of the DAI Transfer Ceiling.
-
 ### Targets
 
 - Clearly listed target addresses with matching amounts in the format:
