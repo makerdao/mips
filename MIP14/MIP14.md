@@ -4,7 +4,7 @@
 ```
 MIP#: 14
 Title: Protocol DAI Transfer
-Author(s): @LongForWisdom @jtathmann
+Author(s): @LongForWisdom, @jtathmann
 Contributors: 
 Type: Process
 Status: Request for Comments (RFC)
@@ -115,7 +115,7 @@ Total Dai Processed by MIP14 to date: 100,000
 
 MIP14c4 sets the maximum amount of DAI that can be transferred in total from the protocol using this process.  MIP14c2-subproposals will not be eligible if they cause the historic amount of DAI transferred from the protocol to exceed the ceiling, which will be initially set to 250,000 DAI and can be modified by MIP14c4 subproposal. 
 
-**DAI Transfer Ceiling Adjustment
+**DAI Transfer Ceiling Adjustment**
 - **Feedback Period:** 4 full weeks
-- **Frozen period:** 1 full week
+- **Frozen Period:** 1 full week
 
