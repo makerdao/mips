@@ -43,6 +43,10 @@ A general procedure for managing emergency situations.
 
 A general procedure for managing urgent situations.
 
+**MIPXc5: Role of Governance Facilitators**
+
+Outlines the tasks of the Governance Facilitators during emergency interventions.
+
 ## Motivation
 
 The protocol has often required changes outside of the standard weekly and monthly governance cycles to help maintain the peg or to respond to changes in the ecosystem.  The goal of this MIP is to provide a consistent process to manage emergencies and urgent issues. 
