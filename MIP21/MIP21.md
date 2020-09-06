@@ -4,7 +4,7 @@
 MIP#: 21
 Title: Real World Assets - Off-Chain Asset Backed Lender
 Author(s):  Matthew V Rabinowitz (@mrabino1)
-Contributors: Lev Livnev 
+Contributors: Lev Livnev (@equivrel)
 Type: Technical
 Status: Conception
 Date Proposed: 2020-09-01
