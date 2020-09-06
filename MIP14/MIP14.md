@@ -4,11 +4,7 @@
 ```
 MIP#: 14
 Title: Protocol DAI Transfer
-<<<<<<< HEAD
 Author(s): @LongForWisdom @jtathmann
-=======
-Author(s): @LongForWisdom, @jtathmann
->>>>>>> 1087100e6efc5cead29d36dd6ce0bb4efbba808a
 Contributors: 
 Type: Process
 Status: Request for Comments (RFC)
@@ -42,7 +38,7 @@ A list component that lists the previous direct DAI transfers that have been mad
 
 **MIP14c4: Protocol DAI Transfer Ceiling**
 
-A process component that allows governance to define and modify the total amount of DAI that can be transferred from the protocol using MIP14’
+A process component that allows governance to define and modify the total amount of DAI that can be transferred from the protocol using MIP14
 
 ## Motivation
 
