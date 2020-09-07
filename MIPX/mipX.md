@@ -15,7 +15,7 @@ Replaces: n/a
 ```
 
 ## References
-
+None provided.
 
 ## Sentence Summary
 
