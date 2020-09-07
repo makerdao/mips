@@ -144,56 +144,6 @@ In reverse,
 
 **Note:** None of the addresses above are “owned” or controlled by LendCo. The addresses are Always with MKR governance. Important add-on: it is important for the DAI to have a source of origination; a stop in TFE; another stop in the Trust;. and then to its final destination. In all cases, LendCo / the Trust / TFE need a paper trail for accounting and regulatory compliance. The reasons for the gating of DAI minting and movements is that DAI loans may not be caused from minting to LendCo without the explicit assistance from someone else in the MKR community.)
 
----
-
-### Real World Asset MakerDAO Module Details
-
-* Aggregate Debt Ceiling (means the most amount of DAI that can be borrowed by LendCo) - Same as existing Maker system
-  * Operative
-    * MKR Governance may amend as a part of its routine cycle
-* Risk Premium - Interest Rate - Same as existing Maker system
-  * Operative
-    * MKR Governance may amend as a part of its routine cycle
-    * Change of interest rates mid-month takes effect on the 1st day of the following month.
-* Scope
-  * Not-Operative (Text Field Blockchain Storage Only)
-    * MKR Governance may amend as a part of its routine cycle
-    * For use in the revolving credit facility agreement (the “RCFA”) such that LendCo may request and MKR Governance may ratify or reject just an amendment
-    * Tech requirement: A text field that outlines the text approved or rejected
-* Equity Requirement
-  * Not-Operative (Text Field Blockchain Storage Only)
-    * MKR Governance may amend as a part of its routine cycle
-    * For use in the RCFA such that LendCo may request and MKR Governance may ratify or reject just an amendment
-    * Tech requirement: A text field that outlines the text approved or rejected
-* Liquidation
-  * Operative - Different from the existing system in that the liquidation is performed by a third-party in the real world
-    * Informational Status on-chain field:
-      * Normal
-      * Triggered
-      * Cured
-      * Liquidated, if not cured within 30 calendar days
-        * Liquidation may be triggered for any number of reasons including:
-          * MKR no longer wants this collateral type
-          * MKR governance attack
-          * MKR governance has determined via the Maker Representative that LendCo is in breach of the RCFA and that breach has remained uncured pursuant to the period in the RCFA.
-* Oracle (technical)
-  * Disabled
-
-
-**Initial Debt Ceiling:**
-
-The below commercial points outline a Debt Ceiling proposal to start at 15MM as there are two projects that have been identified that are slated to close quite soon after MKR governance approval which will utilize approximately 60% of the 15MM facility thus leaving some room for the next transactions.
-
-**Forward Guidance:**
-
-Thereafter, LendCo will request an increase in the debt ceiling (with interim reporting) and have an objective of ~100MM before the end of 2021 with that number continuing to grow as the community remains comfortable with the performance of LendCo and desirable market conditions remain.
-
-**Interest Rates:**
-
-With the objective of competing head-on with the existing financial institutions, the pricing needs to be both competitive but not grossly below market. Further, as the first mover in this space, favorable pricing is being requested to get started to help offset some of the initial setup costs and legal work for getting this structure in place. This is a win win win. MKR will onboard Real World Assets, LendCo will be able to source its debt at an attractive rate, and the DAI ecosystem will benefit from having DAI deployed in Real World Assets and act as an overflow dampening valve with credit backed projects.
-
-Rather than pricing the interest rate comparative to the Maker “Base Rate,” this proposal contemplates competing directly on terms the financial system uses today which means that we should use the Wall St. Prime Rate as the benchmark with a spread above or below (as LIBOR is in process of retiring).
-
 **Operational Security**
 
 Given the size and centralization of an off-chain asset backed lender, OpSec is a critical component to be hardened prior to any material debt ceiling being allocated. To that end, it is presently contemplated that LendCo will have its Vault adapter be modified away from the default (where DAI is returned to the originating ETH address) since we are planning to implement the above minting and repayment process.
