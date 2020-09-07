@@ -75,9 +75,9 @@ Each domain will have its own specific requirements and responsibilites, but it 
 * Effectiveness - Aim to complete work and resolve problems within the domain to the best of their abilities.
 * Present and Future Focus - Solve the problems of the present while being aware of the future impact of their actions.
 
-At least one Domain Facilitator is required to explicitly and publicly approve any domain work that has been produced by a Domain Contributor before it can be used by Maker Governance. Any Domain Facilitator is able to explicitly and publicly veto the use of any unit domain work that has been produced by a Domain Contributor, this veto power takes precedence over the approval power. It must be expicitly and publicly communicated to Maker Governance which Domain Contributor(s) is responsible for any given unit of domain work.
-
 It is recommended that Maker Governance aim to recruit and maintain three domain facilitators for each defined domain in the near-medium term. Three facilitators provides redundancy while allowing for knowledge transfer and on the job training within the role. Longer term, it is likely that this domain structure will change, or that a greater number of Domain Facilitators will be required.
+
+At least one Domain Facilitator is required to explicitly and publicly approve any domain work that has been produced by a Domain Contributor before it can be used by Maker Governance. Any Domain Facilitator is able to explicitly and publicly veto the use of any unit domain work that has been produced by a Domain Contributor, this veto power takes precedence over the approval power. It must be expicitly and publicly communicated to Maker Governance which Domain Contributor(s) is responsible for any given unit of domain work.
 
 The Domain Facilitator role within any domain is an elected role. Personnel must be ratified via a subproposal to be defined in each individual domain definition MIP (see MIPXc4.) A list of Domain Facilitators will be maintained within the domain definition MIP for that domain by the Domain Facilitators.
 
