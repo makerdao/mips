@@ -13,7 +13,6 @@ Dependencies: MIP13c3-SP4 (Declaration of Intent - Off-Chain Asset Backed Lender
 Replaces: n/a
 License: n/a
 ```
-
 ## References
 - MIP13c3-SP4 - Declaration of Intent [Link](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914)
 - [prototype source code](https://github.com/livnev/rwa-example)
@@ -27,6 +26,37 @@ With the proposed on-boarding of Real World Assets as collateral into the Maker 
 
 ## Component Summary
 
+**MIP21c1: Collateral Parameters** where the per-collateral asset parameters are defined.
+**MIP20c2: Smart Contract Components** where the contracts novel to this proposal are listed and described.
+**MIP20c3: Liquidation Oracle** where the details of the liquidation oracle contract are described.
+**MIP21c4: Write-offs** where the process for writing off losses is described.
+**MIP20c5: Proposed Code** where the proposed code is linked.
+**MIP20c6: Test Cases** where the test cases are listed.
+**MIP20c7: Security Considerations** is TODO
+**MIP20c8: Auditor Information and Report** is TODO
+
+## Motivation
+See paragraph summary above.
+
+## Specification
+
+### MIP21c1: Collateral Parameters
+- **Liquidation remediation period** (`tau`): 
+- **Asset document hash** (`doc`):
+
+### MIP21c2: Smart Contract Components
+
+Inserting real world assets via an off-chain asset backed lender, where the liquidations are handled by a third-party requires certain changes to how a module would interact with the Maker protocol. Specifically, 
+- Minting
+- Repayments
+- Liquidations
+- Write-offs
+
+The above said, many items remain un-changed from the current mechanism:
+- Debt computation
+- Interest Rates
+- Debt Ceiling Constraint
+
 - `RwaLiquidationOracle`: which acts as a liquidation beacon for an off-chain enforcer.
 - `RwaFlipper`: which acts as a dummy liquidation module in the event of write-offs.
 - `RwaUrn`: which facilitates borrowing of DAI, delivering to a designated account.
@@ -37,25 +67,23 @@ With the proposed on-boarding of Real World Assets as collateral into the Maker 
 - `RwaRemedySpell` (TODO):  which allows MakerDAO governance to dismiss liquidation proceedings.
 - `RwaWriteoffSpell` (TODO):  which allows MakerDAO governance to write off a loan which was in liquidation.
 
-## Motivation
-See paragraph summary above.
+### MIP21c3: Liquidation Oracle
 
-## Specification
-Inserting real world assets via an off-chain asset backed lender, where the liquidations are handled by a third-party requires certain changes to how a module would interact with the Maker protocol. Specifically, 
-- Minting
-- Repayments
-- Liquidations
-- Write-offs
+Instead of performing liquidations via on-chain public auctions, triggered by a continuously updated price feed, liquidation is triggered manually by MakerDAO governance and is enforced off-chain by a third party. The standard oracle and auction infrastructure are replaced by a "liquidation oracle" contract. MakerDAO governance can initiate liquidation proceedings, when they deem it necessary, by calling `tell()` on the `RwaLiquidationOracle`. This starts the countdown, and after the remediation period has passed the oracle will start to report that the position is under liquidation. If the cause for triggering liquidation has been remedied, or if the original liquidation trigger was illegitimate, during the remediation period, or after, MakerDAO governance can dismiss the liquidation proceedings by calling `cure()`.
 
-The above said, many items remain un-changed from the current interface:
-- Debt computation
-- Interest Rates
-- Debt Ceiling Constraint
+An off-chain enforcer (such as a trustee, etc.) can periodically check the liquidation status of the position by calling `good()`. `good()` will report that the position is in liquidation if and only if MakerDAO governance has triggered liquidation with `tell()` and the remediation period has passed without `cure()` being called.
 
-### Proposed Code
-- [Real World Assets Example](https://github.com/livnev/rwa-example) 
+### MIP21c4: Write-offs
 
-### Test Cases
+If at the end of the liquidation process there is still debt remaining on the position, and MakerDAO governance believes that the debt will not be paid off, it can trigger a write-off by calling `cull()`. Write-off works by setting the system's collateral value to zero, which will cause the position to proceed to on-chain liquidation via `bite()`, etc. Unlike the liquidation modules for existing collateral types, the specialised liquidation module `RwaFlipper` does not attempt a sale of the underlying collateral and instead just marks the loss on the system's balance sheet by allowing system debt to be created.
+
+
+
+### MIP21c5: Proposed Code (WIP)
+[Real World Assets Example](https://github.com/livnev/rwa-example) 
+
+
+### MIP21c6: Test Cases (TODO)
 - Add Real World Asset Module
 - Mint DAI
 - Repay DAI
@@ -63,12 +91,12 @@ The above said, many items remain un-changed from the current interface:
 - Liquidate Vault
 - Write-off any associated losses
 
-### Security Considerations
+### MIP21c7: Security Considerations
 The framework surrounding minting and repaying DAI is rather battle-hardened. Further, the computation on interest rate calculations and debt ceilings is equally hardened.
 
 Counterintuitively, the majority of the functionality related to liquidations will be completed by real world people that are using legal documents to govern their actions. Thus many of the features that might otherwise cause security vulnerability may be disabled as they are effectively outsourced to a Trust company or the legal system in general.
 
-### Auditor Information and Report
+### MIP21c8: Auditor Information and Report
 The code has not been audited.
 
 ## Additional Information
