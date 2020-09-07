@@ -1,13 +1,13 @@
-# MIPX: Domain Structure and Roles
+# MIP23: Domain Structure and Roles
 
 ## Preamble
 ```
-MIP#: X
+MIP#: 23
 Title: Domain Structure and Roles
 Author(s): @LongForWisdom
 Contributors: N/A
 Type: General
-Status: RFC
+Status: Request For Comments (RFC)
 Date Proposed: 2020/09/07
 Date Ratified: n/a
 Dependencies: n/a
@@ -19,27 +19,27 @@ None provided.
 
 ## Sentence Summary
 
-MIPX provides a flexible and consistent structural framework for personnel working for MakerDAO within any domain.
+MIP23 provides a flexible and consistent structural framework for personnel working for MakerDAO within any domain.
 
 ## Paragraph Summary
 
-MIPX provides a flexible and consistent structural framework for personnel working for MakerDAO within any domain. It defines two classes of roles, Domain Facilitators and Domain Contributors, and describes how they relate to one another. It also lays out guidelines for expansion into new domains, and how this should be defined under the MIPs framework.
+MIP23 provides a flexible and consistent structural framework for personnel working for MakerDAO within any domain. It defines two classes of roles, Domain Facilitators and Domain Contributors, and describes how they relate to one another. It also lays out guidelines for expansion into new domains, and how this should be defined under the MIPs framework.
 
 ## Component Summary
 
-**MIPXc1: Domain Structure**  
+**MIP23c1: Domain Structure**  
 Describes a consistent structure that can be used for any domain. 
 
-**MIPXc2: Domain Facilitators**  
+**MIP23c2: Domain Facilitators**  
 Defines the domain facilitator role in general terms.
 
-**MIPXc3: Domain Contributors**  
+**MIP23c3: Domain Contributors**  
 Defines the domain contributor role in general terms.
 
-**MIPXc4: Domain Definition MIPs**  
+**MIP23c4: Domain Definition MIPs**  
 Suggests a template structure to be used to define specific instances of domain teams.
 
-**MIPXc5: Domain Structure Transitioning**  
+**MIP23c5: Domain Structure Transitioning**  
 Describes how MakerDAO will transition from the current domain team model to the new hierarchical domain structure.
 
 ## Motivation
@@ -48,13 +48,13 @@ While MIP7 provided an initial starting point, it did not attempt to define how 
 
 In theory, the open and permissive structure of having multiple teams within a domain that work independently has the advantage of decentralization and scalability. However in practice MakerDAO is not yet at the point where there are a sufficient number of qualified and willing personnel to support multiple teams. In fact, the open team structure may be inhibiting the growth and sharing of domain expertise due to the barrier for entry.
 
-The domain structure defined in MIPX is designed to promote knowledge transfer from current domain personnel into potential domain personnel via a facilitator-contributor model. In this hierarchical model, there is more of an opportunity for community members to be paid for domain work without immediately taking on longer term responsbility for that domain or having to pass a governance vote.
+The domain structure defined in MIP23 is designed to promote knowledge transfer from current domain personnel into potential domain personnel via a facilitator-contributor model. In this hierarchical model, there is more of an opportunity for community members to be paid for domain work without immediately taking on longer term responsbility for that domain or having to pass a governance vote.
 
 It is hoped that the addition of an explicit entry-level role will increase interest in these roles and leave the protocol with a larger pool of trained personnel to fulfil domain work.
 
 ## Specification / Proposal Details
 
-### MIPXc1: Domain Structure
+### MIP23c1: Domain Structure
 
 Specific role definitions of individual domains are not covered by this MIP, instead it seeks to lay out a generic, flexible and lightweight structure that can be used by all domains within MakerDAO.
 
@@ -66,7 +66,7 @@ The second role is known as the Domain Contributors. This position is a working 
 
 ---
 
-### MIPXc2: Domain Facilitators
+### MIP23c2: Domain Facilitators
 
 The Domain Facilitators take responsibility for the success of MakerDAO as it relates to their domain. They will outsource to their Domain Contributors such that the required work is completed and domain reponsibilities are fulfilled. Additionally, they will agressively transfer knowledge and attempt to grow the pool of personnel that can effectively work within their domain.
 
@@ -79,12 +79,12 @@ It is recommended that Maker Governance aim to recruit and maintain three domain
 
 At least one Domain Facilitator is required to explicitly and publicly approve any domain work that has been produced by a Domain Contributor before it can be used by Maker Governance. Any Domain Facilitator is able to explicitly and publicly veto the use of any unit domain work that has been produced by a Domain Contributor, this veto power takes precedence over the approval power. It must be expicitly and publicly communicated to Maker Governance which Domain Contributor(s) is responsible for any given unit of domain work.
 
-The Domain Facilitator role within any domain is an elected role. Personnel must be ratified via a subproposal to be defined in each individual domain definition MIP (see MIPXc4.) A list of Domain Facilitators will be maintained within the domain definition MIP for that domain by the Domain Facilitators.
+The Domain Facilitator role within any domain is an elected role. Personnel must be ratified via a subproposal to be defined in each individual domain definition MIP (see MIP23c4.) A list of Domain Facilitators will be maintained within the domain definition MIP for that domain by the Domain Facilitators.
 
-Each domain facilitator must provide a hardware-wallet secured ethereum public address to which they uniquely hold the private key. This address must be listed in the domain facilitator list for this domain (see MIPXc4). This address may be delegated powers or authority by Maker Governance at a future date.
+Each domain facilitator must provide a hardware-wallet secured ethereum public address to which they uniquely hold the private key. This address must be listed in the domain facilitator list for this domain (see MIP23c4). This address may be delegated powers or authority by Maker Governance at a future date.
 
 ---
-### MIPXc3: Domain Contributors
+### MIP23c3: Domain Contributors
 
 The Domain Contributors within a domain perform work on tasks within their given domain. These tasks can either be directly assigned by Domain Facilitators, or can be performed on a contributors own initiative. 
 
@@ -98,7 +98,7 @@ The Domain Contributor role within any domain is not an elected role. Instead, a
 
 ---
 
-### MIPXc4: Domain Definition MIPs
+### MIP23c4: Domain Definition MIPs
 
 It is proposed that each domain operating under the Maker Protocol is defined within its own MIP, known as a Domain Definition MIP. A Domain Definition MIP must have at least the following set of components:
 * Domain Overview - A description of the domain itself.
@@ -112,7 +112,7 @@ It is proposed that each domain operating under the Maker Protocol is defined wi
 
 ---
 
-### MIPXc5: Domain Structure Transitioning
+### MIP23c5: Domain Structure Transitioning
 
 Given the current set of MIPs, the current domain team structure and the absence of Domain Definition MIPs for the existing domains, a transition plan is defined here and should be followed if this MIP moves to the Accepted status.
 
