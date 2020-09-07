@@ -64,6 +64,8 @@ The above said, many items remain un-changed from the current mechanism:
 - Interest Rates
 - Debt Ceiling Constraint
 
+The smart contracts implementing the new functionality are as follows:
+
 - `RwaLiquidationOracle`: which acts as a liquidation beacon for an off-chain enforcer.
 - `RwaFlipper`: which acts as a dummy liquidation module in the event of write-offs.
 - `RwaUrn`: which facilitates borrowing of DAI, delivering to a designated account.
