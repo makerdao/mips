@@ -8,7 +8,7 @@ Author(s): @LongForWisdom
 Contributors: N/A
 Type: General
 Status: RFC
-Date Proposed: TBC
+Date Proposed: 2020/09/07
 Date Ratified: n/a
 Dependencies: n/a
 Replaces: n/a
