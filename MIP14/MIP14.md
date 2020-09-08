@@ -4,17 +4,18 @@
 ```
 MIP#: 14
 Title: Protocol DAI Transfer
-Author(s): @LongForWisdom
-Contributors: N/A
+Author(s): @LongForWisdom, @jtathmann
+Contributors: 
 Type: Process
-Status: Formal Submission (FS)
-Date Proposed: 2020-05-12
+Status: Request for Comments (RFC)
+Date Proposed: 2020-08-27
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP0
 Replaces: N/A
 ```
 ## References
 **[MIP14c2-Subproposal-Template.md](MIP14c2-Subproposal-Template.md)**
+**[MIP14c4-Subproposal-Template.md](MIP14c4-Subproposal-Template.md)**
 
 ## Sentence Summary
 
@@ -34,6 +35,9 @@ A process component that allows Maker Governance to transfer DAI from the Maker 
 
 **MIP14c3: Protocol DAI Transfer List**  
 A list component that lists the previous direct DAI transfers that have been made by the protocol in the past.
+
+**MIP14c4: Protocol DAI Transfer Ceiling**
+The maximum amount of DAI that can be transferred from the protocol in total using this process
 
 
 ## Motivation
@@ -74,6 +78,8 @@ MIP14c2 subproposals have parameters that depend on the total amount of DAI to b
 - **Feedback Period:** 12 full weeks
 - **Frozen period:** 4 full weeks
 
+If a MIP14c2 subproposal would result in a FLOP auction, Governance Facilitator(s) will use established communication channels to ensure the community is informed
+
 MIP14c2 subproposals must use the template located at **[MIP14c2-Subproposal-Template.md](MIP14c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
@@ -83,7 +89,6 @@ This list can be amended through subproposals created under MIP14c2.
 
 **List Entry Template**
 Entries into this list should follow the following template:
-
 ```
 Reason:
 Sub-proposal Number: #
@@ -94,7 +99,6 @@ Recipient Address:
 
 **Historical Transfer List**
 There are currently no historical transfers. Below is an example transfer which should be removed (as should this paragraph) when the first ratified transfer is added to this list .
-
 ```
 Reason: Funding Chocolate for Governance Facilitators
 Sub-proposal Number: MIP14c1-SP0
@@ -102,5 +106,10 @@ Date Ratified: 2020-02-30
 Amount Transferred: 1,000,000 DAI
 Recipient Address: 0x0000000000000000000000000000000000000000
 ```
+
+---
+
+**MIP14c4: Protocol DAI Transfer Ceiling** 
+MIP14c4 sets the maximum amount of DAI that can be transferred in total from the protocol using this process.  MIP14c2-subproposals will not be eligible if they cause the historic amount of DAI transferred from the protocol to exceed the ceiling, which will be initially set to 250,000 DAI and can be modified by MIP14c4 subproposal. 
 
 ---
