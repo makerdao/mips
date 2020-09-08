@@ -8,7 +8,7 @@ Title: Domain work requirements for onboarding the LRC collateral type
 Author(s): Cyrus Younessi (@DonutJr), Niklas Kunkel (@NiklasKunkel), Mariano Conti (@nanexcool)
 Contributors: Charles St.Louis (@CPSTL)
 Status: Formal Submission (FS)
-Date Proposed: 2020-08-05
+Date Proposed: 2020-09-08
 Date ratified: <yyyy-mm-dd>
 ```
 
