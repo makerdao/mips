@@ -7,7 +7,7 @@ Author: LongForWisdom
 Contributors: n/a
 Status: Accepted
 Date Applied: 2020-05-04
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-28
 ---
 Core Personnel Role: Governance Facilitator
 Proposed applicant: LongForWisdom

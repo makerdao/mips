@@ -6,9 +6,9 @@ MIP18c4-SP#: 1
 Meta-parameter to add, modify or remove: Remove the DSR Spread
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
-Status: Formal Submission (FS)
+Status: Accepted
 Date of Submission: 2020-07-07
-Date of Ratification: <yyyy-mm-dd>
+Date of Ratification: 2020-07-28
 ```
 ## Specification
 
