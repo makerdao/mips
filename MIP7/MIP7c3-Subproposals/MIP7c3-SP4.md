@@ -22,7 +22,7 @@ Proposed Applicant(s): Wil Barnes, Lucas Manuel, Brian McMichael, Christopher Mo
 
 ### Motivation
 
-- A mandated actor is required to communicate with the community to plan, schedule, and onboard new collateral types to the protocol.
+- A mandated domain tema is required to perform protocol improvements, onboard collateral and other operational work, and provide expertise to the Foundation and the community. The proposed applicants listed herein have been acting in this capacity for an extended period of time, and this MIP7c3 subproposal is intended to formally recognize these applicants as Smart Contract Domain team members.
     
 
 ### Work Credentials
