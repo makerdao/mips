@@ -5,7 +5,7 @@
 MIP13c3-SP#: 4
 Author(s): Matthew V Rabinowitz (@mrabino1)
 Contributors: n/a
-Status: Conception
+Status: Request for Comments (RFC)
 Date Proposed: 2020-09-01
 Date Ratified: <yyyy-mm-dd>
 ---
