@@ -7,9 +7,9 @@ Title: Declarations of Intent
 Author(s): @LongForWisdom
 Contributors: n/a
 Type: Process
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-05-12
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-06-25
 Dependencies: MIP0
 Replaces: n/a
 ```
