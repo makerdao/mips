@@ -32,10 +32,23 @@ As markets and liquidity profiles evolve, it is important to revisit Data Models
 
 
 ### Oracle Supporting Data Model(s)
-    
- |      Source     |  Asset Pair   |  Feed Model  |
- | :-------------- | :------------ | :----------: |
- |        1        |       N/A     |      N/A     |
+
+### BTC/USD Data Model
+
+|    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
+| :------------ | :------------ | :---: | :---------: | :----------: |
+|   Bitstamp    |    BTC/USD    |   13  |    Median   |    Median    |
+|   Bittrex     |    BTC/USD    | 
+|   Coinbase    |    BTC/USD    |
+|   Gemini      |    BTC/USD    |
+|   Kraken      |    BTC/USD    |
+
+
+### USDC/USD    
+|      Source     |  Asset Pair   |  Feed Model  |
+| :-------------- | :------------ | :----------: |
+|        1        |       N/A     |      N/A     |
+
  
 ### Supporting Evidence
 
