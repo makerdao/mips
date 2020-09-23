@@ -127,15 +127,16 @@ The `Tinlake Flipper` takes all of the collateral from a Vault and requests rede
  When a Vault is liquidated (`Cat.bite` is called), the Cat will call `Flipper.kick` which kicks off the liquidation. At first it withdraws the entire collateral (the DROP tokens) from the system and places a `redeemOrder` on the `pool` contract.
 
  ```
-    function kick(address usr_, address gal, uint256 tab, uint256 lot, uint256 bid)
+    function kick(address dest_, address gal, uint256 tab_, uint256 lot, uint256 bid)
         public auth returns (uint256 id)
     {
         vow = gal;
-        usr = usr_;
+        dest = dest_;
+        tab = tab_;
         vat.flux(ilk, msg.sender, address(this), lot);
-
         dropJoin.exit(address(this), lot);
-        pool.redeemOrder(lot);
+        pool.redeemOrder(drop.balanceOf(address(this)));
+        emit Kick(id, lot, bid, tab_, dest, vow);
     }
 ```
 
@@ -143,14 +144,15 @@ The redeem order will now be taken into account whenever loan repayments flow in
 
 ```
     function take() public {
-        uint returned, _ = pool.disburse();
-        if (tab < returned) {
-            dai.transferFrom(address(this), usr, sub(returned-tab));
-            returned = tab;
+        (uint returned, ) = pool.disburse();
+        uint tabWad = tab / RAY; // always rounds down, this could lead to < 1 RAY to be lost in dust
+        if (tabWad < returned) {
+            dai.transfer(dest, sub(returned, tabWad));
+            returned = tabWad;
         }
         if (tab != 0) {
-            dai.join(vow, returned);
-            tab = sub(tab, returned);
+            daiJoin.join(vow, returned);
+            tab = sub(tab, mul(returned, RAY));
         }
     }
 ```
