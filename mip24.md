@@ -1,13 +1,13 @@
-# MIPX: Emergency Response
+# MIP24: Emergency Response
 
 ## Preamble
 ```
-MIP#:
+MIP#: 24
 Title: Emergency Response
 Author(s): @jtathmann
 Contributors:
 Type: General
-Status: <Assigned by MIP Editor>
+Status: Request for Comments (RFC)
 Date Proposed: 2020-09-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
@@ -27,23 +27,23 @@ The Emergency Response MIP aims to provide a general guide that can be applied t
 
 ## Component Summary
 
-**MIPXc1: Emergency Definitions**
+**MIP24c1: Emergency Definitions**
 
 Defines the terms "urgent" and "emergency" for purposes of an expedited governance change
 
-**MIPXc2: Considerations of Expedited Protocol Changes**
+**MIP24c2: Considerations of Expedited Protocol Changes**
 
 Outlines the various considerations that should be made before enacting expedited changes.
 
-**MIPXc3: Emergency Response Procedure**
+**MIP24c3: Emergency Response Procedure**
 
 A general procedure for managing emergency situations.
 
-**MIPXc4: Urgent Response Procedure**
+**MIP24c4: Urgent Response Procedure**
 
 A general procedure for managing urgent situations.
 
-**MIPXc5: Role of Governance Facilitators**
+**MIP24c5: Role of Governance Facilitators**
 
 Outlines the tasks of the Governance Facilitators during emergency interventions.
 
@@ -53,7 +53,7 @@ The protocol has often required changes outside of the standard weekly and month
 
 ## Specification / Proposal Details
 
-**MIPXc1: Emergency Definitions**
+**MIP24c1: Emergency Definitions**
 
 The procedure for managing expedited changes to the protocol will depend on whether an event is classified as urgent or an emergency.
 
@@ -63,7 +63,7 @@ The procedure for managing expedited changes to the protocol will depend on whet
 
 ---
 
-**MIPXc2: Considerations of Expedited Protocol Changes**
+**MIP24c2: Considerations of Expedited Protocol Changes**
 
 There are several important factors to consider before expediting changes to the protocol.
 - Potential for MKR holders to miss a poll or executive vote due to diverging from the standard governance cycles.
@@ -73,9 +73,9 @@ There are several important factors to consider before expediting changes to the
 
 ---
 
-**MIPXc3: Emergency Response Procedure**
+**MIP24c3: Emergency Response Procedure**
 
-The ability to declare an emergency will be reserved for Domain Teams and Core Personnel due to their proximity to, and knowledge of, the Maker ecosystem.  If a community member wishes to declare an emergency, they will follow the urgent response procedure outlined in MIPXc4.
+The ability to declare an emergency will be reserved for Domain Teams and Core Personnel due to their proximity to, and knowledge of, the Maker ecosystem.  If a community member wishes to declare an emergency, they will follow the urgent response procedure outlined in MIP24c4.
 
 **The emergency response process will be initiated as follows:**
 
@@ -85,7 +85,7 @@ The ability to declare an emergency will be reserved for Domain Teams and Core P
 
 ---
 
-**MIPXc4: Urgent Response Procedure**
+**MIP24c4: Urgent Response Procedure**
  
 An urgent response may be requested by any community member if they believe the system would benefit from an expedited governance action.  The process will be initiated with a signal request in the public forum stating the need for expedited governance and include the following:
 
@@ -97,10 +97,10 @@ An urgent response may be requested by any community member if they believe the 
 - Governance Facilitators will be notified and oversee discussion.
 - If the signal for an urgent response passes, Governance Facilitators will coordinate with necessary domain teams to expedite a confirmation poll for MKR holders or to advance an executive vote, at their discretion.
 	
-At any time during the urgent response procedure a Domain Team or Core Personnel may elevate the status to an emergency.  At this time, the procedure in MIPXc3 will be carried out.
+At any time during the urgent response procedure a Domain Team or Core Personnel may elevate the status to an emergency.  At this time, the procedure in MIP24c3 will be carried out.
 	
 ---
 
-**MIPXc5: Role of Governance Facilitators**
+**MIP24c5: Role of Governance Facilitators**
 
 Governance Facilitators will oversee emergency processes to ensure they are carried out in a civil and consistent manner.  They will be responsible for confirming poll outcomes and identifying whether the community or external actors have attempted to abuse or game the emergency process, and may block a request for emergency action at their discretion.
