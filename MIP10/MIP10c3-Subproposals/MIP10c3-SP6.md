@@ -1,11 +1,11 @@
 ## Preamble
 ```
-MIP10c3-SP#: 5
+MIP10c3-SP#: 6
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Type: Process Component
 Oracle Team Name: Green
-Status: RFC
+Status: Formal Submission (FS)
 Date Proposed: 2020-08-05
 Date Ratified: <yyyy-mm-dd>
 ```

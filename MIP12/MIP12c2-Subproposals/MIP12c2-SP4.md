@@ -44,4 +44,3 @@ The goal of this proposal is to provide transparency to the Maker Community as t
 - [Collateral Status Index](https://forum.makerdao.com/t/collateral-status-index/2231)
 
 
----
