@@ -118,7 +118,7 @@ see [flash.t.sol](https://github.com/hexonaut/dss-flash/blob/master/src/flash.t.
 
 ### MIP25c4: Security considerations
 
-The proposed solution is simple and non-invasive, interacting with only one other component of the system (the `Vat`) through an existing method for `suck`. A `lock` modifier has been added to  `mint` prevent any possible re-entrancy bugs.
+The proposed solution is simple and non-invasive, interacting with only one other component of the system (the `Vat`) through an existing method for `suck`. A `lock` modifier has been added to  `mint` to prevent any possible re-entrancy bugs.
 
 ### MIP25c5: Formal verification/audit information
 
