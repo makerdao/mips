@@ -24,7 +24,7 @@ This change has no impact on other MIPs that interact with MIP3, with the except
    - MIP3c4 states that there will be no monthly governance cycle in the month of December.
 
 ### Amendment Pull Request (PR)
-   -  A link to the PR containing the amendment. This PR must have remained unchanged for the Frozen Period.
+https://github.com/makerdao/mips/pull/112
 
 ### Relevant Information
 No further information provided.
