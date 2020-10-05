@@ -1,8 +1,8 @@
-# MIP13c3-SP4: SourceCred Funding
+# MIP13c3-SP6: SourceCred Funding
 
 ## Preamble
 ```
-MIP13c3-SP#: 4
+MIP13c3-SP#: 6
 Author(s): @LongForWisdom
 Contributors:
 Status: RFC
