@@ -1,4 +1,4 @@
-# MIP4c2-SP6: Calander Exceptions
+# MIP4c2-SP6: Calendar Exceptions
 
 ## Preamble
 ```
