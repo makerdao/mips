@@ -8,7 +8,7 @@ Author(s): Cyrus Younessi (@DonutJr)
 Contributors: n/a
 Status: Accepted
 Date Applied: 2020-06-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-06-25
 ---
 Domain Role: Risk Domain Team Facilitator
 Proposed Applicant: Cyrus Younessi

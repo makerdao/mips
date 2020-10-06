@@ -2,8 +2,8 @@
 
 ## Number of Feeds
 - **Dark Feeds =** 15
-- **Light Feeds =** 5
-- **Total Feeds =** 20
+- **Light Feeds =** 9
+- **Total Feeds =** 24
 
 ## Glossary
 
@@ -48,10 +48,14 @@
 
 
 **Light Feeds**
-|                     Feed                   |   Type   |  Date Added  |   Organization   |  Feed Stipend |  MIP/Subproposal |
-| :----------------------------------------- | :------- | :----------- | :--------------- | :------------ | :--------------- | 
-| 0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e |   Light  |    2019-11   | Maker Foundation |    1000 DAI   |  N/A             |
-| 0xc00584B271F378A0169dd9e5b165c0945B4fE498 |   Light  |    2019-11   |   Set Protocol   |    1000 DAI   |  N/A             |
-| 0x75ef8432566A79C86BBF207A47df3963B8Cf0753 |   Light  |    2019-11   |        dYdX      |    1000 DAI   |  N/A             |
-| 0xD27Fa2361bC2CfB9A591fb289244C538E190684B |   Light  |    2019-11   |         0x       |    1000 DAI   |  N/A             |
-| 0x60da93D9903cb7d3eD450D4F81D402f7C4F71dd9 |   Light  |    2019-11   |       Gnosis     |    1000 DAI   |  N/A             |
+|                     Feed                   |   Type  |  Date Added  |   Organization   |  Feed Stipend |  MIP/Subproposal |
+| :----------------------------------------- | :-------| :----------- | :--------------- | :------------ | :--------------- | 
+| 0xa580BBCB1Cee2BCec4De2Ea870D20a12A964819e |  Light  |    2019-11   | Maker Foundation |    1000 DAI   |   N/A            |
+| 0xc00584B271F378A0169dd9e5b165c0945B4fE498 |  Light  |    2019-11   |   Set Protocol   |    1000 DAI   |   N/A            |
+| 0x75ef8432566A79C86BBF207A47df3963B8Cf0753 |  Light  |    2019-11   |        dYdX      |    1000 DAI   |   N/A            |
+| 0xD27Fa2361bC2CfB9A591fb289244C538E190684B |  Light  |    2019-11   |         0x       |    1000 DAI   |   N/A            |
+| 0x60da93D9903cb7d3eD450D4F81D402f7C4F71dd9 |  Light  |    2019-11   |       Gnosis     |    1000 DAI   |   N/A            |
+| 0x71eCFF5261bAA115dcB1D9335c88678324b8A987 |  Light  |    2020-07   |     Etherscan    |    1000 DAI   |   [MIP10c14-SP3](https://github.com/makerdao/mips/blob/master/MIP10/MIP10c14-Subproposals/MIP10c14-SP3.md)   |
+| 0x77eb6cf8d732fe4d92c427fcdd83142db3b742f7 |  Light  |    2020-07   |      Gitcoin     |    1000 DAI   |   [MIP10c14-SP4](https://github.com/makerdao/mips/blob/master/MIP10/MIP10c14-Subproposals/MIP10c14-SP4.md)   |
+| 0xD09506dAC64aaA718b45346a032F934602e29cca |  Light  |    2020-07   |   Kyber Network  |    1000 DAI   |   [MIP10c14-SP1](https://github.com/makerdao/mips/blob/master/MIP10/MIP10c14-Subproposals/MIP10c14-SP1.md)   |
+| 0x8ff6a38A1CD6a42cAac45F08eB0c802253f68dfD |  Light  |    2020-07   |      Infura      |    1000 DAI   |   [MIP10c14-SP2](https://github.com/makerdao/mips/blob/master/MIP10/MIP10c14-Subproposals/MIP10c14-SP2.md)   |
