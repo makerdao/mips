@@ -92,5 +92,3 @@ Following a positive community greenlight (MIP8) and completion of the work outl
 * [PC](https://forum.makerdao.com/t/pc-drop-mip6-application-paperchain-drop-tokenized-music-streaming-invoices/2215)
 * [NS](https://forum.makerdao.com/t/ns-drop-mip6-application-new-silver-drop-real-estate-backed-loans/3477)
 * KF (TBC)
-
-
