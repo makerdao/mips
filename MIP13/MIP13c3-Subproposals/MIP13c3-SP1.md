@@ -5,7 +5,7 @@
 MIP13c3-SP#: 1
 Author(s): Akiva Dubrofsky (@akiva)
 Contributors: @vitalyr
-Status: Formal Submission (FS)
+Status: Request for Comments (RFC) 
 Date Proposed: <2020-07-08>
 Date Ratified: <yyyy-mm-dd>
 Declaration Statement: MakerDAO intends to keep RP on Vaults as  transparent and stable as possible.
