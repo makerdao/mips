@@ -6,7 +6,7 @@ MIP#: 26
 Title: DssGov - Governance Contract Redesign
 Author(s):  Smart Contracts Domain Team
 Type: Technical
-Status: conception
+Status: Request for Comments (RFC)
 Date Proposed: 2020-10-06
 Dependencies:
 Replaces: DSChief
