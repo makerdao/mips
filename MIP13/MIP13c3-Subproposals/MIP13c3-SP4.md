@@ -230,7 +230,3 @@ Two projects have already cleared underwriting for financing after the above str
 * https://delcode.delaware.gov/title12/c038/sc01/
 * https://docs.google.com/document/d/1sf0NIib9z8YXVlsEgur4twjlBp4HhN8jCS_epHKKZYw/edit?usp=sharing
 * [FAQs based on commentary from the community](https://docs.google.com/document/d/1sf0NIib9z8YXVlsEgur4twjlBp4HhN8jCS_epHKKZYw/edit?usp=sharing)
-
-
-
-
