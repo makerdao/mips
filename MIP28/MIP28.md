@@ -184,7 +184,7 @@ MIP28c7 is a Process MIP component that allows the onboarding of Operational Sup
 -   **Feedback Period**: 1 month
 -   **Frozen Period**: 1 month
 
-MIP28c7 subproposals must use the template located at  **[MIP28c7-Subproposal-Template.md](MIP28c7-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP28c7 subproposals must use the template located at  **[MIP28c7-Subproposal-Template.md](https://github.com/makerdao/mips/blob/formal-submission/MIP23/MIP23c4-Domain-Onboarding-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
@@ -194,7 +194,7 @@ MIP28c8 is a Process MIP component that allows the offboarding of Operational Su
 -   **Feedback Period**: 0 months
 -   **Frozen Period**: 0 month
 
-MIP28c8 subproposals must use the template located at  **[MIP28c8-Subproposal-Template.md](MIP28c8-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP28c8 subproposals must use the template located at  **[MIP28c8-Subproposal-Template.md](https://github.com/makerdao/mips/blob/formal-submission/MIP23/MIP23c4-Domain-Offboarding-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 Domain Facilitators may voluntarily offboard themselves by filling out the MIP28c8 subproposal template and posting it publicly in the official forum and making a brief public statement on the weekly governance and risk meeting.
 
