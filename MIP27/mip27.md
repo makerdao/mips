@@ -9,7 +9,7 @@ MIP#: 27
 Title: Debt Ceiling Instant Access Module
 Author(s):  Smart Contracts Domain Team
 Type: Technical
-Status: conception
+Status: Request for Comments (RFC)
 Date Proposed: 2020-10-07
 Dependencies:
 Replaces: Weekly governance executive debt ceiling adjustments
