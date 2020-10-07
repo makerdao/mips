@@ -1,4 +1,4 @@
-MIP28: Operational Support Domain Definition
+# MIP28: Operational Support Domain Definition
 
 ## Preamble
 ```
@@ -25,7 +25,7 @@ MIP28 defines the Operational Support domain according to the domain definition 
 ## Paragraph Summary
 The Operational Support (OS) domain's key function is to ensure the development and management of distributed operations at MakerDAO. Additionally, the Operational Support domain is responsible for helping domain teams coordinate to complete objectives and manage shared resources. The domain’s main responsibilities fall into three categories:
 
-* General operations for domains 
+* General operations for domains
 * Cross-domain team coordination
 * Grants management and distribution
 
@@ -118,6 +118,8 @@ A Operational Support Facilitator has the following responsibilities in addition
 * Manage grantee payments.
 
 Generally, Operational Support Facilitators must keep the lists in component MIP28c5 and MIP28c6 up to date.
+
+---
 
 ### MIP28c3: Operational Support Facilitator Candidate Criteria
 The following criteria should be used when evaluating an individual for the role of a Operational Support Facilitator:  
