@@ -68,6 +68,7 @@ A dark spell is necessary because it conceals the bytecode that fixes the critic
 - **Dark Spell:** A special spell using an opcode that allows the address of a spell to be pre-determined before deployment. 
 - **Governance Security Module (GSM) Delay:** A configurable delay attribute, setting the minimum wait time before governance votes can be applied to the system.  
 
+
 ---
 
 **MIP15c2: Dark Spell Process Overview**

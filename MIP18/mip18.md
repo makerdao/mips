@@ -8,9 +8,9 @@ Title: Meta-Parameter Adjustments
 Author(s): @LongForWisdom, Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: 
 Type: Process
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-07-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-07-28
 Dependencies:
 Replaces:
 

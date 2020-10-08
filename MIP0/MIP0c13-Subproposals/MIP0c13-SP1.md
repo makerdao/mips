@@ -24,4 +24,4 @@ This subproposal should in no way be seen as a condemnation of, or a reaction to
 
 ### Relevant Information
 [Meeting Summary](https://github.com/makerdao/community/blob/master/governance/governance-and-risk-meetings/summaries/episode-102.md#rich-brown) in which Rich annouced his intention to step away from his role at the Foundation.  
-Forum [thread](https://forum.makerdao.com/t/thank-you-rich-brown/3379) thanking Rich for his work.
+Forum [thread](https://forum.makerdao.com/t/thank-you-rich-brown/3379) thanking Rich for his work.  

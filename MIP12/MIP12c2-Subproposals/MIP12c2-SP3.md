@@ -7,9 +7,9 @@ MIP12c2-SP: 3
 Title: Domain work requirements for onboarding the MANA collateral type
 Author(s): Cyrus Younessi (@DonutJr), Niklas Kunkel (@NiklasKunkel), Mariano Conti (@nanexcool)
 Contributors: Charles St.Louis (@CPSTL)
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-07-08
-Date ratified: <yyyy-mm-dd>
+Date ratified: 2020-07-28
 ```
 
 ## Specification

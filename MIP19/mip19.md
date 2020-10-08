@@ -7,16 +7,15 @@ Title: Liquidations System 1.1 Upgrade
 Author(s): Mariano Conti (@nanexcool), Charles St.Louis (@CPSTL) 
 Contributors: Kurt Barry (@kmbarry1)
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-07-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-07-28
 Dependencies: n/a
 Replaces: n/a
 License: AGPL v3.0
 ```
 ## References
 
-- [Executive Vote: Unblock the remaining Debt Auctions Blog Post](ttps://blog.makerdao.com/executive-vote-march-26-2020/)
 - [Debt Auction Blocking in the Dai Credit System Presentation by Kurt Barry](https://docs.google.com/presentation/d/1nnpPBiOLEWi81q8zrHoIWH4s3iQaKrCSaR68AafzQJo/edit#slide=id.p)
     - [Video recording of the presenation](https://www.youtube.com/watch?v=erh25lnaIo0)
 - [Formal Verification Run](https://reports.makerfoundation.com/k-dss/dcc4d3a8fcab50a5af6f/)
