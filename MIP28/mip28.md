@@ -15,7 +15,8 @@ Replaces: n/a
 ```
 
 ## References
-**[MIP28c7-SP1.md](MIP28c7-SP1.md)**
+**[MIP28c7-Subproposal-Template.md](https://github.com/makerdao/mips/blob/formal-submission/MIP23/MIP23c4-Domain-Onboarding-Template.md)**
+**[MIP28c8-Subproposal-Template.md](https://github.com/makerdao/mips/blob/formal-submission/MIP23/MIP23c4-Domain-Offboarding-Template.md)**
 
 
 ## Sentence Summary
@@ -91,7 +92,7 @@ Naturally, the focus of the domain functions will change with the maturity of Ma
 ---
 
 ### MIP28c2: Operational Support Facilitator Role and Responsibilities
-The Operational Support domain will focus on three sectors, ideally with a Operational Support Facilitator in each specialization.
+The Operational Support domain will focus on three sectors, ideally with a Operational Support Facilitator focusing in each area.
 
 * General Operations
 * Cross-Domain Coordination
@@ -138,7 +139,7 @@ The following criteria should be used when evaluating an individual for the role
 ### MIP28c4: Operational Support Facilitator Removal Criteria
 A Operational Support Facilitator should be considered for removal if they are:  
 * Displaying biased or malicious behaviour which are not serving in the best interest of domain teams and MakerDAO. 
-* Majority domain teams (51%) feel they are not being supported by the current Operational Support Facilitator.
+* Majority domain teams feel they are not being supported by the current Operational Support Facilitator.
 * Misusing resources or favoring one domain over another.
 * Absent from their duties for a prolonged period.
 * Expressing unwillingness to continue in their role.
@@ -182,7 +183,7 @@ There are currently no Operational Support Contributors.
 
 MIP28c7 is a Process MIP component that allows the onboarding of Operational Support Facilitators using a subproposal. MIP28c7 subproposals have the following parameters:
 -   **Feedback Period**: 1 month
--   **Frozen Period**: 1 month
+-   **Frozen Period**: 1 week
 
 MIP28c7 subproposals must use the template located at  **[MIP28c7-Subproposal-Template.md](https://github.com/makerdao/mips/blob/formal-submission/MIP23/MIP23c4-Domain-Onboarding-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
@@ -197,5 +198,3 @@ MIP28c8 is a Process MIP component that allows the offboarding of Operational Su
 MIP28c8 subproposals must use the template located at  **[MIP28c8-Subproposal-Template.md](https://github.com/makerdao/mips/blob/formal-submission/MIP23/MIP23c4-Domain-Offboarding-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 Domain Facilitators may voluntarily offboard themselves by filling out the MIP28c8 subproposal template and posting it publicly in the official forum and making a brief public statement on the weekly governance and risk meeting.
-
----
