@@ -1,15 +1,19 @@
+# MIP13c3-SP7: Governance Communications
+
+## Preamble 
+
 ```
-MIP13c3-SP7: 
+MIP13c3-SP#: 7
 Author(s): @twblack88 @DavidUtro
 Contributors: @JerryAG, @scottrepreneur, @anna, @seth
-Status: 
-Date Proposed: <2020-11-6>
+Status: Request for Comments (RFC)
+Date Proposed: 2020-11-6
 Date Ratified: <N/A>
 Declaration Statement: Maker Governance intends to form a Governance Communications domain with the mandate described in this declaration.
 Declaration to Replace: n/a
 ```
 
-## **Specification**
+## Specification
 
 ### Context and Motivation
 
