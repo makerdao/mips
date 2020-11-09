@@ -7,7 +7,7 @@ Title: Peg Stability Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Status: Conception
+Status: Request for Comments (RFC)
 Date Proposed: 2020-11-09
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
