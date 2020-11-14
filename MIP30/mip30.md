@@ -1,8 +1,8 @@
-# MIP29: Farmable cUSDC Adapter (`CropJoin`)
+# MIP30: Farmable cUSDC Adapter (`CropJoin`)
 
 ## Preamble
 ```
-MIP#: 29
+MIP#: 30
 Title: Farmable cUSDC Adapter (`CropJoin`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
