@@ -39,21 +39,17 @@ on behalf of depositors.
 
 ## Component summary
 
-**MIP20c1: Definitions:** defines FOO, BAR, and BAZ
+**MIP30c1: Proposed code:** contains snippet of proposed implementation.
 
-**MIP20c2: Desired properties:** lists important properties that the `CropJoin` implementation must satisfy.
+**MIP30c2: Test cases:** lists existing test cases, including integration tests
 
-**MIP20c3: Proposed code:** contains snippet of proposed implementation.
+**MIP30c3: Security considerations:** comments on the security implications of using `CropJoin`
 
-**MIP20c4: Test cases:** lists existing test cases, including integration tests
+**MIP30c4: Other considerations:**
 
-**MIP20c5: Security considerations:** comments on the security implications of using `CropJoin`
+**MIP30c5: Formal verification/audit information:** comments on the amenability of the proposed code to formal verification, even though formal specification, audit, or code review have yet to be conducted.
 
-**MIP20c6: Other considerations:**
-
-**MIP20c7: Formal verification/audit information:** comments on the amenability of the proposed code to formal verification, even though formal specification, audit, or code review have yet to be conducted.
-
-**MIP20c8: Licensing:** states the license under which the proposal and code are distributed.
+**MIP30c6: Licensing:** states the license under which the proposal and code are distributed.
 
 
 ## Motivation
@@ -82,7 +78,7 @@ have been considered to address this problem have included:
 
 
 [PSM]:    https://forum.makerdao.com/t/peg-stabilization-modules-a-pre-mip-discussion/3045
-[TPAM]:   https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196
+[TPAM]:   https://forum.makerdao.com/t/mip30-target-price-adjustment-module-vox/3196
 [MIP 21]: https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917
 [MIP 22]: https://forum.makerdao.com/t/mip22-centrifuge-direct-liquidation-module/3930
 
@@ -170,15 +166,7 @@ risk, reward, and effectiveness perspective.
 
 ## Specification
 
-### MIP20c1: Definitions
-
-- **thing**:
-
-### MIP20c2: Desired properties
-
-- property
-
-### MIP20c3: Proposed code
+### MIP30c1: Proposed code
 
 See [crop.sol] for the core adapter implementation, and [wind.sol] for
 the Compound leverage optimisation.
@@ -232,7 +220,7 @@ methods:
   be redeemed from Compound prior to user `exit`.
 
 
-### MIP20c4: Test cases
+### MIP30c2: Test cases
 
 Tests can be found in [crop.t.sol]. The basic rewards adapter is covered
 for a mock token reward and this base is extended to test against mock
@@ -245,7 +233,7 @@ tests.
 
 [crop.t.sol]: https://github.com/rainbreak/crop/blob/main/src/test/crop.t.sol
 
-### MIP20c5: Security considerations
+### MIP30c3: Security considerations
 
 Security risks of cUSDC-CROP include:
 
@@ -265,9 +253,9 @@ Due to the design of multi-collateral DAI, worst-case losses should
 be limited to the collateral deposited in the adapter, and the debt
 ceiling should be set with this in mind.
 
-### MIP20c6: Other considerations
+### MIP30c4: Other considerations
 
-#### MIP20c6A: Economic risks
+#### MIP30c4A: Economic risks
 
 It is fair to say that cUSDC-CROP collateral inherits the risks of USDC,
 and includes the following additional risks, as a minimum:
@@ -292,7 +280,7 @@ supply and borrow rates dynamically based on utilisation, incentivising supply
 and repayment with very high interest rates when reserves run low. Historically,
 the Compound platform has been successful at managing liquidity with this technique.
 
-#### MIP20c6B: Governance considerations
+#### MIP30c4B: Governance considerations
 
 In order for the cUSDC-CROP collateral type to stay competitive relative to other
 Defi yield opportunities, while maximising returns for MakerDAO, it may be necessary
@@ -302,7 +290,7 @@ Compound COMP-adjusted yield on USDC.
 In the future, the same mechanism can be used to  deploy adapters for leveraging other
 "yield farming" schemes.
 
-#### MIP20c6C: Example parameters
+#### MIP30c4C: Example parameters
 _n.b. see [predictions.exchange](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'400',%20'300'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D) or [stat.farm](stat.farm) for useful COMP-adjusted yield calculators_
 
 At the time of writing, a "levered" Compound USDC deposit (with LTV of 67.4%) yields
@@ -320,7 +308,7 @@ liquidations to be initially disabled (similarly to the _status quo_ with USDC-A
 interest still being effectively collectable for at least one year following the opening of
 a CDP.
 
-### MIP20c7: Formal verification/audit information
+### MIP30c5: Formal verification/audit information
 
 The proposed contract is written in a way which is amenable to formal
 specification and verification, in accordance with the style and
@@ -333,5 +321,5 @@ modelling of much of Compound.
 No audit or code review has taken place yet.
 
 
-### MIP20c8: Licensing
+### MIP30c6: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
