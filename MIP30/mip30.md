@@ -192,7 +192,7 @@ transferable within the system (see the [`crop` README] for more information).
 
 [crop.sol]: https://github.com/rainbreak/crop/blob/main/src/crop.sol
 [wind.sol]: https://github.com/rainbreak/crop/blob/main/src/wind.sol
-[`crop` README]: https://github.com/rainbreak/crop/blob/main/README.md
+[`crop` README]: https://github.com/rainbreak/crop/blob/main/README.md#tack
 
 #### Levered COMP Farming
 
@@ -205,9 +205,9 @@ of USDC¹.  This repeated supply / borrow method is in use by the majority
 of large Compound Dai deposits today, and is the reason why the total
 supply of cDai greatly exceeds the real supply of Dai.
 
-¹ The upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
+¹ <small>The upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
 maximum utilisation allowed by Compound (e.g. `cf=0.75` for USDC, i.e.
-`s = 4 * s0`).
+`s = 4 * s0`).</small>
 
 In [wind.sol] we extend the rewards adapter described above, specialising
 it to receiving COMP rewards for supplying / borrowing cUSDC, via an
