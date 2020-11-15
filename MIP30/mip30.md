@@ -201,11 +201,11 @@ and borrowed from Compound. Effective COMP farming requires "leverage":
 a cToken is supplied, and the underlying is then borrowed and resupplied
 again. This is repeated to maximise the total amount that a user has
 supplied / borrowed, up to _four times_ the initial amount in the case
-of USDC^.  This repeated supply / borrow method is in use by the majority
+of USDC¹.  This repeated supply / borrow method is in use by the majority
 of large Compound Dai deposits today, and is the reason why the total
 supply of cDai greatly exceeds the real supply of Dai.
 
-^: the upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
+¹ The upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
 maximum utilisation allowed by Compound (e.g. `cf=0.75` for USDC, i.e.
 `s = 4 * s0`).
 
