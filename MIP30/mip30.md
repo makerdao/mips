@@ -256,9 +256,28 @@ Risks include:
 
 #### MIP20c6A: Economic risks
 
-Risks include:
-- Compound liquidity risk
-- Compound solvency risk
+It is fair to say that cUSDC-CROP collateral inherits the risks of USDC,
+and additional includes the following risks, as a minimum:
+
+##### Compound insolvency contagion risk
+If the value of collateral/outstanding borrows in the Compound system
+drops/rises (respectively) too quickly before collateral can be liquidated
+to cover debts, it is possible for the system to become insolvent (similarly
+to how underwater CDPs in MakerDAO can exhaust the surplus buffer and eventually
+lead to insolvency). In that case, users of this adapter may take a loss, and if
+the loss is great enough, cUSDC-CROP CDPs may become underwater too, resulting
+in Compound insolvency spreading to MakerDAO.
+
+##### Compound liquidity risk
+Even if the Compound system is solvent, there is no theoretical guarantee
+that it is possible at any time to withdraw a supplied asset, since the
+reserves of the supplied asset may be tied up in outstanding borrows. In
+that case, it may be impossible to withdraw USDC from the adapter until
+a USDC reserve is accumulated in the contract, either through repaid borrows
+or additional supply. In order to prevent illiquidity events, Compound adjusts
+supply and borrow rates dynamically based on utilisation, incentivising supply
+and repayment with very high interest rates when reserves run low. Historically,
+the Compound platform has been successful at managing liquidity with this technique.
 
 #### MIP20c6B: Governance considerations
 
