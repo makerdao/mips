@@ -72,7 +72,7 @@ demand.
 
 With interest rates near the zero lower bound, governance was left with
 limited options for scaling supply to meet the new demand. Measures that
-have been considerd to address this problem have included:
+have been considered to address this problem have included:
 
 - the addition of fiat stablecoin collateral types, with
   collateralisation ratios close to 100%
@@ -99,9 +99,9 @@ farming yields as an artificial, "exogeneous DSR" which is very high,
 (perceived to be) low risk, and beyond the control of MakerDAO
 governance, which has the expected effect of exerting a strong positive
 influence on dai demand. Another way to view the problem is that a large
-portion of the dai supply is locked away by contracts offering
-depositors an attractive yield for depositing their dai there. Most
-prominently:
+portion of the dai supply is locked away, and taken off the market by
+contracts offering depositors an attractive yield for depositing their dai.
+Most prominently:
 
 - 363MM DAI sitting inside Compound
 - 197MM DAI in the Uniswap ETH/DAI pool (though the liquidity mining
@@ -193,18 +193,18 @@ transfers.
 
 To specialise to a given token, a single method must be overriden to
 implement the claim logic for the given token (e.g. `.getReward()`,
-'.claimComp(...)').
+`.claimComp(...)`).
 
 Existing approaches to this problem were considered (e.g. `SNXRewards` aka
 `UniPool`, and Sushi's `MasterChef`), but were unsuitable due to
 reliance on specified reward rates and Maker contract idiosyncracies. In
 particular, designing a reward contract for Maker requires solving the
 "double reward" problem posed by Maker collateral always being
-transferrable within the system (see the [README] for more information).
+transferrable within the system (see the [`crop` README] for more information).
 
 [crop.sol]: https://github.com/rainbreak/crop/blob/main/src/crop.sol
 [wind.sol]: https://github.com/rainbreak/crop/blob/main/src/wind.sol
-[README]: https://github.com/rainbreak/crop/blob/main/README.md
+[`crop` README]: https://github.com/rainbreak/crop/blob/main/README.md
 
 #### Levered COMP Farming
 
@@ -214,8 +214,8 @@ a cAsset is supplied, and the underlying is then borrowed and resupplied
 again. This is repeated to maximise the total amount that a user has
 supplied / borrowed, up to _four times_ the initial amount in the case
 of USDC^.  This repeated supply / borrow method is in use by the majority
-of Compound Dai deposits today, and is the reason why the total supply
-of cDai greatly exceeds the real supply of Dai.
+of large Compound Dai deposits today, and is the reason why the total
+supply of cDai greatly exceeds the real supply of Dai.
 
 ^: the upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
 maximum utilisation allowed by Compound (e.g. `cf=0.75` for usdc, i.e.
