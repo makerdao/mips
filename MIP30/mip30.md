@@ -294,8 +294,31 @@ the Compound platform has been successful at managing liquidity with this techni
 
 #### MIP20c6B: Governance considerations
 
+In order for the cUSDC-CROP collateral type to stay competitive relative to other
+Defi yield opportunities, while maximising returns for MakerDAO, it may be necessary
+to periodically adjust the stability fee to reflect prevailing market rates and the
+Compound COMP-adjusted yield on USDC.
+
+In the future, the same mechanism can be used to  deploy adapters for leveraging other
+"yield farming" schemes.
+
 #### MIP20c6C: Example parameters
 _n.b. see [predictions.exchange](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'400',%20'300'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D) or [stat.farm](stat.farm) for useful COMP-adjusted yield calculators_
+
+At the time of writing, a "levered" Compound USDC deposit (with LTV of 67.4%) yields
+a COMP-adjust APY of about 14.6%.
+
+We consider some example risk parameters to illustrate the economics: with a liquidation
+ratio of 110%, and stability fee of 10%, a user maintaining a collateral ratio of 111%
+will have levered up around 10x on their net interest of `14.6% - 10.0%`, earning a net
+carry of around 46% APY.
+
+From the perspective of the user, this is well above the USDC yield on most established
+"yield farms". From the perspective of MakerDAO, the stability fee is much higher than that
+of any existing major collateral type, and the high collateralisation ratio of 110% allows
+liquidations to be initially disabled (similarly to the _status quo_ with USDC-A) with
+interest still being effectively collectable for at least one year following the opening of
+a CDP.
 
 ### MIP20c7: Formal verification/audit information
 
