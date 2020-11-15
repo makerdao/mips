@@ -270,7 +270,7 @@ ceiling should be set with this in mind.
 #### MIP20c6A: Economic risks
 
 It is fair to say that cUSDC-CROP collateral inherits the risks of USDC,
-and additional includes the following risks, as a minimum:
+and includes the following additional risks, as a minimum:
 
 ##### Compound insolvency contagion risk
 If the value of collateral/outstanding borrows in the Compound system
