@@ -188,11 +188,11 @@ Existing approaches to this problem were considered (e.g. `SNXRewards` aka
 reliance on specified reward rates and Maker contract idiosyncrasies. In
 particular, designing a reward contract for Maker requires solving the
 "double reward" problem posed by Maker collateral always being
-transferable within the system (see the [`crop` README] for more information).
+transferable within the system (see the [`crop` README][tack] for more information).
 
 [crop.sol]: https://github.com/rainbreak/crop/blob/main/src/crop.sol
 [wind.sol]: https://github.com/rainbreak/crop/blob/main/src/wind.sol
-[`crop` README]: https://github.com/rainbreak/crop/blob/main/README.md#tack
+[tack]: https://github.com/rainbreak/crop/blob/main/README.md#tack
 
 #### Levered COMP Farming
 
@@ -205,9 +205,9 @@ of USDC¹.  This repeated supply / borrow method is in use by the majority
 of large Compound Dai deposits today, and is the reason why the total
 supply of cDai greatly exceeds the real supply of Dai.
 
-¹ <small>The upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
+¹ *The upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
 maximum utilisation allowed by Compound (e.g. `cf=0.75` for USDC, i.e.
-`s = 4 * s0`).</small>
+`s = 4 * s0`).*
 
 In [wind.sol] we extend the rewards adapter described above, specialising
 it to receiving COMP rewards for supplying / borrowing cUSDC, via an
