@@ -91,7 +91,7 @@ against TUSD-A, and 21MM against PAX-A).
 Since July, dai supply has struggled to keep up with the seemingly
 insatiable demand created by yield farming opportunities in Defi. One
 way to think of the effect this has on the dai market is to consider the
-farming yields as an artificial, "exogeneous DSR" which is very high,
+farming yields as an artificial, "exogenous DSR" which is very high,
 (perceived to be) low risk, and beyond the control of MakerDAO
 governance, which has the expected effect of exerting a strong positive
 influence on dai demand. Another way to view the problem is that a large
@@ -116,7 +116,7 @@ requirement, with the 101% collateral ratio acting as an effective
 ceiling on the DAI/USD premium, by arbitrage.
 
 If instead the CDP user could benefit from a farming yield on their
-deposited collateral, then dai borrowing could present an attactive way
+deposited collateral, then dai borrowing could present an attractive way
 to lever up on that yield and generate an attractive carry. For example,
 if a yield farm is currently paying 10% APY on USDC deposits, and a CDP
 can be used to borrow DAI at 5% against those deposits, up to a 110%
@@ -179,16 +179,16 @@ can be used for a variety of income generating tokens, e.g. cTokens,
 UNI-LP, SNXRewards, and will also distribute income from direct token
 transfers.
 
-To specialise to a given token, a single method must be overriden to
+To specialise to a given token, a single method must be overridden to
 implement the claim logic for the given token (e.g. `.getReward()`,
 `.claimComp(...)`).
 
 Existing approaches to this problem were considered (e.g. `SNXRewards` aka
 `UniPool`, and Sushi's `MasterChef`), but were unsuitable due to
-reliance on specified reward rates and Maker contract idiosyncracies. In
+reliance on specified reward rates and Maker contract idiosyncrasies. In
 particular, designing a reward contract for Maker requires solving the
 "double reward" problem posed by Maker collateral always being
-transferrable within the system (see the [`crop` README] for more information).
+transferable within the system (see the [`crop` README] for more information).
 
 [crop.sol]: https://github.com/rainbreak/crop/blob/main/src/crop.sol
 [wind.sol]: https://github.com/rainbreak/crop/blob/main/src/wind.sol
@@ -206,7 +206,7 @@ of large Compound Dai deposits today, and is the reason why the total
 supply of cDai greatly exceeds the real supply of Dai.
 
 ^: the upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
-maximum utilisation allowed by Compound (e.g. `cf=0.75` for usdc, i.e.
+maximum utilisation allowed by Compound (e.g. `cf=0.75` for USDC, i.e.
 `s = 4 * s0`).
 
 In [wind.sol] we extend the rewards adapter described above, specialising
