@@ -78,7 +78,7 @@ have been considered to address this problem have included:
 
 
 [PSM]:    https://forum.makerdao.com/t/peg-stabilization-modules-a-pre-mip-discussion/3045
-[TPAM]:   https://forum.makerdao.com/t/mip30-target-price-adjustment-module-vox/3196
+[TPAM]:   https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196
 [MIP 21]: https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917
 [MIP 22]: https://forum.makerdao.com/t/mip22-centrifuge-direct-liquidation-module/3930
 
