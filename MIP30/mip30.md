@@ -45,7 +45,7 @@ on behalf of depositors.
 
 **MIP30c3: Security considerations:** comments on the security implications of using `CropJoin`
 
-**MIP30c4: Other considerations:**
+**MIP30c4: Economic / Governance considerations:**
 
 **MIP30c5: Formal verification/audit information:** comments on the amenability of the proposed code to formal verification, even though formal specification, audit, or code review have yet to be conducted.
 
@@ -253,7 +253,7 @@ Due to the design of multi-collateral DAI, worst-case losses should
 be limited to the collateral deposited in the adapter, and the debt
 ceiling should be set with this in mind.
 
-### MIP30c4: Other considerations
+### MIP30c4: Economic / Governance considerations
 
 #### MIP30c4A: Economic risks
 
