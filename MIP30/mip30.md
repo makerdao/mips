@@ -175,7 +175,7 @@ the Compound leverage optimisation.
 
 In `CropJoin` we implement a general purpose farming rewards adapter,
 that distributes income from a given token proportionally. This adapter
-can be used for a variety of income generating tokens, e.g. cAssets,
+can be used for a variety of income generating tokens, e.g. cTokens,
 UNI-LP, SNXRewards, and will also distribute income from direct token
 transfers.
 
@@ -198,7 +198,7 @@ transferrable within the system (see the [`crop` README] for more information).
 
 COMP rewards are determined by the total assets that a user has supplied
 and borrowed from Compound. Effective COMP farming requires "leverage":
-a cAsset is supplied, and the underlying is then borrowed and resupplied
+a cToken is supplied, and the underlying is then borrowed and resupplied
 again. This is repeated to maximise the total amount that a user has
 supplied / borrowed, up to _four times_ the initial amount in the case
 of USDC^.  This repeated supply / borrow method is in use by the majority
