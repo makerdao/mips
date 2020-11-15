@@ -27,14 +27,15 @@ COMP yield through "tactical resupply".
 
 ## Paragraph summary
 
-TODO: FLESH OUT HERE.
 
 COMP farming offers an attractive yield on USDC with very little risk,
 and the ability to receive additional leverage from a CDP is likely to
 present an attractive opportunity for a yield-seeking investor, so this
 collateral type could be expected to produce very high dai issuance,
 while generating significantly higher fees for MakerDAO than what is
-currently collected on MakerDAO's significant stablecoin exposure.
+currently collected on MakerDAO's significant stablecoin exposure. We
+propose a new USDC based collateral adapter that performs COMP farming
+on behalf of depositors.
 
 ## Component summary
 
@@ -182,21 +183,67 @@ risk, reward, and effectiveness perspective.
 See [crop.sol] for the core adapter implementation, and [wind.sol] for
 the Compound leverage optimisation.
 
-TODO: Describe...
+#### Rewards distribution
+
+In `CropJoin` we implement a general purpose farming rewards adapter,
+that distributes income from a given token proportionally. This adapter
+can be used for a variety of income generating tokens, e.g. cAssets,
+UNI-LP, SNXRewards, and will also distribute income from direct token
+transfers.
+
+To specialise to a given token, a single method must be overriden to
+implement the claim logic for the given token (e.g. `.getReward()`,
+'.claimComp(...)').
+
+Existing approaches to this problem were considered (e.g. `SNXRewards` aka
+`UniPool`, and Sushi's `MasterChef`), but were unsuitable due to
+reliance on specified reward rates and Maker contract idiosyncracies. In
+particular, designing a reward contract for Maker requires solving the
+"double reward" problem posed by Maker collateral always being
+transferrable within the system (see the [README] for more information).
 
 [crop.sol]: https://github.com/rainbreak/crop/blob/main/src/crop.sol
 [wind.sol]: https://github.com/rainbreak/crop/blob/main/src/wind.sol
+[README]: https://github.com/rainbreak/crop/blob/main/README.md
+
+#### Levered COMP Farming
+
+COMP rewards are determined by the total assets that a user has supplied
+and borrowed from Compound. Effective COMP farming requires "leverage":
+a cAsset is supplied, and the underlying is then borrowed and resupplied
+again. This is repeated to maximise the total amount that a user has
+supplied / borrowed, up to _four times_ the initial amount in the case
+of USDC^.  This repeated supply / borrow method is in use by the majority
+of Compound Dai deposits today, and is the reason why the total supply
+of cDai greatly exceeds the real supply of Dai.
+
+^: the upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the
+maximum utilisation allowed by Compound (e.g. `cf=0.75` for usdc, i.e.
+`s = 4 * s0`).
+
+In [wind.sol] we extend the rewards adapter described above, specialising
+it to receiving COMP rewards for supplying / borrowing cUSDC, via an
+iterative method with optional user-provided loans. There are two
+methods:
+
+- `wind` supplies adapter USDC to Compound and maximises leverage up to
+  a given target.
+- `unwind` reduces leverage when over the target, and allows for USDC to
+  be redeemed from Compound prior to user `exit`.
+
 
 ### MIP20c4: Test cases
 
-See [crop.t.sol]
+Tests can be found in [crop.t.sol]. The basic rewards adapter is covered
+for a mock token reward and this base is extended to test against mock
+and real Compound behaviour (via RPC). The effect of flash loans on gas
+costs and collateral reachability is explored, and a number of more
+complex scenarios are tested against on-chain Compound, e.g. interest
+accumulation, liquidation, and arbitrary seizure. The mathematical
+behaviour of Compound is considered in depth in the documentation and
+tests.
 
 [crop.t.sol]: https://github.com/rainbreak/crop/blob/main/src/test/crop.t.sol
-
-- `test_reward`
-...
-
-TODO: expand
 
 ### MIP20c5: Security considerations
 
@@ -223,7 +270,13 @@ _n.b. see [predictions.exchange](https://www.predictions.exchange/compound/%5B%5
 The proposed contract is written in a way which is amenable to formal
 specification and verification, in accordance with the style and
 practices of the core multi-collateral DAI contracts, though it has not
-been formally specified. No audit or code review has taken place yet.
+been formally specified. Full formal specification would be a challenge
+due to the dependence on Compound supply / borrow / reward logic, which
+is non-trivial compared to a simple token transfer as it would require
+modelling of much of Compound.
+
+No audit or code review has taken place yet.
+
 
 ### MIP20c8: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
