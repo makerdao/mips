@@ -45,7 +45,7 @@ on behalf of depositors.
 
 **MIP30c3: Security considerations:** comments on the security implications of using `CropJoin`
 
-**MIP30c4: Economic / Governance considerations:**
+**MIP30c4: Economic / Governance considerations:** discusses insolvency and liquidity risks, governance and example parameters
 
 **MIP30c5: Formal verification/audit information:** comments on the amenability of the proposed code to formal verification, even though formal specification, audit, or code review have yet to be conducted.
 
