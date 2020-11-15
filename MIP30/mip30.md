@@ -247,10 +247,23 @@ tests.
 
 ### MIP20c5: Security considerations
 
-Risks include:
+Security risks of cUSDC-CROP include:
 
-- Compound technical risk
-- `CropJoin` implementation technical risk
+##### Compound technical risk
+
+Errors or security vulnerabilities in the Compound system could cause
+the cUSDC-CROP adapter to behave unexpectedly, or could result in the
+underlying USDC deposits to be lost or stolen.
+
+##### `CropJoin` implementation technical risk
+
+In addition to the technical risk inherent to Compound, the adapter
+implementation itself is non-trivial and could increase the attack/error
+surface.
+
+Due to the design of multi-collateral DAI, worst-case losses should
+be limited to the collateral deposited in the adapter, and the debt
+ceiling should be set with this in mind.
 
 ### MIP20c6: Other considerations
 
