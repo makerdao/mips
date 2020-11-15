@@ -291,10 +291,9 @@ In the future, the same mechanism can be used to  deploy adapters for leveraging
 "yield farming" schemes.
 
 #### MIP30c4C: Example parameters
-_n.b. see [predictions.exchange](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'400',%20'300'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D) or [stat.farm](stat.farm) for useful COMP-adjusted yield calculators_
+_n.b. see [predictions.exchange](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'400',%20'300'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D) or [stat.farm](https://stat.farm) for useful COMP-adjusted yield calculators_
 
-At the time of writing, a "levered" Compound USDC deposit (with LTV of 67.4%) yields
-a COMP-adjust APY of about 14.6%.
+[At the time of writing, a "levered" Compound USDC deposit (with LTV of 67.4%) yielded a COMP-adjust APY of about 14.6%.](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'307',%20'207'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D)
 
 We consider some example risk parameters to illustrate the economics: with a liquidation
 ratio of 110%, and stability fee of 10%, a user maintaining a collateral ratio of 111%
