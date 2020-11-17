@@ -42,5 +42,5 @@ Declaration to Replace: n/a
 
 
 ### Relevant Links
-[MakerDAO Protocol Cover Using Nexus Mutual]{https://forum.makerdao.com/t/makerdao-protocol-cover-using-nexus-mutual/4761}
-[Presentation to Governance and Risk Meeting]{https://www.youtube.com/watch?v=0v3E_kpLxFg&feature=youtu.be&t=3066}
+[MakerDAO Protocol Cover Using Nexus Mutual](https://forum.makerdao.com/t/makerdao-protocol-cover-using-nexus-mutual/4761)
+[Presentation to Governance and Risk Meeting](https://www.youtube.com/watch?v=0v3E_kpLxFg&feature=youtu.be&t=3066)
