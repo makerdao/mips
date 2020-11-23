@@ -5,7 +5,7 @@
 MIP13c3-SP#: 6
 Author(s): @LongForWisdom
 Contributors:
-Status: RFC
+Status: Formal Submission (FS)
 Date Proposed: 2020-10-05
 Date Ratified: <yyyy-mm-dd>
 ---
@@ -16,9 +16,9 @@ Declaration to Replace: n/a
 
 ### Context and Motivation
 
-The SourceCred algorithm has been in a trial phase on the Maker forums for the past few months and has been generally seen as successful by its participants and the trial working group. 
+The SourceCred algorithm has been in a trial phase on the Maker forums for the past few months and has been generally seen as successful by its participants and the trial working group. Recently, the working group posted the 3-month trial [report](https://forum.makerdao.com/t/sourcecred-trial-final-report/4569) which showed that most believed that SourceCred has been a net benefit to Maker Governance.
 
-The big next step for the use of SourceCred within Maker is to set it up such that it can be funded directly by the protocol, this promotes decentralization and separation from the Maker Foundation.
+The big next step for the use of SourceCred within Maker for it to be funded directly by the protocol, this promotes decentralization and separation from the Maker Foundation.
 
 In my view, it is beneficial for MKR Token Holders to fund SourceCred on an ongoing basis for the following reasons:
 - It incentivizes involvement in governance. The more humans you have paying attention to governance, the more chance that current issues will be discussed and understood thoroughly. 
@@ -58,5 +58,6 @@ Note that both parts of the technical solution should be presented in the same t
 - [SourceCred Trial: Review of Month 1](https://forum.makerdao.com/t/sourcecred-trial-review-of-month-1-payout-increase/2999)  
 - [SourceCred Pilot Extension](https://forum.makerdao.com/t/sourcecred-pilot-extension/3892)  
 - [Opting in to SourceCred](https://forum.makerdao.com/t/opting-in-to-sourcecred-wth-is-sourcecred/3913)  
+- [SourceCred final report](https://forum.makerdao.com/t/sourcecred-trial-final-report/4569)
 
 
