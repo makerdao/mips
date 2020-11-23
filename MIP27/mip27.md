@@ -92,4 +92,3 @@ The onboarding of collateral types into the DC-IAM will require independent exec
 
 ### MIP27c8 Licensing
 [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
-
