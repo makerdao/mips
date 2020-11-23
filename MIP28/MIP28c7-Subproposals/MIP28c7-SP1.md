@@ -5,7 +5,7 @@
 MIP28c7-SP#: 1
 Author(s): @AmyJung
 Contributors: 
-Status: Request For Comments (RFC)
+Status: Formal Submission (FS)
 Date Proposed: 2020-10-07
 Date Ratified: <yyyy-mm-dd>
 ---
