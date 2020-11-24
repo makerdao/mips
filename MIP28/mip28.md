@@ -7,7 +7,7 @@ Title: Operational Support (OS) Domain Definition
 Author(s): @AmyJung
 Contributors: n/a
 Type: General
-Status: Request For Comments (RFC)
+Status: Formal Submission (FS)
 Date Proposed: 2020-10-07
 Date Ratified: n/a
 Dependencies: n/a
