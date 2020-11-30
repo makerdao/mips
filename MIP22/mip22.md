@@ -285,7 +285,7 @@ The redeem order will now be taken into account whenever loan repayments flow in
 ```
 
 
-To ensure that the `Cat` always `bites` the entire vault, the `dunk` of the collateral type should be set to MAX_UINT. This raises the minimum size of the collateral to auction off during the liquidation to above the maximum collateral that can ever exist thus forcing liquidation of the entire Vault and not just part of it.
+To ensure that the `Cat` always `bites` the entire vault, the `dunk` of the collateral type should be set to a multiple of the debt ceiling but safely below MAX_UINT (to prevent it from overflowing). This raises the minimum size of the collateral to auction off during the liquidation to above the maximum collateral that can ever exist thus forcing liquidation of the entire Vault and not just part of it.
 
 ---
 
