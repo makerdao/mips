@@ -1,9 +1,9 @@
-# MIP7c3-SP5: Domain Team Onboarding (Smart Contracts Domain Team)
+# MIP7c3-SP6: Domain Team Onboarding (Smart Contracts Domain Team)
 
 ## Preamble
 
 ```
-MIP7c3-SP#: 5
+MIP7c3-SP#: 6
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Status: Request for Comments (RFC)
