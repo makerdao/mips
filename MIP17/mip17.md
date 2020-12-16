@@ -7,7 +7,7 @@ Title: Weekly Actual Debt Ceiling Adjustments
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL), Planet_X (@Planet_X)
 Contributors:
 Type: Process
-Status: Request for Comments (RFC)
+Status: Obsolete 
 Date Proposed: 2020-09-22
 Date Ratified:
 Dependencies:
