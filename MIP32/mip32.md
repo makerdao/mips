@@ -59,7 +59,7 @@ The leverage is also motivated by a better outcome and a better diversification.
 PSM Mixed Exposure is articulated around 3 components :
 - The PSM (entry point)
 - The Join (urn)
-- The delegator (token manipulation)
+- The excess delegator (excess token conversion)
 
 ### MIP32a : The Psm
 
@@ -87,50 +87,58 @@ Take the dai and convert it to usdc via the `lending join` (Dai/Usdc).
 return the Usdc.
 
 `harvest` calls `harvest()` from both join (cDai and cUsdc).
-It is triggered automatically at any sell or buy and can be processed manually by anyone too.
+It can be processed by anyone.
+
+**extra specification:**  
+The same level of debt is maintain for both position ( the leverage urn and the gem urn).
 
 ![dss-psm-cme](dss-psm-cme.png?raw=true)
 
 ### MIP32b : The Lending Join 
 
-It is a classic maker join with the conversion from and to the lender.
-There is an additional method `harvest()` accessible by an allowlist - the PSM -.
-The collateral is register and allow borrowing on it, but the PSM lends it to compound.
+It is a classic maker join with on top the conversion from and to the lender.
+There is an additional method `harvest()` behind an allowlist - the PSM -.
+The collateral is register and allow borrowing on it exactly like a normal collateral, but the `lending join` lends it to compound.
 
 The join is an `auth-join` type accessible only by the PSM.
 
 the extra method 'harvest()' have 3 actions :
-- move the excess token to the delegator
+- move the excess token to the delegator.
 - move the bonus token to the delegator.
 - call the delegator.
 
 the join has one parameter the delegator. `excessDelegator`.
 
+**extra specification:**  
+to calculate the excess, we look at all authorized and de-authorized user to the join
+and we sum the ink and the gem to calculate the amount own by the join.  
+Then we subtract this amount from the lendler underlying collateral.
+
+
 ![lending-join](lending-join.png?raw=true)
 
 
-### MIP32c : The Delegator
+### MIP32c : The Burn Delegator
 
-The delegator has one method only accessible by an allowlist. - the join -
-this method does 3 actions:
-- convert the usdc to dai via the classic psm and send them to vow
-- convert token bonus to dai via uniswap and send them to vow  
-- send dai to vow.
+The Delegator is replaceable, its main purpose is to manage the token conversion and what we do with it.
 
-there is 5 parameters :
+This delegator has 4 methods:
+- `call` callback for the join.
+
+- `processUsdc` convert the usdc to dai via the psm.
+- `processComp` convert token bonus to dai via uniswap.  
+- `processDai`  convert dai to MKR via uniswap and burn the MKR.
+
+there is 6 parameters :
 - `psm` : psm address - can be changed
 - `route` : uniswap route address - can be changed
 
-- `psm_circuit_breaker` : to by pass the psm sell.
-
-- `auction_duration`: min time is sec between 2 uniswap swap
-- `max_sell_amount` : max amount by swap.
-
+- `bonus_auction_duration`: min time is sec between 2 uniswap swap
+- `max_bonus_auction_amount` : max comp amount by swap.
+- `dai_auction_duration`: min time is sec between 2 uniswap swap
+- `max_dai_auction_amount` : max dai amount by swap.
 
 ### Globaly
-
-We will also introduce on the PSM module - sell and buy - an auto circuit_break on odd block_number to allow the PSM to be 
-half operational to mitigate any breaking transaction from either the classic psm or uniswap via the return.
 
 
 ![dss-psm-cme](dss-psm-cme-global.png?raw=true)
@@ -146,7 +154,7 @@ Unit tested :
 
  [DssPsmCme.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/DssPsmCme.t.sol)
 
- [SellDelegator.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/SellDelegator.t.sol)
+ [BurnDelegator.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/BurnDelegator.t.sol)
 
  [join-lending-auth.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/join-lending-auth.t.sol)
 
