@@ -28,14 +28,14 @@ DOT
     |    Kraken    |    DOT/USD    |       |             |              |
     |    Huobi     |    DOT/USDT   |       |             |              |
     |    Bitfinex  |    DOT/USD    |       |             |              |
-    |    OKEX      |    DOT/USDT   |       |             |              |
-    |    Uniswap   |    BAL/ETH    |       |             |              |
+    |    OKEX      |    DOT/BTC    |       |             |              |
+    |    Kucoin    |    DOT/USDT   |       |             |              |
 
 SNX
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
-    |    Binance   |    SNX/USDT   |   13  |   Median    |   Median     |
+    |    Binance   |    SNX/BTC    |   13  |   Median    |   Median     |
     |    Uniswap   |    SNX/ETH    |       |             |              |
     |    SushiSwap |    SNX/ETH    |       |             |              | *
     |    Huobi     |    SNX/USDT   |       |             |              |
@@ -92,7 +92,7 @@ XRP
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
     |    Binance   |    XRP/USDT   |   13  |   Median    |   Median     |
-    |    Coinbase  |    XRP/USD    |       |             |              |
+    |    OkEx      |    XRP/USDT   |       |             |              |
     |    Bitfinex  |    XRP/USD    |       |             |              |
     |    Huobi     |    XRP/USDT   |       |             |              |
     |    Kraken    |    XRP/USD    |       |             |              |
