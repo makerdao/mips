@@ -59,5 +59,3 @@ Note that both parts of the technical solution should be presented in the same t
 - [SourceCred Pilot Extension](https://forum.makerdao.com/t/sourcecred-pilot-extension/3892)  
 - [Opting in to SourceCred](https://forum.makerdao.com/t/opting-in-to-sourcecred-wth-is-sourcecred/3913)  
 - [SourceCred final report](https://forum.makerdao.com/t/sourcecred-trial-final-report/4569)
-
-
