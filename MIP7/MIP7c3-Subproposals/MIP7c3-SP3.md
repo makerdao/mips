@@ -6,7 +6,7 @@
 MIP7c3-SP#: 3
 Author(s): Primož Kordež (@doopson)
 Contributors:
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Applied: 2020-09-08
 Date Ratified: <yyyy-mm-dd>
 ---

@@ -6,7 +6,7 @@ MIP7c3-SP#: 4
 Author(s): Wil Barnes (@wilbarnes), Lucas Manuel (@lucas-manuel), 
   Brian McMichael (@BrianMcMakerDAO), Christopher Mooney (@cmooney)
 Contributors: n/a
-Status: Formal submission
+Status: Accepted
 Date Applied: 2020-08-09
 Date Ratified: <yyyy-mm-dd>
 ---
