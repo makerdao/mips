@@ -1,4 +1,4 @@
-# MIP10c9-SP15: Subproposal to whitelist Gnosis Maker Adapter contract for LINK/USD Oracle Access
+# MIP10c9-SP17: Subproposal to whitelist Gnosis Maker Adapter contract for LINK/USD Oracle Access
 
 ## Preamble
 

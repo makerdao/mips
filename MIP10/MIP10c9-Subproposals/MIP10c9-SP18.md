@@ -1,4 +1,4 @@
-# MIP10c9-SP15: Subproposal to whitelist Gnosis Maker Adapter contract for ZRX/USD Oracle Access
+# MIP10c9-SP18: Subproposal to whitelist Gnosis Maker Adapter contract for ZRX/USD Oracle Access
 
 ## Preamble
 

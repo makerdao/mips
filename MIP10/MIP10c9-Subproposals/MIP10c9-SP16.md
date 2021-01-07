@@ -1,4 +1,4 @@
-# MIP10c9-SP15: Subproposal to whitelist Gnosis Maker Adapter contract for BTC/USD Oracle Access
+# MIP10c9-SP16: Subproposal to whitelist Gnosis Maker Adapter contract for BTC/USD Oracle Access
 
 ## Preamble
 
