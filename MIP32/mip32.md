@@ -109,10 +109,10 @@ The extra method 'harvest()' have 3 actions :
 - move the bonus token to the delegator.
 - call the delegator.
 
-The join has one parameter the delegator. `excessDelegator`.
+The join has one parameter the delegator. `excess_delegator`.
 
 **Additional specification:**  
-In order to calculate the excess, we look at all authorized and de-authorized user to the join and we sum the ink and the gem to calculate the amount own by the join. Then we subtract this amount from the lendler underlying collateral.
+In order to calculate the excess, we add a total variable which represent the amount own by the join. Then we subtract this amount from the lendler underlying collateral.
 
 ![image](https://user-images.githubusercontent.com/32653033/103847811-01fecd80-506f-11eb-8b9f-771c1db62912.png)
 
@@ -122,7 +122,7 @@ In order to calculate the excess, we look at all authorized and de-authorized us
 The Delegator is replaceable, its main purpose is to manage the token conversion and what we do with it.
 
 This delegator has 4 methods:
-- `call` callback for the join.
+- `call` call for the join.
 - `processUsdc` convert the usdc to dai via the psm.
 - `processComp` convert token bonus to dai via uniswap.  
 - `processDai`  convert dai to MKR via uniswap and burn the MKR.
@@ -139,6 +139,13 @@ There are 6 parameters :
 ### MIP32c4: Proposed code
 
 The code : [dds-psm-cme](https://github.com/alexisgayte/dss-psm-cme/)
+
+- [DssPsmCme.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/DssPsmCme.sol)
+- [BurnDelegator.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/BurnDelegator.sol)
+- [join-lending-auth.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/join-lending-auth.sol)
+
+- [spell-DssPsmCme](https://github.com/alexisgayte/dss-psm-cme/blob/main/src/spell/DssPsmCompMixExposureLenderJoinSpell.sol)
+
 
 ### MIP32c5: Test cases
 Unit tests:
