@@ -24,6 +24,27 @@ This MIP introduces the Maker Stability Price Module which permits the governanc
 
 Governance will vote a buying price and a selling price. Then the governance will send dai inside the contract, when an opportunity will happen market maker will use this contract to hedge the market using the dai pre-allocated.
 
+### Overview Logic
+
+![global logic](global-logic.png?raw=true)
+
+## Component Summary
+
+**MIP33c1: Parameter Definitions**
+
+**MIP33c2: Maker Stability Price Module**
+
+**MIP33c3: Function**
+
+**MIP33c4: Proposed Code**
+
+**MIP33c5: Test Cases**
+
+**MIP33c6: Spell**
+
+**MIP33c7: Security Considerations**   
+
+**MIP33c8: Licensing**  
 
 ## Motivation
 
@@ -39,7 +60,7 @@ The reserve can be top it up at any time and should be seen as a buffer or a goo
 
 The following variables define the parameters that can be set by Governance through an executive vote.
 
-### MIP33a1 Parameter Definitions
+### MIP33c1: Parameter Definitions
 * `price` - MKR Price
 * `tin` - Percentage toll in of the MKR Price (can be 0%, but can be increased in case we can't defend the support, or change the management at price - tin).
 * `tout` - Percentage toll out of the MKR Price and therefore the high price (if it is set to 100% that double the price).
@@ -47,7 +68,7 @@ The following variables define the parameters that can be set by Governance thro
 * `burn` - burn : true allow assert burning other case we don't burn.
 
 
-### MIP33a2 Maker Stability Price Module
+### MIP33c2: Maker Stability Price Module
 * The Dai and the MKR inside the module can't be withdraw. - it is a sort of insurance, to give more trust.
 * Anyone can sell MKR for (price - price*tin) Dai. MKR is taken from the seller and Dai is return in exchange if there is enough DAI.
 * if there is not enough DAI the transaction fails.
@@ -57,33 +78,29 @@ The following variables define the parameters that can be set by Governance thro
 * If `burn` is true and the reserve is reached we burn the excess to keep the MKR amount at 90 % of the full reserve, leaving 10% buffer for future transaction before we burn again. 
 * If `burn` is false we don't burn and stock pill MKR.
 
-### MIP33a3 Function
+### MIP33c3: Function
 there are 3 fonctions based on PSM interface:
 - `file() ` : to allow governance to change parameters
 - `sellGem(address usr, uint256 gemAmt)` : to sell the MKR
 - `buyGem(address usr, uint256 gemAmt)` : to buy the MKR
 
-### MIP33b1 Overall Logic
-
-![global logic](global-logic.png?raw=true)
-
-## Proposed Code
+### MIP33c4: Proposed Code
 
 [dss-msm](https://github.com/alexisgayte/dss-msm/blob/main/src/DssMsm.sol)
 
-## Test Cases
+### MIP33c5: Test Cases
 
 [dss-msm test](https://github.com/alexisgayte/dss-msm/blob/main/src/DssMsm.t.sol)
 
-## Spell
+### MIP33c6: Spell
 [MCD_MSM_MKR](https://github.com/alexisgayte/dss-msm/blob/main/src/spell/Spell.sol)
 
-## Security Considerations
+### MIP33c7: Security Considerations
 
 Low level of contract risk, as it is not connected to the system and there is no interaction with outside contract.
 
 Exiting from this position can be processed by increasing the price to the market price and decreasing the reserve to 0. 
 
 
-### Licensing
+### MIP33c8: Licensing
 [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
