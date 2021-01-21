@@ -7,9 +7,9 @@ Title: Flash Mint Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: Chris Mooney (@godsflaw), Brian McMichael (@brianmcmichael), Gonzalo Balabasquer (@gbalabasquer)
 Type: Technical
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-09-25
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-11-24
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
