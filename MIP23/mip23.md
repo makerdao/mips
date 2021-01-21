@@ -15,9 +15,9 @@ Replaces: n/a
 ```
 
 ## References
-**[MIP23c4-Domain-Definition-Template](MIP23c4-Domain-Definition-Template.md)**  
-**[MIP23c4-Domain-Offboarding-Template](MIP23c4-Domain-Offboarding-Template.md)**  
-**[MIP23c4-Domain-Onboarding-Template](MIP23c4-Domain-Onboarding-Template.md)**  
+**[MIP23c4-Domain-Definition-Template](MIP23c4-Domain-Definition-Template.md)**
+**[MIP23c4-Domain-Offboarding-Template](MIP23c4-Domain-Offboarding-Template.md)**
+**[MIP23c4-Domain-Onboarding-Template](MIP23c4-Domain-Onboarding-Template.md)**
 
 ## Sentence Summary
 
@@ -29,24 +29,24 @@ MIP23 provides a flexible and consistent structural framework for personnel work
 
 ## Component Summary
 
-**MIP23c1: Domain Structure**  
-Describes a consistent structure that can be used for any domain. 
+**MIP23c1: Domain Structure**
+Describes a consistent structure that can be used for any domain.
 
-**MIP23c2: Domain Facilitators**  
+**MIP23c2: Domain Facilitators**
 Defines the domain facilitator role in general terms.
 
-**MIP23c3: Domain Contributors**  
+**MIP23c3: Domain Contributors**
 Defines the domain contributor role in general terms.
 
-**MIP23c4: Domain Definition MIPs**  
+**MIP23c4: Domain Definition MIPs**
 Suggests a template structure to be used to define specific instances of domain teams.
 
-**MIP23c5: Domain Structure Transitioning**  
+**MIP23c5: Domain Structure Transitioning**
 Describes how MakerDAO will transition from the current domain team model to the new hierarchical domain structure.
 
 ## Motivation
 
-While MIP7 provided an initial starting point, it did not attempt to define how domain teams should be structured. 
+While MIP7 provided an initial starting point, it did not attempt to define how domain teams should be structured.
 
 In theory, the open and permissive structure of having multiple teams within a domain that work independently has the advantage of decentralization and scalability. However in practice MakerDAO is not yet at the point where there are a sufficient number of qualified and willing personnel to support multiple teams. In fact, the open team structure may be inhibiting the growth and sharing of domain expertise due to the barrier for entry.
 
@@ -70,16 +70,16 @@ The second role is known as the Domain Contributors. This position is a working 
 
 ### MIP23c2: Domain Facilitators
 
-The Domain Facilitators take responsibility for the success of MakerDAO as it relates to their domain. They will complete domain work themselves, or outsource to their Domain Contributors in order to fulfil their reponsibilities. Additionally, they will agressively transfer knowledge and attempt to grow the pool of personnel that can effectively work within their domain.
+The Domain Facilitators take responsibility for the success of MakerDAO as it relates to their domain. They will complete domain work themselves, or outsource to their Domain Contributors in order to fulfil their responsibilities. Additionally, they will aggressively transfer knowledge and attempt to grow the pool of personnel that can effectively work within their domain.
 
-Each domain will have its own specific requirements and responsibilites, but it is suggested that domain facilitors keep the following principles in mind at all times:
+Each domain will have its own specific requirements and responsibilities, but it is suggested that domain facilitators keep the following principles in mind at all times:
 * Transparency - Be clear and upfront with the activities within the domain. Make every effort to inform Maker Governance of current work, issues, and concerns.
 * Effectiveness - Aim to complete work and resolve problems within the domain to the best of their abilities.
 * Present and Future Focus - Solve the problems of the present while being aware of the future impact of their actions.
 
 It is recommended that Maker Governance aim to recruit and maintain three domain facilitators for each defined domain in the near-medium term. Three facilitators provides redundancy while allowing for knowledge transfer and on the job training within the role. Longer term, it is likely that this domain structure will change, or that a greater number of Domain Facilitators will be required.
 
-At least one Domain Facilitator is required to explicitly and publicly approve any domain work that has been produced by a Domain Contributor before it can be used by Maker Governance. Any Domain Facilitator is able to explicitly and publicly veto the use of any unit domain work that has been produced by a Domain Contributor, this veto power takes precedence over the approval power. It must be expicitly and publicly communicated to Maker Governance which Domain Contributor(s) is responsible for any given unit of domain work.
+At least one Domain Facilitator is required to explicitly and publicly approve any domain work that has been produced by a Domain Contributor before it can be used by Maker Governance. Any Domain Facilitator is able to explicitly and publicly veto the use of any unit domain work that has been produced by a Domain Contributor, this veto power takes precedence over the approval power. It must be explicitly and publicly communicated to Maker Governance which Domain Contributor(s) is responsible for any given unit of domain work.
 
 The Domain Facilitator role within any domain is an elected role. Personnel must be ratified via a subproposal to be defined in each individual domain definition MIP (see MIP23c4.) A list of Domain Facilitators will be maintained within the domain definition MIP for that domain by the Domain Facilitators.
 
@@ -88,11 +88,11 @@ Each domain facilitator must provide a hardware-wallet secured ethereum public a
 ---
 ### MIP23c3: Domain Contributors
 
-The Domain Contributors within a domain perform work on tasks within their given domain. These tasks can either be directly assigned by Domain Facilitators, or can be performed on a contributors own initiative. 
+The Domain Contributors within a domain perform work on tasks within their given domain. These tasks can either be directly assigned by Domain Facilitators, or can be performed on a contributors own initiative.
 
-Each domain will have its own specific requirements and responsibilites, but it is suggested that Domain Contributors keep the following principles in mind at all times:
+Each domain will have its own specific requirements and responsibilities, but it is suggested that Domain Contributors keep the following principles in mind at all times:
 * Communication - Be clear and upfront with the work you are doing within the domain. Make every effort to inform the Domain Facilitators of the status of your current work, as well as any issues or concerns.
-* Effectiveness - Aim to complete work assigned as agreed with the Domain Facilitators to a high level of quality. 
+* Effectiveness - Aim to complete work assigned as agreed with the Domain Facilitators to a high level of quality.
 
 It is recommended that the Domain Facilitators attempt to cultivate and recruit as many Domain Contributors as possible within their domain. Redundancy is critical, and it is expected that Domain Contributors serve as the main source of potential candidates for Domain Facilitators.
 
@@ -106,7 +106,7 @@ It is proposed that each domain operating under the Maker Protocol is defined wi
 * Domain Overview - A description of the domain itself.
 * Domain Facilitator Role and Responsibilities - A list of the responsibilities taken on by the Domain Facilitators.
 * Domain Facilitator Candidate Criteria - A list of the qualities and qualifications suggested for the Domain Facilitators.
-* Domain Facilitator Removal Criteria - A list of the criteria under which a Domain Facilitator should be removed. 
+* Domain Facilitator Removal Criteria - A list of the criteria under which a Domain Facilitator should be removed.
 * Domain Facilitator List - A list of Domain Facilitators within this Domain.
 * Domain Contributors List - A list of Domain Contributors within this Domain.
 * Facilitator Onboarding Component - A process component that allows for the onboarding of a Domain Facilitator within this domain.
