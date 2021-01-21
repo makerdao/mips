@@ -10,7 +10,7 @@ Contributors:
 Type: General
 Status: Accepted
 Date Proposed: 2020-09-07
-Date Ratified: 2020-11-22
+Date Ratified: 2020-11-24
 Dependencies:
 Replaces: MIP 5
 ```
