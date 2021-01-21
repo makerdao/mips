@@ -14,13 +14,14 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Introduction
 
-These Oracles would provide the several price of several cryptoassets for the use of dYdX on Starkware. 
+This sub-proposal is for the creation of 17 Oracles on Starkware, with dYdX as the customer. Ten of these seventeen Oracles require the creation of new data models. The remaining seven were already defined for use on Ethereum, and for them we apply the same data models.   
 
-dYdX does not require an oracle on Ethereum, and as such no medianizer and OSM smart contracts will be deployed on Ethereum.
+dYdX does not require an oracle on Ethereum, and as such no medianizer and OSM smart contracts will be deployed on Ethereum as part of this subproposal.
+
 
 ### Oracle Data Model 
 
-DOT
+1. DOTUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -31,7 +32,7 @@ DOT
     |    OKEX      |    DOT/BTC    |       |             |              |
     |    Kucoin    |    DOT/USDT   |       |             |              |
 
-SNX
+2. SNXUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -42,7 +43,7 @@ SNX
     |    OKEX      |    SNX/USDT   |       |             |              |
     |    Coinbase  |    SNX/USD    |       |             |              |
 
-FIL
+3. FILUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -53,8 +54,7 @@ FIL
     |    Kraken    |    FIL/USD    |       |             |              |
     |    OKEx      |    FIL/USDT   |       |             |              |
 
-
-ZEC
+4. ZECUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -65,7 +65,7 @@ ZEC
     |    OKEx      |    ZEC/USDT   |       |             |              |
     |    Gemini    |    ZEC/USD    |       |             |              |
 
-CRV 
+5. CRVUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -76,7 +76,7 @@ CRV
     |    Gemini    |    CRV/USD    |       |             |              |
     |    Sushiswap |    CRV/ETH    |       |             |              |
 
-WNXM
+6. WNXMUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -86,8 +86,7 @@ WNXM
     |    Huobi     |    WNXM/USDT  |       |             |              |
     |    Gate.io   |    WNXM/USDT  |       |             |              |
 
-
-XRP
+7. XRPUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -98,7 +97,7 @@ XRP
     |    Kraken    |    XRP/USD    |       |             |              |
     |    HitBTC    |    XRP/BTC    |       |             |              |
 
-SOL
+8. SOLUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -108,8 +107,7 @@ SOL
     |    Bithumb   |    SOL/BTC    |       |             |              |
     |    Gate.io   |    SOL/USDT   |       |             |              |
 
-
-AVAX
+9. AVAXUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -119,7 +117,7 @@ AVAX
     |    Gate.io   |    AVAX/USDT  |       |             |              |
     |    Bitfinex  |    AVAX/USD   |       |             |              |
 
-XTZ
+10. XTZUSD
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
@@ -129,6 +127,14 @@ XTZ
     |    OKEx      |    XTZ/USDT   |       |             |              |
     |    Bitfinex  |    XTZ/USD    |       |             |              |
     |    HitBTC    |    XTZ/USD    |       |             |              |
+
+11. BTCUSD (existing data model)
+12. ETHUSD (existing data model)
+13. LINKUSD (existing data model)
+14. YFIUSD (existing data model)
+15. UNIUSD (existing data model)
+16. COMPUSD (existing data model)
+17. AAVEUSD (existing data model)
 
 ### Oracle Supporting Data Model(s)
 
@@ -147,8 +153,9 @@ XTZ
 
 ### Remaining Work
 
-- Deploy and configure medianizer smart contracts to Starkware
-- Coordinate Feeds to upgrade to latest release candidate
+- Release Starkware-aware oracle software
+- Coordinate Feeds to upgrade
+- Set up Starkware relayers.
 
 ### Summary
 
