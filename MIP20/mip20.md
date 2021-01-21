@@ -7,9 +7,9 @@ Title: Target Price Adjustment Module (`Vox`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-07-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-27
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
