@@ -60,7 +60,7 @@ It is hoped that the addition of an explicit entry-level role will increase inte
 
 Specific role definitions of individual domains are not covered by this MIP, instead it seeks to lay out a generic, flexible and lightweight structure that can be used by all domains within MakerDAO.
 
-Each domain is encouraged to build their own working structure under this umbrella to meet the requirements of their domain if they feel this is necessary. The key importance is to separate those with responsbility to the protocol, and those doing work for the protocol into two separate roles.
+Each domain is encouraged to build their own working structure under this umbrella to meet the requirements of their domain if they feel this is necessary. The key importance is to separate those with responsibility to the protocol, and those doing work for the protocol into two separate roles.
 
 The first role is known as the Domain Facilitators. This position maps most closely to the previous Domain Team role. This position takes responsibility for the domain as it relates to MakerDAO and takes more of an organizational role. Persons in this role must be ratified by Maker Governance.
 
