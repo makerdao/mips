@@ -8,7 +8,7 @@ Title: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
 Type: Process
-Status: Formal Submission (FS)
+Status: Obsolete
 Date Proposed: 2020-07-02
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
