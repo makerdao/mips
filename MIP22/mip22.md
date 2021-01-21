@@ -7,9 +7,9 @@ Title: Centrifuge Direct Liquidation Module
 Author(s): Lucas Vogelsang (@spin on forum.makerdao.com, lucas@centrifuge.io)
 Contributor(s): Lea Schmitt (lea@centrifuge.io), Lev Livnev (@equivrel on forum.makerdao.com)
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-09-02
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2020-10-27
 Dependencies: none
 Replaces: none
 Licenses: AGPL
