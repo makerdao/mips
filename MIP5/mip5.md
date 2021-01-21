@@ -12,6 +12,7 @@ Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
+Replaced by: MIP24
 ```
 
 ## References
