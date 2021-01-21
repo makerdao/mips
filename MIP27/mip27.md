@@ -1,7 +1,7 @@
 # MIP27: Debt Ceiling Instant Access Module
 
 ## Introduction
-Following the [Pre-MIP Discussion](https://forum.makerdao.com/t/debt-ceiling-instant-access-module-pre-mip-discussion/3924), this MIP formalises the Maker Improvement Proposal request for a Debt Ceiling Instant Access Module. Since further work has also been done on  [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-adjustments/4312) it is worth noting that this MIP does not render MIP17 redundant. It will be for the community to decide at which point they wish to move towards using an Instant Access Module for controling debt ceilings.
+Following the [Pre-MIP Discussion](https://forum.makerdao.com/t/debt-ceiling-instant-access-module-pre-mip-discussion/3924), this MIP formalizes the Maker Improvement Proposal request for a Debt Ceiling Instant Access Module. Since further work has also been done on  [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-adjustments/4312) it is worth noting that this MIP does not render MIP17 redundant. It will be for the community to decide at which point they wish to move towards using an Instant Access Module for controlling debt ceilings.
 
 ## Preamble
 ```
@@ -9,8 +9,9 @@ MIP#: 27
 Title: Debt Ceiling Instant Access Module
 Author(s):  Smart Contracts Domain Team
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-10-07
+Date Ratified: 2020-11-24
 Dependencies:
 Replaces: Weekly governance executive debt ceiling adjustments
 ```
@@ -24,7 +25,7 @@ An Instant Access Module contains components to create direct, bounded changes t
 The parameters and boundaries included herein should be considered examples and will be voted in at the time of implementation. There is an expectation that MIP17 and ongoing community governance experience will help inform the correct risk boundaries and governance parameters.
 
 ## Motivation
-The Debt Ceiling Instant Access Module decentralises debt ceiling control to the broader community by allowing all stakeholders to control this important risk variable. It helps solve the somewhat frequent problem where the community finds itself having reached the debt ceiling and now needs to wait for an executive vote to pass in order to make further adjustments. The same occurs in reverse when it becomes necessary to lower the debt ceiling in the event there is a reduction in Dai supply.
+The Debt Ceiling Instant Access Module decentralizes debt ceiling control to the broader community by allowing all stakeholders to control this important risk variable. It helps solve the somewhat frequent problem where the community finds itself having reached the debt ceiling and now needs to wait for an executive vote to pass in order to make further adjustments. The same occurs in reverse when it becomes necessary to lower the debt ceiling in the event there is a reduction in Dai supply.
 
 This capability will be available once the community has a good idea of the logic defined in MIP17 and then once the DC-IAM has been voted in by Governance, after which point, executive votes would not be necessary to adjust the debt ceiling within a predefined upper boundary. An executive vote can however always be used to overrule the behavior of an IAM.
 
@@ -56,8 +57,8 @@ After enabling this module through an executive vote, any individual with a web3
 * The current supply is 100M for a particular collateral type
 * Max limit is 150M
 * % increase is set to 10%
-* Once the ttl passes, let’s say the supply has since gone from 100M to 108M, anyone can increase the debt ceiling 10% higher, to 118.8M. [10% * 108M = 10.8M. 10.8M + 108 = 118.8M]
-* Once again, after the next ttl, let’s say the supply has gone up to 115M, meaning anyone can at that point increase the debt ceiling to 126.5M. [10% * 115M = 11.5M. 11.5M + 115M = 126.5M]
+* Once the `ttl` passes, let’s say the supply has since gone from 100M to 108M, anyone can increase the debt ceiling 10% higher, to 118.8M. [10% * 108M = 10.8M. 10.8M + 108 = 118.8M]
+* Once again, after the next `ttl`, let’s say the supply has gone up to 115M, meaning anyone can at that point increase the debt ceiling to 126.5M. [10% * 115M = 11.5M. 11.5M + 115M = 126.5M]
 
 <img width="314" alt="Increase" src="https://user-images.githubusercontent.com/55456013/95357680-75eed580-08c8-11eb-904c-ee0e53f2354e.png">
 
@@ -69,10 +70,9 @@ This process can be repeated until the limit value of 150M is reached, which wil
 
 * Calculation for the above: when the dai supply is reduced to 112M, the module takes 10% of that value (11.2M) and adds it to the Dai Supply amount (112 +11.2 = 123.2), therefore, the new debt ceiling will be 123.2M. The DC-IAM is always based off of the Dai Supply and either moves up or down 10% (or another value as determined by governance).
 
-
 ### MIP27c4 Defensive Debt Ceiling
 
-In the event of a contracting market as in the above example, the community should ensure that the debt ceiling defensively tracks the contracting Dai supply to minimise excessive exposure. There is a level, called the Defensive Debt Ceiling (`DDC`) that prevents the Debt Ceiling from being reduced any further. This will be a fixed absolute number per collateral type, determined by Governance and Risk.
+In the event of a contracting market as in the above example, the community should ensure that the debt ceiling defensively tracks the contracting Dai supply to minimize excessive exposure. There is a level, called the Defensive Debt Ceiling (`DDC`) that prevents the Debt Ceiling from being reduced any further. This will be a fixed absolute number per collateral type, determined by Governance and Risk.
 
 ### MIP27c5 Authority
 
@@ -82,13 +82,11 @@ Any individual with a web3 browser will be able to change the Debt Ceiling as lo
 
 The `ttl` acts as a pause that prevents any individual from hitting the debt ceiling, increasing it, hitting the debt ceiling and repeating all the way up to the `line` limit. This function will allow governance to control the velocity at which the actual debt ceiling is able to increase.
 
-If for any reason the DC-IAM module is misbehaving (e.g. our ttl time period or upper boundary is too inflexible), it will be possible to bypass it through an executive vote where governance can also vote to skip the delay in the GSM.
-
+If for any reason the DC-IAM module is misbehaving (e.g. our `ttl` time period or upper boundary is too inflexible), it will be possible to bypass it through an executive vote where governance can also vote to skip the delay in the GSM.
 
 ### MIP27c7 DC-IAM Onboarding of Collateral Types
 
 The onboarding of collateral types into the DC-IAM will require independent executive votes whereby the values described above (MIP27c1 Definitions) will need to be confirmed by Governance. It is expected that the community will want collateral types to have a track record before we hand DC control to the IAM.
-
 
 ### MIP27c8 Licensing
 [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
