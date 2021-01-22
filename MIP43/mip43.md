@@ -14,6 +14,10 @@ Dependencies: <List of depdendent MIPs>
 Replaces: n/a
 License: AGPL3+
 ```
+
+## Disclosure
+This MIP proposes an integration with Yield Protocol. Authors Allan and Alberto are employees of Yield, Inc. a company working to build Yield Protocol. Lev is an advisor to Yield, Inc.
+
 ## References
 
 * The proposed [dss-tlm](https://github.com/yieldprotocol/dss-tlm) implementation
@@ -103,8 +107,7 @@ $$
 P = \frac{1}{(1 + Y)^{T}}
 $$
 
-The TLM module will hold the fyDai to maturity. After maturity, the fyDai are redeemable for Dai. 
-The Dai income after Dai redemption is forwarded to the surplus buffer. 
+The TLM module will hold the fyDai to maturity. After maturity, the fyDai are redeemable for Dai. The Dai income after Dai redemption is forwarded to the surplus buffer. 
 
 At some future time, Maker governance may decide that selling fyDai on the open market before maturity is desirable. While that is not supported by this incarnation of the TLM, the TLM has features that may be used to upgrade to a new TLM in the future. 
 
@@ -152,7 +155,7 @@ The TLM includes two parameters that must be set for each fyDai series: an inter
 
 The interest rate chosen for purchasing fyDai of a given series should reflect governance priorities. For example, Governance may choose to initially start purchasing fyDai at an interest rate below the ETH-A stability fee. This may encourage use of the TLM and the growth of the long-term loan market. Over time, the rate may be adjusted to cool long-term lending, or lowered to encourage further long-term Dai lending growth. There is a considerable body of research on the use (and misuse) of monetary policy tools to influence the supply and demand of monetary assets like Dai, and that understanding may be applied to adjust the interest rate over time. 
 
-Since yield curves tend to be upward-sloping, there is an opportunity for MakerDAO to increase its net interest margin by engaging in fixed-term lending at higher rates than what it can charge for similar loans on an open-term basis with CDPs. Moreover, allocating to fixed-term lending can diversify the rates risk of the loan portfolio, and smooth out fluctuations in stability fee income as market rates vary
+Since yield curves tend to be upward-sloping, there is an opportunity for MakerDAO to increase its net interest margin by engaging in fixed-term lending at higher rates than what it can charge for similar loans on an open-term basis with CDPs. Moreover, allocating to fixed-term lending can diversify the rates risk of the loan portfolio, and smooth out fluctuations in stability fee income as market rates vary.
 
 The ceiling parameter for each fyDai series may be set to manage the risk and exposure that the TLM introduces to the Maker ecosystem. Some of these considerations are listed in the Risk Considerations section. As is standard practice, the TLM may be introduced with a very low ceiling that is raised over time as a better understanding of the risks is developed, and the Yield Protocol becomes more proven. 
 
