@@ -7,7 +7,7 @@ Author: Charles St.Louis
 Contributors: n/a
 Status: Request for Comments (RFC)
 Date Applied: 2020-04-22
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-05-02
 ---
 Core Personnel Role: MIP Editor
 Proposed applicant: Charles St.Louis
