@@ -22,6 +22,11 @@ MIP37 defines a static reserve which can receive any tokens from anyone *as any 
 
 ## Paragraph Summary
 
+Currently, makerDao doesn't have any contract where tokens can be stored/sent/withdrew. This MIP will try to fix it.
+
+This simple contract will allow governance to receive tokens/fees/payment from other parties or side component such as PSM, vow etc ... 
+
+This contract gives to the governance the only functionality to withdraw tokens previously sent.
 
 
 ## Component Summary
