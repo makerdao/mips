@@ -8,7 +8,7 @@ Title: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
 Type: Process
-Status: Formal Submission (FS)
+Status: Obsolete
 Date Proposed: 2020-07-02
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
@@ -40,7 +40,7 @@ Defines the calculation logic on how to modify the Actual Debt Ceiling securely.
 Defines the process for altering the calculation logic for the Actual Debt Ceiling.
 
 **MIP17c4: Actual Risk Premium Adjustments**
-Defines the calculation logic on how to modify the Actual Risk Premium securely. 
+Defines the calculation logic on how to modify the Actual Risk Premium securely.
 
 **MIP17c5: Actual Risk Premium Adjustments Calculation Logic Modification Process**
 Defines the process for altering the calculation logic for the Actual Risk Premium.
@@ -66,7 +66,7 @@ The purpose of this MIP is to introduce an initial version of secure Actual Debt
 
 ### MIP17c2: Actual Debt Ceiling Adjustments
 
-The Actual Debt Ceiling Adjustment calculation logic is used to securely manage the free Debt Ceilings of collateral assets in the Protocol, except for those onboarded as non-standard assets (such as USDC-B). The adjustment process uses a parameter called the **Target Debt Ceiling** and introduces a weekly cadence for making changes to the **Actual Debt Ceiling**. When the calculation logic outputs an adjustment value of the Actual Debt Ceiling for one or more Collateral types, the changes are put up in a single (bundled) Weekly Cycle Poll on the Monday of the weekly cycle. Note that the Actual Debt Ceiling Adjustment will be calculated and proposed by a mandated governance domain actor. If the weekly poll passes successfully, the poll contents will be put up in an Executive Vote on the Friday of the same weekly cycle, according to the processes defined in [MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md). The Actual Debt Ceiling Adjustment calculation logic is further explained below. 
+The Actual Debt Ceiling Adjustment calculation logic is used to securely manage the free Debt Ceilings of collateral assets in the Protocol, except for those onboarded as non-standard assets (such as USDC-B). The adjustment process uses a parameter called the **Target Debt Ceiling** and introduces a weekly cadence for making changes to the **Actual Debt Ceiling**. When the calculation logic outputs an adjustment value of the Actual Debt Ceiling for one or more Collateral types, the changes are put up in a single (bundled) Weekly Cycle Poll on the Monday of the weekly cycle. Note that the Actual Debt Ceiling Adjustment will be calculated and proposed by a mandated governance domain actor. If the weekly poll passes successfully, the poll contents will be put up in an Executive Vote on the Friday of the same weekly cycle, according to the processes defined in [MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md). The Actual Debt Ceiling Adjustment calculation logic is further explained below.
 
 ### Calculation Logic
 
@@ -88,7 +88,7 @@ The Actual Debt Ceiling Adjustment calculation logic is used to securely manage 
 
 **If one of the conditions are met, the new Actual Debt Ceiling is calculated as Current Debt Ceiling +15%**
 
-**Notes:** 
+**Notes:**
 - The Actual Debt Ceiling can surpass the Target Debt Ceiling.
 - The Actual Debt Ceiling Adjustment calculation logic may be modified by using the subproposal process defined in **MIP17c3: Actual Debt Ceiling Modification Process.**
 
@@ -116,9 +116,9 @@ MIP17c3 subproposals must use the template located at **[MIP17c3-Subproposal-Te
 
 Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of collateral assets in the Maker protocol. It is calculated as a function of the Actual Debt Ceiling, the Target Debt Ceiling, and the Target Risk Premium. Any time there is a proposal to adjust the Actual Debt Ceiling of one or more collateral types, there will also be corresponding adjustments to the Actual Risk Premium of those collateral types. The Actual Risk Premium Adjustments will be calculated and then proposed in a Weekly Poll by a mandated governance domain actor. If the Weekly Poll passes, then the adjustments will be put up in an Executive Vote on the Friday of the week to determine if it should be officially implemented to the Maker Protocol.
 
-**Glossary of Terms:** 
+**Glossary of Terms:**
 - ARP = Actual Risk Premium
-- TRP = Target Risk Premium 
+- TRP = Target Risk Premium
 - ADC = Actual Debt Ceiling
 - TDC = Target Debt Ceiling
 
@@ -128,22 +128,22 @@ Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of c
 
 ### ARP Formula Examples
 
-**Example 1:** 
+**Example 1:**
 - TRP = 5%
 - ADC = 3000000
 - TDC = 2000000
 - Calculation: 10% = 5% * 2^(2*((3000000-2000000)/2000000))
-- Curve Output: 
+- Curve Output:
 
 ![curve](https://user-images.githubusercontent.com/32653033/86315721-e666c600-bbf8-11ea-91b4-0b0929bd7648.png)
 
-**Example 2:** 
+**Example 2:**
 
 - TRP = 5%
 - ADC = 40000000
 - TDC = 20000000
 - Calculation: 20% = 5% * 2^(2*((4000000-2000000)/2000000))
-- Curve Output: 
+- Curve Output:
 ![curve-example2](https://user-images.githubusercontent.com/32653033/86402484-e3f88080-bc79-11ea-8d96-208f888e8436.png)
 
 **Example 3:**
@@ -152,16 +152,16 @@ Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of c
 - ADC = 6000000
 - TDC = 3000000
 - Calculation: 30% = 7.5% * 2^(2*((6000000-3000000)/3000000))
-- Curve Output: 
+- Curve Output:
 ![curve-example3](https://user-images.githubusercontent.com/32653033/86401938-0938bf00-bc79-11ea-9182-345b42f4eeda.png)
 
-**Example 4:** 
+**Example 4:**
 
 - TRP = 10%
 - ADC = 13456034
 - TDC = 10000000
 - Calculation: 16.15% = 10% * 2^(2*((13456034-10000000)/10000000))
-- Curve Output: 
+- Curve Output:
 ![curve-exmple4n](https://user-images.githubusercontent.com/32653033/86402677-3b96ec00-bc7a-11ea-885d-196f97ae47aa.png)
 
 **Example 5:**
@@ -170,7 +170,7 @@ Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of c
 - ADC = 19148224.3
 - TDC = 12000000
 - Calculation: 1.71% = 0.75% * 2^(2*((19148224.3-12000000)/12000000))
-- Curve Output: 
+- Curve Output:
 ![curve-example5](https://user-images.githubusercontent.com/32653033/86402370-b4497880-bc79-11ea-9df1-8ea16ced3f77.png)
 
 **Example 6:**
@@ -179,7 +179,7 @@ Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of c
 - ADC = 1000000
 - TDC = 15000000
 - Calculation: 1.37% = 5% * 2^(2((1000000-15000000)/15000000))
-- Curve Output: 
+- Curve Output:
 ![curve-example6](https://user-images.githubusercontent.com/32653033/86402259-8a905180-bc79-11ea-9832-e6c219adfe4d.png)
 
 **Notes:**

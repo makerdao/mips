@@ -7,9 +7,9 @@ Title: Target Price Adjustment Module (`Vox`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-07-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-27
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
@@ -27,7 +27,7 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ## Paragraph summary
 
-The Dai Stablecoin System is intended to reliably maintain dai's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates. In contrast to the Target Rate Feedback Mechanism (TRFM), the mechanism in this proposal does not adjust rates algorithmically using a DAI price oracle. Instead, the target rate is set directly by governance, similary to how the Stability Fees and Dai Savings Rate are set today. 
+The Dai Stablecoin System is intended to reliably maintain dai's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates. In contrast to the Target Rate Feedback Mechanism (TRFM), the mechanism in this proposal does not adjust rates algorithmically using a DAI price oracle. Instead, the target rate is set directly by governance, similarly to how the Stability Fees and Dai Savings Rate are set today.
 
 ## Component summary
 
@@ -47,10 +47,9 @@ The Dai Stablecoin System is intended to reliably maintain dai's exchange rate w
 
 **MIP20c8: Licensing:** states the license under which the proposal and code are distributed.
 
-
 ## Motivation
 
-In an environment where the supply of DAI is too low to meet demand, monetary policy might find itself at the "zero lower bound" where stimulus can no longer be effected through lowering interest rates. In this case, it may necessary to purseu a policy of negative interest rates, in which the direction of the cashflow is reversed, with savers possibly paying borrowers. In the system as it exists today, the combination of the CDP Stability Fee and Dai Savings Rate serves as a cash flow from borrowers (CDP users) to savers (DAI holders), or in other words, an interest rate. However, that interest rate is effectively constrained to be positive: though it is technically possible to accrue a negative interest rate to CDPs, depositing DAI into the Savings Contract is optional so savers would be able to avoid negative rates simply by not using it, leaving a deficit on MakerDAO's balance sheet.
+In an environment where the supply of DAI is too low to meet demand, monetary policy might find itself at the "zero lower bound" where stimulus can no longer be effected through lowering interest rates. In this case, it may necessary to pursue a policy of negative interest rates, in which the direction of the cashflow is reversed, with savers possibly paying borrowers. In the system as it exists today, the combination of the CDP Stability Fee and Dai Savings Rate serves as a cash flow from borrowers (CDP users) to savers (DAI holders), or in other words, an interest rate. However, that interest rate is effectively constrained to be positive: though it is technically possible to accrue a negative interest rate to CDPs, depositing DAI into the Savings Contract is optional so savers would be able to avoid negative rates simply by not using it, leaving a deficit on MakerDAO's balance sheet.
 
 A crucial requirement in the implementation of this policy is for all DAI holders to be exposed to the negative rate. For technical reasons, it is not feasible to continuously manipulate on-chain user token balances, since this behaviour would undermine the implicit assumptions of well-behaved token semantics and could break integrations into other smart contract systems. A more compliant way of implementing negative interest rates is to manipulate the target price of DAI itself: this MIP implements such a system.
 
@@ -106,7 +105,7 @@ The proposed solution is simple and non-invasive, interacting with only one othe
 
 Upon adoption of this MIP, the Target Rate parameter can be adjusted by governance as an additional monetary policy lever, similar to the current notion of "Base Rate". Monetary policy processes may have to be amended in order to leverage this facility, and this MIP may be expanded in order to specify them.
 
-This MIP can be compared with the folkloric Target Rate Feedback Mechanism (TRFM), an unused implementation of which was present in single-collateral dai. The TRFM relies on the same notion of adjusting the target price of DAI as a monetary policy tool. The crucial difference between the TRFM and the mechananism proposed in this MIP is that while the TRFM algorithm sets the Target Rate automatically and continuously depending on a DAI price oracle, this MIP does not propose for the Target Rate to be set algorithmically.
+This MIP can be compared with the folkloric Target Rate Feedback Mechanism (TRFM), an unused implementation of which was present in single-collateral dai. The TRFM relies on the same notion of adjusting the target price of DAI as a monetary policy tool. The crucial difference between the TRFM and the mechanism proposed in this MIP is that while the TRFM algorithm sets the Target Rate automatically and continuously depending on a DAI price oracle, this MIP does not propose for the Target Rate to be set algorithmically.
 
 ### MIP20c7: Formal verification/audit information
 

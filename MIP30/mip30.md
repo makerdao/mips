@@ -7,7 +7,7 @@ Title: Farmable cUSDC Adapter (`CropJoin`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
 Type: Technical
-Status: Formal Submission
+Status: Formal Submission (FS)
 Date Proposed: 2020-11-16
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a

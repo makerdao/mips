@@ -7,11 +7,12 @@ Title: Emergency Voting System
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
+Replaced by: MIP24
 ```
 
 ## References
@@ -37,13 +38,12 @@ This component addresses emergency state changes to the protocol and how they ar
 
 This standard is being proposed in order to allow the community to overcome the constraints of the governance cycle ([MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md)) in special situations where it is time critical to make changes or remove a part of the operating system.
 
-
 ## Specification / Proposal Details
 
 ### MIP5c1: Governance Facilitator Emergency Votes
 
 A governance facilitator emergency vote encodes one or more website URLs into an on-chain voting contract (spell), as well as containing logic that stops any payment stream to the existing governance facilitators. If the executive vote gets the most MKR votes and becomes the active proposal the existing Governance facilitators are then removed. The list of website URLs then corresponds to a list of one or more new Interim Governance facilitators and their governance platforms that will replace the current governance facilitators. The current governance cycle is canceled, and the new Interim Governance Facilitators initiate a new governance cycle on the following 1st Monday of the month.
-    
+
 ---
 ### MIP5c2: An Emergency State Change
 

@@ -7,23 +7,26 @@ Title: Real World Assets - Off-Chain Asset Backed Lender
 Author(s):  Matthew V Rabinowitz (@mrabino1 or mr@6s.capital)
 Contributors: Lev Livnev (@equivrel) & Christopher Mooney (@cmooney)
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-09-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-27
 Dependencies: MIP13c3-SP4 (Declaration of Intent - Off-Chain Asset Backed Lender to Onboard Real World Assets as Collateral for a DAI loan)
 Replaces: n/a
 License: n/a
 ```
+
 ## References
+
 - MIP13c3-SP4 - Declaration of Intent [Link](https://forum.makerdao.com/t/mip13c3-sp4-declaration-of-intent-commercial-points-off-chain-asset-backed-lender-to-onboard-real-world-assets-as-collateral-for-a-dai-loan/3914)
 - [prototype source code](https://github.com/livnev/rwa-example)
 
 ## Sentence Summary
-This proposal defines a MakerDAO Module implementation for DAI borrowing with Real World Asset Backed Lenders. 
+
+This proposal defines a MakerDAO Module implementation for DAI borrowing with Real World Asset Backed Lenders.
 
 ## Paragraph Summary
 
-With the proposed on-boarding of Real World Assets as collateral into the Maker protocol, we will be requesting a technical MIP as we need to trailblaze a new way to engage the “real-world” while still having an umbilical to the blockchain. This will require some technical modifications to how the system handles collateral / liquidations etc. as well as adding some smart contracts (as outlined below) to handle the minting and repayment process. This Technical MIP is being submitted in parallel (with the Declaration of Intent) for MKR governance consideration. 
+With the proposed on-boarding of Real World Assets as collateral into the Maker protocol, we will be requesting a technical MIP as we need to trailblaze a new way to engage the “real-world” while still having an umbilical to the blockchain. This will require some technical modifications to how the system handles collateral / liquidations etc. as well as adding some smart contracts (as outlined below) to handle the minting and repayment process. This Technical MIP is being submitted in parallel (with the Declaration of Intent) for MKR governance consideration.
 
 ## Component Summary
 
@@ -44,17 +47,18 @@ With the proposed on-boarding of Real World Assets as collateral into the Maker 
 **MIP20c8: Auditor Information and Report** is See Below
 
 ## Motivation
+
 See paragraph summary above.
 
 ## Specification
 
 ### MIP21c1: Collateral Parameters
-- **Liquidation remediation period** (`tau`): 
+- **Liquidation remediation period** (`tau`):
 - **Asset document hash** (`doc`):
 
 ### MIP21c2: Smart Contract Components
 
-Inserting real world assets via an off-chain asset backed lender, where the liquidations are handled by a third-party requires certain changes to how a module would interact with the Maker protocol. Specifically, 
+Inserting real world assets via an off-chain asset backed lender, where the liquidations are handled by a third-party requires certain changes to how a module would interact with the Maker protocol. Specifically,
 - Minting
 - Repayments
 - Liquidations
@@ -86,12 +90,14 @@ An off-chain enforcer (such as a trustee, etc.) can periodically check the liqui
 
 ### MIP21c4: Write-offs
 
-If at the end of the liquidation process there is still debt remaining on the position, and MakerDAO governance believes that the debt will not be paid off, it can trigger a write-off by calling `cull()`. Write-off works by setting the system's collateral value to zero, which will cause the position to proceed to on-chain liquidation via `bite()`, etc. Unlike the liquidation modules for existing collateral types, the specialised liquidation module `RwaFlipper` does not attempt a sale of the underlying collateral and instead just marks the loss on the system's balance sheet by allowing system debt to be created.
+If at the end of the liquidation process there is still debt remaining on the position, and MakerDAO governance believes that the debt will not be paid off, it can trigger a write-off by calling `cull()`. Write-off works by setting the system's collateral value to zero, which will cause the position to proceed to on-chain liquidation via `bite()`, etc. Unlike the liquidation modules for existing collateral types, the specialized liquidation module `RwaFlipper` does not attempt a sale of the underlying collateral and instead just marks the loss on the system's balance sheet by allowing system debt to be created.
 
 ### MIP21c5: Proposed Code (WIP)
-[Real World Assets Example](https://github.com/livnev/rwa-example) 
 
-### MIP21c6: Test Cases 
+[Real World Assets Example](https://github.com/livnev/rwa-example)
+
+### MIP21c6: Test Cases
+
 - Add Real World Asset Module
 - Mint DAI
 - Repay DAI
@@ -101,16 +107,18 @@ If at the end of the liquidation process there is still debt remaining on the po
 - Write-off any associated losses
 
 ### MIP21c7: Security Considerations
+
 The framework surrounding minting and repaying DAI is rather battle-hardened. Further, the computation on interest rate calculations and debt ceilings is equally hardened.
 
 Counterintuitively, the majority of the functionality related to liquidations will be completed by real world people that are using legal documents to govern their actions. Thus many of the features that might otherwise cause security vulnerability may be disabled as they are effectively outsourced to a Trust company or the legal system in general.
 
-Prior to any executive vote, the smart contracts domain team shall determine if formal verification is necessary. 
+Prior to any executive vote, the smart contracts domain team shall determine if formal verification is necessary.
 
 ### MIP21c8: Auditor Information and Report
-The code has not been audited. 
 
-Prior to any executive vote, the smart contracts domain team shall determine if an audit and bug bounty program is necessary. 
+The code has not been audited.
+
+Prior to any executive vote, the smart contracts domain team shall determine if an audit and bug bounty program is necessary.
 
 ## Additional Information
 

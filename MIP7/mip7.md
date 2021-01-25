@@ -53,7 +53,6 @@ The Maker Protocol requires a decentralized workforce in order to onboard new co
 - **Risk Teams** are responsible for creating the risk construct for a collateral onboarding proposal. As a part of the collateral on-boarding process, they also need to get a general model ratified on which they can base their risk construct.
 - **Legal Teams** are in some cases necessary for collateral onboarding, when dealing with assets that have legal claims attached to them. They create the legal work product for collateral onboarding.
 
-
 ---
 
 ### MIP7c2: The Current Domain Roles List
@@ -71,7 +70,7 @@ Team Name: The name of the onboarded domain team.
 
 **Active Domain Teams List**
 
-**1. Oracle Domain Teams:** 
+**1. Oracle Domain Teams:**
 - **Team Name:** Green Team
 	- **Sub-proposal Number (MIP7c3-SP):** n/a (Oracle Team was ratified prior to the MIPs process. Reference: [Mandate: Oracle Teams](https://forum.makerdao.com/t/mandate-oracle-teams/443))
 	- **Domain:** Oracle
@@ -87,7 +86,7 @@ Team Name: The name of the onboarded domain team.
 **3. Risk Domain Teams:**
 - **Team Name:** Red Team
 	- **Sub-proposal Number (MIP7c3-SP):** 2
-	- **Domain:** Risk 
+	- **Domain:** Risk
 	- **Date Added:** 2020-06-25 [Ratification Vote](https://mkrgov.science/executive/0x1d51ca29e35b6ce30167f634dd21376da1341d9b)
 
 **4. Legal Domain Teams:**
@@ -100,8 +99,8 @@ MIP7c3 is a Process MIP component that allows the onboarding of a domain team us
 If onboarded through a MIP7c3 subproposal, the domain team is added to the The Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
 
 MIP7c3 subproposals have the following parameters:
--   **Feedback Period**: 3 months
--   **Frozen Period**: 1 month
+- **Feedback Period**: 3 months
+- **Frozen Period**: 1 month
 
 MIP7c3 subproposals must use the template located at  **[MIP7c3-Subproposal-Template.md](MIP7c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
@@ -114,8 +113,8 @@ MIP7c4 is a Process MIP component that allows the removal of a domain team using
 If offboarded through a MIP7c4 subproposal the domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
 
  MIP7c4 subproposals have the following parameters:
--   **Feedback Period**: 0 days
--   **Frozen Period**: 0 days
+- **Feedback Period**: 0 days
+- **Frozen Period**: 0 days
 
 MIP7c4 subproposals must use the template located at  **[MIP7c4-Subproposal-Template.md](MIP7c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
