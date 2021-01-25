@@ -48,7 +48,7 @@ Add Collateral Onboarding as a main objective for the foreseeable future
 
 ### Relevant Information
 
-- Github: [https://github.com/juan-fintech](https://github.com/juan-fintech)
-- Forum: @juanjuan
-- Twitter: @0Ju4n
+- Github: [https://github.com/juan-fintech](https://github.com/juan-fintech)
+- Forum: @juanjuan
+- Twitter: @0Ju4n
 - Site: https://DeFiNotes.com
