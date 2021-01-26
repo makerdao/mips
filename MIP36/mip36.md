@@ -7,7 +7,7 @@ Title: Peg Stability - Compound Governance Dai Leverage
 Author(s): Alexis
 Contributors: None
 Type: Technical
-Status: Conception
+Status: Request for Comments (RFC)
 Date Proposed: 2021-01-09
 Date Ratified: <yyyy-mm-dd>
 Dependencies: Join Dai-farming, Join Dai-lendler 
@@ -28,7 +28,7 @@ to leverage our position on cDai.
 
 By governance vote, or by executing order, we can call one of the methods define in this MIP. These methods will leverage/deleverage our position on one of the Compound Dai Vault.
 
-For that we use flash minting technique on Dai, then we convert Dai to cDai using either the farming or the lending Vault which will increase our position, then we return the Dai.
+For that we use flash minting technique on Dai [MIP25](https://forum.makerdao.com/t/mip25-flash-mint-module/4400), then we convert Dai to cDai using either the farming or the lending Vault which will increase our position, then we return the Dai.
  Both vaults are already defined previously ([MIP32](https://forum.makerdao.com/t/mip32-peg-stability-module-compound-mixed-exposure/5684), [MIP35](https://forum.makerdao.com/t/mip35-peg-stability-module-compound-mixed-exposure-with-farming/6024)).
 
 Here is the last part of the - Peg Stability Compound Mixed Exposure - project.  
@@ -60,21 +60,17 @@ The governance can move the market price by sending supply to the market via `cD
 ## Specification
 
 
-### MIP36c1: The Peg Stabilizer Compound Dai Leverag
+### MIP36c1: The Peg Stabilizer Compound Dai Leverage
 
-The contract has 4 methods only accessible by governance :
- - `leverageLendingVault(uint256 amount)`
- - `leverageLendingLeverageVault(uint256 amount)`
- - `deleverageLendingVault(uint256 amount)`
- - `deleverageLendingLeverageVault(uint256 amount)`
+The contract has 2 methods only accessible by governance :
+ - `leverage(uint256 amount)`
+ - `deleverage(uint256 amount)`
 
-`leverageLendingVault()` flash mint the amount of dai pass as parameter. Increase its position on cDai using the Compound Lending Vault and return the Dai flash minted. 
+`leverage()` flash mint the amount of dai pass as parameter. Increase its position on cDai using one Compound join and return the Dai flash minted. 
 
-`leverageLendingLeverageVault()` flash mint the amount of dai pass as parameter. Increase its position on cDai using the Compound Farming Vault and return the Dai flash minted.  
+`deleverage()` flash mint the amount of dai pass as parameter. Use the Dai to pay back its debt using one Compound join, decrease its position and return the Dai flash minted.  
 
-`deleverageLendingVault()` flash mint the amount of dai pass as parameter. Use the Dai to pay back its debt using the Compound Lending Vault, decrease its position and return the Dai flash minted.  
-
-`deleverageLendingLeverageVault()` flash mint the amount of dai pass as parameter. Use the Dai to pay back its debt using the Compound Lending Vault, decrease its position and return the Dai flash minted.
+Two contracts will be deployed one for the Lending Join one for the Farming Join.
 
 ### MIP36c2: The Joins 
 
