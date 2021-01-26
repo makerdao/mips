@@ -49,13 +49,15 @@ This PSM will have 2 urns one `cDai` and one `cUsdc`, but the maker position for
 
 **MIP32c3: The Burn Delegator**
 
-**MIP32c4: Proposed Code**
+**MIP32c4: The Harvest contract**
 
-**MIP32c5: Test cases** Lists existing test cases
+**MIP32c5: Proposed Code**
 
-**MIP32c6: Security considerations** Comments on the security implications
+**MIP32c6: Test cases** Lists existing test cases
 
-**MIP32c7: Licensing** States the license under which the proposal and code are distributed.
+**MIP32c7: Security considerations** Comments on the security implications
+
+**MIP32c8: Licensing** States the license under which the proposal and code are distributed.
 
 
 ## Motivation
@@ -71,26 +73,28 @@ The PSM Mixed Exposure is articulated around 3 main components:
 - The Join (urn)
 - The excess delegator (excess token conversion)
 
+- The harvest contract
+
 ### MIP32c1: The PSM
 
 It is very similar at the actual PSM ([MIP 29](https://github.com/makerdao/mips/blob/formal-submission/MIP29/mip29.md)) with two vaults, one in Dai and one in Usdc.
 
 It has 3 methods:
- - `sellGem(address usr, uint256 gemAmt)`
- - `buyGem(address usr, uint256 gemAmt)`
- - `harvest()`
+ - `sell(address usr, uint256 gemAmt)`
+ - `buy(address usr, uint256 gemAmt)`
+ - `reserve()`
 
 The two same prameters as psm:
 - `tin`: The fraction of the Gem -> Dai transaction sent to the `vow` as a fee. Encoded as `tin` in `wad` units.
 - `tout`: The fraction of the Dai -> Gem transaction sent to the `vow` as a fee. Encoded as `tout` in `wad` units.
 
-The functionality is similar to the actual PSM with an extra method `harvest()`.
 
-`sellGem` will take in input usdc, convert usdc into dai via the new `lending join` (usdc/dai). Then it will take the dai and convert it to dai via another `lending join` (Dai/Dai) and take the fees and return the Dai.
+`sell` will take in input usdc, convert usdc into dai via the new `lending join` (usdc/dai). Then it will take the dai and convert it to dai via another `lending join` (Dai/Dai) and take the fees and return the Dai.
 
-`buyGem` will take in input dai, convert the dai after fee into dai via the `lending join` (dai/dai). Then it will take the dai and convert it to usdc via the `lending join` (Dai/Usdc) and return the Usdc.
+`buy` will take in input dai, convert the dai after fee into dai via the `lending join` (dai/dai). Then it will take the dai and convert it to usdc via the `lending join` (Dai/Usdc) and return the Usdc.
 
-`harvest` calls `harvest()` from both join (cDai and cUsdc). It can be processed by anyone.
+`reserve` will return the reserve inside the contract in dai,token - this is based on the uniswap reserve() call.
+
 
 **Additional specification:**  
 The same level of debt is maintained for both positions (the leverage urn and the gem urn).
@@ -99,15 +103,14 @@ The same level of debt is maintained for both positions (the leverage urn and th
 
 ### MIP32c2: The Lending Join 
 
-This uses a classic maker join with on top the conversion from and to the lender. There is an additional method `harvest()` behind an allowlist - the PSM -.
+This uses a classic maker join with on top the conversion from and to the lender. There is an additional method `harvest()` behind an allowlist.
 The collateral is register and allow borrowing on it exactly like a normal collateral, but the `lending join` lends it to compound.
 
 The join is an `auth-join` type accessible only by the PSM.
 
-The extra method 'harvest()' have 3 actions :
+The extra method 'harvest()' have 2 actions:
 - move the excess token to the delegator.
 - move the bonus token to the delegator.
-- call the delegator.
 
 The join has one parameter the delegator. `excess_delegator`.
 
@@ -121,8 +124,7 @@ In order to calculate the excess, we add a total variable which represent the am
 
 The Delegator is replaceable, its main purpose is to manage the token conversion and what we do with it.
 
-This delegator has 4 methods:
-- `call` call for the join.
+This delegator has 3 methods:
 - `processUsdc` convert the usdc to dai via the psm.
 - `processComp` convert token bonus to dai via uniswap.  
 - `processDai`  convert dai to MKR via uniswap and burn the MKR.
@@ -135,8 +137,14 @@ There are 6 parameters :
 - `dai_auction_duration`: min time is sec between 2 uniswap swap
 - `max_dai_auction_amount` : max dai amount by swap.
 
+### MIP32c4: The Harvest contract
 
-### MIP32c4: Proposed code
+This contract will have only one external method `harvest()` which calls harvest from the join.
+Two contract will be deployed to call both join.
+
+We separated this method from the PSM to allow more flexibility for update.
+
+### MIP32c5: Proposed code
 
 The code : [dds-psm-cme](https://github.com/alexisgayte/dss-psm-cme/)
 
@@ -147,14 +155,14 @@ The code : [dds-psm-cme](https://github.com/alexisgayte/dss-psm-cme/)
 - [spell-DssPsmCme](https://github.com/alexisgayte/dss-psm-cme/blob/main/src/spell/DssPsmCompMixExposureLenderJoinSpell.sol)
 
 
-### MIP32c5: Test cases
+### MIP32c6: Test cases
 Unit tests:
 
 - [DssPsmCme.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/DssPsmCme.t.sol)
 - [BurnDelegator.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/BurnDelegator.t.sol)
 - [join-lending-auth.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/join-lending-auth.t.sol)
 
-### MIP32c6: Security considerations
+### MIP32c7: Security considerations
 
 ##### Compound technical risk
 
@@ -171,5 +179,5 @@ In this implementation as we don't use leverage on compound, the c-token can't b
 
 Another risk: uniswap interaction, but limited to the extra bonus.
 
-### MIP32c7: Licensing
+### MIP32c8: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
