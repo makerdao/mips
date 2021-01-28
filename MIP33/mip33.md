@@ -26,7 +26,7 @@ Governance will vote a buying price and a selling price. Then the governance wil
 
 ### Overview Logic
 
-![global logic](global-logic.png?raw=true)
+![global logic](https://user-images.githubusercontent.com/7965274/105838778-78d11b80-5fc8-11eb-816b-f9a541bf83b9.png)
 
 ## Component Summary
 
@@ -81,8 +81,9 @@ The following variables define the parameters that can be set by Governance thro
 ### MIP33c3: Function
 there are 3 fonctions based on PSM interface:
 - `file() ` : to allow governance to change parameters
-- `sellGem(address usr, uint256 gemAmt)` : to sell the MKR
-- `buyGem(address usr, uint256 gemAmt)` : to buy the MKR
+- `sell(address usr, uint256 gemAmt)` : to sell the MKR
+- `buy(address usr, uint256 gemAmt)` : to buy the MKR
+- `reserve()` : return token reserve and last time the price change 
 
 ### MIP33c4: Proposed Code
 
