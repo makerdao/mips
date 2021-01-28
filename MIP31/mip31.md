@@ -37,27 +37,27 @@ The only external method will be the one use by uniswap
 
 ## Component Summary
 
-**MIP31a1: Parameter Definitions:** List of governance parameters
+**MIP31c1: Parameter Definitions:** List of governance parameters
 
-**MIP31a2: Functions:** List of functions
+**MIP31c2: Functions:** List of functions
 
-**MIP31a3: swap():** Specification for the swap function
+**MIP31c3: swap():** Specification for the swap function
 
-**MIP31a4: deposit():** Specification for the deposit function
+**MIP31c4: deposit():** Specification for the deposit function
 
-**MIP31a5: withdraw():** Specification for the withdraw function
+**MIP31c5: withdraw():** Specification for the withdraw function
 
-**MIP31a6: Proposed code:** Contains snippet of proposed implementation.
+**MIP31c6: Proposed code:** Contains snippet of proposed implementation.
 
-**MIP31a7: Test cases:** Lists existing test cases, including integration tests
+**MIP31c7: Test cases:** Lists existing test cases, including integration tests
 
-**MIP31a8: Spell:** Spell for deployment/install 
+**MIP31c8: Spell:** Spell for deployment/install 
 
-**MIP31a9: Security:** Comments on the security implications of using `CropJoin`
+**MIP31c9: Security:** Comments on the security implications of using `CropJoin`
 
-**MIP31a10: Economic / Governance considerations:** Discusses insolvency and liquidity risks, governance and example parameters
+**MIP31c10: Economic / Governance considerations:** Discusses insolvency and liquidity risks, governance and example parameters
 
-**MIP31a11: Licensing:** States the license under which the proposal and code are distributed.
+**MIP31c11: Licensing:** States the license under which the proposal and code are distributed.
 
 
 ## Motivation
@@ -108,22 +108,22 @@ The swap mechanism won't change, only fee parameter and non used mechanism will 
 `mint` and `burn`, will be replaced by `deposit` and `withdraw`. 
 To secure eventual issue these new methods will be placed behind an allow-list. Only the swap needs to be "external".
 
-### MIP31a1: Parameter Definitions
+### MIP31c1: Parameter Definitions
  - `fees` : fees takes for each swap.
 
-### MIP31a2: Functions
+### MIP31c2: Functions
 
 3 functions :
  - `swap()` : uniswap function to swap two token.
  - `deposit()` : to deposit some liquidity or reserve.
  - `withdraw()` : to withdraw the reserve.
 
-### MIP31a3: swap()
+### MIP31c3: swap()
 
  * should allow swap between two tokens.  
  * fees need to be parametrized and managed by governance with a `fees` parameter
 
-### MIP31a4: deposit()
+### MIP31c4: deposit()
 
  * should be allowlisted.
 
@@ -132,7 +132,7 @@ To secure eventual issue these new methods will be placed behind an allow-list. 
  * The call will update the reserve and take into account the tokens send to the contract.
 
 
-### MIP31a5: withdraw()
+### MIP31c5: withdraw()
 
  * should be allowlisted.
 
@@ -140,18 +140,18 @@ To secure eventual issue these new methods will be placed behind an allow-list. 
 
  * three parameters are needed `amount0Out`, `amount1Out`, `addressTo`
 
-### MIP31a6: Proposed Code
+### MIP31c6: Proposed Code
 
 [dss-ara](https://github.com/alexisgayte/dss-ara/blob/main/src/DssAra.sol)
 
-### MIP31a7: Test Cases
+### MIP31c7: Test Cases
 
 [dss-ara test](https://github.com/alexisgayte/dss-ara/blob/main/src/DssAra.t.sol)
 
-### MIP31a8: Spell
+### MIP31c8: Spell
 [ActiveReserveSpell](https://github.com/alexisgayte/dss-ara/blob/main/src/spell/ActiveReserveSpell.sol)
 
-### MIP31a9: Security
+### MIP31c9: Security
 
 ##### Uniswap contract
 
@@ -162,7 +162,7 @@ Errors or security vulnerabilities in the Uniswap contract. The contract has bee
 In addition to the technical risk inherent to Uniswap contract, this implementation add some risk too. 
 However, due to the design and the separation from the main system, the worst-case losses is limited to the deposited inside the AMM.
 
-### MIP31a10: Economic / Governance considerations
+### MIP31c10: Economic / Governance considerations
 
 #### Economic risks
 
@@ -178,5 +178,5 @@ impermanent losses
 **Nice plus** The Dai reserve increase when MKR decrease which it is probably when we will need the reserve.
 On the other hand Dai reserve decrease when the MKR increase, but that should not be a problem as we can mint MKR instead.
 
-### MIP31a11: Licensing
+### MIP31c11: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
