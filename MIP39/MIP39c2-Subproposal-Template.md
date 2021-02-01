@@ -11,7 +11,7 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Specification
-    
+
 ### Motivation
 - Why are you proposing this Core Unit?
 
