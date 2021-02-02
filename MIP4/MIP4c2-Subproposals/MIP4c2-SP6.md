@@ -6,9 +6,9 @@ MIP4c2-SP#: 6
 MIP to be amended: MIP3
 Author(s): @LongForWisdom
 Contributors:
-Status: Formal Submission (FS)
+Status: Accepted
 Date of Amendment Submission: 2020-10-05
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2020-11-27
 ```
 ## Specification
     
