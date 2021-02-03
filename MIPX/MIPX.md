@@ -21,7 +21,7 @@ Replaces:
 * [MIP34: Keg Streaming Payments Module](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013)
 * [The Flapper](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation)
 * [MIPXc2 Subproposal: Setting Fixed Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
-* [MIPXc3 Subproposal: Setting Variable Distributions via the Keg](https://github.com/prose11/mips/blob/master/Non-Technical%20Keg/MIPXc3%20Subproposal%20%5BTemplate%5D.md)
+* [MIPXc3 Subproposal: Setting Variable Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc3%20Subproposal%20%5BTemplate%5D.md)
 * [MIPXc4 Subproposal: Stopping Distributions from the Keg](https://github.com/prose11/mips/blob/master/Non-Technical%20Keg/MIPXc4%20Subproposal%20%5BTemplate%5D.md)
 
 ## Sentence Summary
@@ -79,7 +79,7 @@ When an initiative desires a constant rate of streamed amount of DAI, the fundin
 
 **MIPXc3: Setting Variable Distributions via the Keg**
 
-When an initiative desires DAI to be streamed at a variable rate, based on excess revenue to operational expenses, the funding must be requested through Governance. A [MIPXc3 subproposal](https://github.com/prose11/mips/blob/master/Non-Technical%20Keg/MIPXc3%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one.
+When an initiative desires DAI to be streamed at a variable rate, based on excess revenue to operational expenses, the funding must be requested through Governance. A [MIPXc3 subproposal](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc3%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one.
 
 Due to contract limitations, only one stream may be taken from funds otherwise going to the `Flapper`. Backend work must be done to define and split the stream from the excess revenues into any Governance approved initiatives. As a result, MIPXc3 subproposals will require a longer feedback period:
 
