@@ -1,4 +1,4 @@
-# MIP39c2-SPX: Core Unit Budget - GOV-001
+# MIP40c2-SPX: Core Unit Budget - GOV-001
 
 ## Preamble
 ```
