@@ -7,9 +7,9 @@ Title: Peg Stability Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-11-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-01-30
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
