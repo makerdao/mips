@@ -2,7 +2,7 @@
 
 ## Preamble
 ```
-MIP41c4-SP#: #
+MIP41c4-SP#: X
 Author(s): @LongForWisdom
 Contributors: N/A
 Status: RFC
@@ -52,6 +52,6 @@ As a Core Unit Facilitator of GovAlpha, I will of course continue to be accessib
 
 * Long-standing member of the MakerDAO Governance Community
 * Contributor credits on multiple core governance MIPs.
-* Helped to coordinate [Emergency Response](https://forum.makerdao.com/t/black-thursday-response-thread/1433/) on Black Thursday and documented the [successful and failures](https://forum.makerdao.com/t/covid-crash-emergency-governance-summary/2437) of that response.
+* Helped to coordinate [Emergency Response](https://forum.makerdao.com/t/black-thursday-response-thread/1433/) on Black Thursday and documented the [successes and failures](https://forum.makerdao.com/t/covid-crash-emergency-governance-summary/2437) of that response.
 * **May 2020 - Present** - [Governance Facilitator at MakerDAO](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c12-Subproposals/MIP0c12-SP2.md)
 

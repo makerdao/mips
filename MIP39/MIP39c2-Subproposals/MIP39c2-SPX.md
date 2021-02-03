@@ -2,7 +2,7 @@
 
 ## Preamble
 ```
-MIP39c2-SP#: #
+MIP39c2-SP#: X
 Author(s): @LongForWisdom
 Contributors: N/A
 Status: RFC
