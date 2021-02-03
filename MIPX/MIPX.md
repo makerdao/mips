@@ -19,7 +19,7 @@ Replaces:
 ```
 ## References
 
-* [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/master/Multi-Sig/MIPXc2%20Subproposal%5BTemplate%5D.md)
+* [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md)
 
 ## Sentence Summary
 
@@ -70,9 +70,9 @@ Following an approved Governance action that involves a newly recognized Multi-S
 
 **MIPXc2: Dissolution of Multi-Sig**
 
-Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. In the event that a Multi-Sig decides to dissolve, the owners must fill out a [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/master/Multi-Sig/MIPXc2%20Subproposal%5BTemplate%5D.md).
+Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. In the event that a Multi-Sig decides to dissolve, the owners must fill out a [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md).
 
-Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/master/Multi-Sig/MIPXc2%20Subproposal%5BTemplate%5D.md) that will be subject to the following parameters before entering the next Governance cycle:
+Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md) that will be subject to the following parameters before entering the next Governance cycle:
 
 * Frozen Period: 2 weeks
 
