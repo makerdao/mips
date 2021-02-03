@@ -1,27 +1,22 @@
 # MIPX: Governance Rewards 
-
-## Preamble
+```
+Preamble
 
 MIP#: X
 
 Title: Governance Rewards
-
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
-
 Contributors:@LongForWisdom, @JuanJuan, @Elihu
 
 Type: General
-
 Status: <Assigned by MIP Editor>
 
 Date Proposed: <2021-02-03>
-
 Date Ratified: <yyyy-mm-dd>
 
 Dependencies:
-
 Replaces:
-
+```
 ## References
 
 * The initial idea for Governance Rewards can be found in [this forum post](https://forum.makerdao.com/t/introducing-dssgovrewards/5394)
