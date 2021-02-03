@@ -26,6 +26,24 @@ GovAlpha (GOV-001)
 Note that this permissioned address should not be used directly for budget implementations, but rather as a keyholder in a relevant multi-sig wallet that distributes the Core Unit Budget.
 
 ### Facilitator Commitment
-- The Facilitator Commitment is a detailed description and plan of what the Facilitator plans to do in order to achieve success for the Core Unit. There is a lot of flexibility in what a Facilitator can write in their commitment, including organizational structure and theory, plans for the budget, hiring and infrastructure plans, etc.
-- The Facilitator commitment should also contain targets and goals that can be observed by Governance, if appropriate. This helps Governance to see whether the Facilitator is living up to their expectations.
-- A crucial part of the Facilitator Commitment are clear commitments to transparency. The Facilitator should commit to an effective plan that will allow Governance and other stakeholders, such as contributors contemplating doing work, to gain direct insight into what is being worked on and who are taking care of what responsibilities.
+
+#### Plans and Goals
+
+**Quarterly Goal Setting and Review**  
+Rather than provide upfront plans of what I intend to achieve as Facilitator, I feel that it makes more sense to remain flexible and set and review goals on a more regular basis. You can find an example of this approach in the first GovAlpha budget proposal. The cryptocurrency and DeFi space is evolving rapidly, and I don't believe that setting goals for MakerDAO or for GovAlpha beyond that horizon makes sense at this time.
+
+With each budget proposal for GovAlpha, I will aim to produce a set of quarterly goals, and a review of the previous quarters goals, and how successful the Core Unit was at achieving them.
+
+**Future Growth**  
+A key longer-term goal is growth of GovAlpha. There is already more governance work than can be comfortably covered by one person alone. Onboarding additional facilitators and contributors will allow GovAlpha to tackle a greater number of projects and improvements to governance at MakerDAO.
+
+**Flexibility**  
+Due to the stated goal of onboarding additional facilitators to GovAlpha, any personal goals I have for the Core Unit will need to be tempered by the input of others, and likewise, other facilitators will have their own goals and priorities that I will need to accomodate. I believe this will result in a stronger and more focused Core Unit overall. 
+
+#### Transparency
+
+Transparency has always been a key consideration when I have taken action as a Governance Facilitator in the past, possibly to the point of frustration for some members of the community. I will aim to continue this trend in the operations of GovAlpha. In addition to the quarterly goals discussed above, any spending from the Core Unit budget will be recorded and publicized. 
+
+Additionally, I have recently been reserving an hour each week for the [Governance QA Meeting](https://forum.makerdao.com/t/meeting-governance-q-a-sessions/4633). This gives any participant in MakerDAO a chance to engage with me directly and ask questions and discuss any concerns they may have. I will continue these meetings in the future, as despite the inconsistent and low turnout, I have felt them to be valuable for those that have attended.
+
+As a Core Unit Facilitator of GovAlpha, I will of course continue to be accessible on the regularly used communication channels including Rocket Chat and the official forum. I will also consisently attend the weekly Governance and Risk Meetings, even if I am not running the meeting myself.
