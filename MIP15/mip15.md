@@ -64,9 +64,10 @@ A dark spell is necessary because it conceals the bytecode that fixes the critic
 
 **MIP15c1: Definitions**
 - **Critical bug:** a bug that, if exploited, would result in significant economic damage to the system, is feasible for an attacker to exploit against the Ethereum mainnet either now or in the near future, with the system in normal operational mode. 
-- **Spell:** A spell is an un-owned object that performs one action or a series of atomic actions (multiple transactions) one time only to the Maker protocol.
+- **Spell:** A spell is an un-owned object that performs one action or a series of atomic actions (multiple transactions) one time only to the Maker protocol.
 - **Dark Spell:** A special spell using an opcode that allows the address of a spell to be pre-determined before deployment. 
-- **Governance Security Module (GSM) Delay:** A configurable delay attribute, setting the minimum wait time before governance votes can be applied to the system.  
+- **Governance Security Module (GSM) Delay:** A configurable delay attribute, setting the minimum wait time before governance votes can be applied to the system.  
+
 
 ---
 
@@ -190,4 +191,3 @@ If offboarded through a MIP15c8 subproposal, the trusted third party is removed 
 -   **Frozen Period**: 0 days
 
 MIP15c8 subproposals must use the template located at  **[MIP15c8-Subproposal-Template.md](MIP15c8-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to the Accepted status.
-
