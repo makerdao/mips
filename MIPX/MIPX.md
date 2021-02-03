@@ -22,7 +22,7 @@ Replaces:
 * [The Flapper](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation)
 * [MIPXc2 Subproposal: Setting Fixed Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
 * [MIPXc3 Subproposal: Setting Variable Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc3%20Subproposal%20%5BTemplate%5D.md)
-* [MIPXc4 Subproposal: Stopping Distributions from the Keg](https://github.com/prose11/mips/blob/master/Non-Technical%20Keg/MIPXc4%20Subproposal%20%5BTemplate%5D.md)
+* [MIPXc4 Subproposal: Stopping Distributions from the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc4%20Subproposal%20%5BTemplate%5D.md)
 
 ## Sentence Summary
 
@@ -90,7 +90,7 @@ Due to contract limitations, only one stream may be taken from funds otherwise g
 
 In some time-sensitive scenarios, the Governance Facilitators may deem a Signal Request appropriate for stopping or pausing payments from the Keg.
 
-For any scenario not deemed urgent by Governance Facilitators, a [MIPXc4 Subproposal](https://github.com/prose11/mips/blob/master/Non-Technical%20Keg/MIPXc4%20Subproposal%20%5BTemplate%5D.md) must be utilized to stop the streaming of DAI to a particular flight. The proposal will be subject to the following parameters:
+For any scenario not deemed urgent by Governance Facilitators, a [MIPXc4 Subproposal](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc4%20Subproposal%20%5BTemplate%5D.md) must be utilized to stop the streaming of DAI to a particular flight. The proposal will be subject to the following parameters:
 
 * Feedback Period: 4 weeks
 * Frozen Period: 2 weeks
