@@ -23,7 +23,7 @@ GovAlpha (GOV-001)
 **Name:** @LongForWisdom  
 **Permissioned Address:** 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69  
 
-Note that this premissioned address should not be used directly for budget implementations, but rather as a keyholder in a relevant multi-sig wallet that distributes the Core Unit Budget.
+Note that this permissioned address should not be used directly for budget implementations, but rather as a keyholder in a relevant multi-sig wallet that distributes the Core Unit Budget.
 
 ### Facilitator Commitment
 - The Facilitator Commitment is a detailed description and plan of what the Facilitator plans to do in order to achieve success for the Core Unit. There is a lot of flexibility in what a Facilitator can write in their commitment, including organizational structure and theory, plans for the budget, hiring and infrastructure plans, etc.
