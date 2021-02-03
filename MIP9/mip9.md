@@ -24,7 +24,7 @@ MIP9 defines the process by which MKR Token Holders can signal their judgment on
 
 ## Paragraph Summary
 
-This proposal aims to standardize the process for allowing MKR Token Holders to inform the Domain Teams of their preferences for collateral types that have been proposed through MIP6. The preferences of the MKR Token holders are expressed in the form of an on-chain governance poll. The governance poll (Community Greenlight poll) is published at the start of the third week of the governance cycle and will run for a period of two weeks ending in the fourth and final week of the governance cycle. 
+This proposal aims to standardize the process for allowing MKR Token Holders to inform the Domain Teams of their preferences for collateral types that have been proposed through MIP6. The preferences of the MKR Token holders are expressed in the form of an on-chain governance poll. The governance poll (Community Greenlight poll) is published at the start of the third week of the governance cycle and will run for a period of two weeks ending in the fourth and final week of the governance cycle.
 
 ## Component Summary
 
@@ -44,7 +44,6 @@ Defines a governance poll template to be used in the on-chain Community Greenlig
 
 While domain teams are free to choose their own workload, an on-chain governance poll provides the Domain Teams key insights into the community's sentiment for each collateral type that has been proposed. In addition to this, it is important to gather the opinion of MKR Token Holders towards the proposed collateral asset before the full domain work takes place. This helps prevent work from being wasted on undesirable collateral types.
 
-
 ## Specification / Proposal Details
 
 ### MIP9c1: The Community Greenlight Process
@@ -53,12 +52,10 @@ While domain teams are free to choose their own workload, an on-chain governance
 - The community greenlight process for a potential collateral asset consists of an on-chain governance poll using the template defined in MIP9c4.
 - The community greenlight polls occur at a fixed time each governance cycle, starting on the 3rd Monday of the month and running for a period of 2 full weeks.
 - A potential collateral asset is valid for a community greenlight poll if it has a MIP6 Application that has been published on the official forum for a period of 2 weeks prior to the monthly community greenlight poll date.
-    
 
 #### Community Greenlight Process Overview Diagram
 
 <img width="722" alt="mip9-a" src="https://user-images.githubusercontent.com/32653033/83067877-65367500-a035-11ea-9fb9-acefca9ec366.png">
-
 
 ---
 ### MIP9c2: The Community Greenlight Outcomes
@@ -117,6 +114,6 @@ Two weeks
 
 **Poll Options**
 - Yes (Greenlight)
-- No (Defer) 
+- No (Defer)
 
 ---

@@ -3,7 +3,7 @@
 ## Preamble
 ```
 MIP#: 10
-Title: Oracle Management 
+Title: Oracle Management
 Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
 Type: Process
 Status: Accepted
@@ -14,25 +14,25 @@ Replaces: n/a
 ```
 
 ## References
-**[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**   
-**[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**   
-**[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**   
-**[MIP10c5-List-of-Active-Oracles.md](MIP10c5-List-of-Active-Oracles.md)**    
-**[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**    
-**[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**   
-**[MIP10c8-List-of-Oracle-Data-Models.md](MIP10c8-List-of-Oracle-Data-Models.md)**   
-**[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**   
-**[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**    
-**[MIP10c11-List-of-Oracle-Whitelists.md](MIP10c11-List-of-Oracle-Whitelists.md)**    
-**[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**    
-**[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**    
-**[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**    
-**[MIP10c15-Subproposal-Template.md](MIP10c15-Subproposal-Template.md)**    
-**[MIP10c16-Subproposal-Template.md](MIP10c16-Subproposal-Template.md)**    
-**[MIP10c17-List-of-Feeds.md](MIP10c17-List-of-Feeds.md)**    
-**[MIP10c18-Subproposal-Template.md](MIP10c18-Subproposal-Template.md)**    
-**[MIP10c19-Subproposal-Template.md](MIP10c19-Subproposal-Template.md)**    
-**[MIP10c20-Subproposal-Template.md](MIP10c20-Subproposal-Template.md)**  
+**[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**
+**[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**
+**[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**
+**[MIP10c5-List-of-Active-Oracles.md](MIP10c5-List-of-Active-Oracles.md)**
+**[MIP10c6-Subproposal-Template.md](MIP10c6-Subproposal-Template.md)**
+**[MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md)**
+**[MIP10c8-List-of-Oracle-Data-Models.md](MIP10c8-List-of-Oracle-Data-Models.md)**
+**[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**
+**[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**
+**[MIP10c11-List-of-Oracle-Whitelists.md](MIP10c11-List-of-Oracle-Whitelists.md)**
+**[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**
+**[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**
+**[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**
+**[MIP10c15-Subproposal-Template.md](MIP10c15-Subproposal-Template.md)**
+**[MIP10c16-Subproposal-Template.md](MIP10c16-Subproposal-Template.md)**
+**[MIP10c17-List-of-Feeds.md](MIP10c17-List-of-Feeds.md)**
+**[MIP10c18-Subproposal-Template.md](MIP10c18-Subproposal-Template.md)**
+**[MIP10c19-Subproposal-Template.md](MIP10c19-Subproposal-Template.md)**
+**[MIP10c20-Subproposal-Template.md](MIP10c20-Subproposal-Template.md)**
 **[MIP10c21-Subproposal-Template.md](MIP10c21-Subproposal-Template.md)**
 
 ## Sentence Summary
@@ -41,37 +41,37 @@ MIP10 defines how oracles are onboarded, offboarded and managed in order to supp
 
 ## Paragraph Summary
 
-This proposal defines the processes for onboarding, offboarding and managing Oracles. This encompasses a diverse array of components. Beginning with selecting Data Models for assets which are used for computing aggregated data into a canonical price. Continuing onward, processes are defined for adding and removing Feeds, agents who run Data Models and publish the resulting prices. Furthermore, it describes the governance procedures for creating new Oracles for new asset classes, whether they be collateral in the Maker Protocol or request by 3rd parties. Governance controls access to read prices from the Oracles through a whitelist, enabling MKR token holders to earn revenue through regulating whitelist access. It is the responsibility of governance to administer a host of risk parameters including the Oracle Seucrity Module Delay, Oracle Expiration Time, and Oracle Spread to ensure the proper operation of the Oracle infrastructure.
+This proposal defines the processes for onboarding, offboarding and managing Oracles. This encompasses a diverse array of components. Beginning with selecting Data Models for assets which are used for computing aggregated data into a canonical price. Continuing onward, processes are defined for adding and removing Feeds, agents who run Data Models and publish the resulting prices. Furthermore, it describes the governance procedures for creating new Oracles for new asset classes, whether they be collateral in the Maker Protocol or request by 3rd parties. Governance controls access to read prices from the Oracles through a whitelist, enabling MKR token holders to earn revenue through regulating whitelist access. It is the responsibility of governance to administer a host of risk parameters including the Oracle Security Module Delay, Oracle Expiration Time, and Oracle Spread to ensure the proper operation of the Oracle infrastructure.
 
 ## Component Summary
 
 ### Oracles
 
 **Description**
-The Maker Protocol utilizes the Oracles to obtain a real-time stream of the price of the collateral assets. This price is utilized to ensure positions are sufficiently capitalized and liquidate positions below the collateralization ratio. It also limits the maximum amount of Dai a user can generate against their collateral. Given the widespread effects the Oracles have on the Maker Protocol, it is imperative that the Data Models used in their implementations are refined to mitigate risk and optimize performance. These Data Models define where data is sourced from and how it is filtered into a canonical price. 
+The Maker Protocol utilizes the Oracles to obtain a real-time stream of the price of the collateral assets. This price is utilized to ensure positions are sufficiently capitalized and liquidate positions below the collateralization ratio. It also limits the maximum amount of Dai a user can generate against their collateral. Given the widespread effects the Oracles have on the Maker Protocol, it is imperative that the Data Models used in their implementations are refined to mitigate risk and optimize performance. These Data Models define where data is sourced from and how it is filtered into a canonical price.
 
-**MIP10c1: Oracle Onboarding (OT)**  
+**MIP10c1: Oracle Onboarding (OT)**
 Defines a process for onboarding new oracles into the Maker Protocol.
 
-**MIP10c2: Process for Oracle Onboarding Request**   
+**MIP10c2: Process for Oracle Onboarding Request**
 A process component that defines the method and template to request a new Oracle.
 
-**MIP10c3: Process to Onboard Oracle (OT)**  
+**MIP10c3: Process to Onboard Oracle (OT)**
 A process component that defines the method and template for the Oracle Team to onboard a new Oracle.
 
-**MIP10c4: Process to Offboard Oracle**  
-A process component that defines the method and template to offboard an Oracle in the case it has become obsolete or otherwise undesireable.
+**MIP10c4: Process to Offboard Oracle**
+A process component that defines the method and template to offboard an Oracle in the case it has become obsolete or otherwise undesirable.
 
-**MIP10c5: List of Active Oracles**   
+**MIP10c5: List of Active Oracles**
 A list component that is kept-up-to-date with the currently active Oracles and their properties.
 
-**MIP10c6: Process for Data Model Update Request**   
+**MIP10c6: Process for Data Model Update Request**
 A process component that defines the method and template to request to update a Data Model.
 
-**MIP10c7: Process to Update Oracle Data Model (OT)**   
+**MIP10c7: Process to Update Oracle Data Model (OT)**
 A process component that defines the method and template for the Oracle Team to update the Data Model of an asset pair.
 
-**MIP10c8: List of Oracle Data Models**  
+**MIP10c8: List of Oracle Data Models**
 A list component that is kept up-to-date with the ratified Oracle Data Models.
 
 ### Whitelist
@@ -79,54 +79,53 @@ A list component that is kept up-to-date with the ratified Oracle Data Models.
 **Description**
 The ability to read data from the Oracles is regulated by a whitelist. This enables awareness of who is using the Oracle, and how, which helps mitigate fallout from migrations. Additionally it empowers governance to monetize the Oracle infrastructure as a service, the proceeds of which are funneled to MKR holders to help offset the cost of maintaining the Oracle infrastructure.
 
-**MIP10c9: Process to Whitelist Oracle Access**   
+**MIP10c9: Process to Whitelist Oracle Access**
 A process component that defines the method and template to whitelist access for a specific Oracle.
 
-**MIP10c10: Process to Remove Oracle Access**   
+**MIP10c10: Process to Remove Oracle Access**
 A process component that defines the method and template to remove whitelist access for a specific Oracle.
 
-**MIP10c11: List of Oracle Whitelists**   
+**MIP10c11: List of Oracle Whitelists**
 A list component that is kept up-to-date with the whitelist for each Oracle.
 
-**MIP10c12: Process to Update Oracle Access Fee**   
+**MIP10c12: Process to Update Oracle Access Fee**
 A process component that defines the method and template to update the Oracle Access Fee.
 
 ### Feeds:
 
 **Description**
-Feeds are bots run by individuals and organizations that submit data to the Oracles. There are two types of Feeds; Dark Feeds run by anonymous individuals, and Light Feeds run by public organizations. This hybrid model preserves the hardness properties of Dark Feeds but benefits from the reputation of Light Feeds who are stakeholders in the ecosystem and are effectively staking their reputation. Feeds are paid a monthly Feed Stipend for the service they provide that is determined by governance. 
+Feeds are bots run by individuals and organizations that submit data to the Oracles. There are two types of Feeds; Dark Feeds run by anonymous individuals, and Light Feeds run by public organizations. This hybrid model preserves the hardness properties of Dark Feeds but benefits from the reputation of Light Feeds who are stakeholders in the ecosystem and are effectively staking their reputation. Feeds are paid a monthly Feed Stipend for the service they provide that is determined by governance.
 
-**MIP10c13: Process to Appoint Dark Feed**   
+**MIP10c13: Process to Appoint Dark Feed**
 A process component that defines the method and template to appoint a Dark Feed.
 
-**MIP10c14: Process to Appoint Light Feed**   
+**MIP10c14: Process to Appoint Light Feed**
 A process component that defines the method and template to appoint a Light Feed.
 
 **MIP10c15: Process to Appoint Feed (OT)**
 A process component that defines the method and template for the Oracle Team to appoint a Feed.
 
-**MIP10c16: Process to Remove Feed**   
+**MIP10c16: Process to Remove Feed**
 A process component that defines the method and template to remove a Feed.
 
-**MIP10c17: List of Feeds**   
+**MIP10c17: List of Feeds**
 A list component that is kept up-to-date with the current Feeds.
 
-**MIP10c18: Process to Update Feed Stipend**   
+**MIP10c18: Process to Update Feed Stipend**
 A process component that defines the method and template to update the Feed Stipend.
-
 
 ### Oracle Parameters:
 
 **Description**
 The Oracle system has several parameters that determine how frequently the Oracles are updated. Updating more frequently leads to a more sensitive Oracle, at the expense of higher costs. The Oracle Security Module (OSM) is the watchdog between the Oracle and the Maker Protocol. It delays prices by a delay interval before the price is utilizied by the Maker Protocol. This delay protects the Maker Protocol from Oracle attacks by enabling Governance to take emergency action during the delay period.
 
-**MIP10c19: Process to Update Oracle Expiration Time**   
+**MIP10c19: Process to Update Oracle Expiration Time**
 A process component that defines the method and template to update the Oracle Expiration Time.
 
-**MIP10c20: Process to Update Oracle Spread**   
+**MIP10c20: Process to Update Oracle Spread**
 A process component that defines the method and template to update the Oracle Spread.
 
-**MIP10c21: Process to Update Oracle Security Module Delay**   
+**MIP10c21: Process to Update Oracle Security Module Delay**
 A process component that defines the method and template to update the Oracle Security Module Delay.
 
 ## Motivation
@@ -143,13 +142,13 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 
 1. An Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
 2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
-3. The Oracle Team submits a Polling Vote to the Governance Portal. If the Oracle is being onboarded as part of the collateral onboarding process, this proposal may be bundled up with other deliverables necessary for collateral onboarding.  
+3. The Oracle Team submits a Polling Vote to the Governance Portal. If the Oracle is being onboarded as part of the collateral onboarding process, this proposal may be bundled up with other deliverables necessary for collateral onboarding.
 4. If the Polling Vote passes, the Oracle Team will alert the Feeds to update their Oracle clients. If the Polling Vote fails the Oracle Team may make changes to the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and resubmit a new Polling Vote. If the Oracle Team does not, and no other Oracle Team decides to take up this responsibility, the process ends here.
-5. Oracle Team Notifies the Feeds to update their Oracle clients 
+5. Oracle Team Notifies the Feeds to update their Oracle clients
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy and 1 week to confirm stability
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c15.
-6. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
+6. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote.
 
 7. The Oracle Team(s) update [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to append the new Oracle and submit a PR to the MIPS Github repo.
 8. The Oracle Team(s) update [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to append the new Data Model and submit a PR to the MIPS Github repo.
@@ -169,7 +168,7 @@ MIP10c2 subproposals must use the template located at **[MIP10c2-Subproposal-Tem
 
 **An Oracle Team may opt to skip this step and submit MIP10c3**
 
-1. A community member or other 3rd party publishes the [MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. Typically this will be a 3rd party with a desire to consume the requested Oracle's data. 
+1. A community member or other 3rd party publishes the [MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md) in the Oracle section of the Maker Forum. Typically this will be a 3rd party with a desire to consume the requested Oracle's data.
 
 2. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Oracle Onboarding process.
 
@@ -177,7 +176,7 @@ MIP10c2 subproposals must use the template located at **[MIP10c2-Subproposal-Tem
 
 ### MIP10c3: Process to Onboard Oracle (OT)
 
-Used by the Oracle Team(s) to onboard new Oracles for collateral assets or assets requested by 3rd parties.  
+Used by the Oracle Team(s) to onboard new Oracles for collateral assets or assets requested by 3rd parties.
 
 MIP10c3 subproposals have the following parameters:
 - **Feedback Period:** 0 days
@@ -188,7 +187,7 @@ MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Tem
 1. The Oracle Team verifies for each customer whitelisted contract:
     - contract is verified on etherscan
     - contract uses Oracle data in a permissioned manner so as to prohibit on-chain parasitic behavior by 3rd parties.
-    - If Oracle data is saved to storage, it is stored in a private variable accessible exclusively by the protocol.  
+    - If Oracle data is saved to storage, it is stored in a private variable accessible exclusively by the protocol.
 2. The Oracle Team finds and selects data sources
     - Exchange options
     - Pair options
@@ -202,7 +201,7 @@ MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Tem
     - Oracle Security Module (OSM) - only required for collateral assets
 
 6. The Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-    
+
 ---
 
 ### MIP10c4: Process to Offboard Oracle
@@ -223,15 +222,15 @@ MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Tem
 5. The Oracle Team completes the following technical deliverables:
     - Update price querying tool(s) to cease collecting data for the Oracle.
     - Update the Oracle client(s) to integrate the latest version of the price querying tool(s) and cease publishing data for the Oracle.
-6. After the 30-day period has elapsed, the Oracle Team Notifies the Feeds to update their Oracle clients 
+6. After the 30-day period has elapsed, the Oracle Team Notifies the Feeds to update their Oracle clients
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
-7. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote. 
-8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to remove the Oracle and submits a PR to the MIPS Github repo. 
+7. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote.
+8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to remove the Oracle and submits a PR to the MIPS Github repo.
 9. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to remove all whitelist entries and submits a PR to the MIPS Github repo.
 
---- 
+---
 
 ### MIP10c5: List of Active Oracles
 A canonical record of the Oracles in active operation by the Maker Protocol.
@@ -279,7 +278,7 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
 4. The Oracle Team submits a Polling Vote to the Governance Portal.
 5. If the Polling Vote passes, the Oracle Team gives 30 day notice to any customers whitelisted on the Oracle that the Oracle Data Model is changing.
     - Notice is sent to each customer via the email provided in MIP10c9.
-6. After the 30-day period has elapsed, the Oracle Team notifies the Feeds to update their Oracle clients 
+6. After the 30-day period has elapsed, the Oracle Team notifies the Feeds to update their Oracle clients
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
@@ -289,7 +288,6 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
 ---
 
 ### MIP10c8: List of Oracle Data Models
-
 
 A canonical record of the ratified Data Models actively being used by the Oracles.
 
@@ -303,7 +301,7 @@ It is the responsibility of the Oracle Team(s) to ensure MIP10c8 is kept up to d
 
 ### MIP10c9: Process to Whitelist Oracle Access
 
-Used by the community to request whitelist access to an Oracle. 
+Used by the community to request whitelist access to an Oracle.
 
 MIP10c9 subproposals have the following parameters:
 - **Feedback Period:** 0 days
@@ -415,7 +413,7 @@ MIP10c14 subproposals have the following parameters:
 
 MIP10c14 subproposals must use the template located at **[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**.
 
-1. An institution publishes [MIP10c14-Subproposal-Template](MIP10c14-Subproposal-Template.md) to the Oracle section of the Maker FOrum and submits a PR to the MIPS Github repo.
+1. An institution publishes [MIP10c14-Subproposal-Template](MIP10c14-Subproposal-Template.md) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
 
 2. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to validate the information provided. The Oracle Team may ask follow-up questions or request more data from the proposer.
 
@@ -435,7 +433,7 @@ MIP10c15 subproposals have the following parameters:
 
 MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-Template.md](MIP10c15-Subproposal-Template.md)**.
 
-1. The Oracle Team compiles and asseses the information provided in MIP10c13/MIP10c14. The Oracle Team compiles and publishes [MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+1. The Oracle Team compiles and assesses the information provided in MIP10c13/MIP10c14. The Oracle Team compiles and publishes [MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
 
 2. The community reviews and gives feedback on the proposal.
 
@@ -478,7 +476,6 @@ MIP10c16 subproposals must use the template located at **[MIP10c16-Subproposal-T
 6. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md)
 
 7. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md)
-
 
 ---
 
@@ -558,4 +555,3 @@ MIP10c21 subproposals must use the template located at **[MIP10c21-Subproposal-T
 **Placeholder MIP component**
 
 ---
-

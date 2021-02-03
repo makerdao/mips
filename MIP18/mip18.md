@@ -8,7 +8,7 @@ Title: Meta-Parameter Adjustments
 Author(s): @LongForWisdom, Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: 
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-07-07
 Date Ratified: 2020-07-28
 Dependencies:
