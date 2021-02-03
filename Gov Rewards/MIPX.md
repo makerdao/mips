@@ -20,7 +20,7 @@ Replaces:
 ## References
 
 * The initial idea for Governance Rewards can be found in [this forum post](https://forum.makerdao.com/t/introducing-dssgovrewards/5394)
-* [MIPXc2 - Setting and Adjusting Governance Reward Parameters Subproposal [Template]](https://docs.google.com/document/d/1p4kQIPqx30DfGw_2PzTeIMiQdS-vAltKJ2Ay-eqiv4s/edit?usp=sharing)
+* [MIPXc2 - Setting and Adjusting Governance Reward Parameters Subproposal [Template]](https://github.com/prose11/mips/blob/master/Gov%20Rewards/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
 
 ## Sentence Summary
 
@@ -68,7 +68,7 @@ Note: MKR holders should be aware of any tax and legal implications in their jur
 
 The Community desire for Governance Rewards must be carefully weighed against the risk of allowing a mechanism for MKR holders to reward themselves with protocol funds.
 
-Proposed changes to the percentage of surplus revenue diverted from burn to Governance Rewards must be submitted as [MIPXc2 subproposals](https://docs.google.com/document/d/1p4kQIPqx30DfGw_2PzTeIMiQdS-vAltKJ2Ay-eqiv4s/edit?usp=sharing) and will be subject to the following parameters:
+Proposed changes to the percentage of surplus revenue diverted from burn to Governance Rewards must be submitted as [MIPXc2 subproposals](https://github.com/prose11/mips/blob/master/Gov%20Rewards/MIPXc2%20Subproposal%20%5BTemplate%5D.md) and will be subject to the following parameters:
 
 * Feedback Period: 6 weeks
 * Frozen Period: 2 weeks
