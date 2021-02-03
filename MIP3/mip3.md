@@ -40,6 +40,10 @@ Breaks the Governance Cycle down into the actions that take place each week of t
 
 A process component that defines a method and template for the modification of the default inclusion threshold.
 
+**MIP3c4: Calendar Exceptions**  
+
+Defines exceptions to the monthly governance cycle due to holidays.
+
 
 ## Motivation
 
@@ -135,5 +139,13 @@ MIP3c2 subproposals have the following parameters:
 
 
 MIP3c2 subproposals must use the template located at  **[MIP3c2-Subproposal-Template.md](MIP3c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+
+---
+
+### MIP3c4: Calendar Exceptions
+
+In order to allow Maker Governance to enjoy the holiday season, there will be no monthly governance cycle in the month of December. 
+
+Although Maker is intended to be a global protocol, in its current state the majority of the active members of governance are located in the United States or Europe. Both these regions have winter holidays that would clash with the conclusion of a monthly governance cycle in December. It is hoped that this exception can be removed in the future when governance of the protocol is more globally distributed.
 
 ---
