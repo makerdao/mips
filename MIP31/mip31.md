@@ -32,7 +32,7 @@ This MIP will adapt the open source contract from Uniswap to create a reserve DA
 It will keep the main method, the swap, remove the fix fees to be changeable via a governance parameter.
 It will also remove the 'share' token creation as we will be the only owner and modify the add and remove liquidity part to be more direct, accessible only by the governance and fees-less.
 
-It will also refactor the flash minting part to be independent from the swap and add a poke call during the update.
+It will also refactor the flash minting part to be moved out the swap and add a poke call during the update.
 
 ## Component Summary
 
@@ -112,13 +112,13 @@ The overall logic is based on [uniswapV2 contract](https://github.com/Uniswap/un
 The swap mechanism won't change dramatically, we will add fee as parameter, a poke() call during the update and non used mechanism will be clean up.
 `mint` and `burn`, will be replaced by `deposit` and `withdraw`. 
 
-The flash minting part will be moved out side the main method to be independent and fees can be setted separately. They will respect the new standard introduced by Sam.
+The flash minting part will be moved outside the main method to be independent and fees will be setted separately. They will respect the new standard introduced by Sam.
 
 ### MIP31c1: Parameter Definitions
  - `fees`       : percentage of the amount takes as fees for each swap.
  - `flash_fees` : percentage of the amount takes as fees for each flashmint/flashloan.
  - `period`     : period of time between each poke() call
- - `poker`     : pocker contract interface with the poker.
+ - `poker`      : pocker contract interface with the poker.
    
 ### MIP31c2: Functions
 
@@ -166,7 +166,7 @@ The flash minting part will be moved out side the main method to be independent 
 
  * The amount is return before the end of the transaction.
  
-  * Update the reserve after each flashLoan
+ * Update the reserve after each flashLoan
 
 ### MIP31c6: flashMint()
 
