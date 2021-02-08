@@ -122,12 +122,18 @@ The flash minting part will be moved outside the main method to be independent a
    
 ### MIP31c2: Functions
 
-5 functions :
+there are forth external functions :
  - `swap()` : uniswap function to swap two token.
- - `deposit()` : to deposit some liquidity or reserve.
- - `withdraw()` : to withdraw the reserve.
  - `flashLoan()` : Allow flash loan on the token from the reserve.
  - `flashMint()` : Allow flash mint on the dai from the reserve.
+ - `getReserves()` : To get the reserve
+
+there are five admin functions :
+ - `deposit()` : to deposit some liquidity or reserve.
+ - `withdraw()` : to withdraw the reserve.
+ - `file(bytes32 what, data)` : To change parameters
+ - `rely(address contract)` : To add authorized address
+ - `deny(address contract)` : To remove authorized address
 
 ### MIP31c3: swap()
 
@@ -184,7 +190,7 @@ The flash minting part will be moved outside the main method to be independent a
 
  * poker.poke() is called during the update phase.
  
- * poke() sends 5 parameters `addressToken`, `priceDaiCumulativeLast`, `priceTokenCumulativeLast`, `daiReserve`, `tokenReserve`
+ * poke() sends 5 parameters `addressToken`, `priceDaiCumulativeLast`, `priceTokenCumulativeLast`, `daiReserve`, `tokenReserve`, `daiBalance`, `tokenBalance`
 
  * It is call only if the `period` after the last call is over.
  
