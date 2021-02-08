@@ -1,6 +1,7 @@
 # MIP30: Farmable cUSDC Adapter (`CropJoin`)
 
 ## Preamble
+
 ```
 MIP#: 30
 Title: Farmable cUSDC Adapter (`CropJoin`)
@@ -14,6 +15,7 @@ Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 - The proposed [CropJoin](https://github.com/rainbreak/crop) implementation
@@ -150,9 +152,11 @@ Due to the design of multi-collateral DAI, worst-case losses should be limited t
 It is fair to say that cUSDC-CROP collateral inherits the risks of USDC, and includes the following additional risks, as a minimum:
 
 ##### Compound insolvency contagion risk
+
 If the value of collateral/outstanding borrows in the Compound system drops/rises (respectively) too quickly before collateral can be liquidated to cover debts, it is possible for the system to become insolvent (similarly to how underwater CDPs in MakerDAO can exhaust the surplus buffer and eventually lead to insolvency). In that case, users of this adapter may take a loss, and if the loss is great enough, cUSDC-CROP CDPs may become underwater too, resulting in Compound insolvency spreading to MakerDAO.
 
 ##### Compound liquidity risk
+
 Even if the Compound system is solvent, there is no theoretical guarantee that it is possible at any time to withdraw a supplied asset, since the reserves of the supplied asset may be tied up in outstanding borrows. In that case, it may be impossible to withdraw USDC from the adapter until a USDC reserve is accumulated in the contract, either through repaid borrows or additional supply. In order to prevent illiquidity events, Compound adjusts supply and borrow rates dynamically based on utilization, incentivizing supply and repayment with very high interest rates when reserves run low. Historically, the Compound platform has been successful at managing liquidity with this technique.
 
 #### MIP30c4B: Governance considerations
@@ -162,6 +166,7 @@ In order for the cUSDC-CROP collateral type to stay competitive relative to othe
 In the future, the same mechanism can be used to  deploy adapters for leveraging other "yield farming" schemes.
 
 #### MIP30c4C: Example parameters
+
 _n.b. see [predictions.exchange](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'400',%20'300'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D) or [stat.farm](https://stat.farm) for useful COMP-adjusted yield calculators_
 
 [At the time of writing, a "levered" Compound USDC deposit (with LTV of 67.4%) yielded a COMP-adjust APY of about 14.6%.](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'307',%20'207'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D)
@@ -177,4 +182,5 @@ The proposed contract is written in a way which is amenable to formal specificat
 No audit or code review has taken place yet.
 
 ### MIP30c6: Licensing
+
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)

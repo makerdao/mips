@@ -1,6 +1,7 @@
 # MIP20: Target Price Adjustment Module (`Vox`)
 
 ## Preamble
+
 ```
 MIP#: 20
 Title: Target Price Adjustment Module (`Vox`)
@@ -14,6 +15,7 @@ Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 - The proposed [dss-vox](https://github.com/livnev/dss-vox) implementation
