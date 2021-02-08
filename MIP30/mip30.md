@@ -1,29 +1,30 @@
 # MIP30: Farmable cUSDC Adapter (`CropJoin`)
 
 ## Preamble
+
 ```
 MIP#: 30
 Title: Farmable cUSDC Adapter (`CropJoin`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-11-16
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-01-30
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 - The proposed [CropJoin](https://github.com/rainbreak/crop) implementation
 
 ## Sentence summary
 
-This is a proposal for the technical implementation of a USDC collateral type which would allow a CDP user to benefit from the COMP "farming" reward, by depositing the collateral into Compound and optimising its COMP yield through "tactical resupply".
+This is a proposal for the technical implementation of a USDC collateral type which would allow a CDP user to benefit from the COMP "farming" reward, by depositing the collateral into Compound and optimizing its COMP yield through "tactical resupply".
 
 ## Paragraph summary
-
 
 COMP farming offers an attractive yield on USDC with very little risk, and the ability to receive additional leverage from a CDP is likely to present an attractive opportunity for a yield-seeking investor, so this collateral type could be expected to produce very high dai issuance, while generating significantly higher fees for MakerDAO than what is currently collected on MakerDAO's significant stablecoin exposure. We propose a new USDC based collateral adapter that performs COMP farming on behalf of depositors.
 
@@ -41,7 +42,6 @@ COMP farming offers an attractive yield on USDC with very little risk, and the a
 
 **MIP30c6: Licensing:** states the license under which the proposal and code are distributed.
 
-
 ## Motivation
 
 ### Background
@@ -57,7 +57,6 @@ With interest rates near the zero lower bound, governance was left with limited 
 - [open market operations to buy stablecoins with DAI, aka PSM][PSM]
 - [the implementation of negative interest rates using TPAM, aka `Vox`][TPAM]
 - accelerating the timeline for real-world assets using [MIP 21] and [MIP 22]
-
 
 [PSM]:    https://forum.makerdao.com/t/peg-stabilization-modules-a-pre-mip-discussion/3045
 [TPAM]:   https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196
@@ -123,9 +122,8 @@ COMP rewards are determined by the total assets that a user has supplied and bor
 
 In [wind.sol] we extend the rewards adapter described above, specialising it to receiving COMP rewards for supplying / borrowing cUSDC, via an iterative method with optional user-provided loans. There are two methods:
 
-- `wind` supplies adapter USDC to Compound and maximises leverage up to a given target.
+- `wind` supplies adapter USDC to Compound and maximizes leverage up to a given target.
 - `unwind` reduces leverage when over the target, and allows for USDC to be redeemed from Compound prior to user `exit`.
-
 
 ### MIP30c2: Test cases
 
@@ -154,18 +152,21 @@ Due to the design of multi-collateral DAI, worst-case losses should be limited t
 It is fair to say that cUSDC-CROP collateral inherits the risks of USDC, and includes the following additional risks, as a minimum:
 
 ##### Compound insolvency contagion risk
+
 If the value of collateral/outstanding borrows in the Compound system drops/rises (respectively) too quickly before collateral can be liquidated to cover debts, it is possible for the system to become insolvent (similarly to how underwater CDPs in MakerDAO can exhaust the surplus buffer and eventually lead to insolvency). In that case, users of this adapter may take a loss, and if the loss is great enough, cUSDC-CROP CDPs may become underwater too, resulting in Compound insolvency spreading to MakerDAO.
 
 ##### Compound liquidity risk
-Even if the Compound system is solvent, there is no theoretical guarantee that it is possible at any time to withdraw a supplied asset, since the reserves of the supplied asset may be tied up in outstanding borrows. In that case, it may be impossible to withdraw USDC from the adapter until a USDC reserve is accumulated in the contract, either through repaid borrows or additional supply. In order to prevent illiquidity events, Compound adjusts supply and borrow rates dynamically based on utilisation, incentivising supply and repayment with very high interest rates when reserves run low. Historically, the Compound platform has been successful at managing liquidity with this technique.
+
+Even if the Compound system is solvent, there is no theoretical guarantee that it is possible at any time to withdraw a supplied asset, since the reserves of the supplied asset may be tied up in outstanding borrows. In that case, it may be impossible to withdraw USDC from the adapter until a USDC reserve is accumulated in the contract, either through repaid borrows or additional supply. In order to prevent illiquidity events, Compound adjusts supply and borrow rates dynamically based on utilization, incentivizing supply and repayment with very high interest rates when reserves run low. Historically, the Compound platform has been successful at managing liquidity with this technique.
 
 #### MIP30c4B: Governance considerations
 
-In order for the cUSDC-CROP collateral type to stay competitive relative to other Defi yield opportunities, while maximising returns for MakerDAO, it may be necessary to periodically adjust the stability fee to reflect prevailing market rates and the Compound COMP-adjusted yield on USDC.
+In order for the cUSDC-CROP collateral type to stay competitive relative to other Defi yield opportunities, while maximizing returns for MakerDAO, it may be necessary to periodically adjust the stability fee to reflect prevailing market rates and the Compound COMP-adjusted yield on USDC.
 
 In the future, the same mechanism can be used to  deploy adapters for leveraging other "yield farming" schemes.
 
 #### MIP30c4C: Example parameters
+
 _n.b. see [predictions.exchange](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'400',%20'300'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D) or [stat.farm](https://stat.farm) for useful COMP-adjusted yield calculators_
 
 [At the time of writing, a "levered" Compound USDC deposit (with LTV of 67.4%) yielded a COMP-adjust APY of about 14.6%.](https://www.predictions.exchange/compound/%5B%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'307',%20'207'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D,%20%5B'0',%20'0'%5D%5D)
@@ -180,6 +181,6 @@ The proposed contract is written in a way which is amenable to formal specificat
 
 No audit or code review has taken place yet.
 
-
 ### MIP30c6: Licensing
+
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)

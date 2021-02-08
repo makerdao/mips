@@ -5,9 +5,9 @@
 MIP#: 15
 Title: Dark Spell Mechanism
 Author(s): Wil Barnes (@wilbarnes), Charles St.Louis (@CPSTL)
-Contributors: 
-Type: Process 
-Status: Request for Comments (RFC)
+Contributors:
+Type: Process
+Status: Accepted
 Date Proposed: 2020-05-21
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
@@ -15,9 +15,9 @@ Replaces:
 ```
 ## References
 
-**[Dark Spell Github Repository](https://github.com/makerdao/dss-darkspell)**  
-**[MIP15c7-Subproposal-Template.md](MIP15c7-Subproposal-Template.md)**  
-**[MIP15c8-Subproposal-Template.md](MIP15c8-Subproposal-Template.md)**  
+**[Dark Spell Github Repository](https://github.com/makerdao/dss-darkspell)**
+**[MIP15c7-Subproposal-Template.md](MIP15c7-Subproposal-Template.md)**
+**[MIP15c8-Subproposal-Template.md](MIP15c8-Subproposal-Template.md)**
 
 ## Sentence Summary
 
@@ -25,7 +25,7 @@ MIP15 proposes a process for applying critical bug fixes to the Maker Protocol.
 
 ## Paragraph Summary
 
-As a means to protect MKR holders and the greater Maker community from a critical vulnerability, a special spell maneuver can be used in lieu of an unplanned Emergency Shutdown, allowing protocol fixes to be applied with zero downtime. 
+As a means to protect MKR holders and the greater Maker community from a critical vulnerability, a special spell maneuver can be used in lieu of an unplanned Emergency Shutdown, allowing protocol fixes to be applied with zero downtime.
 
 This MIP proposes a special spell mechanism called a "dark spell" that conceals sensitive bytecode for the full duration of the governance vote and Governance Security Module (GSM) delay. A necessary mechanism as on-chain bytecode awaiting the GSM delay can be reverse-engineered by sophisticated attackers before going into effect. This is an improvement over using Emergency Shutdown but introduces a level of trust between the community and the Smart Contracts (SC) domain team.
 
@@ -38,45 +38,43 @@ Defines several concepts that are important for understanding the Dark Spell mec
 A step-by-step walkthrough of how a dark spell is deployed and an overview of which stakeholders are involved in the process.
 
 **MIP15c3: Dark Spell Requirements**
-Defines the critical bug criteria that necessitate a dark spell. 
+Defines the critical bug criteria that necessitate a dark spell.
 
 **MIP15c4: Dark Spell Governance Vote**
-Defines the required governance processes for implementing a dark spell, independent of the monthly governance cycle. 
+Defines the required governance processes for implementing a dark spell, independent of the monthly governance cycle.
 
 **MIP15c5: Policy**
-Describes the Policy for handling critical vulnerabilities in the Maker Protocol. 
+Describes the Policy for handling critical vulnerabilities in the Maker Protocol.
 
 **MIP15c6: Active List of Trusted Third Parties**
-A list of the Trusted Third Parties that have been voted in by MKR holders. 
+A list of the Trusted Third Parties that have been voted in by MKR holders.
 
 **MIP15c7: Trusted Third Party Election Process**
-Defines the process for electing a trusted third party. 
+Defines the process for electing a trusted third party.
 
 **MIP15c8: Trusted Third Party Removal Process**
-Defines the process for the removal of a trusted third party. 
-
+Defines the process for the removal of a trusted third party.
 
 ## Motivation
 
-A dark spell is necessary because it conceals the bytecode that fixes the critical bug. When the Maker Protocol has a non-zero GSM delay, protocol changes must pass a governance vote in order to be scheduled but cannot be applied until the GSM delay duration has passed. Furthermore, if a normal spell were used in such a situation, the bytecode would be available for anyone to inspect for the length of the delay. This would open up the opportunity for the bytecode to be reverse-engineered, allowing sophisticated attackers to exploit the available information before the bug is fixed. 
+A dark spell is necessary because it conceals the bytecode that fixes the critical bug. When the Maker Protocol has a non-zero GSM delay, protocol changes must pass a governance vote in order to be scheduled but cannot be applied until the GSM delay duration has passed. Furthermore, if a normal spell were used in such a situation, the bytecode would be available for anyone to inspect for the length of the delay. This would open up the opportunity for the bytecode to be reverse-engineered, allowing sophisticated attackers to exploit the available information before the bug is fixed.
 
 ## Specification / Proposal Details
 
 **MIP15c1: Definitions**
-- **Critical bug:** a bug that, if exploited, would result in significant economic damage to the system, is feasible for an attacker to exploit against the Ethereum mainnet either now or in the near future, with the system in normal operational mode. 
+- **Critical bug:** a bug that, if exploited, would result in significant economic damage to the system, is feasible for an attacker to exploit against the Ethereum mainnet either now or in the near future, with the system in normal operational mode.
 - **Spell:** A spell is an un-owned object that performs one action or a series of atomic actions (multiple transactions) one time only to the Maker protocol.
-- **Dark Spell:** A special spell using an opcode that allows the address of a spell to be pre-determined before deployment. 
-- **Governance Security Module (GSM) Delay:** A configurable delay attribute, setting the minimum wait time before governance votes can be applied to the system.  
-
+- **Dark Spell:** A special spell using an opcode that allows the address of a spell to be pre-determined before deployment.
+- **Governance Security Module (GSM) Delay:** A configurable delay attribute, setting the minimum wait time before governance votes can be applied to the system.
 
 ---
 
 **MIP15c2: Dark Spell Process Overview**
 
-**Summary:** 
-The Dark Spell mechanism occurs over seven main steps and involves four key stakeholders. 
+**Summary:**
+The Dark Spell mechanism occurs over seven main steps and involves four key stakeholders.
 
-**Stakeholders:** 
+**Stakeholders:**
 - Smart Contracts Domain Team
 - Trusted Third Party
 - Governance Facilitator(s)
@@ -88,9 +86,9 @@ The Dark Spell mechanism occurs over seven main steps and involves four key stak
 - **Step 2:** The SC domain team communicates the dark spell to the community and trusted third party using discretion over the level of detail.
 - **Step 3:** The trusted third party coordinates an expedited discussion, and builds awareness concerning the fix and its approving governance vote.
 - **Step 4:** The trusted third party confirms the sense of urgency and indicates to the governance facilitator to schedule a vote.
-- **Step 5:** The dark spell governance vote is scheduled, and the GSM delay period begins once the vote passes. 
-- **Step 6:** Once the delay has passed, the fix is immediately applied to the Maker Protocol via an atomic transaction. 
-- **Step 7:** The trusted third party and SC domain team produce and release a post-mortem of the dark spell process to the Maker community. 
+- **Step 5:** The dark spell governance vote is scheduled, and the GSM delay period begins once the vote passes.
+- **Step 6:** Once the delay has passed, the fix is immediately applied to the Maker Protocol via an atomic transaction.
+- **Step 7:** The trusted third party and SC domain team produce and release a post-mortem of the dark spell process to the Maker community.
 
 ---
 
@@ -99,10 +97,10 @@ The Dark Spell mechanism occurs over seven main steps and involves four key stak
 **Criteria for whether a critical vulnerability necessitates a dark spell fix:**
 
 1. Exploitation of the vulnerability results in significant economic damage to the system.
-2. It is feasible for an attacker to exploit the vulnerability against the Ethereum mainnet either now or in the near future. 
-3. The system must be in normal operational mode. 
+2. It is feasible for an attacker to exploit the vulnerability against the Ethereum mainnet either now or in the near future.
+3. The system must be in normal operational mode.
 
-If all of the above criteria are met, the step-by-step process outlined in MIP15c2 should begin immediately upon the discovery of a critical vulnerability. 
+If all of the above criteria are met, the step-by-step process outlined in MIP15c2 should begin immediately upon the discovery of a critical vulnerability.
 
 ---
 
@@ -124,7 +122,7 @@ If passed, this vote will be taken as a signal to domain teams that MKR Token Ho
 Background and discussion can be found at the following forum thread: <url>
 
 Vote Options:
-- [ ] Abstain 
+- [ ] Abstain
 - [ ] Yes
 - [ ] No
 
@@ -163,18 +161,18 @@ Trusted Third Party Name: The name of the onboarded third party.
 
 **Active Trusted Third Parties List**
 
-- There are currently no active trusted third parties. 
+- There are currently no active trusted third parties.
 
 ---
 ### MIP15c7: Trusted Third Party Onboarding
 
-MIP15c7 is a Process MIP component that allows the onboarding of a trusted third party using a subproposal. 
+MIP15c7 is a Process MIP component that allows the onboarding of a trusted third party using a subproposal.
 
 If onboarded through a MIP15c7 subproposal, the trusted third party is added to the Active List of Trusted Third Parties defined in MIP7c6 by a MIP Editor.
 
 MIP15c7 subproposals have the following parameters:
--   **Feedback Period**: 3 months
--   **Frozen Period**: 1 month
+- **Feedback Period**: 3 months
+- **Frozen Period**: 1 month
 
 MIP15c7 subproposals must use the template located at **[MIP15c7-Subproposal-Template.md](MIP15c7-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to the Accepted status.
 
@@ -187,7 +185,7 @@ MIP15c8 is a Process MIP component that allows the removal of a trusted third pa
 If offboarded through a MIP15c8 subproposal, the trusted third party is removed from the Active List of Trusted Third Parties defined in MIP15c6 by a MIP Editor.
 
  MIP15c8 subproposals have the following parameters:
--   **Feedback Period**: 0 days
--   **Frozen Period**: 0 days
+- **Feedback Period**: 0 days
+- **Frozen Period**: 0 days
 
 MIP15c8 subproposals must use the template located at  **[MIP15c8-Subproposal-Template.md](MIP15c8-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to the Accepted status.

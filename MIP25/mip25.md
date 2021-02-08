@@ -5,12 +5,12 @@
 MIP#: 25
 Title: Flash Mint Module
 Author(s): Sam MacPherson (@hexonaut)
-Contributors: Chris Mooney (@godsflaw), Brian McMichael (@brianmcmichael)
+Contributors: Chris Mooney (@godsflaw), Brian McMichael (@brianmcmichael), Gonzalo Balabasquer (@gbalabasquer)
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-09-25
-Date Ratified: <yyyy-mm-dd>
-Dependencies: n/as
+Date Ratified: 2020-11-24
+Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
@@ -62,28 +62,29 @@ Flash mints allow anyone to mint as much Dai as they need with the one condition
 
 ```
 function mint(
-        address _receiver,      // address of conformant IFlashMintReceiver
-        uint256 _amount,        // amount to flash mint [wad]
-        bytes calldata _data    // arbitrary data to pass to the _receiver
-    ) external lock {
-        uint256 arad = rad(_amount);
+    address _receiver,      // address of conformant IFlashMintReceiver
+    uint256 _amount,        // amount to flash mint [wad]
+    bytes calldata _data    // arbitrary data to pass to the _receiver
+) external lock {
+    uint256 arad = rad(_amount);
 
-        require(arad > 0, "DssFlash/amount-zero");
-        require(arad <= line, "DssFlash/ceiling-exceeded");
+    require(arad > 0, "DssFlash/amount-zero");
+    require(arad <= line, "DssFlash/ceiling-exceeded");
 
-        IFlashMintReceiver receiver = IFlashMintReceiver(_receiver);
+    vat.suck(address(this), _receiver, arad);
 
-        vat.suck(address(this), _receiver, arad);
-        uint256 fee = wmul(_amount, toll);
-        uint256 bal = vat.dai(address(this));
+    uint256 fee = mul(_amount, toll) / WAD;
+    uint256 bal = vat.dai(address(this));
 
-        receiver.execute(_amount, fee, _data);
+    IFlashMintReceiver(_receiver).execute(_amount, fee, _data);
 
-        require(vat.dai(address(this)) == add(bal, rad(add(_amount, fee))), "DssFlash/invalid-payback");
+    uint256 frad = rad(fee);
+    require(vat.dai(address(this)) == add(bal, add(arad, frad)), "DssFlash/invalid-payback");
 
-        vat.heal(arad);
-        vat.move(address(this), vow, rad(fee));
-    }
+    vat.heal(arad);
+    vat.move(address(this), vow, frad);
+    emit Mint(_receiver, _amount, fee);
+}
 ```
 
 The IFlashMintReceiver interface:

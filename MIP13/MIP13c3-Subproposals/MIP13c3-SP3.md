@@ -6,7 +6,7 @@
 MIP13c3-SP#: 3
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: n/a
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Proposed: 2020-08-21
 Date Ratified: <yyyy-mm-dd>
 ---

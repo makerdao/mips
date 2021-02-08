@@ -1,19 +1,21 @@
 # MIP20: Target Price Adjustment Module (`Vox`)
 
 ## Preamble
+
 ```
 MIP#: 20
 Title: Target Price Adjustment Module (`Vox`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-07-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-27
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 - The proposed [dss-vox](https://github.com/livnev/dss-vox) implementation
@@ -27,7 +29,7 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ## Paragraph summary
 
-The Dai Stablecoin System is intended to reliably maintain dai's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates. In contrast to the Target Rate Feedback Mechanism (TRFM), the mechanism in this proposal does not adjust rates algorithmically using a DAI price oracle. Instead, the target rate is set directly by governance, similarly to how the Stability Fees and Dai Savings Rate are set today. 
+The Dai Stablecoin System is intended to reliably maintain dai's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates. In contrast to the Target Rate Feedback Mechanism (TRFM), the mechanism in this proposal does not adjust rates algorithmically using a DAI price oracle. Instead, the target rate is set directly by governance, similarly to how the Stability Fees and Dai Savings Rate are set today.
 
 ## Component summary
 
@@ -46,7 +48,6 @@ The Dai Stablecoin System is intended to reliably maintain dai's exchange rate w
 **MIP20c7: Formal verification/audit information:** comments on the amenability of the proposed code to formal verification, even though formal specification, audit, or code review have yet to be conducted.
 
 **MIP20c8: Licensing:** states the license under which the proposal and code are distributed.
-
 
 ## Motivation
 
