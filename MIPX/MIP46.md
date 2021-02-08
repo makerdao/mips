@@ -1,8 +1,8 @@
-# MIPX: Parameter Proposal Groups
+# MIP46: Parameter Proposal Groups
 
 ## Preamble
 ```
-MIP#: X
+MIP#: 46
 Title: Parameter Proposal Groups
 Author(s): @LongForWisdom, Sam MacPherson (@hexonaut)
 Contributors: @ultraschuppi
@@ -19,23 +19,23 @@ None.
 
 ## Sentence Summary
 
-MIPX proposes the formalization of Parameter Proposal Groups. These groups are tasked with evaluating information produced by contributors and domain teams and using this analysis to produce parameter change proposals for consideration by governance.
+MIP46 proposes the formalization of Parameter Proposal Groups. These groups are tasked with evaluating information produced by contributors and domain teams and using this analysis to produce parameter change proposals for consideration by governance.
 
 ## Paragraph Summary
 
-MIPX proposes the formalization of Parameter Proposal Groups. These groups are tasked with evaluating information produced by contributors and domain teams and using this analysis to produce parameter change proposals for consideration by governance. Parameter Proposal Groups can form organically without a governance vote and are expected to consistently produce parameter adjustment proposals which may be included in the weekly governance cycle by the Governance Facilitator(s).
+MIP46 proposes the formalization of Parameter Proposal Groups. These groups are tasked with evaluating information produced by contributors and domain teams and using this analysis to produce parameter change proposals for consideration by governance. Parameter Proposal Groups can form organically without a governance vote and are expected to consistently produce parameter adjustment proposals which may be included in the weekly governance cycle by the Governance Facilitator(s).
 
 ## Component Summary
 
-**MIPXc1: Parameter Proposal Group Requirements**
+**MIP46c1: Parameter Proposal Group Requirements**
 
 Details the requirements for a group to be recognized as a Parameter Proposal Group under this MIP.
 
-**MIPXc2: Parameter Proposal Requirements**
+**MIP46c2: Parameter Proposal Requirements**
 
 Details the requirements that a Parameter Proposal must meet to be valid for inclusion in the Weekly Cycle.
 
-**MIPXc3: Parameter Proposal Process**
+**MIP46c3: Parameter Proposal Process**
 
 Details the governance process for parameter proposals created by recognized Parameter Proposal Groups.
 
@@ -51,7 +51,7 @@ In order to avoid introducing further governance work, it is proposed that these
 
 ## Specification / Proposal Details
 
-### MIPXc1: Parameter Proposal Group Requirements
+### MIP46c1: Parameter Proposal Group Requirements
 
 Each prospective Parameter Proposal Group must fulfill and maintain a set of requirements in order to be recognized by the Governance Facilitators as a Parameter Proposal Group. Each Parameter Proposal group must announce its creation in the forum and respond to each of the points below.
 
@@ -71,7 +71,7 @@ Each prospective Parameter Proposal Group must fulfill and maintain a set of req
 
 **Reactive** - In the event of unforeseen changes to the ecosystem or operation of the Maker Protocol, parameter proposal groups should consider making additional proposals.
 
-### MIPXc2: Parameter Proposal Requirements
+### MIP46c2: Parameter Proposal Requirements
 
 Each parameter proposal must fulfill a set of requirements in order to be recognized by the Governance Facilitators as a valid proposal. These requirements are laid out here.
 
@@ -83,7 +83,7 @@ Each parameter proposal must fulfill a set of requirements in order to be recogn
 
 **Rationale** - Each parameter change must be accompanied by a rationale that explains why the change has been proposed. This rationale must connect to the stated goal of the Parameter Proposal Group.
 
-### MIPXc3: Parameter Proposal Process
+### MIP46c3: Parameter Proposal Process
 
 Parameter Proposals are first presented on the Maker Governance forum and are then entered into the weekly governance cycle by the Governance Facilitators. Where possible, Parameter Proposals should be made public on the first Monday of the month for inclusion into the weekly cycle in the second week of the month. 
 
