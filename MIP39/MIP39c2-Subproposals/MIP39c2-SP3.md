@@ -1,8 +1,9 @@
-# MIP39c2-SPX: Governance Core Unit - GOV-001
+# MIP39c2-SP3: Governance Core Unit - GOV-001
 
 ## Preamble
+
 ```
-MIP39c2-SP#: X
+MIP39c2-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
 Status: RFC
@@ -13,9 +14,11 @@ Date Ratified: <yyyy-mm-dd>
 ## Specification
     
 ### Motivation
+
 I am proposing this Core Unit because MakerDAO requires a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
     
 ### Core Unit Name
+
 **Name:** GovAlpha
 **ID:** GOV-001
 
