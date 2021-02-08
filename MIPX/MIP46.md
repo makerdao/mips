@@ -45,7 +45,7 @@ Certain parameters in the Maker protocol require frequent adjustment based on ch
 
 To counteract this growing complexity, an intermediate set of groups is proposed, which will take responsibility for analyzing and evaluating parameter settings in the context of the wider ecosystem.
 
-MIPX proposes a framework for these groups to form in a consistent and transparent way.
+MIP46 proposes a framework for these groups to form in a consistent and transparent way.
 
 In order to avoid introducing further governance work, it is proposed that these groups can form organically without requiring a governance vote. Instead, they need only follow certain requirements laid out in this MIP in order to be recognized as a Parameter Proposal Group. In the event that these groups become more widespread, a ratification requirement can be introduced.
 
