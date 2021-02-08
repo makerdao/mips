@@ -1,8 +1,8 @@
-# MIP40c2-SPX: Core Unit Budget - GOV-001
+# MIP40c2-SP3: Core Unit Budget - GOV-001
 
 ## Preamble
 ```
-MIP40c2-SP#: X
+MIP40c2-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
 Status: RFC
@@ -122,6 +122,3 @@ For the initial quarter, the contingency item in this budget is quite high. The 
 - What are other circumstances that the Budget Implementation will pay out Dai or other assets, and how are the amounts determined?
 - Any additional notes and clarification about how the Budget Implementation works.
 ---
-
-
-
