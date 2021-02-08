@@ -79,15 +79,20 @@ The PSM Mixed Exposure is articulated around 3 main components:
 
 It is very similar at the actual PSM ([MIP 29](https://github.com/makerdao/mips/blob/formal-submission/MIP29/mip29.md)) with two vaults, one in Dai and one in Usdc.
 
-It has 3 methods:
+It has three methods:
  - `sell(address usr, uint256 gemAmt)`
  - `buy(address usr, uint256 gemAmt)`
  - `reserve()`
 
-The two same prameters as psm:
-- `tin`: The fraction of the Gem -> Dai transaction sent to the `vow` as a fee. Encoded as `tin` in `wad` units.
-- `tout`: The fraction of the Dai -> Gem transaction sent to the `vow` as a fee. Encoded as `tout` in `wad` units.
+It also has three admin methods
+ - `file(bytes32 what, data)` : To change parameters
+ - `rely(address contract)` : To add authorized address
+ - `deny(address contract)` : To remove authorized address
 
+There are three prameters:
+- `tin` : The fraction of the Gem -> Dai transaction sent to the `vow` as a fee. Encoded as `tin` in `wad` units.
+- `tout`: The fraction of the Dai -> Gem transaction sent to the `vow` as a fee. Encoded as `tout` in `wad` units.
+- `line`: The maximum amount of Usdc owns by the PSM. Encoded as `line` in `wad` units.
 
 `sell` will take in input usdc, convert usdc into dai via the new `lending join` (usdc/dai). Then it will take the dai and convert it to dai via another `lending join` (Dai/Dai) and take the fees and return the Dai.
 
@@ -112,7 +117,21 @@ The extra method 'harvest()' have 2 actions:
 - move the excess token to the delegator.
 - move the bonus token to the delegator.
 
-The join has one parameter the delegator. `excess_delegator`.
+The join has one external methods
+ - `exit(address guy, uint256 amount)`
+
+The join has two authenticated methods
+ - `join(address guy, uint256 amount)`
+ - `harvest()` : To move excess to the delegator
+
+The join also has forth admin methods
+ - `file(bytes32 what, data)` : To change parameters
+ - `rely(address contract)` : To add authorized address
+ - `deny(address contract)` : To remove authorized address
+ - `cage()` : To cage the join
+
+The join has one parameter:
+ - `excess_delegator` : excess Delegator address 
 
 **Additional specification:**  
 In order to calculate the excess, we add a total variable which represent the amount own by the join. Then we subtract this amount from the lendler underlying collateral.
@@ -124,12 +143,18 @@ In order to calculate the excess, we add a total variable which represent the am
 
 The Delegator is replaceable, its main purpose is to manage the token conversion and what we do with it.
 
-This delegator has 3 methods:
-- `processUsdc` convert the usdc to dai via the psm.
-- `processComp` convert token bonus to dai via uniswap.  
-- `processDai`  convert dai to MKR via uniswap and burn the MKR.
+This delegator has three public methods:
+- `processUsdc()` convert the usdc to dai via the psm.
+- `processComp()` convert token bonus to dai via uniswap.  
+- `processDai()`  convert dai to MKR via uniswap and burn the MKR.
 
-There are 6 parameters :
+The join also has forth admin methods
+ - `file(bytes32 what, data)` : To change parameters
+ - `rely(address contract)` : To add authorized address
+ - `deny(address contract)` : To remove authorized address
+ - `cage()` : To cage the join
+ 
+There are six parameters :
 - `psm` : psm address - can be changed
 - `route` : uniswap route address - can be changed
 - `bonus_auction_duration`: min time is sec between 2 uniswap swap
@@ -139,8 +164,11 @@ There are 6 parameters :
 
 ### MIP32c4: The Harvest contract
 
-This contract will have only one external method `harvest()` which calls harvest from the join.
+This contract will have only one external method `harvest()` which calls the authenticated `harvest()` method from the join.
 Two contract will be deployed to call both join.
+
+This contract has only one public methods:
+- `harvest()` call harvest from the join
 
 We separated this method from the PSM to allow more flexibility for update.
 
@@ -150,6 +178,7 @@ The code : [dds-psm-cme](https://github.com/alexisgayte/dss-psm-cme/)
 
 - [DssPsmCme.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/DssPsmCme.sol)
 - [BurnDelegator.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/BurnDelegator.sol)
+- [LendingHarvest.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/LendingHarvest.sol)
 - [join-lending-auth.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/join-lending-auth.sol)
 
 - [spell-DssPsmCme](https://github.com/alexisgayte/dss-psm-cme/blob/main/src/spell/DssPsmCompMixExposureLenderJoinSpell.sol)
@@ -160,6 +189,7 @@ Unit tests:
 
 - [DssPsmCme.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/DssPsmCme.t.sol)
 - [BurnDelegator.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/BurnDelegator.t.sol)
+- [LendingHarvest.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/LendingHarvest.t.sol)
 - [join-lending-auth.t.sol](https://github.com/alexisgayte/dss-psm-cme/blob/master/src/join-lending-auth.t.sol)
 
 ### MIP32c7: Security considerations
