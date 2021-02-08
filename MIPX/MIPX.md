@@ -1,41 +1,38 @@
-# MIPX: MakerDAO Multisignature Wallet Management
+# MIP47: MakerDAO Multisignature Wallet Management
+
 ```
 Preamble
-
-MIP#: X
+MIP#: 47
 Title: MakerDAO Multisignature Wallet Management
-
 Author(s): Payton Rose @prose11
 Contributors: @amyjung @LongForWisdom @Elihu
-
 Type: General
-Status: <Assigned by MIP Editor>
-
-Date Proposed: <2021-02-03>
+Status: RFC
+Date Proposed: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
-
 Dependencies:
 Replaces:
 ```
+
 ## References
 
-* [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md)
+* [MIP47c2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md)
 
 ## Sentence Summary
 
-MIPX defines the requirements for creating a Multisignature wallet that is recognized by Maker Governance.
+MIP47 defines the requirements for creating a Multisignature wallet that is recognized by Maker Governance.
 
 ## Paragraph Summary
 
-MIPX describes the process and various requirements for any group within MakerDAO to secure approval for a multisignature (Multi-Sig) wallet that can interact with Maker Governance. Additionally, this MIP describes the process for Governance to remove funding or permissions from a previously recognized Multi-Sig.
+MIP47 describes the process and various requirements for any group within MakerDAO to secure approval for a multisignature (Multi-Sig) wallet that can interact with Maker Governance. Additionally, this MIP describes the process for Governance to remove funding or permissions from a previously recognized Multi-Sig.
 
 ## Component Summary
 
-**MIPXc1: Governance Recognition of a Multi-Sig**
+**MIP47c1: Governance Recognition of a Multi-Sig**
 
 Documents the minimum requirements for maintaining a Multi-Sig that can be officially recognized by Maker Governance.
 
-**MIPXc2: Dissolution of Multi-Sig**
+**MIP47c2: Dissolution of Multi-Sig**
 
 Covers the ways in which a previously approved Multi-Sig can become unrecognized or defunded.
 
@@ -55,7 +52,7 @@ In recognition of the various subprosals that must be submitted by working group
 
 ## Specification / Proposal Details
 
-**MIPXc1: Governance Recognition of a Multi-Sig**
+**MIP47c1: Governance Recognition of a Multi-Sig**
 
 In order for a Multi-Sig to be recognized by the Maker Governance for funding or permissioned consensus, the following minimums must be satisfied by providing a post, or series of posts, on the Maker Forum:
 
@@ -68,11 +65,11 @@ In order for a Multi-Sig to be recognized by the Maker Governance for funding or
 
 Following an approved Governance action that involves a newly recognized Multi-Sig, the information provided will be added to a list of recognized Multi-Sig Wallets, publicly maintained by the Governance Facilitators. Groups with recognized Multi-Sigs may continue to apply for funding or specific permissions though Maker Governance.
 
-**MIPXc2: Dissolution of Multi-Sig**
+**MIP47c2: Dissolution of Multi-Sig**
 
-Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. In the event that a Multi-Sig decides to dissolve, the owners must fill out a [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md).
+Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. In the event that a Multi-Sig decides to dissolve, the owners must fill out a [MIP47c2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md).
 
-Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md) that will be subject to the following parameters before entering the next Governance cycle:
+Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIP47c2: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/prose11/mips/blob/Multi-Sig/MIPX/MIPXc2%20Subproposal%5BTemplate%5D.md) that will be subject to the following parameters before entering the next Governance cycle:
 
 * Frozen Period: 2 weeks
 
