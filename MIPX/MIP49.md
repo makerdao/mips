@@ -1,30 +1,27 @@
-# MIPX: Governance Rewards 
+# MIP49: Governance Rewards 
+
 ```
 Preamble
-
-MIP#: X
-
+MIP#: 49
 Title: Governance Rewards
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
 Contributors:@LongForWisdom, @JuanJuan, @Elihu
-
 Type: General
-Status: <Assigned by MIP Editor>
-
-Date Proposed: <2021-02-03>
+Status: RFC
+Date Proposed: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
-
 Dependencies:
 Replaces:
 ```
+
 ## References
 
 * The initial idea for Governance Rewards can be found in [this forum post](https://forum.makerdao.com/t/introducing-dssgovrewards/5394)
-* [MIPXc2 - Setting and Adjusting Governance Reward Parameters Subproposal [Template]](https://github.com/prose11/mips/blob/Governance-Rewards/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
+* [MIP49c2 - Setting and Adjusting Governance Reward Parameters Subproposal [Template]](https://github.com/prose11/mips/blob/Governance-Rewards/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
 
 ## Sentence Summary
 
-MIPX proposes the creation of Governance Rewards that would allow the Maker community to reward MKR holders for locking their MKR tokens in Governance.
+MIP49 proposes the creation of Governance Rewards that would allow the Maker community to reward MKR holders for locking their MKR tokens in Governance.
 
 ## Paragraph Summary
 
@@ -32,15 +29,15 @@ This MIP covers the creation of a Governance Rewards process for MKR token holde
 
 ## Component Summary
 
-**MIPXc1: Governance Rewards Structure**
+**MIP49c1: Governance Rewards Structure**
 
 Defines the rules for implementation of Governance Rewards.
 
-**MIPXc2: Setting and Adjusting Governance Reward Parameters**
+**MIP49c2: Setting and Adjusting Governance Reward Parameters**
 
 Establishes a mandatory Request for Comments (RFC) period for implementing and revising Governance Rewards.
 
-**MIPXc3: Potential Risks**
+**MIP49c3: Potential Risks**
 
 Defines potential avenues for abuse that should be considered if Governance Rewards are enabled.
 
@@ -56,7 +53,7 @@ By offering incentives to MKR holders who lock their MKR tokens in Governance, t
 
 ## Specification / Proposal Details
 
-**MIPXc1 - Governance Rewards Structure**
+**MIP49c1 - Governance Rewards Structure**
 
 Governance Rewards will be “opt-in”. Users locking their MKR tokens in governance will be able to choose to either receive Governance Rewards or not. The Governance Rewards will be distributed in DAI.
 
@@ -64,18 +61,18 @@ The amount of DAI distributed as Governance Rewards will be directly tied to the
 
 Note: MKR holders should be aware of any tax and legal implications in their jurisdiction relevant to opting-in to Governance Rewards before electing to do so.
 
-**MIPXc2 - Setting and Adjusting Governance Reward Parameters**
+**MIP49c2 - Setting and Adjusting Governance Reward Parameters**
 
 The Community desire for Governance Rewards must be carefully weighed against the risk of allowing a mechanism for MKR holders to reward themselves with protocol funds.
 
-Proposed changes to the percentage of surplus revenue diverted from burn to Governance Rewards must be submitted as [MIPXc2 subproposals](https://github.com/prose11/mips/blob/Governance-Rewards/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md) and will be subject to the following parameters:
+Proposed changes to the percentage of surplus revenue diverted from burn to Governance Rewards must be submitted as [MIP49c2 subproposals](https://github.com/prose11/mips/blob/Governance-Rewards/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md) and will be subject to the following parameters:
 
 * Feedback Period: 6 weeks
 * Frozen Period: 2 weeks
 
-Note: Due to Governance Rewards proposal needing continual funding, MIPXc2 subproposals will constitute an application to streaming Keg payments, and will be automatically cross-filed upon proposal.
+Note: Due to Governance Rewards proposal needing continual funding, MIP49c2 subproposals will constitute an application to streaming Keg payments, and will be automatically cross-filed upon proposal.
 
-**MIPXc3 - Potential Risks**
+**MIP49c3 - Potential Risks**
 
 Directly rewarding locked MKR in the governance contract introduces risks to the Maker Protocol that have the potential to result in a protocol shutdown or a fork in certain scenarios.
 
