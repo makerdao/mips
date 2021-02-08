@@ -1,4 +1,5 @@
-#MIPXc2: Dissolution of Multi-Sig Request Subproposal [Template]
+# MIP47c2: Dissolution of Multi-Sig Request Subproposal [Template]
+
 ```
 Preamble
 ```
