@@ -1,6 +1,7 @@
 # MIP21: Real World Assets - Off-Chain Asset Backed Lender
 
 ## Preamble
+
 ```
 MIP#: 21
 Title: Real World Assets - Off-Chain Asset Backed Lender
@@ -53,29 +54,34 @@ See paragraph summary above.
 ## Specification
 
 ### MIP21c1: Collateral Parameters
+
 - **Liquidation remediation period** (`tau`):
 - **Asset document hash** (`doc`):
 
 ### MIP21c2: Smart Contract Components
 
 Inserting real world assets via an off-chain asset backed lender, where the liquidations are handled by a third-party requires certain changes to how a module would interact with the Maker protocol. Specifically,
+
 - Minting
 - Repayments
 - Liquidations
 - Write-offs
 
 The above said, many items remain un-changed from the current mechanism:
+
 - Debt computation
 - Interest Rates
 - Debt Ceiling Constraint
 
 The smart contracts implementing the new functionality are as follows:
+
 - `RwaLiquidationOracle`: which acts as a liquidation beacon for an off-chain enforcer.
 - `RwaFlipper`: which acts as a dummy liquidation module in the event of write-offs.
 - `RwaUrn`: which facilitates borrowing of DAI, delivering to a designated account.
 
 Administrative items to be completed prior to implementation
-- `RwaDeploySpell`: which deploys and authorises the components for RWA collateral types.
+
+- `RwaDeploySpell`: which deploys and authorizes the components for RWA collateral types.
 - `RwaInitSpell`: which activates a new RWA collateral type.
 - Auxiliary wallet contracts for handling disbursement and repayment of DAI.
 - `RwaLiquidateSpell`: which allows MakerDAO governance to initiate liquidation proceedings.
@@ -171,4 +177,5 @@ The foregoing serves three purposes:
 ---
 
 ## Footnotes
+
 1*  - At present, it is unknown if the Trustee will require direct engagement to provide the loans from the Trust to LendCo to facilitate each closing or not. Further, it is unknown if the Trustee will allow the conversion of DAI to USD to be done at LendCo or if they will require that they do the conversion with an account that is in their name F/B/O the Trust. This MIP is giving latitude for adjustment surrounding the flow of DAI / USD to meet the requirements of the Trust Company to be willing to serve as the Trustee of the Trust.
