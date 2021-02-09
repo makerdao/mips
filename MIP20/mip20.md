@@ -116,4 +116,4 @@ The proposed contract is written in a way which is amenable to formal specificat
 
 ### MIP20c8: Licensing
 
-   - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
+- [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
