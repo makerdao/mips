@@ -5,9 +5,9 @@
 MIP13c3-SP#: 4
 Author(s): Matthew V Rabinowitz (@mrabino1 or mr@6s.capital)
 Contributors: n/a
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-09-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-27
 ---
 Declaration Statement: Maker Governance Intends to Utilize an Off-Chain Asset Backed Lender to onboard Real World Assets into the Maker Protocol to borrow DAI and deploy in the “Real World”.
 Declaration to Replace: n/a
