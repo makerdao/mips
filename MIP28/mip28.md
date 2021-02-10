@@ -1,6 +1,7 @@
 # MIP28: Operational Support Domain Definition
 
 ## Preamble
+
 ```
 MIP#: 28
 Title: Operational Support (OS) Domain Definition
@@ -15,12 +16,15 @@ Replaces: n/a
 ```
 
 ## References
+
 **[MIP28c7-SP1.md](MIP28c7-SP1.md)**
 
 ## Sentence Summary
+
 MIP28 defines the Operational Support domain according to the domain definition template provided in MIP23.
 
 ## Paragraph Summary
+
 The Operational Support (OS) domain's key function is to ensure the development and management of distributed operations at MakerDAO. Additionally, the Operational Support domain is responsible for helping domain teams coordinate to complete objectives and manage shared resources. The domain’s main responsibilities fall into three categories:
 
 * General operations for domains
@@ -28,6 +32,7 @@ The Operational Support (OS) domain's key function is to ensure the development 
 * Grants management and distribution
 
 ## Component Summary
+
 **MIP28c1: Operational Support Domain Overview**
 Provides an overview of the Operational Support domain.
 
@@ -53,6 +58,7 @@ A process component that allows for the onboarding of an Operational Support Fac
 A process component that allows for the offboarding of an Operational Support Facilitator.
 
 ## Motivation
+
 As initial domain teams mature and more domain teams emerge, MakerDAO will need a group to support coordination of various teams and ensure resources are allocated effectively across teams. This domain team is focused on supporting other domain teams and serving the best interests of MakerDAO through an operational lens.
 
 Staying true to the nature of decentralized organizations, the Operational Support domain would seek to have domain teams remain independent, yet collaborative for the continued development of the Maker Protocol and MakerDAO members.
@@ -60,6 +66,7 @@ Staying true to the nature of decentralized organizations, the Operational Suppo
 ## Specification / Proposal Details
 
 ### MIP28c1: Operational Support Domain Overview
+
 The Operational Support (OS) domain's key function is to ensure the development and management of distributed operations at MakerDAO. Additionally, the Operational Support domain is responsible for helping domain teams coordinate to complete objectives and manage shared resources. The domain’s main responsibilities fall into three categories:
 
 * General operations for domains
@@ -86,6 +93,7 @@ Naturally, the focus of the domain functions will change with the maturity of Ma
 ---
 
 ### MIP28c2: Operational Support Facilitator Role and Responsibilities
+
 The Operational Support domain will focus on three sectors, ideally with a Operational Support Facilitator in each specialization.
 
 * General Operations
@@ -117,6 +125,7 @@ Generally, Operational Support Facilitators must keep the lists in component MIP
 ---
 
 ### MIP28c3: Operational Support Facilitator Candidate Criteria
+
 The following criteria should be used when evaluating an individual for the role of a Operational Support Facilitator:
 * Experience in one or more of General Operations (Finance, HR, Legal, TechOps, etc.).
 * Experience in project management and managing cross-functional operations.
@@ -131,6 +140,7 @@ The following criteria should be used when evaluating an individual for the role
 ---
 
 ### MIP28c4: Operational Support Facilitator Removal Criteria
+
 A Operational Support Facilitator should be considered for removal if they are:
 * Displaying biased or malicious behaviour which are not serving in the best interest of domain teams and MakerDAO.
 * Majority domain teams (51%) feel they are not being supported by the current Operational Support Facilitator.
@@ -141,6 +151,7 @@ A Operational Support Facilitator should be considered for removal if they are:
 ---
 
 ### MIP28c5: Operational Support Domain Facilitator List
+
 This list can be amended by the Operational Support Domain Facilitators at any time to reflect the current state of the Operational Support Domain. It is the responsibility of the Operational Support Domain Facilitators to keep this list accurate and up to date.
 
 Entries into this list should follow the following template:

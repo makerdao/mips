@@ -1,19 +1,21 @@
 # MIP29: Peg Stability Module
 
 ## Preamble
+
 ```
 MIP#: 29
 Title: Peg Stability Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-11-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-01-30
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 * The proposed [dss-psm](https://github.com/BellwoodStudios/dss-psm) implementation
@@ -133,4 +135,5 @@ The proposed solution is simple and non-invasive, interacting with only the perm
 The proposed contract is written in a way which is amenable to formal specification and verification, in accordance with the style and practices of the core multi-collateral DAI contracts, though it has not been formally specified. No audit or code review has taken place yet.
 
 ### MIP29c6: Licensing
+
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
