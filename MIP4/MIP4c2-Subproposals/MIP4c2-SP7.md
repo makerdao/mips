@@ -16,11 +16,11 @@ Date of ratification: <yyyy-mm-dd>
 
 ### Motivation
 
-This amendment MIP proposes a number of changes to MIP4.
+This amendment MIP proposes changes to MIP4.
 
-The first being a component that allows MIP amendments to be able to use the Weekly Governance Cycle for the first 3 months after a MIP has passed. This grants new MIPs greater flexibility to be fixed early and fast, improving overall governance efficiency.
+The first being an allowance for MIP amendments to be able to use the Weekly Governance Cycle for the first 3 months after a MIP has passed. This grants new MIPs greater flexibility to be fixed early and fast, improving overall governance efficiency.
 
-The second being a component that allows multiple MIP amendments in one proposal. This is to make it convenient to mass-amend MIP sets that often have dependencies on each other. The Amendments would be change-centric rather than MIP-centric.
+The second being an allowance for multiple MIP amendments in one proposal. This is to make it convenient to mass-amend MIP sets that often have dependencies on each other. The Amendments would be change-centric rather than MIP-centric.
 
 ### Amended Components
 
@@ -30,7 +30,7 @@ The second being a component that allows multiple MIP amendments in one proposal
 
 ### Amendment Pull Request (PR)
 
-- [link to PR](link)
+- [link to PR](https://github.com/makerdao/mips/pull/188)
 
 ### Relevant Information
 
