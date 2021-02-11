@@ -30,7 +30,7 @@ The second being an allowance for multiple MIP amendments in one proposal. This 
 
 ### Amendment Pull Request (PR)
 
-- [link to PR](link)
+- [link to PR](https://github.com/makerdao/mips/pull/188)
 
 ### Relevant Information
 
