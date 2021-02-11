@@ -1,6 +1,7 @@
 # MIP4: MIP Amendment and Removal Process
 
 ## Preamble
+
 ```
 MIP#: 4
 Title: MIP Amendment and Removal Process
@@ -15,6 +16,7 @@ Replaces: n/a
   ```
 
 ## References
+
 **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**
 **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**
 
@@ -48,8 +50,13 @@ The motivation behind this proposal is that changing small details to MIPs shoul
 **Amendments**
 MIP Amendments that preserve the MIP number can be performed as long as there are no changes to the logic of the MIP or to the MIP's external output dependencies. They should only be used when minor changes are required.
 
+Amendments to MIPs under 3 months old follow a more flexible set of rules outlined in c2.
+
+Amendments to multiple MIPs are allows to be submitted as a single proposal.
+
 **Validity**
 The validity of MIP Amendments is ultimately up to the community but possible reasons for amendments could be (but are not limited to):
+
 - A formatting change
 - Typos
 - Rewording/clarification
@@ -59,16 +66,26 @@ MIP Amendments are invalid if, based on the assessment of the community, the cha
 **Removals**
 MIP4 also enables the removal of MIPs that are no longer useful. If there are other MIPs that depend on a MIP that is being removed, they must also be removed in the same governance cycle, or the proposal will be invalid.
 
----
-### MIP4c2: MIP Amendment Process
+### MIP4c2: MIP Amendment Processes
 
-MIP4c2 is a Process MIP component that allows the amendment of an Accepted MIP using a subproposal. MIP4c2 subproposals have the following parameters:
-- **Default Feedback Period**: 3 months
-- **Frozen Period**: 1 month
+MIP4c2 is a Process MIP component that allows the amendment of one or multiple Accepted MIPs, using a subproposal. MIP4c2 subproposals are done in two ways:
 
-MIP4c2 subproposals must use the template located at  **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+One for MIPs younger than 3 months, and another for MIPs that are older than 3 months since acceptance.
 
----
+Over 3-month MIPs
+
+- **Default Feedback Period**: 1 month
+- **Frozen Period**: 1 week
+- **Governance Cycle**: Monthly
+
+Under 3-month MIPs
+
+- **Default Feedback Period**: 1 month
+- **Frozen Period**: 1 week
+- **Governance Cycle**: Weekly
+
+All MIP4c2 subproposals must use the template located at  **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**.
+
 ### MIP4c3: MIP Removal Process
 
 MIP4c3 is a Process MIP component that allows the removal of an Accepted MIP using a subproposal. MIP4c3 subproposals have the following parameters:
@@ -76,5 +93,3 @@ MIP4c3 is a Process MIP component that allows the removal of an Accepted MIP usi
 - **Frozen Period**: 1 month
 
 MIP4c3 subproposals must use the template located at  **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
-
----
