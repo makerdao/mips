@@ -1,7 +1,8 @@
 # MIP49: Governance Rewards 
 
+## Preamble
+
 ```
-Preamble
 MIP#: 49
 Title: Governance Rewards
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
