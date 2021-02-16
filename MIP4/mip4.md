@@ -74,8 +74,8 @@ One for MIPs younger than 3 months, and another for MIPs that are older than 3 m
 
 Over 3-month MIPs
 
-- **Default Feedback Period**: 1 month
-- **Frozen Period**: 1 week
+- **Default Feedback Period**: 3 month
+- **Frozen Period**: 1 month
 - **Governance Cycle**: Monthly
 
 Under 3-month MIPs
@@ -84,12 +84,13 @@ Under 3-month MIPs
 - **Frozen Period**: 1 week
 - **Governance Cycle**: Weekly
 
-All MIP4c2 subproposals must use the template located at  **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**.
+All MIP4c2 subproposals must use the template located at **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**.
 
 ### MIP4c3: MIP Removal Process
 
 MIP4c3 is a Process MIP component that allows the removal of an Accepted MIP using a subproposal. MIP4c3 subproposals have the following parameters:
+
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
 
-MIP4c3 subproposals must use the template located at  **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP4c3 subproposals must use the template located at **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
