@@ -52,7 +52,7 @@ MIP Amendments that preserve the MIP number can be performed as long as there ar
 
 Amendments to MIPs under 3 months old follow a more flexible set of rules outlined in c2.
 
-Amendments to multiple MIPs are allows to be submitted as a single proposal.
+Amendments to multiple MIPs are allowed to be submitted as a single proposal if the changes are linked in some way like being part of a MIP set or part of a larger change that affects multiple MIPs.
 
 **Validity**
 The validity of MIP Amendments is ultimately up to the community but possible reasons for amendments could be (but are not limited to):
@@ -68,9 +68,9 @@ MIP4 also enables the removal of MIPs that are no longer useful. If there are ot
 
 ### MIP4c2: MIP Amendment Processes
 
-MIP4c2 is a Process MIP component that allows the amendment of one or multiple Accepted MIPs, using a subproposal. MIP4c2 subproposals are done in two ways:
+MIP4c2 is a Process MIP component that allows the amendment of one or multiple Accepted MIPs, using a subproposal.
 
-One for MIPs younger than 3 months, and another for MIPs that are older than 3 months since acceptance.
+MIP4c2 subproposals are done in two ways. One for MIPs younger than 3 months, and another for MIPs that are older than 3 months since acceptance.
 
 Over 3-month MIPs
 
