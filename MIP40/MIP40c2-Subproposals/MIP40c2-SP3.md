@@ -48,12 +48,12 @@ This manual may also be expanded to include a historical record of the key chall
 
 The GovAlpha Team will consist of at least the following members in the April/May/June budget period.
 
-@LongForWisdom - Partial Commitment - Governance Core Unit Facilitator  
-@prose11 - Full Time - Governance Core Unit Contributor  
-@Elihu - Full Time - Governance Core Unit Contributor  
-@charlesstlouis - Part Time -  MIP Editor  
-@davidutro - Part Time - MIP Editor  
-@blimpa - Part Time - Governance Core Unit Contributor  
+**@LongForWisdom** - Partial Commitment - Governance Core Unit Facilitator  
+**@prose11** - Full Time - Governance Core Unit Contributor  
+**@Elihu** - Full Time - Governance Core Unit Contributor  
+**@charlesstlouis** - Part Time -  MIP Editor  
+**@davidutro** - Part Time - MIP Editor  
+**@blimpa** - Part Time - Governance Core Unit Contributor  
 
 ### Quarterly Budget - April/May/June 2021
 
@@ -63,44 +63,45 @@ Remuneration for Facilitators of GovAlpha will be an annual salary paid monthly.
 
 The multiplier for partial commitment is higher than one might initially expect given the hours contributed compared to a full-time commitment. This is because facilitators with a partial commitment have the same requirements to be available in emergency situations and take an equal share of responsibility when fulfilling the GovAlpha mandate.
 
-| Base Pay | $100,000 |
-|----------|--------:|
+| Base Pay | 120,000 DAI |
+|----------|---------:|
 
 |                          | Multiplier | Explanation                                                                   |
 |--------------------------|------------|-------------------------------------------------------------------------------|
 | **Commitment - Partial**     |      0.80x | Part Time commitment, 20 hours per week minimum.                              |
-| **Commitment - Full**        |      1.00x | Full Time commitment, 35 hours per week minimum.                                |
-| **Experience - Limited**     |      0.75x | New to the role, would not be able to fulfill responsibilities alone.          |
+| **Commitment - Full**        |      1.00x | Full Time commitment, 35 hours a week minimum.                                |
+| **Experience - Limited**     |      0.65x | New to the role, would not be able to fulfill responsibilities alone.          |
 | **Experience - Moderate**    |      1.00x | Confident in the role, capable of fulfilling critical responsibilities alone. |
-| **Experience - Experienced** |      1.25x | Experienced in the role, capable of fulfilling all responsibilities alone.     |
+| **Experience - Experienced** |      1.50x | Experienced in the role, capable of fulfilling all responsibilities alone.     |
 
-|                              | Partial Commitment | Full Commitment |
-|------------------------------|:------------------:|:---------------:|
-| **Experience - Limited**     |       $60,000      |     $75,000     |
-| **Experience - Moderate**    |       $80,000      |     $100,000    |
-| **Experience - Experienced** |      $100,000      |     $125,000    |
+|                          | Partial Commitment | Full Commitment |
+|--------------------------|:------------------:|:---------------:|
+| **Experience - Limited**     |       62,400 DAI     |      78,000 DAI   |
+| **Experience - Moderate**    |       96,000 DAI     |     120,000 DAI   |
+| **Experience - Experienced** |       144,000 DAI     |     180,000 DAI    |
 
 #### Breakdown
 
-| Item                              |       Amount |
-|-----------------------------------|-------------:|
-| **People**                        |              |
-| Core Unit Facilitators Salary (1) |      $25,000 |
-| MIP Editor (1)                    |       $6,000 |
-| Main Contributors (2)             |      $39,000 |
-| Other Contributors (?)            |       $5,000 |
+| Item                              |   Amount |
+|-----------------------------------|---------:|
+| **People**                        |          |
+| Core Unit Facilitators Salary (1) |  36,000 DAI |
+| MIP Editor (1)                    |   6,000 DAI |
+| Main Contributors (2)             |  39,000 DAI |
+| Other Contributors (?)            |   5,000 DAI |
 |                                   |              |
 | **Recurring Initiatives**         |              |
-| SourceCred Payouts                |      $65,000 |
-| SourceCred Support                |      $15,000 |
+| SourceCred Payouts                |  66,000 DAI |
+| SourceCred Support                |  15,000 DAI |
 |                                   |              |
 | **One-off Projects**              |              |
-| MIPs Portal                       |      $20,000 |
+| MIPs Portal                       |  20,000 DAI |
 |                                   |              |
 | **Other Costs**                   |              |
-| Contingency                       |      $50,000 |
+| Gas                               |     500 DAI |
+| Contingency                       |  52,500 DAI |
 |                                   |              |
-| **Total**                         | **$225,000** |
+| **Total**                         | 240,000 DAI |
 
 #### Remarks
 
@@ -110,15 +111,20 @@ For the initial quarter, the contingency item in this budget is quite high. The 
 
 ### Budget Implementation
 
-**TBD - Waiting on the (hopefully) successful passing of the Interim Multi-sig poll and details of the Multi-sig coming out of that poll.**
+This is a Manual Budget Implementation using the Interim DAO Multi-sig wallet that successfully passed through governance [here](https://vote.makerdao.com/executive/onboarding-uniswap-v2-lpts-rates-updates-other-changes?network=mainnet#proposal-detail).
 
-- This element must contain a list of at least one Budget Implementation. Each Budget Implementation must follow this format:
----
-- is it a smart contract Budget Implementation, or manual Budget Implementation?
-    - If it is a smart contract Budget Implementation, what is the ethereum address that the smart contract is deployed to?
-    - If it is a smart contract Budget Implementation, what kind of authorization does it need (suck authorization, authorization to draw funds from other smart contracts, etc.)
-- What is the amount of Dai or other assets per month that the Budget Implementation will pay out (if any)?
-    - If it is a manual Budget Implementation, at which week of the month will the executive vote to pay out the budget for the month be submitted?
-- What are other circumstances that the Budget Implementation will pay out Dai or other assets, and how are the amounts determined?
-- Any additional notes and clarification about how the Budget Implementation works.
----
+The ethereum address of this multi-sig contract is: **0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff**
+
+And the keyholders are:  
+**@LongForWisdom** - 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69  
+**@Primoz** - 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c  
+**@SebVentures** - 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b  
+**@juanjuan** - 0xFCa6e196c2ad557E64D9397e283C2AFe57344b75  
+**@hexonaut** - 0x18CaE82909C31b60Fe0A9656D76406345C9cb9FB  
+
+
+The contract needs no authorization within the Maker Protocol, though it will require that one-third of the GovAlpha budget is `suck`ed from the Maker Protocol at the start of each of the months: April, May, and June. This comes to **80,000 DAI** per month. 
+
+This transfer will be included in the first executive vote of each month and will be included in each subsequent executive if the first executive does not pass. In the event of subsequent executive votes also failing to pass, the Governance Facilitator will make a decision on how to proceed.
+
+The keyholders of the MakerDAO Interim Multisig have agreed to sign valid payouts for GovAlpha's expenditures until a more robust solution can be constructed.
