@@ -19,7 +19,8 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Core Unit Name
 
-* Real-World Finance
+Name: Real-World Finance
+ID: RWF-001
 
 ### Core Unit Mandate
 

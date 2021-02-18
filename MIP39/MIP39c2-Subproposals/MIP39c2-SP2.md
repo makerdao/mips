@@ -1,4 +1,4 @@
-# MIP39c2-SP2: Adding Risk Core Unit
+# MIP39c2-SP2: Adding Risk Core Unit - RISK-001
 
 ## Preamble
 
@@ -19,7 +19,8 @@ Onboarding Risk Core Unit ensures Maker Protocol can continue to grow safely by 
 
 ## Core Unit Name
 
-Risk Core Unit
+Name: Risk Core Unit
+ID: RISK-001
 
 ## Core Unit Facilitator
 
