@@ -1,7 +1,8 @@
 # MIP48: Streaming Payments via the Keg
 
+## Preamble
+
 ```
-Preamble
 MIP#: 48
 Title: Streaming Payments via the Keg
 Author(s): Payton Rose @prose11, Sam MacPherson (@hexonaut)
