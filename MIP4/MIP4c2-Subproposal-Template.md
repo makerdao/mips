@@ -25,7 +25,7 @@ Date of ratification: <yyyy-mm-dd>
 
 ### Amendment Pull Request (PR)
 
-- A link to the PR containing the amendment. This PR must have remained unchanged for the Frozen Period.
+- A link to the PR containing the amendment.
 
 ### Relevant Information
 
