@@ -18,7 +18,7 @@ Date of ratification: <yyyy-mm-dd>
 
 This amendment MIP proposes changes to MIP4.
 
-The first being an allowance for MIP amendments to be able to use the Weekly Governance Cycle for the first 3 months after a MIP has passed. This grants new MIPs greater flexibility to be fixed early and fast, improving overall governance efficiency.
+The first change is an allowance for MIP amendments to be able to use the Weekly Governance Cycle for the first 3 months after a MIP has passed. Using the weekly cycle will get an amendment ratified as quickly as 3 weeks instead of 2 months with the original process. This grants new MIPs greater flexibility to be fixed early and fast, improving overall governance efficiency.
 
 The second being an allowance for multiple MIP amendments in one proposal. This is to make it convenient to mass-amend MIP sets that often have dependencies on each other. The Amendments would be change-centric rather than MIP-centric.
 
@@ -27,6 +27,9 @@ The second being an allowance for multiple MIP amendments in one proposal. This 
 - MIP4: MIP Amendment and Removal Process
     - c1
     - c2
+    - c3
+    - c2-SP
+    - c3-SP
 
 ### Amendment Pull Request (PR)
 
