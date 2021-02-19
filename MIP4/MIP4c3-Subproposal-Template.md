@@ -15,7 +15,7 @@ Date of ratification: <yyyy-mm-dd>
 
 ### Motivation
 
-- Explanation behind the amendment of the MIP
+- Explanation behind the amendment of the MIP.
 - Explanation of why this change is valid for an amendment rather than a replacement.
 - Any impact this has on other MIPs that interact with the MIP in question.
 
