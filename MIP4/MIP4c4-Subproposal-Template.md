@@ -16,9 +16,15 @@ Date of ratification: <yyyy-mm-dd>
 
 ### Motivation
 
-   - Explanation behind the removal of the MIP.
-   - Any impact this has on other MIPs that interact with the MIP in question.
+- Explanation behind the removal of the MIP.
+- Any impact this has on other MIPs that interact with the MIP in question.
 
+### Removed MIPs
+
+- A list of the MIPs and their components that are being amended.
+### Removal Pull Request
+
+- A link to the PR containing the removal.
 ### Relevant Information
 
 - Links to evidence further backing the motivation.

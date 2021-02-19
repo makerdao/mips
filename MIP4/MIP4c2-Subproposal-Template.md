@@ -23,7 +23,7 @@ Date of ratification: <yyyy-mm-dd>
 
 - A list of the MIPs and their components that are being amended.
 
-### Amendment Pull Request (PR)
+### Amendment Pull Request
 
 - A link to the PR containing the amendment.
 

@@ -23,7 +23,7 @@ Date of ratification: <yyyy-mm-dd>
 
 - A list of the components that have been amended.
 
-### Amendment Pull Request (PR)
+### Amendment Pull Request
 
 - A link to the PR containing the amendment.
 
