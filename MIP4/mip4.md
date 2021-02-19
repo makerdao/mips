@@ -19,6 +19,7 @@ Replaces: n/a
 
 **[MIP4c2-Subproposal-Template.md](MIP4c2-Subproposal-Template.md)**
 **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**
+**[MIP4c4-Subproposal-Template.md](MIP4c4-Subproposal-Template.md)**
 
 ## Sentence Summary
 
