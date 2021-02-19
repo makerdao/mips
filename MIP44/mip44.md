@@ -20,11 +20,11 @@ License: AGPL3+
 
 - The proposed [RewardJoin](https://github.com/alexisgayte/dss-reward-join) implementation
 
-## Sentence summary
+## Sentence Summary
 
 MIP44 proposes a generic vault solution for all tokens with reward.
 
-## Paragraph summary
+## Paragraph Summary
 
 MIP44 is a generic vault solution which can by applied to any tokens with reward.
 

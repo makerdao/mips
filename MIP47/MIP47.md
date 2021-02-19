@@ -1,7 +1,8 @@
 # MIP47: MakerDAO Multisignature Wallet Management
 
+## Preamble
+
 ```
-Preamble
 MIP#: 47
 Title: MakerDAO Multisignature Wallet Management
 Author(s): Payton Rose @prose11
