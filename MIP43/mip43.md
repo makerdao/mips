@@ -7,7 +7,7 @@ Title: Term Lending Module (TLM)
 Author(s): Alberto Cuesta Cañada (@acuestacanada), Lev Livnev(@equivrel), Allan Niemerg (@niemerg)
 Contributors: n/a
 Type: Technical
-Status: Request for Comments
+Status: RFC
 Date Proposed: <2021-01-21>
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
