@@ -27,10 +27,10 @@ This budget implementation uses the Manual Budget Implementations, the Simple on
 
 * **Payment per month:** based on predetermined quarterly budget
 * **Asset type:** DAI
-* **Address:** The destination Company address will be provided by the Core Unit Facilitator
-* **Payment Frequency:** within first 10 days of each month for past month
+* **Address:** 0xd98ef20520048a35EdA9A202137847A62120d2d9
+* **Payment Frequency:** within first 10 days of each month
 
-We intend to “invoice” the protocol on a monthly basis (first week of the month) for the work performed in the previous month. This follows Simple implementation logic where through recurrent suck () calls Core Unit Facilitator requests for monthly funds to finance its team.
+We intend to “invoice” the protocol on a monthly basis (first week of the month). This follows Simple implementation logic where through recurrent suck () calls Core Unit Facilitator requests for monthly funds to finance its team.
 
 ## Budget Breakdown / Items
 
@@ -74,11 +74,11 @@ The team will use a company to distribute funds and sign contracts with its cont
 
 The monthly amount is based on quarterly budget. We believe we can reasonably estimate our costs on about a 3 month frequency. If the modifications are needed, they would be done on a 3 month basis through “Modify Core Unit Budget Subproposal Process”. If modifications are not proposed, the monthly payout amount gets rolled over from the initial proposal, if our work meets community and MKR holders expectations and demands.
 
-**Proposed quarterly budget for the Risk Core Unit is 255,000 DAI, which translates into 85,000 DAI per month.**
+**Proposed quarterly budget for the Risk Core Unit is 301,500 DAI, which translates into 100,500 DAI per month.**
 
 Breakdown:
 
-* Team Costs        76% / 65,000 DAI
-* Tooling                 6% / 5,000 DAI
-* Operations           3% / 2,500 DAI
-* Grants                 15% / 12,500 DAI
+* Team Costs        78% / 78,000 DAI
+* Tooling                 5% / 5,000 DAI
+* Operations           5% / 5,000 DAI
+* Grants                 12% / 12,500 DAI
