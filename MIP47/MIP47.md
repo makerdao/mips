@@ -17,7 +17,7 @@ Replaces:
 
 ## References
 
-* [MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c2%20Subproposal%5BTemplate%5D.md)
+* [MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md)
 
 ## Sentence Summary
 
@@ -83,9 +83,9 @@ Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
 
 **MIP47c3: Dissolution of Multi-Sig**
 
-Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. If a Multi-Sig decides to dissolve, the owners must fill out a [MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c2%20Subproposal%5BTemplate%5D.md).
+Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. If a Multi-Sig decides to dissolve, the owners must fill out a [MIP47c3: Dissolution of Multi-Sig Request Subproposal Template](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md).
 
-Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c2%20Subproposal%5BTemplate%5D.md) that will be subject to the following parameters before entering the next Governance cycle:
+Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md) that will be subject to the following parameters before entering the next Governance cycle:
 
 * Frozen Period: 2 weeks
 
