@@ -8,7 +8,7 @@ Title: Streaming Payments via the Keg
 Author(s): Payton Rose @prose11, Sam MacPherson (@hexonaut)
 Contributors: @amyjung, @LongForWisdom, @Elihu
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
 
