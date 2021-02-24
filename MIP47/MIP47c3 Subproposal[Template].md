@@ -1,4 +1,4 @@
-# MIP47c2: Dissolution of Multi-Sig Request Subproposal [Template]
+# MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]
 
 ```
 Preamble
@@ -11,5 +11,6 @@ Preamble
   * Members (if applicable)
 
 * Address and Name of Multi-Sig
+* List of what is being revoked (funds/permissions)
 
 ## Motivation
