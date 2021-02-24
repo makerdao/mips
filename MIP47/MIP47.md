@@ -51,7 +51,6 @@ The process outlined by this MIP is intended to allow Maker Governance the conti
 
 In recognition of the various subproposals that must be submitted by working groups to accomplish objectives, this MIP seeks to define when a Multi-Sig can be recognized by Governance Facilitators so that other proposals that involve distributing funds or permissions to a Multi-Sig address do not need an additional vote from Governance.
 
-
 ## Specification / Proposal Details
 
 **MIP47c1: Governance Recognition of a Multi-Sig**
@@ -78,7 +77,7 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
 - Contact: The designated contact for the Multi-Sig.
 - Address: Public wallet address of Multi-Sig
--Date Added: (yyyy-mm-dd)
+- Date Added: (yyyy-mm-dd)
 ```
 
 **MIP47c3: Dissolution of Multi-Sig**
