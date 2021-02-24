@@ -9,7 +9,7 @@ Contributors: @elprogreso @iammeeoh
 Status: RFC
 Date of Amendment Submission: <2021-01-18>
 Date of ratification: <yyyy-mm-dd>
-Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4-SP10, MIP4-SP11
+Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4c2-SP10
 ```
 ## Specification
 
