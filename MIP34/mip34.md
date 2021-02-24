@@ -7,7 +7,7 @@ Title: Keg Streaming Payments Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Proposed: 2021-01-11
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
