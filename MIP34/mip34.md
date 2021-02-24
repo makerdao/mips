@@ -1,13 +1,14 @@
 # MIP34: Keg Streaming Payments Module
 
 ## Preamble
+
 ```
 MIP#: 34
 Title: Keg Streaming Payments Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Proposed: 2021-01-11
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
@@ -90,4 +91,5 @@ see [Keg.t.sol](https://github.com/makerdao/keg/blob/master/src/Keg.t.sol)
 The `Keg` does not require any permissions into the Maker system and as such does not have any security risks. The `Tap` is simple and only interacts with `vat.suck()` in a permissioned way. The attack surface is minimal and easy to audit. The most significant risk comes from `FlapTap` which requires a modification to the core protocol to sit between the `vow` and the `flapper`. The code itself is simple, but the modification to the core protocol should be carefully considered.
 
 ### MIP34c6: Licensing
-   - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+- [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)
