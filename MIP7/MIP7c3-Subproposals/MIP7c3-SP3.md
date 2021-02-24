@@ -8,7 +8,7 @@ Author(s): Primož Kordež (@doopson)
 Contributors:
 Status: Accepted
 Date Applied: 2020-09-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-30
 ---
 Domain Role: Risk Domain Team Facilitator
 Proposed Applicant: Primož Kordež
