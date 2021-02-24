@@ -20,9 +20,9 @@ Replaces:
 
 * [MIP34: Keg Streaming Payments Module](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013)
 * [The Flapper](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation)
-* [MIP48c2 Subproposal: Setting Fixed Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
-* [MIP48c3 Subproposal: Setting Variable Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc3%20Subproposal%20%5BTemplate%5D.md)
-* [MIP48c4 Subproposal: Stopping Distributions from the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc4%20Subproposal%20%5BTemplate%5D.md)
+* [MIP48c2 Subproposal: Setting Fixed Distributions via the Keg](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c2%20Subproposal%20%5BTemplate%5D.md)
+* [MIP48c3 Subproposal: Setting Variable Distributions via the Keg](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c3%20Subproposal%20%5BTemplate%5D.md)
+* [MIP48c4 Subproposal: Stopping Distributions from the Keg](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c4%20Subproposal%20%5BTemplate%5D.md)
 
 ## Sentence Summary
 
@@ -48,7 +48,7 @@ Describes how Maker Governance can dictate variable payments by redirecting a pe
 
 **MIP48c4: Stopping Distributions from the Keg**
 
-Describes how Maker Governance can stop or pause payments through the Keg, by use of a MIP48c3 subproposal.
+Describes how Maker Governance can stop or pause payments through the Keg, by use of a MIP48c4 subproposal.
 
 ## Motivation
 
