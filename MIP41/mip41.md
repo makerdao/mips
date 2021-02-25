@@ -7,7 +7,7 @@ Title: Facilitator Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
 Type: Process
-Status: RFC
+Status: Formal Submission
 Date Proposed: <2021-01-18>
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP38, MIP39, MIP40, MIP4c2-SP10, MIP4c2-SP12
