@@ -105,114 +105,21 @@ This line of the budget is in case of any contingency or opportunity that could 
 
 **Budget Breakdown.**
 
-<table>
-  <tr>
-   <td colspan="3" ><strong>May, June, July 2021</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>Amount in Dai</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Total</strong>
-   </td>
-   <td>
-   </td>
-   <td><p style="text-align: right">
-<strong>378,350.00</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" >
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><strong>Team remuneration</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>253,350.00</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><p style="text-align: right">
-Base salaries</p>
-
-   </td>
-   <td><p style="text-align: right">
-180,900.00</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><p style="text-align: right">
-Incentives</p>
-
-   </td>
-   <td><p style="text-align: right">
-72,450.00</p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><strong>Integrations</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>75,000.00</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><strong>Operations</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>30,000.00</strong></p>
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td colspan="2" ><strong>Opportunities</strong>
-   </td>
-   <td><p style="text-align: right">
-<strong>20,000.00</strong></p>
-
-   </td>
-  </tr>
-</table>
+| **May, June, July 2021** |                |
+|-----------------------------|----------------|
+|                             | Amount in Dai  |
+| **Total**                   | **378,350.00** |
+|                             |                |
+|                             |                |
+| **Team remuneration**       | **253,350.00** |
+|               Base salaries |     180,900.00 |
+|                  Incentives |      72,450.00 |
+|                             |                |
+| **Integrations**            |  **75,000.00** |
+|                             |                |
+| **Operations**              |  **30,000.00** |
+|                             |                |
+| **Opportunities**           |  **20,000.00** |
 
 ### Budget Implementation
 
