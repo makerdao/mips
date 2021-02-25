@@ -6,7 +6,7 @@ MIP#: 45
 Title: Liquidations 2.0 - Liquidation System Redesign
 Author(s):  Smart Contracts Domain Team
 Type: Technical
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-02-03
 Dependencies:
 Replaces: Liquidation System 1.2 (LIQ-1.2)
