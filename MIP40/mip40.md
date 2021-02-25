@@ -10,7 +10,7 @@ Type: Process
 Status: RFC
 Date Proposed: <2021-01-18>
 Date Ratified: <yyyy-mm-dd>
-Dependencies: MIP38, MIP39, MIP41, MIP4-SP10, MIP4-SP11, MIP4-SP12
+Dependencies: MIP38, MIP39, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
 ## References
