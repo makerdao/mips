@@ -6,7 +6,7 @@ MIP#: 45
 Title: Liquidations 2.0 - Liquidation System Redesign
 Author(s):  Smart Contracts Domain Team
 Type: Technical
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-02-03
 Dependencies:
 Replaces: Liquidation System 1.2 (LIQ-1.2)
@@ -98,8 +98,8 @@ The address of the accounting system contract. The recipient of the bad debt com
     - sends the collateral to the `ilk`'s `Clipper`
     - increments the `vow`'s bad debt accumulator
 - pushes the bad debt onto the debt queue
-- adds the bad debt to the `Hole` accumulator
-- adds the bad debt to the `ilk.hole` accumulator
+- adds the bad debt to the `Hole` with the `Dirt` accumulator
+- adds the bad debt to the `ilk.hole` with the `ilk.dirt` accumulator
 - initiates the auction by calling `Clipper.kick()`
 - fires the `Bark()` event
 
@@ -174,7 +174,7 @@ Just like in `LIQ-1.2`, the circuit breaker will be available through a `Clipper
 - a reentrancy check to ensure the function is not being recursively invoked
 - that the three-stage circuit breaker is not tripped
 - that the auction id corresponds to a valid auction
-- that the auction does not need to be reset, either due to having experienced to large a percentage decrease in price, or having existed for too long of a time duration
+- that the auction does not need to be reset, either due to having experienced too large a percentage decrease in price, or having existed for too long of a time duration
 - that the caller's specified maximum price is at least the current auction price
 
 Then, the amount of collateral to attempt to purchase is computed as the minimum of the collateral left in the auction (`lot`) and the caller's specified quantity (`amt`)—the resulting value is the `slice`. This value is then multiplied by the current price of the auction to compute the DAI owed in exchange (`owe`). If `owe` exceeds the DAI collection target of the auction (`tab`), then `owe` is adjusted to be equal to `tab`, and `slice` is set to `tab / price` (i.e. the auction will not sell more collateral than is needed to cover debt+fees from the liquidated Vault).
@@ -201,9 +201,9 @@ Lastly, various values are updated to record the changed state of the auction: t
 #### MIP45c9 Example Liquidation
 
 ![](https://i.imgur.com/BgOFMyZ.gif)
-**Figure MIP45c9.1**
+**Figure MIP45c9.1**: NOTE: in the above figure, `tau` is `tail`.
 
-In this example we can see a linear decrease function (`calc`), with an `ETH-A` OSM price of **200 DAI**, a `buf` of **20%**, a `tail (tau)` of **21600** seconds, a `tab` of ***60,000 DAI** with a `lot` of `347.32` ETH.  There are two bidders, **Alice** and **Bob**.  **Alice** calls `take` first and is willing to give ***50,000 DAI** in return for **256.41** ETH collateral, a price of **195 DAI** per ETH.  The price of ETH continues to fall over time, and **Bob** picks up the remaining **90.91** ETH for **10,000 DAI**, a price of **110 DAI** per ETH.  If the auction reached the `tail` value, or fell by `cusp` percent of `top`, then `Clipper.take` would revert if called, and the auction would need to be reset with a `Clipper.redo` call.
+In this example we can see a linear decrease function (`calc`), with an `ETH-A` OSM price of **200 DAI**, a `buf` of **20%**, a `tail (tau)` of **21600** seconds, a `tab` of ***60,000 DAI** with a `lot` of `347.32` ETH.  There are two bidders, **Alice** and **Bob**.  **Alice** calls `take` first and is willing to give ***50,000 DAI** in return for **256.41** ETH collateral, a price of **195 DAI** per ETH.  The price of ETH continues to fall over time, and **Bob** picks up the remaining **90.91** ETH for **10,000 DAI**, a price of **110 DAI** per ETH.  If the auction reached the `tail` value, or fell to less than `cusp` percent of `top`, then `Clipper.take` would revert if called, and the auction would need to be reset with a `Clipper.redo` call.
 
 #### MIP45c10 Features
 
@@ -244,7 +244,7 @@ If keepers decide to use the `clipperCallee` pattern, then they need not store D
 - a mutex check to ensure the `Clipper.take` function is not already being invoked from `clipperCallee`
 - that the three-stage circuit breaker is not tripped
 - that the auction id corresponds to a valid auction
-- that the auction needs to be reset, either due to having experienced to large a percentage decrease in price, or having existed for too long of a time duration
+- that the auction needs to be reset, either due to having experienced too large a percentage decrease in price, or having existed for too long of a time duration
 - updates several fields of the existing auction
     - `tic` to reset the auction start time
     - `top` with the current OSM price and `buf` percent
@@ -448,7 +448,7 @@ function yank(uint256 id) external;
 This section covers some of the known risks with Liquidations 2.0
 
 ### MIP45c19 Incentive Farming
-Periodically, governance may increase the `ilk.dust` amount.  When this happens, it's usually because gas has become so expensive it impacts the efficiency of liquidations.  That is, the cost of calling `Bark.bite()`, `Clipper.take()`, or `Clipper.redo()` may exceed the collateral offered.  Incentives may be used as a remedy to this potential issue and possibly a way for the protocol to keep `ilk.dust` lower; however, governance must take care when increasing the `ilk`s `dust`, `tip`, or `chip` not to incentivize the creation of many Vaults to farm this incentive.  An example of an exploit is as follows:
+Periodically, governance may increase the `ilk.dust` amount.  When this happens, it's usually because gas has become so expensive it impacts the efficiency of liquidations.  That is, the cost of calling `Dog.bark()`, `Clipper.take()`, or `Clipper.redo()` may exceed the collateral offered.  Incentives may be used as a remedy to this potential issue and possibly a way for the protocol to keep `ilk.dust` lower; however, governance must take care when increasing the `ilk`s `dust`, `tip`, or `chip` not to incentivize the creation of many Vaults to farm this incentive.  An example of an exploit is as follows:
 
 1. governance decides to increment `dust` by **1500 DAI** at the same time they scale `ilk.tip` to subsidize auctions.
 2. an attacker realizes it would be profitable between gas and the `chop` to shard (`fork`) their existing Vault into many Vaults or create many new Vaults.
@@ -546,12 +546,16 @@ dink <= urn.ink
 dart <= urn.art
 ```
 ```
-dart / urn.art == dink / urn.ink == urn.art' / urn.art == urn.ink' / urn.ink
+dart / urn.art == dink / urn.ink
+```
+```
+urn.art' / urn.art == urn.ink' / urn.ink
 ```
 ```
 tab <= min(ilk.hole + ilk.dust - ilk.dirt, Hole + max(ilk[*].dust) - Dirt)
 considering ilk[*].dust can't change after set up
 ```
+
 #### Implementation breakdown
 
 This function computes `tab`, the target amount of DAI to be raised in an auction, and `lot`, the collateral to be auctioned off. They are defined as:
