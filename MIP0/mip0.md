@@ -68,6 +68,8 @@ A process component that defines the process to add personnel to the MIP Editor 
 **MIP0c13: Core Personnel Offboarding**  
 A process component that defines the process to remove personnel from the MIP Editor or Governance Facilitator roles.
 
+**MIP0c14: MIP Set Management**  
+A component that defines how to manage MIP Sets and the roles responsible for it.
 
 ## Motivation
 
@@ -449,5 +451,17 @@ MIP0c13 is a Process MIP component that allows the removal of core personnel usi
 -   **Frozen Period**: 0 days
 
 MIP0c13 subproposals must use the template located at  **[MIP0c13-Subproposal-Template.md](MIP0c13-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+
+---
+
+### MIP0c14: MIP Set Management
+
+Some unitary structures and behaviors must be analyzed into separate parts across more than one MIP. When these MIPs are tightly interwoven, they constitute a MIP Set.
+
+For any MIP Set, its constituent MIPs must all share a common tag. The tag should be defined by MIP Authors and/or MIP Editors and should comply with the format: `descriptive short name-mipset`. This makes it easier to keep track of which MIPs act as a modular whole.
+
+MIP Sets are usually introduced as such by MIP Authors, but if MIP Editors find that a group of formally loose MIPs in the RFC phase satisfy the conditions, they can tag these MIPs together into a formal MIP Set. When in doubt, the ultimate criteria should be usefulness and distinctness of unity.
+
+Because of their interdependent nature, MIP Sets can only be voted as a block, as any partial passing would result in the onboarding of inconsistent, incomplete, or nonsensical MIPs. By the same token, special care must be taken when modifying or removing MIPs within a MIP Set.
 
 ---
