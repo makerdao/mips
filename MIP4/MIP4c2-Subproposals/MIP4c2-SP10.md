@@ -6,10 +6,10 @@ MIP4c2-SP#: 10
 MIP to be Amended: MIP0
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
-Status: RFC
+Status: Formal Submission
 Date of Amendment Submission: <2021-01-18>
 Date of ratification: <yyyy-mm-dd>
-Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4-SP11, MIP4-SP12
+Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4c2-SP12
 ```
 ## Specification
 

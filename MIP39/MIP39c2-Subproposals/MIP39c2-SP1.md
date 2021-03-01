@@ -6,7 +6,7 @@
 MIP39c2-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-01-26
 Date Ratified: <yyyy-mm-dd>
 ```
@@ -19,7 +19,8 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Core Unit Name
 
-* Real-World Finance
+Name: Real-World Finance
+ID: RWF-001
 
 ### Core Unit Mandate
 
