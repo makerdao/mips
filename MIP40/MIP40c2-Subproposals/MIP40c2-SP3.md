@@ -1,11 +1,12 @@
 # MIP40c2-SP3: Core Unit Budget - GOV-001
 
 ## Preamble
+
 ```
 MIP40c2-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
 ```
