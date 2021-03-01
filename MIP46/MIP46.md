@@ -7,7 +7,7 @@ Title: Parameter Proposal Groups
 Author(s): @LongForWisdom, Sam MacPherson (@hexonaut)
 Contributors: @ultraschuppi
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
 Dependencies: None
