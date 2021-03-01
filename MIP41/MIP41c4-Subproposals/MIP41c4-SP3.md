@@ -6,7 +6,7 @@
 MIP41c4-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
 ```
