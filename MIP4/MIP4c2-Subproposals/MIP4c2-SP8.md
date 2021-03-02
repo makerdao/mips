@@ -24,11 +24,11 @@ The monthly poll date means that in some scenarios, a collateral asset must wait
 
 * MIP9: Community Greenlight
   * Paragraph Summary
-  - Added mention of the additional community greenlight poll in the first week of the governance cycle.
+    * Added mention of the additional community greenlight poll in the first week of the governance cycle.
   * c1
-  - Added mention of the start of the additional community greenlight poll on the 1st Monday of each month.
+    * Added mention of the start of the additional community greenlight poll on the 1st Monday of each month.
   * c3
-  - Changed mentions of monthly greenlight polls to bi-monthly and fixed typos.
+    * Changed mentions of monthly greenlight polls to bi-monthly and fixed typos.
 
 ### Amendment Pull Request (PR)
 
