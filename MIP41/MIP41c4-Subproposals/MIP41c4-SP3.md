@@ -6,17 +6,17 @@
 MIP41c4-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Specification
-    
+
 ### Motivation
 
 I am applying to be a Facilitator of GovAlpha due to my current position as Governance Facilitator. I wish to continue in this role and be paid by the Maker Protocol.
-    
+
 ### Core Unit ID
 
 GovAlpha (GOV-001)

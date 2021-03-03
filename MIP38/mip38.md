@@ -7,10 +7,10 @@ Title: DAO Primitives State
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
 Type: Informational
-Status: RFC
+Status: Formal Submission
 Date Proposed: <2021-01-18>
 Date Ratified: <yyyy-mm-dd>
-Dependencies: MIP39, MIP40, MIP41, MIP4-SP10, MIP4-SP11, MIP4-SP12
+Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
 ## References
@@ -58,7 +58,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### NAME-XXX
-**ID** - XXX# (assigned by the MIP Editor)
+**ID** - XXX# (assigned by the Operational Support Core Unit or a MIP Editor)
 **Summary** - 30 word max summary.
 **Date Ratified** - <date ratified>
 **Mandate** - [MIP39c2-SPX](link)

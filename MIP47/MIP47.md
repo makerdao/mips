@@ -17,7 +17,7 @@ Replaces:
 
 ## References
 
-* [MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md)
+* [MIP47c3: Dissolution of Multi-Sig Request Subproposal Template](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md)
 
 ## Sentence Summary
 
@@ -39,18 +39,17 @@ Sets up a subsection of this MIP for documenting currently approved Multi-Sigs, 
 
 **MIP47c3: Dissolution of Multi-Sig**
 
-Covers how a previously approved Multi-Sig can be revoked of permissions or funds. 
+Covers how a previously approved Multi-Sig can be revoked of permissions or funds.
 
 ## Motivation
 
-Creating Multi-Sigs for permissions or funding that are owned by MakerDAO but administered by community members will allow teams the agility to pursue relevant fiscal courses of action and signal their consensus for permissioned changes while being supported by Governance. 
+Creating Multi-Sigs for permissions or funding that are owned by MakerDAO but administered by community members will allow teams the agility to pursue relevant fiscal courses of action and signal their consensus for permissioned changes while being supported by Governance.
 
 These Multi-Sigs would be ideal for a broad range of objectives, from creating budgets for Core Units to delegating consensus for particular working groups.
 
 The process outlined by this MIP is intended to allow Maker Governance the continued confidence to disperse budgets and permissions to various groups that already exist and will form in the future.
 
 In recognition of the various subproposals that must be submitted by working groups to accomplish objectives, this MIP seeks to define when a Multi-Sig can be recognized by Governance Facilitators so that other proposals that involve distributing funds or permissions to a Multi-Sig address do not need an additional vote from Governance.
-
 
 ## Specification / Proposal Details
 
@@ -61,7 +60,7 @@ In order for a Multi-Sig to be considered owned by Maker Governance for funding 
 * Governance must be able to revoke funding and permissions from approved multi-sigs at any time.
 * Signatory requirements providing no less than ⅔ of listed signatories to sign off on an action.
 * All signers must be tagged on the forum and their willingness to be included in the Multi-Sig publicly confirmed.
-* A representative for the Multi-Sig must be designated as an official point of contact. 
+* A representative for the Multi-Sig must be designated as an official point of contact.
 * There must be a clear and public explanation of the purpose and scope of the Multi-Sig.
 * A clearly defined process for onboarding and offboarding signatories.
 * A wallet address to be whitelisted.
@@ -78,14 +77,14 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
 - Contact: The designated contact for the Multi-Sig.
 - Address: Public wallet address of Multi-Sig
--Date Added: (yyyy-mm-dd)
+- Date Added: (yyyy-mm-dd)
 ```
 
 **MIP47c3: Dissolution of Multi-Sig**
 
 Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. If a Multi-Sig decides to dissolve, the owners must fill out a [MIP47c3: Dissolution of Multi-Sig Request Subproposal Template](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md).
 
-Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIP47c3: Dissolution of Multi-Sig Request Subproposal [Template]](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md) that will be subject to the following parameters before entering the next Governance cycle:
+Likewise, the Maker Community may choose to revoke funding for a Multi-Sig. In order to do so, any community member may submit a [MIP47c3: Dissolution of Multi-Sig Request Subproposal Template](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md) that will be subject to the following parameters before entering the next Governance cycle:
 
 * Frozen Period: 2 weeks
 

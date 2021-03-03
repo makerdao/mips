@@ -6,7 +6,7 @@
 MIP39c2-SP#: 2
 Author(s): Primož Kordež (@Primoz)
 Contributors: 
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-02-03
 Date Ratified: yyyy-mm-dd
 ```

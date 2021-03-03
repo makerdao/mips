@@ -6,7 +6,7 @@
 MIP40c2-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-01-26
 Date Ratified: <yyyy-mm-dd>
 ```
