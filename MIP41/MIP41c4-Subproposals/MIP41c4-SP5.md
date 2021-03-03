@@ -1,4 +1,4 @@
-MIP41c4-SP4: Facilitator Onboarding, MKT-001
+# MIP41c4-SP4: Facilitator Onboarding, MKT-001
 
 ## Preamble
 
@@ -14,6 +14,7 @@ Date Ratified:
 ## Specification
 
 ### Motivation
+
 I am applying to be a Facilitator of the Content Production Core Unit.
 
 ### Core Unit
@@ -26,7 +27,8 @@ I am applying to be a Facilitator of the Content Production Core Unit.
 * RocketChat handle: @seth.goldfarb
 
 ### Facilitator Commitment
-My philosophy on Content Marketing is simple: 
+
+My philosophy on Content Marketing is simple:
 
 People make decisions based on narratives about who they are and how they interact with the world.
 

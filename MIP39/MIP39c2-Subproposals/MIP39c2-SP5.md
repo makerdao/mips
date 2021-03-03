@@ -23,7 +23,7 @@ The Maker ecosystem is full of stories that deserve to be told and by providing 
 
 ### **Core Unit Name**
 
-*   Content Production Core Unit
+* Content Production Core Unit
 
 ### **Core Unit Facilitator/s**
 
@@ -35,40 +35,38 @@ The Content Production core unit will be responsible for creating, and supportin
 
 The goals of the Content Production core unit will be to:
 
-*   Enhance MakerDAO’s position as a reputable authority on topics like decentralized governance, token engineering, and DeFi.
-*   Produce entertaining and educational content that promotes engagement with Dai and the Maker Protocol.
-*   Produce promotional content for other Core Units and provide resources to educate the ecosystem on best practices in content production and distribution.
+* Enhance MakerDAO’s position as a reputable authority on topics like decentralized governance, token engineering, and DeFi.
+* Produce entertaining and educational content that promotes engagement with Dai and the Maker Protocol.
+* Produce promotional content for other Core Units and provide resources to educate the ecosystem on best practices in content production and distribution.
 
 ### **Roadmap**
 
-The primary focus of our first three months will be to 
+The primary focus of our first three months will be to
 
 During this period, team members will continue lending support to projects like:
 
 * Maker Relay ([Written](https://forum.makerdao.com/tag/maker-relay) and [Audio](https://anchor.fm/voicesofmkr/))
-
 * [The Community Portal](communitydevelopment.makerdao.com)
-
 * The Community Blog (coming soon)
 
 **Month 1: Setup and Coordinate**
 
-*   Incorporate and set up administrative operations (payroll, etc.)
-*   Implement a Request For Content (RFC) process
-*   Work with the Legal Core Unit to determine legal limitations on content and needs with regard to IP (copyright/trademark/TOS).
-*   Work with other Core Units to surface content-related needs and coordinate the management of MakerDAO’s digital properties (Maker Blog, Youtube, Twitter, etc.)
+* Incorporate and set up administrative operations (payroll, etc.)
+* Implement a Request For Content (RFC) process
+* Work with the Legal Core Unit to determine legal limitations on content and needs with regard to IP (copyright/trademark/TOS).
+* Work with other Core Units to surface content-related needs and coordinate the management of MakerDAO’s digital properties (Maker Blog, Youtube, Twitter, etc.)
 
 **Month 2: Strategize, Execute, and Renew**
 
-*   Develop a content strategy based on organizational goals, define KPIs to measure the effectiveness of our efforts, and determine staffing needs
-*   Hire content creators and onboard them with Opolis
-*   Start producing and distributing content
-*   Report on our progress and submit a budget proposal to continue our work
+* Develop a content strategy based on organizational goals, define KPIs to measure the effectiveness of our efforts, and determine staffing needs
+* Hire content creators and onboard them with Opolis
+* Start producing and distributing content
+* Report on our progress and submit a budget proposal to continue our work
 
 **Month 3: Produce, Report, and Renew**
 
-*   Provide feedback to RFC on the budget proposal
-*   Continue producing content and reporting results
+* Provide feedback to RFC on the budget proposal
+* Continue producing content and reporting results
 
 ### **Team Structure**
 
@@ -129,9 +127,9 @@ Accountability will be demonstrated through regular updates on goals and KPIs.
 
 ### **Legal Structure**
 
-*   Delaware-based S-Corp
-*   Contributors will be employees unless they prefer to freelance.
-*   Payments not yet decided. Considering Opolis or the Keg
+* Delaware-based S-Corp
+* Contributors will be employees unless they prefer to freelance.
+* Payments not yet decided. Considering Opolis or the Keg
 
 ### **Team Credentials**
 
@@ -145,6 +143,6 @@ Members of this team bring expertise in content marketing and production, audio 
 
 You can see this team’s work for MakerDAO in:
 
-*   The [Community Portal](https://community-development.makerdao.com/en/)
-*   Maker Relay ([Written](https://forum.makerdao.com/tag/maker-relay) and [Audio](https://anchor.fm/voicesofmkr/))
-*   Stats on the State of Maker Summaries
+* The [Community Portal](https://community-development.makerdao.com/en/)
+* Maker Relay ([Written](https://forum.makerdao.com/tag/maker-relay) and [Audio](https://anchor.fm/voicesofmkr/))
+* Stats on the State of Maker Summaries
