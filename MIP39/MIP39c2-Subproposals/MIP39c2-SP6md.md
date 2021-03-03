@@ -1,9 +1,9 @@
-# MIP39c2-SP5: MakerDAO Shop Core Unit, MDS-001
+# MIP39c2-SP6: MakerDAO Shop Core Unit, MDS-001
 
 ## Preamble
 
 ```
-MIP39c2-SP#: 5
+MIP39c2-SP#: 6
 Author(s): Mike Porcaro, Coulter Mulligan
 Contributors: 
 Status: Request For Comment (RFC)

@@ -1,9 +1,9 @@
-# MIP41c4-SP5: MakerDAO Shop Facilitator Onboarding, MDS-001
+# MIP41c4-SP6: MakerDAO Shop Facilitator Onboarding, MDS-001
 
 ## Preamble
 
 ```
-MIP41c4-SP#:5
+MIP41c4-SP#: 6
 Author(s): Coulter Mulligan & Mike Porcaro
 Contributors: 
 Status: Request For Comment (RFC)
