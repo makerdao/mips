@@ -7,7 +7,7 @@ MIP41c4-SP#: 7
 Author(s): Derek Flossman
 Contributors:
 Status: Request For Comment (RFC)
-Date Applied: <2021-03-02>
+Date Applied: 2021-03-02
 Date Ratified: <yyyy-mm-dd>
 ```
 
@@ -24,6 +24,7 @@ I see the role of facilitating a technical team while also managing the expectat
 Smart Contract Core Unit
 
 ## Facilitator Name and Information
+
 Name: Derek Flossman
 Forum:@Derek
 R/C: @derek.flossman
