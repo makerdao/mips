@@ -6,7 +6,7 @@
 MIP39c2-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
-Status: RFC
+Status: Request for Comments (RFC)
 Date Applied: 2021-02-24
 Date Ratified: <yyyy-mm-dd>
 ```
