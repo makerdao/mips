@@ -1,6 +1,6 @@
 
     Preamble
-    MIP40c2-SP7
+    MIP40c2-SP#: 7
     Author(s): Smart Contract Domain Team
     Contributors: N/A
     Status: Request For Comment (RFC)
