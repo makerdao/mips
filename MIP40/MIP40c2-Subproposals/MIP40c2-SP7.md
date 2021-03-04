@@ -1,11 +1,15 @@
+# MIP40c2-SP7: Modify Smart Contract Core Unit Budget
 
-    Preamble
-    MIP40c2-SP#: 7
-    Author(s): Smart Contract Domain Team
-    Contributors: N/A
-    Status: Request For Comment (RFC)
-    Date Applied: <2021-03-03>
-    Date Ratified: <yyyy-mm-dd>
+## Preamble
+
+```
+MIP40c2-SP#: 7
+Author(s): Smart Contract Domain Team
+Contributors: N/A
+Status: Request For Comment (RFC)
+Date Applied: 2021-03-03
+Date Ratified: <yyyy-mm-dd>
+```
 
 ## Specification
 
