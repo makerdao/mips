@@ -504,38 +504,34 @@ This function computes `tab`, the target amount of DAI to be raised in an auctio
 They are defined as:
 
 ```
-tab = dart * ilk.rate * ilk.chop
+tab = dart * ilk.rate * ilk.chop / WAD
 lot = dink = urn.ink * dart / urn.art
 ```
 
-`room` is defined as the remaining space of available DAI to be offered in auctions:
+`room` is defined as the remaining space of available DAI to be collected in auctions:
 ```
-room = min(Hole - Dirt, ilk.hole - ilk.dust)
-```
-
-There is a precondition about `room` that needs to be satisfied in order to create an auction, otherwise the transaction fails:
-```
-room > 0 && room >= ilk.dust
+room = min(Hole - Dirt, ilk.hole - ilk.dirt)
 ```
 
 Then `dart` is defined as:
 ```
-if urn.art * ilk.rate * ilk.chop ||
-   urn.art * ilk.rate * ilk.chop > room && urn.art * ilk.rate * ilk.chop < room + dust
+if    urn.art < room * WAD / ilk.rate / ilk.chop
+   || (urn.art - room * WAD / ilk.rate / ilk.chop) * ilk.rate < ilk.dust:
      dart = urn.art
 otherwise
-     dart = room / ilk.rate / ilk.chop
-````
+     dart = room * WAD / ilk.rate / ilk.chop
+```
 
 Leaving the final formulas as:
 ```
-if urn.art * ilk.rate * ilk.chop ||
-   urn.art * ilk.rate * ilk.chop > room && urn.art * ilk.rate * ilk.chop < room + dust:
-     tab = urn.art * ilk.rate * ilk.chop
+if    urn.art < room * WAD / ilk.rate / ilk.chop
+   || (urn.art - room * WAD / ilk.rate / ilk.chop) * ilk.rate < ilk.dust:
+     tab = urn.art * ilk.rate * ilk.chop / WAD
      lot = urn.ink
 otherwise
-     tab = room
-     lot = urn.ink * (room / ilk.rate / ilk.chop) / urn.art
+     # approximately equal to room, but in general not exactly equal due to rounding error
+     tab = room * WAD / ilk.rate / ilk.chop * ilk.rate * ilk.chop / WAD
+     lot = urn.ink * (room * WAD / ilk.rate / ilk.chop) / urn.art
 ```
 
 ##### Invariants:
@@ -560,7 +556,7 @@ considering ilk[*].dust can't change after set up
 
 This function computes `tab`, the target amount of DAI to be raised in an auction, and `lot`, the collateral to be auctioned off. They are defined as:
 
-    tab = dart * ilk.rate * ilk.chop                                        (A)
+    tab = dart * ilk.rate * ilk.chop / WAD                                  (A)
     lot = dink = urn.ink * dart / urn.art                                   (B)
 
 ##### Liquidations and normalized debt
@@ -581,42 +577,29 @@ The computation of `dart` depends on the `hole` and `dust` restrictions as expla
 
 ##### `hole` restrictions
 
-When a liquidation is successfully started, its `tab` value is added to the collateral's `dirt` value:
+When a liquidation is successfully started, its `tab` value is added to the collateral's `dirt` value and to the global Dirt value:
 
     ilk.dirt' = ilk.dirt + tab                                              (F)
+    Dirt'     = Dirt     + tab                                              (G)
 
-To prevent too many liquidations from being triggered at once, the `tab` value of new liquidations added to the collateral's `dirt` shouldn't surpass the collateral's `hole` value:
+To prevent too much DAI liquidity demand from being created at once, the Dog.bark function reverts if:
 
-    tab + ilk.dirt <= ilk.hole
+    Hole <= Dirt || ilk.hole <= ilk.dirt                                    (H)
 
-Solving for `tab`,
+Note that Dirt may exceed Hole, or ilk.dirt may exceed ilk.hole, by a small margin if the Vault would be left in a dusty (urn.art * ilk.rate < dust) by a partial liquidation;
+in such a case, the entire Vault is liquidated in order to avoiding creating Vaults that will never be liquidated due to unprofitability. The size of the excess should be bounded as follows
+(assuming the values of the parameters appearing in the formula did not change since the last time time the bound held true):
 
-    tab <= ilk.hole - ilk.dirt                                              (G)
+    ilk.dirt <= ilk.hole +       (ilk.dust - 1) * ilk.chop / WAD - 1        (I)
+        Dirt <=     Hole + max { (ilk.dust - 1) * ilk.chop / WAD - 1 }      (J)
 
-There is also a general `Dirt` value that accumulates `tab`s from every collateral, and a general `Hole` value for which the same condition applies:
-
-    tab <= Hole - Dirt                                                      (H)
-
-Joining equations `G` and `H`,
-
-    tab <= min(ilk.hole - ilk.dirt, Hole - Dirt)                            (H)
-
-Solving for `dart` using equation `A`,
-
-    dart * ilk.rate * ilk.chop <= min(ilk.hole - ilk.dirt, Hole - Dirt)
-    dart <= min(ilk.hole - ilk.dirt, Hole - Dirt) / (ilk.rate * ilk.chop)   (I)
+The maximum in (J) is taken over all valid ilks.
 
 ##### Definition of `dart` in terms of `room`
 
 `room` is defined as the remaining space of available DAI to be offered in auctions:
 
-    room = min(Hole - Dirt, ilk.hole - ilk.dust)
-
-There is a precondition about `room` that needs to be satisfied in order to create an auction:
-
-    room > 0 && room >= ilk.dust
-
-Otherwise, the transaction fails.
+    room = min(Hole - Dirt, ilk.hole - ilk.dirt)
 
 Then `dart` is defined as:
 
