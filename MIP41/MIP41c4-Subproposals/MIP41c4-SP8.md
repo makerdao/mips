@@ -82,5 +82,5 @@ In addition to facilitating our Core Unit Mandate and Ways of Working as outline
 
 ## Related Documents
 
-- [MIP39c2-SP8: Governance Communications Core Unit, COM-001]()
-- [MIP40c2S-P8: Modify Core Unit Budget, COM-001]()
+- [MIP39c2-SP8: Governance Communications Core Unit, COM-001](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP8.md)
+- [MIP40c2S-P8: Modify Core Unit Budget, COM-001](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c2-Subproposals/MIP40c2-SP8.md)
