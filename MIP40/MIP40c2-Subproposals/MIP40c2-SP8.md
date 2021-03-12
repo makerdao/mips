@@ -1,4 +1,4 @@
-# MIP40c2SP8: Modify Core Unit Budget, COM-001
+# MIP40c2-SP8: Modify Core Unit Budget, COM-001
 
 ## Preamble
 
