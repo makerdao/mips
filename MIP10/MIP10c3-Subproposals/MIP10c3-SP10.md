@@ -1,3 +1,5 @@
+# MIP10c3-SP10: Subproposal to Onboard Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 10
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-09-17
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP10 onboards the YFI/USD Oracle.
 
 ## Specification
 

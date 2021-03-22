@@ -8,9 +8,12 @@ MIP to be amended: MIP3
 Author(s): @LongForWisdom
 Contributors:
 Status: Accepted
-Date of Amendment Submission: 2020-10-05
-Date of ratification: 2020-11-27
+Date Proposed: 2020-10-05
+Date Ratified: 2020-11-27
 ```
+
+## Sentence Summary
+MIP4c2-SP6 adds a calendar exception: no governance cycle in the month of December.
 
 ## Specification
     

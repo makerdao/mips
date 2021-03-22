@@ -7,10 +7,14 @@ MIP to be Amended: MIP0
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
 Status: Formal Submission
-Date of Amendment Submission: <2021-01-18>
-Date of ratification: <yyyy-mm-dd>
+Date Proposed: 2021-01-18
+Date Ratified:
 Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4c2-SP12
 ```
+
+## Sentence Summary
+MIP4c2-SP10 amends MIP0 to be compatible with the Domain Framework MIP Set.
+
 ## Specification
 
 ### Motivation

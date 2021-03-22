@@ -7,12 +7,16 @@ Author(s): Wil Barnes (@wilbarnes), Lucas Manuel (@lucas-manuel),
   Brian McMichael (@BrianMcMakerDAO), Christopher Mooney (@cmooney)
 Contributors: n/a
 Status: Accepted
-Date Applied: 2020-08-09
+Date Proposed: 2020-08-09
 Date Ratified: 2020-10-30
 ---
 Domain Role: Smart Contract Domain Team
 Proposed Applicant(s): Wil Barnes, Lucas Manuel, Brian McMichael, Christopher Mooney
 ```
+
+## Sentence Summary
+MIP7c3-SP4 onboards the Smart Contracts Domain Team.
+
 ## Application Form
 
 ### Domain Team Introduction

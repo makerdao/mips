@@ -1,3 +1,5 @@
+# MIP10c3-SP17: Subproposal to Onboard the RenBTC/USD Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 17
@@ -7,8 +9,10 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-11-27
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+## Sentence Summary
+MIP10c3-SP17 onboards the RenBTC/USD Oracle.
 
 ## Specification
 

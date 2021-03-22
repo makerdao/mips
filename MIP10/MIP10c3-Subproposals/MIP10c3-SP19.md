@@ -1,3 +1,5 @@
+# MIP10c3-SP19: Subproposal to Onboard the UNI-V2-USDC-ETH/USD Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 19
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-12-05
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP19 onboards the UNI-V2-USDC-ETH/USD Oracle.
 
 ## Specification
 

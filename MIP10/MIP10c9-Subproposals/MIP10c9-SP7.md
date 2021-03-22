@@ -1,3 +1,5 @@
+# MIP10c9-SP7: Subproposal to Whitelist Maker v1 Medianizer for ETH/USD Oracle Access
+
 ## Preamble
 ```
 MIP10c9-SP#: 7
@@ -7,7 +9,10 @@ Status: Formal Submission
 Date Proposed: 2020-09-09
 Date Ratified: <yyyy-mm-dd>
 ``` 
- 
+
+## Sentence Summary
+MIP10c9-SP7 whitelists Maker v1 Medianizer for ETH/USD Oracle Access.
+
 ## Specification
  
 ### Introduction

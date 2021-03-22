@@ -1,3 +1,5 @@
+# MIP10c3-SP16: Subproposal to Onboard the PAXG/USD Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 16
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-11-27
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP16 onboards the PAXG/USD Oracle.
 
 ## Specification
 

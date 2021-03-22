@@ -1,3 +1,5 @@
+# MIP10c3-SP12: Subproposal to Onboard the BAL/USD Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 12
@@ -7,8 +9,10 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-10-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+## Sentence Summary
+MIP10c3-SP12 onboards the BAL/USD Oracle.
 
 ## Specification
 

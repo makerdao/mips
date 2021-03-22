@@ -1,3 +1,5 @@
+# MIP7c3-SP6: Domain Team Onboarding (Smart Contract Team)
+
 ## Preamble
 
 ```
@@ -5,12 +7,15 @@ MIP7c3-SP#: 6
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Status: Accepted
-Date Applied: 2020-12-08
+Date Proposed: 2020-12-08
 Date Ratified: 2021-01-30
 ---
 Domain Role: Smart Contracts Domain Team Facilitator
 Proposed Applicant: Sam MacPherson
 ```
+
+## Sentence Summary
+MIP7c3-SP6 onboards Sam MacPherson as Smart Contract Domain Team Facilitator.
 
 ## Application Form
 
