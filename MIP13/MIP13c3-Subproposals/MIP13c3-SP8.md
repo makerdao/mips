@@ -8,10 +8,13 @@ Author(s): Hugh Karp (@hughkarp)
 Contributors: n/a
 Status: Request for Comment (RFC)
 Date Proposed: 2020-11-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 
 Declaration Statement: Maker Governance wishes to engage Nexus Mutual to provide cover for the Maker Protocol.
 Declaration to Replace: n/a
 ```
+
+## Sentence Summary
+MIP13c3-SP8 declares that Maker Governance wishes to engage Nexus Mutual to provide cover for the Maker Protocol.
 
 ## Specification
 

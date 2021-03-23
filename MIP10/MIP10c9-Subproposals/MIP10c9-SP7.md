@@ -7,7 +7,7 @@ Author(s): Andrew Leone
 Contributors: Nik Kunkel (@NiklasKunkel)
 Status: Formal Submission
 Date Proposed: 2020-09-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ``` 
 
 ## Sentence Summary

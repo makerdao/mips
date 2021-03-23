@@ -7,7 +7,7 @@ Author(s): Artem K
 Contributors:
 Status: Formal Submission
 Date Proposed: 2020-09-16
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ``` 
 
 ## Sentence Summary
