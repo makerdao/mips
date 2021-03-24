@@ -381,9 +381,9 @@ function kicks() external view returns (uint256);
 ```
 Auction counter. Increments each time an auction is initiated.
 ```
-function active() external view returns (uint256[]);
+function active(uint256 pos) external view returns (uint256);
 ```
-Returns an array containing the active auctions. To save gas, this array is not sorted.
+Returns the id of the auction at index `pos` in the list of active auctions.
 ```
 function sales(uint256) external view returns (
         uint256 pos,
@@ -423,10 +423,8 @@ Called to purchase collateral.
 ```
 function list() external view returns (uint256[] memory);
 function count() external view returns (uint256);
-function getId(uint256 pos) external view returns (uint256 id);
 ```
-Helpers for iterating a list of active auctions. Get list() to get the array of auctions or get the `count` and iterate by `pos` using `getId`
-
+Helpers for iterating the list of active auctions. Use `list()` to get the unsorted array of auctions. Get the number of active auctions with `count()`. The function `active(uint256 pos)` (see above) can be used to access individual entries without needing to call `list()`.
 ```
 function getStatus(uint256 id) external view returns (bool needsRedo, uint256 price);
 ```
