@@ -429,7 +429,10 @@ Helpers for iterating the list of active auctions. Use `list()` to get the unsor
 function getStatus(uint256 id) external view returns (bool needsRedo, uint256 price);
 ```
 Returns a bool if the auction is eligible for redo and the current price.
-
+```
+function updust() external;
+```
+Updates the `dust` value stored in the contract to equal that for the corresponding `ilk` in the `Vat`. This allows `take` and `redo` to obtain `dust` with a single `SLOAD` (reading it from the `Vat` requires 5 `SLOAD` operations due to how the API is structured).
 ```
 function yank(uint256 id) external;
 ```
