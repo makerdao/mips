@@ -431,11 +431,6 @@ function getStatus(uint256 id) external view returns (bool needsRedo, uint256 pr
 Returns a bool if the auction is eligible for redo and the current price.
 
 ```
-function setBreaker(uint256 level) external;
-```
-(Authenticated) Sets the circuit-breaker level for disabling kicks or redo's.
-
-```
 function yank(uint256 id) external;
 ```
 (Authenticated) Allows an auction to be removed during Emergency Shutdown or via a goveranance action.
