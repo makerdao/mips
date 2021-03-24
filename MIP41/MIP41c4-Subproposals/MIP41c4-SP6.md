@@ -8,8 +8,11 @@ Author(s): Coulter Mulligan & Mike Porcaro
 Contributors: 
 Status: Request For Comment (RFC)
 Date Applied: 2021-03-03
-Date Ratified: yyyy-mm-dd
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP41c4-SP6 onboards Coulter Mulligan and Mike Porcaro as Facilitators for Core Unit MDS-001: MakerDAO Shop.
 
 ## Motivation
 

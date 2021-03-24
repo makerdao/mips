@@ -9,8 +9,11 @@ Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
 Status: RFC
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP40c2-SP4 adds the budget for Core Unit GRO-001: Growth.
 
 ## Specification
 

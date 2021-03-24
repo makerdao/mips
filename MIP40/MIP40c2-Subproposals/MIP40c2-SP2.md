@@ -11,6 +11,9 @@ Date Applied: 2021-02-03
 Date Ratified: 
 ```
 
+## Sentence Summary
+MIP40c2-SP2 adds the budget for Core Unit RISK-001: Risk.
+
 ## Specification
 
 ## Motivation

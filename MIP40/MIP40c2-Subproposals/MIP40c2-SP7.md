@@ -8,8 +8,11 @@ Author(s): Smart Contract Domain Team
 Contributors: N/A
 Status: Request For Comment (RFC)
 Date Applied: 2021-03-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP40c2-SP7 adds the budget for the Smart Contracts Core Unit.
 
 ## Specification
 

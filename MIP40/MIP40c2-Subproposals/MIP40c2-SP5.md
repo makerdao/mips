@@ -11,6 +11,9 @@ Date Applied: 2021-03-03
 Date Ratified:
 ```
 
+## Sentence Summary
+MIP40c2-SP5 adds the budget for Core Unit MKT-001: Content Production.
+
 ## Specification
 
 ### Motivation
