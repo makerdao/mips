@@ -260,7 +260,7 @@ An auction that has expired or which is currently offered at a value higher than
 
 A started auction can be reverted via the `auth` function called `yank` in `Clipper` contract.
 This function requires that the auction exists and executes the following actions:
-- calls `dog.digs` in order to increment its `Hole` and `ilk.hole` values by the remaining auction `tab`
+- calls `dog.digs` in order to decrease its `Dirt` and `ilk.dirt` values by the remaining auction `tab`
 - sends the remaining collateral to its `msg.sender`
 - removes the auction struct data
 - fires the `Yank()` event
