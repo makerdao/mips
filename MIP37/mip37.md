@@ -1,10 +1,6 @@
 # MIP37: Static Reserve For Governance
 
-## Introduction
-
-Following the [MIP Discussion](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013/6) and the long time on-going discussion about having a reserve, 
-this MIP formalises the need for the governance to have a proper reserve to store Dai or any tokens.
-
+## Preamble
 
 ```
 MIP#: 37
@@ -16,6 +12,11 @@ Date Proposed: 2021-01-15
 Dependencies: None
 Replaces: Nothing
 ```
+
+## Introduction
+
+Following the [MIP Discussion](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013/6) and the long time on-going discussion about having a reserve, 
+this MIP formalises the need for the governance to have a proper reserve to store Dai or any tokens.
 
 ## Sentence Summary
 MIP37 defines a static reserve which can receive any tokens from anyone *as any contract* and allow the Governance to withdraw them.
