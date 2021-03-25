@@ -229,7 +229,7 @@ As mentioned above, auctions can reach a defunct state that requires resetting f
 - too much time has elapsed since the auction started (controlled by the `tail` governance parameter)
 - the ratio of the current price to the initial price has fallen below a certain level (specified by the `cusp` governance parameter).
 
-The reset function, when called, first ensures that at least one of these conditions holds. Then it adjusts the starting time of the auction to the current time, and sets the starting price in exactly the same way as is done in the initialization function (i.e. the current OSM price increased percentage-wise by the `buf` parameter). This process will repeat until all collateral has been sold or the whole debt has been collected; contrast this behavior with the current auctions, which reset until at least one bid is received.
+The reset function, when called, first ensures that at least one of these conditions holds. Then it adjusts the starting time of the auction to the current time, and sets the starting price in exactly the same way as is done in the initialization function (i.e. the current OSM price increased percentage-wise by the `buf` parameter). This process will repeat until all collateral has been sold or the whole debt has been collected (unless the auction is canceled via `yank`, e.g. during Emergency Shutdown); contrast this behavior with the current auctions, which reset until at least one bid is received.
 
 ##### MIP45c15 Improved Keeper Wallet Security
 
