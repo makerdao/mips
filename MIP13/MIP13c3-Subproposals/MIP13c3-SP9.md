@@ -5,7 +5,7 @@
 MIP13c3-SP#: 9
 Author(s): Yaron Velner (@yaronvel)
 Contributors: n/a
-Status: Request for Comment (RFC)
+Status: Request for Comments (RFC)
 Date Proposed: 2021-1-05
 Date Ratified:
 ---

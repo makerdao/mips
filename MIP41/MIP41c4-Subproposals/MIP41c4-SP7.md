@@ -6,7 +6,7 @@
 MIP41c4-SP#: 7
 Author(s): Derek Flossman
 Contributors:
-Status: Request For Comment (RFC)
+Status: Request For Comments (RFC)
 Date Applied: 2021-03-02
 Date Ratified:
 ```

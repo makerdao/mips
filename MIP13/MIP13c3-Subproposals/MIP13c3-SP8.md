@@ -6,7 +6,7 @@
 MIP13c3-SP#: 8
 Author(s): Hugh Karp (@hughkarp)
 Contributors: n/a
-Status: Request for Comment (RFC)
+Status: Request for Comments (RFC)
 Date Proposed: 2020-11-09
 Date Ratified: 
 ---

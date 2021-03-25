@@ -6,7 +6,7 @@
 MIP41c4-SP#: 8
 Author(s): David Utrobin
 Contributors:
-Status: Request For Comment (RFC)
+Status: Request For Comments (RFC)
 Date Applied: 2021-03-12
 Date Ratified:
 ```

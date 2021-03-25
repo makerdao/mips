@@ -6,7 +6,7 @@
 MIP13c3-SP#: 10
 Author(s): Tim Schuppener (@ultraschuppi), Sébastien Derivaux (@SebVentures)
 Contributors: n/a
-Status: Request For Comment (RFC)
+Status: Request For Comments (RFC)
 Date Proposed: 2021-02-27
 Date Ratified:
 ---
