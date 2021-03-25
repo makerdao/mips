@@ -122,7 +122,7 @@ In situations involving large amounts of collateral at auction, the current and 
 
 #### `Clipper.kick` performs several checks and actions:
 - checks that the caller is authorized (only the `Dog` or governance may call `Clipper.kick`)
-- checks that liquidations are enabled in the three-stage circuit breaker
+- checks that liquidations are enabled in the four-stage circuit breaker
 - increments a counter and assigns a unique numerical `id` to the new auction
 - inserts the `id` into a list tracking active auctions
 - creates a structure to record the parameters of the auction; this includes:
@@ -150,13 +150,14 @@ To ensure there was a remedy for this potential issue, an incentive mechanism wa
 
 These parameters must be set extremely carefully, lest it be possible to exploit the system by "farming" liquidation rewards (e.g. creating Vaults with the intention of liquidating them and profiting from the too-high rewards). Generally, the liquidation reward should remain less than the liquidation penalty by some margin of safety, at least to ensure the system is not accruing a deficit from liquidations.
 
-### MIP45c7 Three-Stage Liquidation Circuit Breaker
+### MIP45c7 Four-Stage Liquidation Circuit Breaker
 
-In this section, we'll cover all the functions of the three-stage liquidation circuit breaker.  In contrast to `LIQ-1.2`, Liquidations 2.0 comes with a three-stage circuit breaker built into the `Clipper` contract.  The stages are:
+In this section, we'll cover the four stages of the liquidation circuit breaker. In contrast to `LIQ-1.2`, Liquidations 2.0 comes with a four-stage circuit breaker built into the `Clipper` contract. The stages are:
 
 - **liquidations enabled**(`0`): This means the breaker is not tripped and the protocol can liquidate new Vaults as well as service old liquidations.
-- **new liquidations disabled**(`1`): This means no new liquidations (`Clipper.kick`)
-- **all liquidations disabled**(`2`): This means no new liquidations (`Clipper.kick`), no takes (`Clipper.take`), and no redos (`Clipper.redo`)
+- **new liquidations disabled**(`1`): This means no new liquidations (`Clipper.kick`).
+- **new liquidations and resets disabled**(`1`): This means no new liquidations (`Clipper.kick`), and auctions that have reached either a price or time endpoint cannot be reset (`Clipper.redo`).
+- **liquidations disabled**(`2`): This means no new liquidations (`Clipper.kick`), no takes (`Clipper.take`), and no resets (`Clipper.redo`).
 
 Just like in `LIQ-1.2`, the circuit breaker will be available through a `ClipperMom` contract giving governance the ability to bypass the `GSM` delay for circuit breaker actions.
 
@@ -172,7 +173,7 @@ Just like in `LIQ-1.2`, the circuit breaker will be available through a `Clipper
 
 #### `Clipper.take` performs several initial checks:
 - a reentrancy check to ensure the function is not being recursively invoked
-- that the three-stage circuit breaker is not tripped
+- that the four-stage circuit breaker is not tripped
 - that the auction id corresponds to a valid auction
 - that the auction does not need to be reset, either due to having experienced too large a percentage decrease in price, or having existed for too long of a time duration
 - that the caller's specified maximum price is at least the current auction price
@@ -242,7 +243,7 @@ If keepers decide to use the `clipperCallee` pattern, then they need not store D
 
 #### `Clipper.redo` performs several checks and actions:
 - a mutex check to ensure the `Clipper.take` function is not already being invoked from `clipperCallee`
-- that the three-stage circuit breaker is not tripped
+- that the four-stage circuit breaker is not tripped
 - that the auction id corresponds to a valid auction
 - that the auction needs to be reset, either due to having experienced too large a percentage decrease in price, or having existed for too long of a time duration
 - updates several fields of the existing auction
@@ -397,7 +398,7 @@ Returns information on a particular auction. Completed auctions are removed from
 ```
 function stopped() external view returns (uint256);
 ```
-Returns the current circuit breaker status. `0` for no breaker, `1` if new kicks cannot be called, `2` if no new `kick`, `redo` or `take` can be called.
+Returns the current circuit breaker status. `0` for all functions allowed, `1` if `kick` cannot be called, `2` if `kick` and `redo` cannot be called, and `3` if `kick`, `redo` and `take` cannot be called.
 ```
 function file(bytes32 what, uint256 data) external;
 function file(bytes32 what, uint256 data) external;
