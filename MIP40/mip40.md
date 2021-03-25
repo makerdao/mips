@@ -7,13 +7,15 @@ Title: Budget Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
 Type: Process
-Status: Formal Submission
-Date Proposed: <2021-01-18>
-Date Ratified: <yyyy-mm-dd>
+Status: Accepted
+Date Proposed: 2021-01-18
+Date Ratified: 2021-25-03
 Dependencies: MIP38, MIP39, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
+
 ## References
+
 MIP40c3-SP-Template
 
 ## Sentence Summary

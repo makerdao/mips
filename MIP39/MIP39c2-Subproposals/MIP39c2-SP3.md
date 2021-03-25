@@ -6,9 +6,9 @@
 MIP39c2-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-02-03
-Date Ratified:
+Date Ratified: 2021-25-03
 ```
 
 ## Sentence Summary
