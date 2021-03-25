@@ -1,4 +1,4 @@
-# MIP40c3: Modify Core Unit Budget (Subproposal Process) Template
+# MIP40c2: Modify Core Unit Budget (Subproposal Process) Template
 
 ## Preamble
 ```
