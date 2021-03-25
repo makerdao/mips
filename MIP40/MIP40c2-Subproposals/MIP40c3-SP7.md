@@ -1,9 +1,9 @@
-# MIP40c2-SP7: Modify Smart Contract Core Unit Budget
+# MIP40c3-SP7: Modify Smart Contract Core Unit Budget
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 7
+MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
 Status: Request For Comment (RFC)
@@ -12,7 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
-MIP40c2-SP7 adds the budget for the Smart Contracts Core Unit.
+MIP40c3-SP7 adds the budget for the Smart Contracts Core Unit.
 
 ## Specification
 
