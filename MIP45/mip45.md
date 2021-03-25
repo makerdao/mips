@@ -47,7 +47,7 @@ Percentage of `tab` to `suck` from `vow` to incentivize keepers when liquidating
 `chip = 0.02 * WAD` is 2%.
 
 #### `Clipper` -- **cusp** [ray]
-Percentage drop before auction reset. Together with the `tail`, they are the two variables that determine that an auction needs to be reset (whichever triggers first).
+Percentage price drop that can occur before an auction must be reset. Together with `tail`, this parameter determines when an auction needs to be reset.
 E.g. if the initial price of an auction (`top`) is set to 1,200 and `cusp = 0.6 * RAY` (60% of the starting price), then the auction will need to be reset when reaching just below the price of 720.
 
 #### `Clipper` -- **dog** [address]
@@ -57,7 +57,8 @@ The address of the liquidation module contract.
 The Collateral price module contract address.
 
 #### `Clipper` -- **tail** [seconds]
-Time elapsed before auction reset. Together with the `cusp`, they are the two variables that determine that an auction needs to be reset (whichever triggers first).
+Seconds that can elapse before an auction must be reset. Together with `cusp`, this parameter determines when an auction needs to be reset.
+E.g. if `tail` is 1800 seconds, then if an auction is not complete after 30 minutes have elapsed, it will need to be reset.
 
 #### `Clipper` -- **tip** [rad]
 Flat fee to `suck` from `vow` to incentivize keepers when liquidating a vault or resetting an already existing auction.
@@ -169,7 +170,7 @@ Just like in `LIQ-1.2`, the circuit breaker will be available through a `Clipper
 - `amt`: the maximum amount of collateral to buy (`amt`) — a purchase behaves like a limit order
 - `max`: the maximum acceptable price in DAI per unit collateral (`max`)
 - `who`: address that will receive the collateral (`who`)
-- `data`: an arbitrary bytestring (if provided, the address `who` is assumed to be a contract with an interface as described below, to which this data is passed)
+- `data`: an arbitrary bytestring (if provided, the address `who`, if it is neither the `Dog` nor `Vat` address stored by the Clipper, is called as a contract via an interface described below, to which this data is passed)
 
 #### `Clipper.take` performs several initial checks:
 - a reentrancy check to ensure the function is not being recursively invoked
@@ -204,7 +205,7 @@ Lastly, various values are updated to record the changed state of the auction: t
 ![](https://i.imgur.com/BgOFMyZ.gif)
 **Figure MIP45c9.1**: NOTE: in the above figure, `tau` is `tail`.
 
-In this example we can see a linear decrease function (`calc`), with an `ETH-A` OSM price of **200 DAI**, a `buf` of **20%**, a `tail (tau)` of **21600** seconds, a `tab` of ***60,000 DAI** with a `lot` of `347.32` ETH.  There are two bidders, **Alice** and **Bob**.  **Alice** calls `take` first and is willing to give ***50,000 DAI** in return for **256.41** ETH collateral, a price of **195 DAI** per ETH.  The price of ETH continues to fall over time, and **Bob** picks up the remaining **90.91** ETH for **10,000 DAI**, a price of **110 DAI** per ETH.  If the auction reached the `tail` value, or fell to less than `cusp` percent of `top`, then `Clipper.take` would revert if called, and the auction would need to be reset with a `Clipper.redo` call.
+In this example we can see a linear decrease function (`calc`), with an `ETH-A` OSM price of **200 DAI**, a `buf` of **20%**, a `tail (tau)` of **21600** seconds, a `tab` of ***60,000 DAI** with a `lot` of `347.32` ETH.  There are two bidders, **Alice** and **Bob**.  **Alice** calls `take` first and is willing to give ***50,000 DAI** in return for **256.41** ETH collateral, a price of **195 DAI** per ETH.  The price of ETH continues to fall over time, and **Bob** picks up the remaining **90.91** ETH for **10,000 DAI**, a price of **110 DAI** per ETH.  If more than `tail` seconds have elapsed since the start of the auction, or if the price has fallen to less than `cusp` percent of `top`, then `Clipper.take` would revert if called, and the auction would need to be reset with a `Clipper.redo` call.
 
 #### MIP45c10 Features
 
