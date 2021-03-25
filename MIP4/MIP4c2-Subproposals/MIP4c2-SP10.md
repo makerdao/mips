@@ -12,7 +12,8 @@ Date Ratified: 2021-25-03
 Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4c2-SP12
 ```
 
-## Sentence Summary\
+## Sentence Summary
+
 MIP4c2-SP10 amends MIP0 to be compatible with the Domain Framework MIP Set.
 
 ## Specification

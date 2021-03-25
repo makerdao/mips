@@ -12,7 +12,8 @@ Date Ratified:
 Dependencies:
 ```
 
-## Sentence Summary\
+## Sentence Summary
+
 MIP4c2-SP11 amends MIP24 to be compatible with the Core Unit Operating Model MIP Set.
 
 ## Specification
