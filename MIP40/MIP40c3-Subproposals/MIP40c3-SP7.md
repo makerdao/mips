@@ -6,7 +6,7 @@
 MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
-Status: Request For Comment (RFC)
+Status: Request For Comments (RFC)
 Date Applied: 2021-03-03
 Date Ratified:
 ```
