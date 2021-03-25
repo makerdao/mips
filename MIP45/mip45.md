@@ -220,7 +220,7 @@ This feature, enabled by instant settlement, eliminates any capital requirement 
 ##### MIP45c13 Price as a Function of Time
 [https://github.com/makerdao/dss/blob/liq-2.0/src/abaci.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/abaci.sol)
 
-Price-versus-time curves are specified through an interface that treats price at the current time as a function of the initial price of an auction and the time at which it was initiated. How to determine the most effective price curve for a given collateral is still an active area of research; some initial options (linear and stair-step exponential) have been implemented for research purposes. Other candidates besides these include a piecewise linear curve and a piecewise exponential curve. This module is configurable and can be replaced in the course of innovation. Feedback or suggestions are particularly welcome in this area.
+Price-versus-time curves are specified through an interface that treats price at the current time as a function of the initial price of an auction and the time at which that price was set. How to determine the most effective price curve for a given collateral is still an active area of research; some initial options (linear and stair-step exponential) have been implemented for research purposes. Other candidates besides these include a piecewise linear curve and a piecewise exponential curve. This module is configurable and can be replaced in the course of innovation. Feedback or suggestions are particularly welcome in this area.
 
 ##### MIP45c14 Resetting an Auction
 
