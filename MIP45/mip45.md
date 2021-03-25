@@ -35,6 +35,10 @@ Per-`step` multiplicative factor.
 #### `Abacus/StairstepExponentialDecrease` -- **step** [seconds]
 Length of time between price drops.
 
+#### `Abacus/ExponentialDecrease` -- **cut** [ray]
+Per-second multiplicative factor.
+`cut = 0.99 * RAY` specifies a 1% drop every second.
+
 #### `Clipper` -- **buf** [ray]
 The multiplicative factor to increase the starting price of an auction.
 E.g. if the current OSM price of an asset is 1,000 and `buf = 1.2 * RAY` (20% above), then the initial price of that auction will be 1,200.
