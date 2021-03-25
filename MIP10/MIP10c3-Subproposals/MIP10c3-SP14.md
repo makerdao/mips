@@ -1,3 +1,5 @@
+# MIP10c3-SP14: Subproposal to Onboard the AAVE/USD Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 14
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-11-27
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP14 onboards the AAVE/USD Oracle.
 
 ## Specification
 

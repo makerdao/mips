@@ -9,8 +9,11 @@ Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors: Charles St.Louis (@CPSTL)
 Status: Accepted
 Date Proposed: 2020-09-09
-Date ratified: <yyyy-mm-dd>
+Date ratified:
 ```
+
+## Sentence Summary
+MIP12c2-SP6 defines the documentation and work requirements for the onboarding of the LINK Collateral type.
 
 ## Specification
 

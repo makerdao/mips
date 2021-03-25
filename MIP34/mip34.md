@@ -8,13 +8,14 @@ Title: Keg Streaming Payments Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-01-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 * The proposed [keg](https://github.com/makerdao/keg)

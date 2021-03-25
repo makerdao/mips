@@ -8,8 +8,12 @@ Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
 Status: Request for Comments (RFC)
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+
+MIP39c2-SP5 adds Core Unit MKT-001: Content Production.
 
 ## Specification
 

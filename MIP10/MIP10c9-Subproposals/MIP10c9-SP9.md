@@ -1,3 +1,5 @@
+# MIP10c9-SP9: Subproposal to Whitelist tBTC for ETH/BTC Oracle Access
+
 ## Preamble
 ```
 MIP10c9-SP#: 9
@@ -5,8 +7,11 @@ Author(s): Matt Luongo
 Contributors: Antonio Salazar Cardozo
 Status: Formal Submission
 Date Proposed: 2020-08-25
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c9-SP9 whitelists tBTC for ETH/BTC Oracle Access.
 
 ## Specification
 
