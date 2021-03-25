@@ -233,7 +233,7 @@ The reset function, when called, first ensures that at least one of these condit
 
 ##### MIP45c15 Improved Keeper Wallet Security
 
-If keepers decide to use the `clipperCallee` pattern, then they need not store DAI or collateral on that account.  This means a keeper need only hold enough ETH to execute transactions that can orchestrate the `Clipper.take` call, sending collateral to a contract that returns DAI to the `msg.sender` to pay for the collateral all in one transaction.  The `Clipper.take` call can send any remaining collateral or DAI beyond `owe` to a cold wallet address inaccessible to the keeper. **NOTE: If the keeper chooses to behave as an EOA address, then the DAI and collateral would be exposed just as in `LIQ-1.2` unless special care is taken to create a proxy contract.**
+If keepers decide to use the `clipperCallee` pattern, then they need not store DAI or collateral on that account.  This means a keeper need only hold enough ETH to execute transactions that can orchestrate the `Clipper.take` call, sending collateral to a contract that returns DAI to the `msg.sender` to pay for the collateral all in one transaction.  The contract implementing the `clipperCallee` interface can send any remaining collateral or DAI beyond `owe` to a cold wallet address inaccessible to the keeper. **NOTE: If the keeper chooses to behave as an EOA address, then the DAI and collateral would be exposed just as in `LIQ-1.2` unless special care is taken to create a proxy contract.**
 
 ## MIP45c16 Incentive to call `redo()`
 [https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol)
