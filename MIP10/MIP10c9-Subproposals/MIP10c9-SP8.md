@@ -9,6 +9,7 @@ Status: Formal Submission
 Date Proposed: 2020-09-09
 Date Ratified:
 ```
+
 ## Sentence Summary
 MIP10c9-SP8 whitelists DDEX for WBTC/USD Oracle Access.
 
