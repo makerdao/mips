@@ -401,7 +401,7 @@ function stopped() external view returns (uint256);
 ```
 Returns the current circuit breaker status. `0` for all functions allowed, `1` if `kick` cannot be called, `2` if `kick` and `redo` cannot be called, and `3` if `kick`, `redo` and `take` cannot be called.
 ```
-function file(bytes32 what, uint256 data) external;
+function file(bytes32 what, address data) external;
 function file(bytes32 what, uint256 data) external;
 ```
 (Authenticated) Parameter modification functions, available to governance.
