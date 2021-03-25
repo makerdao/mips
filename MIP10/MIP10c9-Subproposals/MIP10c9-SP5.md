@@ -10,7 +10,9 @@ Status: Formal Submission
 Date Proposed: 2020-07-21
 Date Ratified:
 ```
+
 ## Sentence Summary
+
 MIP10c9-SP5 whitelists dYdX for ETH/USD Oracle Access.
 
 ## Disclaimer
