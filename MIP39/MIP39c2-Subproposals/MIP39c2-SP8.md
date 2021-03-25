@@ -6,12 +6,13 @@
 MIP39c2-SP#: 8
 Author(s): David Utrobin
 Contributors: Tim Black, Payton Rose, Jerry Goldfarb, Anna Kryukova
-Status: Request For Comments
+Status: Request for Comments (RFC)
 Date Applied: 2021-03-12
 Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP39c2-SP8 adds Core Unit COM-001: Governance Communications.
 
 ## Specification

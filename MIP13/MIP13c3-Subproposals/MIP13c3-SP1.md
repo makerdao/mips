@@ -14,6 +14,7 @@ Declaration to Replace: n/a
 ```
 
 ## Sentence Summary
+
 MIP13c3-SP1 declares that MakerDAO intends to keep RP on Vaults as transparent and stable as possible.
 
 ## Specification

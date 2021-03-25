@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP41c4-SP5 onboards Seth Goldfarb as Facilitator for Core Unit MKT-001: Content Production.
 
 ## Specification

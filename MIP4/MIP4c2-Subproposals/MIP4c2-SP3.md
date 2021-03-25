@@ -12,6 +12,7 @@ Date Ratified: 2020-06-25
 ```
 
 ## Sentence Summary
+
 MIP4c2-SP3 rearranges the collateral onboarding process to allow MIP9 to occur before MIP8.
 
 ## Specification

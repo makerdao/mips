@@ -13,6 +13,7 @@ Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4c2-SP10
 ```
 
 ## Sentence Summary
+
 MIP4c2-SP12 amends MIP16 to make it compatible with the Core Unit Operating Model MIP Set.
 
 ## Specification

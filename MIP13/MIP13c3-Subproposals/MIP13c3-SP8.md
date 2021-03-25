@@ -15,6 +15,7 @@ Declaration to Replace: n/a
 ```
 
 ## Sentence Summary
+
 MIP13c3-SP8 declares that Maker Governance wishes to engage Nexus Mutual to provide cover for the Maker Protocol.
 
 ## Specification

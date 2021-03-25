@@ -13,6 +13,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP4c2-SP7 allows MIP amendments to use the weekly governance cycle for the first three months after a MIP has passed. It also allows multiple MIP amendments/removals in one proposal.
 
 ## Specification

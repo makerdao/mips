@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP40c3-SP4 adds the budget for Core Unit GRO-001: Growth.
 
 ## Specification

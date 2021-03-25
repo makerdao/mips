@@ -6,12 +6,13 @@
 MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
-Status: Request For Comments (RFC)
+Status: Request for Comments (RFC)
 Date Applied: 2021-03-03
 Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP40c3-SP7 adds the budget for the Smart Contracts Core Unit.
 
 ## Specification

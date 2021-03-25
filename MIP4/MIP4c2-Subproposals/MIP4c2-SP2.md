@@ -13,6 +13,7 @@ Date Ratified: 2020-06-25
 ```
 
 ## Sentence Summary
+
 MIP4c2-SP2 amends MIP8 so that the Domain Greenlight process occur after the Community Greenlight Poll (MIP9).
 
 ## Specification

@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP39c2-SP2 adds Core Unit RISK-001: Risk.
 
 ## Specification

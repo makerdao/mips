@@ -10,6 +10,7 @@ Date Applied: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ```
 
+## Sentence Summary
 ## Specification
 
 ### Motivation

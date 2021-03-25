@@ -15,6 +15,7 @@ Declaration to Replace: n/a
 ```
 
 ## Sentence Summary
+
 MIP13c3-SP3 is the Declaration of Intent for the creation of a Strategic Reserves Fund to have a financial power and autonomy.
 
 ## Specification

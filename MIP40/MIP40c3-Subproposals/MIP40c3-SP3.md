@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP40c3-SP3 adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Specification

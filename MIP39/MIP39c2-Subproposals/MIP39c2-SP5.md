@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP39c2-SP5 adds Core Unit MKT-001: Content Production.
 
 ## Specification

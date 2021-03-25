@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP40c3-SP5 adds the budget for Core Unit MKT-001: Content Production.
 
 ## Specification

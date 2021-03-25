@@ -14,6 +14,7 @@ Declaration to Replace: n/a
 ```
 
 ## Sentence Summary
+
 MIP13c3-SP7 declares that Maker Governance intends to form a Governance Communications domain with the mandate described in this document.
 
 ## Specification

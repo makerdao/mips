@@ -14,6 +14,7 @@ Declaration to Replace: n/a
 ```
 
 ## Sentence Summary
+
 MIP13c3-SP9 is the Declaration of Intent for onboarding a new collateral type backed by B.Protocol.
 
 ## Specification

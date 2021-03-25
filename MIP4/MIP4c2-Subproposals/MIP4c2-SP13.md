@@ -7,13 +7,14 @@ MIP4c2-SP#: #13
 MIP to be amended: <MIP#0>
 Author(s): @blimpa
 Contributors: @LongForWisdom, @JuanJuan
-Status: Request for Comment (RFC)
+Status: Request for Comments (RFC)
 Date Proposed: 2021-02-26
 Date Ratified:
 ```
 
 ## Sentence Summary
-MIP4c2-SP13 amends MIP0 te be more precise in regards to the management of MIP Sets.
+
+MIP4c2-SP13 amends MIP0 to be more precise in regards to the management of MIP Sets.
 
 ## Specification
 

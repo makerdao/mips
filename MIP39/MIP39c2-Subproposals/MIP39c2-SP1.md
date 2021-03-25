@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP39c2-SP1 adds Core Unit RWF-001: Real-World Finance.
 
 ## Specification

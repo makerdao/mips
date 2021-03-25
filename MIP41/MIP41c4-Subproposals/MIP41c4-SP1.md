@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP41c4-SP1 onboards Sébastien Derivaux as Facilitator for Core Unit RWF-001: Real-World Finance.
 
 ## Specification

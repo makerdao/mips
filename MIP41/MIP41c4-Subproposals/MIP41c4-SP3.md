@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP41c4-SP3 onboards LongForWisdom as Facilitator for Core Unit GOV-001: GovAlpha.
 
 ## Specification

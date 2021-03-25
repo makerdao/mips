@@ -14,6 +14,7 @@ Declaration to Replace: n/a
 ```
 
 ## Sentence Summary
+
 MIP13c3-SP2 is the Declaration of Intent for adding support for flash-minting Dai.
 
 ## Specification

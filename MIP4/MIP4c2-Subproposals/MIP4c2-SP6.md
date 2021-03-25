@@ -13,6 +13,7 @@ Date Ratified: 2020-11-27
 ```
 
 ## Sentence Summary
+
 MIP4c2-SP6 adds a calendar exception: no governance cycle in the month of December.
 
 ## Specification

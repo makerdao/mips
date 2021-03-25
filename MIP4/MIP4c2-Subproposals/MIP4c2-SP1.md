@@ -13,6 +13,7 @@ Date Ratified: 2020-06-25
 ```
 
 ## Sentence Summary
+
 Removing the requirement that Domain Greenlight process (MIP8) be completed before Community Greenlight Polls take place.
 
 ## Specification

@@ -6,12 +6,13 @@
 MIP40c3-SP#: 6
 Author(s): Coulter Mulligan & Mike Porcaro
 Contributors:
-Status: Request For Comments (RFC)
+Status: Request for Comments (RFC)
 Date Applied: 2021-03-03
 Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP40c3-SP6 adds the budget for Core Unit MDS-001: MakerDAO Shop.
 
 ## Specification

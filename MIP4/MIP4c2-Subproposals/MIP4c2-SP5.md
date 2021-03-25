@@ -13,6 +13,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP4c2-SP5 amends MIP12 to remove dependencies on MIP6, MIP8, and MIP9.
 
 ## Specification

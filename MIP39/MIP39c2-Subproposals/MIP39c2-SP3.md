@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP39c2-SP3 adds Core Unit GOV-001: GovAlpha.
 
 ## Specification

@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP40c3-SP2 adds the budget for Core Unit RISK-001: Risk.
 
 ## Specification

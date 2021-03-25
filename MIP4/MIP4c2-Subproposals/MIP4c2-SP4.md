@@ -13,6 +13,7 @@ Date Ratified: 2020-06-25
 ```
 
 ## Sentence Summary
+
 MIP4c2-SP4 allows collateral onboarding to operate without having General Risk Model ratified through MIP11.
 
 ## Specification

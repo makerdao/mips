@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP41c4-SP2 onboards Primož Kordež as Facilitator for Core Unit RISK-001: Risk.
 
 ## Motivation

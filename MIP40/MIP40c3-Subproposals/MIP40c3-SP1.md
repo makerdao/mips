@@ -12,6 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
+
 MIP40c3-SP1 adds the budget for Core Unit RWF-001: Real-World Finance.
 
 ## Specification
