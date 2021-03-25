@@ -29,8 +29,8 @@ This document supersedes the [Liquidations 2.0: Technical Summary](https://forum
 Seconds after auction start when the price reaches zero.
 
 #### `Abacus/StairstepExponentialDecrease` -- **cut** [ray]
-Per-step multiplicative factor.
-`cut = 0.99 * RAY` is 1% drop on each `step`.
+Per-`step` multiplicative factor.
+`cut = 0.99 * RAY` specifies a 1% drop every `step` seconds.
 
 #### `Abacus/StairstepExponentialDecrease` -- **step** [seconds]
 Length of time between price drops.
