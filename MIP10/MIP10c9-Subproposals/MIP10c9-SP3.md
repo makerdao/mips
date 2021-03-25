@@ -10,6 +10,7 @@ Status: Accepted
 Date Proposed: 2020-05-17
 Date Ratified: 2020-07-04
 ```
+
 ## Sentence Summary
 MIP10c9-SP3 whitelists DeFi Saver for WBTC/USD Oracle Access.
 
