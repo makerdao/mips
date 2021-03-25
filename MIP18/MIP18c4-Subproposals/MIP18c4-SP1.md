@@ -10,11 +10,11 @@ Status: Accepted
 Date of Submission: 2020-07-07
 Date of Ratification: 2020-07-28
 ```
-## Sentence Summary
-
-MIP18c4-SP1 proposes the removal of the Dai Savings Rate (DSR) Spread as a Meta-Parameter.
-
 ## Specification
+
+### Summary
+
+MIP18c4-SP1 proposes the removal of the Dai Savings Rate (DSR) Spread as a Meta-Parameter in order to reduce the Weekly Governance Cycle complexity of Maker Governance.
 
 ### Motivation
 
