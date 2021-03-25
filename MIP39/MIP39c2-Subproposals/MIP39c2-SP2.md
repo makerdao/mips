@@ -8,8 +8,11 @@ Author(s): Primož Kordež (@Primoz)
 Contributors: 
 Status: Formal Submission
 Date Applied: 2021-02-03
-Date Ratified: yyyy-mm-dd
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP39c2-SP2 adds Core Unit RISK-001: Risk.
 
 ## Specification
 

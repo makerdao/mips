@@ -8,9 +8,12 @@ MIP to be amended: MIP4
 Author(s): David Utrobin(@Davidutro)
 Contributors:
 Status: RFC
-Date of Amendment Submission: 2021-02-11
-Date of ratification: <yyyy-mm-dd>
+Date Proposed: 2021-02-11
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP4c2-SP7 allows MIP amendments to use the weekly governance cycle for the first three months after a MIP has passed. It also allows multiple MIP amendments/removals in one proposal.
 
 ## Specification
 

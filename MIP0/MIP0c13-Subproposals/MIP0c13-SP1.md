@@ -7,11 +7,14 @@ Author(s): LongForWisdom
 Contributors: n/a
 Status: Formal Submission (FS)
 Date Proposed: 2020-08-20 
-Date Removed: 2020-09-10
+Date Ratified: 2020-09-10
 ---
 Core Personnel Role: Governance Facilitator
 Core Personnel to be removed: Richard Brown
 ```
+
+## Sentence Summary
+MIP0c13-SP1 Offboards Richard Brown from the Governance Facilitator role.
 
 ## Removal Application and Supporting Evidence
     

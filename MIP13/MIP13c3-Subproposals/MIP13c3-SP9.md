@@ -1,17 +1,23 @@
 # MIP13c3-SP9: Onboarding a new collateral type backed by B.Protocol (Declaration of Intent)
 
 ## Preamble
+```
+MIP13c3-SP#: 9
+Author(s): Yaron Velner (@yaronvel)
+Contributors: n/a
+Status: Request for Comment (RFC)
+Date Proposed: 2021-1-05
+Date Ratified:
+---
+Declaration Statement: Onboarding a new collateral type backed by B.Protocol.
+Declaration to Replace: n/a
+```
 
-    MIP13c3-SP#: 9
-    Author(s): Yaron Velner (@yaronvel)
-    Contributors: n/a
-    Status: Request for Comment (RFC)
-    Date Proposed: 2021-1-05
-    Date Ratified: <yyyy-mm-dd>
-    Declaration Statement: Onboarding a new collateral type backed by B.Protocol.
-    Declaration to Replace: n/a
+## Sentence Summary
+MIP13c3-SP9 is the Declaration of Intent for onboarding a new collateral type backed by B.Protocol.
 
 ## Specification
+
 ### Context and Motivation
 * Maker, and the DeFi ecosystem in general, has conservative collateral ratios (CR), in order to mitigate potential failures in the liquidation process. High CRs narrows the potential user base, and the potential profit from stability fees (SF).
 * B.Protocol introduces the concept of a backstop made of committed liquidators, who get priority in the liquidation process, in return to their commitment.

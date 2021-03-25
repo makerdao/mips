@@ -8,9 +8,12 @@ MIP to be amended: MIP9
 Author(s): Elihu (@Elihu)
 Contributors:
 Status: RFC
-Date of Amendment Submission: 2021-03-01
-Date of ratification: <yyyy-mm-dd>
+Date Proposed: 2021-03-01
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP4c2-SP8 introduces a second poll date on the 1st Monday of each month.
 
 ## Specification
 

@@ -13,6 +13,9 @@ Declaration Statement: Maker Governance Intends to Utilize an Off-Chain Asset Ba
 Declaration to Replace: n/a
 ```
 
+## Sentence Summary
+MIP13c3-SP4 declares that Maker Governance Intends to Utilize an Off-Chain Asset Backed Lender to onboard Real World Assets into the Maker Protocol to borrow DAI and deploy in the “Real World”.
+
 ## Specification
 
 ### Context and Motivation

@@ -8,11 +8,15 @@ Contributors: @JerryAG, @scottrepreneur, @anna, @seth
 Status: Accepted
 Date Proposed: 2020-11-6
 Date Ratified: 2021-01-30
+---
 Declaration Statement: Maker Governance intends to form a Governance Communications domain with the mandate described in this declaration.
 Declaration to Replace: n/a
 ```
 
-# Specification
+## Sentence Summary
+MIP13c3-SP7 declares that Maker Governance intends to form a Governance Communications domain with the mandate described in this document.
+
+## Specification
 
 ### Context and Motivation
 

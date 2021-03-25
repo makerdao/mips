@@ -8,8 +8,11 @@ Author(s): David Utrobin
 Contributors:
 Status: Request For Comment (RFC)
 Date Applied: 2021-03-12
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP41c4-SP8 onboards David Utrobin as Facilitator for Core Unit COM-001: Governance Communications.
 
 ## Specification
 

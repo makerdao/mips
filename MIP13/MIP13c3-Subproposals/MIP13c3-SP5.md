@@ -1,4 +1,5 @@
 # MIP13c3-SP5: Maker to commence onboarding work of Centrifuge based Collateral
+
 ## Preamble
 ```
 MIP13c3-SP#: 5
@@ -6,13 +7,17 @@ Author(s): Lucas Vogelsang (@spin on forum.makerdao.com, lucas@centrifuge.io)
 Contributors:
 Status: Request for Comments (RFC)
 Date Proposed: 2020-09-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ---
 Declaration Statement: MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD.
 Declaration to Replace: n/a
 ```
 
+## Sentence Summary
+MIP13c3-SP5 declares that MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD.
+
 ## Specification
+
 ### Context and Motivation
 Onboarding Real Wold Assets to Maker is seen as one of the main priorities to scale MakerDAO. This is a goal Centrifuge has been working on for over a year. It requires adapting the current collateral onboarding process as these assets are  different from the current collateral. Centrifuge has worked with both the domain teams as well as the broader community to discuss these differences and come up with solutions such as the MIP22 proposed in this cycle. 
 

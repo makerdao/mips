@@ -7,10 +7,14 @@ MIP to be Amended: MIP24
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
 Status: RFC
-Date of Amendment Submission: <2021-01-18>
-Date of ratification: <yyyy-mm-dd>
+Date Proposed: 2021-01-18
+Date Ratified:
 Dependencies:
 ```
+
+## Sentence Summary
+MIP4c2-SP11 amends MIP24 to be compatible with the Core Unit Operating Model MIP Set.
+
 ## Specification
 
 ### Motivation

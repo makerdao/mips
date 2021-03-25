@@ -1,15 +1,18 @@
-# MIP40c2-SP8: Modify Core Unit Budget, COM-001
+# MIP40c3-SP8: Modify Core Unit Budget, COM-001
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 8
+MIP40c3-SP#: 8
 Author(s): David Utrobin
 Contributors:
-Status: Request For Comment (RFC)
+Status: Request For Comments (RFC)
 Date Applied: 2021-03-12
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP40c3-SP8 adds the budget for Core Unit COM-001: Governance Communications.
 
 ## Specification
 

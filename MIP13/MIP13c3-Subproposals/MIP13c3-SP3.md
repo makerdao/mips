@@ -8,12 +8,14 @@ Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: n/a
 Status: Formal Submission (FS)
 Date Proposed: 2020-08-21
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ---
 Declaration Statement: Creation of a Strategic Reserves Fund to have a financial power and autonomy
 Declaration to Replace: n/a
 ```
 
+## Sentence Summary
+MIP13c3-SP3 is the Declaration of Intent for the creation of a Strategic Reserves Fund to have a financial power and autonomy.
 
 ## Specification
 

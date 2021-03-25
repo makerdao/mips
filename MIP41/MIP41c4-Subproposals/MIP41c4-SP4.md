@@ -8,8 +8,11 @@ Author(s): Nadia Alvarez
 Contributors:
 Status: RFC
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP41c4-SP4 onboards Nadia Alvarez as Facilitator for Core Unit GRO-001: Growth.
 
 ## Specification
 

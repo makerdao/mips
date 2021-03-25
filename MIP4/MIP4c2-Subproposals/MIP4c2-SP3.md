@@ -7,9 +7,13 @@ MIP to be Amended: MIP9
 Author(s): Charles St.Louis (@CPSTL), @LongForWisdom, Rune Christensen (@Rune23) 
 Contributors:
 Status: Accepted
-Date of Amendment Submission: 2020-05-28
-Date of ratification: 2020-06-25
+Date Proposed: 2020-05-28
+Date Ratified: 2020-06-25
 ```
+
+## Sentence Summary
+MIP4c2-SP3 rearranges the collateral onboarding process to allow MIP9 to occur before MIP8.
+
 ## Specification
     
 ### Motivation

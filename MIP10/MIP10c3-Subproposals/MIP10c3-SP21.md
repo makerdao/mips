@@ -1,3 +1,5 @@
+# MIP10c3-SP21: Subproposal to Onboard Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 21
@@ -7,8 +9,10 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2021-01-27
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+## Sentence Summary
+MIP10c3-SP21 onboards 17 Oracles on Starkware, with dYdX as the customer.
 
 ## Specification
 

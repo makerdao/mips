@@ -1,15 +1,18 @@
-# MIP40c2-SP6: MakerDAO Shop Budget, MDS-001
+# MIP40c3-SP6: MakerDAO Shop Budget, MDS-001
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 6
+MIP40c3-SP#: 6
 Author(s): Coulter Mulligan & Mike Porcaro
 Contributors:
-Status: Request For Comment (RFC)
+Status: Request For Comments (RFC)
 Date Applied: 2021-03-03
 Date Ratified:
 ```
+
+## Sentence Summary
+MIP40c3-SP6 adds the budget for Core Unit MDS-001: MakerDAO Shop.
 
 ## Specification
 

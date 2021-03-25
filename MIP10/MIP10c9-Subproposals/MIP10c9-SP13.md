@@ -1,4 +1,4 @@
-# MIP10c9-SP12: Subproposal to whitelist B.Protocol contract for ETH/USD Oracle Access
+# MIP10c9-SP13: Subproposal to whitelist B.Protocol contract for ETH/USD Oracle Access
 
 ## Preamble
 
@@ -8,8 +8,11 @@ Author(s): Yaron Velner
 Contributors: Yaron Velner
 Status: Formal Submission
 Date Proposed: 2020-10-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c9-SP13 whitelists B.Protocol contract for ETH/USD Oracle Access.
 
 ## Disclaimer
 
@@ -29,6 +32,8 @@ Liquidators get better predictions and hence can better manage their risk.
 
 B.Protocol is using the OSM so liquidators could topup CDPs that are expected to be liquidated in the next price update.
 This way after the price update, the usual bite process is prevented, and an "internal" liquidation (unwind) process happens on B.Protocol.
+
+### Oracle Name
 
 ETH/USD
 
