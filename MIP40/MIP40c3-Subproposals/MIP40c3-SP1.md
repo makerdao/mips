@@ -1,9 +1,9 @@
-# MIP40c2-SP1: Modify Core Unit Budget (Real-World Finance)
+# MIP40c3-SP1: Modify Core Unit Budget (Real-World Finance)
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 1
+MIP40c3-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
 Status: Formal Submission
@@ -12,7 +12,7 @@ Date Ratified:
 ```
 
 ## Sentence Summary
-MIP40c2-SP1 adds the budget for Core Unit RWF-001: Real-World Finance.
+MIP40c3-SP1 adds the budget for Core Unit RWF-001: Real-World Finance.
 
 ## Specification
 
