@@ -17,17 +17,17 @@ MIP40c3-SP7 adds the budget for the Smart Contracts Core Unit.
 
 ## Specification
 
-## Motivation
+### Motivation
 
 I am proposing this budget for the Smart Contract Core Unit to be able to succeed in its mandate, specifically; to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.
 
 The team’s scope involves a significant level of responsibility and exposure, demonstrated by over $6 billion of total value locked in the Maker Protocol. This is coupled with the constant and necessary addition of collateral types, executive votes and code reviews to ensure protocol safety and growth.
 
-## Core Unit Name
+### Core Unit Name
 
 Smart Contract Core Unit
 
-## Budget Considerations
+### Budget Considerations
 
 The following considerations have been taken into account when building the budget to ensure a competitive package that allows the DAO to retain and attract talent by providing:
 
@@ -47,7 +47,7 @@ There is also recognition to support the team by removing blockers and covering 
 
 Compiling the above considerations along with market/competitor research has helped define the following budget.
 
-## Budget
+### Budget
 
 The yearly budget request for the Smart Contract Core Unit is $5.5m. This equates to a $458,333 monthly expense to support the team mandate.
 
@@ -73,7 +73,7 @@ Illustrating these details as a percentage of the total budget request for overa
 
 ![|624x303](upload://pOhv4PjVK9rHo77k3ImqeWTa9IL.png "Chart")
 
-## Budget Details:
+### Budget Details:
 
 Providing additional detail with regards to the above line items;
 
@@ -99,7 +99,7 @@ Providing additional detail with regards to the above line items;
 
 **Contingency Buffer:** Approximately 5% of budgeted costs to be sidelined in the event that we underestimated this budget cycle.
 
-## MKR Vesting
+### MKR Vesting
 
 The Smart Contract Team is proposing to award 0.1% of the existing MKR supply to each full-time team member, (equivalent to 995 MKR) vested over 4 years.
 
@@ -126,7 +126,7 @@ Details:
 |Total team MKR over 4 years (13 full-time and 1 part-time member)|13,432.50 MKR|
 |Total team MKR at the end of 1 year (13 full-time and 1 part-time member)|3,358.125 MKR|
 
-## What the budget does not include:
+### What the budget does not include:
 
 Additional Audits: We have budgeted for up to $375k in audits, each audit typically costs between $50-$100k. If we exceed this amount, we will request further funding and approval from Governance.
 
@@ -134,7 +134,7 @@ Increased Gas Expenses: We have budgeted up to $150k in gas costs. If we exceed 
 
 Keeper costs: We expect a technical/operations domain team to maintain Keepers, including chief keeper, cage keeper, auction kickers and more. As a result, we have not accounted for maintenance or gas costs of keeping keepers operational.
 
-## Conditions - Continuous Operation
+### Conditions - Continuous Operation
 
 To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues, the Smart Contract Team will be requesting an upfront lump-sum of $1.2m to sit in a protocol owned multisig.
 
@@ -148,7 +148,7 @@ Detail:
 * If normal protocol operation is not possible due to emergency shutdown or other protocol failure, these funds will be used to ensure employment resources get the system back up and functional
 * At the conclusion of the year, the lump sum will remain in the multisig for the following year and may be increased at that point in time due to team growth or the desire for an increased runway.
 
-## Smart Contract Implementation
+### Smart Contract Implementation
 
 * Implementation: Automated implementation sending funds to a team-owned multisig
 * Multisig address: TBD
