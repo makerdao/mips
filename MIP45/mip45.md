@@ -243,7 +243,7 @@ If keepers decide to use the `clipperCallee` pattern, then they need not store D
 - `kpr`: the address where DAI incentives will be sent
 
 #### `Clipper.redo` performs several checks and actions:
-- a mutex check to ensure the `Clipper.take` function is not already being invoked from `clipperCallee`
+- a reentrancy check to ensure the function is not being recursively invoked
 - that the four-stage circuit breaker is not tripped
 - that the auction id corresponds to a valid auction
 - that the auction needs to be reset, either due to having experienced too large a percentage decrease in price, or having existed for too long of a time duration
