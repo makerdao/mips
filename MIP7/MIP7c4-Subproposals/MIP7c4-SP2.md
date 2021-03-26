@@ -12,7 +12,7 @@ Date Ratified:
 Domain Team Name: Blue Team (aka Mariano Conti)
 ```
 ## Sentence Summary
-MIP7c4-SP2 offboards Wil Barnes from the Smart Contract Domain Team.
+MIP7c4-SP2 offboards Mariano Conti from the Smart Contract Domain Team.
 
 ## Specification
         
