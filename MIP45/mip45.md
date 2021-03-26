@@ -161,8 +161,8 @@ In this section, we'll cover the four stages of the liquidation circuit breaker.
 
 - **liquidations enabled**(`0`): This means the breaker is not tripped and the protocol can liquidate new Vaults as well as service old liquidations.
 - **new liquidations disabled**(`1`): This means no new liquidations (`Clipper.kick`).
-- **new liquidations and resets disabled**(`1`): This means no new liquidations (`Clipper.kick`), and auctions that have reached either a price or time endpoint cannot be reset (`Clipper.redo`).
-- **liquidations disabled**(`2`): This means no new liquidations (`Clipper.kick`), no takes (`Clipper.take`), and no resets (`Clipper.redo`).
+- **new liquidations and resets disabled**(`2`): This means no new liquidations (`Clipper.kick`), and auctions that have reached either a price or time endpoint cannot be reset (`Clipper.redo`).
+- **liquidations disabled**(`3`): This means no new liquidations (`Clipper.kick`), no takes (`Clipper.take`), and no resets (`Clipper.redo`).
 
 Just like in `LIQ-1.2`, the circuit breaker will be available through a `ClipperMom` contract giving governance the ability to bypass the `GSM` delay for circuit breaker actions.
 
