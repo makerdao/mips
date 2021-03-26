@@ -13,15 +13,13 @@ Dependencies: None
 Replaces: Nothing
 ```
 
-## Introduction
-
-Following the [MIP Discussion](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013/6) and the long time on-going discussion about having a reserve, 
-this MIP formalises the need for the governance to have a proper reserve to store Dai or any tokens.
-
 ## Sentence Summary
 MIP37 defines a static reserve which can receive any tokens from anyone *as any contract* and allow the Governance to withdraw them.
 
 ## Paragraph Summary
+
+Following the [MIP Discussion](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013/6) and the long time on-going discussion about having a reserve, 
+this MIP formalises the need for the governance to have a proper reserve to store Dai or any tokens.
 
 Currently, makerDao doesn't have any contract where tokens can be stored/sent/withdrew. This MIP will try to fix it.
 
