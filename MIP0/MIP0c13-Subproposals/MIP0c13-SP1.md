@@ -5,7 +5,7 @@
 MIP0c13-SP#: 1
 Author(s): LongForWisdom
 Contributors: n/a
-Status: Formal Submission (FS)
+Status: Obsolete
 Date Proposed: 2020-08-20 
 Date Ratified: 2020-09-10
 ---
