@@ -6,9 +6,9 @@
 MIP13c3-SP#: 3
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: n/a
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-08-21
-Date Ratified:
+Date Ratified: 2020-10-28
 ---
 Declaration Statement: Creation of a Strategic Reserves Fund to have a financial power and autonomy
 Declaration to Replace: n/a

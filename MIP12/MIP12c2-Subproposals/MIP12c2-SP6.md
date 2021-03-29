@@ -9,7 +9,7 @@ Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors: Charles St.Louis (@CPSTL)
 Status: Accepted
 Date Proposed: 2020-09-09
-Date ratified:
+Date ratified: 2020-09-30
 ```
 
 ## Sentence Summary

@@ -5,9 +5,9 @@
 MIP13c3-SP#: 5
 Author(s): Lucas Vogelsang (@spin on forum.makerdao.com, lucas@centrifuge.io)
 Contributors:
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-09-09
-Date Ratified:
+Date Ratified: 2020-10-28
 ---
 Declaration Statement: MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD.
 Declaration to Replace: n/a
