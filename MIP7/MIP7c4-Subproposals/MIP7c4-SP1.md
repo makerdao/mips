@@ -8,10 +8,12 @@ Author(s): Cyrus Younessi
 Contributors:
 Status: Formal Submission (FS)
 Date Proposed: 2020-09-08
-Date Removed: <yyyy-mm-dd>
+Date Ratified:
 ---
 Domain Team Name: Cyrus Younessi
 ```
+## Sentence Summary
+MIP7c4-SP1 offboards Cyrus Younessi from the Risk Domain Team.
 
 ## Specification
 

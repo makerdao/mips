@@ -8,9 +8,13 @@ MIP to be Amended: MIP12
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Contributors:
 Status: Accepted
-Date of Amendment Submission: 2020-05-28
-Date of ratification: 2020-06-25
+Date Proposed: 2020-05-28
+Date Ratified: 2020-06-25
 ```
+
+## Sentence Summary
+
+MIP4c2-SP4 allows collateral onboarding to operate without having General Risk Model ratified through MIP11.
 
 ## Specification
 

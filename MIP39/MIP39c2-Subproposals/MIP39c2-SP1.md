@@ -6,10 +6,14 @@
 MIP39c2-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Status: Formal Submission
+Status: Approved
 Date Applied: 2021-01-26
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 ```
+
+## Sentence Summary
+
+MIP39c2-SP1 adds Core Unit RWF-001: Real-World Finance.
 
 ## Specification
 

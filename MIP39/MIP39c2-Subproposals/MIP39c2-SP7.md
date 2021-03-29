@@ -6,10 +6,14 @@
 MIP39c2-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors:
-Status: Request For Comment (RFC)
-Date Applied: <2021-03-03>
-Date Ratified: <yyyy-mm-dd>
+Status: Request for Comments (RFC)
+Date Applied: 2021-03-03
+Date Ratified:
 ```
+
+## Sentence Summary
+
+MIP39c2-SP7 adds Smart Contracts Core Unit.
 
 ## Specification
 

@@ -9,12 +9,15 @@ MIP7c3-SP#: 1
 Author: Mariano Conti
 Contributors: n/a
 Status: Request for Comments (RFC)
-Date Applied: 2020-04-22
-Date Ratified: <yyyy-mm-dd>
+Date Proposed: 2020-04-22
+Date Ratified:
 ---
 Domain Role: Smart Contract Domain Team
 Proposed Applicant: Mariano Conti
 ```
+
+## Sentence Summary
+MIP7c3-SP1 onboards Mariano Conti to the Smart Contracts Domain Team.
 
 ## Application
 

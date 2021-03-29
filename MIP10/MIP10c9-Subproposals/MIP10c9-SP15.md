@@ -8,8 +8,11 @@ Author(s): Cristian Ramirez
 Contributors: Cristian Ramirez
 Status: Formal Submission
 Date Proposed: 2020-11-27
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c9-SP15 whitelists Gnosis Maker Adapter contract for ETH/USD Oracle Access.
 
 ## Specification
 

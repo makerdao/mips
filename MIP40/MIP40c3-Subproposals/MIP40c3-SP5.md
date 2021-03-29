@@ -1,15 +1,19 @@
-# MIP40c2-SP5: Core Unit Budget - MKT-001
+# MIP40c3-SP5: Core Unit Budget - MKT-001
 
 ## Preamble
 
 ```
-MIP41c4-SP#:5
+MIP41c3-SP#:5
 Author(s): Seth Goldfarb
 Contributors:
 Status: Request for Comments (RFC)
 Date Applied: 2021-03-03
 Date Ratified:
 ```
+
+## Sentence Summary
+
+MIP40c3-SP5 adds the budget for Core Unit MKT-001: Content Production.
 
 ## Specification
 

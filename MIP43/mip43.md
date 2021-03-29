@@ -8,9 +8,9 @@ Title: Term Lending Module (TLM)
 Author(s): Alberto Cuesta Cañada (@acuestacanada), Lev Livnev(@equivrel), Allan Niemerg (@niemerg)
 Contributors: n/a
 Type: Technical
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-01-21
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+

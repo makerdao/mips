@@ -6,12 +6,15 @@ MIP0c12-SP#: 1
 Author: Charles St.Louis
 Contributors: n/a
 Status: Request for Comments (RFC)
-Date Applied: 2020-04-22
+Date Proposed: 2020-04-22
 Date Ratified: 2020-05-02
 ---
 Core Personnel Role: MIP Editor
 Proposed applicant: Charles St.Louis
 ```
+
+## Sentence Summary
+MIP0c12-SP1 onboards Charles St.Louis as MIP Editor.
 
 ## Application Form
     

@@ -6,12 +6,17 @@
 MIP13c3-SP#: 10
 Author(s): Tim Schuppener (@ultraschuppi), Sébastien Derivaux (@SebVentures)
 Contributors: n/a
-Status: Request For Comment (RFC)
+Status: Request for Comments (RFC)
 Date Proposed: 2021-02-27
 Date Ratified:
+---
 Declaration Statement: Analysis of a EUR-pegged DAI
 Declaration to Replace: n/a
 ```
+
+## Sentence Summary
+
+MIP13c3-SP10 is the Declaration of Intent for the analysis of a EUR-pegged DAI.
 
 ## Specification
 

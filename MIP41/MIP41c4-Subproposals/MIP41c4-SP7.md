@@ -6,10 +6,14 @@
 MIP41c4-SP#: 7
 Author(s): Derek Flossman
 Contributors:
-Status: Request For Comment (RFC)
+Status: Request for Comments (RFC)
 Date Applied: 2021-03-02
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+
+MIP41c4-SP7 onboards Derek Flossman as Facilitator for the Smart Contracts Core Unit.
 
 ## Specification
 

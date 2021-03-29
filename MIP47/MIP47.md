@@ -8,9 +8,9 @@ Title: MakerDAO Multisignature Wallet Management
 Author(s): Payton Rose @prose11
 Contributors: @amyjung @LongForWisdom @Elihu
 Type: General
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-02-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 Dependencies:
 Replaces:
 ```
