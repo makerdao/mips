@@ -9,7 +9,7 @@ Author(s): Cyrus Younessi (@DonutJr), Niklas Kunkel (@NiklasKunkel), Mariano Con
 Contributors: Charles St.Louis (@CPSTL)
 Status: Accepted
 Date Proposed: 2020-09-08
-Date ratified:
+Date ratified: 2020-09-30
 ```
 
 ## Sentence Summary
