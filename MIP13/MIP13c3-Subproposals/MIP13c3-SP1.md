@@ -6,11 +6,16 @@ MIP13c3-SP#: 1
 Author(s): Akiva Dubrofsky (@akiva)
 Contributors: @vitalyr
 Status: Formal Submission
-Date Proposed: <2020-07-08>
-Date Ratified: <yyyy-mm-dd>
-Declaration Statement: MakerDAO intends to keep RP on Vaults as  transparent and stable as possible.
+Date Proposed: 2020-07-08
+Date Ratified:
+---
+Declaration Statement: MakerDAO intends to keep RP on Vaults as transparent and stable as possible.
 Declaration to Replace: n/a
 ```
+
+## Sentence Summary
+
+MIP13c3-SP1 declares that MakerDAO intends to keep RP on Vaults as transparent and stable as possible.
 
 ## Specification
 

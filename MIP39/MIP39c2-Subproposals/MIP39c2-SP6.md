@@ -6,10 +6,14 @@
 MIP39c2-SP#: 6
 Author(s): Mike Porcaro, Coulter Mulligan
 Contributors: 
-Status: Request For Comment (RFC)
+Status: Request for Comments (RFC)
 Date Applied: 2021-03-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+
+MIP39c2-SP6 adds Core Unit MDS-001: MakerDAO Shop.
 
 ## Specification
 

@@ -14,6 +14,9 @@ Domain Role: Operational Support Domain Facilitator
 Proposed Applicant: @AmyJung
 ```
 
+## Sentence Summary
+MIP28c7-SP1 onboards Amy Jung as Operational Support Domain Facilitator.
+
 ## Application
 
 ### Motivation

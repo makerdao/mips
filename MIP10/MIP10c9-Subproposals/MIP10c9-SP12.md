@@ -8,8 +8,11 @@ Author(s): Yaron Velner
 Contributors: Yaron Velner
 Status: Formal Submission
 Date Proposed: 2020-10-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c9-SP12 whitelists B.Protocol contract for ETH/USD Oracle Access.
 
 ## Disclaimer
 

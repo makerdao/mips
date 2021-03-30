@@ -6,10 +6,14 @@
 MIP41c4-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-02-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 ```
+
+## Sentence Summary
+
+MIP41c4-SP3 onboards LongForWisdom as Facilitator for Core Unit GOV-001: GovAlpha.
 
 ## Specification
 
