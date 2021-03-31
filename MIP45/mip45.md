@@ -496,17 +496,17 @@ Periodically, governance may increase the `ilk.dust` amount.  When this happens,
 
 In order to thwart this attack governance must be careful when setting `ilk.tip` and `ilk.chip` so as not to create this perverse incentive.
 
-### MIP45c20 Price Decrease Function Too Fast
+### MIP45c20 Price Decreases Too Quickly
 
-If the price function decreases too fast it can have the following consequences:
+If the price decreases too quickly it can have the following consequences:
 
 - the auction ends without any bid, then it needs to be reset and possibly this will keep happening
 - bidders end up having reverts due the auction ended before tx confirmation
 - bidders end up paying much less than what they were willing to pay (possibly generating permanent bad debt)
 
-### MIP45c21 Price Decrease Function Too Slow
+### MIP45c21 Price Decreases Too Slowly
 
-If the price function decreases too slow it can have the following consequences:
+If the price decreases too slowly it can have the following consequences:
 
 - auction price never catches up with the market price, eventually being reset
     - After the reset the price catches up, but is less than an optimal market price
@@ -519,7 +519,7 @@ In `LIQ-1.2` there is limited front-running risk as it requires capital to parti
 
 ### MIP45c23 OSM Risk for Start Price
 
-Because `Clipper.kick` and `Clipper.redo` consult the OSM for the collateral price, we are vulnerable to an oracle attack that can only be mitigated by the oracle delay, `Dog.Hole`, and `ilk.hole`.  We must rely on the number of guards in place to prevent price manipulation and oracle attacks.
+Because `Clipper.kick` and `Clipper.redo` consult the OSM for the collateral price, we are vulnerable to an oracle attack that can only be mitigated by the oracle delay, `Dog.Hole`, and `ilk.hole`.  We must rely on the number of guards in place to prevent price manipulation and oracle attacks. The fact that the price is delayed by one hour, however, prseents a risk of its own: since the price is out-of-date relative to the market, it may be either too high or too low to allow for efficient settlement given other parameters like 'buf' and the price decrease function. The consequences of either case are effectively covered by the sections on the risk of the price decreasing either too quickly or too slowly.
 
 ### MIP45c24 Setting Hole or ilk.hole Too High
 
