@@ -7,8 +7,8 @@ MIP39c2-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
 Status: Request for Comments (RFC)
-Date Applied: 2021-02-24
-Date Ratified:
+Date Applied: 2021-03-03
+Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Sentence Summary
@@ -19,7 +19,7 @@ MIP39c2-SP5 adds Core Unit MKT-001: Content Production.
 
 ### **Motivation**
 
-MakerDAO needs a Core Unit responsible for the content produced by the DAO. 
+MakerDAO needs a Core Unit responsible for the content produced by the DAO.
 
 A content-focused Core Unit will enable other Core Units and the DAO itself to engage in Content Marketing. Content Marketing is about telling stories that encourage stakeholders to act in ways that support the goals of a person or organization.
 
@@ -58,7 +58,11 @@ During this period, team members will continue lending support to projects like:
 * Incorporate and set up administrative operations (payroll, etc.)
 * Implement a Request For Content (RFC) process
 * Work with the Legal Core Unit to determine legal limitations on content and needs with regard to IP (copyright/trademark/TOS).
-* Work with other Core Units to surface content-related needs and coordinate the management of MakerDAO’s digital properties (Maker Blog, Youtube, Twitter, etc.)
+* Work with other Core Units to surface content-related needs and coordinate the management of MakerDAO’s digital properties, including, but not limited to:
+    * MakerDAO.com
+    * Maker Blog
+    * Youtube
+    * Twitter
 
 **Month 2: Strategize, Execute, and Renew**
 
@@ -140,13 +144,19 @@ Accountability will be demonstrated through regular updates on goals and KPIs.
 Members of this team bring expertise in content marketing and production, audio engineering, and SEO. 
 
 **Seth Goldfarb** is a Content Marketing professional who’s spent the last four years helping industry leaders tell better stories about the development of blockchain and cryptocurrency.
+* http://sethgoldfarbthewriter.com/
+* [LinkedIn](https://www.linkedin.com/in/asethgoldfarb/)
 
-**Jerry Goldfarb** brings over eight years of experience as Audio Production Specialist and has led the production of pilot episodes for the audio version of Maker Relay in addition to producing content for GovComms, the Forum Badges team, and CommDev. Jerry also comes with over five years of project management experience.
+**Jerry Goldfarb** brings over eight years of experience as an Audio Production Specialist and five years of project management experience, led the production of pilot episodes for the audio version of Maker Relay, and has produced content for GovComms, the Forum Badges team, and CommDev.
 
 **Tom DeMichele** is a Content Marketing veteran who specializes in SEO with over ten years of experience and has been a Managing Partner at Alexander Benjamin Consulting for the past seven years.
+* [LinkedIn](https://www.linkedin.com/in/thomas-demichele-5285b380/)
 
 You can see this team’s work for MakerDAO in:
 
 * The [Community Portal](https://community-development.makerdao.com/en/)
 * Maker Relay ([Written](https://forum.makerdao.com/tag/maker-relay) and [Audio](https://anchor.fm/voicesofmkr/))
 * Stats on the State of Maker Summaries
+
+[Budget proposal](https://forum.makerdao.com/t/mip40c2-sp5-core-unit-budget-mkt-001/6824)
+[Facilitator Onboarding proposal](https://forum.makerdao.com/t/mip41c4-sp5-facilitator-onboarding-mkt-001/6825)

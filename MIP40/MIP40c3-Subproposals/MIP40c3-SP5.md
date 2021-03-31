@@ -1,11 +1,11 @@
-# MIP40c3-SP5: Core Unit Budget - MKT-001
+# MIP40c2-SP5: Core Unit Budget, MKT-001
 
 ## Preamble
 
 ```
-MIP41c3-SP#:5
+MIP41c4-SP#: 5
 Author(s): Seth Goldfarb
-Contributors:
+Contributors: Jerry Goldfarb, Tom DeMichele
 Status: Request for Comments (RFC)
 Date Applied: 2021-03-03
 Date Ratified:
@@ -48,17 +48,17 @@ We aim to provide salaries competitive with regard to market rates and the compe
 
 #### Breakdown
 
-|Item|Amount| Percentage |
-| --- | --- |
-|**People**||
-|Salaries | 82,200 DAI | 85.96% |
+| Item | Amount | Percentage |
+| --- | --- | ---
+| **People** |
+|Salaries | 109,700 DAI | 85.96% |
 |||
 |**Startup/Admin/Software**||
-| Total | 3224 | 3.372% |
+| Total | 3224 DAI | 3.372% |
 |||
 |**Other Costs**||
 |Gas|200 DAI|
-|Contingency|10,000 DAI|
-| Total | 10,200 | 10.37% |
+|Contingency|20,000 DAI|
+| Total | 20,200 DAI | 10.37% |
 |||
-|**Total**|95,624 DAI| 100% |
+|**Total**|133,124 DAI| 100% |
