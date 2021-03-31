@@ -529,6 +529,10 @@ While `Dog.Hole` and `ilk.hole` can be set much higher in liquidations 2.0, ther
 
 If we set either `Dog.Hole` or `ilk.hole` too low, we run the risk of not being able to liquidate enough collateral at once.  This could lead to a buildup of undercollateralized positions in the system, eventually causing the accrual of bad debt.
 
+### Auction Parameter Changes Affect Running Auctions
+
+Parameters, e.g. `tail`, `cusp`, or the price decease function or any of its parameters, can be changed at any time by governance and will affect the behavior of running auctions. Integrators should take this possibility into account, reasoning through how sudden change in parameters would impact their bidding strategies. Governance should endeavor to change parameters infrequently and if possible, only when there are not any auctions that will be affected.
+
 ## Audits
 
 There are a number of auditors engaged on Liquidations 2.0.  As audit reports come in this MIP will be updated.
