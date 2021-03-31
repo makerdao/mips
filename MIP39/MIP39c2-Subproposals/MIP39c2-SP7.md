@@ -1,46 +1,59 @@
-# MIP39c2-SP7: Adding Smart Contracts Core Unit
+# MIP39c2-SP7: Adding Protocol Engineering Core Unit
 
 ## Preamble
 
 ```
 MIP39c2-SP#: 7
-Author(s): Smart Contract Domain Team
-Contributors:
-Status: Request for Comments (RFC)
+Author(s): Protocol Engineering Core Unit
+Contributors: Smart Contracts Domain Team
+Status: Formal Submission (FS)
 Date Applied: 2021-03-03
 Date Ratified:
 ```
 
 ## Sentence Summary
 
-MIP39c2-SP7 adds Smart Contracts Core Unit.
+MIP39c2-SP7 adds Protocol Engineering Core Unit.
 
 ## Specification
 
 ## Motivation
 
-Onboarding the Smart Contracts Core Unit secures a wealth of engineering and smart contract experience ensuring that the Maker protocol can safely continue to grow as a DeFi leader.
+Onboarding the Protocol Engineering Core Unit secures a wealth of engineering, security, research and smart contract development experience ensuring that the Maker protocol can safely continue to grow as a DeFi leader.
+
+**New Information:** This proposal was originally titled the Smart Contract Core Unit. However, community discussion during the RFC process indicated that we should also give immediate attention to promoting future protocol growth and innovation, in particular Layer2 development. To accelerate this we will be increasing our immediate headcount by two. Further details can be found in the budget [MIP](https://forum.makerdao.com/t/mip40c2-sp7-modify-smart-contract-core-unit-budget/6832). This addition will drive the development of the Optimism Dai bridge and L2 solutions - a game changer for Maker! Specifics have been added to the L2 Development section below.
+
+Therefore, this Core Unit has been renamed to the  **Protocol Engineering Core Unit**, as it is a more accurate title of the team's responsibilities, summarised in the following infographic and the team's mandate further below.
+
+![](https://i.imgur.com/qaNOqGq.png)
 
 ## Responsibilities
-*The Smart Contract Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.*
+*The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.*
 
-1) **Extending the functionality of the protocol** via the design and implementation of new smart contracts and other censorship-resistant mechanisms. This may include additional smart contract modules as well as expansion to L2 solutions or other L1 blockchains in the future.
+1) **Extending the functionality of the protocol** via the design and implementation of new smart contracts and other censorship-resistant mechanisms. This will include additional smart contract modules as well as expansion to L2 solutions or other L1 blockchains in the future.
 
 2) **Assisting in the maintenance and operation of existing smart contracts** as needed, for example by writing code to implement executive proposals, fixing bugs, or simply providing expert consultation on matters like the risks associated with various parameters or how different parts of the system interact.
 
 3) **Ensuring the safety and correctness of the protocol** at the design and implementation levels, from bytecode to game theory. This includes being a last line of defense for any and all code added to the protocol, and being responsible for setting standards, designing processes, and selecting, providing training for, and making available tools to achieve safety and correctness. It further encompasses the application of formal methods to provide best-in-class assurance to users of the protocol.
 
 ## Core Unit Name
-Smart Contracts Core Unit
+Protocol Engineering Core Unit
 
 ## Proposed Core Unit Facilitator
 @Derek 
 
 ## Team Structure
 
-The Smart Contracts Team will function as a self-managing entity with a flat management structure. The team, through its Facilitator will answer to the community and MKR holders regarding its directives which shall include any of the mandates mentioned below.
+The Protocol Engineering Core Unit will have a flat management structure led by the facilitator who answers to the community of MKR holders. This Core Unit is being proposed as a single team. In the future, sub-teams will be defined to give greater transparency to their specific tasks, as championed by the team facilitator.
 
-In the future, sub-teams may form to tackle specific mandated tasks, as championed by the Team Facilitator/s and the Governance community to allow greater focus on specific areas (for example; Core Protocol Development, Collateral Development and Security & Core Research). In any such an event, these sub-teams will be recorded as updates to this MIP.
+This will evolve into focus areas including; execution & implementation, innovation (initially Optimism & L2), and safety/security sub-teams. This is important because:
+
+* Measuring success is different for innovation vs implementation vs research
+* Specialisations build focus, reduce context switching and lead to better planning
+* Knowledge sharing and code-review opportunities across sub-teams helps to upskill individuals and reduce errors
+* We need to increase team throughput by building up parallel teams
+
+All work will be included in weekly updates, objectives and key results, and a pipeline to show future priorities.
 
 ## Team Credentials
 
@@ -63,9 +76,9 @@ This team works on a variety of projects, everything from new collateral adapter
 
 ## Ways of Working & Team Rituals
 
-The Smart Contract Team operates on a two week sprint cadence allowing us to be responsive to community votes and market changes. Our commitment to clarity and transparency shall be accomplished with the following:
+The Protocol Engineering Team operates on a two week sprint cadence allowing us to be responsive to community votes and market changes. Our commitment to clarity and transparency shall be accomplished with the following:
 
-* **Weekly Smart Contract Team update:** a Governance and Risk call presentation covering progress, including; achievements, challenges, roadblocks.
+* **Weekly Protocol Engineering Team update:** a Governance and Risk call presentation covering progress, including; achievements, challenges, roadblocks.
 * **Quarterly Objectives and Key Results:** Document team priorities to help drive focus and alignment with other domain teams.
 
 * **Maintenance of an Innovation Pipeline:** as a mechanism to communicate what we are working on and clearly demonstrate team priorities.
@@ -74,7 +87,7 @@ The intention is that through these recurring rituals our stakeholders will be w
 
 ## Core Unit Mandate
 
-The following items categorise the scope of the Smart Contracts Core Unit and the problems we solve. Please note that this is not a prioritization, but rather an expression of the scope that we focus on.
+The following items categorise the scope of the Protocol Engineering Team and the problems we solve. Please note that this is not a prioritization, but rather an expression of the scope that we focus on.
 
 ### Security and Safety
 
@@ -122,7 +135,13 @@ The following items categorise the scope of the Smart Contracts Core Unit and th
 * Design new core modules to enhance and grow protocol functionality
 * Develop new smart contracts that interact with emergent protocols, yield farms or tools
 * Redesign core contracts to be more focused on gas optimizations and using newer compilers
-* Explore future initiatives, including; extend MCD to other EUR, GBP, CHF deployments, Layer2 scaling solutions, cross-chain Dai payment rails, credit delegation solutions, flash minting solutions, Governance incentives & voter privacy, surplus buffer investment strategies, the addition of new synthetic assets, as well as vaults with in-built yield strategies.
+* Explore future initiatives, including; extend MCD to other EUR, GBP, CHF deployments, cross-chain Dai payment rails, credit delegation solutions, flash minting solutions, Governance incentives & voter privacy, surplus buffer investment strategies, the addition of new synthetic assets, as well as vaults with in-built yield strategies.
+
+### Layer2 Development
+* Evolve Maker into the primary off-ramp for Optimistic rollups in the Ethereum ecosystem
+* Research fast, trustless and decentralized Layer2 solutions beyond OR implementation
+* Identify and audit current and future ecosystem liquidity flows between protocols
+* Integrate with other teams and individuals covering Protocol Evolution and R&D 
 
 ### Research & Development
 
