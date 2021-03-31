@@ -1,4 +1,4 @@
-# MIP41c4-SP7: Facilitator Onboarding, Smart Contract Core Unit
+# MIP41c4-SP7: Facilitator Onboarding, Protocol Engineering Core Unit
 
 ## Preamble
 
@@ -6,14 +6,14 @@
 MIP41c4-SP#: 7
 Author(s): Derek Flossman
 Contributors:
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Applied: 2021-03-02
 Date Ratified:
 ```
 
 ## Sentence Summary
 
-MIP41c4-SP7 onboards Derek Flossman as Facilitator for the Smart Contracts Core Unit.
+MIP41c4-SP7 onboards Derek Flossman as Facilitator for the Protocol Engineering Core Unit.
 
 ## Specification
 
@@ -25,7 +25,7 @@ I see the role of facilitating a technical team while also managing the expectat
 
 ## Core Unit
 
-Smart Contract Core Unit
+Protocol Engineering Core Unit
 
 ## Facilitator Name and Information
 
@@ -36,14 +36,14 @@ ETH Address: TBD
 
 ## Facilitator Commitment
 
-In addition to facilitating the Ways of Working, Team Rituals and the Core Unit Mandates as outlined in the [Smart Contract Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp-adding-smart-contracts-core-unit/6831), the following describes my commitment and actions as a Smart Contract Core Unit Facilitator, to;
+In addition to facilitating the Ways of Working, Team Rituals and the Core Unit Mandates as outlined in the [Protocol Engineering Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp7-adding-protocol-engineering-core-unit/6831), the following describes my commitment and actions as the Protocol Engineering Core Unit Facilitator, to;
 
-* Serve as a point of contact between the Smart Contract Core Unit, the Governance community and other facilitators to ensure a cohesive understanding of team deliverables and progress.
+* Serve as a point of contact between the Protocol Engineering Core Unit, the Governance community and other facilitators to ensure a cohesive understanding of team deliverables and progress.
   * Represent the team in weekly community calls
   * Work with the community and act as a triage point to collate new community requests and share awareness with the team
   * Continue to be active on the Maker Forum and Rocket Chat as an easily reachable point of contact
 
-* Remove the administrative workload for the Smart Contract Core Unit to enable them to focus on the tasks they have committed to deliver.
+* Remove the administrative workload for the Protocol Engineering Core Unit to enable them to focus on the tasks they have committed to deliver.
   * Facilitate goal planning sessions, external team integrations & meetings, help with technical smart contract/module/documentation tasks
   * Communicate expectations for all ongoing tasks in/outside of the team
   * Maintain the team budget, accounting and overhead management
@@ -78,6 +78,6 @@ In addition to facilitating the Ways of Working, Team Rituals and the Core Unit 
 
 ## Related Documents
 
-[MIP39c2-SP7 Smart Contract Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp-adding-smart-contracts-core-unit/6831)
+[MIP39c2-SP7 Protocol Engineering Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp7-adding-protocol-engineering-core-unit/6831)
 
-[MIP40c2-SP7 Smart Contract Core Unit Budget Proposal](https://forum.makerdao.com/t/mip40c2-spx-modify-smart-contract-core-unit-budget/6832)
+[MIP40c2-SP7 Protocol Engineering Core Unit Budget Proposal](https://forum.makerdao.com/t/mip40c2-sp7-modify-protocol-engineering-core-unit-budget/6832)
