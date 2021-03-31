@@ -147,9 +147,9 @@ In situations involving large amounts of collateral at auction, the current and 
 
 #### The auction initiation function (`Clipper.kick`) takes four caller supplied arguments:
 
-- `tab`: the target DAI to raise from the auction (`debt` + `stability fees` + `liquidation penalty`)
-- `lot`: the amount of collateral available for purchase
-- `usr`: the Vault under liquidation
+- `tab`: the target DAI to raise from the auction (`debt` + `stability fees` + `liquidation penalty`) [rad]
+- `lot`: the amount of collateral available for purchase [wad]
+- `usr`: the address to return any excess collateral to
 - `kpr`: the address where DAI incentives will be sent
 
 #### `Clipper.kick` performs several checks and actions:
@@ -202,10 +202,10 @@ Just like in `LIQ-1.2`, the circuit breaker will be available through a `Clipper
 #### The purchasing function (`Clipper.take`) takes five caller supplied arguments:
 
 - `id`: the numerical id of the auction to bid on
-- `amt`: the maximum amount of collateral to buy (`amt`) — a purchase behaves like a limit order
-- `max`: the maximum acceptable price in DAI per unit collateral (`max`)
+- `amt`: the maximum amount of collateral to buy (`amt`) — a purchase behaves like a limit order [wad]
+- `max`: the maximum acceptable price in DAI per unit collateral (`max`) [ray]
 - `who`: address that will receive the collateral (`who`)
-- `data`: an arbitrary bytestring (if provided, the address `who`, if it is neither the `Dog` nor `Vat` address stored by the Clipper, is called as a contract via an interface described below, to which this data is passed)
+- `data`: an arbitrary bytestring (if provided, the address `who`, if it is neither the `Dog` nor `Vat` address stored by the Clipper, is called as a contract via an interface described below, to which this data is passed) [bytes]
 
 #### `Clipper.take` performs several initial checks:
 
@@ -337,10 +337,13 @@ DSS core address introspection.
 
 ```
 function ilks(bytes32 ilk) external view returns (
-    address clip, uint256 chop, uint256 hole, uint256 dirt);
+    address clip,
+    uint256 chop,   // wad
+    uint256 hole,   // rad
+    uint256 dirt);  // rad
 ```
 
-Returns values configured for a given ilk (ex. `ETH-A`)
+Returns values configured for a given ilk (ex. `ETH-A`).
 
 ```
 function live() external view returns (uint256);
@@ -351,7 +354,7 @@ Returns `1` if the system is active.
 function Hole() external view returns (uint256);
 function Dirt() external view returns (uint256);
 ```
-Getters for the global Hole and Dirt configuration.
+Getters for the global Hole and Dirt configuration. Both return a rad-precision value.
 
 ```
 function file(bytes32 what, address data) external;
@@ -359,12 +362,12 @@ function file(bytes32 what, uint256 data) external;
 function file(bytes32 ilk, bytes32 what, address data) external;
 function file(bytes32 ilk, bytes32 what, uint256 data) external;
 ```
-(Authenticated) Parameter modification functions, available to governance.
+(Authenticated) Parameter modification functions, available to governance. The precision for a numeric argument should match the parameter being set.
 
 ```
 function chop(bytes32 ilk) external view returns (uint256);
 ```
-Getter for the `chop` value of a given `ilk`.
+Getter for the `chop` value of a given `ilk`. `chop` has wad precision.
 
 ```
 function bark(bytes32 ilk, address urn, address kpr)
@@ -375,7 +378,7 @@ The main liquidation function. Initiates an auction. A keeper calls this functio
 ```
 function digs(bytes32 ilk, uint256 rad) external;
 ```
-(Authenticated) Removes collateral from the accumulator. Called by the `Clipper`.
+(Authenticated) Removes collateral from the accumulator. Called by the `Clipper`. The `rad` argument has rad precision.
 
 ```
 function cage() external;
@@ -410,11 +413,11 @@ function calc() external view returns (address);
 The address of the pricing function used by this Clipper.
 
 ```
-function buf() external view returns (uint256);
-function tail() external view returns (uint256);
-function cusp() external view returns (uint256);
-function chip() external view returns (uint256);
-function tip() external view returns (uint256);
+function buf() external view returns (uint256);   // ray
+function tail() external view returns (uint256);  // seconds
+function cusp() external view returns (uint256);  // ray
+function chip() external view returns (uint256);  // wad
+function tip() external view returns (uint256);   // rad
 ```
 Getters for governance-configured auction parameters.
 
@@ -429,11 +432,11 @@ Returns the id of the auction at index `pos` in the list of active auctions.
 ```
 function sales(uint256) external view returns (
         uint256 pos,
-        uint256 tab,
-        uint256 lot,
+        uint256 tab,   // rad
+        uint256 lot,   // wad
         address usr,
-        uint96  tic,
-        uint256 top);
+        uint96  tic,   // Unix epoch
+        uint256 top);  // ray
 ```
 Returns information on a particular auction. Completed auctions are removed from the mapping.
 ```
@@ -444,21 +447,25 @@ Returns the current circuit breaker status. `0` for all functions allowed, `1` i
 function file(bytes32 what, address data) external;
 function file(bytes32 what, uint256 data) external;
 ```
-(Authenticated) Parameter modification functions, available to governance.
+(Authenticated) Parameter modification functions, available to governance. Numeric arguments should match the precision of the parameter being set.
 
 ```
 function kick(uint256 tab, uint256 lot, address usr, address kpr)
     external returns (uint256 id);
 ```
-(Authenticated) Initiates the auction. Called by the `Dog`.
+(Authenticated) Initiates the auction. Called by the `Dog`. `tab` is rad-precion, `lot` is wad-precision.
 
 ```
 function redo(uint256 id, address kpr) external;
 ```
 Called to reset an auction due to expiry or price deviation.
 ```
-function take(uint256 id, uint256 amt,
-        uint256 max, address who, bytes calldata data) external;
+function take(
+    uint256 id,
+    uint256 amt,  // wad
+    uint256 max,  // ray
+    address who,
+    bytes calldata data) external;
 ```
 Called to purchase collateral.
 
