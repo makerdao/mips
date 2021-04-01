@@ -1,4 +1,4 @@
-# MIP40c3-SP7: Modify Smart Contract Core Unit Budget
+# MIP40c3-SP7: Modify Protocol Engineering Core Unit Budget
 
 ## Preamble
 
@@ -6,26 +6,31 @@
 MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
-Status: Request for Comments (RFC)
+Status: Formal Submission (FS)
 Date Applied: 2021-03-03
 Date Ratified:
 ```
 
 ## Sentence Summary
 
-MIP40c3-SP7 adds the budget for the Smart Contracts Core Unit.
+MIP40c3-SP7 adds the budget for the Protocol Engineering Core Unit.
 
 ## Specification
 
 ### Motivation
 
-I am proposing this budget for the Smart Contract Core Unit to be able to succeed in its mandate, specifically; to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.
+I am proposing this budget for the Protocol Engineering Core Unit to be able to succeed in its mandate, specifically; to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.
 
-The team’s scope involves a significant level of responsibility and exposure, demonstrated by over $6 billion of total value locked in the Maker Protocol. This is coupled with the constant and necessary addition of collateral types, executive votes and code reviews to ensure protocol safety and growth.
+The team’s scope involves a significant level of responsibility and exposure, demonstrated by over $7 billion of total value locked in the Maker Protocol. This is coupled with the constant and necessary addition of collateral types, executive votes and code reviews to ensure protocol safety and growth.
+
+**New Information:** The title of the team has been updated from Smart Contracts Core Unit to Protocol Engineering Core Unit to better reflect the longer-term growth and our mandate to support ongoing protocol implementation, growth, and safety/security.
+
+As per the recently updated Protocol Engineering Core Unit [MIP](https://forum.makerdao.com/t/mip40c2-sp7-modify-smart-contract-core-unit-budget/6832) (specifically; Motivation, Team Structure and Layer2 Development sections), this proposal has been updated to include two additional senior engineers focusing on growth and innovation, specifically Layer2 development. All data has been updated to reflect this addition below.
+
 
 ### Core Unit Name
 
-Smart Contract Core Unit
+Protocol Engineering Core Unit
 
 ### Budget Considerations
 
@@ -49,37 +54,38 @@ Compiling the above considerations along with market/competitor research has hel
 
 ### Budget
 
-The yearly budget request for the Smart Contract Core Unit is $5.5m. This equates to a $458,333 monthly expense to support the team mandate.
+The yearly budget request for the Protocol Engineering Core Unit is $6.12m. This equates to a $510k monthly expense to support the team mandate.
 
-This budget secures a team of 10 - 14 full-time and part-time smart contract engineers, including a team facilitator. It also includes coverage for all operational costs, audits and overheads as presented below;
+This budget secures a team of 11 - 16 full-time and part-time smart contract engineers, including a team facilitator. It also includes coverage for all operational costs, audits and overheads as presented below;
+
 
 |Summary||
 | --- | --- |
-|Salaries|$3,666,500|
-|Healthcare|$210,000|
-|Travel|$156,000|
-|Hardware|$39,000|
-|Referral & Sign-on Expense|$100,000|
-|Audits|$375,000|
-|Bug Bounty|$100,000|
-|Gas Costs|$150,000|
-|SC Verification & Quality Assurance|$376,000|
-|Legal and Operating expenses|$28,500|
-|Contingency Buffer|$299,000|
+|Salaries |	$4,240,250|
+|Healthcare |	$228,000|
+|Travel |	$180,000|
+|Hardware |	$45,000|
+|Referral & Sign-on Expense |	$100,000|
+|Audits |	$375,000|
+|Bug Bounty |	$100,000|
+|Gas Costs |	$150,000|
+|SC Verification & Quality Assurance |	$376,000|
+|Legal and Operating expenses |	$28,500|
+|Contingency Buffer |	$297,250|
 |||
-|Total|$5,500,000|
+|Total|	$6,120,000|
 
 Illustrating these details as a percentage of the total budget request for overall comparison:
 
-![|624x303](upload://pOhv4PjVK9rHo77k3ImqeWTa9IL.png "Chart")
+![](https://i.imgur.com/84e0tom.png)
 
 ### Budget Details:
 
 Providing additional detail with regards to the above line items;
 
-**Salaries:** The current team has 7 full-time smart contract engineers, 1 part-time smart contract engineer, and 1 proposed Team Facilitator (for a total of 9 members). The team is seeking to grow this by 5 members to a total of 14 members. This opportunity to scale will enable us to better meet the demands of the community.
+**Salaries:** The current team has 9 full-time smart contract engineers, 1 part-time smart contract engineer, and 1 proposed Team Facilitator (for a total of 11 members). The team is seeking to grow this by 5 members to a total of 16 members. This opportunity to scale will enable us to better meet the demands of the community.
 
-**Healthcare:** In order to align with traditional company offerings, this proposal includes a healthcare supplement averaging $1250 p/month for full-time employees, based on residency to account for local cost variations.
+**Healthcare:** In order to align with traditional company offerings, this proposal includes a healthcare supplement averaging $1188 p/month for full-time employees, based on residency to account for local cost variations.
 
 **Travel:** Engineers may travel to present at industry events or participate in a team offsite.
 
@@ -87,7 +93,7 @@ Providing additional detail with regards to the above line items;
 
 **Referral & Sign-on Expenses:** Provided at the discretion of the Facilitator to attract top talent to the team.
 
-**Audits:** We have accounted for approximately 5 audits (depending on the size of the code base being assessed we may need to revisit the budgeted allowance - to be approved by Governance). Typically we work with Gauntlet, PwC, Quantstamp, Trail of Bits, Consensus, OpenZepplin and Peckshield.
+**Audits:** We have accounted for approximately 5 audits (depending on the size of the code base being assessed we may need to revisit the budgeted allowance - to be approved by Governance). Typically we work with Gauntlet, PwC, Certora, Quantstamp, Trail of Bits, Consensus, OpenZepplin and Peckshield.
 
 **Bug Bounty:** Bug Bounties allow us to support whitehat involvement in the work we do. Payout amounts will be assessed and determined by the team. $100k is a conservative number for this line item, any increase will be discussed and assessed with Governance.
 
@@ -101,10 +107,10 @@ Providing additional detail with regards to the above line items;
 
 ### MKR Vesting
 
-The Smart Contract Team is proposing to award 0.1% of the existing MKR supply to each full-time team member, (equivalent to 995 MKR) vested over 4 years.
+The Protocol Engineering Team is proposing to award 0.1% of the existing MKR supply to each full-time team member, (equivalent to 995 MKR) **vested over 4 years**.
 
 **Example payout:**
-Each person staying with the project for the full first year will be entitled to 25% of their award - the equivalent of 248.75 MKR. For our team of 14 (including both full and part-time employees) this is a total of 3358.125 MKR to be awarded at the end of the first year.
+Each person staying with the project for the full first year will be entitled to 25% of their award - the equivalent of 248.75 MKR. For our team of 16 (including both full and part-time employees) this is a total of 3855.625 MKR to be awarded at the end of the first year.
 
 For reference, our current annual MKR burn is 34,054 MKR or 3.54% of remaining MKR.
 
@@ -122,9 +128,9 @@ Details:
 |1 year cliff for part-time individual:|25% of allocation (equivalent to 124.375 MKR)|
 |Total vesting period:|4 years.|
 |Vesting schedule:|25% at the end of the 1st year, 75% at equal increments over the remaining 3 years.|
-|Number of team members:|14|
-|Total team MKR over 4 years (13 full-time and 1 part-time member)|13,432.50 MKR|
-|Total team MKR at the end of 1 year (13 full-time and 1 part-time member)|3,358.125 MKR|
+|Number of team members:|16|
+|Total team MKR over 4 years (15 full-time and 1 part-time member)|15,422.50 MKR|
+|Total team MKR at the end of 1 year (15 full-time and 1 part-time member)|3,855.625 MKR|
 
 ### What the budget does not include:
 
@@ -136,7 +142,7 @@ Keeper costs: We expect a technical/operations domain team to maintain Keepers, 
 
 ### Conditions - Continuous Operation
 
-To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues, the Smart Contract Team will be requesting an upfront lump-sum of $1.2m to sit in a protocol owned multisig.
+To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues, the Protocol Engineering Team will be requesting an upfront lump-sum of $1.3m to sit in a protocol owned multisig.
 
 Calculation:
 
@@ -150,10 +156,10 @@ Detail:
 
 ### Smart Contract Implementation
 
-* Implementation: Automated implementation sending funds to a team-owned multisig
+* Implementation: Automated implementation sending funds to a multisig
 * Multisig address: TBD
-* Frequency: streaming
+* Frequency: initially monthly, then streaming once the Keg is implemented
 * Asset type: DAI (suck() function), MKR (DssVest mint() function)
-* Amount of Dai in total to be requested per month: $458,333
-* Amount of MKR to vest at the end of the 1st year: 3,358.125 MKR
-* Multisig Keyholders: The keyholders have been selected by the Smart Contract Core Unit and remain anonymous.
+* Amount of Dai in total to be requested per month: $510,000
+* Amount of MKR to vest at the end of the 1st year: 3,855.625 MKR
+* Multisig Keyholders: The keyholders have been selected by the Protocol Engineering Core Unit and remain anonymous.
