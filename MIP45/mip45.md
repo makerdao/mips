@@ -217,7 +217,11 @@ Just like in `LIQ-1.2`, the circuit breaker will be available through a `Clipper
 
 Then, the amount of collateral to attempt to purchase is computed as the minimum of the collateral left in the auction (`lot`) and the caller's specified quantity (`amt`)—the resulting value is the `slice`. This value is then multiplied by the current price of the auction to compute the DAI owed in exchange (`owe`). If `owe` exceeds the DAI collection target of the auction (`tab`), then `owe` is adjusted to be equal to `tab`, and `slice` is set to `tab / price` (i.e. the auction will not sell more collateral than is needed to cover debt+fees from the liquidated Vault).
 
-Once the collateral to buy and corresponding DAI owed are determined, a check is done to ensure that the remaining DAI collection target either exceeds a minimum amount or is zero; **if not, the function reverts. Callers should be aware of this possibility and account for it when possible.**
+To make it less likely that auctions are left in a state that is unattractive to bid on, further logic is applied if there will be both left over DAI target and collateral based on the initial determinations for `slice` and `owe`. If the remaining `tab` in such a case would be less than `chost` (a value stored by the contract, asynchronously set to `ilk.dust * ilk.chop / WAD` by the `upchost()` function), then:
+1) If the overall DAI target is less than `chost`, **the function reverts. Callers should be aware of this possibility and account for it when necessary.**
+2) Otherwise, `owe` is set to `tab - chost`, and `slice` is set to `(tab - chost) / price`.
+
+This heuristic for preventing a too-small remaining collateral amount and/or DAI target is imperfect and may fail in some situations; if this occurs, there is no serious harm to the protocol; the auction will simply remain uncompleted. However, governance may wish to fully clear such "lost" auctions via `take` or `yank` to avoid cluttering the list of active auctions each `Clipper` maintains, which could impair the performance of DEX and aggregator integrations (and possibly off-chain bots too, depending on how they are written).
 
 Next, collateral is transferred (within the protocol's [accounting module](https://docs.makerdao.com/smart-contract-modules/core-module/vat-detailed-documentation)) to the `who` address provided by the caller. If the caller provided a bytestring with greater than zero length, an external call is made to the `who` address, assuming it exposes a function, follow Solidity conventions, with the following signature:
 
@@ -297,7 +301,7 @@ If keepers decide to use the `clipperCallee` pattern, then they need not store D
 - `vat.suck`s DAI to the `kpr` as an incentive if eligible
 - fires the `Redo()` event
 
-An auction that has expired or which is currently offered at a value higher than the oracle threshold will likely not complete at favorable values. The system therefore provides a direct incentive to `Clipper.redo` the auction, resetting it's expiration and setting the starting price to match the current oracle price + buf. The redo includes the same Dai incentive to the keeper as the `Clipper.kick`, which is based on the flat fee plus the governance-defined percentage of collateral.  There is one exception to this incentive.  If the `tab` or `lot * price` remaining is under the `ilk.dust` limit, then there will be no incentive paid to `redo` the auction.  This is to help prevent incentive farming attacks where no keepers bid on dusty lots, and `Clipper.redo` is called repeatedly.  If auctions in this state build up, governance may choose to pay a keeper to clean them up.
+An auction that has expired or which is currently offered at a value higher than the oracle threshold will likely not complete at favorable values. The system therefore provides a direct incentive to `Clipper.redo` the auction, resetting it's expiration and setting the starting price to match the current oracle price + buf. The redo includes the same Dai incentive to the keeper as the `Clipper.kick`, which is based on the flat fee plus the governance-defined percentage of collateral.  There is one exception to this incentive.  If the `tab` or `lot * price` remaining is under the `Clipper.chost` limit, then there will be no incentive paid to `redo` the auction.  This is to help prevent incentive farming attacks where no keepers bid on dusty lots, and `Clipper.redo` is called repeatedly.  If auctions in this state build up, governance may choose to pay a keeper to clean them up.
 
 ### MIP45c17 Shutdown (Global Settlement, Emergency Shutdown)
 
@@ -422,6 +426,11 @@ function tip() external view returns (uint256);   // rad
 Getters for governance-configured auction parameters.
 
 ```
+function chost() external view returns (uint256);  // rad
+```
+Getter for the stored product of `Vat.ilk.dust` and `Dog.ilk.chop`. This value is used as a heuristic for whether a partial purchase will leave an auction with too little collateral and whether incentives should be given out when `redo` is called.
+
+```
 function kicks() external view returns (uint256);
 ```
 Auction counter. Increments each time an auction is initiated.
@@ -479,9 +488,9 @@ function getStatus(uint256 id) external view returns (bool needsRedo, uint256 pr
 ```
 Returns a bool if the auction is eligible for redo and the current price.
 ```
-function updust() external;
+function upchost() external;
 ```
-Updates the `dust` value stored in the contract to equal that for the corresponding `ilk` in the `Vat`. This allows `take` and `redo` to obtain `dust` with a single `SLOAD` (reading it from the `Vat` requires 5 `SLOAD` operations due to how the API is structured).
+Updates the `chost` value stored in the contract to equal the product of `Vat.ilk.dust` and `Dog.ilk.chop` (the precision of the final value is rad). This allows `take` and `redo` to obtain `chost` with a single `SLOAD` (reading `dust` from the `Vat` requires 5 `SLOAD` operations due to how the API is structured, and reading `chop` is an additional `SLOAD`).
 ```
 function yank(uint256 id) external;
 ```
@@ -544,278 +553,39 @@ Parameters, e.g. `tail`, `cusp`, or the price decease function or any of its par
 
 There are a number of auditors engaged on Liquidations 2.0.  As audit reports come in this MIP will be updated.
 
-## Formulas
+## Invariants
 
-### MIP45c26 `Dog.bark` formulas
+These invariants have not yet been formally proven, and thus should only be considered intended behavior for now.
 
-The following formulas are still a work in progress, they might contain errors.
-
-#### FV considerations
-
-This function computes `tab`, the target amount of DAI to be raised in an auction and `lot`, the collateral to put for sale.
-
-They are defined as:
+### MIP45c26 `Dog` Invariants
 
 ```
-tab = dart * ilk.rate * ilk.chop / WAD
-lot = dink = urn.ink * dart / urn.art
+sum_over_all_ilks(Dog.ilk.dirt) == Dog.Dirt                             (c26.1)
 ```
 
-`room` is defined as the remaining space of available DAI to be collected in auctions:
-```
-room = min(Hole - Dirt, ilk.hole - ilk.dirt)
-```
-
-Then `dart` is defined as:
-```
-if    urn.art < room * WAD / ilk.rate / ilk.chop
-   || (urn.art - room * WAD / ilk.rate / ilk.chop) * ilk.rate < ilk.dust:
-     dart = urn.art
-otherwise
-     dart = room * WAD / ilk.rate / ilk.chop
-```
-
-Leaving the final formulas as:
-```
-if    urn.art < room * WAD / ilk.rate / ilk.chop
-   || (urn.art - room * WAD / ilk.rate / ilk.chop) * ilk.rate < ilk.dust:
-     tab = urn.art * ilk.rate * ilk.chop / WAD
-     lot = urn.ink
-otherwise
-     # approximately equal to room, but in general not exactly equal due to rounding error
-     tab = room * WAD / ilk.rate / ilk.chop * ilk.rate * ilk.chop / WAD
-     lot = urn.ink * (room * WAD / ilk.rate / ilk.chop) / urn.art
-```
-
-##### Invariants:
+### MIP45c27 `Clipper` Invariants
 
 ```
-dink <= urn.ink
-```
-```
-dart <= urn.art
-```
-```
-dart / urn.art == dink / urn.ink
-```
-```
-urn.art' / urn.art == urn.ink' / urn.ink
-```
-```
-tab <= min(ilk.hole + ilk.dust - ilk.dirt, Hole + max(ilk[*].dust) - Dirt)
-considering ilk[*].dust can't change after set up
+sum_over_auction_ids(Clipper.sales[id].lot) <= Vat.gem(Clipper)         (c27.1)
 ```
 
-#### Implementation breakdown
+The above is an inequality (and not an _equality_) because it is impossible to prevent a user or contract from choosing to send collateral to a `Clipper`, even though it only makes sense for the `Dog` to do so. Governance (or a new module) could create a violation of this property by calling `kick` without transferring appropriate collateral to the `Clipper`. Thus this is actually a pseudo-invariant that only holds if callers of `kick` respect the requirement to send collateral to the `Clipper`, but it should hold for the live system if deployment and authorization is done correctly. It should hold if only active auctions are summed over as well.
 
-This function computes `tab`, the target amount of DAI to be raised in an auction, and `lot`, the collateral to be auctioned off. They are defined as:
-
-    tab = dart * ilk.rate * ilk.chop / WAD                                  (A)
-    lot = dink = urn.ink * dart / urn.art                                   (B)
-
-##### Liquidations and normalized debt
-
-The debt of a vault is expressed in normalized terms:
-
-    vault.debt = vault.art * ilk.rate                                       (C)
-
-This normalized debt is decreased after a liquidation is triggered:
-
-    vault.art' = vault.art - dart                                           (D)
-
-This `dart` value stands for `delta art` and it is equal to or less than the normalized debt:
-
-    dart <= vault.art                                                       (E)
-
-The computation of `dart` depends on the `hole` and `dust` restrictions as explained below.
-
-##### `hole` restrictions
-
-When a liquidation is successfully started, its `tab` value is added to the collateral's `dirt` value and to the global Dirt value:
-
-    ilk.dirt' = ilk.dirt + tab                                              (F)
-    Dirt'     = Dirt     + tab                                              (G)
-
-To prevent too much DAI liquidity demand from being created at once, the Dog.bark function reverts if:
-
-    Hole <= Dirt || ilk.hole <= ilk.dirt                                    (H)
-
-Note that Dirt may exceed Hole, or ilk.dirt may exceed ilk.hole, by a small margin if the Vault would be left in a dusty (urn.art * ilk.rate < dust) by a partial liquidation;
-in such a case, the entire Vault is liquidated in order to avoiding creating Vaults that will never be liquidated due to unprofitability. The size of the excess should be bounded as follows
-(assuming the values of the parameters appearing in the formula did not change since the last time time the bound held true):
-
-    ilk.dirt <= ilk.hole +       (ilk.dust - 1) * ilk.chop / WAD - 1        (I)
-        Dirt <=     Hole + max { (ilk.dust - 1) * ilk.chop / WAD - 1 }      (J)
-
-The maximum in (J) is taken over all valid ilks.
-
-##### Definition of `dart` in terms of `room`
-
-`room` is defined as the remaining space of available DAI to be offered in auctions:
-
-    room = min(Hole - Dirt, ilk.hole - ilk.dirt)
-
-Then `dart` is defined as:
-
-    dart = vault.art
-                                             , for vault.art * ilk.rate <= room
-                                                || (vault.art * ilk.rate > room
-                                         && vault.art * ilk.rate < room + dust)
-    dart = room / ilk.rate / ilk.chop                               , otherwise
-
-##### `dust` restrictions
-
-When a vault is partially liquidated because of `hole` restrictions, its new debt value cannot be dusty. This means that it has to be either zero, or at least equal to the collateral's `dust` value:
-
-    vault.art' * ilk.rate >= ilk.dust                                      , or
-    vault.art' = 0                                                          (J)
-
-Solving for `dart` in both cases using equation `D`,
-
-    vault.art' >= ilk.dust / ilk.rate
-    vault.art - dart >= ilk.dust / ilk.rate
-    -dart >= ilk.dust / ilk.rate - vault.art
-    dart <= vault.art - ilk.dust / ilk.rate                                , or
-
-    vault.art - dart = 0
-    dart = vault.art                                                        (K)
-
-When the value of `dart` is one such that `vault.art'` will be dusty, the whole vault is liquidated instead, even if it surpasses the `hole` restrictions. In order to obtain the range in which this is the case, we negate equation `J` and solve for `dart`:
-
-    vault.art' * ilk.rate < ilk.dust && vault.art' > 0
-    vault.art' < ilk.dust / ilk.rate && vault.art' > 0
-    0 < vault.art' < ilk.dust / ilk.rate
-    0 < vault.art - dart < ilk.dust / ilk.rate
-    -vault.art < -dart < ilk.dust / ilk.rate - vault.art
-    vault.art > dart > vault.art - ilk.dust / ilk.rate
-    vault.art - ilk.dust / ilk.rate < dart < vault.art                      (L)
-
-##### General equation for `tab` in terms of `dart`
-
-    tab = min(
-            dart * ilk.rate * ilk.chop,
-            ilk.hole - ilk.dirt,
-            Hole - Dirt
-          )                       , for dart <= vault.art - ilk.dust / ilk.rate
-
-    tab = vault.art * ilk.rate * ilk.chop
-                      , for vault.art - ilk.dust / ilk.rate < dart <= vault.art
-
-##### General equations for `tab` and `lot`
-
-    tab = vault.art * ilk.rate * ilk.chop
-    lot = vault.ink                          , for vault.art * ilk.rate <= room
-                                                 || (vault.art * ilk.rate> room
-                                                    && vault.art < room + dust)
-
-    tab = room
-    lot = vault.ink * (room / ilk.rate / ilk.chop) / vault.art      , otherwise
-
-### MIP45c27 `Clipper.take` formulas
-
-The following formulas are still a work in progress, they might contain errors.
-
-#### FV considerations
-
-This function computes `owe` as the amount of DAI to pay in the auction
-and `slice` as the amount of collateral being bought for that DAI paid
+### MIP45c28 Invariants involving quantities from both the `Dog` and `Clipper
 
 ```
-amt = desired max amount of collateral being purchased
-tab = current amount of DAI to be recovered in the auction
-lot = maximum amount of collateral available for selling
-abacus.price = current price of collateral
+sum_over_auctions_ids_and_ilks(Dog.ilk.clip.sales[id].tab) == Dog.Dirt  (c28.1)
 ```
 
-The values of `owe` and `slice` will be
-defined according to these different cases:
+The above should hold if only active auctions are summed over as well.
 
 ```
-if min(lot, amt) * abacus.price >= tab
-    owe = tab
-    slice = tab / abacus.price
-otherwise
-    if amt < lot && tab - amt * abacus.price < ilk.dust
-        if tab > ilk.dust
-            owe = tab - ilk.dust
-            slice = owe / abacus.price
-        otherwise
-            tx fails
-    otherwise
-        owe = min(lot, amt) * abacus.price
-        slice = min(lot, amt)
+sum_over_auctions_ids(Dog.ilk.clip.sales[id].tab) == Dog.ilk.dirt       (c28.2)
 ```
 
-#### Implementation breakdown
+The above should hold if only active auctions are summed over as well.
 
-This function computes `owe`, i.e. the amount of DAI needed to purchase
-`amt` of collateral at the current price, as determined by the auction's
-abacus:
-
-    owe = amt * abacus.price
-
-If `amt` is equal or higher than the auction's `lot`, it means that all
-the available collateral is being bought.
-
-    owe = auction.lot * abacus.price             , for amt >= auction.lot
-    owe = amt * abacus.price                                  , otherwise
-
-Note that the first case means that the auction is over.
-Additionally, `owe` needs to be less than or equal to the auction's
-`tab`:
-
-    owe = min(auction.lot * abacus.price, auction.tab)
-                                                 , for amt >= auction.lot
-    owe = min(amt * abacus.price, auction.tab)                , otherwise
-
-After each successful call to this function, the auction's `tab` value
-decreases:
-
-    auction.tab' = auction.tab - owe
-
-However, there is a restriction regarding the resulting `tab` value: it
-cannot be less than the `dust` value of its collateral type:
-
-    auction.tab' >= collateral.dust
-
-Solving for `owe` in the two equations above:
-
-    auction.tab - owe >= collateral.dust
-    -owe >= collateral.dust - auction.tab
-    owe <= auction.tab - collateral.dust
-
-Thus, if the auction is to continue, a valid `owe` amount has to be less
-than or equal to the difference between the auction's `tab` and the
-collateral's `dust` value:
-
-    owe = min(auction.lot * abacus.price, auction.tab)
-                                                 , for amt >= auction.lot
-    owe = min(amt * abacus.price, auction.tab - collateral.dust)
-                                                              , otherwise
-
-Note that, since the first case means that the auction is over, the dust
-restriction does not apply to it.
-Another case in which the auction is over is when
-
-    owe = auction.tab
-
-In this case, the `dust` value is also irrelevant. On the other hand, we
-know that
-
-    owe = amt * abacus.price
-
-Solving for `amt` in the two equations above:
-
-    auction.tab = amt * abacus.price
-    amt = auction.tab / abacus.price
-
-Thus, the general computation of `owe` can be expressed as:
-
-    owe = min(auction.lot * abacus.price, auction.tab)
-                                                 , for amt >= auction.lot
-    owe = auction.tab              , for amt = auction.tab / abacus.price
-    owe = min(amt * abacus.price, auction.tab - collateral.dust)
-                                                              , otherwise
+Note that (c28.1) and (c28.2) together imply (c26.1).
 
 ## Licensing
 
