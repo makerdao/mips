@@ -10,6 +10,7 @@ Following the [Pre-MIP Discussion](https://forum.makerdao.com/t/debt-ceiling-ins
 MIP#: 27
 Title: Debt Ceiling Instant Access Module
 Author(s):  Smart Contracts Domain Team
+Tags: technical, module, smart-contracts
 Type: Technical
 Status: Accepted
 Date Proposed: 2020-10-07

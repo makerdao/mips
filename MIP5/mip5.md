@@ -6,6 +6,7 @@ MIP#: 5
 Title: Emergency Voting System
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
+Tags: process, governance, emergency, mip-set, core-governance-mipset
 Type: Process
 Status: Obsolete
 Date Proposed: 2020-04-06

@@ -7,6 +7,7 @@ MIP#: 16
 Title: The Weekly Governance Cycle
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
+Tags: process, governance
 Type: Process
 Status: Accepted
 Date Proposed: 2020-07-01

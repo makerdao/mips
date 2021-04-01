@@ -6,6 +6,7 @@ MIP#: 0
 Title: The Maker Improvement Proposal Framework
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom
+Tags: process, governance
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06

@@ -6,6 +6,7 @@ MIP#: 41
 Title: Facilitator Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
+Tags: process, core-unit-framework, personnel-xboarding, mip-set, core-unit-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2021-01-18
