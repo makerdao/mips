@@ -547,7 +547,7 @@ If we set either `Dog.Hole` or `ilk.hole` too low, we run the risk of not being 
 
 ### Auction Parameter Changes Affect Running Auctions
 
-Parameters, e.g. `tail`, `cusp`, or the price decrease function or any of its parameters, can be changed at any time by governance and will affect the behavior of running auctions. Integrators should take this possibility into account, reasoning through how sudden change in parameters would impact their bidding strategies. Governance should endeavor to change parameters infrequently and if possible, only when there are not any auctions that will be affected.
+Parameters, e.g. `tail`, `cusp`, or the price decrease function or any of its parameters, can be changed at any time by governance and will affect the behavior of running auctions. Integrators should take this possibility into account, reasoning through how sudden changes in parameters would impact their bidding strategies. Governance should endeavor to change parameters infrequently and if possible, only when there are not any auctions that will be affected.
 
 ## Audits
 
