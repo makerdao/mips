@@ -6,6 +6,7 @@ MIP#: 6
 Title: Collateral Onboarding Application
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (Mitote), Helge Andreas Qvam (@planet_X)
+Tags: process, collateral-onboarding, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06

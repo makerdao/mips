@@ -6,6 +6,7 @@ MIP#: 13
 Title: Declarations of Intent
 Author(s): @LongForWisdom
 Contributors: n/a
+Tags: process, governance
 Type: Process
 Status: Accepted
 Date Proposed: 2020-05-12

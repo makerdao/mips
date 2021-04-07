@@ -7,6 +7,7 @@ MIP#: 29
 Title: Peg Stability Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
+Tags: technical, module, smart-contracts
 Type: Technical
 Status: Accepted
 Date Proposed: 2020-11-09

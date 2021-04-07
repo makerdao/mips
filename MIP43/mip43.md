@@ -7,6 +7,7 @@ MIP#: 43
 Title: Term Lending Module (TLM)
 Author(s): Alberto Cuesta Cañada (@acuestacanada), Lev Livnev(@equivrel), Allan Niemerg (@niemerg)
 Contributors: n/a
+Tags: technical, smart-contracts
 Type: Technical
 Status: Accepted
 Date Proposed: 2021-01-21

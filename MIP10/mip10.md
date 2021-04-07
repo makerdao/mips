@@ -5,6 +5,7 @@
 MIP#: 10
 Title: Oracle Management
 Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
+Tags: process, oracles, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06

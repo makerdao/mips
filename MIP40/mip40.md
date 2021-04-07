@@ -6,6 +6,7 @@ MIP#: 40
 Title: Budget Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
+Tags: process, core-unit-framework, mip-set, mip-set, core-unit-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2021-01-18
