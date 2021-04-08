@@ -10,7 +10,7 @@ Type: General
 Status: RFC
 Date Proposed: 2021-04-07
 Date Ratified: yyyy-mm-dd
-Dependencies: n/a
+Dependencies: MIP0, MIP16
 Replaces: MIP3
 ```
 
@@ -53,7 +53,7 @@ First, it aims to reduce the cost of participation for governance by reducing th
 
 Second, it aims to increase protocol security by ensuring that only one executive vote is required per week under normal circumstances. It has been observed that the amount of MKR on the hat suffers during weeks where we have multiple executive votes, and this has caused some concern among the Smart Contracts Team.
 
-Third, it aims to remove the possibility of a monthly governance executive failing due to a lack of participation combined with a 4 day executive proposal expiry. This could be a significant setback for the DAOT. Additionall, the difficulty in determining if the executive failed due to lack of participation or opposition would complicate the steps taken after that eventuality. 
+Third, it aims to remove the possibility of a monthly governance executive failing due to a lack of participation combined with a 4-day executive proposal expiry. This could be a significant setback for the DAOT. Additionally, the difficulty in determining if the executive failed due to lack of participation or opposition would complicate the steps taken after that eventuality. 
 
 The proposed monthly governance cycle should resolve these issues and allow the monthly governance cycle to proceed more efficiently, with less of a security risk, and with additional participation.
 
@@ -79,7 +79,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 - The Governance Facilitators must come to consensus on whether each submission warrants moving forward to a Ratification Poll.
     - Governance Facilitators may consider blocking a proposal if they believe that moving forward to a Ratification Poll would negatively affect community cohesion.
     - If the Governance Facilitators prevent a proposal from moving to a Ratification Poll, they must clearly communicate their reasons for doing so via the official [forum](https://forum.makerdao.com).
-    - In the event the Governance Faciltiators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
+    - In the event the Governance Facilitators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
 
 **Week 2, Monday**
 -   The Governance facilitators publish the set of **Ratification Polls**. The format of these is defined in MIPXc2.
@@ -89,7 +89,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 -   The Ratification polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the MIP Editors.
 
 **Week 4, Thursday**
-- The Governance Facilitators do a **Governance Cycle Review** as part of the weeklly Governance and Risk meeting in which they summarize and discuss the Governance Cycle with the community.
+- The Governance Facilitators do a **Governance Cycle Review** as part of the weekly Governance and Risk meeting in which they summarize and discuss the Governance Cycle with the community.
 - The Governance Facilitators also discuss the upcoming governance cycle and potential submissions with the community.
 
 ### Governance Cycle Overview
@@ -106,7 +106,7 @@ Ratification Polls under the monthly governance cycle must meet these requiremen
 * **Type:** Binary poll (yes/no/abstain)
 
 Ratification Polls under the monthly governance cycle must contain:
-* Links to a *specific version* of a single proposal or set of related propopsals (MIP Set) within the official MIPs github.
+* Links to a *specific version* of a single proposal or set of related proposals (MIP Set) within the official MIPs GitHub.
 * The Sentence and Paragraph summaries of each included proposal.
 
 In order for a Ratification Poll to conclude successfully and the contained proposal(s) move to Accepted status, each of the following conditions must be true:
