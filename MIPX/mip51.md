@@ -117,9 +117,9 @@ In order for a Ratification Poll to conclude successfully and the contained prop
 
 ### MIP51c3: Minimum Positive Participation Changes
 
-The Minimum Positive Participation value defined in MIPXc2 may be modified via a successful polling vote under the weekly governance cycle (MIP16).
+The Minimum Positive Participation value defined in MIP51c2 may be modified via a successful polling vote under the weekly governance cycle (MIP16).
 
-If such a vote is successful, the MIP Editors will update MIPXc2 and the change will come into effect in the _following_ monthly governance cycle.
+If such a vote is successful, the MIP Editors will update MIP51c2 and the change will come into effect in the _following_ monthly governance cycle.
 
 The Minimum Positive Participation value may not be changed for Ratification Polls that are in progress under any circumstances.
 
