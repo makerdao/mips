@@ -6,7 +6,7 @@
 MIP41c4-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-03-03
 Date Ratified:
 ```
