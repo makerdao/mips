@@ -35,7 +35,7 @@ Seconds after auction start when the price reaches zero.
 
 #### `Abacus/StairstepExponentialDecrease` -- **cut** [ray]
 
-Per-`step` multiplicative factor.
+Per-`step` multiplicative factor. Initialized to zero and should be set to a valid value before the contract is used to provide prices.
 `cut = 0.99 * RAY` specifies a 1% drop every `step` seconds.
 
 #### `Abacus/StairstepExponentialDecrease` -- **step** [seconds]
@@ -43,7 +43,7 @@ Per-`step` multiplicative factor.
 Length of time between price drops.
 
 #### `Abacus/ExponentialDecrease` -- **cut** [ray]
-Per-second multiplicative factor.
+Per-second multiplicative factor. Initialized to zero and should be set to a valid value before the contract is used to provide prices.
 `cut = 0.99 * RAY` specifies a 1% drop every second.
 
 #### `Clipper` -- **buf** [ray]
