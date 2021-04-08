@@ -6,7 +6,7 @@
 MIP40c3-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-02-24
 Date Ratified:
 ```
