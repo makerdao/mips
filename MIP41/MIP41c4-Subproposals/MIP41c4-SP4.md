@@ -6,7 +6,7 @@
 MIP41c4-SP#: 4
 Author(s): Nadia Alvarez
 Contributors:
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-02-24
 Date Ratified:
 ```
