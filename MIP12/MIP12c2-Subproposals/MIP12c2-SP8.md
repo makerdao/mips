@@ -9,8 +9,11 @@ Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors: Charles St.Louis (@CPSTL), Will Remor (@williamr), Sam MacPherson (@hexonaut) 
 Status: Formal Submission (FS)
 Date Proposed: 2020-10-07
-Date ratified: <yyyy-mm-dd>
+Date ratified:
 ```
+
+## Sentence Summary
+MIP12c2-SP8 defines the documentation and work requirements for the onboarding of the BAL Collateral type.
 
 ## Specification
 

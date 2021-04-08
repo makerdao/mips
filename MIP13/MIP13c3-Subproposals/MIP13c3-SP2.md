@@ -5,13 +5,18 @@
 MIP13c3-SP#: 2
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: n/a
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-08-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-09-30
 ---
 Declaration Statement: Add support for flash-minting Dai.
 Declaration to Replace: n/a
 ```
+
+## Sentence Summary
+
+MIP13c3-SP2 is the Declaration of Intent for adding support for flash-minting Dai.
+
 ## Specification
 
 ### Context and Motivation

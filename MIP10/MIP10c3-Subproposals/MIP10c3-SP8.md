@@ -1,3 +1,5 @@
+# MIP10c3-SP8: Subproposal to Onboard Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 8
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-09-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP8 onboards the LINK/USD Oracle.
 
 ## Specification
 

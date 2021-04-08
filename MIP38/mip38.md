@@ -6,14 +6,17 @@ MIP#: 38
 Title: DAO Primitives State
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
+Tags: general, core-unit-framework, mip-set, core-unit-mipset
 Type: Informational
-Status: Formal Submission
-Date Proposed: <2021-01-18>
-Date Ratified: <yyyy-mm-dd>
+Status: Accepted
+Date Proposed: 2021-01-18
+Date Ratified: 2021-25-03
 Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
+
 ## References
+
 N/A
 
 ## Sentence Summary

@@ -5,6 +5,7 @@
 MIP#: 12
 Title: Collateral and Risk Parameter Management
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
+tags: technical, process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset
 Type: Technical, Process
 Status: Accepted
 Date Proposed: 2020-04-06

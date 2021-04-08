@@ -1,3 +1,5 @@
+# MIP10c15-SP5: Process to Appoint Light Feed (Argent Labs Limited)
+
 ## Preamble
 ```
 MIP10c15-SP#: 5
@@ -6,8 +8,11 @@ Contributors:
 Type: Process Component
 Status: RFC
 Date Proposed: 2020-07-02
-Date Ratified: <yyyy-mm-dd>
-``` 
+Date Ratified:
+```
+
+## Sentence Summary
+MIP10c15-SP5 appoints Gitcoin as a Light Feed for the Maker Oracles.
 
 ## Specification
 

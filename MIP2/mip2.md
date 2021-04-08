@@ -6,6 +6,7 @@ MIP#: 2
 Title: Launch Period
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
+Tags: process, governance, mip-set, core-governance-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06

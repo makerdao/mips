@@ -8,9 +8,13 @@ MIP to be Amended: MIP6
 Author(s): Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Status: Accepted
-Date of Amendment Submission: 2020-05-28
-Date of ratification: 2020-06-25
+Date Proposed: 2020-05-28
+Date Ratified: 2020-06-25
 ```
+
+## Sentence Summary
+
+Removing the requirement that Domain Greenlight process (MIP8) be completed before Community Greenlight Polls take place.
 
 ## Specification
 
