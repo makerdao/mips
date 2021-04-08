@@ -6,7 +6,7 @@
 MIP41c4-SP#: 6
 Author(s): Coulter Mulligan & Mike Porcaro
 Contributors: 
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-03-03
 Date Ratified:
 ```
