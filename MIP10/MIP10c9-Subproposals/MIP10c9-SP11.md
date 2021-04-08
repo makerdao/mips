@@ -1,4 +1,5 @@
-## Preamble
+# MIP10c9-SP11: Subproposal to Whitelist PT Pricing Contract for ETH/USD Oracle Access
+
 ## Preamble
 ```
 MIP10c9-SP#: 11
@@ -6,8 +7,11 @@ Author(s): Desmond Ho, Anton Buenavista
 Contributors: Desmond Ho, Anton Buenavista
 Status: Formal Submission
 Date Proposed: 2020-09-16
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c9-SP11 whitelists PT Pricing Contract for ETH/USD Oracle Access.
 
 ## Disclaimer
 

@@ -1,16 +1,19 @@
-
-# MIP40c2-SP4: Core Unit Budget, GRO-001
+# MIP40c3-SP4: Core Unit Budget, GRO-001
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 4
+MIP40c3-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+
+MIP40c3-SP4 adds the budget for Core Unit GRO-001: Growth.
 
 ## Specification
 

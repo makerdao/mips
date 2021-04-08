@@ -6,10 +6,14 @@
 MIP41c4-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-01-26
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 ```
+
+## Sentence Summary
+
+MIP41c4-SP1 onboards Sébastien Derivaux as Facilitator for Core Unit RWF-001: Real-World Finance.
 
 ## Specification
 

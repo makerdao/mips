@@ -6,10 +6,14 @@
 MIP39c2-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+
+MIP39c2-SP4 adds Core Unit GRO-001: Growth.
 
 ## Specification
 

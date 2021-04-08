@@ -6,13 +6,16 @@
 MIP28c7-SP#: 1
 Author(s): @AmyJung
 Contributors:
-Status: Approved
+Status: Accepted
 Date Proposed: 2020-10-07
 Date Ratified: 2020-11-27
 ---
 Domain Role: Operational Support Domain Facilitator
 Proposed Applicant: @AmyJung
 ```
+
+## Sentence Summary
+MIP28c7-SP1 onboards Amy Jung as Operational Support Domain Facilitator.
 
 ## Application
 

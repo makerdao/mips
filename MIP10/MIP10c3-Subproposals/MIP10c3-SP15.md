@@ -1,3 +1,5 @@
+# MIP10c3-SP15: Subproposal to Onboard the UNI/USD Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 15
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-11-27
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP15 onboards the UNI/USD Oracle.
 
 ## Specification
 
