@@ -1,8 +1,8 @@
-# MIPX: Monthly Governance Cycle
+# MIP51: Monthly Governance Cycle
 
 ## Preamble
 ```
-MIP#: X
+MIP#: 51
 Title: Monthly Governance Cycle
 Author(s): @LongForWisdom 
 Contributors: Charles St.Louis (@CPSTL), Payton Rose (@prose11), Pablo (@Blimpa), @Elihu
@@ -19,27 +19,27 @@ N/A
 
 ## Sentence Summary
 
-MIPX defines a monthly Governance Cycle that provides a predictable framework for Maker governance decisions.
+MIP51 defines a monthly Governance Cycle that provides a predictable framework for Maker governance decisions.
 
 ## Paragraph Summary
 
-MIPX defines a monthly Governance Cycle that provides a predictable framework for Maker governance decisions. It replaces the existing [Monthly Governance Cycle (MIP3)](https://github.com/makerdao/mips/tree/master/MIP3). This new Governance Cycle aims to provide a more efficient and accessible framework for Maker Governance decisions.
+MIP51 defines a monthly Governance Cycle that provides a predictable framework for Maker governance decisions. It replaces the existing [Monthly Governance Cycle (MIP3)](https://github.com/makerdao/mips/tree/master/MIP3). This new Governance Cycle aims to provide a more efficient and accessible framework for Maker Governance decisions.
 
 ## Component Summary
 
-**MIPXc1: Governance Cycle Breakdown**
+**MIP51c1: Governance Cycle Breakdown**
 
 Breaks the Governance Cycle down into the actions that take place each week of the monthly cycle.
 
-**MIPXc2: Ratification Poll**
+**MIP51c2: Ratification Poll**
 
 Defines the parameters for a Ratification Poll under the MIPs process.
 
-**MIPXc3: Minimum Positive Participation Changes**
+**MIP51c3: Minimum Positive Participation Changes**
 
 Defines the process for modifying the Minimum Positive Participation required for Ratification Polls to pass.
 
-**MIPXc4: Calendar Exceptions** 
+**MIP51c4: Calendar Exceptions** 
 
 Defines exceptions to the monthly governance cycle due to holidays.
 
@@ -61,7 +61,7 @@ Additionally, the new Monthly Governance Cycle is less complex and hopefully mor
 
 ## Specification / Proposal Details
 
-### MIPXc1: Governance Cycle Breakdown
+### MIP51c1: Governance Cycle Breakdown
 
 The first Monday of each calendar month marks the beginning of the monthly governance cycle.
 
@@ -82,7 +82,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
     - In the event the Governance Facilitators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
 
 **Week 2, Monday**
--   The Governance facilitators publish the set of **Ratification Polls**. The format of these is defined in MIPXc2.
+-   The Governance facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
 -   Ratification Polls are published to the [community github](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [voting portal](https://vote.makerdao.com/).
 
 **Week 4, Monday**
@@ -98,7 +98,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 
 ---
 
-### MIPXc2: Ratification Poll
+### MIP51c2: Ratification Poll
 
 Ratification Polls under the monthly governance cycle must meet these requirements:
 * **Duration:** 2 weeks
@@ -115,7 +115,7 @@ In order for a Ratification Poll to conclude successfully and the contained prop
 
 ---
 
-### MIPXc3: Minimum Positive Participation Changes
+### MIP51c3: Minimum Positive Participation Changes
 
 The Minimum Positive Participation value defined in MIPXc2 may be modified via a successful polling vote under the weekly governance cycle (MIP16).
 
@@ -125,7 +125,7 @@ The Minimum Positive Participation value may not be changed for Ratification Pol
 
 ---
 
-### MIPXc4: Calendar Exceptions
+### MIP51c4: Calendar Exceptions
 
 Due to the multitude of cultural and religious holidays occurring in and around the month of December, there will be no monthly governance cycle in the December of each year.
 
