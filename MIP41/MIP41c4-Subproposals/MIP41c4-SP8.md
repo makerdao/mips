@@ -6,6 +6,7 @@
 MIP41c4-SP#: 8
 Author(s): David Utrobin
 Contributors:
+Tags: core-unit, personnel-xboarding, mip-set, COM-001-mipset
 Status: Request for Comments (RFC)
 Date Applied: 2021-03-12
 Date Ratified:

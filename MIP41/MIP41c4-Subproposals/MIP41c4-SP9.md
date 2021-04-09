@@ -6,6 +6,7 @@
 MIP40c2-SP#: 9
 Author: Kathleen Chu
 Contributors:  
+Tags: core-unit, personnel-xboarding, mip-set, CPM-001-mipset
 Status: Request for Comments (RFC)
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>

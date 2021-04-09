@@ -5,6 +5,7 @@
 ```
 MIP41c4-SP#: 7
 Author(s): Derek Flossman
+Tags: core-unit, mip-set, smart-contracts, personnel-xboarding, protocol-engineering-mipset
 Contributors:
 Status: Formal Submission (FS)
 Date Applied: 2021-03-02

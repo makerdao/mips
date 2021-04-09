@@ -5,6 +5,7 @@
 ```
 MIP40c3-SP#: 9
 Author(s): Kathleen Chu
+Tags: core-unit, core-unit-budget, mip-set, CPM-001-mipset
 Status: Request For Comments (RFC)
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>

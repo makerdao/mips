@@ -6,6 +6,7 @@
 MIP39c2-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
+Tags: governance, core-unit, mip-set, GOV-001-mipset
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03

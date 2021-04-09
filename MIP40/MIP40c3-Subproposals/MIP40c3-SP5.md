@@ -6,6 +6,7 @@
 MIP41c4-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
+Tags: core-unit, core-unit-budget, mip-set, MKT-001
 Status: Formal Submission
 Date Applied: 2021-03-03
 Date Ratified:

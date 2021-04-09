@@ -6,6 +6,7 @@
 MIP39c2-SP#: 6
 Author(s): Mike Porcaro, Coulter Mulligan
 Contributors: 
+Tags: core-unit, mip-set, MDS-001-mipset
 Status: Formal Submission
 Date Applied: 2021-03-03
 Date Ratified:

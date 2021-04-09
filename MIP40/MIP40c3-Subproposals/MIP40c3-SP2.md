@@ -5,7 +5,8 @@
 ```
 MIP40c3-SP#: 2
 Author(s): Primož Kordež
-Contributors: 
+Contributors:
+Tags: risk, core-unit, core-unit-budget, mip-set, RISK-001-mipset
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03

@@ -6,6 +6,7 @@
 MIP39c2-SP#: 2
 Author(s): Primož Kordež (@Primoz)
 Contributors: 
+Tags: risk, core-unit, mip-set, RISK-001-mipset
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03

@@ -6,6 +6,7 @@
 MIP41c4-SP#:2
 Author(s): Primož Kordež
 Contributors: 
+Tags: risk, core-unit, core-unit-facilitator, personnel-xboarding, mip-set, RISK-001-mipset
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03

@@ -6,6 +6,7 @@
 MIP41c4-SP#: 10
 Author(s): @juanjuan
 Contributors:
+Tags: core-unit, personnel-xboarding, mip-set, SES-001-mipset
 Status: Request for Comments (RFC)
 Date Applied: 2021-04-07
 Date Ratified: <yyyy-mm-dd>

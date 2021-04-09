@@ -6,6 +6,7 @@
 MIP39c2-SP: 9
 Authors: Kathleen Chu, Maria Magenes
 Contributors: Sahabia Yakubu, Kaori Sato, Francesco Alberti, Nathan Kim
+Tags: core-unit, mip-set, CPM-001-mipset
 Status: Formal Submission
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>

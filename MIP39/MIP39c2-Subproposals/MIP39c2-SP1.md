@@ -6,6 +6,7 @@
 MIP39c2-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
+Tags: real-world-finance, core-unit, mip-set, RWF-001-mipset
 Status: Approved
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03

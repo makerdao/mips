@@ -6,6 +6,7 @@
 MIP40c3-SP#: 6
 Author(s): Coulter Mulligan & Mike Porcaro
 Contributors:
+Tags: core-unit, core-unit-budget, mip-set, MDS-001-mipset
 Status: Formal Submission
 Date Applied: 2021-03-03
 Date Ratified:
