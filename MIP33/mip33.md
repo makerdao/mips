@@ -9,6 +9,7 @@ this MIP is to formalize the request for a Maker Stability Price Module.
 MIP#: 33
 Title: Maker Stability Price Module.
 Author(s):  Alexis
+Tags: technical, MKR
 Type: Technical
 Status: Request for Comments (RFC)
 Date Proposed: 2020-12-27

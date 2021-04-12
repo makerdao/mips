@@ -7,6 +7,7 @@ MIP#: 49
 Title: Governance Rewards
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
 Contributors:@LongForWisdom, @JuanJuan, @Elihu
+Tags: general, governance, MKR, incentive
 Type: General
 Status: RFC
 Date Proposed: 2021-02-03

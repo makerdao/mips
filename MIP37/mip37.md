@@ -6,6 +6,7 @@
 MIP#: 37
 Title: Static Reserve For Governance
 Author(s):  Alexis
+Tags: technical, reserve
 Type: Technical
 Status: Request for Comments (RFC)
 Date Proposed: 2021-01-15

@@ -7,6 +7,7 @@ MIP#: 42
 Title: Proposed Compensation Addendum for MakerDAO Contributors
 Author(s): @aburban90, @kevinwildenradt 
 Contributors: n/a
+Tags: process, MKR, incentive
 Type: Process
 Status: RFC
 Date Proposed: <2021-01-20>

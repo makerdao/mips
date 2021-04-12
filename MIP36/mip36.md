@@ -6,6 +6,7 @@ MIP#: 36
 Title: Peg Stability - Compound Governance Dai Leverage
 Author(s): Alexis
 Contributors: None
+Tags: technical, PSM
 Type: Technical
 Status: Request for Comments (RFC)
 Date Proposed: 2021-01-09

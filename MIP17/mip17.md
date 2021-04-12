@@ -7,6 +7,7 @@ MIP#:17
 Title: Weekly Actual Debt Ceiling and Actual Risk Premium Adjustments
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors:
+Tags: process, risk
 Type: Process
 Status: Obsolete
 Date Proposed: 2020-07-02

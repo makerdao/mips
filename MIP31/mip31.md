@@ -7,6 +7,7 @@ MIP#: 31
 Title: Active Reserve AMM (`dss-ara`)
 Author(s): Alexis
 Contributors: n/a
+Tags: technical, reserve
 Type: Technical
 Status: RFC
 Date Proposed: <2020-12-15>

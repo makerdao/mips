@@ -7,6 +7,7 @@ MIP#: 50
 Title: Direct Deposit Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
+Tags: technical, integrations
 Type: Technical
 Status: Request for Comments
 Date Proposed: 2021-04-07

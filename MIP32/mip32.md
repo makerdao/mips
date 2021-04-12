@@ -6,6 +6,7 @@ MIP#: 32
 Title: Peg Stability Module - Compound Mixed Exposure
 Author(s): Alexis
 Contributors: None
+Tags: technical, PSM
 Type: Technical
 Status: Request for Comments (RFC)
 Date Proposed: 2020-12-18
