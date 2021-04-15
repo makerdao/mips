@@ -28,7 +28,7 @@ MIP15 proposes a process for applying critical bug fixes to the Maker Protocol.
 
 As a means to protect MKR holders and the greater Maker community from a critical vulnerability, a special spell maneuver can be used in lieu of an unplanned Emergency Shutdown, allowing protocol fixes to be applied with zero downtime.
 
-This MIP proposes a special spell mechanism called a "dark spell" that conceals sensitive bytecode for the full duration of the governance vote and Governance Security Module (GSM) delay. A necessary mechanism as on-chain bytecode awaiting the GSM delay can be reverse-engineered by sophisticated attackers before going into effect. This is an improvement over using Emergency Shutdown but introduces a level of trust between the community and the Smart Contracts (SC) domain team.
+This MIP proposes a special spell mechanism called a "dark spell" that conceals sensitive bytecode for the full duration of the governance vote and Governance Security Module (GSM) delay. A necessary mechanism, as on-chain bytecode awaiting the GSM delay can be reverse-engineered by sophisticated attackers before going into effect. This is an improvement over using Emergency Shutdown but introduces a level of trust between the community and the Smart Contracts (SC) domain team.
 
 ## Component Summary
 
@@ -42,7 +42,7 @@ A step-by-step walkthrough of how a dark spell is deployed and an overview of wh
 Defines the critical bug criteria that necessitate a dark spell.
 
 **MIP15c4: Dark Spell Governance Vote**
-Defines the required governance processes for implementing a dark spell, independent of the monthly governance cycle.
+Defines the required governance processes for implementing a dark spell, independent of the monthly Governance Cycle.
 
 **MIP15c5: Policy**
 Describes the Policy for handling critical vulnerabilities in the Maker Protocol.
@@ -58,7 +58,7 @@ Defines the process for the removal of a trusted third party.
 
 ## Motivation
 
-A dark spell is necessary because it conceals the bytecode that fixes the critical bug. When the Maker Protocol has a non-zero GSM delay, protocol changes must pass a governance vote in order to be scheduled but cannot be applied until the GSM delay duration has passed. Furthermore, if a normal spell were used in such a situation, the bytecode would be available for anyone to inspect for the length of the delay. This would open up the opportunity for the bytecode to be reverse-engineered, allowing sophisticated attackers to exploit the available information before the bug is fixed.
+A dark spell is necessary because it conceals the bytecode that fixes the critical bug. When the Maker Protocol has a non-zero GSM delay, protocol changes must pass a governance vote in order to be scheduled but cannot be applied until the GSM delay duration has passed. If a normal spell were used in such a situation, the bytecode would be available for anyone to inspect for the length of the delay. This would open up the opportunity for the bytecode to be reverse-engineered, allowing sophisticated attackers to exploit the available information before the bug is fixed.
 
 ## Specification / Proposal Details
 
@@ -109,7 +109,7 @@ If all of the above criteria are met, the step-by-step process outlined in MIP15
 
 A dark spell should be used only in exigent circumstances. Therefore, the dark spell will be expedited through the Maker governance process via a separate vote, unbundled from any other proposed Protocol changes or Maker Improvement Proposals. This additional process is intended to give the dark spell governance vote the greatest chance of success, as voters will be voting on a specific, individual issue.
 
-Furthermore, including the dark spell governance vote into the monthly governance cycle is not advised, as the timing of the vote may not align with the current governance cycle stage.
+Furthermore, including the dark spell governance vote into the monthly Governance Cycle is not advised, as the timing of the vote may not align with the current Governance Cycle stage.
 
 **Governance Vote Template:**
 
