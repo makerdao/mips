@@ -6,7 +6,7 @@ MIP#: 51
 Title: Monthly Governance Cycle
 Author(s): @LongForWisdom 
 Contributors: Charles St.Louis (@CPSTL), Payton Rose (@prose11), Pablo (@Blimpa), @Elihu
-Tags: general, governance
+Tags: general, governance, process
 Type: General
 Status: RFC
 Date Proposed: 2021-04-07
