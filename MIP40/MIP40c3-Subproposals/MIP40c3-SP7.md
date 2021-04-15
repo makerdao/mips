@@ -155,11 +155,21 @@ Detail:
 * At the conclusion of the year, the lump sum will remain in the multisig for the following year and may be increased at that point in time due to team growth or the desire for an increased runway.
 
 ### Smart Contract Implementation
+Protocol Engineering Core Unit Multisig: 
+`0xe2c16c308b843eD02B09156388Cb240cEd58C01c`
+- Implementation: Initial distribution to the Core Unit multisig will be manual until the Keg is in place.
+- Ownership: This multisig will be anonymous individuals selected by the Protocol Engineering Team.
+- Frequency: Protocol distributions to the multisig will occur during the last week of the month.
 
-* Implementation: Automated implementation sending funds to a multisig
-* Multisig address: TBD
-* Frequency: initially monthly, then streaming once the Keg is implemented
-* Asset type: DAI (suck() function), MKR (DssVest mint() function)
-* Amount of Dai in total to be requested per month: $510,000
-* Amount of MKR to vest at the end of the 1st year: 3,855.625 MKR
-* Multisig Keyholders: The keyholders have been selected by the Protocol Engineering Core Unit and remain anonymous.
+Protocol Engineering Continuous Operation Multisig: `0x4b33AC5b70B30F56bDc6173C7adC691356321F77`
+
+* Implementation: This multisig will be funded in full upon successful onboarding of the Protocol Engineering Core Unit.
+* Access: In order for funds to be accessed from this multisig, the Maker protocol must be in a state where it is unable to pay team salaries due to protocol error, shutdown and/or under governance attack.
+* Ownership: The Continuous Operation Multisig will require 2 of 3 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed: 
+
+`Protocol Engineering CU Multisig: 0xe2c16c308b843eD02B09156388Cb240cEd58C01c` 
+
+`Interim DAO Multisig: 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff`
+
+`Growth CU: 0x7800C137A645c07132886539217ce192b9F0528e`
+
