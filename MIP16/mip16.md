@@ -78,12 +78,12 @@ The goal of the standardized Weekly Governance Cycle is to formalize the current
 ![weekly_monthly-gov](https://user-images.githubusercontent.com/32653033/85932289-b0dc7880-b898-11ea-8a11-b1379dde04fb.png)
 
 **Important Notes:**
-- If a non-standard weekly poll ("signal request") has been proposed, it will also be put in the weekly poll. To create a non-standard weekly poll requires an urgent and apparent reason from a timing perspective to justify it. It is important to note that a non-standard weekly poll cannot be used for long-term decisions and requires consensus from the Governance facilitators before it can be accepted and published.
+- If a non-standard weekly poll ("signal request") has been proposed, it will also be put in the weekly poll. To create a non-standard weekly poll requires an urgent and apparent reason from a timing perspective to justify it. It is important to note that a non-standard weekly poll cannot be used for long-term decisions and requires consensus from the Governance Facilitators before it can be accepted and published.
 
 ---
 ### MIP16c3: Limiting Governance to MIP-defined processes
 
-With the acceptance of this MIP, non-emergency governance of the Maker Protocol must now happen under processes defined by Accepted MIPs. At the time of writing, MIPs defining governance processes include the [Core Governance MIPs Set](https://github.com/makerdao/mips#core-governance-framework). Such as [MIP3](https://github.com/makerdao/mips/tree/master/MIP3) and [MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md), which define monthly and weekly governance cycles, respectively.
+With the acceptance of this MIP, non-emergency governance of the Maker Protocol must now happen under processes defined by Accepted MIPs. At the time of writing, MIPs defining governance processes include the [Core Governance MIPs Set](https://github.com/makerdao/mips#core-governance-framework). Such as [MIP3](https://github.com/makerdao/mips/tree/master/MIP3) and [MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md), which define monthly and weekly Governance Cycles, respectively.
 
 In addition, the use of the weekly cycle as defined in this MIP should only occur where there is a specific need to use the weekly cycle as opposed to the monthly cycle. Consensus among the Governance Facilitators is required in order to make use of the weekly cycle as opposed to the monthly cycle.
 
