@@ -102,7 +102,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### Governance
 **ID** - GOV-001
-**Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows
+**Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
 **Date Ratified** -  2021-25-03
 **Mandate** - [MIP39c2-SP3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP3.md)
 **Budget Amount** - 240,000 DAI / quarter
