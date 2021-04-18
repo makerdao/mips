@@ -554,6 +554,7 @@ Parameters, e.g. `tail`, `cusp`, or the price decrease function or any of its pa
 
 [Quantstamp](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/Quantstamp_MakerDAO%20Liquidations%202.0%20-%20Final%20Report%20with%20Maker%20Comments.pdf)
 [Trail of Bits](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/Trail%20of%20Bits_MakerDAO%20Liquidations%202.0%20Final%20Report.pdf)
+[ChainSecurity](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/ChainSecurity_MakerDAO_Liquidations2.0_Final.pdf)
 [Gauntlet](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/Gauntlet_Liquidations%202.0%20Economic%20Simulation.md)
 
 ## Invariants
