@@ -536,7 +536,7 @@ In `LIQ-1.2` there is limited front-running risk as it requires capital to parti
 
 ### MIP45c23 OSM Risk for Start Price
 
-Because `Clipper.kick` and `Clipper.redo` consult the OSM for the collateral price, we are vulnerable to an oracle attack that can only be mitigated by the oracle delay, `Dog.Hole`, and `ilk.hole`.  We must rely on the number of guards in place to prevent price manipulation and oracle attacks. The fact that the price is delayed by one hour, however, prseents a risk of its own: since the price is out-of-date relative to the market, it may be either too high or too low to allow for efficient settlement given other parameters like 'buf' and the price decrease function. The consequences of either case are effectively covered by the sections on the risk of the price decreasing either too quickly or too slowly.
+Because `Clipper.kick` and `Clipper.redo` consult the OSM for the collateral price, auction settlement prices are very sensitive to an oracle attack. This is primarily mitigated by the one-hour OSM price delay, `Dog.Hole`, and `ilk.hole`. The fact that the price is delayed by one hour, however, presents a risk of its own: since the price is out-of-date relative to the market, it may be either too high or too low to allow for efficient settlement given other parameters like `buf` and the price decrease function. The consequences of either case are effectively covered by the sections on the risk of the price decreasing either too quickly or too slowly.
 
 ### MIP45c24 Setting Hole or ilk.hole Too High
 
@@ -553,7 +553,11 @@ Parameters, e.g. `tail`, `cusp`, or the price decrease function or any of its pa
 ## Audits
 
 [Quantstamp](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/Quantstamp_MakerDAO%20Liquidations%202.0%20-%20Final%20Report%20with%20Maker%20Comments.pdf)
+
 [Trail of Bits](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/Trail%20of%20Bits_MakerDAO%20Liquidations%202.0%20Final%20Report.pdf)
+
+[ChainSecurity](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/ChainSecurity_MakerDAO_Liquidations2.0_Final.pdf)
+
 [Gauntlet](https://github.com/makerdao/mcd-security/blob/master/Audit%20Reports/Liquidations_2.0/Gauntlet_Liquidations%202.0%20Economic%20Simulation.md)
 
 ## Invariants
