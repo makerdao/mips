@@ -6,6 +6,7 @@ MIP10c9-SP#:
 Author(s):
 Contributors:
 Type: Process Component
+Tags: oracles
 Status:
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>

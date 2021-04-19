@@ -6,6 +6,7 @@ MIP4c3-SP#: #
 MIP to be removed: <MIP#>
 Author(s):
 Contributors:
+Tags: mip-removal
 Status:
 Date of Removal Submission: <yyyy-mm-dd>
 Date of ratification: <yyyy-mm-dd>

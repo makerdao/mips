@@ -6,6 +6,7 @@ MIP4c2-SP#: #
 MIP to be amended: <MIP#>
 Author(s):
 Contributors:
+Tags: mip-amendment
 Status:
 Date of Amendment Submission: <yyyy-mm-dd>
 Date of ratification: <yyyy-mm-dd>

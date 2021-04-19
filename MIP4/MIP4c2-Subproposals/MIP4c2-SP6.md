@@ -7,6 +7,7 @@ MIP4c2-SP#: 6
 MIP to be amended: MIP3
 Author(s): @LongForWisdom
 Contributors:
+Tags: mip-amendment, governance
 Status: Accepted
 Date Proposed: 2020-10-05
 Date Ratified: 2020-11-27

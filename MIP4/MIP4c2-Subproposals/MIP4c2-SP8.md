@@ -7,6 +7,7 @@ MIP4c2-SP#: 8
 MIP to be amended: MIP9
 Author(s): Elihu (@Elihu)
 Contributors:
+Tags: mip-amendment, governance
 Status: Formal Submission
 Date Proposed: 2021-03-01
 Date Ratified:

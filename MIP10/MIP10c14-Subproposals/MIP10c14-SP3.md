@@ -6,6 +6,7 @@
 MIP10c14-SP#: 3
 Author(s): Elvis Hee
 Contributors: Nik Kunkel
+Tags: oracles
 Status: Accepted
 Date Proposed: 2020-06-11
 Date Ratified: 2020-07-04

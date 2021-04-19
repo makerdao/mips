@@ -7,6 +7,7 @@ MIP4c2-SP#: 5
 MIP to be Amended: MIP12
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Contributors:
+Tags: mip-amendment, collateral-onboarding
 Status: Rejected (Failed Inclusion Poll July 2020)
 Date Proposed: 2020-07-08
 Date Ratified: 

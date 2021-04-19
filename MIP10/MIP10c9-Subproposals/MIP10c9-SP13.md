@@ -6,6 +6,7 @@
 MIP10c9-SP#: 13
 Author(s): Yaron Velner
 Contributors: Yaron Velner
+Tags: oracles
 Status: Formal Submission
 Date Proposed: 2020-10-07
 Date Ratified:

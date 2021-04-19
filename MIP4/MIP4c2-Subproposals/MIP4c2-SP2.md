@@ -7,6 +7,7 @@ MIP4c2-SP#: 2
 MIP to be Amended: MIP8
 Author(s): Charles St.Louis (@CPSTL), @LongForWisdom, Rune Christensen (@Rune23)
 Contributors:
+Tags: mip-amendment, collateral-onboarding
 Status: Accepted
 Date Proposed: 2020-05-27
 Date Ratified: 2020-06-25

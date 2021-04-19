@@ -40,7 +40,7 @@ A process component which defines a method and template for the removal of an ac
 
 ## Motivation
 
-The motivation behind this proposal is that changing small details to MIPs should not require the original MIP to become obsolete or replaced, so this Process-MIP is needed to define and outline the process behind making these changes to MIPs once they have already been ratified and implemented. Additionally, this MIP defines the process for the removal of MIPs that are no longer useful.
+The motivation behind this proposal is that changing small details to MIPs should not require the original MIP to become obsolete or replaced, so this Process-MIP is needed to define and outline the process behind making these changes to MIPs once they have already been ratified and implemented. Additionally, this MIP defines the process for the removal of MIPs that are have become no longer useful.
 
 ## Specification / Proposal Details
 
@@ -58,7 +58,7 @@ The validity of MIP Amendments is ultimately up to the community but possible re
 MIP Amendments are invalid if, based on the assessment of the community, the changes are so severe that they should be achieved through a MIP replacement instead.
 
 **Removals**
-MIP4 also enables the removal of MIPs that are no longer useful. If there are other MIPs that depend on a MIP that is being removed, they must also be removed in the same Governance Cycle, or the proposal will be invalid.
+MIP4 also enables the removal of MIPs that are no longer useful. If there are other MIPs that depend on a MIP that is being removed, they must also be removed in the same governance cycle, or the proposal will be invalid.
 
 ---
 ### MIP4c2: MIP Amendment Process
