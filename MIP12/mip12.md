@@ -5,6 +5,7 @@
 MIP#: 12
 Title: Collateral and Risk Parameter Management
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
+tags: technical, process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset
 Type: Technical, Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -38,7 +39,7 @@ Defines a checklist of actions that must be completed before and after governanc
 
 ## Motivation
 
-This proposal will focus on the collateral onboarding process blueprint for submitting MIP12 Subproposals (MIP12-SPs). Submitting MIP12 Subproposals is the final step before collateral types go through the governance cycle and ultimately get added to or rejected from the Maker Protocol. The Subproposal process is reserved for domain teams to propose new risk parameters, oracles, and adapters for a new, or existing collateral type. This proposal also details the involvement of the community greenlight polls (MIP9) and the overall collateral onboarding process requirements. Furthermore, it allows domain teams to execute on collateral onboarding via the executive vote. 
+This proposal will focus on the collateral onboarding process blueprint for submitting MIP12 subproposals (MIP12-SPs). Submitting MIP12 subproposals is the final step before collateral types go through the Governance Cycle and ultimately get added to or rejected from the Maker Protocol. The subproposal process is reserved for domain teams to propose new risk parameters, oracles, and adapters for a new, or existing collateral type. This proposal also details the involvement of the community greenlight polls (MIP9) and the overall collateral onboarding process requirements. Furthermore, it allows domain teams to execute on collateral onboarding via the executive vote. 
 
 ## Specification / Proposal Details
 
@@ -47,7 +48,7 @@ This proposal will focus on the collateral onboarding process blueprint for subm
 - **A Risk team** (elected through MIP7) builds and approves risk constructs for the collateral types that have been greenlit through the MIP9 and MIP8 processes. 
 - **A Smart Contracts team** (elected through MIP7) builds and approves the collateral types' adapter, medianizer, oracle security module for collateral types that have been greenlit through the MIP9 and MIP8 processes. Additionally, the Smart Contracts domain team will create the executive vote code (spell) as well as the technical risk assessments of the aforementioned smart contracts.
 - **An Oracles team** (elected through MIP7), updates the oracle operations for collateral types that have been greenlit through the MIP9 and MIP8 processes through MIP10 (Oracle Management). Additionally, the Oracles domain team approves the currently active price feeds as well as builds and approves their oracle security audit/risk assessment.
-- (Optional) **A Legal team** (elected through MIP7)  creates and approves the legal risk assessment of the collateral types based on the work completed by the above domain teams.
+- (Optional) **A Legal team** (elected through MIP7) creates and approves the legal risk assessment of the collateral types based on the work completed by the above domain teams.
 
 ---
 
@@ -85,7 +86,7 @@ MIP12c2 subproposals must use the template located at **[MIP12c2-Subproposal-Tem
     - `flipper` - for the specified collateral type
     - `lot` - size for flip auction
     - `beg` - min bid increase
-    - `min` bid increment
+    - `min` - bid increment
     - `end` - max auction duration
     - `ttl` - time duration before an auction ends after a bid
     - **Oracle Requirements:**

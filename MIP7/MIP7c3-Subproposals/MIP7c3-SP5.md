@@ -7,12 +7,15 @@ MIP7c3-SP#: 5
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
 Status: Accepted
-Date Applied: 2020-12-03
+Date Proposed: 2020-12-03
 Date Ratified: 2021-01-30
 ---
 Domain Role: Risk Domain Team Facilitator
 Proposed Applicant: Sébastien Derivaux
 ```
+
+## Sentence Summary
+MIP7c3-SP5 onboards Sébastien Derivaux as Risk Domain Team Facilitator.
 
 ## Application Form
 

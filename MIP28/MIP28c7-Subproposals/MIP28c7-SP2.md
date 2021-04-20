@@ -8,11 +8,14 @@ Author(s): @juanjuan
 Contributors:
 Status: Request For Comments (RFC)
 Date Proposed: 2020-11-23
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 
 ---
 Domain Role: Operational Support Domain Facilitator
 Proposed Applicant: @juanjuan
 ```
+
+## Sentence Summary
+MIP28c7-SP2 onboards Juanjuan as Operational Support Domain Facilitator.
 
 ## Application
 

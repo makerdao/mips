@@ -6,12 +6,15 @@ MIP0c12-SP#: 2
 Author: LongForWisdom
 Contributors: n/a
 Status: Accepted
-Date Applied: 2020-05-04
+Date Proposed: 2020-05-04
 Date Ratified: 2020-05-28
 ---
 Core Personnel Role: Governance Facilitator
 Proposed applicant: LongForWisdom
 ```
+
+## Sentence Summary
+MIP0c12-SP2 onboards LongForWisdom as Governance Facilitator.
 
 ## Application Form
     

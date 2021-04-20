@@ -9,8 +9,11 @@ Author(s): Cyrus Younessi (@DonutJr), Niklas Kunkel (@NiklasKunkel), Mariano Con
 Contributors: Charles St.Louis (@CPSTL)
 Status: Accepted
 Date Proposed: 2020-09-08
-Date ratified: <yyyy-mm-dd>
+Date ratified: 2020-09-30
 ```
+
+## Sentence Summary
+MIP12c2-SP4 defines the documentation and work requirements for the onboarding of the LRC Collateral type.
 
 ## Specification
 

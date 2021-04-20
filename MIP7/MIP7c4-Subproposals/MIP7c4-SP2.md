@@ -5,12 +5,15 @@
 MIP7c4-SP#: 2
 Author(s): Wil Barnes (@wilbarnes)
 Contributors: n/a
-Status: Formal submission
+Status: Formal Submission
 Date Proposed: 2020-09-09
-Date Removed: <yyyy-mm-dd>
+Date Ratified:
 ---
 Domain Team Name: Blue Team (aka Mariano Conti)
 ```
+## Sentence Summary
+MIP7c4-SP2 offboards Mariano Conti from the Smart Contract Domain Team.
+
 ## Specification
         
 ### Removal Motivation

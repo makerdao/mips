@@ -6,6 +6,7 @@ MIP#: 19
 Title: Liquidations System 1.1 Upgrade
 Author(s): Mariano Conti (@nanexcool), Charles St.Louis (@CPSTL)
 Contributors: Kurt Barry (@kmbarry1)
+Tags: technical, smart-contracts, liquidations
 Type: Technical
 Status: Accepted
 Date Proposed: 2020-07-06

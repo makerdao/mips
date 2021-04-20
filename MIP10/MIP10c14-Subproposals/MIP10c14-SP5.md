@@ -1,3 +1,5 @@
+# MIP10c14-SP5: Process to Appoint Light Feed (Argent Labs Limited)
+
 ## Preamble
 
 ```
@@ -6,8 +8,11 @@ Author(s): Itamar Lesuisse
 Contributors:
 Status: Formal Submission
 Date Proposed: 2020-07-02
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c14-SP5 appoints Argent Labs Limited as a Light Feed for the Maker Oracles.
 
 ## Disclaimer
 

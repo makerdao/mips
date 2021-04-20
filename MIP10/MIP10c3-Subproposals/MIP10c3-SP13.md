@@ -1,3 +1,5 @@
+# MIP10c3-SP13: Subproposal to Onboard the GUSD/USD Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 13
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: Formal Submission (FS)
 Date Proposed: 2020-10-16
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP13 onboards the GUSD/USD Oracle.
 
 ## Specification
 

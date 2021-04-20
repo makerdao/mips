@@ -6,6 +6,7 @@ MIP#: 8
 Title: Domain Greenlight
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
+Tags: process, collateral-onboarding, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -24,7 +25,7 @@ MIP8 defines the process by which domain teams signal that a potential collatera
 
 ## Paragraph Summary
 
-This proposal defines the process where at least one domain team from each domain (Risk, Smart Contracts, Oracles, Legal, etc.) "Greenlights" the collateral type (based on research) in order for the collateral onboarding process to proceed.
+This proposal defines the process where at least one domain team from each domain (Risk, Smart Contracts, Oracles, Legal, etc.) "greenlights" the collateral type (based on research) in order for the collateral onboarding process to proceed.
 
 ## Component Summary
 

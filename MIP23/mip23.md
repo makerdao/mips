@@ -6,6 +6,7 @@ MIP#: 23
 Title: Domain Structure and Roles
 Author(s): @LongForWisdom
 Contributors: N/A
+Tags: general, personnel-xboarding
 Type: General
 Status: Accepted
 Date Proposed: 2020/09/07

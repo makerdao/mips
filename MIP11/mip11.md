@@ -5,6 +5,7 @@
 MIP#: 11
 Title: Collateral Onboarding General Risk Model Management
 Author(s): Cyrus Younessi (@DonutJr), Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
+Tags: process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -90,7 +91,7 @@ MIP11c3 subproposals must use the template located at  **[MIP11c3-Subproposal-Te
 
 MIP11c4 is a Process MIP component that allows the removal of an active general risk model using a subproposal.
 
-If a MIP11c4 subproposal is Accepted, The General Risk Model specified in the MIP11c4 Sub Proposal is removed from the list in MIP11c2 by a MIP Editor.
+If a MIP11c4 subproposal is Accepted, The General Risk Model specified in the MIP11c4 Subproposal is removed from the list in MIP11c2 by a MIP Editor.
 
 MIP11c4 subproposals have the following parameters:
 

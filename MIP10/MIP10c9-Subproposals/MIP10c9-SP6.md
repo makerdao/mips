@@ -1,3 +1,5 @@
+# MIP10c9-SP6: Subproposal to Whitelist yearn finance for ETH/USD Oracle Access
+
 ## Preamble
 ```
 MIP10c9-SP#: 6
@@ -6,7 +8,10 @@ Contributors:
 Status: Formal Submission
 Date Proposed: 2020-08-23
 Date Ratified:
-``` 
+```
+
+## Sentence Summary
+MIP10c9-SP6 whitelists yearn finance for ETH/USD Oracle Access.
 
 ## Specification
 
