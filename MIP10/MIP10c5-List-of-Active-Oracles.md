@@ -1,5 +1,21 @@
 # MIP10c5: List of Active Oracles
 
+## Preamble
+```
+MIP10c5-SP#: 
+Author(s):
+Contributors:
+Type: Process Component
+Tags: oracles
+Status:
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
+```
+
+# Specification
+
+### Introduction
+
 ## Glossary
 
 - **Oracle Name:** The name of the Oracle that is indicative of the data is broadcasts

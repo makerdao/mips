@@ -1,5 +1,21 @@
 # MIP10c11: Subproposal for List of Oracle Whitelists
 
+## Preamble
+```
+MIP10c11-SP#: 
+Author(s):
+Contributors:
+Type: Process Component
+Tags: oracles
+Status:
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
+```
+
+# Specification
+
+### Introduction
+
 ## Glossary
 
 - **Oracle Name:** The name of the Oracle as indicated in MIP10c5
