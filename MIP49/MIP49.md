@@ -8,7 +8,7 @@ Title: Staking Rewards
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
 Contributors:@LongForWisdom, @JuanJuan, @Elihu
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
@@ -33,9 +33,9 @@ This MIP covers the creation of a Staking Rewards process for MKR token holders,
 
 Defines the scope of Staking Rewards.
 
-**MIP49c2: Adjusting the Staking Reward Parameter**
+**MIP49c2: Adjusting the Staking Reward Percentage Parameter**
 
-Clarifies how changes may be made to the `stake` parameter. 
+Clarifies how changes may be made to the `Stake Reward Percentage` parameter. 
 
 **MIP49c3: Potential Risks**
 
@@ -59,17 +59,17 @@ Staking Rewards will be “opt-in”. Users locking their MKR tokens in governan
 
 The amount of DAI distributed as Staking Rewards will be directly tied to the MKR burn, with a portion of DAI that would have been used to buyback and burn MKR being diverted to Staking Rewards. 
 
-The percentage of funds redirected will be controlled by Governance and referred to as the `stake` parameter. Proceeds from the `stake` will be split among opted-in holders, based on their relative weight in the Governance Contract.
+The percentage of funds redirected will be controlled by Governance and referred to as the `Stake Reward Percentage` parameter. Proceeds from the `Stake Reward Percentage` will be split among opted-in holders, based on their relative weight in the Governance Contract.
 
 Note: MKR holders should be aware of any tax and legal implications in their jurisdiction relevant to opting-in to Staking Rewards before electing to do so.
 
-**MIP49c2: Adjusting the Staking Reward Parameter**
+**MIP49c2: Adjusting the Staking Reward Percentage Parameter**
 
-The `stake` parameter will be expressed a percentage, between 0 and 100, and will dictate what percentage of funds otherwise destined for the `flapper` (surplus auction) will be instead spent on Staking Rewards.
+The `Stake Reward Percentage` parameter will be expressed a percentage, between 0 and 100, and will dictate what percentage of funds otherwise destined for the `flapper` (surplus auction) will be instead spent on Staking Rewards.
 
-For example, if Governance were to set `stake` to 25%, for every 100 DAI the protocol generates when the Surplus Buffer is full, 25 DAI would be diverted to reward MKR tokens staked in the Governance Contract.
+For example, if Governance were to set `Stake Reward Percentage` to 25%, for every 100 DAI the protocol generates when the Surplus Buffer is full, 25 DAI would be diverted to reward MKR tokens staked in the Governance Contract.
 
-Adjustments to the `stake` parameter may be made through the Weekly Governance Cycle, allowing for the community to respond quickly to changing market conditions. 
+Adjustments to the `Stake Reward Percentage` parameter may be made through the Weekly Governance Cycle, allowing for the community to respond quickly to changing market conditions. 
 
 
 **MIP49c3 - Potential Risks**
