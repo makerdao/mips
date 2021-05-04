@@ -6,9 +6,10 @@
 MIP41c4-SP#: 7
 Author(s): Derek Flossman
 Contributors:
-Status: Formal Submission (FS)
+Tags: smart-contracts, core-unit, personnel-xboarding, mip-set, pe-001-mipset
+Status: Accepted
 Date Applied: 2021-03-02
-Date Ratified:
+Date Ratified: 2021-04-27
 ```
 
 ## Sentence Summary
