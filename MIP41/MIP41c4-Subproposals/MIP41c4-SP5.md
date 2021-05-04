@@ -6,9 +6,10 @@
 MIP41c4-SP#:5
 Author(s): Seth Goldfarb
 Contributors:
-Status: Formal Submission
+Tags: core-unit, personnel-xboarding, mip-set, mkt-001-mipset
+Status: Accepted
 Date Applied: 2021-03-03
-Date Ratified:
+Date Ratified: 2021-04-27
 ```
 
 ## Sentence Summary
