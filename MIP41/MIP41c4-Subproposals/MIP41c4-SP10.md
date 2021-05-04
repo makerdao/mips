@@ -6,7 +6,7 @@
 MIP41c4-SP#: 10
 Author(s): @juanjuan
 Contributors:
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-04-07
 Date Ratified: <yyyy-mm-dd>
 ```
