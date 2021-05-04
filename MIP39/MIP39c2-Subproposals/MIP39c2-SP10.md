@@ -6,7 +6,7 @@
 MIP39c2-SP#: 10
 Author(s): @wouter, @juanjuan
 Contributors:
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-04-07
 Date Ratified: <yyyy-mm-dd>
 ```
@@ -176,7 +176,7 @@ Apart from the research that we will conduct around this, we'll start with apply
 
 4. **Self-Accountability Audits** -- Last but not least, we're introducing the notion of self-accountability audits, whereby we will work with an independent external party in the community to:
 
-    * Work out and **agree on best practices and standards** that we want to hold ourselves accountable to as a team. 
+    * Work out and **agree on best practices and standards** that we want to hold ourselves accountable to as a team.
     * **Publicly commit** to following this set of best practices and standards.
     * Have **regular reviews** with the third party to audit the team's operations, assess to what extent these practices are followed in reality, and formulate improvements where needed.
     * Have a **public record** of these audits available for full transparency.
