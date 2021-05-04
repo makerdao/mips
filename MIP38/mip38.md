@@ -61,15 +61,15 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### NAME-XXX
-**ID** - XXX# (assigned by the Operational Support Core Unit or a MIP Editor)
-**Summary** - 30 word max summary.
-**Date Ratified** - <date ratified>
-**Mandate** - [MIP39c2-SPX](link)
-**Budget Amount** - xxx,xxx DAI / year
-**Budget Implementation** - Manual/Simple/Advanced - [MIP40c2-SPX](link)
-**Budget Breakdown** - [MIP40c2-SPX](example.com/budget_implementation)
-**Facilitator A** - Awes M. Example - [MIP41c2-SPX](link)
-**Facilitator B** - Gre T. Example - [MIP41c2-SPY](link)
+- **ID** - XXX# (assigned by the Operational Support Core Unit or a MIP Editor)
+- **Summary** - 30 word max summary.
+- **Date Ratified** - <date ratified>
+- **Mandate** - [MIP39c2-SPX](link)
+- **Budget Amount** - xxx,xxx DAI / year
+- **Budget Implementation** - Manual/Simple/Advanced - [MIP40c2-SPX](link)
+- **Budget Breakdown** - [MIP40c2-SPX](example.com/budget_implementation)
+- **Facilitator A** - Awes M. Example - [MIP41c2-SPX](link)
+- **Facilitator B** - Gre T. Example - [MIP41c2-SPY](link)
 ...
 
 ---
@@ -156,4 +156,5 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Budget Amount** - 0 DAI (50/50 profit sharing)
 - **Budget Implementation** - Manual - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
 - **Budget Breakdown** - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
-- **Facilitator** - Coulter Mulligan, Mike Porcaro - [MIP41c4-SP6](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP6.md)
+- **Facilitator** - Coulter Mulligan - [MIP41c4-SP6](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP6.md)
+- **Facilitator** - Mike Porcaro - [MIP41c4-SP6](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP6.md)
