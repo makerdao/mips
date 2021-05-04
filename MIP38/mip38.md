@@ -6,14 +6,17 @@ MIP#: 38
 Title: DAO Primitives State
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
+Tags: general, core-unit-framework, mip-set, core-unit-mipset
 Type: Informational
-Status: Formal Submission
-Date Proposed: <2021-01-18>
-Date Ratified: <yyyy-mm-dd>
+Status: Accepted
+Date Proposed: 2021-01-18
+Date Ratified: 2021-25-03
 Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
+
 ## References
+
 N/A
 
 ## Sentence Summary
@@ -73,19 +76,38 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ### MIP38c2: Core Unit State
 
-There are currently no active Core Units. Entry 'EXMPL-000' exists as an example for formatting Core Unit State Entries.
+#### Real-World Finance
+**ID** - RWF-001
+** Summary** - This Core Unit is designed to pursue Real-World Asset work and more generally helps MakerDAO to take over the traditional finance world.
+**Date Ratified** - 2021-25-03
+**Mandate** - [MIP39c2-SP1](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP1.md)
+**Budget Amount** 40,000 DAI / month
+** Budget Implementation** - Manual - [MIP40c3-SP1](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP1.md)
+**Budget Breakdown** - [MIP40c3-SP1](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP1.md)
+**Facilitator** - Sébastien Derivaux - [MIP41c4-SP1](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP1.md)
 
 ---
 
-#### EXMPL-000
-**Example Core Unit** - Provides a decent descriptive name for a Core Unit example.
-**Summary** - Provides an awesome and great example of a Core Unit List template.
-**Date Ratified** -  1970-01-01
-**Mandate** - [MIP39c2-SP0](example.com/mandate)
-**Budget Amount** - 100,000 DAI / year
-**Budget Implementation** - Manual - [MIP40c2-SP0](example.com/budget_implementation)
-**Budget Breakdown** - [MIP40c2-SP0](example.com/budget_implementation)
-**Facilitator A** - Awes M. Example - [MIP41c2-SP0](example.com/commitment_A)
-**Facilitator B** - Gre T. Example - [MIP41c2-SP00](example.com/commitment_A)
+#### Risk
+**ID** - RISK-001
+** Summary** - Risk Core Unit ensures Maker Protocol can continue to grow safely by having proper risk management parameters and risk mitigation tools applied.
+**Date Ratified** - 2021-25-03
+**Mandate** - [MIP39c2-SP2](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP2.md)
+**Budget Amount** 100,500 / month
+** Budget Implementation** - Manual - [MIP40c3-SP2](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP2.md)
+**Budget Breakdown** - [MIP40c3-SP2](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP2.md)
+**Facilitator** - Primož Kordež - [MIP41c4-SP1](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP2.md)
+
+---
+
+#### Governance
+**ID** - GOV-001
+**Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
+**Date Ratified** -  2021-25-03
+**Mandate** - [MIP39c2-SP3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP3.md)
+**Budget Amount** - 240,000 DAI / quarter
+**Budget Implementation** - Manual - [MIP40c3-SP3](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP3.md)
+**Budget Breakdown** - [MIP40c3-SP3](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP3.md)
+**Facilitator** - LongForWisdom - [MIP41c4-SP3](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP3.md)
 
 ---

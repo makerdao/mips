@@ -7,6 +7,7 @@ MIP#: 9
 Title: Community Greenlight
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X), Elihu (@Elihu)
+Tags: process, collateral-onboarding, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -60,6 +61,7 @@ While domain teams are free to choose their own workload, an on-chain governance
 <img width="722" alt="mip9-a" src="https://user-images.githubusercontent.com/32653033/83067877-65367500-a035-11ea-9fb9-acefca9ec366.png">
 
 ---
+
 ### MIP9c2: The Community Greenlight Outcomes
 
 **Greenlit**

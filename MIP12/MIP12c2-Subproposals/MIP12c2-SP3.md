@@ -12,6 +12,9 @@ Date Proposed: 2020-07-08
 Date ratified: 2020-07-28
 ```
 
+## Sentence Summary
+MIP12c2-SP3 defines the documentation and work requirements for the onboarding of the MANA collateral type.
+
 ## Specification
 
 ### Summary

@@ -12,6 +12,11 @@ Date Ratified: 2020-11-27
 Declaration Statement: Maker Governance intends to fund the use of SourceCred within the Maker Community to incentivize effective governance of the Maker Protocol.
 Declaration to Replace: n/a
 ```
+
+## Sentence Summary
+
+MIP13c3-SP6 declares that Maker Governance intends to fund the use of SourceCred within the Maker Community to incentivize effective governance of the Maker Protocol.
+
 ## Specification
 
 ### Context and Motivation

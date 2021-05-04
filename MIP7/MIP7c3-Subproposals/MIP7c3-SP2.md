@@ -7,12 +7,14 @@ MIP7c3-SP#: 2
 Author(s): Cyrus Younessi (@DonutJr)
 Contributors: n/a
 Status: Accepted
-Date Applied: 2020-06-01
+Date Proposed: 2020-06-01
 Date Ratified: 2020-06-25
 ---
 Domain Role: Risk Domain Team Facilitator
 Proposed Applicant: Cyrus Younessi
 ```
+## Sentence Summary
+MIP7c3-SP2 onboards Cyrus Younessi as Risk Domain Team Facilitator.
 
 ## Application Form
 

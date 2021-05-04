@@ -6,6 +6,7 @@ MIP#: 13
 Title: Declarations of Intent
 Author(s): @LongForWisdom
 Contributors: n/a
+Tags: process, governance
 Type: Process
 Status: Accepted
 Date Proposed: 2020-05-12
@@ -89,13 +90,42 @@ Date Ratified: (yyyy-mm-dd)
 Note that the subproposal code should link to the relevant subproposal.
 
 **Active Declarations List**
-There are currently no active declarations. Below is an example declaration which should be removed (as should this paragraph) when the first ratified declaration is added to this list. If there are no active declarations, the example declaration and this paragraph should be restored.
 
-```
-Declaration Statement: All Governance Facilitators should be given chocolate on the 30th of February each year.
-Sub-proposal Number: MIP13c3-SP0
-Date Ratified: 2020-02-30
-```
+#### MIP13c3-SP2: Add support for flash-minting Dai
+
+> Declaration Statement: Add support for flash-minting Dai.
+Sub-proposal Number: [MIP13c3-SP2](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP2.md)
+Date Ratified: 2020-09-30
+
+#### MIP13c3-SP3
+
+> Declaration Statement: Creation of a Strategic Reserves Fund to have a financial power and autonomy.
+Sub-proposal Number: [MIP13c3-SP3](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP3.md)
+Date Ratified: 2020-10-28
+
+#### MIP13c3-SP4
+
+> Declaration Statement: Maker Governance Intends to Utilize an Off-Chain Asset Backed Lender to onboard Real World Assets into the Maker Protocol to borrow DAI and deploy in the “Real World”.
+Sub-proposal Number: [MIP13c3-SP4](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP4.md)
+Date Ratified: 2020-10-28
+
+#### MIP13c3-SP5
+
+> Declaration Statement: MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD.
+Sub-proposal Number: [MIP13c3-SP5](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP5.md)
+Date Ratified: 2020-10-28
+
+#### MIP13c3-SP6
+
+> Declaration Statement: Maker Governance intends to fund the use of SourceCred within the Maker Community to incentivize effective governance of the Maker Protocol.
+Sub-proposal Number: [MIP13c3-SP6](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP6.md)
+Date Ratified: 2020-11-27
+
+#### MIP13c3-SP7
+
+> Declaration Statement: Maker Governance intends to form a Governance Communications domain with the mandate described in this declaration.
+Sub-proposal Number: [MIP13c3-SP7](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP7.md)
+Date Ratified: 2021-01-30
 
 ---
 

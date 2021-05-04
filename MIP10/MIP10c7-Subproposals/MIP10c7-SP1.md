@@ -1,3 +1,5 @@
+# MIP10c7-SP1: Subproposal to Update Oracle Data Model
+
 ## Preamble
 ```
 MIP10c7-SP#: 1
@@ -6,8 +8,11 @@ Contributors:
 Oracle Team Name: Green
 Status: Formal Submission
 Date Proposed: 2020-09-12
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ``` 
+
+## Sentence Summary
+MIP10c7-SP1 adds FTX and Uniswap as price sources and removes Bitfinex.
 
 ## Specification
 

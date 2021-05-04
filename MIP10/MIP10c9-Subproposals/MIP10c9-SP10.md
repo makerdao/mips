@@ -1,3 +1,5 @@
+# MIP10c9-SP10: Subproposal to Whitelist yearn finance for BTC/USD Oracle Access
+
 ## Preamble
 ```
 MIP10c9-SP#: 10
@@ -5,8 +7,11 @@ Author(s): Artem K
 Contributors:
 Status: Formal Submission
 Date Proposed: 2020-09-16
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ``` 
+
+## Sentence Summary
+MIP10c9-SP10 whitelists yearn finance for BTC/USD Oracle Access.
 
 ## Specification
 

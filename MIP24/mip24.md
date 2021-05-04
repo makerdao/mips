@@ -7,6 +7,7 @@ MIP#: 24
 Title: Emergency Response
 Author(s): @Davidutro, @jtathmann 
 Contributors:
+Tags: general, governance, emergency
 Type: General
 Status: Accepted
 Date Proposed: 2020-09-07

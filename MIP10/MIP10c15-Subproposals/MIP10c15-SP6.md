@@ -8,8 +8,11 @@ Contributors:
 Type: Process Component
 Status: RFC
 Date Proposed: 2020-08-04
-Date Ratified: <yyyy-mm-dd>
-``` 
+Date Ratified:
+```
+
+## Sentence Summary
+MIP10c15-SP6 appoints MyCrypto as a Feed (OT) for the Maker Oracles.
 
 ## Specification
 

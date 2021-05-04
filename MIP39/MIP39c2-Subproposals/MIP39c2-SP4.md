@@ -6,10 +6,15 @@
 MIP39c2-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
-Status: RFC
+Tags: core-unit, mip-set, gro-001-mipset
+Status: Accepted
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-04-27
 ```
+
+## Sentence Summary
+
+MIP39c2-SP4 adds Core Unit GRO-001: Growth.
 
 ## Specification
 

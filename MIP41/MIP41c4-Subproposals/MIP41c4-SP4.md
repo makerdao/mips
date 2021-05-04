@@ -6,10 +6,15 @@
 MIP41c4-SP#: 4
 Author(s): Nadia Alvarez
 Contributors:
-Status: RFC
+Tags: core-unit, mip-set, gro-001-mipset
+Status: Accepted
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-04-27
 ```
+
+## Sentence Summary
+
+MIP41c4-SP4 onboards Nadia Alvarez as Facilitator for Core Unit GRO-001: Growth.
 
 ## Specification
 
