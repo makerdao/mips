@@ -6,17 +6,21 @@
 MIP41c4-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Status: RFC
+Status: Accepted
 Date Applied: 2021-02-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 ```
 
+## Sentence Summary
+
+MIP41c4-SP3 onboards LongForWisdom as Facilitator for Core Unit GOV-001: GovAlpha.
+
 ## Specification
-    
+
 ### Motivation
 
 I am applying to be a Facilitator of GovAlpha due to my current position as Governance Facilitator. I wish to continue in this role and be paid by the Maker Protocol.
-    
+
 ### Core Unit ID
 
 GovAlpha (GOV-001)

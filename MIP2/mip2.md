@@ -6,6 +6,7 @@ MIP#: 2
 Title: Launch Period
 Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
+Tags: process, governance, mip-set, core-governance-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -42,7 +43,7 @@ Defines the obsolescence of this MIP once the interim phases have passed.
 
 ## Motivation
 
-One of the critical motivations of the MIP framework is that there are a finite number of critical issues that must be covered with appropriate governance processes for the Maker system to be safe (see MIP1 Governance Paradigms).
+One of the critical motivations of the MIP framework is that there are a finite number of critical issues that must be covered with appropriate governance processes for the Maker system to be safe (see MIP1: Governance Paradigms).
 
 At the same time, the goal is also to ensure that the process of implementing and altering critical governance process logic is done at a pace that gives the community enough time to scrutinize and understand specific ideas.
 
@@ -63,7 +64,7 @@ As a result, the community should prioritize getting the initial processes in pl
 1. A single vote approves or rejects all MIPs and Subproposals during phase 1.
 2. If rejected, MIPs can be reintroduced to the community for another vote once the issues that resulted in its initial rejection have been addressed.
 
-Interim Phase 1 ends 3 months after there is a formal a core governance framework in place and a functional collateral onboarding process.
+Interim Phase 1 ends 3 months after there is a formal core governance framework in place and a functional collateral onboarding process.
 
 ---
 ### MIP2c2: Interim Phase 2

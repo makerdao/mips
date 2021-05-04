@@ -1,3 +1,5 @@
+# MIP10c3-SP7: Subproposal to Onboard Oracle
+
 ## Preamble
 ```
 MIP10c3-SP#: 7
@@ -7,8 +9,11 @@ Type: Process Component
 Oracle Team Name: Green
 Status: Formal Submission (FS)
 Date Proposed: 2020-08-05
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c3-SP7 onboards the PAX/USD Oracle.
 
 ## Specification
 

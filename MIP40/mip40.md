@@ -6,15 +6,18 @@ MIP#: 40
 Title: Budget Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
+Tags: process, core-unit-framework, mip-set, mip-set, core-unit-mipset
 Type: Process
-Status: RFC
-Date Proposed: <2021-01-18>
-Date Ratified: <yyyy-mm-dd>
-Dependencies: MIP38, MIP39, MIP41, MIP4-SP10, MIP4-SP11, MIP4-SP12
+Status: Accepted
+Date Proposed: 2021-01-18
+Date Ratified: 2021-25-03
+Dependencies: MIP38, MIP39, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
+
 ## References
-MIP40c2-SP-Template
+
+MIP40c3-SP-Template
 
 ## Sentence Summary
 
@@ -82,7 +85,7 @@ Unlike the breakdown, the Budget Implementation is binding. It should be underst
 
 This subproposal process modifies the Budget Implementations and Budget Breakdowns entries of a Core Unit in the DAO Primitives State.
 
-Once a MIP40c2-SP subproposal passes, the Governance Facilitators or the MIP Editors will update the domain state MIP (MIP38) accordingly.
+Once a MIP40c3-SP subproposal passes, the Governance Facilitators or the MIP Editors will update the domain state MIP (MIP38) accordingly.
 
 This is a technical process component that can have on-chain effects that alter the Maker Protocol's state. When subproposals generated from this component reach the executive vote stage of the MIPs cycle, the executive vote must include a technical state change to authorize the budget implementations specified in the subproposal to draw funds from the Maker Protocol.
 

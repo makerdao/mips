@@ -6,10 +6,14 @@
 MIP39c2-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Status: RFC
+Status: Accepted
 Date Applied: 2021-02-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-25-03
 ```
+
+## Sentence Summary
+
+MIP39c2-SP3 adds Core Unit GOV-001: GovAlpha.
 
 ## Specification
     

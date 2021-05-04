@@ -3,7 +3,7 @@
 ## Preamble
 ```
 MIP1c4-SP#: # 
-Titlle of problem Space Item to be Added or Deleted:
+Title of Problem Space Item to be Added or Deleted:
 Author(s):
 Contributors:
 Status:
@@ -11,7 +11,7 @@ Date of Submission: <yyyy-mm-dd>
 Date of Ratification: <yyyy-mm-dd>
 ```
 ## Specification
-    
+
 ### Motivation
 - Explanation behind the addition or deletion to the Problem Space list. 
 

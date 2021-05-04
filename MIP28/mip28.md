@@ -7,6 +7,7 @@ MIP#: 28
 Title: Operational Support (OS) Domain Definition
 Author(s): @AmyJung
 Contributors: n/a
+Tags: general, operational-support
 Type: General
 Status: Accepted
 Date Proposed: 2020-10-07

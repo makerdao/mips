@@ -7,11 +7,11 @@ MIP#: 48
 Title: Streaming Payments via the Keg
 Author(s): Payton Rose @prose11, Sam MacPherson (@hexonaut)
 Contributors: @amyjung, @LongForWisdom, @Elihu
+Tags: general
 Type: General
-Status: RFC
+Status: Accepted
 Date Proposed: 2021-02-03
-Date Ratified: <yyyy-mm-dd>
-
+Date Ratified: 2021-25-03
 Dependencies:
 Replaces:
 ```
@@ -20,9 +20,9 @@ Replaces:
 
 * [MIP34: Keg Streaming Payments Module](https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013)
 * [The Flapper](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation)
-* [MIP48c2 Subproposal: Setting Fixed Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
-* [MIP48c3 Subproposal: Setting Variable Distributions via the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc3%20Subproposal%20%5BTemplate%5D.md)
-* [MIP48c4 Subproposal: Stopping Distributions from the Keg](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc4%20Subproposal%20%5BTemplate%5D.md)
+* [MIP48c2 Subproposal: Setting Fixed Distributions via the Keg](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c2%20Subproposal%20%5BTemplate%5D.md)
+* [MIP48c3 Subproposal: Setting Variable Distributions via the Keg](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c3%20Subproposal%20%5BTemplate%5D.md)
+* [MIP48c4 Subproposal: Stopping Distributions from the Keg](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c4%20Subproposal%20%5BTemplate%5D.md)
 
 ## Sentence Summary
 
@@ -48,7 +48,7 @@ Describes how Maker Governance can dictate variable payments by redirecting a pe
 
 **MIP48c4: Stopping Distributions from the Keg**
 
-Describes how Maker Governance can stop or pause payments through the Keg, by use of a MIP48c3 subproposal.
+Describes how Maker Governance can stop or pause payments through the Keg, by use of a MIP48c4 subproposal.
 
 ## Motivation
 
@@ -72,14 +72,14 @@ These parameters can be utilized to allow Maker Governance to set continuous DAI
 
 **MIP48c2: Setting Fixed Distributions via the Keg**
 
-When an initiative desires a constant rate of streamed amount of DAI, the funding must be requested through Governance and would be drawn from the Surplus Buffer. A [MIP48c2 subproposal](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one. The proposal will be subject to the following parameters:
+When an initiative desires a constant rate of streamed amount of DAI, the funding must be requested through Governance and would be drawn from the Surplus Buffer. A [MIP48c2 subproposal](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c2%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one. The proposal will be subject to the following parameters:
 
 * Feedback Period: 4 weeks
 * Frozen Period: 2 weeks
 
 **MIP48c3: Setting Variable Distributions via the Keg**
 
-When an initiative desires DAI to be streamed at a variable rate, based on excess revenue to operational expenses, the funding must be requested through Governance. A [MIP48c3 subproposal](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc3%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one.
+When an initiative desires DAI to be streamed at a variable rate, based on excess revenue to operational expenses, the funding must be requested through Governance. A [MIP48c3 subproposal](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c3%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one.
 
 Due to contract limitations, only one stream may be taken from funds otherwise going to the `Flapper`. Backend work must be done to define and split the stream from the excess revenues into any Governance approved initiatives. As a result, MIP48c3 subproposals will require a longer feedback period:
 
@@ -90,7 +90,7 @@ Due to contract limitations, only one stream may be taken from funds otherwise g
 
 In some time-sensitive scenarios, the Governance Facilitators may deem a Signal Request appropriate for stopping or pausing payments from the Keg.
 
-For any scenario not deemed urgent by Governance Facilitators, a [MIP48c4 Subproposal](https://github.com/prose11/mips/blob/Non-Technical-Keg/MIPX/MIPXc4%20Subproposal%20%5BTemplate%5D.md) must be utilized to stop the streaming of DAI to a particular flight. The proposal will be subject to the following parameters:
+For any scenario not deemed urgent by Governance Facilitators, a [MIP48c4 Subproposal](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c4%20Subproposal%20%5BTemplate%5D.md) must be utilized to stop the streaming of DAI to a particular flight. The proposal will be subject to the following parameters:
 
 * Feedback Period: 4 weeks
 * Frozen Period: 2 weeks

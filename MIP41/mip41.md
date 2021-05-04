@@ -6,14 +6,17 @@ MIP#: 41
 Title: Facilitator Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
+Tags: process, core-unit-framework, personnel-xboarding, mip-set, core-unit-mipset
 Type: Process
-Status: RFC
-Date Proposed: <2021-01-18>
-Date Ratified: <yyyy-mm-dd>
-Dependencies: MIP38, MIP39, MIP40, MIP4-SP10, MIP4-SP11, MIP4-SP12
+Status: Accepted
+Date Proposed: 2021-01-18
+Date Ratified: 2021-25-03
+Dependencies: MIP38, MIP39, MIP40, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
+
 ## References
+
 MIP41c4-SP-Template
 MIP41c5-SP-Template
 
