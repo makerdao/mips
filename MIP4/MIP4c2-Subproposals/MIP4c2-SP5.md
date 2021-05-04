@@ -8,9 +8,13 @@ MIP to be Amended: MIP12
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Contributors:
 Status: Rejected (Failed Inclusion Poll July 2020)
-Date of Amendment Submission: 2020-07-08
-Date of ratification: <yyyy-mm-dd>
+Date Proposed: 2020-07-08
+Date Ratified: 
 ```
+
+## Sentence Summary
+
+MIP4c2-SP5 amends MIP12 to remove dependencies on MIP6, MIP8, and MIP9.
 
 ## Specification
 

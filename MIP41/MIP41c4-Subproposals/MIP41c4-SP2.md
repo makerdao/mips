@@ -6,10 +6,14 @@
 MIP41c4-SP#:2
 Author(s): Primož Kordež
 Contributors: 
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-02-03
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2021-25-03
 ```
+
+## Sentence Summary
+
+MIP41c4-SP2 onboards Primož Kordež as Facilitator for Core Unit RISK-001: Risk.
 
 ## Motivation
 

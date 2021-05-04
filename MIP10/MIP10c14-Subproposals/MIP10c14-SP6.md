@@ -8,8 +8,11 @@ Contributors: Jordan Spence, Mia Alexander
 Type: Process Component
 Status: Proposed
 Date Proposed: 2020-07-13
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ``` 
+
+## Sentence Summary
+ MIP10c14 appoints MyCrypto as a Light Feed for the Maker Oracles.
 
 ## Specification
 

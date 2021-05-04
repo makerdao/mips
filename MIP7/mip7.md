@@ -6,6 +6,7 @@ MIP#: 7
 Title: Onboarding and Offboarding Domain Teams (Collateral Onboarding)
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
+Tags: process, personnel-xboarding, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -24,7 +25,7 @@ MIP7 defines processes for onboarding and offboarding domain teams.
 
 ## Paragraph Summary
 
-The Domain Teams Onboarding & Offboarding proposal provides a predictable framework for both onboarding and offboarding domain teams required for the collateral onboarding process.
+The Domain Teams Onboarding and Offboarding proposal provides a predictable framework for both onboarding and offboarding domain teams required for the collateral onboarding process.
 
 ## Component Summary
 
@@ -50,14 +51,14 @@ The Maker Protocol requires a decentralized workforce in order to onboard new co
 
 - **Oracle Teams** are responsible for designing oracle feed mechanisms for new collateral types, compelling the oracles to upgrade their nodes with new price feeds for new collateral types via MIP10, and creating the oracle work product for collateral onboarding.
 - **Smart Contracts Teams** are responsible for developing and deploying the collateral adapter for new collateral onboarding, and creating the technical work product for collateral onboarding proposals.
-- **Risk Teams** are responsible for creating the risk construct for a collateral onboarding proposal. As a part of the collateral on-boarding process, they also need to get a general model ratified on which they can base their risk construct.
+- **Risk Teams** are responsible for creating the risk construct for a collateral onboarding proposal. As a part of the collateral onboarding process, they also need to get a general model ratified on which they can base their risk construct.
 - **Legal Teams** are in some cases necessary for collateral onboarding, when dealing with assets that have legal claims attached to them. They create the legal work product for collateral onboarding.
 
 ---
 
 ### MIP7c2: The Current Domain Roles List
 
-This list can be amended through the onboarding (MIP7c3) and offboarding components (MIP7c4) of MIP7.
+This list can be amended through the onboarding (MIP7c3) and offboarding (MIP7c4) components of MIP7.
 
 **Entries into this list should follow the following template:**
 
@@ -110,7 +111,7 @@ MIP7c3 subproposals must use the template located at  **[MIP7c3-Subproposal-Temp
 
 MIP7c4 is a Process MIP component that allows the removal of a domain team using a subproposal.
 
-If offboarded through a MIP7c4 subproposal the domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
+If offboarded through a MIP7c4 subproposal, the domain team is removed from the Current Domain Team Roles list defined in MIP7c2 by a MIP Editor.
 
  MIP7c4 subproposals have the following parameters:
 - **Feedback Period**: 0 days

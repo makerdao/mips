@@ -5,6 +5,7 @@
 MIP#: 10
 Title: Oracle Management
 Author(s): Niklas Kunkel (@NiklasKunkel), Charles St.Louis (CPSTL), Rune Christensen (@Rune23)
+Tags: process, oracles, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -94,7 +95,7 @@ A process component that defines the method and template to update the Oracle Ac
 ### Feeds:
 
 **Description**
-Feeds are bots run by individuals and organizations that submit data to the Oracles. There are two types of Feeds; Dark Feeds run by anonymous individuals, and Light Feeds run by public organizations. This hybrid model preserves the hardness properties of Dark Feeds but benefits from the reputation of Light Feeds who are stakeholders in the ecosystem and are effectively staking their reputation. Feeds are paid a monthly Feed Stipend for the service they provide that is determined by governance.
+Feeds are bots run by individuals and organizations that submit data to the Oracles. There are two types of Feeds: Dark Feeds run by anonymous individuals and Light Feeds run by public organizations. This hybrid model preserves the hardness properties of Dark Feeds but benefits from the reputation of Light Feeds who are stakeholders in the ecosystem and are effectively staking their reputation. Feeds are paid a monthly Feed Stipend for the service they provide that is determined by governance.
 
 **MIP10c13: Process to Appoint Dark Feed**
 A process component that defines the method and template to appoint a Dark Feed.

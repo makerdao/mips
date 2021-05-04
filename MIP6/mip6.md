@@ -6,6 +6,7 @@ MIP#: 6
 Title: Collateral Onboarding Application
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (Mitote), Helge Andreas Qvam (@planet_X)
+Tags: process, collateral-onboarding, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -51,7 +52,7 @@ Although this is only one component of the overall collateral onboarding process
 **Collateral Onboarding Form / Form Template**
 1.  Fill out the application/questions in as much detail as you're willing.
 
-    -   Once filled out, the application must be published on the official MakerDAO forum and should be posted within the `Collateral Onboarding Applications (MIP6)` subcategory within the `Collateral Onboarding` category.
+    -   Once filled out, the application must be published on the official MakerDAO forum and should be posted within the [`Collateral Onboarding Applications (MIP6)` subcategory within the `Collateral Onboarding` category](https://forum.makerdao.com/c/collateral-onboarding/co/17).
     -   This post should have the tag `collateral-app.`
     -   Note that an 'interested party' refers to anybody willing to act as a stakeholder for this onboarding process.
 

@@ -11,6 +11,10 @@ Date Proposed: 2020-11-19
 Date Ratified:
 ``` 
 
+## Sentence Summary
+MIP10c9-SP14 whitelists Yearn Finance for YFI/USD Oracle Access.
+
+
 ## Disclaimer
 
 MIP10 is meant to handle all of the Oracle related actions. Unfortunately MIP10 has inconsistencies and doesn’t conform to the monthly governance cadence that the Maker Improvement Proposal framework is built around. This has generated a backlog of Oracle proposals. While MIP10 is refactored to conform to the regular MIP process, Oracle proposals such as this one will utilize the more liberal weekly governance cycle. While strictly speaking this makes them not subproposals, they are included in the subproposal archive as a point of provenance to serve as a paper trail.

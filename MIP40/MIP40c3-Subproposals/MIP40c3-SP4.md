@@ -1,15 +1,15 @@
-
-# MIP40c2-SP4: Core Unit Budget, GRO-001
+# MIP40c3-SP4: Core Unit Budget, GRO-001
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 4
+MIP40c3-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
-Status: RFC
+Tags: core-unit, core-unit-budget, mip-set, gro-001-mipset
+Status: Accepted
 Date Applied: 2021-02-24
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-04-27
 ```
 
 ## Specification
@@ -54,19 +54,13 @@ We want to focus our efforts on getting more RWA collateral types and also maint
 
 The Growth Core Unit will consist of the following members in the May/June/July budget period.
 
-**![|645x220](upload://aKlLyax2CD3EGEdcHNmqFu1NsdO.png)**
-
-**![|626x214](upload://3GfnZWFKHroR5QmwV3PQtdfzt6x.png)**
-
-**![|610x211](upload://thjTRhJdpGduecUD4T7jTjHncsA.png)**
-
-**![|609x206](upload://heUWVAfJ8wPt3zF1iPTAedjEEPk.png)**
-
-**![|600x208](upload://5jj55UhPFBSTSWuzKhvk5N2pAAj.png)**
-
-**![|602x208](upload://6mM10VBV1GT2dJsw5uTOBLqsM0r.png)**
-
-**![|614x214](upload://sX8Bw1a8J5SCqS6XiDeZAJMGKAB.png)**
+![nadia](https://user-images.githubusercontent.com/32653033/114280027-70a04e00-9a05-11eb-911b-9862ca4b4961.png)
+![jen](https://user-images.githubusercontent.com/32653033/114280063-9d546580-9a05-11eb-8127-62be8bf22721.png)
+![matt](https://user-images.githubusercontent.com/32653033/114280065-9e859280-9a05-11eb-9ad4-0e0f6b5d128d.png)
+![mdp](https://user-images.githubusercontent.com/32653033/114280066-9fb6bf80-9a05-11eb-9c22-2c50d7ef556b.png)
+![luis](https://user-images.githubusercontent.com/32653033/114280068-a1808300-9a05-11eb-9965-5c0f7d9bdccd.png)
+![gustav](https://user-images.githubusercontent.com/32653033/114280069-a2b1b000-9a05-11eb-8e3d-198c65d6ca67.png)
+![doo](https://user-images.githubusercontent.com/32653033/114280094-c4ab3280-9a05-11eb-85dc-7c1da6081468.png)
 
 ### Quarterly Budget
 
@@ -77,9 +71,13 @@ The Business Development contributors should feel persuaded toward behaviors tha
 The compensation structure follows these rules:
 
 1. Two-quarters of goal achievement constitutes a 10% raise in base pay.
+
 2. Not meeting goals results in base pay stagnation.
+
 3. Less than 50% of goal number achieved results in 0 bonus for the quarter.
+
 4. Bonus pay is determined as a percentage of base pay and is relative to the goal number’s achievement.
+
 5. Bonus is capped at 100% of base pay.
 
 **Budget for Integrations.**
@@ -87,7 +85,9 @@ The compensation structure follows these rules:
 When we are working with a future partner, part of our job is to create a way to help that partner give more visibility to the new solution supported by the Maker Protocol. Sometimes the execution of that idea requires a budget for different purposes:
 
 * Educational purposes: When a partner wants to explain to their user/customer base about the new product, usually this is for creating content in a particular language oriented to a defined audience.
+
 * Marketing purposes: Budget for the execution of a marketing campaign to help our partner expose the usage of the new solution.
+
 * Technical purposes: Some partners who are not part of the crypto ecosystem need specialized help to integrate the Maker protocol with their systems.
 
 **Operations.**
@@ -95,8 +95,11 @@ When we are working with a future partner, part of our job is to create a way to
 Once we start our core unit, we have to think about:
 
 * Enabling support systems, such as business productivity and collaboration tools and a CRM
+
 * Hiring a legal advisor to create an LLC
+
 * Admin expenses
+
 * Travels
 
 **Opportunities.**
@@ -127,3 +130,4 @@ Budget implementation: Manual
 Payment per month: 126,117.00 Dai per month
 Asset type: DAI
 Payment Frequency: First 10 days of each month
+Growth Multisig Wallet: 0x7800C137A645c07132886539217ce192b9F0528e
