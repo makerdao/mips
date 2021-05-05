@@ -5,7 +5,7 @@
 ```
 MIP40c2-SP9
 Author(s): Kathleen Chu
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```
