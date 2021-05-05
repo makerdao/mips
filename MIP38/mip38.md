@@ -77,6 +77,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ### MIP38c2: Core Unit State
 
 #### Real-World Finance
+
 - **ID** - RWF-001
 - **Summary** - This Core Unit is designed to pursue Real-World Asset work and more generally helps MakerDAO to take over the traditional finance world.
 - **Date Ratified** - 2021-25-03
@@ -89,6 +90,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### Risk
+
 - **ID** - RISK-001
 - **Summary** - Risk Core Unit ensures Maker Protocol can continue to grow safely by having proper risk management parameters and risk mitigation tools applied.
 - **Date Ratified** - 2021-25-03
@@ -101,6 +103,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### Governance
+
 - **ID** - GOV-001
 - **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and - well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
 - **Date Ratified** -  2021-25-03
@@ -113,6 +116,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### Protocol Engineering
+
 - **ID** - PE-001
 - **Summary** - The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.
 - **Date Ratified** -  2021-27-04
@@ -125,6 +129,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### Growth
+
 - **ID** - GRO-001
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
 - **Date Ratified** -  2021-27-04
@@ -137,6 +142,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### Content Production
+
 - **ID** - MKT-001
 - **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
 - **Date Ratified** -  2021-27-04
@@ -149,6 +155,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ---
 
 #### MakerDAO Shop
+
 - **ID** - MDS-001
 - **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store
 - **Date Ratified** -  2021-27-04
