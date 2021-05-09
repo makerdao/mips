@@ -1,23 +1,21 @@
-# MIP40c3-SP9: Core Unit Budget, CPM-001
 
 ## Preamble
 
 ```
 MIP40c2-SP9
 Author(s): Kathleen Chu
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```
-
 ## Sentence Summary
 
-MIP40c3-SP9 adds the budget for Core Unit CPM-001: Strategic Marcomms.
+MIP40c3-SP9 adds the budget for Core Unit CPM-001: Strategic Marcomms
 
-## Specification
+## Specification     
+## Motivation
 
-### Motivation
-
+ 
 The Strategic Marcomms unit, formed by a team of experienced professionals, plays a vital role in representing the MakerDAO brand in the eyes of potential users and partners.
 
 The complexity of the products and undefined regulatory frameworks in major jurisdictions in the cryptocurrency sector means the team has to be diligent communicators capable of executing marketing plans while being mindful of the potential concerns of users and regulators.
@@ -32,7 +30,8 @@ The stablecoin market with a $60 billion market cap has surged exponentially in 
 
 [Strategic Marcomms](https://forum.makerdao.com/t/mip39c2-strategic-marcomms-core-unit/7189)
 
-### Budget Composition
+
+### Budget Composition 
 
 On average, marketing budgets account for about [10 percent](https://deloitte.wsj.com/cmo/2017/01/24/who-has-the-biggest-marketing-budgets/) of a company's revenue. Together with the PR communications, they function as revenue drivers.
 
@@ -43,7 +42,6 @@ The budget is about 8.2 percent of the Maker protocol's revenue (based on estima
 **Budget Breakdown**
 
 **People:**
-
 This budget ensures that MakerDAO attracts and retains creative and diligent professionals to reach new markets and users. The estimates are within the compensation range in reports published by major HR consulting agencies based on job levels and experience.
 
 The table below gives an overview of the number of people that plan to join the unit, and the number of people we need to hire.
@@ -60,13 +58,11 @@ The table below gives an overview of the number of people that plan to join the 
 |Freelancers||2|
 
 **Marketing & PR:**
-
 This budget covers upcoming marketing campaigns, advertising, and cost for hiring PR agencies in locations we identify as top markets that can provide relatively high ROI. It also includes joint campaigns with potential partners in major markets such as the U.S, Japan, EU regions. The budget also ensures we sponsor the most significant events and host educational and exciting events for potential users. 
 
 The budget also includes content that is educational, relatable, easy for potential users to read while further strengthening our already-established position in the DeFi and Web 3 space. The content will be in the form of blog posts and audios.
 
 **Outreach Programs:**
-
 This budget includes the initiatives listed below that are aimed at reaching out to new audiences.
 
 * Ambassador program
@@ -75,18 +71,15 @@ This budget includes the initiatives listed below that are aimed at reaching out
 * Community management
 
 **Administration:**
-
 This budget is for daily operation, recruitment fees, accounting, IT subscriptions, and recruitment so the unit can focus on fulfilling their mandate. It also includes traveling for the team on speaking engagement post COVID.
 
 **Legal & Consultation:**
-
 This budget ensures the unit has a global legal counsel on retainer, in addition to hiring counsels for crucial jurisdictions such as the U.S., Japan, and the EU.
 
 **Incentives:**
-
 A 20 percent is added to the category of People to provide an incentive for the team members to achieve their deliverables. The unit is interested in MKR vesting being discussed by the community. We support such a framework and await the outcome of MKR-related discussions for MakerDAO units. We plan to change our incentive structure accordingly after the governance community reaches its conclusion.
-
-**![|501x280](upload://jzprCVdZnXql6rXGvD2n90435j0.png "Chart")**
+ 
+![image](https://user-images.githubusercontent.com/32653033/117306089-61b68b00-ae4d-11eb-8574-8971e994e927.png)
 
 |Categories|Annual Budget (DAI)|% to Total|
 | --- | --- | --- |
@@ -100,19 +93,25 @@ A 20 percent is added to the category of People to provide an incentive for the 
 |Total|4,764,764||
 ||(8.2% of estimated revenue)||
 
+
 **Moonshot Fund:**
 Opportunities for ad placement may arise with high ROI, in which case we will need to act fast on confidential information and have the funding ready to deploy. We ask for five million DAI of additional budget to be put aside for the Moonshot fund. We will only access this budget after the unit carefully conducts due diligence, evaluates the ROI, and decides whether it is worth pursuing.
 
-### Budget Implementation
+### Budget Implementation 
 
-There are costs associated with setting up the unit such as prepayment, legal advice, one-time deposit, and bank account. We ask for an advancement of the funding prior to the starting date to cover costs needed. An annual budget brings monthly cost to 397,064 DAI.
+An annual budget brings monthly cost to 397,064 DAI.
 
 Budget implementation: Simple
-Advancement: 100,000 DAI
-First month: 297,064 DAI
-Second and third month: 397,064 DAI each
+
+First month: 5,397,064 DAI (5 million DAI of Moonshot fund included)
+
+Second month on: 397,064 DAI each
+
 Asset type: DAI
-Payment Frequency: First day of each month
+
+Payment Date & Frequency: The first ten days of each month
+
+Strategic Marcomms Multisig Wallet: 0x21401cca9b3e237e6c5de9cd227cec690d566a60
 
 [Strategic Marcomms Core Unit](https://forum.makerdao.com/t/mip39c2-strategic-marcomms-core-unit/7189/2)  
 [Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-facilitator-onboarding/7191)

@@ -1,4 +1,3 @@
-
 # MIP40c3-SP10: Modify Core Unit Budget
 
 ## Preamble
@@ -6,7 +5,7 @@
 MIP40c2-SP#: 10
 Author(s): @wouter, @juanjuan
 Contributors:
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-04-07
 Date Ratified: <yyyy-mm-dd>
 ```

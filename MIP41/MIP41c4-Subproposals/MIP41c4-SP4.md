@@ -6,9 +6,10 @@
 MIP41c4-SP#: 4
 Author(s): Nadia Alvarez
 Contributors:
-Status: Formal Submission
+Tags: core-unit, mip-set, gro-001-mipset
+Status: Accepted
 Date Applied: 2021-02-24
-Date Ratified:
+Date Ratified: 2021-04-27
 ```
 
 ## Sentence Summary
