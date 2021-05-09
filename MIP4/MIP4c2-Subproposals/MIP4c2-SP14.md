@@ -14,6 +14,10 @@ Date of ratification:
 
 ## Specification
 
+### Paragraph Summary
+
+This MIP Amendment trims down, reformats and partly rewords MIP0 with the intent of making it easier to read and navigate. This MIP Amendment does not change MIP0's logic and processes.
+
 ### Motivation
 
 Over time, MIP0 has accrued a moderately heavy baggage of outdated content and a somewhat lighter baggage of rushed edits and incoherence. We feel it is high time MIP0 got a revamp that trims down the excess, brings it up-to-date, and makes it less intimidating for the newcomer and easier to navigate for everyone.
