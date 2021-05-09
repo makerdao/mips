@@ -13,6 +13,18 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Specification
 
+## Paragraph Summary
+
+
+The Strategic Marcomms unit aims to take MakerDAO to the next level of growth through outreach, branding, marketing, and ads campaigns. It will focus on MakerDAO's target audience groups and markets. Our objectives are:
+
+ * Increasing the awareness of Dai and the Maker Protocol
+ * Boosting Dai adoption through promotions and partnerships
+ * Addressing marketing and PR-related needs from other core units such as priming potential partners for business development and RWA adoption-related discussions
+ * Evolving and collaborating with other units and the community
+
+ The unit, formed by experienced professionals and passionate community members, will oversee the marketing and communications for MakerDAO.
+
 ## Motivation
 
 The MakerDAO community is energetic and highly engaged, thanks to the core community's concerted efforts and initiatives. The unit recognizes that reaching new audiences and users is vital for Dai's mass adoption. Based on that conclusion, the unit is formed to be dedicated to outreach.
