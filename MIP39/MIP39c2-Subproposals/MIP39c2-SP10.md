@@ -15,6 +15,17 @@ Date Ratified: <yyyy-mm-dd>
 
 MIP39c2-SP10 adds Core Unit SES-001: Sustainable Ecosystem Scaling.
 
+## Paragraph Summary
+
+The Sustainable Ecosystem Scaling Core Unit aims to sustainably grow the Maker Protocol’s moats by removing barriers between decentralized workforce, capital, and work.
+
+This decentralized, effective, and scalable economy:
+* Has the best and most successful onboarding experience for new participants, with the highest retention rate in the industry.
+* Allows everyone to find the capital they need to work on the best projects which (1) optimally drive protocol growth and (2) are most fulfilling for its participants.
+* Has resilient safety mechanisms in place that prevent protocol failure while leaving ample space for rapid innovation and experimentation.
+
+Through Opportunity and Risk Assessment, Research, and Incubation Programs, SES aims to provide Sponsorship and Advisory services to grow MakerDAO.
+
 ## Specification
 
 *Note: the information presented in this section, and more, is available as [permanent documentation in our public drive](https://drive.google.com/drive/folders/1rjeOpHmE-kgFvkrliw2DlI810FhxPkp7) as part of our transparency reporting. It will be kept up-to-date even after the publication and approval of this MIP.*
