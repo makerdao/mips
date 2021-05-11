@@ -16,7 +16,7 @@ Date Ratified: N/A
 MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
-MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers the months of July, August, and September of 2021. It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI this quarter - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
+MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI over 3 months - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
 
 ### Motivation
 
@@ -44,7 +44,7 @@ Proper educational knowledge is essential for newer participants to vote and eng
 - Expansion of Parameter Documentation for Liquidations 2.0 and RWA terms.
 - Adding educational content to the [MIPs Portal](https://mips.makerdao.com/). 
 
-We plan to work with the Content Productions Core Unit to create high-quality educational materials that are visually inviting and easy to engage with for newer users. 
+We plan to work with the Content Productions Core Unit to create high-quality educational materials that are visually inviting and easy for newer users to engage with. 
 
 #### Quality Assurance
 
@@ -54,7 +54,7 @@ For the polling and executive processes, we aim to improve templates and voting 
 
 For the signaling process, we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
 
-For the MIPs process we intend to make sure that MIP maintenance work is performed regularly by MIP Editors. 
+For the MIPs process, we intend to make sure that MIP maintenance work is performed regularly by MIP Editors. 
 
 We've also noticed some opportunities for improvement in time management and prioritization within GovAlpha, and we will be making an effort to make improvements here as well. Our aim is to ensure that our time is spent effectively and that deliverables are met consistently and with high quality.
 
@@ -66,7 +66,7 @@ The GovAlpha Team will consist of at least the following members in the July/Aug
 @prose11 - Full Commitment - Facilitator - Limited Experience*  
 
 **--MIP Editors--**  
-@blimpa - Full Time - MIP Editor*  
+@blimpa - Full Time - MIP Editor**  
 @charlesstlouis - Part Time -  MIP Editor  
 
 **--Contributors--**  
@@ -74,6 +74,9 @@ The GovAlpha Team will consist of at least the following members in the July/Aug
 _Unfilled_ - Part Time PM / Operations  
 _Unfilled_ - Part Time Contributor  
 _Unfilled_ - Part Time Contributor  
+
+\* @prose11 is aiming to move to 'Moderate Experience' after 2 months.  
+** @blimpa is aiming to take on the role of MIP Editor in the next quarter.
 
 ### Quarterly Budget - June/August/September
 
@@ -102,7 +105,7 @@ The multiplier for partial commitment is higher than one might initially expect 
 | **Experience - Moderate**    |       96,000 DAI     |     120,000 DAI   |
 | **Experience - Experienced** |       144,000 DAI     |     180,000 DAI    |
 
-#### Breakdown
+#### Budget Breakdown
 
 | **Item**                          | **Amount**      |
 |-----------------------------------|-----------------|
@@ -129,13 +132,15 @@ The multiplier for partial commitment is higher than one might initially expect 
 | Continuity Budget                 | 150,000 DAI     |
 | **Total**                         | **532,750 DAI** |
 
+The full budget can be found [here](https://docs.google.com/spreadsheets/d/1o_IiwcBtN50o4rFH6Wbhhj7RDCKCNjDCHYX3WG4NGFU/edit#gid=1620670023).
+
 #### Remarks
 
 **SourceCred**
 
 SourceCred has largely been a successful experiment within the community, however, it remains largely a manual, trustful process. The 'Feature Development' budget item here funds work on SourceCred that will help to move distribution payments on-chain such that it can operate in a more trustless manner and be administered directly by Maker Governance.
 
-We will also maintain the current expenditures for SourceCred operation and support. We are asking for a slightly increased budget for payouts to accomodate for the recent rise in opt-ins and active contributors within MakerDAO.
+We will also maintain the current expenditures for SourceCred operation and support. We are asking for a slightly increased budget for payouts to accommodate the recent rise in opt-ins and active contributors within MakerDAO.
 
 **Contingency Buffer**
 
@@ -143,11 +148,11 @@ Once again GovAlpha is including a not-insignificant contingency buffer. While w
 
 **Travel**
 
-As in-person events once against become a regular occurance, we wish to budget explicitly for any travel expenses that may arise in the next few months.
+As in-person events once again become a regular occurrence, we wish to budget explicitly for any travel expenses that may arise in the next few months.
 
 **Continuity Budget**
 
-We are requesting a portion of this quarter's budget allocation for the specific purposes of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI unfeasible.
+We are requesting a portion of this quarter's budget allocation for the purpose of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI infeasible.
 
 150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovAlpha cannot receive monthly budget payments from the protocol. 
 
@@ -158,3 +163,11 @@ We are requesting a portion of this quarter's budget allocation for the specific
 Assuming that Payton Rose (@prose11) will be confirmed as a facilitator, we will set up a GovAlpha multi-sig wallet that will be owned by governance and administered by GovAlpha facilitators for the purpose of funding the operations of the GovAlpha core unit. The details of this wallet will be shared once it has been set up.
 
 In the event of Payton Rose (@prose11) failing to be ratified as a facilitator of GovAlpha, the Core Unit will continue to use the Interim DAO Multi-sig wallet located at this address **0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff** that was used for the previous quarter.
+
+**Payout Dates**  
+July - 277,584 DAI  
+August - 127,584 DAI  
+September - 127,584 DAI  
+
+
+
