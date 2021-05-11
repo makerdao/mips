@@ -124,7 +124,7 @@ The multiplier for partial commitment is higher than one might initially expect 
 | Contingency Buffer                | 70,000 DAI      |
 | Gas                               | 5,000 DAI       |
 | Travel                            | 6,000 DAI       |
-| Contingency Budget                | 150,000 DAI     |
+| Continuity Budget                 | 150,000 DAI     |
 | **Total**                         | **532,750 DAI** |
 
 #### Remarks
