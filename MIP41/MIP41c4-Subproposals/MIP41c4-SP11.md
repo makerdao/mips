@@ -35,7 +35,7 @@ Name: Payton Rose
 
 Permissioned Address: 0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE
 
-*Note that this permission address will be used as a keyholder in a relevant multi-sig wallets and not for compensation or budget distributions.* 
+*Note that this permission address will be used as a keyholder in relevant multi-sig wallets and not for compensation or budget distributions.* 
 
 Forum Handle: [@prose11](https://forum.makerdao.com/u/prose11/summary)
 
