@@ -35,7 +35,7 @@ GovAlpha (GOV-001)
 Proper educational knowledge is essential to being able to participate in Maker Governance. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts in three key areas:
 - Ongoing development of the Maker Operational Manual. 
 - Expansion of Parameter Documentation for Liquidations 2.0 and RWA terms.
-- Adding educational content to the [MIPs Portal](mips.makerdao.com). 
+- Adding educational content to the [MIPs Portal](mips.makerdao.com).
 
 We plan to work closely with the Content Productions Core Unit to ensure our educational materials are of the highest quality and are visually inviting from a newer-user perspective. 
 
