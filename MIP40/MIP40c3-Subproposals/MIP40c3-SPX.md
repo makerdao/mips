@@ -54,6 +54,8 @@ For the polling and executive processes, we aim to improve templates and voting 
 
 For the signaling process, we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
 
+For the MIPs process we intend to make sure that MIP maintenance work is performed regularly by MIP Editors. 
+
 We've also noticed some opportunities for improvement in time management and prioritization within GovAlpha, and we will be making an effort to make improvements here as well. Our aim is to ensure that our time is spent effectively and that deliverables are met consistently and with high quality.
 
 ### Team Membership
@@ -105,9 +107,9 @@ The multiplier for partial commitment is higher than one might initially expect 
 | **Item**                          | **Amount**      |
 |-----------------------------------|-----------------|
 | **People**                        |                 |
-| Core Unit Facilitators Salary (2) | 59,000 DAI      |
-| MIP Editor (2)                    | 24,500 DAI      |
-| Main Contributors (4)             | 51,250 DAI      |
+| Core Unit Facilitators (2)        | 59,000 DAI      |
+| MIP Editors (2)                   | 24,500 DAI      |
+| Contributors (4)                  | 51,250 DAI      |
 | **Programs**                      |                 |
 | SourceCred Payouts                | 85,000 DAI      |
 | SourceCred Customization/Support  | 6,500 DAI       |
@@ -129,9 +131,19 @@ The multiplier for partial commitment is higher than one might initially expect 
 
 #### Remarks
 
+**SourceCred**
+
+SourceCred has largely been a successful experiment within the community, however, it remains largely a manual, trustful process. The 'Feature Development' budget item here funds work on SourceCred that will help to move distribution payments on-chain such that it can operate in a more trustless manner and be administered directly by Maker Governance.
+
+We will also maintain the current expenditures for SourceCred operation and support. We are asking for a slightly increased budget for payouts to accomodate for the recent rise in opt-ins and active contributors within MakerDAO.
+
 **Contingency Buffer**
 
 Once again GovAlpha is including a not-insignificant contingency buffer. While we do feel slightly more confident about the operations of the Core Unit with a few months of experience gained, we remain concerned about the rapid pace of development within the DAO, and we wish to be prepared to take advantage of any opportunities that present themselves. 
+
+**Travel**
+
+As in-person events once against become a regular occurance, we wish to budget explicitly for any travel expenses that may arise in the next few months.
 
 **Continuity Budget**
 
