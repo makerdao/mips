@@ -32,7 +32,9 @@ Professionally, I would like to grow into a publicly responsible manager of reso
 
 Name: Payton Rose
 Forum Handle: [@prose11](https://forum.makerdao.com/u/prose11/summary)
+
 Rocket.Chat Handle: [@prose11](https://chat.makerdao.com/direct/QzN6eEAXgnERPYpwh)
+
 GitHub: [@prose11](https://github.com/prose11) 
 
 ### Relevant Credentials
