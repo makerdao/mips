@@ -107,8 +107,7 @@ The multiplier for partial commitment is higher than one might initially expect 
 | **People**                        |                 |
 | Core Unit Facilitators Salary (2) | 59,000 DAI      |
 | MIP Editor (2)                    | 24,500 DAI      |
-| Main Contributors (3)             | 39,000 DAI      |
-| Potential New Contributors (1)    | 12,250 DAI      |
+| Main Contributors (4)             | 51,250 DAI      |
 | **Programs**                      |                 |
 | SourceCred Payouts                | 85,000 DAI      |
 | SourceCred Customization/Support  | 6,500 DAI       |
