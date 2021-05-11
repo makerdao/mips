@@ -40,6 +40,12 @@ GovAlpha will also attempt to convince larger MKR token holders to delegate some
 
 #### Education
 
+Proper educational knowledge is essential to being able to participate in Maker Governance. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts in three key areas:
+- Ongoing development of the Maker Operational Manual. 
+- Expansion of Parameter Documentation for Liquidations 2.0 and RWA terms.
+- Adding educational content to the [MIPs Portal](mips.makerdao.com). 
+
+We plan to work closely with the Content Productions Core Unit to ensure our educational materials are of the highest quality and are visually inviting from a newer-user perspective. 
 
 
 #### Quality Assurance
@@ -96,7 +102,37 @@ The multiplier for partial commitment is higher than one might initially expect 
 
 #### Breakdown
 
+| **Item**                          | **Amount**      |
+|-----------------------------------|-----------------|
+| **People**                        |                 |
+| Core Unit Facilitators Salary (2) | 59,000 DAI      |
+| MIP Editor (2)                    | 24,500 DAI      |
+| Main Contributors (3)             | 39,000 DAI      |
+| Potential New Contributors (1)    | 12,250 DAI      |
+| **Programs**                      |                 |
+| SourceCred Payouts                | 85,000 DAI      |
+| SourceCred Customization/Support  | 6,500 DAI       |
+| SourceCred Feature Development    | 36,000 DAI      |
+| DaiStats Support                  | 1,500 DAI       |
+| CatFlip Equivalent Development    | 6,000 DAI       |
+| DAI Backing Support               | 6,000 DAI       |
+| MIPs Portal                       | 20,000 DAI      |
+| Forum Customization               | 4,000 DAI       |
+| **Admin**                         |                 |
+| Undetermined Software             | 1,900 DAI       |
+| Payroll Software                  | 100 DAI         |
+| **Other Costs**                   |                 |
+| Contingency Buffer                | 70,000 DAI      |
+| Gas                               | 5,000 DAI       |
+| Travel                            | 6,000 DAI       |
+| Continuity Budget                 | 150,000 DAI     |
+| **Total**                         | **532,750 DAI** |
+
 #### Remarks
+
+**Continuity Budget**
+
+We are requesting a portion of this quarter's budget allocation for the specific purposes of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI unfeasible. 150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovALpha cannot receive monthly budget payments from the protocol. 
 
 ### Budget Implementation
 
