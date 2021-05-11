@@ -16,8 +16,7 @@ Date Ratified: N/A
 MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
-**To be completed**  
-MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers the months of July, August, and September of 2021. It communicates three focuses for GovAlpha over the quarter: Delegation, Education and Quality Assurance. GovAlpha is asking for a budget of...
+MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers the months of July, August, and September of 2021. It communicates three focuses for GovAlpha over the period: Delegation, Education and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI this quarter - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
 
 ### Motivation
 
@@ -32,29 +31,30 @@ GovAlpha (GOV-001)
 
 Delegation has always been a longer-term focus for the development of governance within MakerDAO. Given recent events and the need to have delegates operating effectively as soon as possible, this is something GovAlpha plans to focus on over the next quarter. 
 
-We are hoping to launch delegation at Maker in a structured and effective way that allows MKR Holders to choose one or more delegate that they feel is compatible with their views. GovAlpha aims to promote delegates that opt-in to a lightweight framework that sets some lightweight guidelines for delegates to follow. The aim here is to create a tradition of communication and transparency around delegates within MakerDAO - hopefully leading to a more predictable and efficient process for decision-making within the DAO.
+We are hoping to launch delegation at Maker in a structured and effective way that allows MKR Holders to choose one or more delegate that they feel is compatible with their views. GovAlpha aims to promote delegates that opt-in to a lightweight framework that sets some guidelines for delegates to follow.The aim here is to create a tradition of communication and transparency around delegates within MakerDAO - hopefully leading to a more predictable and efficient process for decision-making as governance evolves.
+
+GovAlpha will also attempt to convince larger MKR token holders to delegate some portion of their MKR holdings to the public delegates that opt-in to this lightweight framework. We believe that this will lead to more MKR active in governance and more thorough debate.
 
 Subsequent to the launch of delegation, we plan to continue to organise and deliver improvements and integration of delegate functionality into the voting portal.
 
-GovAlpha will also attempt to convince larger MKR token holders to delegate some portion of their MKR holdings to the public delegates that opt-in to this lightweight framework. We believe that this will have numerous benefits, and will lead to more active MKR, more thorough debate and blunt the arguments of centralization around larger MKR holders.
-
 #### Education
 
-Proper educational knowledge is essential to being able to participate in Maker Governance. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts in three key areas:
+Proper educational knowledge is essential for newer participants to vote and engage effectively in governance at MakerDAO. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts in three key areas:
 - Ongoing development of the Maker Operational Manual. 
 - Expansion of Parameter Documentation for Liquidations 2.0 and RWA terms.
-- Adding educational content to the [MIPs Portal](mips.makerdao.com). 
+- Adding educational content to the [MIPs Portal](https://mips.makerdao.com/). 
 
-We plan to work closely with the Content Productions Core Unit to ensure our educational materials are of the highest quality and are visually inviting from a newer-user perspective. 
-
+We plan to work with the Content Productions Core Unit to create high-quality educational materials that are visually inviting and easy to engage with for newer users. 
 
 #### Quality Assurance
 
-As the DAO grows and governance decisions become more meaningful and wide reaching, it is critical that governance continues both smoothly and effectively. To this end, we feel that we should spend some time and effort focusing on hardening the governance processes that GovAlpha operates. It is easy to fall into habits and 'grooves' with certain processes which can lead to them to continue to operate in a sub-optimal manner past the point where they should be improved.
+As the DAO grows and governance decisions become more meaningful and impactful, it is critical that governance continues both smoothly and effectively. To this end, we feel that we should spend some time and effort on ensuring quality across the governance processes that GovAlpha operates. It is easy to fall into habits and 'grooves' with certain processes which can lead to them to continue to operate in a sub-optimal manner past the point where they should be improved.
 
-For the polling and executive processes, we aim to improve templates and voting portal user-interface to deliver information in the most intuitive and consumable way possible to voters. For the signalling process we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
+For the polling and executive processes, we aim to improve templates and voting portal user-interface to deliver information in the most intuitive and consumable way possible to voters. 
 
-More recently we've also noticed some issues around time management and prioritization within GovAlpha, and we will be making an effort to make improvements here as well. Our aim is to ensure that nothing is omitted or delivered late as a result of bad resource management.
+For the signalling process we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
+
+We've also noticed some opportunities for improvement in time management and prioritization within GovAlpha, and we will be making an effort to make improvements here as well. Our aim is to ensure that our time is spent effectively and that deliverables are met consistently and with high quality.
 
 ### Team Membership
 The GovAlpha Team will consist of at least the following members in the July/August/September budget period.
@@ -130,9 +130,15 @@ The multiplier for partial commitment is higher than one might initially expect 
 
 #### Remarks
 
+**Contingency Buffer**
+
+Once again GovAlpha is including a not-insignificant contingency buffer. While we do feel slightly more confident about the operations of the Core Unit with a few months of experience gained, we remain concerned about the rapid pace of development within the DAO, and we wish to be prepared to take advantage of any opportunities that present themselves. 
+
 **Continuity Budget**
 
-We are requesting a portion of this quarter's budget allocation for the specific purposes of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI unfeasible. 150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovALpha cannot receive monthly budget payments from the protocol. 
+We are requesting a portion of this quarter's budget allocation for the specific purposes of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI unfeasible.
+
+150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovAlpha cannot receive monthly budget payments from the protocol. 
 
 ### Budget Implementation
 
