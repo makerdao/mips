@@ -1,0 +1,32 @@
+# MIP53c5 Subproposal: MKR Compensation Guidelines Amendment [Template]
+
+```
+Preamble
+```
+
+## Identification
+
+* Name of Core Unit
+
+
+## Pre-amendment status
+
+* Compensation tier
+* Full time equivalent members
+* MKR per person per year
+* Other (such as DAI per MKR at specific date for benchmarking purposes)
+
+
+## Post-amendment status
+
+* Compensation tier
+* Full time equivalent members
+* MKR per person per year
+* Other (such as DAI per MKR at specific date for benchmarking purposes)
+
+
+## Justification for Change
+
+* Text
+* References
+
