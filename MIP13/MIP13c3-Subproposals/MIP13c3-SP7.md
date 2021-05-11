@@ -1,17 +1,21 @@
 # MIP13c3-SP7: Governance Communications
 
-## Preamble 
-
+## Preamble
 ```
 MIP13c3-SP#: 7
 Author(s): @twblack88 @DavidUtro
 Contributors: @JerryAG, @scottrepreneur, @anna, @seth
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-11-6
-Date Ratified: <N/A>
+Date Ratified: 2021-01-30
+---
 Declaration Statement: Maker Governance intends to form a Governance Communications domain with the mandate described in this declaration.
 Declaration to Replace: n/a
 ```
+
+## Sentence Summary
+
+MIP13c3-SP7 declares that Maker Governance intends to form a Governance Communications domain with the mandate described in this document.
 
 ## Specification
 
@@ -23,10 +27,9 @@ Domain teams only have so much time in a day to moderate discussions and keep th
 
 Around March 13 2020, a team of contributors came together to start experimenting and explore the contours of this problem space. Thanks to the generosity of community development grants, and project planning, the group produces the Maker Relay, governance call snippets, a governance focused twitter, and coordinates with the governance call summary team. Our intent is to formally confirm that this Domain should exist, outline the mandate of said team, and explore speaking on Governance’s behalf.
 
-
 ### Declaration Detail
 
-**Maker Governance declares its intention to form a Governance Communications Domain with the following mandate.** 
+**Maker Governance declares its intention to form a Governance Communications Domain with the following mandate.**
 
 **The Governance communications mandate** encompasses the facilitation of products, services, and updates that increase the participation and efficiency of MakerDAO’s Governance. This team should condense activity and surface signal for everyone’s benefit.
 
@@ -34,31 +37,33 @@ To facilitate this the Governance Communications Domain will attempt to resolve 
 
 The working group has identified three directions of communication, each of which would be the responsibility of the Governance Communications Domain.
 
--   Communicating information between members of the DAO.
--   Communicating from the DAO to the public.
--   Communicating from the public to the DAO.
+- Communicating information between members of the DAO.
+    - *Clarification*: Intra-DAO Updates will be aggregated and simplified for all community members, including those who may not have specialized knowledge of the domain-team workflows (i.e. programming, smart contracts, communication).
+- Communicating from the DAO to the public.
+    - *Clarification*: Communications to the public will be accumulations/aggregations of community opinions and discussion, or votes and polls, in order to respond. Messages will be asterisked with a “not a definitive statement” or “any statements made could be voted on and rejected by the community” or “the DAO reserves the right to change it’s opinion.”
+- Communicating from the public to the DAO.
+    - *Clarification*: This direction will source continual questions, issues, even new ideas and present them to the DAO.
+
+The Governance Communications Domain is a bridge between all of these required communications directions.
 
 The Governance Communications Domain would operate under the principles of objectivity, simplicity, integrity and brevity.
 
-
---- 
+---
 
 ### Existing Initiatives
 
 We believe that these existing initiatives would fall under the Governance Communications Domain’s responsibilities.
 
-
-
-*   Maker Relay 
-    *   A weekly update of governance-related events, including current votes, prior week  vote results, proposals, forum deep dive,  as well as links to community calls/sync’s, discussions, and useful/relevant information. 
-*   Governance Call Snippets
-    *   An overview of Governance and Risk call, published the same day, ahead of the high-fidelity summary release. It aims to provide domain team updates, important discussions, and links from the chat for anyone unable to make the call or looking for a brief summary.
-*   Governance Call Summary Team
-    *   An in-depth, high-fidelity summary of the governance call for the more in-depth user that also serves an archival function. 
-*   MKRGov twitter 
-    *   A way to update a larger community on governance updates and encourage new users to become active in governance. 
-*   Voices of MakerDAO
-    *   A proposal for creating a podcast/audio version of governance updates.
+- Maker Relay
+    - A weekly update of governance-related events, including current votes, prior week  vote results, proposals, forum deep dive,  as well as links to community calls/sync’s, discussions, and useful/relevant information.
+- Governance Call Snippets
+    - An overview of Governance and Risk call, published the same day, ahead of the high-fidelity summary release. It aims to provide domain team updates, important discussions, and links from the chat for anyone unable to make the call or looking for a brief summary.
+- Governance Call Summary Team
+    - An in-depth, high-fidelity summary of the governance call for the more in-depth user that also serves an archival function.
+- MKRGov twitter
+    - A way to update a larger community on governance updates and encourage new users to become active in governance.
+- Voices of MakerDAO
+    - A proposal for creating a podcast/audio version of governance updates.
 
 ---
 
@@ -66,31 +71,31 @@ We believe that these existing initiatives would fall under the Governance Commu
 
 #### Domain questions and challenges
 
--   How can a DAO manage Public Relations?
-    -   In what circumstances should we make statements on behalf of the DAO?
-    -   When do we communicate sentiments from the public, from the forums, etc.?
-    -   How can a DAO respond to journalists in a timely and objective manner?
-    -   How can we provide thorough coverage of relevant events/procedures/news?
--  How should teams and individuals go about making statements on behalf of the DAO?
-    -   How do we communicate sentiments from the public, from the forums, etc.?
-    -   How can we be as close to objective and unbiased in our communications?
--   Can this Domain assist in clarity of working groups and Maker Governance’s actions/intentions?
--   How can the DAO become more welcoming to a global audience?
-
+- How can a DAO manage Public Relations?
+    - In what circumstances should we make statements on behalf of the DAO?
+    - When do we communicate sentiments from the public, from the forums, etc.?
+    - How can a DAO respond to journalists in a timely and objective manner?
+    - How can we provide thorough coverage of relevant events/procedures/news?
+- How should teams and individuals go about making statements on behalf of the DAO?
+    - How do we communicate sentiments from the public, from the forums, etc.?
+    - How can we be as close to objective and unbiased in our communications?
+- Can this Domain assist in clarity of working groups and Maker Governance’s actions/intentions?
+- How can the DAO become more welcoming to a global audience?
 
 ### Next steps
 
--   Create a Domain definition according to the MIP23 template
--   Continue producing Maker relay while experimenting with different distribution models and platforms. 
--   Explore different team structures to share/rotate responsibilities.
--   Create a formal framework for the specific tasks and responsibilities team(s) would like to handle.
-    -   Furthermore, surface new useful tasks and responsibilities for Governance and the Community as a whole. 
--   Validate team utility with data
-    -   Analytics will be collected (depending on where they’re being sourced) and aggregated into specific updates. These will be outlined in one of the frameworks, referred to above. 
-    -   Data will assist in quantifying the need for a domain team and responsibilities therein.
--   Create documentation, and find a canonical place for it to live. 
-    -   This would be written by the Gov-Comms team, and proposed to the general community for comments/questions/clarification.
-    -   Documentation would cover expectations around cadence, execution, role types, products, etc. This may be expanded on later.
+- Create a Domain definition according to the MIP23 template
+- Continue producing Maker relay while experimenting with different distribution models and platforms.
+- Explore different team structures to share/rotate responsibilities.
+- Create a formal framework for the specific tasks and responsibilities team(s) would like to handle.
+    - Furthermore, surface new useful tasks and responsibilities for Governance and the Community as a whole.
+- Validate team utility with data
+    - Analytics will be collected (depending on where they’re being sourced) and aggregated into specific updates. These will be outlined in one of the frameworks, referred to above.
+    - Data will assist in quantifying the need for a domain team and responsibilities therein.
+- Create documentation, and find a canonical place for it to live.
+    - This would be written by the Gov-Comms team, and proposed to the general community for comments/questions/clarification.
+    - Documentation would cover expectations around cadence, execution, role types, products, etc. This may be expanded on later.
+    - This documentation would be a framework used long-term to ensure the consistency of communications as we continue to grow (as a DAO and Domain).
 
 ##### Relevant Links:
 
@@ -105,5 +110,6 @@ We believe that these existing initiatives would fall under the Governance Commu
 - [Community Driven Gov Messaging (Forum post)](https://forum.makerdao.com/t/community-driven-governance-messaging-project-plan-placeholder-name/1875)
 - [Reuters: Handbook of Journalism; Freedom From Bias (Relevant Article)](http://handbook.reuters.com/index.php?title=Freedom_from_bias&oldid=7959)
 - [Dai-Gest ](https://mkrdai.substack.com/)
-- [CDIP 8](https://github.com/makerdao/community/issues/481) 
-- [CDIP 30](https://github.com/makerdao/community/issues/753)
+- [CDIP 8-Academic Research of MakerDAO](https://github.com/makerdao/community/issues/481)
+- [CDIP 09-Reddit Moderator](https://github.com/makerdao/community/issues/695)
+- [CDIP 30-Voices of MakerDAO](https://github.com/makerdao/community/issues/753)

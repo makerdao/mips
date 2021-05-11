@@ -8,7 +8,7 @@ Author(s):  Smart Contracts Domain Team
 Type: Technical
 Status: Request for Comments (RFC)
 Date Proposed: 2020-10-06
-Dependencies:
+Dependencies: 
 Replaces: DSChief
 ```
 

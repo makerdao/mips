@@ -7,10 +7,11 @@ MIP#: 24
 Title: Emergency Response
 Author(s): @Davidutro, @jtathmann 
 Contributors:
+Tags: general, governance, emergency
 Type: General
-Status: <Assigned by MIP Editor>
+Status: Accepted
 Date Proposed: 2020-09-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-11-24
 Dependencies:
 Replaces: MIP 5
 ```
@@ -18,9 +19,7 @@ Replaces: MIP 5
 ## References
 
 [MIP5: Emergency Voting System](https://github.com/makerdao/mips/blob/Accepted/MIP5/mip5.md)
-
 [Forum Thread: Emergency / Urgent Governance Process](https://forum.makerdao.com/t/emergency-urgent-governance-process/3926)
-
 [Forum Thread: Covid Crash: Emergency Governance Summary](https://forum.makerdao.com/t/covid-crash-emergency-governance-summary/2437)
 
 ## Sentence Summary
@@ -29,7 +28,7 @@ MIP24 defines emergency and urgent situations for the Maker protocol, as well as
 
 ## Paragraph Summary
 
-This proposal defines an emergency voting system. Emergency votes are executive votes that can be initiated by any community member. This MIP aims to provide a general guide that can be applied to a wide range of urgenct situations. Additionally, this MIP will differentiate between an emergency and an urgent situation, and provide processes which can be carried out to deal with either consistently.
+This proposal defines an emergency voting system. Emergency votes are executive votes that can be initiated by any community member. This MIP aims to provide a general guide that can be applied to a wide range of urgent situations. Additionally, this MIP will differentiate between an emergency and an urgent situation, and provide processes which can be carried out to deal with either consistently.
 
 ## Component Summary
 
@@ -74,7 +73,7 @@ There are several important factors to consider before expediting changes to the
 - Potential for MKR holders to miss a poll or executive vote due to departure from the standard governance cycles.
 - Expedited votes may not allow for sufficient discussion, leading to a sub-optimal solution.
 - Increased governance burden on community and increased workload for domain teams.
-- Frequent expeditate votes may signal a lack of appreciation for a consistent and predictable governance process.
+- Frequent expedited votes may signal a lack of appreciation for a consistent and predictable governance process.
 
 ### MIP24c3: Emergency Response Procedure
 

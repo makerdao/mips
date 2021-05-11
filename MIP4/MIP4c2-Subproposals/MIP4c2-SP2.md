@@ -1,6 +1,5 @@
 # MIP4c2-SP2: MIP8 Amendments
 
-
 ## Preamble
 
 ```
@@ -9,10 +8,13 @@ MIP to be Amended: MIP8
 Author(s): Charles St.Louis (@CPSTL), @LongForWisdom, Rune Christensen (@Rune23)
 Contributors:
 Status: Accepted
-Date of Amendment Submission: 2020-05-27
-Date of ratification: 2020-06-25
-
+Date Proposed: 2020-05-27
+Date Ratified: 2020-06-25
 ```
+
+## Sentence Summary
+
+MIP4c2-SP2 amends MIP8 so that the Domain Greenlight process occur after the Community Greenlight Poll (MIP9).
 
 ## Specification
 

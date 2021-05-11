@@ -7,9 +7,14 @@ MIP4c2-SP#: 5
 MIP to be Amended: MIP12
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 Contributors:
-Date of Amendment Submission: 2020-07-08
-Date of ratification: <yyyy-mm-dd>
+Status: Rejected (Failed Inclusion Poll July 2020)
+Date Proposed: 2020-07-08
+Date Ratified: 
 ```
+
+## Sentence Summary
+
+MIP4c2-SP5 amends MIP12 to remove dependencies on MIP6, MIP8, and MIP9.
 
 ## Specification
 
@@ -17,7 +22,7 @@ Date of ratification: <yyyy-mm-dd>
 
 This amendment MIP proposes a change to MIP12 to remove the dependencies on MIP6, MIP8, and MIP9 to improve further the efficiency of collateral onboarding to the Maker Protocol. Additionally, it adds two new components based on MIP17. The first component enables the use of MIP12 subproposals to adjust the Target Debt Ceiling and Target Risk Premium (MIP12c4). The second component creates a list of the enabled collateral types and their risk parameters (MIP12c5).
 
-This amendment MIP impacts the MIP12 subproposal process. More specifically, it creates a process for collateral types to have their Target Debt Ceiling and Target Risk Premium (TRP) risk parameters adjusted (based on MIP17) and eliminates some dependencies that were inconsistent across the Collateral Onboarding MIPs Set (MIP6, MIP8, MIP9). 
+This amendment MIP impacts the MIP12 subproposal process. More specifically, it creates a process for collateral types to have their Target Debt Ceiling and Target Risk Premium (TRP) risk parameters adjusted (based on MIP17) and eliminates some dependencies that were inconsistent across the Collateral Onboarding MIPs Set (MIP6, MIP8, MIP9).
 
 ### Amended Components
 

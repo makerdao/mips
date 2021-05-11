@@ -1,3 +1,5 @@
+# MIP10c9-SP8: Subproposal to Whitelist DDEX for WBTC/USD Oracle Access
+
 ## Preamble
 ```
 MIP10c9-SP#: 8
@@ -5,8 +7,11 @@ Author(s): Scott Winges
 Contributors: Nik Kunkel (@NiklasKunkel)
 Status: Formal Submission
 Date Proposed: 2020-09-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 ```
+
+## Sentence Summary
+MIP10c9-SP8 whitelists DDEX for WBTC/USD Oracle Access.
 
 ## Specification
 

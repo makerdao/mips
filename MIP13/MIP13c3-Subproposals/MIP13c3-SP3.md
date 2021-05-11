@@ -6,14 +6,17 @@
 MIP13c3-SP#: 3
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: n/a
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-08-21
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-10-28
 ---
 Declaration Statement: Creation of a Strategic Reserves Fund to have a financial power and autonomy
 Declaration to Replace: n/a
 ```
 
+## Sentence Summary
+
+MIP13c3-SP3 is the Declaration of Intent for the creation of a Strategic Reserves Fund to have a financial power and autonomy.
 
 ## Specification
 

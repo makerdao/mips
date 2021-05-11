@@ -4,8 +4,9 @@
 ```
 MIP#: 19
 Title: Liquidations System 1.1 Upgrade
-Author(s): Mariano Conti (@nanexcool), Charles St.Louis (@CPSTL) 
+Author(s): Mariano Conti (@nanexcool), Charles St.Louis (@CPSTL)
 Contributors: Kurt Barry (@kmbarry1)
+Tags: technical, smart-contracts, liquidations
 Type: Technical
 Status: Accepted
 Date Proposed: 2020-07-06
@@ -20,7 +21,6 @@ License: AGPL v3.0
     - [Video recording of the presenation](https://www.youtube.com/watch?v=erh25lnaIo0)
 - [Formal Verification Run](https://reports.makerfoundation.com/k-dss/dcc4d3a8fcab50a5af6f/)
 
-
 ## Sentence Summary
 
 MIP19 proposes an upgrade to the Maker Protocol's auction contracts to avoid the need for extra funds when a bidder modifies a bid they have already made ("double liquidity" issue) as well as to fix the "stuck debt auctions" bug.
@@ -29,30 +29,29 @@ MIP19 proposes an upgrade to the Maker Protocol's auction contracts to avoid the
 
 This proposal defines an implementation to improve the current liquidation system of the Maker Protocol. The new implementation will make changes to the collateral ([flip](https://github.com/makerdao/dss/blob/master/src/flip.sol)), surplus ([flap](https://github.com/makerdao/dss/blob/master/src/flap.sol)), and debt ([flop](https://github.com/makerdao/dss/blob/master/src/flop.sol)) auction contracts to fix this "double liquidity" requirement by only taking the necessary amount for the new bid when the bidder is the same as the previous bidder. Additionally, there is a fix for the debt auction contract, where on the first bid ("dent"), the system tries to clear as much `Ash` (on-auction debt) as possible. This prevents any further debt auctions from becoming stuck.
 
-
 ## Component Summary
 
-**MIP19c1: Definitions** 
-Defines terms that relate to the liquidations system fix. 
+**MIP19c1: Definitions**
+Defines terms that relate to the liquidations system fix.
 
 **MIP19c2: Proposed Code**
-Proposed code for both the double liquidity fix and the stuck debt (flop) auctions.  
+Proposed code for both the double liquidity fix and the stuck debt (flop) auctions.
 
 **MIP19c3: Test Cases**
-References the tested code and how to run the test suite. 
+References the tested code and how to run the test suite.
 
 **MIP19c4: Security Considerations**
-Defines any security-relevant design information and potential failure modes related to the proposed change. 
+Defines any security-relevant design information and potential failure modes related to the proposed change.
 
-**MIP19c5: Formal Verification / Audit Information** 
+**MIP19c5: Formal Verification / Audit Information**
 Describes relevant information regarding the auditing / formal verification of the proposed code.
 
 **MIP19c6: Licensing**
-States the license used for the proposed code. 
+States the license used for the proposed code.
 
 ## Motivation
 
-As of today, the collateral, surplus, and debt auction contracts expect bidders to have the full amount of their bid in their wallet. Thus, if they are increasing a bid they already made (i.e. they were the most recent bidder on the auction), they cannot simply supply the additional amount over their previous bid. Instead, they must have the full amount of the previous bid plus the additional amount in their wallet; after supplying this, their previous bid is refunded. 
+As of today, the collateral, surplus, and debt auction contracts expect bidders to have the full amount of their bid in their wallet. Thus, if they are increasing a bid they already made (i.e. they were the most recent bidder on the auction), they cannot simply supply the additional amount over their previous bid. Instead, they must have the full amount of the previous bid plus the additional amount in their wallet; after supplying this, their previous bid is refunded.
 
 **Example**
 
@@ -61,9 +60,7 @@ As of today, the collateral, surplus, and debt auction contracts expect bidders 
 
 Additionally, the possibility of stuck debt (flop) auctions occurring is a bug. While auctions can be "unstuck" via a governance action (ex: March 26 Executive Vote), this requires time and effort from the Maker community. With the implementation change proposed here, stuck debt auctions would be prevented entirely, reducing the work needed to manage the system. As for the double liquidity issue, the proposed implementation is more efficient and accessible because it requires less total capital for certain bidding strategies.
 
-
 ## Specification
-
 
 ### MIP19c1: Proposed Code
 
@@ -107,7 +104,6 @@ Added tests in `flap.t.sol`:
 Added tests in `flop.t.sol`:
 - `test_dent_same_bidder`
 
-
 **[Tests for the Stuck Debt Auctions (Flops) Fix](https://github.com/makerdao/dss/commit/5b2dec8a26db5e5e837848c4d8b16575abf0a110)**
 
 Modified tests in `flop.t.sol`:
@@ -138,7 +134,7 @@ This is a small upgrade to the Auction Contracts; thus, the implementation risks
 - [Collateral Module Documentation](https://docs.makerdao.com/smart-contract-modules/collateral-module#4-gotchas-potential-sources-of-user-error)
     - [Flipper Documenation](https://docs.makerdao.com/smart-contract-modules/collateral-module/flipper-detailed-documentation#4-gotchas-potential-source-of-user-error)
 ---
-### MIP19c4: Formal Verification / Audit Information 
+### MIP19c4: Formal Verification / Audit Information
 
 The Smart Contracts Domain Team updated the Formal Verification specifications for the `DSS` system with the following implementations [here](https://github.com/makerdao/k-dss/tree/staging).
 

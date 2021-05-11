@@ -6,13 +6,16 @@
 MIP7c3-SP#: 3
 Author(s): Primož Kordež (@doopson)
 Contributors:
-Status: Request for Comments (RFC)
-Date Applied: 2020-09-08
-Date Ratified: <yyyy-mm-dd>
+Status: Accepted
+Date Proposed: 2020-09-08
+Date Ratified: 2020-10-30
 ---
 Domain Role: Risk Domain Team Facilitator
 Proposed Applicant: Primož Kordež
 ```
+
+## Sentence Summary
+MIP7c3-SP3 onboards Primož Kordež as Risk Domain Team Facilitator
 
 ## Application Form
 

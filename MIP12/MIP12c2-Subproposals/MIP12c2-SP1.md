@@ -1,3 +1,5 @@
+# MIP12c2-SP1: Domain work requirements for onboarding the ZRX collateral type
+
 ## Preamble
 
 ```
@@ -9,6 +11,9 @@ Status: Obsolete
 Date Proposed: 2020-06-03
 Date ratified: n/a
 ```
+
+## Sentence Summary
+MIP12c2-SP1 defines the documentation and work requirements for the onboarding of the ZRX collateral type.
 
 ## Specification
 

@@ -1,19 +1,22 @@
 # MIP29: Peg Stability Module
 
 ## Preamble
+
 ```
 MIP#: 29
 Title: Peg Stability Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
+Tags: technical, module, smart-contracts
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-11-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-01-30
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 * The proposed [dss-psm](https://github.com/BellwoodStudios/dss-psm) implementation
@@ -25,7 +28,7 @@ This proposal provides a smart contract implementation of the Peg Stability Modu
 
 ## Paragraph Summary
 
-The PSM sits between any `gemJoin` adapter and the `vat`. Instead of crediting `gems` to the supplier of the tokens, it pools them together and takes out a debt position at 100% Collateralization Ratio issuing the newly minted Dai to the person who supplied the collateral. In the reverse direction, anyone can go from Dai to the collateral token as long as there is debt available to clear. Optional fees `tin` and `tout` can be activated as well which send a fraction of the trade into the `vow`. This implementation conforms to the description laid out in the [Pre-MIP discussion](https://forum.makerdao.com/t/peg-stabilization-modules-a-pre-mip-discussion/3045).
+The PSM acts a special vault which is attached to a permissioned `gemJoin` with 100% Collateralization Ratio and 0% Stability Fees. Instead of crediting `gems` to the supplier of the tokens, it pools them together and takes out a debt position at 100% Collateralization Ratio issuing the newly minted ERC20 Dai to the person who supplied the collateral. In the reverse direction, anyone can go from ERC20 Dai to the collateral token as long as there is debt available to clear. Optional fees `tin` and `tout` can be activated as well which send a fraction of the trade into the `vow`. This implementation conforms to the description laid out in the [Pre-MIP discussion](https://forum.makerdao.com/t/peg-stabilization-modules-a-pre-mip-discussion/3045).
 
 ## Component Summary
 
@@ -71,12 +74,6 @@ Another long term advantage that the Peg Stabilization Module offers is the abil
 
 If Maker Governance adds multiple stablecoins to Peg Stabilization Modules and enables low-fee 1:1 trading for each of them (against Dai), it would allow the trading of different stablecoins against each other as a side-effect. As a result, this would ultimately help with overall liquidity in the DeFi ecosystem. At the same time, Maker would be compensated by charging the Peg Stabilization Module spread twice for providing the service.
 
-### Creating a reliable on-chain signal for automatic Dai Savings Rate (DSR) and Base Rate adjustments
-
-A planned feature of the Maker Protocol is a system for automatically adjusting the DSR and Base rate in response to changes in the market dynamics of Dai, to help better keep the long term stability of Dai. This would be similar to an earlier described feature of the system known as the TRFM (Target Rate Feedback Mechanism). Because changes in the market dynamics will instantly be reflected in the balance of stablecoins against Dai in the Peg Stabilization Module, this will provide a reliable, on-chain signal that such a system could
-
-The Peg Stabilization Module is a very powerful concept, so it isn’t unlikely that there would be even more long term advantages that will be discovered by the community, once the immediate issue of managing the peg has been dealt with.
-
 ## Specification
 
 ### MIP29c1: Definitions
@@ -88,24 +85,28 @@ The Peg Stabilization Module is a very powerful concept, so it isn’t unlikely 
    see [psm.sol](https://github.com/BellwoodStudios/dss-psm/blob/master/src/psm.sol). The core functionality is simple:
 
 ```
-function slip(bytes32 ilk, address usr, int256 wad) external note auth {
-    if (wad >= 0) {
-        // Incoming
-        uint256 uwad = uint256(wad);
-        uint256 fee = mul(uwad, tin) / WAD;
-        uint256 base = sub(uwad, fee);
-        vat.slip(ilk, address(this), wad);
-        vat.frob(ilk, address(this), address(this), address(this), int256(wad), int256(wad));
-        vat.move(address(this), usr, mul(base, RAY));
-        vat.move(address(this), vow, mul(fee, RAY));
-    } else {
-        // Outgoing
-        uint256 uwad = uint256(-wad);
-        uint256 fee = mul(uwad, tout) / WAD;
-        vat.move(usr, vow, mul(fee, RAY));
-        vat.frob(ilk, address(this), address(this), usr, -int256(uwad), -int256(uwad));
-        vat.slip(ilk, address(this), -int256(uwad));
-    }
+function sellGem(address usr, uint256 gemAmt) external {
+    uint256 gemAmt18 = mul(gemAmt, to18ConversionFactor);
+    uint256 fee = mul(gemAmt18, tin) / WAD;
+    uint256 daiAmt = sub(gemAmt18, fee);
+    gemJoin.join(address(this), gemAmt, msg.sender);
+    vat.frob(ilk, address(this), address(this), address(this), int256(gemAmt18), int256(gemAmt18));
+    vat.move(address(this), vow, mul(fee, RAY));
+    daiJoin.exit(usr, daiAmt);
+
+    emit SellGem(usr, gemAmt, fee);
+}
+function buyGem(address usr, uint256 gemAmt) external {
+    uint256 gemAmt18 = mul(gemAmt, to18ConversionFactor);
+    uint256 fee = mul(gemAmt18, tout) / WAD;
+    uint256 daiAmt = add(gemAmt18, fee);
+    require(dai.transferFrom(msg.sender, address(this), daiAmt), "DssPsm/failed-transfer");
+    daiJoin.join(address(this), daiAmt);
+    vat.frob(ilk, address(this), address(this), address(this), -int256(gemAmt18), -int256(gemAmt18));
+    gemJoin.exit(usr, gemAmt);
+    vat.move(address(this), vow, mul(fee, RAY));
+
+    emit BuyGem(usr, gemAmt, fee);
 }
 ```
 
@@ -113,26 +114,27 @@ function slip(bytes32 ilk, address usr, int256 wad) external note auth {
 
 see [psm.t.sol](https://github.com/BellwoodStudios/dss-psm/blob/master/src/psm.t.sol)
 
-- test_join_fee
-- testFail_join_insufficient_gem
-- test_join_other_exit
-- testFail_join_over_line
-- test_join_no_fee
-- testFail_insufficient_dai_for_outgoing_fee
-- testFail_join_exit_small_fee_insufficient_dai
-- test_join_exit_fees
-- test_join_exit_no_fee
+- testFail_sellGem_over_line
+- test_sellGem_fee
+- test_swap_both_other_small_fee
+- test_swap_both_other
+- test_swap_both_fees
+- testFail_swap_both_small_fee_insufficient_dai
+- testFail_sellGem_insufficient_gem
+- testFail_direct_deposit
+- test_swap_both_no_fee
 - testFail_two_users_insufficient_dai
-- test_zero
-- test_join_exit_other_small_fee
+- test_swap_both_zero
+- test_sellGem_no_fee
 
 ### MIP29c4: Security considerations
 
-The proposed solution is simple and non-invasive, interacting with only the `vat` with the existing `gemJoin` and `urn` system.
+The proposed solution is simple and non-invasive, interacting with only the permissioned `gemJoin`. The rest of the function calls are all calls into the Maker system that anyone can make.
 
 ### MIP29c5: Formal verification/audit information
 
 The proposed contract is written in a way which is amenable to formal specification and verification, in accordance with the style and practices of the core multi-collateral DAI contracts, though it has not been formally specified. No audit or code review has taken place yet.
 
 ### MIP29c6: Licensing
+
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)

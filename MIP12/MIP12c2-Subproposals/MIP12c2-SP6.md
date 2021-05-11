@@ -7,10 +7,13 @@ MIP12c2-SP: 6
 Title: Domain work requirements for onboarding the LINK collateral type
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors: Charles St.Louis (@CPSTL)
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-09-09
-Date ratified: <yyyy-mm-dd>
+Date ratified: 2020-09-30
 ```
+
+## Sentence Summary
+MIP12c2-SP6 defines the documentation and work requirements for the onboarding of the LINK Collateral type.
 
 ## Specification
 

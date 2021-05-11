@@ -83,7 +83,7 @@ there are 3 fonctions based on PSM interface:
 - `file() ` : to allow governance to change parameters
 - `sell(address usr, uint256 gemAmt)` : to sell the MKR
 - `buy(address usr, uint256 gemAmt)` : to buy the MKR
-- `reserve()` : return token reserve and last time the price change 
+- `getReserves()` : return token reserves and last time the price change based on unisawp interface
 
 ### MIP33c4: Proposed Code
 

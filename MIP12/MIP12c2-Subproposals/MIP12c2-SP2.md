@@ -1,3 +1,5 @@
+# MIP12c2-SP2: Domain work requirements for onboarding the KNC collateral type
+
 ## Preamble
 
 ```
@@ -10,7 +12,8 @@ Date Proposed: 2020-06-03
 Date ratified: n/a
 ```
 
----
+## Sentence Summary
+MIP12c2-SP2 defines the documentation and work requirements for the onboarding of the KNC collateral type.
 
 ## Specification
 

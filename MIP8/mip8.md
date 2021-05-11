@@ -6,6 +6,7 @@ MIP#: 8
 Title: Domain Greenlight
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
+Tags: process, collateral-onboarding, mip-set, collateral-onboarding-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -14,6 +15,7 @@ Last Amended: 2020-06-25
 Dependencies: n/a
 Replaces: n/a
 ```
+
 ## References
 No referenced materials.
 

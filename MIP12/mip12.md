@@ -5,6 +5,7 @@
 MIP#: 12
 Title: Collateral and Risk Parameter Management
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
+tags: technical, process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset
 Type: Technical, Process
 Status: Accepted
 Date Proposed: 2020-04-06
@@ -70,7 +71,6 @@ MIP12c2 subproposals must use the template located at **[MIP12c2-Subproposal-Tem
 
 ### MIP12c3: Collateral Type Checklist for Governance Approval
 
-
 **Before being approved by governance, the following must be prepared in advance:**
 
 - The risk construct for the collateral type
@@ -96,5 +96,5 @@ MIP12c2 subproposals must use the template located at **[MIP12c2-Subproposal-Tem
 **Once the executive spell has been created, the code is executed once the Executive Governance Vote passes, and the delay period has passed. At this point, the:**
 - The collateral type has been added to the Maker Protocol.
 - Vaults can now be created with the new collateral type.
-        
+
 ---

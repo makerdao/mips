@@ -6,13 +6,16 @@
 MIP7c3-SP#: 5
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
-Status: Request for Comments (RFC)
-Date Applied: 2020-12-03
-Date Ratified: <yyyy-mm-dd>
+Status: Accepted
+Date Proposed: 2020-12-03
+Date Ratified: 2021-01-30
 ---
 Domain Role: Risk Domain Team Facilitator
 Proposed Applicant: Sébastien Derivaux
 ```
+
+## Sentence Summary
+MIP7c3-SP5 onboards Sébastien Derivaux as Risk Domain Team Facilitator.
 
 ## Application Form
 
@@ -26,7 +29,7 @@ Being part of the Maker Community and Governance, I truly believe MakerDAO will 
 
 My main focus going forward would be:
 - Maximize Protocol self-sustainability and robustness
-- Scale Real World Assets: 
+- Scale Real World Assets:
   - Define a model to assess/monitor RWA risks
   - Onboard additional regular contributors through mentoring and tasks
 - Solvency framework for MakerDAO (Balance sheet risk optimization)
@@ -44,17 +47,15 @@ My main focus going forward would be:
 - [MIP13c3 - Strategic Reserves](https://forum.makerdao.com/t/mip13c3-sp3-declaration-of-intent-strategic-reserves-fund-srf/3765) proposal
 - Smart Contract Community assessment for [EURS](https://forum.makerdao.com/t/eurs-erc20-token-smart-contract-domain-community-assessment/3769) and [HUSD](https://forum.makerdao.com/t/husd-erc20-token-smart-contract-domain-community-assessment/3770)
 
-
 **Previous Experience:**
 - Head of Financial Planning & Analysis for an insurance company
 - Senior Data Analyst for Blizzard Entertainment
 - Bachelor in accounting and business administration
 - PhD in Data Science
 
-
 ### Relevant Information
 
 - **Rocket Chat Account:** @SebVentures
-- **Github Account:** [@SebVentures](https://github.com/SebVentures)
+- **GitHub Account:** [@SebVentures](https://github.com/SebVentures)
 - **MakerDAO Forum Account:** [@SebVentures](https://forum.makerdao.com/u/SebVentures/summary)
 - **Twitter Account:** [SebVentures](https://twitter.com/SebVentures)
