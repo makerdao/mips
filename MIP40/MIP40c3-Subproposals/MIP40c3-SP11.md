@@ -1,9 +1,9 @@
-# MIP40c3-SP11: GovAlpha Core Unit Budget - GOV-001
+# MIP40c3-SPX: GovAlpha Core Unit Budget - GOV-001
 
 ## Preamble
 
 ```
-MIP40c3-SP#: 11
+MIP40c3-SP#: X
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
 Status: RFC
@@ -13,11 +13,11 @@ Date Ratified: N/A
 
 ## Sentence Summary
 
-MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha.
+MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
 **To be completed**  
-MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers the months of July, August, and September of 2021. It communicates three focuses for GovAlpha over the quarter: Delegation, Education and Quality Assurance. GovAlpha is asking for a budget of...
+MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers the months of July, August, and September of 2021. It communicates three focuses for GovAlpha over the quarter: Delegation, Education and Quality Assurance. GovAlpha is asking for a budget of...
 
 ### Motivation
 
@@ -30,9 +30,25 @@ GovAlpha (GOV-001)
 
 #### Delegation
 
+Delegation has always been a longer-term focus for the development of governance within MakerDAO. Given recent events and the need to have delegates operating effectively as soon as possible, this is something GovAlpha plans to focus on over the next quarter. 
+
+We are hoping to launch delegation at Maker in a structured and effective way that allows MKR Holders to choose one or more delegate that they feel is compatible with their views. GovAlpha aims to promote delegates that opt-in to a lightweight framework that sets some lightweight guidelines for delegates to follow. The aim here is to create a tradition of communication and transparency around delegates within MakerDAO - hopefully leading to a more predictable and efficient process for decision-making within the DAO.
+
+Subsequent to the launch of delegation, we plan to continue to organise and deliver improvements and integration of delegate functionality into the voting portal.
+
+GovAlpha will also attempt to convince larger MKR token holders to delegate some portion of their MKR holdings to the public delegates that opt-in to this lightweight framework. We believe that this will have numerous benefits, and will lead to more active MKR, more thorough debate and blunt the arguments of centralization around larger MKR holders.
+
 #### Education
 
+
+
 #### Quality Assurance
+
+As the DAO grows and governance decisions become more meaningful and wide reaching, it is critical that governance continues both smoothly and effectively. To this end, we feel that we should spend some time and effort focusing on hardening the governance processes that GovAlpha operates. It is easy to fall into habits and 'grooves' with certain processes which can lead to them to continue to operate in a sub-optimal manner past the point where they should be improved.
+
+For the polling and executive processes, we aim to improve templates and voting portal user-interface to deliver information in the most intuitive and consumable way possible to voters. For the signalling process we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
+
+More recently we've also noticed some issues around time management and prioritization within GovAlpha, and we will be making an effort to make improvements here as well. Our aim is to ensure that nothing is omitted or delivered late as a result of bad resource management.
 
 ### Team Membership
 The GovAlpha Team will consist of at least the following members in the July/August/September budget period.
