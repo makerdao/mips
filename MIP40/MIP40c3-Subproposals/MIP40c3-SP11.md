@@ -43,7 +43,7 @@ GovAlpha will also attempt to convince larger MKR token holders to delegate some
 Proper educational knowledge is essential to being able to participate in Maker Governance. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts in three key areas:
 - Ongoing development of the Maker Operational Manual. 
 - Expansion of Parameter Documentation for Liquidations 2.0 and RWA terms.
-- Adding educational content to the [MIPs Portal](mips.makerdao.com). 
+- Adding educational content to the [MIPs Portal](mips.makerdao.com).
 
 We plan to work closely with the Content Productions Core Unit to ensure our educational materials are of the highest quality and are visually inviting from a newer-user perspective. 
 
@@ -107,8 +107,7 @@ The multiplier for partial commitment is higher than one might initially expect 
 | **People**                        |                 |
 | Core Unit Facilitators Salary (2) | 59,000 DAI      |
 | MIP Editor (2)                    | 24,500 DAI      |
-| Main Contributors (3)             | 39,000 DAI      |
-| Potential New Contributors (1)    | 12,250 DAI      |
+| Main Contributors (4)             | 51,250 DAI      |
 | **Programs**                      |                 |
 | SourceCred Payouts                | 85,000 DAI      |
 | SourceCred Customization/Support  | 6,500 DAI       |
