@@ -16,7 +16,7 @@ Date Ratified: N/A
 MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
-MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers the months of July, August, and September of 2021. It communicates three focuses for GovAlpha over the period: Delegation, Education and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI this quarter - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
+MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers the months of July, August, and September of 2021. It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI this quarter - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
 
 ### Motivation
 
@@ -31,15 +31,15 @@ GovAlpha (GOV-001)
 
 Delegation has always been a longer-term focus for the development of governance within MakerDAO. Given recent events and the need to have delegates operating effectively as soon as possible, this is something GovAlpha plans to focus on over the next quarter. 
 
-We are hoping to launch delegation at Maker in a structured and effective way that allows MKR Holders to choose one or more delegate that they feel is compatible with their views. GovAlpha aims to promote delegates that opt-in to a lightweight framework that sets some guidelines for delegates to follow.The aim here is to create a tradition of communication and transparency around delegates within MakerDAO - hopefully leading to a more predictable and efficient process for decision-making as governance evolves.
+We are hoping to launch delegation at Maker in a structured and effective way that allows MKR Holders to choose one or more delegate that they feel is compatible with their views. GovAlpha aims to promote delegates that opt-in to a lightweight framework that sets some guidelines for delegates to follow. The aim here is to create a tradition of communication and transparency around delegates within MakerDAO - hopefully leading to a more predictable and efficient process for decision-making as governance evolves.
 
 GovAlpha will also attempt to convince larger MKR token holders to delegate some portion of their MKR holdings to the public delegates that opt-in to this lightweight framework. We believe that this will lead to more MKR active in governance and more thorough debate.
 
-Subsequent to the launch of delegation, we plan to continue to organise and deliver improvements and integration of delegate functionality into the voting portal.
+Subsequent to the launch of delegation, we plan to continue to organize and deliver improvements and integration of delegate functionality into the voting portal.
 
 #### Education
 
-Proper educational knowledge is essential for newer participants to vote and engage effectively in governance at MakerDAO. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts in three key areas:
+Proper educational knowledge is essential for newer participants to vote and engage effectively in governance at MakerDAO. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts on three key areas:
 - Ongoing development of the Maker Operational Manual. 
 - Expansion of Parameter Documentation for Liquidations 2.0 and RWA terms.
 - Adding educational content to the [MIPs Portal](https://mips.makerdao.com/). 
@@ -52,7 +52,7 @@ As the DAO grows and governance decisions become more meaningful and impactful, 
 
 For the polling and executive processes, we aim to improve templates and voting portal user-interface to deliver information in the most intuitive and consumable way possible to voters. 
 
-For the signalling process we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
+For the signaling process, we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
 
 We've also noticed some opportunities for improvement in time management and prioritization within GovAlpha, and we will be making an effort to make improvements here as well. Our aim is to ensure that our time is spent effectively and that deliverables are met consistently and with high quality.
 
@@ -143,6 +143,6 @@ We are requesting a portion of this quarter's budget allocation for the specific
 
 **To be completed**
 
-Assuming that Payton Rose (@prose11) will be confirmed as facilitator, we will setup a GovAlpha multi-sig wallet that will be owned by governance and administered by GovAlpha facilitators for the purpose of funding the operations of the GovAlpha core unit. The details of this wallet will be shared once it has been set up.
+Assuming that Payton Rose (@prose11) will be confirmed as a facilitator, we will set up a GovAlpha multi-sig wallet that will be owned by governance and administered by GovAlpha facilitators for the purpose of funding the operations of the GovAlpha core unit. The details of this wallet will be shared once it has been set up.
 
-In the event of Payton Rose (@prose11) failing to be ratified as a facilitator of GovAlpha, the Core Unit will continue to use the Interim DAO Multi-sig wallet located at this address **0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff** that was used for te previous quarter.
+In the event of Payton Rose (@prose11) failing to be ratified as a facilitator of GovAlpha, the Core Unit will continue to use the Interim DAO Multi-sig wallet located at this address **0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff** that was used for the previous quarter.
