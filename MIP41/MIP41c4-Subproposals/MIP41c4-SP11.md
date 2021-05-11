@@ -90,7 +90,7 @@ Community members can expect me to remain deliberate in drafting copy for polls 
 
 Transparency is an element so crucial to effective Governance that nearly every representative government the world over makes some commitment to the principle. Simply put, **sunlight remains the best disinfectant.**
 
-So far I have represented this principle by communicating my Governance decision-making process (and any concerns from it) to @LongForWisdom. Likewise, I have leaned on the mentorship of @juanjaun, as well as the guidance and teachings of countless other community members when determining what information should be included on public posts and reports. I believe I have shown great self-awareness and emotional intelligence in these interactions.
+So far I have represented this principle by communicating my Governance decision-making process (and any concerns from it) to @LongForWisdom. Likewise, I have leaned on the mentorship of @juanjuan, as well as the guidance and teachings of countless other community members when determining what information should be included on public posts and reports. I believe I have shown great self-awareness and emotional intelligence in these interactions.
 
 In addition to continuing this process of self-reflection and evaluation, I will encourage groups to be more open. As a Governance Facilitator, I would consider my presence in any closed-door meetings as a proxy for the community as a whole.
 
