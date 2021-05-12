@@ -1,9 +1,9 @@
-# MIP41c4: GovAlpha Facilitator Onboarding 
+# MIP41c4-SP12: GovAlpha Facilitator Onboarding 
 
 ## Preamble
 
 ```
-MIP41c4-SP#: #11
+MIP41c4-SP#: #12
 Author(s): Payton Rose
 Contributors: @LongForWisdom, @juanjuan
 Status: RFC
