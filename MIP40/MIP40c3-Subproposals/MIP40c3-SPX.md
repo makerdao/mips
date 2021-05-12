@@ -20,7 +20,7 @@ MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposa
 
 ### Motivation
 
-I am proposing this Core Unit Budget modification because GovAlpha requires an operating budget in order to be able to fulfill its mandate.
+We are proposing this Core Unit Budget modification because GovAlpha requires an operating budget in order to be able to fulfill its mandate.
 
 ### Core Unit Name
 GovAlpha (GOV-001)
@@ -164,7 +164,7 @@ Assuming that Payton Rose (@prose11) will be confirmed as a facilitator, we will
 
 In the event of Payton Rose (@prose11) failing to be ratified as a facilitator of GovAlpha, the Core Unit will continue to use the Interim DAO Multi-sig wallet located at this address **0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff** that was used for the previous quarter.
 
-**Payout Dates**  
+**Payout Dates**
 July - 277,584 DAI  
 August - 127,584 DAI  
 September - 127,584 DAI  
