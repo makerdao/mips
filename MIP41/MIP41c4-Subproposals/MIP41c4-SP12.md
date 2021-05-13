@@ -26,38 +26,34 @@ Professionally, I would like to grow into a publicly responsible manager of reso
 ### Core Unit ID
 
 **Name:** GovAlpha
-
 **ID:** GOV-001
 
 ### Facilitator name and information
 
 Name: Payton Rose
-
 Permissioned Address: 0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE
-
 *Note that this permission address will be used as a keyholder in relevant multi-sig wallets and not for compensation or budget distributions.* 
-
 Forum Handle: [@prose11](https://forum.makerdao.com/u/prose11/summary)
-
 Rocket.Chat Handle: [@prose11](https://chat.makerdao.com/direct/QzN6eEAXgnERPYpwh)
-
 GitHub: [@prose11](https://github.com/prose11) 
 
 ### Relevant Credentials
 
 - Chief of Staff & Legislative Aide, 2017 to 2018 - House of Representatives, Colorado's 52nd District 
-- MIP Author - [MIP47](https://forum.makerdao.com/t/mip47-makerdao-multisignature-wallet-management/6338), [MIP48](https://forum.makerdao.com/t/mip48-streaming-payments-via-the-keg/6340), and [MIP49](https://forum.makerdao.com/t/mip49-staking-rewards/6331) 
+- MIP Author 
+    - [MIP47](https://forum.makerdao.com/t/mip47-makerdao-multisignature-wallet-management/6338)
+    - [MIP48](https://forum.makerdao.com/t/mip48-streaming-payments-via-the-keg/6340)
+    - [MIP49](https://forum.makerdao.com/t/mip49-staking-rewards/6331) 
 - Sales Manager/Assistant Manager, 2018 to 2020 - Sears Outlet/American Freight 
 - Bachelor of Arts, 2011 to 2015 - Political Science major, minors in Spanish and Creative Writing 
-
 
 ### Facilitator Commitment
 
 I believe in the power and the commitment of the [GovAlpha Mandate](https://forum.makerdao.com/t/mip39c2-sp3-governance-core-unit-gov-001/6348) which I will reference throughout this section. Safety of the protocol is the primary concern for an elected member of this organization. This pledge includes, in my opinion, identifying operational mandates from a list of competing priorities. As a Governance Facilitator I commit to focusing on these principles in particular:
 
-    - Accessibility
-    - Neutrality
-    - Transparency 
+- Accessibility
+- Neutrality
+- Transparency 
 
 I believe in a balanced approach to upholding these principles while stressing the safety of the protocol is crucial to effective facilitation. 
 
@@ -65,9 +61,9 @@ I believe in a balanced approach to upholding these principles while stressing t
 
 In order for any global decentralized organization to thrive, accessibility must be ruthlessly defended. Accessibility to me means:
     
-    - Opportunity to participate in communication channels regardless of identity.
-    - Responsive Facilitators that respond to inquires in a timely manner.
-    - Emphasis on "Scientific Governance" that focuses discussions on the merit of ideas.
+- Opportunity to participate in communication channels regardless of identity.
+- Responsive Facilitators that respond to inquires in a timely manner.
+- Emphasis on "Scientific Governance" that focuses discussions on the merit of ideas.
 
 Put plainly, **without accessibility, there is no DAO**. If platforms and communication channels are not maintained in an accessible way the community will not be decentralized. 
 
@@ -79,8 +75,8 @@ I commit to drawing attention to proposals and encouraging healthy debate throug
 
 Without neutrality, this position would represent one of a gatekeeper, casting doubt on the integrity of the DAO. To me, the commitment to neutrality means:
     
-     - Showing neither support nor opposition to proposals outside the Governance realm 
-     - Facilitating the desires and intentions of community members proposing ideas 
+- Showing neither support nor opposition to proposals outside the Governance realm 
+- Facilitating the desires and intentions of community members proposing ideas 
 
 Fundamentally, **I see my neutrality mandate as a critical component of enabling participation in Governance**. This cannot be done properly if there is a perception that I favor some proposals above others.
 
