@@ -31,22 +31,19 @@ MIP53 details the annual amount of MKR each Core Unit will get for internal dist
 ## Component Summary
 
 **MIP53c1: Defining Components of the MKR Compensation Guidelines**
-
 Describes the MKR guidelines proposal.
 
 **MIP53c2: Proposed Compensation per Core Unit**
-
 Describes the proposed amounts of MKR going to each Core Unit.
 
 **MIP53c3: Recommended best practice**
-
 Describes recommended practices by the Core Units.
 
 **MIP53c4: The MKR Compensation Guidelines towards 2025**
-
 Describes the planned evolution of the guidelines.
 
 **MIP53c5: Amending the MKR Compensation Guidelines**
+
 
 ## Motivation
 
