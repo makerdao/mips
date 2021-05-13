@@ -18,7 +18,7 @@ Replaces:
 
 ## References 
 
-* [Pre-MIP discussion](https://forum.makerdao.com/t/pre-mip-discussion-the-mkr-compensation-guidelines/7960)
+[Pre-MIP discussion](https://forum.makerdao.com/t/pre-mip-discussion-the-mkr-compensation-guidelines/7960)
 
 ## Sentence Summary
 
@@ -62,6 +62,7 @@ Any funds not spent should be returned to the community.
 The MKR will be transferred to the Core Unit a full year after ratification of the guideline and once per year after that until the last transfer in 2025.
 
 **MIP53c2: Proposed Compensation per Core Unit**
+
 Some of the below listed Core Units have yet to submit for unit approval. Other Core Units have provisional unit size. Units not included in the below list could be proposed at a later stage through amendment.
 
 Core Unit			Tier	Unit size	MKR per person per year for internal distribution
