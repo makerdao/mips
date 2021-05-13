@@ -7,7 +7,7 @@ MIP#: 53
 Title: The MKR Compensation Guidelines
 Author(s): @Planet_X
 Contributors: @Derek, @LongForWisdom, @Aes
-Tags: General
+Tags:
 Type: General
 Status: RFC
 Date Proposed: 2021-11-05
