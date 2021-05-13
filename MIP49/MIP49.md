@@ -1,14 +1,14 @@
-# MIP49: Governance Rewards 
+# MIP49: Staking Rewards 
 
 ## Preamble
 
 ```
 MIP#: 49
-Title: Governance Rewards
+Title: Staking Rewards
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
 Contributors:@LongForWisdom, @JuanJuan, @Elihu
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-02-03
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
@@ -17,30 +17,29 @@ Replaces:
 
 ## References
 
-* The initial idea for Governance Rewards can be found in [this forum post](https://forum.makerdao.com/t/introducing-dssgovrewards/5394)
-* [MIP49c2 - Setting and Adjusting Governance Reward Parameters Subproposal [Template]](https://github.com/prose11/mips/blob/Governance-Rewards/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md)
+* The initial idea for Staking Rewards can be found in [this forum post](https://forum.makerdao.com/t/introducing-dssgovrewards/5394)
 
 ## Sentence Summary
 
-MIP49 proposes the creation of Governance Rewards that would allow the Maker community to reward MKR holders for locking their MKR tokens in Governance.
+MIP49 proposes the creation of Staking Rewards that would allow the Maker community to reward MKR holders for locking their MKR tokens in Governance.
 
 ## Paragraph Summary
 
-This MIP covers the creation of a Governance Rewards process for MKR token holders, distributing DAI as a percentage of protocol profits, based on the available liquidity of MKR in lending markets. There are limits outlined on how these reward measures may be changed by Governance actions in the future. Technical details would follow the approval of this MIP.
+This MIP covers the creation of a Staking Rewards process for MKR token holders, designed to distribute DAI as a percentage of protocol profits. MIP49 would entitle MKR holders to a share of this percentage based on the weight of their MKR staked in the Governance Contract. The implementation method is intentionally left open so that the protocol can adopt a more efficient method of distributing rewards, should one be developed.
 
 ## Component Summary
 
-**MIP49c1: Governance Rewards Structure**
+**MIP49c1: Staking Rewards Structure**
 
-Defines the rules for implementation of Governance Rewards.
+Defines the scope of Staking Rewards.
 
-**MIP49c2: Setting and Adjusting Governance Reward Parameters**
+**MIP49c2: Adjusting the Staking Reward Percentage Parameter**
 
-Establishes a mandatory Request for Comments (RFC) period for implementing and revising Governance Rewards.
+Clarifies how changes may be made to the `Stake Reward Percentage` parameter. 
 
 **MIP49c3: Potential Risks**
 
-Defines potential avenues for abuse that should be considered if Governance Rewards are enabled.
+Defines potential avenues for abuse that should be considered if Staking Rewards are enabled.
 
 ## Motivation
 
@@ -54,24 +53,24 @@ By offering incentives to MKR holders who lock their MKR tokens in Governance, t
 
 ## Specification / Proposal Details
 
-**MIP49c1 - Governance Rewards Structure**
+**MIP49c1 - Staking Rewards Structure**
 
-Governance Rewards will be “opt-in”. Users locking their MKR tokens in governance will be able to choose to either receive Governance Rewards or not. The Governance Rewards will be distributed in DAI.
+Staking Rewards will be “opt-in”. Users locking their MKR tokens in governance will be able to choose to either receive Staking Rewards or not. The Staking Rewards will be distributed in DAI.
 
-The amount of DAI distributed as Governance Rewards will be directly tied to the MKR burn, with a portion of DAI that would have been used to buyback and burn MKR being diverted to Governance Rewards. It will be up to Maker Governance to determine the percentage of surplus revenue to be set for rewards, with the strong recommendation that any system designed to divert DAI for Governance Rewards be based on available MKR Liquidity relative to MKR tokens locked in Governance.
+The amount of DAI distributed as Staking Rewards will be directly tied to the MKR burn, with a portion of DAI that would have been used to buyback and burn MKR being diverted to Staking Rewards. 
 
-Note: MKR holders should be aware of any tax and legal implications in their jurisdiction relevant to opting-in to Governance Rewards before electing to do so.
+The percentage of funds redirected will be controlled by Governance and referred to as the `Stake Reward Percentage` parameter. Proceeds from the `Stake Reward Percentage` will be split among opted-in holders, based on their relative weight in the Governance Contract.
 
-**MIP49c2 - Setting and Adjusting Governance Reward Parameters**
+Note: MKR holders should be aware of any tax and legal implications in their jurisdiction relevant to opting-in to Staking Rewards before electing to do so.
 
-The Community desire for Governance Rewards must be carefully weighed against the risk of allowing a mechanism for MKR holders to reward themselves with protocol funds.
+**MIP49c2: Adjusting the Staking Reward Percentage Parameter**
 
-Proposed changes to the percentage of surplus revenue diverted from burn to Governance Rewards must be submitted as [MIP49c2 subproposals](https://github.com/prose11/mips/blob/Governance-Rewards/MIPX/MIPXc2%20Subproposal%20%5BTemplate%5D.md) and will be subject to the following parameters:
+The `Stake Reward Percentage` parameter will be expressed a percentage, between 0 and 100, and will dictate what percentage of funds otherwise destined for the `flapper` (surplus auction) will be instead spent on Staking Rewards.
 
-* Feedback Period: 6 weeks
-* Frozen Period: 2 weeks
+For example, if Governance were to set `Stake Reward Percentage` to 25%, for every 100 DAI the protocol generates when the Surplus Buffer is full, 25 DAI would be diverted to reward MKR tokens staked in the Governance Contract.
 
-Note: Due to Governance Rewards proposal needing continual funding, MIP49c2 subproposals will constitute an application to streaming Keg payments, and will be automatically cross-filed upon proposal.
+Adjustments to the `Stake Reward Percentage` parameter may be made through the Weekly Governance Cycle, allowing for the community to respond quickly to changing market conditions. 
+
 
 **MIP49c3 - Potential Risks**
 
@@ -79,13 +78,13 @@ Directly rewarding locked MKR in the governance contract introduces risks to the
 
 At the time of writing, actively-voting MKR comes to at most 10% of the total vote weight. The introduction of voting rewards encourages more MKR to be locked in the governance contract, which in turn reduces the barrier for that MKR to vote.
 
-If enough MKR becomes active in governance solely due to the governance reward incentive, this introduces the risk of successful proposals that increase the governance reward beyond what is beneficial for the Maker Protocol in pursuit of immediate, short-term gain for MKR Holders.
+If enough MKR becomes active in governance solely due to the staking reward incentive, this introduces the risk of successful proposals that increase the staking reward beyond what is beneficial for the Maker Protocol in pursuit of immediate, short-term gain for MKR Holders.
 
 This outcome could happen gradually or more quickly, and could take a number of forms. It is strongly recommended that MKR Holders that wish to ensure the long term growth and stability of the Maker Protocol view the following types of proposal with skepticism:
 
-* Proposals that increase the percentage of surplus revenue that is diverted from MKR burn to Governance Rewards.
-* Proposals that detach Governance Rewards from the surplus revenue generated by the MKR Protocol.
-* Proposals that mint MKR for distribution as Governance Rewards.
-* Proposals that by other means increase Governance Rewards in an inflationary way.
+* Proposals that increase the percentage of surplus revenue that is diverted from MKR burn to Staking Rewards.
+* Proposals that seek to detach Staking Rewards from the surplus revenue generated by the MKR Protocol.
+* Proposals that mint MKR for distribution as Staking Rewards.
+* Proposals that by other means increase Staking Rewards in an inflationary way.
 
-It is essential that the Governance Reward mechanism maintains the incentive alignment between MKR Holders receiving the reward, passive MKR Holders and the Maker Protocol as a whole.
+It is essential that the Staking Reward mechanism maintains the incentive alignment between MKR Holders receiving the reward, passive MKR Holders and the Maker Protocol as a whole.

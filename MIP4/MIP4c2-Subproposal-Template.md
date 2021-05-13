@@ -1,6 +1,7 @@
 # MIP4c2: MIP Amendment Subproposals
 
 ## Preamble
+
 ```
 MIP4c2-SP#: #
 MIP to be amended: <MIP#>
@@ -15,18 +16,18 @@ Date of ratification: <yyyy-mm-dd>
 
 ### Motivation
 
-   - Explanation behind the amendment of the MIP
-   - Explanation of why this change is valid for an amendment rather than a replacement.
-   - Any impact this has on other MIPs that interact with the MIP in question.
+- Explanation behind the amendment of the MIP.
+- Explanation of why this change is valid for an amendment rather than a replacement.
+- Any impact this has on other MIPs that interact with the MIP in question.
 
-### Amended Components
+### Amended MIPs and Components
 
-   - A list of the components that have been amended.
+- A list of the MIPs and their components that are being amended.
 
-### Amendment Pull Request (PR)
+### Amendment Pull Request
 
-   - A link to the PR containing the amendment. This PR must have remained unchanged for the Frozen Period.
+- A link to the PR containing the amendment.
 
 ### Relevant Information
 
-   - Links to evidence further backing the motivation.
+- Links to evidence further backing the motivation.

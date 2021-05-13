@@ -1,12 +1,12 @@
-# MIP39c2: Adding/Modifying Core Units
+# MIP39c2-SP10: Adding Sustainable Ecosystem Scaling Core Unit
 
 ## Preamble
 
 ```
 MIP39c2-SP#: 10
-Author(s): @wouter, @juan
+Author(s): @wouter, @juanjuan
 Contributors:
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-04-07
 Date Ratified: <yyyy-mm-dd>
 ```
@@ -15,13 +15,24 @@ Date Ratified: <yyyy-mm-dd>
 
 MIP39c2-SP10 adds Core Unit SES-001: Sustainable Ecosystem Scaling.
 
+## Paragraph Summary
+
+The Sustainable Ecosystem Scaling Core Unit aims to sustainably grow the Maker Protocol’s moats by removing barriers between decentralized workforce, capital, and work.
+
+This decentralized, effective, and scalable economy:
+* Has the best and most successful onboarding experience for new participants, with the highest retention rate in the industry.
+* Allows everyone to find the capital they need to work on the best projects which (1) optimally drive protocol growth and (2) are most fulfilling for its participants.
+* Has resilient safety mechanisms in place that prevent protocol failure while leaving ample space for rapid innovation and experimentation.
+
+Through Opportunity and Risk Assessment, Research, and Incubation Programs, SES aims to provide Sponsorship and Advisory services to grow MakerDAO.
+
 ## Specification
 
-*Note: the information presented in this section, and more, is available as [permanent documentation in our public drive](https://drive.google.com/drive/u/0/folders/14a_jh42VPdZNiT7wJfH5N_W95WkLDImk) as part of our transparency reporting. It will be kept up-to-date even after the publication and approval of this MIP.*
+*Note: the information presented in this section, and more, is available as [permanent documentation in our public drive](https://drive.google.com/drive/folders/1rjeOpHmE-kgFvkrliw2DlI810FhxPkp7) as part of our transparency reporting. It will be kept up-to-date even after the publication and approval of this MIP.*
 
 ### Motivation
 
-With the successful launch of Multi-Collateral Dai and impressive growth of the Protocol that leaves us with $100M in annual revenues, **Maker's first significant contribution, a decentralized stablecoin**, has been established. We are now facing our **second big challenge: sustainably scaling the decentralized ecosystem** while **avoiding critical failure scenarios**.
+With the successful launch of Multi-Collateral Dai and impressive growth of the Protocol that leaves us with +$100M in annual revenues, **Maker's first significant contribution, a decentralized stablecoin**, has been established. We are now facing our **second big challenge: sustainably scaling the decentralized ecosystem** while **avoiding critical failure scenarios**.
 
 While the recipe for successfully scaling a centralized organization is quite well known, **sustainably scaling decentralized organizations is mainly uncharted territory**. We believe that it is critical for the success of the Protocol to **systematically research** the topic and **continuously improve** the efficiency of the decentralized economy as it grows.
 
@@ -82,19 +93,21 @@ Systematic research will target the identified bottlenecks, leading to repeatabl
 > * **Kick-start Incubation Program:** Create the incubator program and provide coaching to a number of early Core Units / Domain Teams starting out. Incorporate those experiences in the documentation.
 > * **Publish Results and Next Steps:** Based on these initial experiences, create a first list of potential projects for the sustainable ecosystem scaling core unit that can improve the process. Synthesize, present the results to the Maker community and make documentation available.
 >
->  [» Project Dog Food OKRs](https://docs.google.com/document/d/1UocwLOGb6VPqJPsQhHNxhUYBkBdeb8WcE4flK_FPGVs/edit)
+>  [» Project Dog Food OKRs](https://docs.google.com/document/d/1b8RfqHcJ9fcJhsIHtYQTsdOJAbyERa3BW0FrQV0m-Hg/edit)
 >
 > ##### 02. Project X-Ray
 > *Create an initial model for the developer onboarding funnel.*
 > * **Best practices for technical talent on-boarding:**
-Research the best practices for technical talent on-boarding. Gather a baseline for what great developer onboarding experience looks like inside and outside of the crypto industry. Do a self-assessment of where we are relative to these practices and set the desired target developer onboarding experience for the Maker protocol.
-> * **Maker-specific onboarding funnel draft:** Create an initial draft of the model and framework that represents the Maker-specific on-boarding funnel (V1), its current state, and identified bottlenecks. Ensure that this draft can be used to be iterated and improved upon.
-> * **First pass of the funnel:** Do an initial pass over the on-boarding funnel’s model (V1) for developers by reaching out to developer communities, conducting a first round of interviews, and survey collecting existing information.
-> * **Improved onboarding funnel:** Deliver an improved onboarding funnel (V2) that reflects the current live view status and has worked in data collection, tracking and documentation processes.
-> * **Future project recommendations:** Deliver a set of future project recommendations to further improve the onboarding funnel and overall developer experience. Rank by opportunity size, ROI, utility for the Maker Protocol stakeholders/teams.
-> * **Communicate results to governance community:** Communicate the project results to the governance community - present the results & give access to the dashboard and documentation.
+Set clear direction for Maker’s best practices and aspirations in developer relations efforts, that is backed by industry broad research, benchmarking, and expert insights.
+> * **Maker-specific onboarding funnel draft:** Prototype the model of Maker’s tech talent onboarding and retention funnel and its components that capture the current situation.
+> * **First pass of the funnel:** The model prototype is validated and improved upon via user research.
+> * **Improved onboarding funnel:** The model is functional and has implemented processes.
+> * **Future project recommendations:** Have an informed insight into the prospective future projects that can address detected bottlenecks, prioritized in accordance to their importance/ impact/ cost.
+> * **Communicate results to governance community:**
+>   * **First Quarter**: Work progress and accumulated knowledge are shared with the governance community in a transparent and comprehensible way allowing them to understand the work done + work left on the model.
+>   * **Second Quarter**: All results and accumulated knowledge are shared with the governance community in a transparent and comprehensible way allowing them to use the model with minimal effort.
 >
-> [» Project X-Ray OKRs](https://docs.google.com/document/d/1kPHwJa9ZjLlN6NQER2uI1p7j816ywg0bSbscESG-1Is/edit#)
+> [» Project X-Ray OKRs](https://docs.google.com/document/d/1wCDVNnFF9KSEB_9nUGQZ3k3tRrOzGBagqTMBazbQlv4/edit)
 >
 > ##### 03. Project Guardrail
 > *Support kick-starting the decentralized safety infrastructure.*
@@ -115,33 +128,27 @@ Our research must not be purely academic but, instead, be firmly grounded in rea
 - **Guide and support** the team throughout the process, including (1) conception, (2) team formation, (3) legal setup, (4) budgeting, (5) partner outreach, (6) communication/transparency reporting, and (7) governance MIP approval.
 
 > #### Initial Incubation Roadmap
-> SES will start out with **three initial incubation teams** from day one. This is an overview of the objectives as they have been defined for now (still subject to change):
+> SES will start out with **two initial incubation teams** from day one. This is an overview of the objectives as they have been defined for now (still subject to change):
+>
 > ##### 01. JavaScript Product Development CU
 > *Develop web applications and tools that maximize participation, simplify complexity, and democratize access in the Maker protocol.*
 > - Develop dapps, web applications, and open-source tools (e.g. dai.js) for the Maker ecosystem
 > - Design delightful & meaningful user experiences and intuitive interfaces improving the Developer & Community Experience
 > - Provide support for maintaining existing applications that are vital to the Maker protocol and community (e.g. Governance Portal, Liquidations Portal, Migration Portal)
 >
->
->##### 02. Integration Core Unit
-> *Grow the number of Dai and Maker Protocol integrations by lowering the technical barriers of entry for third party integrators.*
-> - Ensure that external teams can achieve business value and build safe and robust integrations with the Maker Protocol by providing best in class technical support
-> - Commitment to support and collaborate with a Growth Core Unit or any other facilitator of partnerships from a technical point of view
-> - Protect the MakerDAO ecosystem moat by maintaining technical relationships with existing and new integration partners
-> - Creation of integration tooling, documentation, developer guides, and code examples
-> - Ensure that integrators are aware of changes to the Maker Protocol, and actively try to identify and mitigate any potential issues that might arise
-> - Facilitate migration of integration partner ecosystem throughout large protocol upgrades
->
-> [» Integrations MIP draft](https://docs.google.com/document/d/1V2ELUpZxiw7_0G3bfJF-ouo-HsIsCIRZ1A2LowW_0vU/edit)
->
->##### 03. Incubator CU
+>##### 02. Incubator CU
 > *Increase the successful development of new businesses (teams/Core Units), job creation and employment in areas that are aligned with Maker Protocol's unique sustainable growth opportunities.*
 > - Set up an incubation program that will be implemented with participating teams
 > - Support participating teams for 3 - 6 months in all aspects of the incubation process
 > - Close interaction with incubating core units to understand their needs and collecting feedback on the program for achieving continuous improvement
 > - Team covers 3 domain expert areas (people, business, tech profiles experts) + generalists
 > - Collaboration with external partners (e.g. educators, recruiters)
-
+>
+>##### Ongoing Conversations
+> We are talking to a number of interested parties to consider further incubation teams in the following areas:
+> - Smart Contracts Development, because we believe that parallelizing SC development work will be key to further scaling the ecosystem.
+> - Legal Core Unit, to work on high-priority legal frameworks that the DAO and its core units will need.
+> - More to come
 
 #### Sponsorship
 
@@ -170,13 +177,13 @@ We believe that sustainable scaling of a decentralized organization will require
 Apart from the research that we will conduct around this, we'll start with applying a number of practices in our own core unit to explore their dynamics and potentially set an example for others to follow:
 
 1. **Objectives and Key Results** for all our projects as the primary way of communicating goals and tracking progress against those goals. These OKRs will be published on a website that will be kept up-to-date all the time, so that everyone can inspect not just what we're working on, but also what has already been achieved.
-    [» Review the Roadmap with OKRs](https://docs.google.com/document/d/1gHoIawHGi4HdWrdRDbX3KOz6427hJzMkgCw6tSmQyk0/edit)
+    [» Review the Roadmap with OKRs](https://docs.google.com/document/d/1SDeSkdhlUg7NjF6AN_DumNNwDlEMB5zH0AKez6Hm3w0/edit)
 
 2. **Weekly Status Update Calls** with a documentation trail that can easily be reviewed by anyone who is interested. These calls are already happening every Friday at 14:30 UTC. Every week, an overarching topic is formulated to make the archive more accessible.
-    [» Review the Status Call Archive](https://drive.google.com/drive/u/0/folders/1z9eZctz0ajCxSsSvtFo5dhN-sjL3v6Mf)
+    [» Review the Status Call Archive](https://drive.google.com/drive/folders/1duDWXVsqHSkdYzXPKULP_Er52E9MPCRY)
 
 3. **Standardized Core Unit Documentation** -- We believe that with a growing number of core units in the ecosystem, the need will arise for standardized reporting about several aspects of the team's activities, goals, and performance. While no standard exists today, we have structured our own core unit documentation in a format that we hope can be reused by others, including the projects in our incubator program.
-    [» Review the Core Unit Documentation](https://drive.google.com/drive/u/0/folders/14a_jh42VPdZNiT7wJfH5N_W95WkLDImk)
+    [» Review the Core Unit Documentation](https://drive.google.com/drive/u/3/folders/1rjeOpHmE-kgFvkrliw2DlI810FhxPkp7)
 
 4. **Self-Accountability Audits** -- Last but not least, we're introducing the notion of self-accountability audits, whereby we will work with an independent external party in the community to:
 
@@ -185,10 +192,15 @@ Apart from the research that we will conduct around this, we'll start with apply
     * Have **regular reviews** with the third party to audit the team's operations, assess to what extent these practices are followed in reality, and formulate improvements where needed.
     * Have a **public record** of these audits available for full transparency.
 
-    We are currently talking with **Seb Derivaux** to implement this and will update the RFC with more details soon.
+     **Seb Derivaux** agreed to take up the role of self-accountability auditor for the SES Core Unit.
 
 While we are pionering these practices with our own Core Unit, we will be able to support other Core Units through our Advisory Program to implement similar mechanisms based on our own experience.
 
 ### SES Discord Chat
 
 [» Join our Discord server](https://discord.gg/Gr3sDQZv6Y) for further discussion and questions.
+
+## Related Documents
+
+[Core Unit Budget MIP](https://forum.makerdao.com/t/mip40c2-sp10-modify-core-unit-budget-ses-001/7369)
+[Core Unit Facilitator MIP](https://forum.makerdao.com/t/mip41c4-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)

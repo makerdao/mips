@@ -8,7 +8,7 @@ Title: Reward Join Adapter (`RewardJoin`)
 Author(s): Alexis
 Contributors: n/a
 Type: Technical
-Status: Conception
+Status: Withdrawn
 Date Proposed: 2021-01-24
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a

@@ -7,7 +7,7 @@ Title: Monthly Governance Cycle
 Author(s): @LongForWisdom 
 Contributors: Charles St.Louis (@CPSTL), Payton Rose (@prose11), Pablo (@Blimpa), @Elihu
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-04-07
 Date Ratified: yyyy-mm-dd
 Dependencies: MIP0, MIP16

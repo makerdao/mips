@@ -6,9 +6,10 @@
 MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
-Status: Formal Submission (FS)
+Tags: smart-contracts, core-unit, core-unit-budget, mip-set, pe-001-mipset
+Status: Accepted
 Date Applied: 2021-03-03
-Date Ratified:
+Date Ratified: 2021-04-27
 ```
 
 ## Sentence Summary
@@ -161,15 +162,23 @@ Protocol Engineering Core Unit Multisig:
 - Ownership: This multisig will be anonymous individuals selected by the Protocol Engineering Team.
 - Frequency: Protocol distributions to the multisig will occur during the last week of the month.
 
-Protocol Engineering Continuous Operation Multisig: `0x4b33AC5b70B30F56bDc6173C7adC691356321F77`
+Protocol Engineering Continuous Operation Multisig: `0x83e36aAA1c7b99E2D3d07789F7b70FCe46f0d45E`
 
 * Implementation: This multisig will be funded in full upon successful onboarding of the Protocol Engineering Core Unit.
 * Access: In order for funds to be accessed from this multisig, the Maker protocol must be in a state where it is unable to pay team salaries due to protocol error, shutdown and/or under governance attack.
-* Ownership: The Continuous Operation Multisig will require 2 of 3 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed: 
+* Ownership: The Continuous Operation Multisig will require 3 of 6 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed:
 
-`Protocol Engineering CU Multisig: 0xe2c16c308b843eD02B09156388Cb240cEd58C01c` 
+`Derek (Protocol Engineering): 0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8`
 
-`Interim DAO Multisig: 0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff`
+`Nadia (Growth CU): 0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
 
-`Growth CU: 0x7800C137A645c07132886539217ce192b9F0528e`
+`LongForWisdom (GovAlpha) : 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
+
+`Primoz (Risk CU): 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c`
+
+`SebVentures (RWF): 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
+
+`Cmooney (Protocol Engineering): 0xEeF3026eF864C9398c008195E65d16D9cb42a512`
+
+For transparency: I had previously identified keyholders as CU multisigs (namely: Protocol Engineering, the Interim DAO Multisig and the Growth CU), however due to complexity of using nested multisigs, I updated this to individuals.
 
