@@ -24,7 +24,7 @@ MIP1 defines and describes Governance Paradigms and problem spaces.
 
 ## Paragraph Summary
 
-A Governance Paradigm is a complete and specific group of MIP Sets that solve an entire problem space. A problem space is defined as a list of issues that must be addressed in order for the Maker Protocol to be able to sustain itself and grow into the future Maker governance.
+A Governance Paradigm is a complete and specific group of MIP Sets that solves an entire problem space. A problem space is defined as a list of issues that must be addressed in order for the Maker Protocol to be able to sustain itself and grow into the future Maker governance.
 
 ## Component Summary
 
