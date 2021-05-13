@@ -47,7 +47,7 @@ A process component which defines a method and template for the removal of an ac
 
 ## Motivation
 
-The motivation behind this proposal is that changing small details to MIPs should not require the original MIP to become obsolete or replaced, so this Process-MIP is needed to define and outline the process behind making these changes to MIPs once they have already been ratified and implemented. Additionally, this MIP defines the process for the removal of MIPs that are have become no longer useful.
+The motivation behind this proposal is that changing small details to MIPs should not require the original MIP to become obsolete or replaced, so this Process-MIP is needed to define and outline the process behind making these changes to MIPs once they have already been ratified and implemented. Additionally, this MIP defines the process for the removal of MIPs that have become obsolete.
 
 ## Specification / Proposal Details
 
