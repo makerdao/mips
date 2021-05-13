@@ -6,7 +6,7 @@
 MIP40c3-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Status: Approved
+Status: Accepted
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03
 ```

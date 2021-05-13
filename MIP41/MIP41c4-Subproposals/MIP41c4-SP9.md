@@ -6,7 +6,7 @@
 MIP40c2-SP#: 9
 Author: Kathleen Chu
 Contributors:  
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```

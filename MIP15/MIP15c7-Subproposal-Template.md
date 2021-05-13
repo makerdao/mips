@@ -5,6 +5,7 @@
 MIP15c7-SP#: #
 Author(s):
 Contributors:
+Tags: template
 Status: 
 Date Applied: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>

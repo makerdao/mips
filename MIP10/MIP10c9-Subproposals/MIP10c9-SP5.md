@@ -6,9 +6,9 @@
 MIP10c9-SP#: 5
 Author(s): Brendan Chou
 Contributors:
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-07-21
-Date Ratified:
+Date Ratified: 2020-08-03
 ```
 
 ## Sentence Summary

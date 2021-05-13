@@ -5,9 +5,9 @@
 MIP10c9-SP#: 11
 Author(s): Desmond Ho, Anton Buenavista
 Contributors: Desmond Ho, Anton Buenavista
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-09-16
-Date Ratified:
+Date Ratified: 2020-09-28
 ```
 
 ## Sentence Summary

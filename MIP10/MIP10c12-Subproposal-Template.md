@@ -5,6 +5,7 @@
 MIP10c12-SP#: 
 Author(s):
 Contributors:
+Tags: template
 Type: Process Component
 Status:
 Date Proposed: <yyyy-mm-dd>

@@ -7,9 +7,9 @@ MIP4c2-SP#: #13
 MIP to be amended: <MIP#0>
 Author(s): @blimpa
 Contributors: @LongForWisdom, @JuanJuan
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-02-26
-Date Ratified:
+Date Ratified: 2021-03-25
 ```
 
 ## Sentence Summary

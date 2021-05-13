@@ -5,9 +5,9 @@
 MIP10c9-SP#: 9
 Author(s): Matt Luongo
 Contributors: Antonio Salazar Cardozo
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-08-25
-Date Ratified:
+Date Ratified: 2020-09-12
 ```
 
 ## Sentence Summary

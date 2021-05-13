@@ -7,6 +7,7 @@ Title: <MIP title>
 Author(s): <list of authors' names and/or email addresses and GitHub handles>
 Contributors:
 Type: MIP Type
+Tag: template
 Status: <Assigned by MIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
@@ -28,7 +29,7 @@ License: <added by MIP Author>
 
 ## Component Summary
 
-- A description of the purpose of each component in the MIP . Suggest 30 words max per component.
+- A description of the purpose of each component in the MIP. Suggest 30 words max per component.
 
 
 ## Motivation
@@ -37,7 +38,7 @@ License: <added by MIP Author>
 
 ## Specification
 
-The details of the proposed technical solution. The specification should be detailed enough to allow an implementation team to begin development as well as testing. The specification for technical MIPs must  include the following components:
+The details of the proposed technical solution. The specification should be detailed enough to allow an implementation team to begin development as well as testing. The specification for technical MIPs must include the following components:
 
 
 ### Proposed Code

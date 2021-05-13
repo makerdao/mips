@@ -6,9 +6,9 @@
 MIP10c9-SP#: 13
 Author(s): Yaron Velner
 Contributors: Yaron Velner
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-10-07
-Date Ratified:
+Date Ratified: 2020-10-27
 ```
 
 ## Sentence Summary

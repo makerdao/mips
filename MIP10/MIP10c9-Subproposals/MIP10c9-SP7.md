@@ -5,9 +5,9 @@
 MIP10c9-SP#: 7
 Author(s): Andrew Leone
 Contributors: Nik Kunkel (@NiklasKunkel)
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-09-09
-Date Ratified:
+Date Ratified: 2020-09-28
 ``` 
 
 ## Sentence Summary

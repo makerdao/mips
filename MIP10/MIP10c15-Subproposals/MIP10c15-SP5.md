@@ -6,9 +6,9 @@ MIP10c15-SP#: 5
 Author(s): Nik Kunkel
 Contributors:
 Type: Process Component
-Status: RFC
+Status: Accepted
 Date Proposed: 2020-07-02
-Date Ratified:
+Date Ratified: 2020-09-08
 ```
 
 ## Sentence Summary

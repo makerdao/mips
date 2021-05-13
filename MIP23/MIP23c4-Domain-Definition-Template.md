@@ -18,6 +18,7 @@ MIP#: X
 Title: $Domain Domain Definition
 Author(s):
 Contributors: n/a
+Tags: template
 Type: General
 Status: Conception
 Date Proposed: n/a

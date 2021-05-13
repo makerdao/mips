@@ -6,9 +6,9 @@
 MIP10c9-SP#: 15
 Author(s): Cristian Ramirez
 Contributors: Cristian Ramirez
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-11-27
-Date Ratified:
+Date Ratified: 2020-12-19
 ```
 
 ## Sentence Summary

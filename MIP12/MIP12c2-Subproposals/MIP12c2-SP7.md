@@ -7,9 +7,9 @@ MIP12c2-SP: 7
 Title: YFI Collateral Onboarding
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors: Charles St.Louis (@CPSTL), monetsupply (@monet-supply), Wil Barnes (@wil)
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-10-07
-Date ratified:
+Date ratified: 2020-11-12
 ```
 
 ## Sentence Summary

@@ -5,6 +5,7 @@
 MIP3c2-SP#:
 Author(s): 
 Contributors:
+Tags: template
 Status: 
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>

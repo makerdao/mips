@@ -5,6 +5,7 @@
 MIP15c8-SP#: #
 Author(s):
 Contributors:
+Tags: template
 Status: 
 Date Proposed: <yyyy-mm-dd>
 Date Removed: <yyyy-mm-dd>

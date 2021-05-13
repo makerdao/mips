@@ -5,6 +5,7 @@
 MIP10c3-SP#: 
 Author(s):
 Contributors:
+Tags: template
 Type: Process Component
 Oracle Team Name:
 Status:

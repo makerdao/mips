@@ -7,8 +7,8 @@ Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Type: Process Component
 Oracle Team Name: Green
-Status: Formal Submission (FS)
-Date Proposed: 2020-08-05
+Status: Accepted
+Date Proposed: 2020-09-30
 Date Ratified:
 ```
 ## Sentence Summary

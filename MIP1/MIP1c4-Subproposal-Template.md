@@ -6,6 +6,7 @@ MIP1c4-SP#: #
 Title of Problem Space Item to be Added or Deleted:
 Author(s):
 Contributors:
+Tags: template
 Status:
 Date of Submission: <yyyy-mm-dd>
 Date of Ratification: <yyyy-mm-dd>

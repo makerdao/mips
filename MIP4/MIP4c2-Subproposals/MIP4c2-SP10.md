@@ -6,7 +6,7 @@ MIP4c2-SP#: 10
 MIP to be Amended: MIP0
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
-Status: Approved
+Status: Accepted
 Date Proposed: 2021-01-18
 Date Ratified: 2021-25-03
 Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4c2-SP12

@@ -7,9 +7,9 @@ MIP4c2-SP#: 8
 MIP to be amended: MIP9
 Author(s): Elihu (@Elihu)
 Contributors:
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-03-01
-Date Ratified:
+Date Ratified: 2021-04-27
 ```
 
 ## Sentence Summary

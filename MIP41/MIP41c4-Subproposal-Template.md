@@ -6,6 +6,7 @@
 MIP41c4-SP#: #
 Author(s):
 Contributors:
+Tags: template
 Status:
 Date Applied: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
