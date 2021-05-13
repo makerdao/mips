@@ -6,7 +6,7 @@
 MIP40c3-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
-Tags: core-unit, core-unit-budget, mip-set, gro-001-mipset
+Tags: core-unit, mip-set, gro-001-mipset, budget, active
 Status: Accepted
 Date Applied: 2021-02-24
 Date Ratified: 2021-04-27

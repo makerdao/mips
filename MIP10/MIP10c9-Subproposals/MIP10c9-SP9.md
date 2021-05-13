@@ -5,6 +5,7 @@
 MIP10c9-SP#: 9
 Author(s): Matt Luongo
 Contributors: Antonio Salazar Cardozo
+Tags: oracles
 Status: Formal Submission
 Date Proposed: 2020-08-25
 Date Ratified:

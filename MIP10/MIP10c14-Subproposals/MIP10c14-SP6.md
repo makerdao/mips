@@ -6,6 +6,7 @@ MIP10c14-SP#6:
 Author(s): Harry Denley
 Contributors: Jordan Spence, Mia Alexander
 Type: Process Component
+Tags: oracles
 Status: Proposed
 Date Proposed: 2020-07-13
 Date Ratified:

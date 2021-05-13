@@ -6,7 +6,7 @@
 MIP41c4-SP#: 6
 Author(s): Coulter Mulligan & Mike Porcaro
 Contributors: 
-Tags: core-unit, personnel-xboarding, mip-set, mds-001-mipset
+Tags: core-unit, mip-set, mds-001-mipset, facilitator, active
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27

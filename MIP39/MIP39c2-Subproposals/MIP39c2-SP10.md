@@ -6,6 +6,7 @@
 MIP39c2-SP#: 10
 Author(s): @wouter, @juanjuan
 Contributors:
+Tags: core-unit, mip-set, ses-001-mipset
 Status: Formal Submission
 Date Applied: 2021-04-07
 Date Ratified: <yyyy-mm-dd>

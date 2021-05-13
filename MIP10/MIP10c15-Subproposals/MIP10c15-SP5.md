@@ -6,6 +6,7 @@ MIP10c15-SP#: 5
 Author(s): Nik Kunkel
 Contributors:
 Type: Process Component
+Tags: oracles
 Status: RFC
 Date Proposed: 2020-07-02
 Date Ratified:
