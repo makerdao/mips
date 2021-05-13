@@ -1,5 +1,21 @@
 # MIP10c17: Subproposal for List of Feeds
 
+## Preamble
+```
+MIP10c17-SP#: 
+Author(s):
+Contributors:
+Type: Process Component
+Tags: oracles
+Status:
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
+```
+
+# Specification
+
+### Introduction
+
 ## Number of Feeds
 - **Dark Feeds =** 15
 - **Light Feeds =** 9
