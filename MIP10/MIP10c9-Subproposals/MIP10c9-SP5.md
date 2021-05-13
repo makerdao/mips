@@ -6,6 +6,7 @@
 MIP10c9-SP#: 5
 Author(s): Brendan Chou
 Contributors:
+Tags: oracles
 Status: Formal Submission
 Date Proposed: 2020-07-21
 Date Ratified:

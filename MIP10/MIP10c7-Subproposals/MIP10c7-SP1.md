@@ -6,6 +6,7 @@ MIP10c7-SP#: 1
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Oracle Team Name: Green
+Tags: oracles
 Status: Formal Submission
 Date Proposed: 2020-09-12
 Date Ratified:

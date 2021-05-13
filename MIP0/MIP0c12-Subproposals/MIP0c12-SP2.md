@@ -5,6 +5,7 @@
 MIP0c12-SP#: 2
 Author: LongForWisdom
 Contributors: n/a
+Tags: personnel-xboarding, governance
 Status: Accepted
 Date Proposed: 2020-05-04
 Date Ratified: 2020-05-28

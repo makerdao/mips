@@ -6,6 +6,7 @@ MIP4c2-SP#: 10
 MIP to be Amended: MIP0
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
+Tags: mip-amendment
 Status: Approved
 Date Proposed: 2021-01-18
 Date Ratified: 2021-25-03

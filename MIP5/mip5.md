@@ -37,13 +37,13 @@ This component addresses emergency state changes to the protocol and how they ar
 
 ## Motivation
 
-This standard is being proposed in order to allow the community to overcome the constraints of the Governance Cycle ([MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md)) in special situations where it is time critical to make changes or remove a part of the operating system.
+This standard is being proposed in order to allow the community to overcome the constraints of the governance cycle ([MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md)) in special situations where it is time critical to make changes or remove a part of the operating system.
 
 ## Specification / Proposal Details
 
 ### MIP5c1: Governance Facilitator Emergency Votes
 
-A Governance Facilitator Emergency Vote encodes one or more website URLs into an on-chain voting contract (spell), as well as containing logic that stops any payment stream to the existing Governance Facilitators. If the executive vote gets the most MKR votes and becomes the active proposal the existing Governance Facilitators are then removed. The list of website URLs then corresponds to a list of one or more new Interim Governance facilitators and their governance platforms that will replace the current governance facilitators. The current Governance Cycle is canceled, and the new Interim Governance Facilitators initiate a new Governance Cycle on the following 1st Monday of the month.
+A governance facilitator emergency vote encodes one or more website URLs into an on-chain voting contract (spell), as well as containing logic that stops any payment stream to the existing governance facilitators. If the executive vote gets the most MKR votes and becomes the active proposal the existing Governance facilitators are then removed. The list of website URLs then corresponds to a list of one or more new Interim Governance facilitators and their governance platforms that will replace the current governance facilitators. The current governance cycle is canceled, and the new Interim Governance Facilitators initiate a new governance cycle on the following 1st Monday of the month.
 
 ---
 ### MIP5c2: An Emergency State Change

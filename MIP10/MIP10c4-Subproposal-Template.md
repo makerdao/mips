@@ -6,6 +6,7 @@ MIP10c4-SP#:
 Author(s):
 Contributors:
 Type: Process Component
+Tags: oracles, oracle-offboarding
 Oracle Team Name:
 Status:
 Date Proposed: <yyyy-mm-dd>

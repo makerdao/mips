@@ -7,6 +7,7 @@ MIP4c3-SP#: #
 MIP to be amended: <MIP#>
 Author(s):
 Contributors:
+Tags: mip-removal
 Status:
 Date of Amendment Submission: <yyyy-mm-dd>
 Date of ratification: <yyyy-mm-dd>

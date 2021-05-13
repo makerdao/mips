@@ -7,6 +7,7 @@ MIP4c2-SP#: #13
 MIP to be amended: <MIP#0>
 Author(s): @blimpa
 Contributors: @LongForWisdom, @JuanJuan
+Tags: mip-amendment, mip-set
 Status: Formal Submission
 Date Proposed: 2021-02-26
 Date Ratified:

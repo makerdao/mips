@@ -6,6 +6,7 @@
 MIP10c14-SP#: 4
 Author(s): Kevin Owocki <kevin@gitcoin.co>
 Contributors: Kevin Owocki <kevin@gitcoin.co>, Nik Kunkel
+Tags: oracles
 Status: Accepted
 Date Proposed: 2020-06-10
 Date Ratified: 2020-07-04

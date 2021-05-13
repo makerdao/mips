@@ -6,6 +6,7 @@
 MIP10c9-SP#: 15
 Author(s): Cristian Ramirez
 Contributors: Cristian Ramirez
+Tags: oracles
 Status: Formal Submission
 Date Proposed: 2020-11-27
 Date Ratified:
