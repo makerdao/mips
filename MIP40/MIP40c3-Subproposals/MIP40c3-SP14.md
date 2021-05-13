@@ -22,6 +22,8 @@ MIP40c3-SP14 adds the budget for Core Unit COB-001: Collateral Onboarding.
 
 Going by the critical nature of the work done by the Collateral Onboarding Core Unit (COB), sufficient funds need to be provisioned in order to guarantee the success of the Maker ecosystem Dai supply in the long run.
 
+Much of this budget template comes from the Protocol Engineering Core Unit and Sustainable Ecosystem Scaling Core Unit. Thanks for breaking ground and doing the heavy lifting!
+
 ### Core Unit ID
 
 Collateral Onboarding Core Unit
@@ -77,7 +79,7 @@ We're asking for a Total Budget Cap of **$616,626**, spanning a 3-month runway. 
 
 Illustrating these details as a percentage of the total budget request for overall comparison:
 
-![](https://i.imgur.com/C9HTqS3.png)
+![](upload://5rTYpxdwhXQu1PaNyAzYWQY9qNy.png)
 
 ### Budget Details:
 
@@ -129,7 +131,7 @@ The budget implementation is based on a _monthly reporting and top-up cycle_ tha
 * Fully separate cashflows on the Core Unit and budget category level for transparency.
 * Reduce governance overhead to a minimum.
 
-![Wallet Top Up Mechanism](https://i.imgur.com/LgVsvNe.jpg)
+![Wallet Top Up Mechanism](upload://tThOs1goyFOAzdgCxPTIJKN17Lq.jpeg)
 
 #### Total Budget Cap
 
@@ -203,3 +205,9 @@ As preparation for the Monthly Top-up Cycle, the Auditors Wallet first needs to 
 * **Amount:** Determined by the [July 2021 Budget Statement]()
 * **Sender:** Auditors Wallet:  `TBD`
 * **Recipients:** Operational Wallet: `TBD`
+
+## Related Documents
+
+[MIP39c2-SP12 Collateral Onboarding Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-onboarding-core-unit/8037)
+
+[MIP41c4-SP14: Facilitator Onboarding, Collateral Onboarding Core Unit](https://forum.makerdao.com/t/mip41c4-sp14-facilitator-onboarding-collateral-onboarding-core-unit/8039)
