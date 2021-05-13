@@ -112,31 +112,10 @@ The three initial responsibilities of the Collateral Onboarding Core Unit focus 
 
 Each of these areas will be expanded upon and included in weekly updates, objectives and key results, and a pipeline to show future priorities. This activity will happen once the initial responsibilities and timeline is agreed upon by the critical stakeholders.
 
-The Collateral Onboarding Team will also adopt the Protocol Engineering Core Unit's **Working Philosophy** and **Ways of Working & Team Rituals**. Both have been slightly modified and included in this MIP (below) for completeness.
+The Collateral Onboarding Team will also adopt the Protocol Engineering Core Unit's **Working Philosophy** and **Ways of Working & Team Rituals** due to the similarities and working relationship between the two Core Units.
 
-### Working Philosophy
+## Related Documents
 
-*DeFi is an experimental landscape where change is constant and the cost of failure is very high.*
+[MIP40c3-SP14 Collateral Onboarding Core Unit Budget Proposal](https://forum.makerdao.com/t/mip40c3-sp14-modify-collateral-onboarding-core-unit-budget/8038)
 
-Due to the complexity of this work and associated risk, there are certain working philosophies that need to be followed. As a team, we will embrace the notion of paired programming, and asynchronous peer reviews to deliver space-grade code. As part of our day-to-day, we:
-
-* Maintain an open forum for discussion, collaboration and learning
-* Are unafraid to voice concerns, risks or limitations when discussing enhancements or changes
-* Adhere to industry standards such as ensuring passing unit tests before deploying any code
-* Modularize code to keep contracts simple and the attack surfaces small
-* Maintain active relationships with auditors and support community bug bounties
-* Keep a tight coupling with the Risk Team, Protocol Engineering, Oracles, other key stakeholders, and the community to manage protocol risk exposure
-* Where possible, open source our code for broader adoption and to promote ecosystem growth
-* Aim to constantly raise the bar for safety and correctness, setting the standard for excellence in protocol design and implementation
-
-### Ways of Working & Team Rituals
-
-The Collateral Onboarding Team will operate on a two week sprint cadence allowing us to be responsive to community votes and market changes. Our commitment to clarity and transparency shall be accomplished with the following:
-
-* **Weekly Protocol Engineering Team Update:** a Governance and Risk call presentation covering progress, including; achievements, challenges, roadblocks.
-
-* **Quarterly Objectives and Key Results:** Manage a product backlog, sprint goals, and team priorities to help drive focus and alignment with other domain teams.
-
-* **Management of a R&D Backlog:** As a mechanism to communicate and discuss what innovative projects we feel are important to help drive further advances with collateral onboarding.
-
-The intention is that through these recurring rituals our stakeholders will be well informed with respect to what this team has achieved, what they are currently working on as well as any upcoming initiatives.
+[MIP41c4-SP14: Facilitator Onboarding, Collateral Onboarding Core Unit](https://forum.makerdao.com/t/mip41c4-sp14-facilitator-onboarding-collateral-onboarding-core-unit/8039)
