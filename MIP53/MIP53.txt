@@ -20,7 +20,6 @@ Replaces:
 
 * [Pre-MIP discussion](https://forum.makerdao.com/t/pre-mip-discussion-the-mkr-compensation-guidelines/7960)
 
-
 ## Sentence Summary
 
 MIP53 describes how MKR will be used to recruit, retain and align interest in the Maker community.
@@ -93,7 +92,6 @@ Based on internal discussions the MKR Compensation Group has the following list 
 2) The MKR compensation proposal should be placed in a separate proposal, not combined with the initial budget request. This allows a new team to start working for Maker and pay salaries to the team members.
 3) There should be a minimum 3-month gap between core unit approval and the application for MKR compensation. This will allow the community a chance to evaluate the core unit before compensating the unit with MKR.
 
-
 **MIP53c4: The MKR Compensation Guidelines towards 2025**
 
 It is the intention to inspect and if necessary revise the guideline periodically towards 2025 while maintaining the core principles of the document to provide a firm foundation for recruitment and retention. 2025 was chosen as the horizon limit due to the high rate of change in the world of crypto which makes it exceedingly hard to plan further.
@@ -102,10 +100,6 @@ Periodic revisions will also enable the community to include lessons learned bot
 
 For the purpose of establishing a DAI value to the MKR used for compensation, the price is set to DAI 2250 per MKR, which was the price of MKR on 3 March 2021 when the Protocol Engineering group submitted their budget proposal.
 
-
 **MIP53c5: Amending the MKR Compensation Guidelines**
 
 Describes how Maker can change the MKR Compensation Guidelines details by use of a MIP53c5 subproposal.
-
-
-
