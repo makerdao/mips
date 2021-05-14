@@ -6,7 +6,7 @@
 MIP41c4-SP#: 4
 Author(s): Nadia Alvarez
 Contributors:
-Tags: core-unit, mip-set, gro-001-mipset
+Tags: core-unit, mip-set, gro-001-mipset, facilitator, active
 Status: Accepted
 Date Applied: 2021-02-24
 Date Ratified: 2021-04-27

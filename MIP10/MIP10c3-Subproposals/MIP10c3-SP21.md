@@ -6,6 +6,7 @@ MIP10c3-SP#: 21
 Author(s): Marc-André Dumas (@marcandu)
 Contributors:
 Type: Process Component
+Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
 Status: Accepted
 Date Proposed: 2021-01-27

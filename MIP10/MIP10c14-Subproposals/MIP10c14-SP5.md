@@ -6,6 +6,7 @@
 MIP10c14-SP#: 5
 Author(s): Itamar Lesuisse
 Contributors:
+Tags: oracles
 Status: Formal Submission
 Date Proposed: 2020-07-02
 Date Ratified:

@@ -7,6 +7,7 @@ Author(s):
 Contributors:
 Tags: template
 Type: Process Component
+Tags: oracles
 Status:
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>

@@ -1,5 +1,21 @@
 # MIP10c8: Subproposal for List of Oracle Data Models
 
+## Preamble
+```
+MIP10c8-SP#: 
+Author(s):
+Contributors:
+Type: Process Component
+Tags: oracles
+Status:
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
+```
+
+# Specification
+
+### Introduction
+
 ## Glossary
 
 - **Source:** The data source for the Oracle Feed
