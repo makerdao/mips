@@ -6,8 +6,8 @@
 MIP39c2-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Tags: core-unit, mip-set, rwf-001-mipset, active
-Status: Approved
+Tags: core-unit, cu-rwf-001, active
+Status: Accepted
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03
 ```

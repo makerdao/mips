@@ -5,9 +5,7 @@
 MIP10c2-SP#: 
 Author(s):
 Contributors:
-Tags: oracles
-Type: Process Component
-Status:
+Tags: template
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ``` 

@@ -6,7 +6,7 @@
 MIP39c2-SP#: 2
 Author(s): Primož Kordež (@Primoz)
 Contributors:
-Tags: core-unit, mip-set, risk-001-mipset, active
+Tags: core-unit, cu-risk-001, active, mandate
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03

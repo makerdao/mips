@@ -8,9 +8,9 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-08-05
-Date Ratified:
+Date Ratified: 2020-09-08
 ```
 ## Sentence Summary
 MIP10c3-SP6 onboards the USDT/USD Oracle.

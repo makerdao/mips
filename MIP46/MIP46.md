@@ -7,7 +7,7 @@ Title: Parameter Proposal Groups
 Author(s): @LongForWisdom, Sam MacPherson (@hexonaut)
 Contributors: @ultraschuppi
 Type: General
-Status: Approved
+Status: Accepted
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Dependencies: None

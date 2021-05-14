@@ -6,8 +6,7 @@ MIP1c4-SP#: #
 Title of Problem Space Item to be Added or Deleted:
 Author(s):
 Contributors:
-Tags: governance
-Status:
+Tags: template
 Date of Submission: <yyyy-mm-dd>
 Date of Ratification: <yyyy-mm-dd>
 ```

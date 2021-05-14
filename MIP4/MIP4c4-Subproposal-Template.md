@@ -7,6 +7,7 @@ MIP4c4-SP#: #
 MIP to be removed: <MIP#>
 Author(s):
 Contributors:
+Tags: template
 Status:
 Date of Removal Submission: <yyyy-mm-dd>
 Date of ratification: <yyyy-mm-dd>

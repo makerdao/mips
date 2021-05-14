@@ -5,6 +5,7 @@
 MIP10c6-SP#: 
 Author(s):
 Contributors:
+Tags: template
 Type: Process Component
 Tags: oracles
 Status:

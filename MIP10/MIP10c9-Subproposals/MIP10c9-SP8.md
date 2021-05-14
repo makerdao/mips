@@ -6,9 +6,9 @@ MIP10c9-SP#: 8
 Author(s): Scott Winges
 Contributors: Nik Kunkel (@NiklasKunkel)
 Tags: oracles
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-09-09
-Date Ratified:
+Date Ratified: 2020-09-28
 ```
 
 ## Sentence Summary

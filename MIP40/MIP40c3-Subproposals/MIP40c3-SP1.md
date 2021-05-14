@@ -6,8 +6,8 @@
 MIP40c3-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Tags: core-unit, mip-set, rwf-001-mipset, budget, active
-Status: Approved
+Tags: core-unit, cu-rwf-001, budget, active
+Status: Accepted
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03
 ```

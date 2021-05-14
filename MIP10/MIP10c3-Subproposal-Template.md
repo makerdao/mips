@@ -5,7 +5,7 @@
 MIP10c3-SP#: 
 Author(s):
 Contributors:
-Tags: oracle-onboarding, oracles
+Tags: template
 Type: Process Component
 Oracle Team Name:
 Status:

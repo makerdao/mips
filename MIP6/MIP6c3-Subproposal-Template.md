@@ -6,7 +6,7 @@ MIP6c3-SP: #
 Title:
 Author(s):
 Contributors: 
-Tags: collateral-xboarding
+Tags: template
 Status: 
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>

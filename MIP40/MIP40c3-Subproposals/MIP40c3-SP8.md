@@ -6,7 +6,7 @@
 MIP40c3-SP#: 8
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, mip-set, com-001-mipset, budget
+Tags: core-unit, cu-com-001, budget
 Status: Request for Comments (RFC)
 Date Applied: 2021-03-12
 Date Ratified:

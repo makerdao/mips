@@ -6,6 +6,7 @@ MIP14c2-SP: #
 Title: <Title>
 Author(s):
 Contributors:
+Tags: template
 Status:
 Date Proposed: <yyyy-mm-dd>
 Date ratified: <yyyy-mm-dd>

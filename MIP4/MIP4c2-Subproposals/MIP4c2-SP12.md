@@ -7,7 +7,7 @@ MIP to be Amended: MIP16
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
 Tags: mip-amendment, core-unit, governance
-Status: Approved
+Status: Accepted
 Date Proposed: 2021-01-18
 Date Ratified: 2021-25-03
 Dependencies: MIP38, MIP39, MIP40, MIP41, MIP4c2-SP10

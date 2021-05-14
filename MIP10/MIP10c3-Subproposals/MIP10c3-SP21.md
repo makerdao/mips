@@ -8,9 +8,9 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Accepted
 Date Proposed: 2021-01-27
-Date Ratified:
+Date Ratified: 2021-02-03
 ```
 ## Sentence Summary
 MIP10c3-SP21 onboards 17 Oracles on Starkware, with dYdX as the customer.

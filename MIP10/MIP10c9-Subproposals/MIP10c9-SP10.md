@@ -6,9 +6,9 @@ MIP10c9-SP#: 10
 Author(s): Artem K
 Contributors:
 Tags: oracles
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-09-16
-Date Ratified:
+Date Ratified: 2020-09-28
 ``` 
 
 ## Sentence Summary
