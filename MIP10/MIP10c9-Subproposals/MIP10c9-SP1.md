@@ -6,6 +6,7 @@
 MIP10c9-SP#: 1
 Author(s): Nenad Palinkasevic, Nikola Klipa, Nikola Jankovic
 Contributors: Nik Kunkel
+Tags: oracles
 Status: Accepted
 Date Proposed: 2020-05-17
 Date Ratified: 2020-07-04

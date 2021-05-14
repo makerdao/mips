@@ -5,7 +5,12 @@
 MIP10c9-SP#: 9
 Author(s): Matt Luongo
 Contributors: Antonio Salazar Cardozo
+<<<<<<< HEAD
 Status: Accepted
+=======
+Tags: oracles
+Status: Formal Submission
+>>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
 Date Proposed: 2020-08-25
 Date Ratified: 2020-09-12
 ```

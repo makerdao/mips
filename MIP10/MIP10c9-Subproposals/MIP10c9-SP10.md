@@ -5,7 +5,12 @@
 MIP10c9-SP#: 10
 Author(s): Artem K
 Contributors:
+<<<<<<< HEAD
 Status: Accepted
+=======
+Tags: oracles
+Status: Formal Submission
+>>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
 Date Proposed: 2020-09-16
 Date Ratified: 2020-09-28
 ``` 

@@ -6,6 +6,7 @@ MIP10c3-SP#: 11
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Type: Process Component
+Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
 Status: RFC
 Date Proposed: 2020-09-17

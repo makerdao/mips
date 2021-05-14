@@ -6,7 +6,7 @@
 MIP39c2-SP#: 7
 Author(s): Protocol Engineering Core Unit
 Contributors: Smart Contracts Domain Team
-Tags: smart-contracts, core-unit, mip-set, pe-001-mipset
+Tags: smart-contracts, core-unit, mip-set, pe-001-mipset, active
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27

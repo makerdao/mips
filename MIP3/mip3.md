@@ -63,7 +63,7 @@ The structure of the governance cycle enables active governance participants to 
 
 ### MIP3c2: Governance Cycle Breakdown
 
-Each monthly governance cycle begins on the first Monday of the month, with Maker Improvement Proposals (MIPs) submitted by community members (defined within the MIP0 Framework). These proposals will be considered for inclusion at the end of the month's Executive vote. The Governance Cycle ends with an Executive vote that begins on the 4th Monday of the month.
+Each monthly governance cycle begins on the first Monday of the month, with Maker Improvement Proposals (MIPs) submitted by community members (defined within the MIP0 Framework). These proposals will be considered for inclusion at the end of the month's Executive vote. The governance cycle ends with an Executive vote that begins on the 4th Monday of the month.
 
 Proposals submitted must follow the guidelines defined in MIP0.
 
@@ -73,13 +73,13 @@ Proposals submitted must follow the guidelines defined in MIP0.
 
 **Week 1, Monday**
 -   The **Formal Submission** (Phase 5 described in [MIP0c3](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c3-the-mip-lifecycle)) of proposals that are to be included in the new governance cycle by the MIP Authors. This phase lasts for 3 days.
--   The formal submission of MIPs are done on the Formal Submission category on the MakerDAO forums under the Maker Improvement Proposal subcategory (as defined in Phase 5 in [MIP0c3](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c3-the-mip-lifecycle)).
+-   The formal submission of MIPs are done on the formal submission category on the MakerDAO forums under the Maker Improvement Proposal subcategory (as defined in Phase 5 in [MIP0c3](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c3-the-mip-lifecycle)).
 
 **Week 1, Thursday**
 -  Governance Facilitators do the **Submission Review** as part of the governance meeting and determine which of the proposed MIPs are in accordance with guidelines (defined in the MIP0 Framework) and should be included in the inclusion poll.
 
 **Week 2, Monday**
--   The Governance Facilitators publish the set of **Inclusion Polls**, one per proposal. Each poll has two options:
+-   The Governance facilitators publish the set of **Inclusion Polls**, one per proposal. Each poll has two options:
 	-   Yes or no.
 	-   Where the `no` votes simply increase the barrier of the proposal to pass.
 -   If the Yes votes for a given option in the inclusion poll are higher than the combination of No votes and the `default inclusion threshold` at the end of the Inclusion Poll, the proposal will be included in the **Governance Poll**.
@@ -107,7 +107,7 @@ Proposals submitted must follow the guidelines defined in MIP0.
 
 **Week 4, Thursday**
 - The Governance Facilitators do the **Governance Cycle Review** as part of the governance meeting in which they summarize and discuss the Governance Cycle with the community.
-- The Governance Facilitators also discuss the upcoming Governance Cycle and potential submissions with the community.
+- The Governance Facilitators also discuss the upcoming governance cycle and potential submissions with the community.
 
 ### Governance Cycle Overview
 
@@ -120,7 +120,7 @@ Proposals submitted must follow the guidelines defined in MIP0.
 
 ### MIP3c3: Default Inclusion Threshold Modification Subproposals
 
-MIP3c2 is a Process MIP component that allows the Default Inclusion Threshold to be modified for the Inclusion poll. This is done through a subproposal. The subproposals are submitted to the Governance Cycle like any other proposal and if ratified, their modified default inclusion threshold takes effect from the Governance Cycle following the successful passing of their governance cycle’s executive vote.
+MIP3c2 is a Process MIP component that allows the Default Inclusion Threshold to be modified for the Inclusion poll. This is done through a subproposal. The subproposals are submitted to the governance cycle like any other proposal and if ratified, their modified default inclusion threshold takes effect from the governance cycle following the successful passing of their governance cycle’s executive vote.
 
 MIP3c2 subproposals have the following parameters:
 - **Default Feedback Period**: 3 months
@@ -132,7 +132,7 @@ MIP3c2 subproposals must use the template located at  **[MIP3c2-Subproposal-Temp
 
 ### MIP3c4: Calendar Exceptions
 
-In order to allow Maker Governance to enjoy the holiday season, there will be no monthly Governance Cycle in the month of December. 
+In order to allow Maker Governance to enjoy the holiday season, there will be no monthly governance cycle in the month of December. 
 
 Although Maker is intended to be a global protocol, in its current state the majority of the active members of governance are located in the United States or Europe. Both these regions have winter holidays that would clash with the conclusion of a monthly governance cycle in December. It is hoped that this exception can be removed in the future when governance of the protocol is more globally distributed.
 

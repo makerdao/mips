@@ -6,6 +6,7 @@
 MIP10c14-SP#: 1
 Author(s): Deniz Omer
 Contributors: Nik Kunkel
+Tags: oracles
 Status: Accepted
 Date Proposed: 2020-05-24
 Date Ratified: 2020-07-4

@@ -6,6 +6,7 @@ MIP10c9-SP#: 14
 Author(s): Artem K, Daniel L
 Contributors:
 Type: Process Component
+Tags: oracles
 Status: Formal Submission
 Date Proposed: 2020-11-19
 Date Ratified:

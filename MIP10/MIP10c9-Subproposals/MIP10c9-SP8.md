@@ -5,7 +5,12 @@
 MIP10c9-SP#: 8
 Author(s): Scott Winges
 Contributors: Nik Kunkel (@NiklasKunkel)
+<<<<<<< HEAD
 Status: Accepted
+=======
+Tags: oracles
+Status: Formal Submission
+>>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
 Date Proposed: 2020-09-09
 Date Ratified: 2020-09-28
 ```

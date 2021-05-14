@@ -7,6 +7,7 @@ Author(s):
 Contributors:
 Tags: template
 Type: Process Component
+Tags: oracles, oracle-offboarding
 Oracle Team Name:
 Status:
 Date Proposed: <yyyy-mm-dd>
