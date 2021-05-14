@@ -5,7 +5,7 @@
 MIP40c2-SP9
 Author(s): Kathleen Chu
 Status: Formal Submission
-Tags: core-unit, mip-set, cpm-001-mipset, budget
+Tags: core-unit, cu-cpm-001, budget
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```

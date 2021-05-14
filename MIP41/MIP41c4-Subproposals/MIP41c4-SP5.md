@@ -6,7 +6,7 @@
 MIP41c4-SP#:5
 Author(s): Seth Goldfarb
 Contributors:
-Tags: core-unit, mip-set, mkt-001-mipset, facilitator, active
+Tags: core-unit, cu-mkt-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27
