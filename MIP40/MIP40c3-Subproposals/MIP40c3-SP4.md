@@ -11,6 +11,9 @@ Status: Accepted
 Date Applied: 2021-02-24
 Date Ratified: 2021-04-27
 ```
+## Sentence Summary
+
+MIP40c3-SP4 adds the budget for Core Unit GRO-001: Growth.
 
 ## Specification
 

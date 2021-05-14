@@ -8,7 +8,7 @@ MIP to be amended: MIP4
 Author(s): David Utrobin(@Davidutro)
 Contributors:
 Tags: mip-amendment, governance
-Status: Formal Submssion
+Status: Formal Submission
 Date Proposed: 2021-02-11
 Date Ratified:
 ```
