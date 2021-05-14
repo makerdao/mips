@@ -6,12 +6,8 @@
 MIP10c9-SP#: 12
 Author(s): Yaron Velner
 Contributors: Yaron Velner
-<<<<<<< HEAD
-Status: Accepted
-=======
 Tags: oracles
-Status: Formal Submission
->>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
+Status: Accepted
 Date Proposed: 2020-10-07
 Date Ratified: 2020-10-27
 ```

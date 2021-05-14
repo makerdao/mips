@@ -6,12 +6,8 @@ MIP10c15-SP#: 5
 Author(s): Nik Kunkel
 Contributors:
 Type: Process Component
-<<<<<<< HEAD
-Status: Accepted
-=======
 Tags: oracles
-Status: RFC
->>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
+Status: Accepted
 Date Proposed: 2020-07-02
 Date Ratified: 2020-09-08
 ```

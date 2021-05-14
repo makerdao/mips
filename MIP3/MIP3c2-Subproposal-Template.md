@@ -5,12 +5,7 @@
 MIP3c2-SP#:
 Author(s): 
 Contributors:
-<<<<<<< HEAD
 Tags: template
-=======
-Tags: governance, parameters
->>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
-Status: 
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ```
