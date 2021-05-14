@@ -6,7 +6,7 @@
 MIP39c2-SP#: 8
 Author(s): David Utrobin
 Contributors: Tim Black, Payton Rose, Jerry Goldfarb, Anna Kryukova
-Tags: core-unit, mip-set, com-001-mipset
+Tags: core-unit, cu-com-001, mandate
 Status: Request for Comments (RFC)
 Date Applied: 2021-03-12
 Date Ratified:

@@ -6,7 +6,7 @@
 MIP39c2-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Tags: core-unit, mip-set, gov-001-mipset, active
+Tags: core-unit, cu-gov-001, active, mandate
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03

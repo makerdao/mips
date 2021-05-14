@@ -7,12 +7,7 @@ MIP4c2-SP#: #
 MIP to be amended: <MIP#>
 Author(s):
 Contributors:
-<<<<<<< HEAD
 Tags: template
-=======
-Tags: mip-amendment
->>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
-Status:
 Date of Amendment Submission: <yyyy-mm-dd>
 Date of ratification: <yyyy-mm-dd>
 ```

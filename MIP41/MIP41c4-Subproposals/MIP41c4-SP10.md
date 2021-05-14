@@ -6,7 +6,7 @@
 MIP41c4-SP#: 10
 Author(s): @juanjuan
 Contributors:
-Tags: core-unit, mip-set, ses-001-mipset, facilitator
+Tags: core-unit, cu-ses-001, facilitator
 Status: Formal Submission
 Date Applied: 2021-04-07
 Date Ratified: <yyyy-mm-dd>

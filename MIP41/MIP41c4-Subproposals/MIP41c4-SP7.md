@@ -6,7 +6,7 @@
 MIP41c4-SP#: 7
 Author(s): Derek Flossman
 Contributors:
-Tags: smart-contracts, core-unit, mip-set, pe-001-mipset, facilitator, active
+Tags: smart-contracts, core-unit, cu-pe-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-03-02
 Date Ratified: 2021-04-27

@@ -5,14 +5,9 @@
 ```
 MIP40c2-SP#: 9
 Author: Kathleen Chu
-<<<<<<< HEAD
 Contributors:  
+Tags: core-unit, cu-cpm-001, facilitator
 Status: Formal Submission
-=======
-Contributors:
-Tags: core-unit, mip-set, cpm-001-mipset, facilitator
-Status: Request for Comments (RFC)
->>>>>>> c105bdfa267b3df369b779ffeea1420cb2706ea3
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```

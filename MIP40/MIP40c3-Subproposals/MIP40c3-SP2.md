@@ -6,7 +6,7 @@
 MIP40c3-SP#: 2
 Author(s): Primož Kordež
 Contributors: 
-Tags: core-unit, mip-set, risk-001-mipset, budget, active
+Tags: core-unit, cu-risk-001, budget, active
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03
