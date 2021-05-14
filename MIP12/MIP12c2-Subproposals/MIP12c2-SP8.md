@@ -1,4 +1,4 @@
-    # MIP12c2-SP8: BAL Collateral Onboarding
+# MIP12c2-SP8: BAL Collateral Onboarding
 
 ## Preamble
 
