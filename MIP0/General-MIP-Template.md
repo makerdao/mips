@@ -6,7 +6,7 @@ MIP#:
 Title:
 Author(s): 
 Contributors:
-Tag: template
+Tags: template
 Type: 
 Status: <Assigned by MIP Editor>
 Date Proposed: <yyyy-mm-dd>
