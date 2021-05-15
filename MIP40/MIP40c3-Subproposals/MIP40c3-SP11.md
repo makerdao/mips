@@ -1,9 +1,9 @@
-# MIP40c3-SPX: GovAlpha Core Unit Budget - GOV-001
+# MIP40c3-SP11: GovAlpha Core Unit Budget - GOV-001
 
 ## Preamble
 
 ```
-MIP40c3-SP#: X
+MIP40c3-SP#: 11
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
 Status: RFC
@@ -13,10 +13,10 @@ Date Ratified: N/A
 
 ## Sentence Summary
 
-MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha.
+MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
-MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI over 3 months - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
+MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI over 3 months - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
 
 ### Motivation
 
@@ -168,6 +168,3 @@ In the event of Payton Rose (@prose11) failing to be ratified as a facilitator o
 July - 277,584 DAI  
 August - 127,584 DAI  
 September - 127,584 DAI  
-
-
-
