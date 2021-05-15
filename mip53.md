@@ -43,7 +43,7 @@ Describes recommended practices by the Core Units.
 Describes the planned evolution of the guidelines.
 
 **MIP53c5: Amending the MKR Compensation Guidelines**
-
+Describes amendments to the guidelines.
 
 ## Motivation
 
