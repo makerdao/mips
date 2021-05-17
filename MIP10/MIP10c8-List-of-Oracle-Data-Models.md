@@ -39,51 +39,51 @@ Date Ratified: <yyyy-mm-dd>
 **Data Model Name:** BAT/USD Data Model   
 **Data Model Origin:** N/A   
 **Data Model Discussion** N/A   
-|    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :----: | :---------: | :----------: |
-|   Binance     |    BAT/BTC    |   13   |    Median   |    Median    |
-|   Bittrex     |    BAT/BTC    |
-|   Coinbase    |    BAT/USDC   |
-|   Upbit       |    BAT/KRW    |
+| Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
+|:---------|:-----------|:------:|:----------:|:------------:|
+| Binance  | BAT/BTC    | 13     | Median     | Median       |
+| Bittrex  | BAT/BTC    |        |            |              |
+| Coinbase | BAT/USDC   |        |            |              |
+| Upbit    | BAT/KRW    |        |            |              |
 
 **Data Model Name:** BTC/USD Data Model   
 **Data Model Origin:** [Governance Portal](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo)   
 **Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-btcusd-oracle-set-protocol-dydx/2011/14)   
-|    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :----: | :---------: | :----------: |
-|   Bitstamp    |    BTC/USD    |   13   |    Median   |    Median    |
-|   Bittrex     |    BTC/USD    | 
-|   Coinbase    |    BTC/USD    |
-|   Gemini      |    BTC/USD    |
-|   Kraken      |    BTC/USD    |
+| Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
+|:---------|:-----------|:------:|:----------:|:------------:|
+| Bitstamp | BTC/USD    | 13     | Median     | Median       |
+| Bittrex  | BTC/USD    |        |            |              |
+| Coinbase | BTC/USD    |        |            |              |
+| Gemini   | BTC/USD    |        |            |              |
+| Kraken   | BTC/USD    |        |            |              |
 
 **Data Model Name:** ETH/BTC Data Model   
 **Data Model Origin:** [Governance Portal](https://vote.makerdao.com/polling-proposal/qmeymkw5rhenzsevpvnhequj9glvq6n5buzapyrvestcdg)   
 **Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-ethbtc-oracle-tbtc/2010/10)   
-|    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :----: | :---------: | :----------: |
-|   Binance     |    ETH/BTC    |   13   |    Median   |    Median    |
-|   BitFinex    |    ETH/BTC    |
-|   Coinbase    |    ETH/BTC    |
-|   Huobi       |    ETH/BTC    |
-|   Kraken      |    ETH/BTC    |
-|   Poloniex    |    ETH/BTC    | 
+| Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
+|:---------|:-----------|:------:|:----------:|:------------:|
+| Binance  | ETH/BTC    | 13     | Median     | Median       |
+| BitFinex | ETH/BTC    |        |            |              |
+| Coinbase | ETH/BTC    |        |            |              |
+| Huobi    | ETH/BTC    |        |            |              |
+| Kraken   | ETH/BTC    |        |            |              |
+| Poloniex | ETH/BTC    |        |            |              |
 
 **Data Model Name:** ETH/USD Data Model   
 **Data Model Origin:** N/A   
 **Data Model Discussion:** N/A   
-|    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :----: | :---------: | :----------: |
-|   Binance     |    ETH/BTC    |   13   |    Median   |    Median    |
-|   Bitstamp    |    ETH/USD    |
-|   Coinbase    |    ETH/USD    |
-|   Gemini      |    ETH/USD    |
-|   Kraken      |    ETH/USD    |
+| Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
+|:---------|:-----------|:------:|:----------:|:------------:|
+| Binance  | ETH/BTC    | 13     | Median     | Median       |
+| Bitstamp | ETH/USD    |        |            |              |
+| Coinbase | ETH/USD    |        |            |              |
+| Gemini   | ETH/USD    |        |            |              |
+| Kraken   | ETH/USD    |        |            |              |
 
 
 **Data Model Name:** USDC/USD Data Model   
 **Data Model Origin:** [Maker Governance](https://vote.makerdao.com/executive-proposal/proposal-for-collateral-onboarding-of-usdc)   
 **Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-for-collateral-onboarding-of-usdc/1588)   
-|    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
-| :------------ | :-----------: | :----: | :---------: | :----------: |
-|      1        |      N/A      |   N/A  |     N/A     |      N/A     |
+| Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
+|:---------|:-----------|:------:|:----------:|:------------:|
+| 1        | N/A        | N/A    | N/A        | N/A          |

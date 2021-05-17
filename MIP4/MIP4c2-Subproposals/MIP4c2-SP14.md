@@ -12,6 +12,10 @@ Date of Amendment Submission: 2021-03-31
 Date of ratification:
 ```
 
+## Sentence Summary
+
+MIP4c2-SP14 amends MIP0 with the intent of making it easier to read and navigate.
+
 ## Specification
 
 ### Paragraph Summary
