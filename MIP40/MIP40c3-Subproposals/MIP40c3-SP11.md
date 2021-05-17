@@ -16,7 +16,7 @@ Date Ratified: N/A
 MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
-MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI over 3 months - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
+MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 520,000 DAI over 3 months - 370,000 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
 
 ### Motivation
 
@@ -70,7 +70,7 @@ The GovAlpha Team will consist of at least the following members in the July/Aug
 @charlesstlouis - Part Time -  MIP Editor  
 
 **--Contributors--**  
-@Elihu - Full Time - Governance Core Unit Contributor  
+@Elihu - Part Time - Governance Core Unit Contributor  
 _Unfilled_ - Part Time PM / Operations  
 _Unfilled_ - Part Time Contributor  
 _Unfilled_ - Part Time Contributor  
@@ -112,14 +112,14 @@ The multiplier for partial commitment is higher than one might initially expect 
 | **People**                        |                 |
 | Core Unit Facilitators (2)        | 59,000 DAI      |
 | MIP Editors (2)                   | 24,500 DAI      |
-| Contributors (4)                  | 51,250 DAI      |
+| Contributors (4)                  | 41,250 DAI      |
 | **Programs**                      |                 |
 | SourceCred Payouts                | 85,000 DAI      |
 | SourceCred Customization/Support  | 6,500 DAI       |
 | SourceCred Feature Development    | 36,000 DAI      |
 | DaiStats Support                  | 1,500 DAI       |
 | CatFlip Equivalent Development    | 6,000 DAI       |
-| DAI Backing Support               | 6,000 DAI       |
+| DAI Backing Support               | 3,000 DAI       |
 | MIPs Portal                       | 20,000 DAI      |
 | Forum Customization               | 4,000 DAI       |
 | **Admin**                         |                 |
@@ -130,7 +130,7 @@ The multiplier for partial commitment is higher than one might initially expect 
 | Gas                               | 5,000 DAI       |
 | Travel                            | 6,000 DAI       |
 | Continuity Budget                 | 150,000 DAI     |
-| **Total**                         | **532,750 DAI** |
+| **Total**                         | **520,000 DAI** |
 
 The full budget can be found [here](https://docs.google.com/spreadsheets/d/1o_IiwcBtN50o4rFH6Wbhhj7RDCKCNjDCHYX3WG4NGFU/edit#gid=1620670023).
 
@@ -160,11 +160,9 @@ We are requesting a portion of this quarter's budget allocation for the purpose 
 
 **To be completed**
 
-Assuming that Payton Rose (@prose11) will be confirmed as a facilitator, we will set up a GovAlpha multi-sig wallet that will be owned by governance and administered by GovAlpha facilitators for the purpose of funding the operations of the GovAlpha core unit. The details of this wallet will be shared once it has been set up.
-
-In the event of Payton Rose (@prose11) failing to be ratified as a facilitator of GovAlpha, the Core Unit will continue to use the Interim DAO Multi-sig wallet located at this address **0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff** that was used for the previous quarter.
+Assuming that Payton Rose (@prose11) will be confirmed as a facilitator, we will set up a GovAlpha multi-sig wallet that will be owned by governance and administered by GovAlpha facilitators for the purpose of funding the operations of the GovAlpha core unit. The details of this wallet will be shared once it has been set up. In the event Payton Rose fails to be ratified as a facilitator of GovAlpha, we will still do the above.
 
 **Payout Dates**
-July - 277,584 DAI  
-August - 127,584 DAI  
-September - 127,584 DAI  
+July - 273,334 DAI  
+August - 123,333 DAI  
+September - 123,333 DAI  
