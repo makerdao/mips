@@ -1,4 +1,4 @@
-# MIP4c2: MIP Amendment Subproposals
+# MIP4c2-SP14: MIP Amendment Subproposals
 
 ## Preamble
 
@@ -17,10 +17,6 @@ Date of ratification:
 MIP4c2-SP14 amends MIP0 with the intent of making it easier to read and navigate.
 
 ## Specification
-
-### Paragraph Summary
-
-This MIP Amendment trims down, reformats and partly rewords MIP0 with the intent of making it easier to read and navigate. This MIP Amendment does not change MIP0's logic and processes.
 
 ### Motivation
 

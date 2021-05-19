@@ -6,9 +6,9 @@
 MIP7c4-SP#: #1
 Author(s): Cyrus Younessi
 Contributors:
-Status: Formal Submission (FS)
+Status: Accepted
 Date Proposed: 2020-09-08
-Date Ratified:
+Date Ratified: n/a
 ---
 Domain Team Name: Cyrus Younessi
 ```
