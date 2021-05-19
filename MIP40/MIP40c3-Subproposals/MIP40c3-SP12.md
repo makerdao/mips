@@ -11,6 +11,10 @@ Date Applied: 2021-05-11
 Date Ratified:
 ````
 
+## Sentence Summary
+
+MIP40c3-SP12 adds the budget for Core Unit RWF-001: Real-World Finance.
+
 ## Specification
 
 ## Motivation

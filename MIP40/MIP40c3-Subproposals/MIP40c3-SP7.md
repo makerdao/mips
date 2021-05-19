@@ -14,7 +14,7 @@ Date Ratified: 2021-04-27
 
 ## Sentence Summary
 
-MIP40c3-SP7 adds the budget for the Protocol Engineering Core Unit.
+MIP40c3-SP7 adds the budget for Core Unit PE-001: Protocol Engineering.
 
 ## Specification
 
