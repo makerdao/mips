@@ -158,7 +158,7 @@ We are requesting a portion of this quarter's budget allocation for the purpose 
 
 ### Budget Implementation
 
-GovAlpha has setup a Maker Governance owned multi-signature wallet that will be used to administer the funds allocated to fulfilling the GovAlpha mandate. The details of this multi-sig wallet are as follows:
+GovAlpha has set up a Governance-owned multi-signature wallet that will be used to administer the funds allocated to fulfilling the GovAlpha mandate. The details of this multi-sig wallet are as follows:
 
 **Multi-sig Address:**  
 [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/#/safes/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances)  
@@ -167,7 +167,7 @@ GovAlpha has setup a Maker Governance owned multi-signature wallet that will be 
 [@LongForWisdom](https://forum.makerdao.com/u/LongForWisdom) - [0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69](https://etherscan.io/address/0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69)  
 [@prose11](https://forum.makerdao.com/u/prose11) - [0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE](0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE)
 
-For the next quarter GovAlpha is proposing a manual budget implementation which will involve the transfers listed below. Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote. 
+For the next quarter, GovAlpha is proposing a manual budget implementation that will involve the transfers listed below. Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote. 
 
 **Payout Dates**  
 Month of July - 273,334 DAI  
