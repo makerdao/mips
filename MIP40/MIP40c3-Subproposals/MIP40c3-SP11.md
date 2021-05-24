@@ -152,17 +152,26 @@ As in-person events once again become a regular occurrence, we wish to budget ex
 
 **Continuity Budget**
 
-We are requesting a portion of this quarter's budget allocation for the purpose of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI infeasible.
+We are requesting a portion of this quarter's budget allocation for the purpose of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for an alternative stablecoin to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI infeasible.
 
 150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovAlpha cannot receive monthly budget payments from the protocol. 
 
 ### Budget Implementation
 
-**To be completed**
+GovAlpha has setup a Maker Governance owned multi-signature wallet that will be used to administer the funds allocated to fulfilling the GovAlpha mandate. The details of this multi-sig wallet are as follows:
 
-Assuming that Payton Rose (@prose11) will be confirmed as a facilitator, we will set up a GovAlpha multi-sig wallet that will be owned by governance and administered by GovAlpha facilitators for the purpose of funding the operations of the GovAlpha core unit. The details of this wallet will be shared once it has been set up. In the event Payton Rose fails to be ratified as a facilitator of GovAlpha, we will still do the above.
+**Multi-sig Address:**  
+[0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/#/safes/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances)  
 
-**Payout Dates**
-July - 273,334 DAI  
-August - 123,333 DAI  
-September - 123,333 DAI  
+**Keyholders:**  
+[@LongForWisdom](https://forum.makerdao.com/u/LongForWisdom) - [0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69](https://etherscan.io/address/0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69)  
+[@prose11](https://forum.makerdao.com/u/prose11) - [0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE](0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE)
+
+For the next quarter GovAlpha is proposing a manual budget implementation which will involve the transfers listed below. Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote. 
+
+**Payout Dates**  
+Month of July - 273,334 DAI  
+Month of August - 123,333 DAI  
+Month of September - 123,333 DAI  
+
+
