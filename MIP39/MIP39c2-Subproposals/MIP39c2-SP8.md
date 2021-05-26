@@ -5,11 +5,10 @@
 ```
 MIP39c2-SP#: 8
 Author(s): David Utrobin
-Contributors: Tim Black, Payton Rose, Jerry Goldfarb, Anna Kryukova
-Tags: core-unit, cu-com-001, mandate
-Status: Request for Comments (RFC)
+Contributors: Many
+Status: RFC
 Date Applied: 2021-03-12
-Date Ratified:
+Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Sentence Summary
@@ -18,135 +17,170 @@ MIP39c2-SP8 adds Core Unit COM-001: Governance Communications.
 
 ## Specification
 
+*Note: the information presented in this section, and more, is available as permanent documentation in [our public drive](https://drive.google.com/drive/folders/1GBAeTx4jmob7wRs7_LK32Bh_Y-pHzPvV?usp=sharing) as part of our transparency reporting. It will be kept up-to-date even after the publication and approval of this MIP.*
+
+## Paragraph Summary
+
+The Governance Communications Core Unit performs a complementary set of resources and services that focus on MakerDAO's informational accessibility and communication practices as a public organization.
+
+**Vision**
+
+A healthy communication and information infrastructure:
+
+* Makes consistent, comprehensive, and accurate information accessible.
+* Has well-managed public communication venues.
+* Engages with stakeholders to improve its output.
+* Provides dedicated support and multiple points of access to members of the media.
+* Advocates for, facilitates, and promotes beneficial organizational communication practices.
+* Maps the organization and its surrounding stakeholder ecosystem.
+* Results in a more effective and less opaque organization that attracts more stakeholders.
+
 ## Motivation
 
-The Maker Protocol is a complex system with many different categories of focus. To name a few, we have Collateral Inclusion, Parameter setting, Smart Contract Upgrades, Oracles, Integrations, and more. **The main problem is that keeping up is challenging for the average stakeholder. Our motivation is to provide solutions to this challenge.**
+Now that MakerDAO has completed the launch of Multi-Collateral Dai, followed by very strong growth, *it is time to focus on improving MakerDAO as a public organization*, not just as a technology.
 
-“Aggregate and simplify” is a phrase we’ve used to capture the essence of what we do. MakerDAO and its stakeholders will benefit from a dedicated team following and documenting developments at MakerDAO, making information more accessible to all.
+MakerDAO is a multi-headed rapidly-growing organization with many categories of focus and numerous stakeholder groups. As a result, our stakeholders face many difficulties; keeping up with the growing volume and complexity of information, spending too much time searching, filtering noise, understanding Maker lingo, not knowing who is a point of contact for what, inability to make it to all the meetings, and more. These are only some of the barriers to increasing the quality of their experience working with us, and as we grow these will only get worse and worse.
 
-Additionally, a Governance Communications Core Unit strengthens MakerDAO’s dependability in emergency situations by having a historical and established communications infrastructure that stakeholders can count on.
-
-Onboarding the Governance Communications Core Unit secures a fundamental team needed at MakerDAO to improve MakerDAO’s communications infrastructure by offering a range of communications products and services.
+**Our motivation is to improve MakerDAO's performance as a public organization by removing information and communication barriers for stakeholders.** A dedicated communications team is fundamental for strengthening MakerDAO’s dependability day-to-day and in crisis situations. Such a team would help MakerDAO operate more effectively as a public organization, become more transparent and reliable, increase trustworthiness among stakeholders, and ultimtely attract more business interest.
 
 ## Core Unit Name
 
 Name: Governance Communications
 ID: COM-001
 
-## Core Unit Facilitator/s
+## Core Unit Facilitator
 
 David Utrobin
 
 ## Mandate
 
-The following items categorize the scope of the Governance Communications Core Unit. Please note that this is not a prioritization, but rather an expression of the scope that we focus on.
+Perform a complementary set of resources and services that focus on MakerDAO's informational accessibility and communication practices as a public organization. Below is the envisioned scope; not all of it will be covered immediately, and we may alter it in the future as a result of feedback and new developments.
 
-### Information Dissemination and Accessibility
+![](https://i.imgur.com/kx59gmp.png)
 
-_Ensure that information about current events of the Maker protocol are properly and consistently available to MakerDAO stakeholders._
+### Resources
 
-* Maintain the Public MakerDAO Governance Events and Public Calls Calendar.
-* Immediate Publications
-    * Snippets (shortened meeting minutes posted immediately)
-* Weekly Publications
-    * Maker Relay
-    * MIPs Update
-    * Governance at a Glance (Weekly Forum Recap)
-    * Public Call Meeting Minutes
-* Monthly Publications
-    * Governance Activity Roundup
+**Governance News & Reports**
+_COM-001 leads this, and collaborates with other Core Units._
 
-### Emergency Communications
+- Weekly Maker Relay
+- Monthly Governance Report
+- Annual Governance Report
 
-_Ensure that crisis moments have the support of a dedicated communications team._
+**Public Call Summaries**
+_Leads a team of part-time contributors to produce summaries for all public calls._
 
-* Responsible for the Emergency Response Process MIP(Being drafted.)
-* Work with the Governance Domain team and other Core Units to facilitate communications during emergencies.
-* Maintain a list of pre-written emergency response templates.
+- Seven Call Types and Growing
+    - Governance and Risk
+    - Know Your MIP
+    - Core Unit Launch Pod Sessions
+    - Core Unit Tools
+    - Core Unit Rituals
+    - Office Hours
+    - Speaker Series
+- Three types of summary
+    - Snippets
+    - Semi-Transcibed
+    - Editiorial
 
-### Stewarding the Main Public Communication Spaces
+**MakerDAO Public Calendar**
+_Maintains and improves the calendar, and acts as a point of access for other CUs to add events._
 
-_Participating in the moderation and improvement of our public communication spaces._
+- GovAlpha also has access to this Calendar, for redundancy and collaboration.
+- Access point ensures the new calls are tracked by the summaries team.
 
-* Perform moderation duties on Maker's most used communication platforms
+**Organization & Stakeholder Mapping**
+_Creates and maintains a public Organization Chart of MakerDAO and non-public stakeholder registries for the DAO._
+
+- Org Chart captures all CUs, their Facilitators, and other Key people.
+- Stakeholder Map, captures the surrounding landscape of stakeholder groups.
+- Stakeholder Registries:
+    - MKR Voters
+    - Freelance Contributors
+    - Delegates
+    - Media
+    - Key people at other DAOs
+    - Backup Registries for other CUs (Partners, Integrators, etc)
+- Use Cases for Registries and Backup Registries
+    - Rollodexes for DAO-use will enable better connectivity.
+    - Groups stakeholders for easier outreach.
+
+### Services
+
+**Stakeholder Engagement with Informational Focus**
+_Engages stakeholders for information-related feedback and advises MakerDAO on how to improve._
+
+- Cross-DAO research, outreach, and coordination around mutually important issues.
+- MKR Holder outreach about information disclosure quality.
+- Works with Core Units to improve their Reporting standards.
+
+**Issue Discussion Public Call Series**
+_Leads a public call series that discusses governance decisions and other issues, inviting the stakeholders that would be affected most._
+
+- Used to discuss issues at all levels.
+- Weighs pros and cons of varying proposals in the presence of a well-balanced group of stakeholders.
+- Uses the stakeholder registries to inform relevant stakeholders about upcoming discussion calls.
+
+**Press & Media Relations Support**
+_Gives members of the media known points of access for engaging with us._
+
+- Sets up an individual as a dedicated point of contact.
+- Maintains and manages access to the Media Inquiries section of the forum.
+- Works with other Core Units to resolve inquiries
+
+**Emergency Communications Support**
+_Ensures that crisis moments have the support of a dedicated communications team so that key actors can focus on decision making and executing solutions rather than managing public comms._
+
+- Co-Authors Emergency Response Process MIP, still in conception.
+- Maintains a set of emergency response templates in collaboration with other CUs.
+- Posts and maintains a view-only Update Thread and a public Discussion Thread.
+- Works with Protocol Engineering, Oracles, Risk, and others to publish live updates.
+- Point of contact for Press Inquiries.
+- Provides backup access to Stakeholder Registries for emergency outreach.
+
+**Communication Platform Stewardship**
+_Leads a small team of community moderators, establishes guidelines and best practices for moderating, suggests improvements for user experience._
+
+- Facilitates moderation duties on our most used communication platforms
     * Forum.makerdao.com
-    * Reddit
     * Rocketchat
-* Work with the Governance Core Unit to improve user experience and information flow on these platforms.
-
-### Core Unit Involvement
-
-_Ensure that Core Units get covered._
-
-* Work with Core Units to determine their own publication needs.
-* Aide Core Units when they need the attention of stakeholders.
-* Expand our coverage as new Core Units get voted-in.
-
-### Seeking Feedback and Adapting to MakerDAO as It Grows
-
-_Ensure that our products and services can pivot in response to MakerDAO needs._
-
-* Regularly seek feedback from the stakeholder community to identify problems, solutions, improvements, needs.
-* Grow or shrink the team as needed.
+    * Reddit
+- Collaborates with the Governance Core Unit to improve venues.
 
 ## Roadmap
 
-### Responsibilities at Launch
+### Month 1-3: Setup and Cover the Bases
 
-The following items list the products and services of the Governance Communications Core Unit at inception. Please note that this is not a prioritization, but rather a list of our active products and services.
-
-1. **Maintain public calendar**; Providing stakeholders with a calendar for votes and public calls.
-_6-month goal: Gather feedback for improvement, maintain full coverage._
-2. **Stewarding Platforms**; Moderating and Improving the Forum, Rocketchat, and Reddit.
-_6-month goal: Maintain coverage, create moderator guidelines._
-3. **Emergency Response Service**; Efficient pre-planned process for executing on emergency communications.
-_6-month goal: Produce MIP and associated resources, get them passed._
-4. **Governance Call Summaries**; Historic call-minutes for public Governance Calls.
-_6-month goal: Maintain full coverage, expand coverage to other public calls._
-5. **Governance Call Snippets**; Key points published directly after public Governance Calls.
-_6-month goal: Maintain full coverage, expand coverage to other public calls._
-6. **Maker Relay**; Publication about what is going on at MakerDAO weekly.
-_6-month goal: Maintain full coverage, adapt format as new Core Units come into existence._
-7. **MIPs Update**; Publication about what is going on with MIPs weekly.
-_6-month goal: Get it out of the hands of the Governance Domain Team._
-8. **Governance at a Glance**; Weekly roundup of relevant or important forum threads.
-_6-month goal: Get it out of the hands of the Governance Domain Team._
-9. **Monthly Governance Review**; Monthly roundup of governance activity.
-_6-month goal: Maintain full coverage._
-
-### Month 1-2: Setup, Execute, and Evaluate.
-
-* Execute our responsibilities.
-* Incorporate and set up administrative operations.
-* Onboard Full-time Project Manager.
+* Execute on our active projects as usual.
+* Set up administrative operations.
+* Activate unlaunched projects (Issue Discussion Call, Org Mapping, etc)
+* Hire and onboard for all required roles.
 * Set up project owners.
-* Project owners to set up project metrics tracking.
-* Project owners on setting up tactics for gathering feedback and to continue to improve our offerings.
-* Work with Core Units to understand overlapping work and collaboration opportunities.
-* Communicate about our progress, blockers, and needs.
+* Set up project tracking.
+* Set up Transparency Reporting & Self-Auditing.
+* Assess budget, submit proposal for changes if needed.
 
-### Month 3: Execute and Report
+### Month 3+: Execute and Report
 
-* Execute our responsibilities.
-* The facilitator puts together the equivalent of a quarterly report for their Core Unit.
-* Update the roadmap for the next three months and communicate explicitly our progress, blockers, and needs.
-* If needed, submit changes to the budget.
+* Execute on our mandate.
+* Improve on our projects.
+* Improve on our documentation and tracking.
+* Refine our goals and vision per project.
+* Update the roadmap for the next quarter and communicate explicitly about our progress, blockers, and needs.
 
 ## Team Structure
 
-The Governance Communications Core Unit will function as a self-managing entity with a hierarchical management structure. Contributors and Project Managers answer to the Facilitator, who then answers to the community and MKR holders.
+The Governance Communications Core Unit will function as a self-managing entity with a hierarchical management structure. Contributors and Project Managers answer to the Facilitator, who then answers to MKR holders and the wider community.
 
 The three main roles in this Core Unit are Facilitator, Project Manager, and Contributor. The contributor role is not a full-time role. If a contributor is interested in a full-time role, they become a project manager.
 
 | Title           | Commitment | Name           |
 |-----------------|------------|----------------|
 | Facilitator     | Full-time  | David Utrobin  |
-| Project Manager | Full-time  | Artem Gordon   |
-| Project Manager | Part-time  | Tim Black      |
-| Contributor     | Part-time  | Jose Azambuya  |
-| Contributor     | Part-time  | Dennis Mitchel |
-| Contributor     | Part-time  | Gala Guillen   |
-| Contributor     | Part-time  | Mario Ferrari  |
+| Project Manager (Content Lead) | Full-time  | Artem Gordon   |
+| Project Manager (People Lead) | Full-time  | Hiring     |
+| Project Manager (Engagement Lead) | Full-time  | Hiring     |
+| Contributor     | Part-time  | x8  |
 
 ## Team Credentials
 
@@ -168,8 +202,8 @@ This team works on a variety of projects and is fully remote. This means that as
 
 ## Legal Structure
 
-**This section will be updated before the end of RFC**
+**This section will be updated before the freeze deadline ahead of a July Formal Submission**
 
-*   Operating Entity based in x.
-*   Working with a third-party company to enlist HR services to ensure good options for worker compensation and benefits.
-*   US & non-US team members.
+* Operating Entity based in x.
+* Working with a third-party company to enlist HR services to ensure good options for worker compensation and benefits.
+* US & non-US team members.
