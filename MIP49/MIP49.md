@@ -7,6 +7,7 @@ MIP#: 49
 Title: Staking Rewards
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
 Contributors:@LongForWisdom, @JuanJuan, @Elihu
+Tags:
 Type: General
 Status: Formal Submission
 Date Proposed: 2021-02-03

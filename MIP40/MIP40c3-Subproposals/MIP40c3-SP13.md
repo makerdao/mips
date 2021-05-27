@@ -5,7 +5,8 @@
 ```
 MIP40c3-SP#: 13
 Author(s): Primož Kordež
-Contributors: 
+Contributors:
+Tags:
 Status: RFC
 Date Applied: 2021-05-12
 Date Ratified: 

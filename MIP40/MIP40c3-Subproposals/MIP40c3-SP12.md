@@ -6,6 +6,7 @@
 MIP40c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
+Tags:
 Status: RFC
 Date Applied: 2021-05-11
 Date Ratified:
