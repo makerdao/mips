@@ -1,6 +1,7 @@
 # MIP0: The Maker Improvement Proposal Framework
 
 ## Preamble
+
 ```
 MIP#: 0
 Title: The Maker Improvement Proposal Framework
