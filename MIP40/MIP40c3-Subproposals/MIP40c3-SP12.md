@@ -6,7 +6,7 @@
 MIP40c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
-Tags:
+Tags: core-unit, cu-rwf-001, budget
 Status: RFC
 Date Applied: 2021-05-11
 Date Ratified:

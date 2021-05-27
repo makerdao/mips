@@ -6,7 +6,7 @@
 MIP40c3-SP#: 15
 Author(s): Niklas Kunkel
 Contributors: N/A
-Tags:
+Tags: core-unit, cu-ora-001, budget
 Status: RFC
 Date Applied: 2021-05-12
 Date Ratified:

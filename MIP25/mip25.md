@@ -6,7 +6,7 @@ MIP#: 25
 Title: Flash Mint Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: Chris Mooney (@godsflaw), Brian McMichael (@brianmcmichael), Gonzalo Balabasquer (@gbalabasquer)
-Tags: technical, module, smart-contracts
+Tags: technical, pending-implementation, module, smart-contracts
 Type: Technical
 Status: Accepted
 Date Proposed: 2020-09-25

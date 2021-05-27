@@ -5,7 +5,7 @@
 MIP40c3-SP#: 17
 Author(s): @wouter, @juanjuan
 Contributors:
-Tags:
+Tags: core-unit, cu-ses-001, budget
 Status: Request for Comments (RFC)
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
