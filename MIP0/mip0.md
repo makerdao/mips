@@ -13,7 +13,9 @@ Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
 ```
+
 ## References
+
 **[General-MIP-Template.md](General-MIP-Template.md)**  
 **[Technical-MIP-Template.md](Technical-MIP-Template.md)**
 
@@ -60,7 +62,6 @@ For MakerDAO to evolve into a fully decentralized and self-sustainable organizat
 
 The MIP Framework serves to empower each off-chain and on-chain Governance participant by giving them a standardized way of interacting with the wider DAO and defining its future shape.
 
-
 ## Specification / Proposal Details
 
 ### MIP0c1: Definitions of the Maker Improvement Proposal Framework
@@ -75,6 +76,7 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 -  **MIP Editor(s):** MIP Editors enforce the administrative and editorial aspects of the overall MIPs process and program. See `MIP0c9`.
 
 ---
+
 ### MIP0c2: Core Principles
 
 1. **Specificity:** A MIP must define and address a specific behavior or single responsibility. Overburdened MIPs are not allowed.
@@ -90,6 +92,7 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 ---
 
 ### MIP0c3: The MIP Lifecycle
+
 #### The MIP Lifecycle and MIP Statuses
 
 ![The MIP Lifecycle](upload://f0szLOFFFZB6vqJuqc8mSSKZH8G.png)
@@ -153,8 +156,8 @@ A rejected MIP can be resubmitted. In some cases (if it was rejected for provabl
 If a MIP Author requests a status change for a MIP, a MIP Editor will review it. If the status change is warranted, the MIP Editor will change the status. Otherwise, the MIP Editor will revert and highlight issues for the MIP Author to fix before requesting another status change.
 
 ---
-### MIP0c4: MIP Components and MIP Component Types
 
+### MIP0c4: MIP Components and MIP Component Types
 
 #### MIP Components
 
@@ -214,6 +217,7 @@ Externally referenced materials are not MIP content and are not ratified when a 
 #### Technical MIP Template
 - The Technical MIP Template should be used for MIPs whenever a MIP proposes changes to the smart contract code within the Maker Protocol.
 - The Technical MIP Template is located at **[Technical-MIP-Template.md](Technical-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+
 ---    
 
 ### MIP0c8: MIP0 Domain Role Dependencies
@@ -221,6 +225,7 @@ Externally referenced materials are not MIP content and are not ratified when a 
 The MIP Framework depends on two Domain Roles: MIP Editor and Governance Facilitator.
 
 #### MIP Editor
+
 MIP Editors enforce the administrative and editorial aspects of the overall MIPs process and program.
 
 ##### Specific authority of the MIP Editor(s) in MIP0 processes
@@ -231,6 +236,7 @@ MIP Editors enforce the administrative and editorial aspects of the overall MIPs
 * MIP Editors are responsible for updating the status of MIPs, as described in `MIP0c4`, *The MIP Lifecycle*.
 
 #### Governance Facilitator
+
 Governance Facilitators operate voting frontends, run governance meetings and accept MIPs that are ready to be included in the Governance Cycle and thus voted on.
 
 Governance Facilitators have all the editorial powers a MIP Editor has, and can bestow these powers on contributors.
@@ -277,7 +283,6 @@ MIP Editors can correct issues themselves, but they are not required to.
 - Should aim to foster a culture of openness, receptiveness and reasoned discussion within the community.
 - Should work with the community to operate an emergency voting process to defend the system in the event of an emergency.
 - Should aim to onboard and maintain at least three Governance Facilitators at all times while prioritising candidates from unrepresented geographic regions.
-
 
 ##### Encouraging Participation
 - Should work to maintain and encourage healthy debate, in accordance with the guidelines outlined in the Scientific Governance and Risk Framework and the Core Foundation Principals.
