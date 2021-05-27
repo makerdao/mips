@@ -109,7 +109,7 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 
 #### The MIP Lifecycle and MIP Statuses
 
-![mip_life_cycle](MIP_lifecycle.png)
+![mip_life_cycle](https://github.com/makerdao/mips/blob/master/MIP0/MIP_lifecycle.png)
 
 #### MIP Lifecycle Breakdown
 
