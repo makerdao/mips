@@ -6,8 +6,8 @@
 MIP41c5-SP#: #1
 Author(s): @amyjung
 Contributors:
-Status:
-Date Applied: <2021-05-27>
+Status: RFC
+Date Applied: 2021-05-27
 Date Ratified: <yyyy-mm-dd>
 ```
 
