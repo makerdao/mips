@@ -31,32 +31,44 @@ MIP0 defines the *Maker Improvement Proposals (MIPs) Framework* for all subseque
 
 ## Component Summary
 
-**MIP0c1: Definitions of the Maker Improvement Proposal Framework**
-*Defines core concepts of the MIP Framework.*
+**MIP0c1: Definitions of the Maker Improvement Proposal Framework**  
+*Defines core concepts of the MIP Framework.*  
+
 **MIP0c2: Core Principles**  
-*Sets the principles that all MIPs should aim to follow.*
+*Sets the principles that all MIPs should aim to follow.*  
+
 **MIP0c3: The MIP Lifecycle**  
-*Defines the formal stages in the lifecycle of MIPs from conception to approval, rejection, or deferral.*
-**MIP0c4: MIP Components and MIP Component Types**
-*Defines MIP Components and their types.*
+*Defines the formal stages in the lifecycle of MIPs from conception to approval, rejection, or deferral.*  
+
+**MIP0c4: MIP Components and MIP Component Types**  
+*Defines MIP Components and their types.*  
+
 **MIP0c5: MIP Replacement Process**  
-*Defines the process for replacing MIPs.*
-**MIP0c6: Supporting Materials**
-*Defines how to include external materials in MIPs.*
-**MIP0c7: MIP Templates**
-*Provides the MIP templates for both General and Technical MIPs.*
-**MIP0c8: MIP0 Domain Role Dependencies**  
-*Defines the core roles essential to the MIP Framework.*
+*Defines the process for replacing MIPs.*  
+
+**MIP0c6: Supporting Materials**  
+*Defines how to include external materials in MIPs.*  
+
+**MIP0c7: MIP Templates**  
+*Provides the MIP templates for both General and Technical MIPs.*  
+
+**MIP0c8: MIP0 Domain Role Dependencies**    
+*Defines the core roles essential to the MIP Framework.*  
+
 **MIP0c9: MIP Editor Role**  
-*Defines the responsibilities of the MIP Editor role and the criteria and grounds for their removal.*
+*Defines the responsibilities of the MIP Editor role and the criteria and grounds for their removal.*  
+
 **MIP0c10: Governance Facilitator Role**  
-*Defines the Governance Facilitator role's responsibilities and the criteria and grounds for their removal.*
-**MIP0c11: Core Personnel Onboarding (`OBSOLETE`)**
-*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*
-**MIP0c12: Core Personnel Offboarding (`OBSOLETE`)**
-*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*
+*Defines the Governance Facilitator role's responsibilities and the criteria and grounds for their removal.*  
+
+**MIP0c11: Core Personnel Onboarding (`OBSOLETE`)**  
+*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*  
+
+**MIP0c12: Core Personnel Offboarding (`OBSOLETE`)**  
+*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*  
+
 **MIP0c13: MIP Set Management**  
-*Defines procedures for managing MIP Sets.*
+*Defines procedures for managing MIP Sets.*  
 
 ## Motivation
 
