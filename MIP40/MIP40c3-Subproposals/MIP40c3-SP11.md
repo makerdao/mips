@@ -6,7 +6,7 @@
 MIP40c3-SP#: 11
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
-Tags:
+Tags: core-unit, cu-gov-001, budget
 Status: RFC
 Date Applied: 2021-05-12
 Date Ratified: N/A

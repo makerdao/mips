@@ -6,7 +6,7 @@
 MIP39c2-SP#: 8
 Author(s): David Utrobin
 Contributors: Many
-Tags:
+Tags: core-unit, cu-com-001, mandate
 Status: RFC
 Date Applied: 2021-03-12
 Date Ratified: <yyyy-mm-dd>

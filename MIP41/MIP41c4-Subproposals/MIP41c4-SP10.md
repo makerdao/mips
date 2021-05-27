@@ -6,10 +6,10 @@
 MIP41c4-SP#: 10
 Author(s): @juanjuan
 Contributors:
-Tags: core-unit, cu-ses-001, facilitator
-Status: Formal Submission
+Tags: core-unit, cu-ses-001, active, facilitator
+Status: Accepted
 Date Applied: 2021-04-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-05-25
 ```
 
 ## Sentence Summary
