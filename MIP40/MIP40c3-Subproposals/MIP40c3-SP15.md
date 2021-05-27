@@ -174,7 +174,6 @@ The Oracle Core Unit is proposing to apply a linear interpolation model to utili
 
 ### Vesting Details
 
-
 | Property | Value |
 | -------- | -------- |
 | MKR/USD lock-in Price (New) | Trailing 6 month average |
