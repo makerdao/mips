@@ -8,9 +8,9 @@ Author(s): @LongForWisdom
 Contributors: Charles St.Louis (@CPSTL), Payton Rose (@prose11), Pablo (@Blimpa), @Elihu
 Tags: governance-cycle
 Type: General
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-04-07
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2021-05-25
 Dependencies: MIP0, MIP16
 Replaces: MIP3
 ```
