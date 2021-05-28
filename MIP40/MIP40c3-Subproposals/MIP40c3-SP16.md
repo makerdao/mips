@@ -52,7 +52,15 @@ The Strategic Happiness Core Unit team will include:
 
 - **@Saint.Burban:** Random-Time, Shitpost Facilitator, Chief Happiness Officer
 
-### Quarterly Budget
+### Monthly Budget
+
+#### Edit - 5/28/2021
+
+> Due to foreseeable circumstances, I have largely blown up my personal trading account.
+> 
+> I would like to avoid selling my precious MKR, so it is unlikely I can continue to fund everything from my personal funds. Still, I would love and be honored to continue shipping out the Happiness Airdrops uninterrupted.
+> 
+> As such, I am making minor amendments to my budget proposal.
 
 #### Team Remuneration
 
@@ -73,13 +81,11 @@ The MKR will be vested over a four-year vesting period, with a one-year cliff, s
 
 Vesting is proposed as follows:
 
-- **@Saint.Burban:** 1 MKR
-
-The total amount to be vested is to be determined by MakerDAO Governance.
+- **@Saint.Burban:** As many MKR as MakerDAO Governance feels I deserve.
 
 ***Note:** Vesting, of course, is optional… but wouldn’t it be nice? :)*
 
-#### Cost Breakdown (Variable)
+#### Monthly Cost Breakdown (Variable)
 
 | Item | Amount | Percentage |
 | --- | --- | ---
@@ -90,22 +96,24 @@ The total amount to be vested is to be determined by MakerDAO Governance.
 | Total | 0 DAI | 0.00% |
 |||
 |**Bespoke Airdrops**||
-| Total | 0 DAI | 50.00% |
+| Total | 3000 DAI | 50.00% |
 |||
 |**Shipping**||
-| Total | 0 DAI | 50.00% |
+| Total | 3000 DAI | 50.00% |
 |||
 |**Other Costs**||
 |Gas|0 DAI| 0.00% |
 |Contingency|0 DAI| 0.00% |
 |||
-|**Total**| 0 DAI| 100.00% |
+|**Total**| 6000 DAI| 100.00% |
 
 #### Budget Implementation
 
 - I am requesting 0 DAI up-front.
 - The costs for shipping and custom items will vary based on volume.
-- Compensation from the DAO for Happiness Airdrops is not required, but would be appreciated.
+- I will track these costs and provide receipts and invoices regularly and submit them for reimbursement.
+- Whether or not this proposal is ratified, the airdrops will continue.
+    - Regardless, compensation from the DAO for Happiness Airdrops would be appreciated.
 
 **Wallet Address:**
-- TDB
+- TDB upon approval by the DAO
