@@ -165,3 +165,16 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Budget Breakdown** - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
 - **Facilitator** - Coulter Mulligan - [MIP41c4-SP6](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP6.md)
 - **Facilitator** - Mike Porcaro - [MIP41c4-SP6](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP6.md)
+
+---
+
+#### Sustainable Ecosystem Scaling
+
+- **ID** - SES-001
+- **Summary** - The Sustainable Ecosystem Scaling Core Unit's mission is to sustainably grow the Maker Protocol’s moats by systematically removing barriers between the decentralized workforce, capital, and work.
+- **Date Ratified** -  2021-25-05
+- **Mandate** - [MIP39c2-SP10](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP10.md)
+- **Budget Amount** - 1,153,480 DAI / quarter
+- **Budget Implementation** - Manual - [MIP40c3-SP10](hhttps://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
+- **Budget Breakdown** - [MIP40c3-SP10](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
+- **Facilitator** - juanjuan - [MIP41c4-SP10](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP10.md)
