@@ -63,14 +63,13 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### NAME-XXX
 - **ID** - XXX# (assigned by the Operational Support Core Unit or a MIP Editor)
 - **Summary** - 30 word max summary.
-- **Date Ratified** - <date ratified>
-- **Mandate** - [MIP39c2-SPX](link)
+- **Date Ratified** - [yyyy-dd-mm]
+- **Mandate** - [MIP39c2-SPX] (link)
 - **Budget Amount** - xxx,xxx DAI / year
-- **Budget Implementation** - Manual/Simple/Advanced - [MIP40c2-SPX](link)
+- **Budget Implementation** - Manual/Simple/Advanced - [MIP40c2-SPX] (link)
 - **Budget Breakdown** - [MIP40c2-SPX](example.com/budget_implementation)
-- **Facilitator A** - Awes M. Example - [MIP41c2-SPX](link)
-- **Facilitator B** - Gre T. Example - [MIP41c2-SPY](link)
-...
+- **Facilitator A** - Awes M. Example - [MIP41c2-SPX] (link)
+- **Facilitator B** - Gre T. Example - [MIP41c2-SPY] (link)
 
 ---
 
@@ -175,6 +174,6 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Date Ratified** -  2021-25-05
 - **Mandate** - [MIP39c2-SP10](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP10.md)
 - **Budget Amount** - 1,153,480 DAI / quarter
-- **Budget Implementation** - Manual - [MIP40c3-SP10](hhttps://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP10](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
 - **Budget Breakdown** - [MIP40c3-SP10](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
 - **Facilitator** - juanjuan - [MIP41c4-SP10](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP10.md)
