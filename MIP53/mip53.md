@@ -16,7 +16,7 @@ Dependencies:
 Replaces:
 ```
 
-## References 
+## References
 
 [Pre-MIP discussion](https://forum.makerdao.com/t/pre-mip-discussion-the-mkr-compensation-guidelines/7960)
 
