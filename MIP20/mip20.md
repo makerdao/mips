@@ -7,7 +7,7 @@ MIP#: 20
 Title: Target Price Adjustment Module (`Vox`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
-Tags: technical, governance, smart-contracts
+Tags: technical, pending-implementation, governance, smart-contracts
 Type: Technical
 Status: Accepted
 Date Proposed: 2020-07-08

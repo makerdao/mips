@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP40c2-SP#: 9
+MIP41c4-SP#: 9
 Author: Kathleen Chu
 Contributors:  
 Tags: core-unit, cu-cpm-001, facilitator
@@ -11,6 +11,10 @@ Status: Formal Submission
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```
+
+## Sentence Summary
+
+MIP41c4-SP9 onboards Kathleen Chu as Facilitator for Core Unit CPM-001: Strategic Marcomms.
 
 ## Specification
 

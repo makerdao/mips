@@ -5,11 +5,16 @@
 ```
 MIP40c3-SP#: 13
 Author(s): Primož Kordež
-Contributors: 
+Contributors:
+Tags: core-unit, cu-risk-001, budget
 Status: RFC
 Date Applied: 2021-05-12
 Date Ratified: 
 ```
+
+## Sentence Summary
+
+MIP40c3-SP13 adds the budget for Core Unit RISK-001: Risk.
 
 ## Specification
 

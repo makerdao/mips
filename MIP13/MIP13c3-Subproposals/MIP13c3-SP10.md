@@ -6,9 +6,9 @@
 MIP13c3-SP#: 10
 Author(s): Tim Schuppener (@ultraschuppi), Sébastien Derivaux (@SebVentures)
 Contributors: n/a
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-02-27
-Date Ratified:
+Date Ratified: 2021-04-27
 ---
 Declaration Statement: Analysis of a EUR-pegged DAI
 Declaration to Replace: n/a

@@ -1,6 +1,7 @@
 # MIP4c2-SP12: MIP16 Amendments
 
 ## Preamble
+
 ```
 MIP4c2-SP#: 12
 MIP to be Amended: MIP16

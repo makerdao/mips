@@ -12,11 +12,13 @@ Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ```
 
-# Specification
+## Sentence Summary
 
-### Introduction
+MIP10c5 is a list component that is kept-up-to-date with the currently active Oracles and their properties.
 
-## Glossary
+## Specification
+
+### Glossary
 
 - **Oracle Name:** The name of the Oracle that is indicative of the data is broadcasts
 - **Type:** The type of data that this Oracle broadcasts

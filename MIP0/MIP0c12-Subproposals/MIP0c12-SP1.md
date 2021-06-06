@@ -6,7 +6,7 @@ MIP0c12-SP#: 1
 Author: Charles St.Louis
 Contributors: n/a
 Tags: personnel-xboarding, mips
-Status: Request for Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-04-22
 Date Ratified: 2020-05-02
 ---

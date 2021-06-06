@@ -54,7 +54,7 @@ In recognition of the various subproposals that must be submitted by working gro
 
 ## Specification / Proposal Details
 
-**MIP47c1: Governance Recognition of a Multi-Sig**
+### MIP47c1: Governance Recognition of a Multi-Sig
 
 In order for a Multi-Sig to be considered owned by Maker Governance for funding or permissioned consensus, the following minimums must be satisfied by providing a post, or series of posts, on the Maker Forum:
 
@@ -68,7 +68,7 @@ In order for a Multi-Sig to be considered owned by Maker Governance for funding 
 
 Following an approved Governance action that involves a newly recognized Multi-Sig, the information provided will be added to a list of recognized Multi-Sig Wallets.
 
-**MIP47c2: Current Approved Multi-Sig List**
+### MIP47c2: Current Approved Multi-Sig List
 
 This listing is to be maintained and updated by the Governance Facilitators. It will serve as an active registry of approved Multi-Sigs.
 
@@ -81,7 +81,7 @@ Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
 - Date Added: (yyyy-mm-dd)
 ```
 
-**MIP47c3: Dissolution of Multi-Sig**
+### MIP47c3: Dissolution of Multi-Sig
 
 Multi-Sig groups may dissolve at any time, provided all unspent funds are returned to Governance and any permissions granted to the Multi-Sig are revoked. If a Multi-Sig decides to dissolve, the owners must fill out a [MIP47c3: Dissolution of Multi-Sig Request Subproposal Template](https://github.com/makerdao/mips/blob/master/MIP47/MIP47c3-Subproposal-Template.md).
 

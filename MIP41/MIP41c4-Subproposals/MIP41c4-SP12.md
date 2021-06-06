@@ -11,9 +11,11 @@ Date Applied: 2021-05-11
 Date Ratified: <yyyy-mm-dd>
 ```
 
-### Sentence Summary
+## Sentence Summary
 
-@prose11 application to be onboarded as a facilitator for the GovAphla (GOV-001) Core Unit. 
+@prose11 application to be onboarded as a facilitator for the GovAlpha (GOV-001) Core Unit.
+
+## Specification
 
 ### Motivation
 

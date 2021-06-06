@@ -7,7 +7,7 @@ Title: Peg Stability Module - Compound Mixed Exposure - With Farming
 Author(s): Alexis
 Contributors: None
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Withdrawn
 Date Proposed: 2021-01-09
 Date Ratified: <yyyy-mm-dd>
 Dependencies: PSM, Uniswap, Vat, Join Usdc-lendler, Join Dai-lendler 

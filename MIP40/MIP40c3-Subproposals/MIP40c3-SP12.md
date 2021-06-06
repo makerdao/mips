@@ -6,10 +6,15 @@
 MIP40c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
+Tags: core-unit, cu-rwf-001, budget
 Status: RFC
 Date Applied: 2021-05-11
 Date Ratified:
 ````
+
+## Sentence Summary
+
+MIP40c3-SP12 adds the budget for Core Unit RWF-001: Real-World Finance.
 
 ## Specification
 
