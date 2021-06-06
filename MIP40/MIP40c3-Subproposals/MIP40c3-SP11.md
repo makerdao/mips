@@ -6,7 +6,7 @@
 MIP40c3-SP#: 11
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-05-12
 Date Ratified: N/A
 ```
