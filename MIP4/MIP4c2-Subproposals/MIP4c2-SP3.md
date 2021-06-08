@@ -1,6 +1,7 @@
 # MIP4c2-SP3: MIP9 Amendments
 
 ## Preamble
+
 ```
 MIP4c2-SP#: 3
 MIP to be Amended: MIP9

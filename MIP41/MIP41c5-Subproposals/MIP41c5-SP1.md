@@ -1,17 +1,19 @@
-# MIP41c5-SP1: Facilitator Offboarding - Amy Jung, Operational Support
+# MIP41c5-SP1: Facilitator Offboarding - Amy Jung
 
 ## Preamble
 
 ```
-MIP41c5-SP#: #1
+MIP41c5-SP#: 1
 Author(s): @amyjung
 Contributors:
-Status:
-Date Applied: <2021-05-27>
-Date Ratified: <yyyy-mm-dd>
+Tags:
+Status: Accepted
+Date Applied: 2021-05-27
+Date Ratified: N/A
 ```
 
 ## Sentence Summary
+
 This subproposal offboards Amy Jung from Operational Support.
 
 ## Specification

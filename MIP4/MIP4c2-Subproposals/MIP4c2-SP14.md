@@ -1,4 +1,4 @@
-# MIP4c2-SP14: MIP Amendment Subproposals
+# MIP4c2-SP14: MIP0 Amendments
 
 ## Preamble
 
