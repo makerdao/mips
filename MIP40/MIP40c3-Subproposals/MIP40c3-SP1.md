@@ -1,15 +1,15 @@
-# MIP40c2-SP1: Modify Core Unit Budget (Real-World Finance)
+# MIP40c3-SP1: Modify Core Unit Budget (Real-World Finance)
 
 ## Preamble
 
 ```
-MIP40c2-SP#: 1
+MIP40c3-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
 Tags: core-unit, cu-rwf-001, budget, active
-Status: RFC
+Status: Accepted
 Date Applied: 2021-01-26
-Date Ratified:
+Date Ratified: 2021-25-03
 ```
 
 ## Specification
