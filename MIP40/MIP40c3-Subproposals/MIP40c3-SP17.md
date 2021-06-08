@@ -1,6 +1,7 @@
 # MIP40c3-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget - SES-001
 
 ## Preamble
+
 ```
 MIP40c3-SP#: 17
 Author(s): @wouter, @juanjuan
@@ -16,6 +17,7 @@ Date Ratified: <yyyy-mm-dd>
 MIP40c3-SP17 adds the MKR Incentive Plan budget for Core Unit SES-001: Sustainable Ecosystem Scaling.
 
 ## Paragraph Summary
+
 MIP40c3-SP17 adds the MKR Incentive Plan budget for Core Unit SES-001: Sustainable Ecosystem Scaling. It contains:
 - Total MKR Expenditure Cap
 - Estimated MKR Expenditure (based on the current team)
@@ -72,7 +74,6 @@ Any changes to these amounts will be reported in the [Monthly Budget Statement](
 | Vesting Schedule      | After cliff has expired, the Biannual MKR amount vests every 6 months |
 | Manual Repricing      | yes                      |
 | Auto-Renewal          | yes                      |
-
 
 ### Incubation Program
 
