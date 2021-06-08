@@ -1,6 +1,7 @@
 # MIP4c2-SP11: MIP24 Amendments
 
 ## Preamble
+
 ```
 MIP4c2-SP#: 11
 MIP to be Amended: MIP24

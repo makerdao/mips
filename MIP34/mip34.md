@@ -7,7 +7,7 @@ MIP#: 34
 Title: Keg Streaming Payments Module
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
-Tags: technical, module, smart-contracts
+Tags: technical, pending-implementation, module, smart-contracts
 Type: Technical
 Status: Accepted
 Date Proposed: 2021-01-11

@@ -5,16 +5,12 @@
 ```
 MIP40c3-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
-Contributors: N/A
+Contributors:
 Tags: core-unit, cu-rwf-001, budget, active
 Status: Accepted
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03
 ```
-
-## Sentence Summary
-
-MIP40c3-SP1 adds the budget for Core Unit RWF-001: Real-World Finance.
 
 ## Specification
 
@@ -31,7 +27,7 @@ MIP40c3-SP1 adds the budget for Core Unit RWF-001: Real-World Finance.
 * The budget is based on [the proposition made on the forum](https://forum.makerdao.com/t/team-funding-experiment-rwa-objectives-and-cost-structure/5954).
 * This budget implementation uses the Manual Budget Implementations, the Simple one, or any other method achieving the same result at the discretion of the Governance Facilitators.
 * Dai per month: up to 40k/month paid when convenient (Governance Facilitators decision). If the actual Budget Implementation doesn't allow variability in the payment, it will be 40k DAI per month.
-* The destination wallet will be provided by the Core Unit Facilitator
+* The destination wallet is: 0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09 [RWF Core Unit Multisig](https://forum.makerdao.com/t/mip40c1-adding-rwf-core-unit-multisig/7476)
 
 ### List of Budget Breakdowns
 
