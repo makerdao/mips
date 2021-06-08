@@ -56,11 +56,11 @@ The Strategic Happiness Core Unit team will include:
 
 #### Edit - 5/28/2021
 
-> Due to foreseeable circumstances, I have largely blown up my personal trading account.
-> 
-> I would like to avoid selling my precious MKR, so it is unlikely I can continue to fund everything from my personal funds. Still, I would love and be honored to continue shipping out the Happiness Airdrops uninterrupted.
-> 
-> As such, I am making minor amendments to my budget proposal.
+Due to foreseeable circumstances, I have largely blown up my personal trading account.
+
+I would like to avoid selling my precious MKR, so it is unlikely I can continue to fund everything from my personal funds. Still, I would love and be honored to continue shipping out the Happiness Airdrops uninterrupted.
+
+s such, I am making minor amendments to my budget proposal.
 
 #### Team Remuneration
 
