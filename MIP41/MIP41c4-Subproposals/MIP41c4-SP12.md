@@ -3,9 +3,10 @@
 ## Preamble
 
 ```
-MIP41c4-SP#: #12
+MIP41c4-SP#: 12
 Author(s): Payton Rose
 Contributors: @LongForWisdom, @juanjuan
+tags: gov-001
 Status: Formal Submission
 Date Applied: 2021-05-11
 Date Ratified: <yyyy-mm-dd>
