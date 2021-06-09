@@ -1,6 +1,5 @@
 # MIP 54: DssVest
 
-<<<<<<< HEAD
 ## Preamble
 
 ```
@@ -17,21 +16,6 @@ Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
-=======
-    MIP#: 54
-    Title: DssVest
-    Author(s): Derek Flossman, Brian McMichael
-    Contributors: None
-    Type: Technical
-    Status: Formal Submission
-    Date Proposed: 2021-05-12
-    Date Ratified: n/a
-    Dependencies: n/a
-    Replaces: n/a
-    License: AGPL3+
-
-
->>>>>>> 096a83cb0eadbe9a87799046adfff1d2bb159212
 
 ## Sentence Summary
 
@@ -85,6 +69,7 @@ The following gives an explanation of the module interactions and functionality:
 * Once the cliff date is reached, only the recipient can call `vest` through a UI or Etherscan
 
 ### Authorization:
+
 * DssVest will be managed by an operator
 * The operator will include the core unit multisig and Governance
 * There is a function called `yank` to remove a recipient from being eligible for awards
@@ -93,31 +78,37 @@ The following gives an explanation of the module interactions and functionality:
 * The multisig can only `yank`, it cannot create new recipients and/or awards. These must be approved solely by Governance
 
 ### Recipient Awards:
+
 * Token reward before the cliff equals zero. Once the cliff is  reached, the recipient will be entitled to claim the cliff amount
 * Following the cliff being reached, streaming rewards will be linearly accrued across the remaining vesting period. This will be calculated from block-to-block
 * As per the above point, it is up to the recipient when and at which interval they wish to claim their tokens
 * Awards are minted only at the point at which they are redeemed
 
 ### Minting:
+
 * MKR will be minted at the time a user calls `vest`. This function calls the contract to redeem the MKR award available to them at that block. As stated above, this will be calculated from block-to-block
 * If a recipient wishes to change their address, they will be able to specify a new recipient address by calling the `move` function
 * Every recipient will have an on-chain  ID from which DssVest will emit an Award ID so that users can scan events to see what is available to them for transparency
 * Once the vesting period ends and the streaming award is over, the Award ID will be removed from the DssVest module
 
 ### Transparency:
+
 * Each award is represented with an ID and can be tracked as an ID to award mapping
 * The contract includes an `unpaid` function so anyone can take a look at it and see what the unpaid amount is on that contract
 * This is an arbitrary token vesting contract, not specific to MKR, and can easily be adapted for any token
 
 ### Removing Awards:
+
 * In the instance an award is yanked before it has vested, it will not be possible to claim any reward
 * In the instance an award is yanked after an award has vested, and is now linearly accruring block-by-block, it will only vest up to the timestamp at which it was cancelled. The user will then be able to claim up to that timestamp
 
 ### Resources:
+
 * Github [makerdao/dss-vest](https://github.com/makerdao/dss-vest)
 
 ---
 ### Next Steps:
+
 * MIP Governance process
 * Contract audits
 * Expectation management: secondary importance relative to core protocol contracts/collateral onboarding
