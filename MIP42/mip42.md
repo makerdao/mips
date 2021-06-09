@@ -8,7 +8,7 @@ Title: Proposed Compensation Addendum for MakerDAO Contributors
 Author(s): @aburban90, @kevinwildenradt 
 Contributors: n/a
 Type: Process
-Status: RFC
+Status: Withdrawn
 Date Proposed: <2021-01-20>
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
