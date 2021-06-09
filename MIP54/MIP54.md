@@ -1,5 +1,6 @@
 # MIP 54: DssVest
 
+<<<<<<< HEAD
 ## Preamble
 
 ```
@@ -16,6 +17,21 @@ Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+=======
+    MIP#: 54
+    Title: DssVest
+    Author(s): Derek Flossman, Brian McMichael
+    Contributors: None
+    Type: Technical
+    Status: Formal Submission
+    Date Proposed: 2021-05-12
+    Date Ratified: n/a
+    Dependencies: n/a
+    Replaces: n/a
+    License: AGPL3+
+
+
+>>>>>>> 096a83cb0eadbe9a87799046adfff1d2bb159212
 
 ## Sentence Summary
 
