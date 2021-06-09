@@ -1,20 +1,20 @@
-# MIP41c4-SP13: Facilitator Onboarding, Collateral Onboarding Core Unit
+# MIP41c4-SP14: Facilitator Onboarding, Collateral Onboarding Core Unit
 
 ## Preamble
 
 ```
-MIP41c4-SP#: 13
+MIP41c4-SP#: 14
 Author(s): @monkey.irish
 Contributors:
 Tags: collateral-onboard, core-unit, cu-cob-001, facilitator
-Status: Request for Comments (RFC)
+Status: Request for Comments
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Sentence Summary
 
-MIP41c4-SP13 onboards @monkey.irish as Facilitator for the Collateral Onboarding Core Unit.
+MIP41c4-SP14 onboards @monkey.irish as Facilitator for the Collateral Onboarding Core Unit.
 
 ## Specification
 
