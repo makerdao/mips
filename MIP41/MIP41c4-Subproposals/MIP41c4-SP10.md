@@ -1,4 +1,4 @@
-# MIP41c4: Facilitator Onboarding (Subproposal Process) Template
+# MIP41c4: Facilitator Onboarding, SES-001
 
 ## Preamble
 

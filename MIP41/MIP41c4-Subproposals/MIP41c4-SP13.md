@@ -7,7 +7,7 @@ MIP41c4-SP#: 13
 Author(s): Niklas Kunkel
 Contributors: N/A
 Tags: core-unit, cu-ora-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-05-12
 Date Ratified:
 ```

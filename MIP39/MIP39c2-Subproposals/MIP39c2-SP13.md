@@ -7,7 +7,7 @@ MIP39c2-SP#: 13
 Author(s): Niklas Kunkel
 Contributors:
 Tags: core-unit, cu-ora-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-05-12
 Date Ratified:
 ```
