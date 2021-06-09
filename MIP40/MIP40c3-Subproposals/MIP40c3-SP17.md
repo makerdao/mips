@@ -6,8 +6,8 @@
 MIP40c3-SP#: 17
 Author(s): @wouter, @juanjuan
 Contributors:
+Status: Formal Submission (FS)
 Tags: core-unit, cu-ses-001, budget
-Status: Request for Comments (RFC)
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
 ```
@@ -27,7 +27,7 @@ MKR incentives have been determined based on the [Program discussed here](https:
 
 ## Total MKR Expenditure Cap
 
-The total MKR Expenditure will not exceed `3,263.24 MKR`.
+The total MKR Expenditure will not exceed ` 3,309.85 MKR`.
 
 This covers the entire `3 years` plan for `10.90 FTEs`.
 
@@ -49,12 +49,12 @@ For the permanent team, assuming the team configuration remains the same as toda
 | Vesting Date     |       MKR Amount |
 |------------------|-----------------:|
 | 30 Nov 2021      |            0 MKR |
-| 31 May 2022      |       550.19 MKR |
-| 30 Nov 2022      |       275.10 MKR |
-| 31 May 2023      |       275.10 MKR |
-| 30 Nov 2023      |       275.10 MKR |
-| 31 May 2024      |       275.10 MKR |
-| **Total**        | **1,650.58 MKR** |
+| 31 May 2022      |       556.00 MKR |
+| 30 Nov 2022      |       278.00 MKR |
+| 31 May 2023      |       278.00 MKR |
+| 30 Nov 2023      |       278.00 MKR |
+| 31 May 2024      |       278.00 MKR |
+| **Total**        | **1,668.00 MKR** |
 
 This covers the total vesting schedule of `3 years` for the current `8.90 FTEs`.
 
@@ -83,6 +83,26 @@ For the Incubation Teams, MKR incentives will be included in the respective budg
 
 Grantees will not receive MKR as part of the Grants Program. Moving into the DAO as a full-time Contributor might include a back pay amount for the contribution time, but the details are still being discussed.
 
-## Escrow Wallet Mechanism
+## Payment Implementation
 
-A payment implementation, using [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) or a manual flow, will be added soon.
+* Payment of the MKR tokens will follow the same flow as described in the original SES budget MIP ([MIP40c3-SP10](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369#multi-sig-wallets)).
+
+![20210601-mkr-payment-flow|690x87](upload://qsDqihk9TkA3foYk1mtmLz1uBcz.png)
+
+* As defined above and in [MIP40c3-SP10](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369#multi-sig-wallets), the [Monthly Budget Statement](https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%20Budget%20Statements) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
+
+* To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
+
+  * Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `SES Auditors Wallet`, which then acts as an escrow wallet.
+
+  * Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `SES Auditors Wallet` to the `SES Permanent Team Operational Wallet`.
+
+  * When the MKR has vested, it is paid out to the contributor, either directly or through an intermediate payment processor.
+
+* Any excess MKR in the `SES Auditors Wallet` or the `SES Permanent Team Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
+
+This payment implementation makes no assumptions about the origin of the MKR. It can either be moved from the protocol's treasury, newly minted, or obtained from another source.
+
+The MKR that's held by the `SES Auditors Wallet` and the `SES Permanent Team Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
+
+Once [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) or another payment flow has been adopted by the community, SES may propose to update its payment flow to comply with the standardized flow. That is assuming that the standardized flow is compatible with the vesting schedule, and that the risk is deemed acceptable by the team.
