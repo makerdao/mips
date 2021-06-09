@@ -84,7 +84,7 @@ A process component that provides clarity on how the payouts are addressed from 
 
 The process is as follows:
 
-1. MIP55c3 subproposals is submitted. MIPXc3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](link)** . This template is considered ratified once this MIP moves to Accepted status.
+1. MIP55c3 subproposals is submitted. MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](link)** . This template is considered ratified once this MIP moves to Accepted status.
 
 2. MIP55c3 subproposals must go through the Governance cycle to authorize Maker Governance to draw funds from the Protocol.
 
@@ -103,7 +103,7 @@ A SPF Point of Contact is the person representing the SPF receiver. The Point of
 There are several important considerations to take into account before transferring value out of the Maker Protocol.
 
 * Transfer of DAI from the SPF multisig to an external address that is not controlled by Maker Governance is a one-way operation.
-* Transfer of DAI from the protocol will take DAI from the surplus buffer if available. If funding a MIPXc3 subproposal would result in a FLOP auction, Governance Facilitator(s) will use established communication channels to ensure the community is informed.
+* Transfer of DAI from the protocol will take DAI from the surplus buffer if available. If funding a MIP55c3 subproposal would result in a FLOP auction, Governance Facilitator(s) will use established communication channels to ensure the community is informed.
 
 **Funding Implementation**
 
