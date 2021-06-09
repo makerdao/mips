@@ -6,7 +6,7 @@ MIP53c5-SP#: 00
 Author(s):
 Contributors:
 Tags: template
-Status: RFC
+Status: Withdrawn
 Date Applied:
 Date Ratified:
 ```
