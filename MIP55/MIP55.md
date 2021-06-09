@@ -111,7 +111,7 @@ The initial funding implementation would use a simple funding implementation of 
 
 * If available, other advanced smart-contract based implementations can be used for automated distribution mechanisms, such as a simplified smart contract implementation of [DSSVest](https://forum.makerdao.com/t/mip-54-dssvest/8025).
 
-**MIP55c3: Adding a Special Purpose Fund**
+**MIP55c3: Adding/Modifying a Special Purpose Fund**
 
 MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](link)** .
 
