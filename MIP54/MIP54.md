@@ -5,7 +5,7 @@
     Author(s): Derek Flossman, Brian McMichael
     Contributors: None
     Type: Technical
-    Status: Request for comments
+    Status: Formal Submission
     Date Proposed: 2021-05-12
     Date Ratified: n/a
     Dependencies: n/a
@@ -20,7 +20,7 @@ DssVest is a module that automates token vesting once the vesting plan has been 
 
 ## Paragraph Summary
 
-This module allows scheduling, cliff vesting, specification of vesting period as well as third-party revocation. The plan variables must be specified by the party submitting their proposal to Governance. Once the vesting cliff has been reached it puts the user in control of redeeming their tokens without any third-party interaction.
+This module allows scheduling, cliff vesting, specification of vesting period as well as third-party revocation. The plan variables must be specified by the party submitting their proposal to Governance. Once the vesting cliff has been reached it puts the user in control of redeeming their tokens without any third-party interaction. DssVest also supports a number of vesting variants, including; minting MKR, minting DAI via vat.suck as well as paying out pre-deposited tokens.
 
 ## Motivation
 * A safe and secure mechanism to provide protocol contributors with MKR incentives
