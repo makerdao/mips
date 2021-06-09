@@ -1,18 +1,21 @@
 # MIP 54: DssVest
 
-    MIP#: 54
-    Title: DssVest
-    Author(s): Derek Flossman, Brian McMichael
-    Contributors: None
-    Type: Technical
-    Status: Request for comments
-    Date Proposed: 2021-05-12
-    Date Ratified: n/a
-    Dependencies: n/a
-    Replaces: n/a
-    License: AGPL3+
+## Preamble
 
-
+```
+MIP#: 54
+Title: DssVest
+Author(s): Derek Flossman, Brian McMichael
+Contributors: None
+Tags:
+Type: Technical
+Status: Formal Submission
+Date Proposed: 2021-05-12
+Date Ratified: n/a
+Dependencies: n/a
+Replaces: n/a
+License: AGPL3+
+```
 
 ## Sentence Summary
 
@@ -20,9 +23,10 @@ DssVest is a module that automates token vesting once the vesting plan has been 
 
 ## Paragraph Summary
 
-This module allows scheduling, cliff vesting, specification of vesting period as well as third-party revocation. The plan variables must be specified by the party submitting their proposal to Governance. Once the vesting cliff has been reached it puts the user in control of redeeming their tokens without any third-party interaction.
+This module allows scheduling, cliff vesting, specification of vesting period as well as third-party revocation. The plan variables must be specified by the party submitting their proposal to Governance. Once the vesting cliff has been reached it puts the user in control of redeeming their tokens without any third-party interaction. DssVest also supports a number of vesting variants, including; minting MKR, minting DAI via vat.suck as well as paying out pre-deposited tokens.
 
 ## Motivation
+
 * A safe and secure mechanism to provide protocol contributors with MKR incentives
 * Reduce future Governance overhead to a minimum
 * Enable team facilitators to manage/remove token bonuses themselves when team members leave
@@ -34,6 +38,7 @@ The following gives an explanation of the module interactions and functionality:
 ## DssVest Specifications:
 
 ### DssVest Setup and Variables:
+
 * DssVest allows a recipient to have a vesting start date and an end date
 * DssVest will be initiated in a governance executive
 * The starting date for a DssVest Award can be back-dated if necessary
@@ -48,6 +53,7 @@ The following gives an explanation of the module interactions and functionality:
         * Note: auth users on this contract always have the ability to `yank` a vesting contract
 
 ### DssVest Interaction:
+
 * The following user interactions are possible with DssVest:
     * `vest(_id)`: The vesting plan participant calls `vest(id)` after the cliff period to pay out accrued and unpaid tokens
     * `move(_id, _dst)` : The vesting plan participant can transfer their contract `_id` control and ownership to another address `_dst`
@@ -57,11 +63,8 @@ The following gives an explanation of the module interactions and functionality:
     * `yank(_id)` : An authorized user (ex. governance) of the vesting contract, or an optional plan manager, can `yank` a vesting contract. If the contract is yanked prior to the plan cliff, no funds will be paid out. If a plan is yanked after the contract cliff period has ended, new accruals will cease and the participant will be able to call vest to claim any vested funds
     * `yank(_id, _end)` : Allows governance to schedule a point in the future to end the vest. Used for planned offboarding of contributors
 
-
-
-
-
 ### Optional Vesting Cliff:
+
 * If a cliff is included, it will not be possible for the recipient to receive any award until the timestamp of the cliff is reached
 * Once the cliff date is reached, only the recipient can call `vest` through a UI or Etherscan
 
