@@ -7,6 +7,7 @@ MIP#: 55
 Title: Special Purpose Fund
 Author(s): @amyjung
 Contributors: @LongForWisdom @SebVentures
+Tags:
 Type: General
 Status: RFC
 Date Proposed: <2021-06-08>
