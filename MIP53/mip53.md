@@ -9,7 +9,7 @@ Author(s): @Planet_X
 Contributors: @Derek, @LongForWisdom, @Aes
 Tags:
 Type: General
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2021-11-05
 Date Ratified: TBA
 Dependencies:
