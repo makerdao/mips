@@ -10,7 +10,7 @@ Contributors: @LongForWisdom @SebVentures
 Tags:
 Type: General
 Status: RFC
-Date Proposed: <2021-06-08>
+Date Proposed: 2021-06-08
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
