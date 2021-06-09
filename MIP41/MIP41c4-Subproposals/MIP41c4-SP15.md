@@ -5,7 +5,8 @@
 ```
 MIP40c2-SP#: 15
 Author: Kathleen Chu
-Contributors:  
+Contributors:
+Tags: core-unit, cu-cpm-001, facilitator
 Status: Request For Comment
 Date Applied: 2021-06-08
 Date Ratified: <yyyy-mm-dd>

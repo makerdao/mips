@@ -6,7 +6,7 @@
 MIP40c3-SP#: 14
 Author(s): @monkey.irish
 Contributors:
-Tags: collateral-onboard, core-unit, core-unit-budget, mip-set, cob-001-mipset
+Tags: collateral-onboard, core-unit, budget, mip-set, cob-001
 Status: Request for Comments (RFC)
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>

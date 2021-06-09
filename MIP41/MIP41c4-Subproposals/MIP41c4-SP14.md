@@ -6,7 +6,7 @@
 MIP41c4-SP#: 13
 Author(s): @monkey.irish
 Contributors:
-Tags: collateral-onboard, core-unit, mip-set, cob-001-mipset
+Tags: collateral-onboard, core-unit, cu-cob-001, facilitator
 Status: Request for Comments (RFC)
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>

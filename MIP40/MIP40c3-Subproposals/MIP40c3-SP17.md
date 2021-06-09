@@ -1,4 +1,4 @@
-# MIP40c3-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget - SES-001
+# MIP40c3-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget, SES-001
 
 ## Preamble
 
@@ -6,7 +6,8 @@
 MIP40c3-SP#: 17
 Author(s): @wouter, @juanjuan
 Contributors:
-Status: Formal Submission (FS)
+tags: core-unit, cu-ses-001, budget
+Status: Formal Submission
 Tags: core-unit, cu-ses-001, budget
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>

@@ -6,7 +6,7 @@
 MIP40c3-SP#: 16
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors:
-tags: sh-001-mipset
+tags: core-unit, cu-sh-001, budget
 Status: RFC
 Date Applied: <2021-05-11>
 Date Ratified: <yyyy-mm-dd>
