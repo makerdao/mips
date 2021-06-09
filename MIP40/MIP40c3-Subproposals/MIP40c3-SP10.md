@@ -1,6 +1,7 @@
 # MIP40c3-SP10: Modify Core Unit Budget
 
 ## Preamble
+
 ```
 MIP40c3-SP#: 10
 Author(s): @wouter, @juanjuan
