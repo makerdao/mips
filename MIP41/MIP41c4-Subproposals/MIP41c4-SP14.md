@@ -1,4 +1,4 @@
-# MIP41c4-SP14: Facilitator Onboarding, Collateral Onboarding Core Unit
+# MIP41c4-SP14: Facilitator Onboarding, Collateral Engineering Services Core Unit
 
 ## Preamble
 
@@ -6,15 +6,20 @@
 MIP41c4-SP#: 14
 Author(s): @monkey.irish
 Contributors:
-Tags: collateral-onboard, core-unit, cu-cob-001, facilitator
-Status: Request for Comments
+Tags: collateral-eng, collateral-onboard, collateral-offboard, core-unit, mip-set, ces-001
+Status: Request for Comments (RFC)
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Sentence Summary
 
-MIP41c4-SP14 onboards @monkey.irish as Facilitator for the Collateral Onboarding Core Unit.
+MIP41c4-SP14 onboards @monkey.irish as Facilitator for the Collateral Engineering Services Core Unit.
+
+For more information on the changes to this MIP, please see:
+
+- [Collateral Onboarding Core Unit Update](https://forum.makerdao.com/t/collateral-onboarding-core-cob-unit-update/8657)
+- [Collateral Onboarding Core Unit Launch Pod Session](https://www.youtube.com/watch?v=Q6xNOLPcw2Y)
 
 ## Specification
 
@@ -34,7 +39,7 @@ In my opinion, the greatest work to be done is building the supply side of the e
 
 ## Core Unit
 
-Collateral Onboarding Core Unit
+Collateral Engineering Services Core Unit
 
 ## Facilitator Name and Information
 
@@ -45,41 +50,27 @@ Discord: @monkey.irish
 Telegram: @monkeyirish
 Github: monkeyirish
 Twitter: @monkeyirish7
+
 ETH Address: `TBD`
 
 ## Facilitator Commitment
 
-The initial plan for the Collateral Onboarding Core Unit (COB) is to focus on three key strategies. These revolve around the following areas:
+My role is to support the Mandates and business continuity for the Collateral Engineering Services Core Unit (CES).
 
-1. **People**: Establish and operate the Core Unit team
+Today, this is best accomplished by taking the role of Facilitator, Team Lead, and Business Leader. My background and experience with the Maker Foundation makes me uniquely qualified to assume these roles. As the Core Unit establishes itself, I will look to transition the Facilitator role, or a portion of that responsibility, to a bonafide member of the MakerDAO community.
 
-2. **Infrastructure**: Iterate and build a collateral onboarding assembly line
+A partial list of responsibilities include:
 
-3. **Autonomy**: Experimentation and scaling for collateral onboarding
-
-In addition to facilitating the Ways of Working, Team Rituals and the Core Unit Mandates as outlined in the [Collateral Onboarding Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-onboarding-core-unit/8037) and within the three strategies outlined above, there are a number of tactics to highlight.
-
-* Be the leader, builder, and chief for the Collateral Onboarding Core Unit
-
-* Uphold the five core DAO principles for the Collateral Onboarding Core Unit
-
-* Serve as the main point of contact for the Collateral Onboarding Core Unit
-
-* Be the public voice of the COB on the Maker Forum, Discord, Telegram, Rocket Chat, etc.
-
-* Communicate and collaborate with the community, the Maker Foundation, and other Core Units and stakeholders
-
-* Ensure the proper planning, use, and visibility of budgets to achieve our stated goals and objectives
-
-* Ensure we make and meet our commitments and deliver value within every iteration
-
-* Maintain visibility and transparency for all work identified, planned, and completed
-
-* Attract, hire, and retain the best talent in the industry
-
-* Build high performing teams capable of scaling collateral onboarding while normalizing the overhead costs
-
-Through this process and as the team forms, specific plans will be formed on how to best carry out the goals, objectives, and outcomes for the Core Unit. For the moment, that is best left for a discussion with the community and stakeholders.
+- Be the Facilitator, Team Lead, and Business Leader for the CES Core Unit
+- Serve as the main point of contact for the CES Core Unit
+- Be the public voice of the CES on the Maker Forum, Discord, Telegram, Rocket Chat, etc.
+- Communicate and collaborate with the community, the Maker Foundation, and other Core Units and stakeholders
+- Ensure the proper planning, use, and visibility of budgets to achieve our stated goals and objectives
+- Ensure we make and meet our commitments and deliver value within every iteration
+- Maintain visibility and transparency for all work identified, planned, and completed
+- Attract, hire, and retain the best talent in the industry
+- Build high performing teams capable of scaling collateral while normalizing the overhead costs
+- Run the CES Core Unit as a business with Survivability, Sustainability, and Continuity as key goals
 
 ## Facilitator Credentials
 
@@ -87,35 +78,29 @@ Through this process and as the team forms, specific plans will be formed on how
 
 The following is a partial list of Maker Foundation experiences that are supportive of this facilitation role.
 
-* Facilitated and managed the following Maker Foundation activities:
-  * MCD Launch coordination
-  * Collateral Onboarding process
-  * Collateral Onboarding documentation
-  * Productization exercises
-  * Product and Engineering Framework
-  * Product Launch Coordination
-  * Agile Coaching for six geographically distributed engineering teams
-  * Quarterly planning and internal Demo Days
-  * Foundation dissolution activities
-
-* Established working relationships at all levels within the Foundation
-
-* Historical knowledge of Foundation activities meaning, knowing where the bodies are hidden so we don't repeat the same mistakes
+- Facilitated and managed the following Maker Foundation activities:
+  - MCD Launch coordination
+  - Collateral Onboarding process
+  - Collateral Onboarding documentation
+  - Productization exercises
+  - Product and Engineering Framework
+  - Product Launch Coordination
+  - Agile Coaching for six geographically distributed engineering teams
+  - Quarterly planning and internal Demo Days
+  - Foundation dissolution activities
+- Established working relationships at all levels within the Foundation
+- Historical knowledge of Foundation activities meaning, knowing where the bodies are hidden so we don't repeat the same mistakes
 
 **Experience prior to the Maker Foundation**
 
-* Entered the blockchain and cyptocurrency industry in 2017
-
-* Experience with other DeFi projects before joining the Maker Foundation
-
-* 30+ years of experience in sales, marketing, business development, and the last 20 years in product and engineering development and leadership
-
-* Experience in all product and engineering roles, from hands on software development to running large, geographically distributed product and engineering teams
-
-* Expert at hiring, building, and coaching/mentoring teams
+- Entered the blockchain and cyptocurrency industry in 2017
+- Experience with other DeFi projects before joining the Maker Foundation
+- 30+ years of experience in sales, marketing, business development, and the last 20 years in product and engineering development and leadership
+- Experience in all product and engineering roles, from hands on software development to running large, geographically distributed product and engineering teams
+- Expert at hiring, building, and coaching/mentoring teams
 
 ## Related Documents
 
-[MIP39c2-SP12 Collateral Onboarding Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-onboarding-core-unit/8037)
+[MIP39c2-SP12 Collateral Engineering Services Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-engineering-services-core-unit/8037)
 
-[MIP40c3-SP14 Collateral Onboarding Core Unit Budget Proposal](https://forum.makerdao.com/t/mip40c3-sp14-modify-collateral-onboarding-core-unit-budget/8038)
+[MIP40c3-SP14 Collateral Engineering Services Core Unit Budget Proposal](https://forum.makerdao.com/t/mip40c3-sp14-modify-collateral-engineering-services-core-unit-budget/8038)
