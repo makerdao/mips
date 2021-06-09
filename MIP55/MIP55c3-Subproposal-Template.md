@@ -1,10 +1,12 @@
 # MIP55c3-SP: Adding/Modifying a Special Purpose Fund [Template]
 
+## Preamble
+
 ```
-Preamble
-MIP55c3-SP#: #
+MIP55c3-SP#:
 Author(s):
 Contributors:
+Tags:
 Status:
 Date Applied: (yyyy-mm-dd)
 Date Ratified: (yyyy-mm-dd)
