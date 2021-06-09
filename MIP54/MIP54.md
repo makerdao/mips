@@ -5,7 +5,7 @@
     Author(s): Derek Flossman, Brian McMichael
     Contributors: None
     Type: Technical
-    Status: Request for comments
+    Status: Formal Submission
     Date Proposed: 2021-05-12
     Date Ratified: n/a
     Dependencies: n/a
