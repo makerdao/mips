@@ -1,9 +1,9 @@
-# MIPX: Special Purpose Fund (SPF ☀️)
+# MIP55: Special Purpose Fund (SPF ☀️)
 
 ## Preamble
 
 ```
-MIP#: X
+MIP#: 55
 Title: Special Purpose Fund
 Author(s): @amyjung
 Contributors: @LongForWisdom @SebVentures
@@ -29,13 +29,13 @@ A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary 
 
 ## Component Summary
 
-**MIPXc1: Special Purpose Fund Requirements**
+**MIP55c1: Special Purpose Fund Requirements**
 Outlines the requirements a Special Purpose Fund must meet to be valid for inclusion in the Governance Cycle.
 
-**MIPXc2: Special Purpose Fund Process**
+**MIP55c2: Special Purpose Fund Process**
 Details the governance process for proposals created by recognized Special Purpose Funds.
 
-**MIPXc3: Adding/Modifying a Special Purpose Fund**
+**MIP55c3: Adding/Modifying a Special Purpose Fund**
 This subproposal process allows Governance to create or modify an existing Special Purpose Fund through the provided subproposal template.
 
 ## Motivation
@@ -66,7 +66,7 @@ The structure for Special Purpose Funds are specific to ensure minimum Governanc
 
 ## Specification / Proposal Details
 
-**MIPXc1: Special Purpose Fund Requirements**
+**MIP55c1: Special Purpose Fund Requirements**
 
 In order to be recognized as a Special Purpose Fund, proposals must have the following:
 
@@ -78,17 +78,17 @@ In order to be recognized as a Special Purpose Fund, proposals must have the fol
 
 * The SPF Scope work must be auditable by Comptrollers.
 
-**MIPXc2: Special Purpose Fund Process**
+**MIP55c2: Special Purpose Fund Process**
 
 A process component that provides clarity on how the payouts are addressed from a practical perspective once approved. Approved funding is attached to a Special Purpose Fund (SPF) and is meant to be used only for that proposal.
 
 The process is as follows:
 
-1. MIPXc3 subproposals is submitted. MIPXc3 subproposals must use the template located at **[MIPXc3-Subproposal-Template.md](link)** . This template is considered ratified once this MIP moves to Accepted status.
+1. MIP55c3 subproposals is submitted. MIPXc3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](link)** . This template is considered ratified once this MIP moves to Accepted status.
 
-2. MIPXc3 subproposals must go through the Governance cycle to authorize Maker Governance to draw funds from the Protocol.
+2. MIP55c3 subproposals must go through the Governance cycle to authorize Maker Governance to draw funds from the Protocol.
 
-3. Upon approval of the MIPXc3 subproposal, funds would be transferred first to the escrow multisig. The funds in escrow must be in a multi-sig with signatory requirements of a minimum of two `Comptrollers`). Funds must be held in escrow, only released when two `Comptrollers` sign off.
+3. Upon approval of the MIP55c3 subproposal, funds would be transferred first to the escrow multisig. The funds in escrow must be in a multi-sig with signatory requirements of a minimum of two `Comptrollers`). Funds must be held in escrow, only released when two `Comptrollers` sign off.
 
 4. Once the work is complete and approved by Comptrollers, funds would be released to the final recipient’s designated address.
 
@@ -111,9 +111,9 @@ The initial funding implementation would use a simple funding implementation of 
 
 * If available, other advanced smart-contract based implementations can be used for automated distribution mechanisms, such as a simplified smart contract implementation of [DSSVest](https://forum.makerdao.com/t/mip-54-dssvest/8025).
 
-**MIPXc3: Adding a Special Purpose Fund**
+**MIP55c3: Adding a Special Purpose Fund**
 
-MIPXc3 subproposals must use the template located at **[MIP14c3-Subproposal-Template.md](link)** .
+MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](link)** .
 
 This is a component that can have on-chain effects that alter the Maker Protocol's state. When subproposals are generated from this component, the vote must include a technical state change to authorize drawing funds from the Maker Protocol.
 
