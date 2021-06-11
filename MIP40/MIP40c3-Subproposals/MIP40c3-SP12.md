@@ -16,6 +16,10 @@ Date Ratified:
 
 MIP40c3-SP12 adds the budget for Core Unit RWF-001: Real-World Finance.
 
+## Paragraph Summary
+
+With [MIP40c3-SP1](https://forum.makerdao.com/t/mip40c3-sp1-modify-core-unit-budget-real-world-finance/6225) the Real-World Finance team was able to onboard the first Real-World Asset and provide some financials for MakerDAO. Nevertheless, as no Legal Core Unit is expected in the short term, we need to increase the budget for legal expenses. We also need to solidify the data analytics part, which is currently limited, to integrate MakerDAO and RWA data to provide transparency and insights to stakeholders.
+
 ## Specification
 
 ## Motivation
