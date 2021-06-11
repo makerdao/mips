@@ -16,6 +16,10 @@ Date Ratified: <yyyy-mm-dd>
 
 @prose11 application to be onboarded as a facilitator for the GovAlpha (GOV-001) Core Unit.
 
+## Paragraph Summary
+
+Payton Rose (@prose11) submits his application for Governance Facilitator of the GovAlpha (Gov-001) Core Unit. @prose11 commits to uploading the mandate of GovAlpha through the application of three key governing principles: accessibility, neutrality, and transparency.  
+
 ## Specification
 
 ### Motivation
