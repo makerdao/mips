@@ -14,7 +14,11 @@ Date Ratified: 2021-25-03
 
 ## Sentence Summary
 
-MIP39c2-SP2 adds Core Unit RISK-001: Risk.
+Add an Oracles Core Unit to handle all of the Oracle needs of the Maker Protocol and build out an Oracle business.
+
+## Paragraph Summary
+
+The Oracle Core Unit (OCU) is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized. The OCU is essential to ensure the Oracles can adapt rapidly to scale the Maker Protocol in a responsible manner. A key focus of the OCU is to monetize the Oracle Protocol and build out a business around it. This enables the DAO to subsidize its own Oracle expenditures, and ultimately turn Oracles from a cost-center into a profit-generating arm of MakerDAO. Real World Assets (RWA) in particular, are a highly promising vertical the business side of the Oracle is targeting. 
 
 ## Specification
 
