@@ -5,11 +5,11 @@
 ```
 MIP41c4-SP#: 16
 Author(s): @mitchell_amazix
-Contributors:N/A
+Contributors: N/A
 Tags: ore-unit, cu-amzx-001, facilitator
-Status: Request For Comment
+Status: Withdrawn
 Date Applied: 2021-06-09
-Date Ratified: 
+Date Ratified:
 ```
 
 ## Specification
