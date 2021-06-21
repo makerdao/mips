@@ -7,7 +7,7 @@ MIP40c3-SP#: # 20
 Author(s): @mitchell_amazix
 Contributors: N/A
 tags: core-unit, cu-ses-001, budget
-Status: Withdrawn
+Status: RFC
 Date Applied: 2021-06-09
 Date Ratified:
 ```
