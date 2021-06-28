@@ -7,9 +7,9 @@ MIP40c3-SP#: 11
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
 Tags: core-unit, cu-gov-001, budget
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-05-12
-Date Ratified: N/A
+Date Ratified: 2021-06-28
 ```
 
 ## Sentence Summary

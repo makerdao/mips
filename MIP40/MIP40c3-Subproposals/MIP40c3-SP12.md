@@ -7,9 +7,9 @@ MIP40c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
 Tags: core-unit, cu-rwf-001, budget
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-05-11
-Date Ratified:
+Date Ratified: 2021-06-28
 ````
 
 ## Sentence Summary

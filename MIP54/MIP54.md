@@ -10,9 +10,9 @@ Author(s): Derek Flossman, Brian McMichael
 Contributors: None
 Tags:
 Type: Technical
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-05-12
-Date Ratified: n/a
+Date Ratified: 2021-06-28
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+

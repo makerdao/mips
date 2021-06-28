@@ -7,9 +7,9 @@ MIP41c4-SP#: 12
 Author(s): Payton Rose
 Contributors: @LongForWisdom, @juanjuan
 tags: gov-001
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-05-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-06-28
 ```
 
 ## Sentence Summary

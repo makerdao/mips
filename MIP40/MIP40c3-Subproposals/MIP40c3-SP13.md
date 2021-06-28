@@ -7,9 +7,9 @@ MIP40c3-SP#: 13
 Author(s): Primož Kordež
 Contributors:
 Tags: core-unit, cu-risk-001, budget
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-05-12
-Date Ratified: 
+Date Ratified: 2021-06-28
 ```
 
 ## Sentence Summary

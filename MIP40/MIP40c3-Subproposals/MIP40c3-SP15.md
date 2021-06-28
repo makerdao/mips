@@ -7,9 +7,9 @@ MIP40c3-SP#: 15
 Author(s): Niklas Kunkel
 Contributors: N/A
 Tags: core-unit, cu-ora-001, budget
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-05-12
-Date Ratified:
+Date Ratified: 2021-06-28
 ```
 
 ## Sentence Summary
