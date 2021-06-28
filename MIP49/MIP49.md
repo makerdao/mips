@@ -1,4 +1,4 @@
-# MIP49: Staking Rewards 
+# MIP49: Staking Rewards
 
 ## Preamble
 
