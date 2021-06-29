@@ -67,6 +67,22 @@
                 ]
               },
               {
+                "id": "mds-001",
+                "name": "MDS-001: MakerDAO Shop",
+                "children": [
+                  {
+                    "id": "mds-001-active",
+                    "name": "Subproposals in Force",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mds-001,%20%23active)&subproposalsMode=true"
+                  },
+                  {
+                    "id": "mds-001-inactive",
+                    "name": "Archive",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mds-001,%20NOT(%23active))&subproposalsMode=true"
+                  }
+                ]
+              },
+              {
                 "id": "mkt-001",
                 "name": "MKT-001: Content Creation",
                 "children": [
@@ -83,6 +99,22 @@
                 ]
               },
               {
+                "id": "ora-001",
+                "name": "ORA-001: Oracles",
+                "children": [
+                  {
+                    "id": "ora-001-active",
+                    "name": "Subproposals in Force",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-ora-001,%20%23active)&subproposalsMode=true"
+                  },
+                  {
+                    "id": "ora-001-inactive",
+                    "name": "Archive",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-ora-001,%20NOT(%23active))&subproposalsMode=true"
+                  }
+                ]
+              },
+              {
                 "id": "pe-001",
                 "name": "PE-001: Protocol Engineering",
                 "children": [
@@ -95,22 +127,6 @@
                     "id": "pe-001-inactive",
                     "name": "Archive",
                     "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-pe-001,%20NOT(%23active))&subproposalsMode=true"
-                  }
-                ]
-              },
-              {
-                "id": "mds-001",
-                "name": "MDS-001: MakerDAO Shop",
-                "children": [
-                  {
-                    "id": "mds-001-active",
-                    "name": "Subproposals in Force",
-                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mds-001,%20%23active)&subproposalsMode=true"
-                  },
-                  {
-                    "id": "mds-001-inactive",
-                    "name": "Archive",
-                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mds-001,%20NOT(%23active))&subproposalsMode=true"
                   }
                 ]
               },
@@ -184,4 +200,3 @@
       }
     ]
   }
-  
