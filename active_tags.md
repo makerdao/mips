@@ -1,6 +1,6 @@
 # List of currently used MIP tags
 
-| TAG | Applied to |
+| Tag | Applied to |
 |-|-|
 | active | Currently-in-force Core Unit-related subproposals: ratified budgets for current quarter, non-offboarded Facilitators. Older budgets should have this tag removed, as should offboarded Facilitators |
 | budget | Core Unit budget additions/modifications (MIP40c3 subproposals) |
