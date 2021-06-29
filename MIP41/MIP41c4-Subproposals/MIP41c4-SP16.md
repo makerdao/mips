@@ -6,7 +6,7 @@
 MIP41c4-SP#: 16
 Author(s): @mitchell_amazix
 Contributors: N/A
-Tags: ore-unit, cu-amzx-001, facilitator
+Tags: core-unit, cu-amzx-001, facilitator
 Status: RFC
 Date Applied: 2021-06-09
 Date Ratified:
