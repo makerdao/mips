@@ -6,7 +6,7 @@
 MIP40c3-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
-Tags: core-unit, cu-gov-001, budget, active
+Tags: core-unit, cu-gov-001, budget
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03

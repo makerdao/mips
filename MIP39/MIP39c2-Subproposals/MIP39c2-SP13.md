@@ -6,7 +6,7 @@
 MIP39c2-SP#: 13
 Author(s): Niklas Kunkel
 Contributors:
-Tags: core-unit, cu-ora-001, mandate
+Tags: core-unit, cu-ora-001, mandate, active
 Status: Accepted
 Date Applied: 2021-05-12
 Date Ratified: 2021-06-28

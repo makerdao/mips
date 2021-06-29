@@ -1,6 +1,5 @@
 # MIP 54: DssVest
 
-
 ## Preamble
 
 ```
@@ -8,7 +7,7 @@ MIP#: 54
 Title: DssVest
 Author(s): Derek Flossman, Brian McMichael
 Contributors: None
-Tags:
+Tags: technical
 Type: Technical
 Status: Accepted
 Date Proposed: 2021-05-12
