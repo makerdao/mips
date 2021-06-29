@@ -8,7 +8,6 @@ Author(s): @wouter, @juanjuan
 Contributors:
 tags: core-unit, cu-ses-001, budget
 Status: Accepted
-Tags: core-unit, cu-ses-001, budget
 Date Applied: 2021-05-12
 Date Ratified: 2021-06-28
 ```
