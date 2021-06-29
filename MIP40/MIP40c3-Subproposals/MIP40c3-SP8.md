@@ -18,12 +18,13 @@ MIP40c3-SP8 adds the budget for Core Unit COM-001: Governance Communications.
 
 ## Paragraph Summary
 
-This initial budget, for 143,333 Dai, provides five months of runway, August 2021 - Dec 2021. In the next year, we intend to submit bi-annual budgets, covering 6 months at a time unless otherwise preferred by MakerDAO. The annual budget figure is $486,000.
+This initial budget, for 163,200 Dai, provides five months of runway, August 2021 - Dec 2021. In the next year, we intend to submit bi-annual budgets, covering 6 months at a time unless otherwise preferred by MakerDAO. The annual budget figure is $486,000.
 
 A vote to ratify this MIP means MKR holders make a commitment to:
 
 - An initial five month (Q3-Q4) budget.
-- A continuous funding model (after five months) that operates on a quarterly, semi-annual, or annual basis based upon the operational preference of the DAO.
+- A continuous monthly funding model.
+- A 3-month runway reserve, held in a protocol owned multi-sig.
 - An MKR vesting package for COM-001, with details being determined in the near future.
 
 ## Specification
@@ -41,18 +42,18 @@ ID: COM-001
 
 #### Smart Contract Implementation
 
-Governance Communications Multisig: 
+Governance Communications multi-sig: 
 `insert`
 
-- Implementation: Initial distribution to the Core Unit multisig will be manual until an automated solution is in place.
-- Ownership: This multisig will be 1 of 1 initially, with additional signers being added as needed.
-- Frequency: Protocol distributions to the multisig will occur during the last week of the month with all the other budget disbursements.
+- Implementation: Initial distribution to the Core Unit multi-sig will be manual until an automated solution is in place.
+- Ownership: This multi-sig will be 1 of 1 initially, with additional signers being added as needed.
+- Frequency: Protocol distributions to the multi-sig will occur during the last week of the month with all the other budget disbursements.
 
-Governance Communications Continuous Operation Multisig: `insert`
+Governance Communications Continuous Operation multi-sig: `insert`
 
-* Implementation: This multisig will be funded in full upon successful onboarding of the Governance Communications Core Unit.
-* Access: In order for funds to be accessed from this multisig, the Maker protocol must be in a state where it is unable to pay team salaries due to protocol error, shutdown and/or under governance attack.
-* Ownership: The Continuous Operation Multisig will require 3 of 6 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed:
+- Implementation: This multi-sig will be funded in full upon successful onboarding of the Governance Communications Core Unit.
+- Access: In order for funds to be accessed from this multi-sig, the Maker protocol must be in a state where it is unable to pay team salaries due to protocol error, shutdown and/or under governance attack.
+- Ownership: The Continuous Operation multi-sig will require 3 of 6 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed:
 
 `Nadia (Growth CU): 0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
 
@@ -68,7 +69,7 @@ Governance Communications Continuous Operation Multisig: `insert`
 
 #### Continuous Operation
 
-To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues, we will be requesting an upfront lump-sum of 3 months of runway to sit in a protocol owned multisig.
+To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues, we will be requesting an upfront lump-sum of 3 months of runway to sit in a protocol owned multi-sig.
 
 Calculation:
 
@@ -76,20 +77,20 @@ Use initial annual budget figure divided by 4 to determine the 3-month runway su
 
 Detail:
 
-* The lump-sum will be held outside of the surplus buffer in a protocol owned multisig.
-* If normal protocol operation is not possible due to emergency shutdown or other protocol failure, these funds will be used to ensure continuous operation as the system gets back up and running.
-* At the conclusion of the year, the lump sum will remain in the multisig for the following year and may be increased or decreased at that point in time due to changes in the projected budget.
+- The lump-sum will be held outside of the surplus buffer in a protocol owned multi-sig.
+- If normal protocol operation is not possible due to emergency shutdown or other protocol failure, these funds will be used to ensure continuous operation as the system gets back up and running.
+- At the conclusion of the year, the lump sum will remain in the multi-sig for the following year and may be increased or decreased at that point in time due to changes in the projected budget.
 
 #### Monthly Budget Statement
 
-Within the first 7 days of each month, COM-001 will submit `Monthly Budget Statements` with the following sections:
+Within the first 7 days of each month, COM-001 will submit `Monthly Budget Statements` with the following sections:
 
-1. **The Budget Forecast**, based on the latest available information, of the budget (in DAI) that is required to maintain a 6 month runway for the team.
-2. **The Last Month Actuals**, i.e. the actual expenses (DAI and MKR) of the month that just ended, this includes reporting any surplus or deficit.
-3. **The MKR Vesting Overview**, this is a schedule that has the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
-4. **Transaction Amounts**, The required DAI amount to replenish the 6 month runway.
+1. **The Budget Forecast**, based on the latest available information, of the budget (in DAI) that is required to maintain a 3-month runway for the team.
+2. **The Last Month Actuals**, i.e. the actual expenses (DAI and MKR) of the month that just ended, this includes reporting any surplus or deficit.
+3. **The MKR Vesting Overview**, this is a schedule that has the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
+4. **Transaction Amounts**, The required DAI amount to replenish the 3-month runway.
 
-The Monthly Budget Statements will be added to the team drive. They will also be posted in this [git repository on Github](https://github.com/MakerDAO-Governance-Communications-CU/transparency-reporting).
+The Monthly Budget Statements will be added to the [team drive](https://drive.google.com/drive/u/0/folders/1GBAeTx4jmob7wRs7_LK32Bh_Y-pHzPvV). They will also be posted in this [git repository on Github](https://github.com/MakerDAO-Governance-Communications-CU/transparency-reporting).
 
 ### Budget Breakdown
 
