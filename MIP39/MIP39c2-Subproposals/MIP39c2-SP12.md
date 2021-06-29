@@ -6,7 +6,7 @@
 MIP39c2-SP#: 12
 Author(s): @monkey.irish
 Contributors:
-Tags: collateral-eng, collateral-onboard, collateral-offboard, core-unit, mip-set, ces-001
+Tags: core-unit, cu-ces-001, mandate
 Status: Request for Comments (RFC)
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
