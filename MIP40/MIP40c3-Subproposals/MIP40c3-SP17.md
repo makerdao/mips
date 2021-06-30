@@ -6,7 +6,7 @@
 MIP40c3-SP#: 17
 Author(s): @wouter, @juanjuan
 Contributors:
-tags: core-unit, cu-ses-001, budget
+tags: core-unit, cu-ses-001, budget, active
 Status: Accepted
 Date Applied: 2021-05-12
 Date Ratified: 2021-06-28
