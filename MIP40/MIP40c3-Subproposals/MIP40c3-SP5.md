@@ -69,4 +69,4 @@ We aim to provide salaries competitive with regard to market rates and the compe
 
 133.124 Dai covers 3 months; we’re requesting 1/3 (44,375) per month.
 
-Address: 0x6A0Ce7dBb43Fe537E3Fd0Be12dc1882393895237
+Address: 0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60
