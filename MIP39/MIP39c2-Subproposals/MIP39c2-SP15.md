@@ -16,7 +16,7 @@ Date Ratified:
 
 The purpose of this MIP is to propose AmaZix as a global strategic marketing partner for MakerDAO to help Dai achieve rapid growth and mass adoption through the implementation of a highly aggressive, dynamic, and efficient marketing strategy.
 
-  ![AmaZix_Logo_Color|628x500, 50%](upload://iPMbTnOhrDNz7i5cDXMh58bTQku.png)
+![AmaZix Logo](https://github.com/makerdao/mips/blob/master/MIP39/supporting_materials/MIP39c2-SP15/AmaZix_logo.png)
 
 ## Paragraph Summary
 

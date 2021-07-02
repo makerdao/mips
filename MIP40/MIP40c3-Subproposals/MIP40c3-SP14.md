@@ -195,7 +195,7 @@ A few notes about the Budget Detail:
 
 Illustrating these details as a percentage of the total budget request for overall comparison (12 months):
 
-![CES 12 Month Budget](upload://ntZbadMPT64foiBeQO7csnSXuEL.png)
+![CES 12 Month Budget](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP14/12_month_budget.png)
 
 ### Budget Details:
 
@@ -289,7 +289,7 @@ The CES budget implementation is architected to build and sustain a stable Core 
 - MKR vesting with a 6 month cliff and quarterly vesting
 - Provide full transparency and accounting of funds during all budget periods
 
-![CES Cycle Alignment](upload://coSckY9tPUPb1suZbh7CAX1LfCh.jpeg)
+![CES Cycle Alignment](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP14/cycle_alignment.png)
 
 **Key Takeaway**
 
@@ -303,7 +303,7 @@ The Auditors Wallet balance will never exceed the upper limit voted by Governanc
 
 #### CES Budgeting Cycle
 
-![CES Budgeting Cycle](upload://yiPp61eHYHSEWR6bNDZpmLOPZsc.jpeg)
+![CES Budgeting Cycle](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP14/budgeting_cycle.png)
 
 #### Core Unit Ratification
 

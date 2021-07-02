@@ -87,7 +87,7 @@ Grantees will not receive MKR as part of the Grants Program. Moving into the DAO
 
 * Payment of the MKR tokens will follow the same flow as described in the original SES budget MIP ([MIP40c3-SP10](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369#multi-sig-wallets)).
 
-![20210601-mkr-payment-flow|690x87](upload://qsDqihk9TkA3foYk1mtmLz1uBcz.png)
+![MKR Payment Flow](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP17/budgeting_cycle.png)
 
 * As defined above and in [MIP40c3-SP10](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369#multi-sig-wallets), the [Monthly Budget Statement](https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%20Budget%20Statements) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 
