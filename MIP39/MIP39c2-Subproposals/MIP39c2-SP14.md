@@ -47,7 +47,7 @@ CPM-001
 
 **Strategic Marcomms has the following functions:**
 
- ![Functions](https://github.com/makerdao/mips/blob/master/MIP39/supporting_materials/MIP39c2-SP14/functions.png)
+ ![Functions](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP14/functions.png)
 
 **Target audience**
 
@@ -59,7 +59,7 @@ CPM-001
 
 The Strategic Marcomms Core Unit has synthesized the marketing approach into 3 key strategies to elevate MakerDAO and win.
 
- ![Strategy](https://github.com/makerdao/mips/blob/master/MIP39/supporting_materials/MIP39c2-SP14/strategy.png)
+ ![Strategy](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP14/strategy.png)
 
 **Strategy 1 - Elevate:**
 

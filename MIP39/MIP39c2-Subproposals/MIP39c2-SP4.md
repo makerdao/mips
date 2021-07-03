@@ -101,7 +101,7 @@ To measure our progress, we assigned a weight to each tear: Tier 1 -> 25 points,
 
 During the last three years of the BD team, this has been the rate of growth in “tier-weighted closed deals.”
 
-![Tier Weighted Closed Deals](https://github.com/makerdao/mips/blob/master/MIP39/supporting_materials/MIP39c2-SP4/tier_weighted_closed_deals.png)
+![Tier Weighted Closed Deals](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP4/tier_weighted_closed_deals.png)
 
 As the data shows, we experienced strong growth across the board. The tier distribution remained mainly compliant throughout the three years. The growth of closed deals during the time reflects our strategy, where the foundational partners have helped us convince high-level partners to integrate with the Maker Protocol.
 

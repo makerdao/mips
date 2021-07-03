@@ -78,7 +78,7 @@ This budget ensures the unit has a global legal counsel on retainer, in addition
 
 We are not proposing any MKR compensation at this stage. We plan to follow the same formula proposed by the SES core unit at a later stage.
 
-![Chart](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP18/chart.png)
+![Chart](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP18/chart.png)
 
 |Categories|Annual Budget (DAI)|% to Total|
 | --- | --- | --- |
