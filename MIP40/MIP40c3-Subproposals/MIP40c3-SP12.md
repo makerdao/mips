@@ -91,4 +91,4 @@ We plan to propose MKR vesting for members. We plan to follow a MakerDAO-wide fr
 Not saying we are following those comparable but we want to provide data to MakerDAO Governance to assess the proposal.
 [Compensantion scales in the FP&A space](https://www.mergersandinquisitions.com/corporate-finance-career-path/)
 Compensation in investment banking in [UK](https://docs.google.com/document/d/14QZ6Zgd9EwjaShrQ470Vlz3LZ5cWsWLoPZcDSSKjfLQ/edit?usp=sharing) and [US](https://www.mergersandinquisitions.com/investment-banker-salary/) ([another source](https://corporatefinanceinstitute.com/resources/careers/compensation/investment-banker-salary/))
-![image|690x350](upload://uys4Wtx0lF3BpJCV8WvjNFsgBEB.png)
+![Table](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP12/table.png)

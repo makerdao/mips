@@ -53,7 +53,7 @@ There is also the aspect of avoiding creating diverging incentives as these coul
 
 ## Specification / Proposal Details
 
-**MIP53c1: How the MKR Compensation Guidelines work**
+### MIP53c1: How the MKR Compensation Guidelines work
 
 The guideline proposes that MKR is transferred to the Core Unit Facilitator based on the number of full-time equivalent contributors in the unit. The Facilitator will then distribute the compensation to their team based on the situation that is most applicable to that specific unit. A small team with limited plans for growth could choose to divide the compensation equally, while a team with plans to recruit substantially with high demand for training and uncertain individual performance could choose a tiered system. This method was chosen to allow for simplicity for the Community as well as flexibility for the Core Units.
 
@@ -61,7 +61,7 @@ Any funds not spent should be returned to the community.
 
 The MKR will be transferred to the Core Unit a full year after ratification of the guideline and once per year after that until the last transfer in 2025.
 
-**MIP53c2: Proposed Compensation per Core Unit**
+### MIP53c2: Proposed Compensation per Core Unit
 
 Some of the below listed Core Units have yet to submit for unit approval. Other Core Units have provisional unit size. Units not included in the below list could be proposed at a later stage through amendment.
 
@@ -82,7 +82,7 @@ Integrations			3	5		30
 Smart Contracts 2		3	5		30
 MakerDAO Shop			N/A	N/A		0
 			
-**MIP53c3: Recommended best practice**
+### MIP53c3: Recommended best practice
 
 Based on internal discussions the MKR Compensation Group has the following list of best practices for Core Units seeking to apply for MKR compensation.
 
@@ -90,7 +90,7 @@ Based on internal discussions the MKR Compensation Group has the following list 
 2) The MKR compensation proposal should be placed in a separate proposal, not combined with the initial budget request. This allows a new team to start working for Maker and pay salaries to the team members.
 3) There should be a minimum 3-month gap between core unit approval and the application for MKR compensation. This will allow the community a chance to evaluate the core unit before compensating the unit with MKR.
 
-**MIP53c4: The MKR Compensation Guidelines towards 2025**
+### MIP53c4: The MKR Compensation Guidelines towards 2025
 
 It is the intention to inspect and if necessary revise the guideline periodically towards 2025 while maintaining the core principles of the document to provide a firm foundation for recruitment and retention. 2025 was chosen as the horizon limit due to the high rate of change in the world of crypto which makes it exceedingly hard to plan further.
 
@@ -98,6 +98,6 @@ Periodic revisions will also enable the community to include lessons learned bot
 
 For the purpose of establishing a DAI value to the MKR used for compensation, the price is set to DAI 2250 per MKR, which was the price of MKR on 3 March 2021 when the Protocol Engineering group submitted their budget proposal.
 
-**MIP53c5: Amending the MKR Compensation Guidelines**
+### MIP53c5: Amending the MKR Compensation Guidelines
 
 Describes how Maker can change the MKR Compensation Guidelines details by use of a MIP53c5 subproposal.

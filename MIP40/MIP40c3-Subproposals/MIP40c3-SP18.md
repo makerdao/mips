@@ -1,9 +1,9 @@
-# MIP40c2-SP18: Add Core Unit Budget, CPM-001
+# MIP40c3-SP18: Add Core Unit Budget, CPM-001
 
 ## Preamble
 
 ```
-MIP39c2-SP#: 18
+MIP39c3-SP#: 18
 Author: Kathleen Chu 
 Contributors: @HBJ, @AdrienDLT, Francesco Alberti, Kaori Sato, @Sahabia, Jose Vicente
 tags: core-unit, cu-cpm-001, budget
@@ -14,7 +14,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP40c3-SPX adds the budget for Core Unit CPM-001: Strategic Marcomms 
+MIP40c3-SP18 adds the budget for Core Unit CPM-001: Strategic Marcomms 
 
 ## Specification
 
@@ -78,7 +78,7 @@ This budget ensures the unit has a global legal counsel on retainer, in addition
 
 We are not proposing any MKR compensation at this stage. We plan to follow the same formula proposed by the SES core unit at a later stage.
 
-![|624x349](upload://n1dWYTNllJBRnoN2DWv625Te0Ym.png "Chart")
+![Chart](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP18/chart.png)
 
 |Categories|Annual Budget (DAI)|% to Total|
 | --- | --- | --- |

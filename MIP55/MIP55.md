@@ -67,7 +67,7 @@ The structure for Special Purpose Funds are specific to ensure minimum Governanc
 
 ## Specification / Proposal Details
 
-**MIP55c1: Special Purpose Fund Requirements**
+### MIP55c1: Special Purpose Fund Requirements
 
 In order to be recognized as a Special Purpose Fund, proposals must have the following:
 
@@ -79,7 +79,7 @@ In order to be recognized as a Special Purpose Fund, proposals must have the fol
 
 * The SPF Scope work must be auditable by Comptrollers.
 
-**MIP55c2: Special Purpose Fund Process**
+### MIP55c2: Special Purpose Fund Process
 
 A process component that provides clarity on how the payouts are addressed from a practical perspective once approved. Approved funding is attached to a Special Purpose Fund (SPF) and is meant to be used only for that proposal.
 
@@ -112,7 +112,7 @@ The initial funding implementation would use a simple funding implementation of 
 
 * If available, other advanced smart-contract based implementations can be used for automated distribution mechanisms, such as a simplified smart contract implementation of [DSSVest](https://forum.makerdao.com/t/mip-54-dssvest/8025).
 
-**MIP55c3: Adding/Modifying a Special Purpose Fund**
+### MIP55c3: Adding/Modifying a Special Purpose Fund
 
 MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](link)** .
 
