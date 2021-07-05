@@ -7,7 +7,7 @@ MIP39c2-SP#: 14
 Author(s):@Kathleen
 Contributors: @HBJ, @AdrienDLT, Francesco Alberti, Kaori Sato, @Sahabia, Jose Vicente
 Tags: core-unit, cu-cpm-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-06-8
 Date Ratified: <yyyy-mm-dd>
 ```
