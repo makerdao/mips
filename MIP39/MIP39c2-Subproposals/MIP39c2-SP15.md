@@ -7,7 +7,7 @@ MIP39c2-SP#: 15
 Author(s): @Mitchell_AmaZix
 Contributors: N/A
 Tags: core-unit, cu-amzx-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-06-09
 Date Ratified:
 ```

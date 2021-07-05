@@ -8,7 +8,7 @@ Title: Dispute Resolution
 Author(s): Gregory Di Prisco (g_dip)
 Contributors: None
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-05-04
 Date Ratified: n/a
 Dependencies: MIP3c1

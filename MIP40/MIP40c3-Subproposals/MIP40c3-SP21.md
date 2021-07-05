@@ -7,7 +7,7 @@ MIP41c4-SP#: 21
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
 Tags: core-unit, cu-mkt-001, budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-05-29
 Date Ratified:
 ```
