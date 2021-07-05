@@ -2,17 +2,17 @@
 
 ## Preamble
 ```
-MIP#:
-Title:
-Author(s): 
+MIP#: <# to be assigned>
+Title: <MIP title>
+Author(s): <list of authors' names and/or email addresses and GitHub handles>
 Contributors:
 Tags: template
-Type: 
+Type: MIP Type
 Status: <Assigned by MIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
-Dependencies:
-Replaces:
+Dependencies: <List of dependent MIPs>
+Replaces: <List of MIP it is replacing>
 ```
 ## References
 
