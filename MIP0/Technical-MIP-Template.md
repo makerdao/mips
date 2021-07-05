@@ -5,13 +5,13 @@
 MIP#: <# to be assigned>
 Title: <MIP title>
 Author(s): <list of authors' names and/or email addresses and GitHub handles>
-Contributors:
+Contributors: <list of contributor's names and/or email addresses and GitHub handles>
+Tags: template
 Type: MIP Type
-Tag: template
 Status: <Assigned by MIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
-Dependencies: <List of depdendent MIPs>
+Dependencies: <List of dependent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
 ```
