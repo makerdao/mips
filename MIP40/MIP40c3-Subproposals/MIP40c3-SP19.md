@@ -38,7 +38,7 @@ Growth (GRO-001)
 
 * Progressing our pipeline. The general outline of our traditional cycle consists of the following phases: Outreach → Initial conversations → Project formalization and commitment → Integrations support → Pre-launch growth → The partner Launch → Maintenance and growth. We want to focus on the 93 opportunities in the latest stages of the Growth Process cycle during this quarter (pre-launch, partner launch, and maintenance) which requires the "integrations and marketing" budget to execute the growth plans we created with our partners.
 
-![Chart](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP19/distribution.png)
+![Chart](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP19/distribution.png)
 
 * Developing an [Institutional Vaults](https://forum.makerdao.com/t/institutional-vaults/8637/6) strategy. With the feedback from Maker's largest vault users, we want to coordinate the efforts of the DAO to find the right solution for this need and pitch to all crypto-native companies this solution.
 
@@ -68,7 +68,7 @@ TBD, integrations -Full Time- (as the Foundation's integrations team decided to 
 
 #### Budget Breakdown
 
-![Chart](https://github.com/makerdao/mips/blob/master/MIP40/supporting_materials/MIP40c3-SP19/budget_breakdown.png)
+![Budget Breakdown](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP19/budget_breakdown.png)
 
 #### Remarks
 
