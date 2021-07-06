@@ -9,7 +9,7 @@ Author(s): @amyjung
 Contributors: @LongForWisdom @SebVentures
 Tags:
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-06-08
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
