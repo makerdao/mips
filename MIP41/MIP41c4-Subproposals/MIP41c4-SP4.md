@@ -24,7 +24,7 @@ I want the Maker Protocol to be perceived as a solution that helps companies to 
 
 That has been my motto during this last three years working for the Maker Foundation as BD for LatAm, where I passed from a scenery where no one knew what even Ethereum was to this: “Dollar Today: the acronym (DAI) that is a sensation among those who want to dollarize in the middle of currency controls.”
 
-![La Nación](https://github.com/makerdao/mips/blob/master/MIP41/supporting_materials/MIP41c4-SP4/la_nacion.png)
+![La Nación](https://github.com/makerdao/mips/blob/master/MIP41/supporting_materials/MIP41c4-SP4/la_nacion.jpeg)
 
 That was news in the most influential newspaper in Argentina. And it’s the result of the work we did with our partners, supporting them to create a product that made sense for Argentinians, and at the same time, helping them to grow and Dai growing with them.
 

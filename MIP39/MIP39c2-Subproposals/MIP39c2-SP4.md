@@ -54,7 +54,7 @@ Once we have found a new market (it could be a region, a vertical, or product), 
 
 The general outline of a traditional cycle consists of the following phases: Outreach -> Initial conversations -> Project formalization and commitment -> Integrations support -> Pre-launch growth -> The partner Launch -> Maintenance and growth
 
-![Tier Weighted Closed Deals](https://github.com/makerdao/mips/blob/master/MIP39/supporting_materials/MIP39c2-SP4/growth_cycle.png)
+![Growth Cycle](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP4/growth_cycle.png)
 
 **Outreach** is done via various channels, including individual networks, conferences/events, cold calling/emailing, investor networks, and inbound leads.
 

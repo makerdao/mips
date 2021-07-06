@@ -289,7 +289,7 @@ The CES budget implementation is architected to build and sustain a stable Core 
 - MKR vesting with a 6 month cliff and quarterly vesting
 - Provide full transparency and accounting of funds during all budget periods
 
-![CES Cycle Alignment](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP14/cycle_alignment.png)
+![CES Cycle Alignment](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP14/cycle_alignment.jpeg)
 
 **Key Takeaway**
 
@@ -303,7 +303,7 @@ The Auditors Wallet balance will never exceed the upper limit voted by Governanc
 
 #### CES Budgeting Cycle
 
-![CES Budgeting Cycle](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP14/budgeting_cycle.png)
+![CES Budgeting Cycle](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP14/budgeting_cycle.jpeg)
 
 #### Core Unit Ratification
 
