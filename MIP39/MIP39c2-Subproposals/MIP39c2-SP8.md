@@ -5,7 +5,7 @@
 ```
 MIP39c2-SP#: 8
 Author(s): David Utrobin
-Contributors: Many
+Contributors: Tim Black
 Tags: core-unit, cu-com-001, mandate
 Status: Formal Submission
 Date Applied: 2021-03-12
@@ -42,7 +42,7 @@ Now that MakerDAO has completed the launch of Multi-Collateral Dai, followed by 
 
 MakerDAO is a multi-headed rapidly-growing organization with many categories of focus and numerous stakeholder groups. As a result, our stakeholders face many difficulties; keeping up with the growing volume and complexity of information, spending too much time searching, filtering noise, understanding Maker lingo, not knowing who is a point of contact for what, inability to make it to all the meetings, and more. These are only some of the barriers to increasing the quality of their experience working with us, and as we grow these will only get worse and worse.
 
-**Our motivation is to improve MakerDAO's performance as a public organization by removing information and communication barriers for stakeholders.** A dedicated communications team is fundamental for strengthening MakerDAO’s dependability day-to-day and in crisis situations. Such a team would help MakerDAO operate more effectively as a public organization, become more transparent and reliable, increase trustworthiness among stakeholders, and ultimtely attract more business interest.
+**Our motivation is to improve MakerDAO's performance as a public organization by removing information and communication barriers for stakeholders.** A dedicated communications team is fundamental for strengthening MakerDAO’s dependability day-to-day and in crisis situations. Such a team would help MakerDAO operate more effectively as a public organization, become more transparent and reliable, increase trustworthiness among stakeholders, and ultimately attract more business interest.
 
 ## Core Unit Name
 
