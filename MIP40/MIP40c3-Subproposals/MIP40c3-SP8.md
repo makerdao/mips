@@ -7,7 +7,7 @@ MIP40c3-SP#: 8
 Author(s): David Utrobin
 Contributors:
 Tags: core-unit, cu-com-001, budget
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-03-12
 Date Ratified:
 ```
@@ -24,7 +24,7 @@ A vote to ratify this MIP means MKR holders make a commitment to:
 
 - An initial five month (Q3-Q4) budget.
 - A continuous monthly funding model.
-- A 3-month runway reserve, held in a protocol owned multi-sig.
+- A 3-month runway reserve, held in a protocol-owned multi-sig.
 - An MKR vesting package for COM-001, with details being determined in the near future.
 
 ## Specification
@@ -42,30 +42,30 @@ ID: COM-001
 
 #### Smart Contract Implementation
 
-Governance Communications multi-sig: 
-`insert`
+Governance Communications Operational multi-sig:
+`0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9`
 
 - Implementation: Initial distribution to the Core Unit multi-sig will be manual until an automated solution is in place.
 - Ownership: This multi-sig will be 1 of 1 initially, with additional signers being added as needed.
 - Frequency: Protocol distributions to the multi-sig will occur during the last week of the month with all the other budget disbursements.
 
-Governance Communications Continuous Operation multi-sig: `insert`
+Governance Communications Continuous Operation multi-sig: `0x99E1696A680c0D9f426Be20400E468089E7FDB0f`
 
 - Implementation: This multi-sig will be funded in full upon successful onboarding of the Governance Communications Core Unit.
 - Access: In order for funds to be accessed from this multi-sig, the Maker protocol must be in a state where it is unable to pay team salaries due to protocol error, shutdown and/or under governance attack.
 - Ownership: The Continuous Operation multi-sig will require 3 of 6 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed:
 
-`Nadia (Growth CU): 0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
+`DavidUtro (COM-001): 0xE91f4F5834bB9312A45B2bd75804b32CC3DA8fd3`
 
-`LongForWisdom (GovAlpha) : 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
+`LongForWisdom (GOV-001) : 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
 
-`Primoz (Risk CU): 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c`
+`Primoz (RISK-001): 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c`
 
-`SebVentures (RWF): 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
+`SebVentures (RWF-001): 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
 
-`Brian McMichael (Protocol Engineering): insert`
+`Brian McMichael (PE-001): 0xC0dE1AB51082442f821bA273273B4F7d32521D8b`
 
-`Nik Kunkel (Oracles): insert`
+`Nik Kunkel (ORA-001): 0xB4CFf22c0d5a015460Fd503a9328Bf00a24f686c`
 
 #### Continuous Operation
 
@@ -83,14 +83,14 @@ Detail:
 
 #### Monthly Budget Statement
 
-Within the first 7 days of each month, COM-001 will submit `Monthly Budget Statements` with the following sections:
+Within the first 7 days of each month, COM-001 will submit `Monthly Budget Statements` with the following sections:
 
-1. **The Budget Forecast**, based on the latest available information, of the budget (in DAI) that is required to maintain a 3-month runway for the team.
-2. **The Last Month Actuals**, i.e. the actual expenses (DAI and MKR) of the month that just ended, this includes reporting any surplus or deficit.
-3. **The MKR Vesting Overview**, this is a schedule that has the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
-4. **Transaction Amounts**, The required DAI amount to replenish the 3-month runway.
+1. **The Budget Forecast**, based on the latest available information, of the budget (in DAI) that is required to maintain a 3-month runway for the team.
+2. **The Last Month Actuals**, i.e. the actual expenses (DAI and MKR) of the month that just ended, this includes reporting any surplus or deficit.
+3. **The MKR Vesting Overview**, this is a schedule that has the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
+4. **Transaction Amounts**, The required DAI amount to replenish the 3-month runway.
 
-The Monthly Budget Statements will be added to the [team drive](https://drive.google.com/drive/u/0/folders/1GBAeTx4jmob7wRs7_LK32Bh_Y-pHzPvV). They will also be posted in this [git repository on Github](https://github.com/MakerDAO-Governance-Communications-CU/transparency-reporting).
+The Monthly Budget Statements will be added to the [team drive](https://drive.google.com/drive/u/0/folders/1GBAeTx4jmob7wRs7_LK32Bh_Y-pHzPvV). They will also be posted in this [git repository on Github](https://github.com/MakerDAO-Governance-Communications-CU/transparency-reporting).
 
 ### Budget Breakdown
 

@@ -7,7 +7,7 @@ MIP41c4-SP#: 8
 Author(s): David Utrobin
 Contributors:
 Tags: core-unit, cu-com-001, facilitator
-Status: Request for Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-03-12
 Date Ratified:
 ```
