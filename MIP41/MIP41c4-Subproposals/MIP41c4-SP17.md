@@ -1,79 +1,56 @@
-# MIP41c4-SP17: Facilitator Onboarding for the Dai Foundation Core Unit
+# MIP41c4-SP17: Facilitator Onboarding, Maker Portfolio Core Unit
 
 ## Preamble
 
 ```
 MIP41c4-SP#: 17
-Author(s): @sorenpeter  
-Contributors: @juanjuan
-Tags: dai-foundation, core-unit, daif-001, facilitator
-Status: Request For Comments (RFC)
-Date Applied: 2021-07-07
-Date Ratified: YYYY-MM-DD
+Author(s): PaperImperium
+Contributors: N/A
+Status: RFC
+Date Applied: 2021-06-28
+Date Ratified:
 ```
 
 ## Sentence Summary
 
-MIP41c4-SP17 onboards Søren Peter Nielsen as Facilitator for the Dai Foundation Core Unit.
+Onboards PaperImperium as the facilitator of the Maker Portfolio Core Unit (MPCU).
+
+## Paragraph Summary
+
+The Maker Portfolio Core Unit (MPCU) will be tasked with onboarding partnered legal entities that can provide the Maker Protocol with exposure to securities of its choice. The MPCU's role is to find and implement workarounds for Maker's inability to join legal agreements or pass KYC requirements of counterparties. The MPCU's priorities will be to safely scale upwards the supply of DAI, lock in long-term and predictable revenues for the protocol, and generate goodwill through a substantial charitable giving component to minimize tax payments.
+
+## Core Unit Name
+
+Maker Portfolio Core Unit (MPCU)
 
 ## Motivation
 
-I have been the formal touchpoint between the Dai Foundation board and Governance. This subproposal intends to formalize this link.
+I see Maker as unique in terms of both its potential and its capabilities. I want to see the protocol grow into a leading role in guiding and stabilizing the world economy, while also growing profitability for MKR holders. To achieve both of these goals, the Maker Protocol needs to scale much larger. Safely adding to DAI circulation, providing positive-yield real-world collateral, and minimizing risk of both capital losses and disruption to DAI's USD peg are always top of my mind.
 
-I am motivated by enabling software solutions that
-
-* Support access to financial services for everyone on equal terms
-* Implement programmable money – the internet unleashed huge value by connecting producer and consumer without middlemen in most industries, but not so much for payments and financial services
-
-I am convinced that technologies and concepts like decentralization, cloud, IoT, social, mobile, open data – and notably the Maker Protocol - can change the way we live, work and play, and I'm convinced that working with skilled, motivated people makes the difference.
-
-I recognize that no team/unit can act as an island in our global world, and I have past experience of creating results while working with a complex ecosystem of stakeholders.
-
-## Facilitator Commitment
-
-The following describes my commitment and actions as the Dai Foundation Core Unit Facilitator, to:
-
-* Serve as a point of contact between the Dai Foundation board, the Governance-appointed Maker Asset Use Coordinator, the Governance Community and other facilitators to ensure a cohesive understanding of team deliverables and progress.
-* Represent the Dai Foundation Core Unit
-    * Work with the Community to:
-        * Enable access to Maker intellectual property for the good of the protocol, as frictionless as possible, and evolve the current trademark policy as needed
-        * Create awareness of the importance of passing copyright for new Maker intellectual property deliverables to Dai Foundation for safekeeping
-        * Foster a good dialogue with the community around the  principles to apply for the safeguarding of the trademarks in case of forks of the protocol
-    * Ensure Dai Foundation representatives are active on the Maker Forum and available as points of contact
-* Make sure the Dai Foundation board is aware of all relevant developments in the Maker Governance Community
-
-## Core Unit
-
-Dai Foundation Core Unit
+My track record with personal, family, and business finances is one of searching for low-risk opportunities that can still yield large returns. Those familiar with my activities within the Maker community also know me as an advocate of strong cost controls, systemic risk management, and continuous marginal improvement. The MPCU is a perfect fit for my skillset, as I help Maker grow a low-risk income source that can be used to rapidly scale supply of DAI, provide higher quality collateral than the protocol currently has access to, and grants some level of stability in earnings to properly cover operational expenses.
 
 ## Facilitator Name and Information
 
-* Name: `Søren Peter Nielsen`
-* Forum handle: `@sorenpeter`
-* Discord handle: `sorenpeter#2928`
+Name: Chris Cameron
+
+Forum:@PaperImperium
+
+R/C: @PaperImperium
+
+ETH Address: TBD
 
 ## Facilitator Credentials
 
-### Experience at Maker
+* More than 12 years of securities investing experience in personal and family accounts, with annualized returns (before tax, after other expenses) of ~20%.
 
-* Joined Maker Foundation in January 2018 as Head of Product
-* Helped scale the product development organization fast in 2018
-* Built Product Management team and provided product support for the MCD development
-* Focused on applications utilizing the Maker Protocol post-MCD: Oasis, Token Flow, Decentralized exchange projects, real-world asset projects
+* Former general partner of a small investing LP for family members' assets.
 
-### Experience prior to Maker
+* A founding member of the Maker RWA Committee.
 
-* Danish Cleanweb community lead (The Cleanweb non-profit initiative aimed at helping entrepreneurs, innovators, and enterprises leverage information technology to drive massive improvements in global sustainability, economic prosperity, and human well-being.)
-* Approx. 8 years of work in startups in areas of consumer IoT, Industrial IoT, Critical Infrastructure security
-* Worked 8 years for the Danish Government
-    * Established Public Sector architecture process
-    * Built shared services, notably in federated identity
-    * Published [discussion paper about new digital security models](https://www.digitaliser.dk/resource/896495/artefact/NewDigitalSecurityModels.pdf?artefact=true&PID=1792137)
-    * Introduced cloud computing to the public sector
-    * Very much involved in the SAML standardization and other cross national IT initiatives
-* Prior to the above worked 20 years for IBM building solutions across a wide number of industries
+* Bachelor's Degree in Economics from UNC-Chapel Hill.
 
-## Related Documents
+* Successful small business owner since 2013.
 
-* [MIP39c2-SP17 Dai Foundation Core Unit MIP](https://forum.makerdao.com/t/mip39c2-sp17-adds-core-unit-daif-001-dai-foundation/9239)
-* [MIP40c3-SP17 Dai Foundation Core Unit Budget Proposal](https://forum.makerdao.com/t/mip40c3-sp17-modify-dai-foundation-core-unit-budget/9238)
+### Related Documents
+[MIP39c2-SP16: Adding Maker Portfolio Core Unit - MPCU-001](https://forum.makerdao.com/t/mip39c2-spxx-adding-maker-portfolio-core-unit-mpcu-001/8996)
+[MIP40c3-SP22: Modify Maker Portfolio Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp15-modify-maker-portfolio-core-unit-budget/8998)
