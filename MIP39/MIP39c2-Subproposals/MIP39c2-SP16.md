@@ -4,73 +4,61 @@
 
 ```
 MIP39c2-SP#: 16
-Author(s): @sorenpeter
-Contributors: @juanjuan
-Tags: dai-foundation, core-unit, daif-001, mandate
-Status: Request For Comments (RFC)
-Date Applied: 2021-07-07
-Date Ratified: <yyyy-mm-dd>
+Author(s): PaperImperium
+Contributors:
+Status: RFC
+Date Applied: 2021-06-28
+Date Ratified:
 ```
 
 ## Sentence Summary
 
-MIP39c2-SP16 adds Core Unit DAIF-001: Dai Foundation.
+Add a Maker Portfolio Core Unit to build a portfolio of publicly traded, real-world financial assets that the Maker Protocol can be exposed to.
 
-## Specification
+## Paragraph Summary
 
-### Motivation
+The Maker Portfolio Core Unit (MPCU) will be tasked with creating and onboarding partnered legal entities that can provide the Maker Protocol with exposure to securities of its choice. The MPCU's role is to find and implement legal, low-effort workarounds for Maker's inability to join legal agreements or pass KYC requirements of counterparties. The MPCU's priorities will be to safely scale upwards the supply of DAI, lock in long-term and predictable revenues for the protocol, and generate goodwill through a substantial charitable giving component as part of its tax mitigation strategy.
 
-Planning for the best case scenario for MakerDAO requires establishing measures to protect Maker's intangible assets and prepare to mitigate problems in worst case scenarios.
+## Statement of Problem
 
-- What if somebody launches a coin on some other blockchain and calls it Dai?
-- What if somebody uses the software developed for the Maker Protocol for purposes that go against the principles of MakerDAO?
-- What if there is a governance attack and the attackers get control over the Maker and Dai trademarks?
+Maker currently struggles with complexity in the legal frontier of offering financing against real world assets. This slows the onboarding process, and scale is hard to achieve while simultaneously minimizing risk.
 
-The independent legal entity Dai Foundation has been created to safeguard what cannot be decentralized in Maker DAO, such as ownership of trademarks, domains, software copyrights, etc., which is connected to a real-world centralized governance body.
+While multiple structures for financing real-world customers are tried and refined, Maker has simpler, more direct tools for investing on its own behalf. These will be the focus of the MPCU.
 
-Dai Foundation cannot seek profits and is only [mandated to serve its specific purpose](https://drive.google.com/file/d/14S-VIKsLtWq9xdVguaIZgNqtXcTkO3Bq/view): to safeguard the Maker Assets. The Dai Foundation will make these assets available for use by the community to support the sustainability and growth of the Maker Protocol with as few barriers as possible.
+## Strategy
 
-The Dai Foundation Core Unit is proposed to be the vehicle that enables the practical implementation of these critical goals.
+The MPCU will utilize simple legal structures to give Maker exposure to assets it would hold were it a legal entity.
 
-### Core Unit ID
+Initially, this will take the form of creating charitable trusts, which will only be allowed to operate in a prescribed manner. These trusts will be a "captive" customer that Maker can create and establish rules for, ensuring that interests are aligned and minimal monitoring is required.
 
-DAIF-001
+The initial approach is that for each investment, a trust will be formed with a charity named as the beneficiary. That trust will be allowed to borrow from a vault created for a token only that trust will have. The trust then takes the DAI, converts to USD on the open market, and proceeds to have a broker purchase securities for the trust. The stability fee for the vault will be less than the yield on the security, thereby leaving some profit for the trust, which will then be donated in full to a named charity, removing any tax liability. The trust will be able to pass KYC requirements to purchase securities through standard brokerages, but will not be required to KYC Maker in turn through the characterization of its financing through one of several possible methods (just as Nexo does not need to send Maker a 1099 or perform KYC).
 
-### Core Unit Name
+Each trust will only purchase one batch of securities, and proceed to hold them to maturity, providing both Maker and the charity beneficiary with predicable, regularly scheduled income. It should also generate good PR and general goodwill through Maker's charitable givings. Any subsequent desired exposure by Maker -- even to the same securities -- will likely be done through a new trust, as the instructions are unlikely to be alterable after its creation.
 
-DAI Foundation Core Unit
+**This strategy represents only the initial phase of the MPCU, and will evolve as new legal opportunities present themselves ([such as this one in Nebraska](https://nebraskalegislature.gov/FloorDocs/107/PDF/Slip/LB649.pdf)) and as Maker grows confident it can invest in higher-yielding -- but still very safe -- securities.**
 
-### Core Unit Mandate
+It is estimated that as long as the DAI<>USD peg holds, Maker can take up to 5% of the $21 trillion market for US Treasury obligations within 5 years. There are also opportunities in other ultra-safe, dollar-denominated, fixed-maturity securities.
 
-The Dai Foundation Core Unit is responsible for:
-- Facilitating the dialogue between the Dai Foundation and the Community regarding intellectual property safeguarding, intellectual property usage, and related activities
-- Request the necessary budget from Maker DAO Governance to sustain its operations and adequately mitigate the related legal risks to its essential role
-- Implementation of processes for safeguarding of new intellectual property that is added to the Protocol at Dai Foundation.
-- Implementation of processes for making the intellectual property that Dai Foundation owns available for use by the broader Maker community for the good of the protocol with as few barriers as possible.
-- Providing transparency around how the Dai Foundation operates and which assets the Dai Foundation owns.
-- In collaboration with Maker Governance, create transparency around how the usage rights of the Maker Assets are allocated.
+It should be noted that this structure will not meet the needs of the market being addressed by the RWF unit or the RWA Company, which require much more oversight and complexity to both monitor the collaterals, satisfy borrower demand, and minimize tax events for profit-seeking entities. The MPCU will only oversee investments directed at publicly traded securities, and will not include private securities in its mandate. There is no envisioned overlap between MPCU and RWF in terms of universe of investable assets.
 
-The Dai Foundation Core Unit will carry these responsibilities following the principles defined in its [Trust Deed](https://drive.google.com/file/d/14S-VIKsLtWq9xdVguaIZgNqtXcTkO3Bq/view).
+## Unit Structure
 
-#### Community Involvement
+This team will initially include a single individual (the facilitator). No further full or part-time employees are currently planned. Legal and accounting expertise will be outsourced to full-time practitioners.
 
-- The Dai Foundation Core Unit will create transparency into the activities of the Dai Foundation and engage in dialogue with the Community about how to safeguard Maker's intellectual property while also making it available for use with as few barriers as possible.
-- The Dai Foundation Core Unit proposes a process by which Maker Governance decides who utilizes any of the assets that the Dai Foundation holds, as long as the users assume responsibility for the use of those assets, and the Dai Foundation remains the legal owner of said assets.
-- As part of the ratification of the Dai Foundation Core Unit, the Dai Foundation offers Maker Governance the appointment of two members to join the Dai Foundation board. This will enable insight into all activities and make sure the views of Maker Governance are appropriately taken into account.
+## Core Unit Mandate
 
-#### Planned near-term activities
+**Identify Investments**
 
-- Creating a process together with Maker Governance for making intellectual property held by the Dai Foundation available for use by the Community - [See the proposal for discussion here](LINKMISSING-LINKMISSING-LINKMISSING-LINKMISSING-LINKMISSING-LINKMISSING-LINKMISSING-LINKMISSING-LINKMISSING).
-- Finding owners for [the assets from the Maker Foundation that the Dai Foundation has accepted for temporary care-taking](https://forum.makerdao.com/t/maker-foundation-transfer-of-additional-assets-to-dai-foundation-next-steps/8478).
-- Creating a process with Maker Governance for giving copyright/intellectual property ownership to the Dai Foundation for assets added to the protocol (e.g. the copyright for the code contained in a new smart contract).
-- Creating a process with Maker Governance for appointing community board members.
-- Defining a backlog for missing processes (e.g. how a Contributor or a Core Unit can transfer an asset to the Dai Foundation)
+The MPCU will identify publicly traded securities that are appropriate, profitable, and possible for Maker to finance. This largely requires reading financial statements, reports, and research relevant to the universe of investable assets (publicly traded securities). Promising collateral will be recommended through the collateral onboarding process, including asking for a standard assessment from the Risk CU. A general summary of risks will also be presented by MPCU at each onboarding proposal, but it is important that a party unconnected to onboarding a collateral provides an assessment to the MakerDAO community.
 
-#### Connection with the Dai Foundation
+**Initiate Investments**
 
-The Core Unit's Facilitator will be an official member of the Dai Foundation. Additional members from the Dai Foundation may participate in activities required to fulfill the Core Unit’s mandate and third parties that the Dai Foundation may subcontract.
+The MPCU will ensure that the appropriate structure is used for charitable trusts, including but not limited to ironclad instructions on the trust's purchase and borrowing, naming the charity or charities requested by MakerDAO, aiding the corporate trustee with choosing a custodian for financial assets, and generally making sure documents are drafted and the trust established so that it can buy and hold the desired investment. This is expected to be fairly inexpensive, routine, and outsourced to professional legal experts and managed by professional trustees.
+
+**Monitor and Report**
+
+The MPCU will provide regular updates to MakerDAO on the status of charitable trusts over their expected lifetime. MPCU will also periodically confirm that the appropriate collateral asset is still held in the trust's account. General data and statistics will also be provided whenever possible, so that MakerDAO can track the revenues, TVL, and charitable giving of the charitable trusts it establishes.
 
 ## Related Documents
-
-* [MIP40c3-S16: Modify Dai Foundation Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp16-modify-dai-foundation-core-unit-budget/9238)
-* [ MIP41c4-SP16: Facilitator Onboarding for the Dai Foundation Core Unit](https://forum.makerdao.com/t/mip41c4-sp16-facilitator-onboarding-for-the-dai-foundation-core-unit/9236)
+[MIP40c3-SP22: Modify Maker Portfolio Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp15-modify-maker-portfolio-core-unit-budget/8998)
+[MIP41c4-SP17: Facilitator Onboarding, Maker Portfolio Core Unit](https://forum.makerdao.com/t/mip41c4-sp13-facilitator-onboarding-maker-portfolio-core-unit/8997)

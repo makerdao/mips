@@ -36,7 +36,7 @@ Marketing Plan Development
 Duration: 4-6 months.
 Frequency: One-time.
 
-$250,000 
+$250,000
 
 Brand Development
 Duration: 2 months
