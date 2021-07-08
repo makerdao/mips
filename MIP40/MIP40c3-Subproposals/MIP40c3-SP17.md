@@ -92,13 +92,9 @@ Grantees will not receive MKR as part of the Grants Program. Moving into the DAO
 * As defined above and in [MIP40c3-SP10](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369#multi-sig-wallets), the [Monthly Budget Statement](https://github.com/makerdao-ses/transparency-reporting/tree/main/Monthly%20Budget%20Statements) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 
 * To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
-
   * Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `SES Auditors Wallet`, which then acts as an escrow wallet.
-
   * Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `SES Auditors Wallet` to the `SES Permanent Team Operational Wallet`.
-
   * When the MKR has vested, it is paid out to the contributor, either directly or through an intermediate payment processor.
-
 * Any excess MKR in the `SES Auditors Wallet` or the `SES Permanent Team Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
 
 This payment implementation makes no assumptions about the origin of the MKR. It can either be moved from the protocol's treasury, newly minted, or obtained from another source.
