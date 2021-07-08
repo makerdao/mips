@@ -18,7 +18,22 @@ The purpose of this MIP is to propose AmaZix as a global strategic marketing par
 
 ![AmaZix Logo](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP15/AmaZix_logo.png)
 
-## Paragraph Summary
+## Specification
+
+### Motivation
+
+MakerDAO is an excellent project in the cryptocurrency space and is helping to bring the whole industry forward. However, in order for it to reach its full potential, it needs a powerful marketing partner that can add wind to its sails. Because AmaZix is led by some of the most talented and experienced marketing minds in blockchain, it is the ideal marketing partner for MakerDAO. AmaZix has all of the skill, the experience, and the passion to help drive MakerDAO into its next phase of growth and to attract millions of new users.
+
+New users need to be educated on the benefits of Dai, how to use Dai, and why Dai is better than its competitors. AmaZix has an outstanding track record of success with similar projects and is perfectly poised to help MakerDAO accomplish these tasks.
+### Core Unit ID
+
+AMZX-001
+
+### Core Unit Name
+
+AmaZix Marketing
+
+## Mandate
 
 AmaZix will empower MakerDAO to reach its next level of growth by running extremely impactful marketing campaigns on its behalf. AmaZix is an elite blockchain marketing company ranked #1 by Softwareworld in 2021, that is led by experts in the field including Harvard marketing Ph.D.’s, former CEOs, consultants from McKinsey, Bain & Co., Deloitte, and BCG, and a Global Marketing Technology CMO with years of experience leading blockchain brands and Fortune 100 companies.
 
@@ -39,12 +54,6 @@ More detailed information, including the proposal, Gantt chart and pricing break
 ## Component Summary
 
 The marketing component will revolve around amplifying the public’s awareness of and interest in MakerDAO and Dai through cutting-edge digital marketing techniques.
-
-## Motivation
-
-MakerDAO is an excellent project in the cryptocurrency space and is helping to bring the whole industry forward. However, in order for it to reach its full potential, it needs a powerful marketing partner that can add wind to its sails. Because AmaZix is led by some of the most talented and experienced marketing minds in blockchain, it is the ideal marketing partner for MakerDAO. AmaZix has all of the skill, the experience, and the passion to help drive MakerDAO into its next phase of growth and to attract millions of new users.
-
-New users need to be educated on the benefits of Dai, how to use Dai, and why Dai is better than its competitors. AmaZix has an outstanding track record of success with similar projects and is perfectly poised to help MakerDAO accomplish these tasks.
 
 ## Key AmaZix Personnel
 
