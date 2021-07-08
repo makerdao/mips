@@ -14,11 +14,11 @@ Date Ratified: 2021-06-28
 
 ## Sentence Summary
 
-Onboards Niklas Kunkel as the Facilitator of the Oracle Core Unit.
+Onboards Niklas Kunkel as the Facilitator of the Oracles Core Unit.
 
 ## Paragraph Summary
 
-The Oracle Core Unit (OCU) is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized. The OCU is essential to ensure the Oracles can adapt rapidly to scale the Maker Protocol in a responsible manner. A key focus of the OCU is to monetize the Oracle Protocol and build out a business around it. This enables the DAO to subsidize its own Oracle expenditures, and ultimately turn Oracles from a cost-center into a profit-generating arm of MakerDAO. Real World Assets (RWA) in particular, are a highly promising vertical the business side of the Oracle is targeting. 
+The Oracles Core Unit is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized. The Oracles Core Unit is essential to ensure the Oracles can adapt rapidly to scale the Maker Protocol in a responsible manner. A key focus of the Oracles Core Unit is to monetize the Oracle Protocol and build out a business around it. This enables the DAO to subsidize its own Oracle expenditures, and ultimately turn Oracles from a cost-center into a profit-generating arm of MakerDAO. Real World Assets (RWA) in particular, are a highly promising vertical the business side of the Oracle is targeting. 
 
 ## Specification
 

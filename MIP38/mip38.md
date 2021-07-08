@@ -177,3 +177,16 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Budget Implementation** - Manual - [MIP40c3-SP10](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
 - **Budget Breakdown** - [MIP40c3-SP10](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
 - **Facilitator** - juanjuan - [MIP41c4-SP10](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP10.md)
+
+---
+
+#### Oracles
+
+- **ID** - ORA-001
+- **Summary** - The Oracle Core Unit is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized. 
+- **Date Ratified** -  2021-28-06
+- **Mandate** - [MIP39c2-SP13](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP13.md)
+- **Budget Amount** - 5,036,124 DAI / year
+- **Budget Implementation** - Manual - [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md)
+- **Budget Breakdown** - [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md)
+- **Facilitator** - Niklas Kunkel - [MIP41c4-SP13](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP13.md)
