@@ -31,8 +31,24 @@
             "children": [
               {
                 "id": "allcus",
-                "name": "All (MIP38c2)",
+                "name": "All (MIP38c2: Core Unit State)",
                 "href": "https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state"
+              },
+              {
+                "id": "mkt-001",
+                "name": "MKT-001: Content Creation",
+                "children": [
+                  {
+                    "id": "mkt-001-active",
+                    "name": "Subproposals in Force",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mkt-001,%20%23active)&subproposalsMode=true"
+                  },
+                  {
+                    "id": "mkt-001-inactive",
+                    "name": "Archive",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mkt-001,%20NOT(%23active))&subproposalsMode=true"
+                  }
+                ]
               },
               {
                 "id": "gov-001",
@@ -52,7 +68,7 @@
               },
               {
                 "id": "gro-001",
-                "name": "GRO-001: GROWTH",
+                "name": "GRO-001: Growth",
                 "children": [
                   {
                     "id": "gro-001-active",
@@ -79,22 +95,6 @@
                     "id": "mds-001-inactive",
                     "name": "Archive",
                     "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mds-001,%20NOT(%23active))&subproposalsMode=true"
-                  }
-                ]
-              },
-              {
-                "id": "mkt-001",
-                "name": "MKT-001: Content Creation",
-                "children": [
-                  {
-                    "id": "mkt-001-active",
-                    "name": "Subproposals in Force",
-                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mkt-001,%20%23active)&subproposalsMode=true"
-                  },
-                  {
-                    "id": "mkt-001-inactive",
-                    "name": "Archive",
-                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mkt-001,%20NOT(%23active))&subproposalsMode=true"
                   }
                 ]
               },
@@ -159,6 +159,22 @@
                     "id": "rwf-001-inactive",
                     "name": "Archive",
                     "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-rwf-001,%20NOT(%23active))&subproposalsMode=true"
+                  }
+                ]
+              },
+              {
+                "id": "ses-001",
+                "name": "SES-001: Sustainable Ecosystem Scaling",
+                "children": [
+                  {
+                    "id": "ses-001-active",
+                    "name": "Subproposals in Force",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$and(%23cu-ses-001,%20%23active)"
+                  },
+                  {
+                    "id": "ses-001-inactive",
+                    "name": "Archive",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$and(%23cu-ses-001,%20NOT(%23active))"
                   }
                 ]
               }

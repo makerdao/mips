@@ -6,11 +6,15 @@
 MIP40c3-SP#: # 20
 Author(s): @mitchell_amazix
 Contributors: N/A
-tags: core-unit, cu-ses-001, budget
+tags: core-unit, cu-amzx-001, budget
 Status: Formal Submission
 Date Applied: 2021-06-09
 Date Ratified: 
 ```
+
+## Sentence Summary
+
+MIP40c3-SP20 adds the budget for Core Unit AMZX-001: AmaZix Marketing.
 
 ## Specification
 
