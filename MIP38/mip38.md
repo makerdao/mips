@@ -80,11 +80,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - RWF-001
 - **Summary** - This Core Unit is designed to pursue Real-World Asset work and more generally helps MakerDAO to take over the traditional finance world.
 - **Date Ratified** - 2021-25-03
-- **Mandate** - [MIP39c2-SP1](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP1.md)
+- **Mandate** - [MIP39c2-SP1](https://mips.makerdao.com/mips/details/MIP39c2SP1)
 - **Budget Amount** 40,000 DAI / month
-- **Budget Implementation** - Manual - [MIP40c3-SP1](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP1.md)
-- **Budget Breakdown** - [MIP40c3-SP1](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP1.md)
-- **Facilitator** - Sébastien Derivaux - [MIP41c4-SP1](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP1.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP12](https://mips.makerdao.com/mips/details/MIP40c3SP12#list-of-budget-implementations)
+- **Budget Breakdown** - [MIP40c3-SP12](https://mips.makerdao.com/mips/details/MIP40c3SP12#list-of-budget-breakdowns)
+- **Facilitator** - Sébastien Derivaux - [MIP41c4-SP1](https://mips.makerdao.com/mips/details/MIP41c4SP1)
 
 ---
 
@@ -93,11 +93,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - RISK-001
 - **Summary** - Risk Core Unit ensures Maker Protocol can continue to grow safely by having proper risk management parameters and risk mitigation tools applied.
 - **Date Ratified** - 2021-25-03
-- **Mandate** - [MIP39c2-SP2](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP2.md)
-- **Budget Amount** 100,500 / month
-- **Budget Implementation** - Manual - [MIP40c3-SP2](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP2.md)
-- **Budget Breakdown** - [MIP40c3-SP2](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP2.md)
-- **Facilitator** - Primož Kordež - [MIP41c4-SP1](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP2.md)
+- **Mandate** - [MIP39c2-SP2](https://mips.makerdao.com/mips/details/MIP39c2SP2)
+- **Budget Amount** 546,000 DAI / quarter
+- **Budget Implementation** - Manual - [MIP40c3-SP13](https://mips.makerdao.com/mips/details/MIP40c3SP13#list-of-budget-implementations)
+- **Budget Breakdown** - [MIP40c3-SP13](https://mips.makerdao.com/mips/details/MIP40c3SP13#budget-breakdown-items)
+- **Facilitator** - Primož Kordež - [MIP41c4-SP1](https://mips.makerdao.com/mips/details/MIP41c4SP2)
 
 ---
 
@@ -106,11 +106,12 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - GOV-001
 - **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and - well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
 - **Date Ratified** -  2021-25-03
-- **Mandate** - [MIP39c2-SP3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP3.md)
-- **Budget Amount** - 240,000 DAI / quarter
-- **Budget Implementation** - Manual - [MIP40c3-SP3](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP3.md)
-- **Budget Breakdown** - [MIP40c3-SP3](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP3.md)
-- **Facilitator** - LongForWisdom - [MIP41c4-SP3](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP3.md)
+- **Mandate** - [MIP39c2-SP3](https://mips.makerdao.com/mips/details/MIP39c2SP3)
+- **Budget Amount** - 520,000 DAI / quarter
+- **Budget Implementation** - Manual - [MIP40c3-SP11](https://mips.makerdao.com/mips/details/MIP40c3SP11#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP11](https://mips.makerdao.com/mips/details/MIP40c3SP11#budget-breakdown)
+- **Facilitator** - LongForWisdom - [MIP41c4-SP3](https://mips.makerdao.com/mips/details/MIP41c4SP3)
+- **Facilitator** - Payton Rose - [MIP41c4-SP12](https://mips.makerdao.com/mips/details/MIP41c4SP12)
 
 ---
 
@@ -119,11 +120,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - PE-001
 - **Summary** - The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.
 - **Date Ratified** -  2021-27-04
-- **Mandate** - [MIP39c2-SP7](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP7.md)
+- **Mandate** - [MIP39c2-SP7](https://mips.makerdao.com/mips/details/MIP39c2SP7)
 - **Budget Amount** - 510,000 DAI / month
-- **Budget Implementation** - Manual - [MIP40c3-SP7](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP7.md)
-- **Budget Breakdown** - [MIP40c3-SP7](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP7.md)
-- **Facilitator** - Derek Flossman - [MIP41c4-SP7](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP7.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP7](https://mips.makerdao.com/mips/details/MIP40c3SP7#smart-contract-implementation)
+- **Budget Breakdown** - [MIP40c3-SP7](https://mips.makerdao.com/mips/details/MIP40c3SP7#budget)
+- **Facilitator** - Derek Flossman - [MIP41c4-SP7](https://mips.makerdao.com/mips/details/MIP41c4SP7)
 
 ---
 
@@ -132,11 +133,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - GRO-001
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
 - **Date Ratified** -  2021-27-04
-- **Mandate** - [MIP39c2-SP4](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP4.md)
+- **Mandate** - [MIP39c2-SP4](https://mips.makerdao.com/mips/details/MIP39c2SP4)
 - **Budget Amount** - 126,117 DAI / month
-- **Budget Implementation** - Manual - [MIP40c3-SP4](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP4.md)
-- **Budget Breakdown** - [MIP40c3-SP4](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP4.md)
-- **Facilitator** - Nadia Alvarez - [MIP41c4-SP4](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP4.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP4](https://mips.makerdao.com/mips/details/MIP40c3SP4#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP4](https://mips.makerdao.com/mips/details/MIP40c3SP4#quarterly-budget)
+- **Facilitator** - Nadia Alvarez - [MIP41c4-SP4](https://mips.makerdao.com/mips/details/MIP41c4SP4)
 
 ---
 
@@ -145,11 +146,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - MKT-001
 - **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
 - **Date Ratified** -  2021-27-04
-- **Mandate** - [MIP39c2-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP5.md)
+- **Mandate** - [MIP39c2-SP5](https://mips.makerdao.com/mips/details/MIP39c2SP5)
 - **Budget Amount** - 44,375 DAI / month
-- **Budget Implementation** - Manual - [MIP40c3-SP5](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP5.md)
-- **Budget Breakdown** - [MIP40c3-SP5](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP5.md)
-- **Facilitator** - Seth Goldfarb - [MIP41c4-SP5](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP5.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP5](https://mips.makerdao.com/mips/details/MIP41c3SP5#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP5](https://mips.makerdao.com/mips/details/MIP41c3SP5#breakdown)
+- **Facilitator** - Seth Goldfarb - [MIP41c4-SP5](https://mips.makerdao.com/mips/details/MIP41c4SP5)
 
 ---
 
@@ -158,12 +159,12 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - MDS-001
 - **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store
 - **Date Ratified** -  2021-27-04
-- **Mandate** - [MIP39c2-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
+- **Mandate** - [MIP39c2-SP6](https://mips.makerdao.com/mips/details/MIP39c2SP6)
 - **Budget Amount** - 0 DAI (50/50 profit sharing)
-- **Budget Implementation** - Manual - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
-- **Budget Breakdown** - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
-- **Facilitator** - Coulter Mulligan - [MIP41c4-SP6](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP6.md)
-- **Facilitator** - Mike Porcaro - [MIP41c4-SP6](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP6.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP6](https://mips.makerdao.com/mips/details/MIP40c3SP6#list-of-budget-implementations)
+- **Budget Breakdown** - [MIP40c3-SP6](https://mips.makerdao.com/mips/details/MIP40c3SP6#budget-breakdown-items)
+- **Facilitator** - Coulter Mulligan - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
+- **Facilitator** - Mike Porcaro - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
 
 ---
 
@@ -172,11 +173,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - SES-001
 - **Summary** - The Sustainable Ecosystem Scaling Core Unit's mission is to sustainably grow the Maker Protocol’s moats by systematically removing barriers between the decentralized workforce, capital, and work.
 - **Date Ratified** -  2021-25-05
-- **Mandate** - [MIP39c2-SP10](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP10.md)
+- **Mandate** - [MIP39c2-SP10](https://mips.makerdao.com/mips/details/MIP39c2SP10)
 - **Budget Amount** - 1,153,480 DAI / quarter
-- **Budget Implementation** - Manual - [MIP40c3-SP10](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
-- **Budget Breakdown** - [MIP40c3-SP10](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md)
-- **Facilitator** - juanjuan - [MIP41c4-SP10](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP10.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP10](https://mips.makerdao.com/mips/details/MIP40c3SP10#budget-implementation), [MIP40c3-SP17 (MKR Incentive Plan)](https://mips.makerdao.com/mips/details/MIP40c3SP17)
+- **Budget Breakdown** - [MIP40c3-SP10](https://mips.makerdao.com/mips/details/MIP40c3SP10#budget-breakdown)
+- **Facilitator** - juanjuan - [MIP41c4-SP10](https://mips.makerdao.com/mips/details/MIP41c4SP10)
 
 ---
 
@@ -185,8 +186,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - ORA-001
 - **Summary** - The Oracle Core Unit is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized. 
 - **Date Ratified** -  2021-28-06
-- **Mandate** - [MIP39c2-SP13](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP13.md)
+- **Mandate** - [MIP39c2-SP13](https://mips.makerdao.com/mips/details/MIP39c2SP13)
 - **Budget Amount** - 5,036,124 DAI / year
-- **Budget Implementation** - Manual - [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md)
-- **Budget Breakdown** - [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md)
-- **Facilitator** - Niklas Kunkel - [MIP41c4-SP13](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP13.md)
+- **Budget Implementation** - Manual - [MIP40c3-SP15](https://mips.makerdao.com/mips/details/MIP40c3SP15)
+- **Budget Breakdown** - [MIP40c3-SP15](https://mips.makerdao.com/mips/details/MIP40c3SP15)
+- **Facilitator** - Niklas Kunkel - [MIP41c4-SP13](https://mips.makerdao.com/mips/details/MIP41c4SP13)
