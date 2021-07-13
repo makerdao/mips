@@ -1,6 +1,8 @@
 # MIP57c3: Subproposal Template for RWA Committee Quorum 
 
 ## Preamble
+
+
 ```
 MIP57c3-SP#: #
 Author(s):
@@ -9,5 +11,7 @@ Status:
 Date Applied: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ---
+
 ## Old Threshold:
+
 ## New Threshold: 
