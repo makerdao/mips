@@ -2,7 +2,8 @@
 
 ## Preamble
 
-```MIP#: 57
+```
+MIP#: 57
 Title: RWA Committee
 Author(s): Gregory Di Prisco (@g_dip)
 Contributors: @mrabino1, @williamr, @Viktor_Viktorov1 
