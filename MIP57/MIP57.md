@@ -19,7 +19,7 @@ MIP57 formalizes the creation of the Real-World Asset [RWA] Committee, its scope
 
 ## Paragraph Summary
 
-This MIP formalizes the creation of the Real-World Assets [RWA] Committee, its scope, and a process by which MKR holders can modify its membership. This committee was spawned out of the [Parameter Proposal Group](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-rwa-committee/7893) created by SebVentures. This committee presents a new scope which better accounts for the qualifications and conflicts of its membership and addresses the need for strategic research and guidance by the DAO in regards to real world assets.
+This MIP formalizes the creation of the Real-World Assets [RWA] Committee, its scope, and a process by which MKR holders can modify its membership. This committee was spawned out of the [Parameter Proposal Group](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-rwa-committee/7893) created by SebVentures. This committee presents a new scope which better accounts for the qualifications and conflicts of its membership and addresses the need for strategic research and guidance by the DAO in regards to Real-World Assets.
 
 ## Component Summary
 
@@ -37,7 +37,7 @@ This component defines the percentage of votes that the committee must have to c
 
 ## Motivation
 
-Most of the discourse around real-world assets in the Maker Protocol has revolved around structural, procedural and geopolitical implications rather than a risk analysis of the assets/asset originators. The scope of this committee is to separate these “high level” issues from the specific deal analysis and to provide blanket guidance that applies to all real-world assets in the protocol. This committee will not have any explicit power in the governance process, contrary to most Core Units, but will be limited to making recommendations that may be “approved” by MKR holders via on-chain polls.
+Most of the discourse around Real-World Assets in the Maker Protocol has revolved around structural, procedural and geopolitical implications rather than a risk analysis of the assets/asset originators. The scope of this committee is to separate these “high level” issues from the specific deal analysis and to provide blanket guidance that applies to all Real-World Assets in the protocol. This committee will not have any explicit power in the governance process, contrary to most Core Units, but will be limited to making recommendations that may be “approved” by MKR holders via on-chain polls.
 
 ## Specification / Proposal Details
 
@@ -45,11 +45,11 @@ Most of the discourse around real-world assets in the Maker Protocol has revolve
 
 The RWA committee will consist of individual members that are ratified by the MKR holders and each member may cast one vote when internally processing recommendations. Any member may bring a vote to the floor of the committee. A quorum of 66.1% or more of the membership must be present in a committee meeting in order for the outcome of a vote to be considered valid and a pass threshold of 50.1% will be required for a vote to be considered passed. A stalemate will proceed to an on-chain poll in the following monthly cycle and have the normal rules of a poll applied to it. The committee will meet, at a minimum, once per month and will coordinate this timing internally. The committee will limit its scope to making recommendations to the MKR holders in the following areas:
 
-1. Structural requirements for Real World Assets in MakerDAO. E.g., recommending the use of an independent administrator/director in an SPV
+1. Structural requirements for Real-World Assets in MakerDAO. E.g., recommending the use of an independent administrator/director in an SPV
 
-2. Geopolitical implications of Real World Assets in MakerDAO. E.g., recommending maximum jurisdictional exposure and jurisdiction-specific policies
+2. Geopolitical implications of Real-World Assets in MakerDAO. E.g., recommending maximum jurisdictional exposure and jurisdiction-specific policies
 
-3. Business strategy of Real World Assets in MakerDAO. E.g., recommending a global minimum stability fee on RWA in order to provide a buffer for an increasing DSR
+3. Business strategy of Real-World Assets in MakerDAO. E.g., recommending a global minimum stability fee on RWA in order to provide a buffer for an increasing DSR
 
 ### MIP57c1: MIP57 Committee Member List
 
