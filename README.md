@@ -18,7 +18,7 @@ MIPs have two types: **technical** if they propose changes or additions to smart
 
 ### Subproposals
 
-Subproposals are meta-processes of general, recurring processes defined in MIPs. Subproposals are created and used as a means of creating a process to build a process.
+Subroposals are a common recurring process. They are created and used as a means of proposing and enacting decisions nested within specific MIPs.
 
 Just like MIPs, subproposals are standardized documents subject to voting. Once approved, they trigger a concrete action or state such as onboarding specific collateral, offboarding a Core Unit Facilitator, modifying a budget, and so forth.
 
