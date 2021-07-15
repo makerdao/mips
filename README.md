@@ -60,7 +60,7 @@ After the two above tasks have been completed, MIP Editors will help assign a nu
 
 If all goes well, by the end of the process you will have contributed a piece of MakerDAO legislation. And that's the gist of it! 
 
-For a more detailed breakdown of the procedure, please read [MIP0c3](http://159.203.86.45:8000/mips/details/MIP0#mip0c3-the-mip-lifecycle).
+For a more detailed breakdown of the procedure, please read [MIP0c3](https://mips.makerdao.com/mips/details/MIP0#mip0c3-the-mip-lifecycle).
 
 ## Contact Information 
 
