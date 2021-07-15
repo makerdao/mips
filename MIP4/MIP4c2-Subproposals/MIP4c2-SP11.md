@@ -8,7 +8,7 @@ MIP to be Amended: MIP24
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
 Tags: mip-amendment, core-unit, emergency
-Status: Request For Comments (RFC)
+Status: RFC
 Date Proposed: 2021-01-18
 Date Ratified:
 Dependencies:
