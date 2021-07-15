@@ -132,18 +132,18 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
    - `Frozen Period`: 1 month.
 
    These periods can overlap. See `MIP0c1` for their definitions.
+   
+> Please note that the lenghts for these periods is conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md, more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
 
 4. **Fulfilled Feedback Period Requirements:** After the MIP has fulfilled the RFC phase, it is ready for Formal Submission.
 
-5. **Formal Submission (FS):** At this point, the MIP Author submits their MIP to the Governance Cycle by moving it to the [*Formal Submission* forum category](https://forum.makerdao.com/c/mips/fs/16) within the [formal submission window of a Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP16/mip16.md).
+5. **Formal Submission (FS):** At this point, the MIP Author submits their MIP to the Governance Cycle by moving it to the [*Formal Submission* forum category](https://forum.makerdao.com/c/mips/fs/16) within the [formal submission window of a Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md#mip51c1-governance-cycle-breakdown).
 
-6. **Approved by the Governance Facilitator(s):** The Governance Facilitators evaluate the MIP. If they approve it, the MIP will be entered in the inclusion poll of the Governance Cycle. If they do not, the MIP may be reconsidered to enter the Governance Cycle at a later date.
+6. **Approved by the Governance Facilitator(s):** The Governance Facilitators evaluate the MIP. If they do not approve it, the MIP may be reconsidered to enter the Governance Cycle at a later date.
 
-7. **Governance Cycle:** At this point, the proposal enters the Monthly Governance Cycle. See [MIP3](https://github.com/makerdao/mips/blob/master/MIP3/mip3.md) for further details.
+7. **Monthly Governance Cycle**: At this point, the proposal enters the [Monthly Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md).
 
-8. **Executive Vote:** The executive vote by MKR holders ultimately accepts or rejects the MIP.  
-
-9. **Accepted/Rejected:** If the executive vote passes, the MIP is officially accepted and is given the `Accepted` status. If not, the MIP is rejected.
+8. **Accepted/Rejected:** The MIP is voted on. If it passes, it is officially accepted and is given the `Accepted` status. If not, the MIP is rejected.
 
 #### Resubmission
 
