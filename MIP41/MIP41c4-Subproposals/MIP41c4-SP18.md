@@ -7,7 +7,7 @@ MIP41c4-SP#: 18
 Author(s): @sorenpeter  
 Contributors: @juanjuan
 Tags: dai-foundation, core-unit, daif-001, facilitator
-Status: Request For Comments (RFC)
+Status: RFC
 Date Applied: 2021-07-07
 Date Ratified: YYYY-MM-DD
 ```

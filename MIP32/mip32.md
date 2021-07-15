@@ -7,7 +7,7 @@ Title: Peg Stability Module - Compound Mixed Exposure
 Author(s): Alexis
 Contributors: None
 Type: Technical
-Status: Request for Comments (RFC)
+Status: RFC
 Date Proposed: 2020-12-18
 Date Ratified: <yyyy-mm-dd>
 Dependencies: PSM, Uniswap, Vat, Join Usdc-lendler, Join Dai-lendler 

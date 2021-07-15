@@ -7,7 +7,7 @@ MIP40c3-SP#: 24
 Author(s): @sorenpeter 
 Contributors: @juanjuan
 Tags: dai-foundation, core-unit, daif-001, budget
-Status: Request for Comments (RFC)
+Status: RFC
 Date Applied: 2021-07-07
 Date Ratified: YYYY-MM-DD
 ```
