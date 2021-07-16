@@ -93,6 +93,8 @@ The proposal parameters are:
 * Minimum feedback period: 1 month.
 * Minimum frozen period: 1 week.
 
+MIP40c3 subproposals must use the template located at [MIP40c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposal-Template.md)
+
 ---
 
 ### MIP40c4: Budget Implementation Details
