@@ -107,6 +107,8 @@ The proposal parameters are:
 
 Once a Subproposal passes, the MIP Editor or Governance Facilitators modify the Core Unit's entry specified with the new Facilitator's name and information, and the new Facilitator Commitment.
 
+MIP41c4 subproposals must use the template located at [MIP41c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposal-Template.md)
+
 ---
 
 ### MIP41c5: Facilitator offboarding
@@ -120,6 +122,8 @@ The proposal parameters are:
 * Minimum frozen period: 1 week
 
 Once a Subproposal passes, the MIP Editor or Governance Facilitators modify the Core Unit's entry specified by removing the Facilitator's name and information, and their Commitment.
+
+MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposal-Template.md)
 
 ---
 
