@@ -107,7 +107,7 @@ As the data shows, we experienced strong growth across the board. The tier distr
 
 Our team has been distributed mainly by geography, giving us a deep understanding of each region and developing closer connections with our partners. This is a brief overview of what we have done in each geography:
 
-#### **Latin America.**
+#### Latin America
 
 Latin America region is where organic growth is. We have seen two types of users of the Maker Protocol: crypto-native and the ones who are looking for options outside their local currency and the traditional financial system. In LatAm there are not that many DeFi projects as you may find in other geographies, but, as we have seen, there is a substantial user base who is willing to enter the crypto world to escape from their local financial constraints.
 
@@ -115,20 +115,20 @@ During the last years, we made an effort to integrate with as many on-off ramps 
 
 We also have been helping other crypto projects (like Argent, Binance P2P, Oasis.app, Status) to land in the region, explaining to them the situation of each country, making intros, and working with them on the best strategy to launch in Latam.
 
-#### **North America.**
+#### North America
 
 The North American market has experienced strong growth with a dedicated business development effort. To date, Dai is listed on leading US exchanges and platforms like Coinbase, Binance US, Kraken, and Uphold Finance, among others, with two more very notable platforms listing Dai this quarter. We recently added BitPay as a partner, currently with Dai available on their app, and their payment processing service later this month, making Dai available to merchants like Twitch, Microsoft and Newegg.
 
 We're also carving out the digital art/NFT vertical by cultivating relationships with nft platforms and artists and educating them on the values of Dai as a currency. One particular example of Dai involvement in the arts is with an upcoming integration with professional artist Micah Johsnon and his incredible piece “Bitcoin Birthday” (developed with Async Art), which illustrates the inequity of the traditional financial system for people of color in the US. We’re working with Micah Johnshon and Async Art to add Dai as a currency that people can donate to in this interactive artwork that has a fund for two children that are depicted in his work and who will receive funds donated on their 18th birthday. Bitcoin and Dai will be the only assets available to donate in. The statement is about sovereignty and open access to finance.
 
-#### **Asia.**
+#### Asia
 
 Asia is home to various Dai use cases ranging from DeFi dApps like Kyber Network and InstaDApp to dApp games like League of Kingdoms to major exchanges such as Binance, OKEx, and Upbit. Many of them integrated DSR, which allows users easy access to use DSR with their Dai. We are also working with multinational Korean corporation Kakao’s blockchain Klaytn. There are already 6.6 million Dai wrapped on Klaytn and they are used in its dApps such as KLAYswap.
 
-#### **Europe.**
+#### Europe
 
 The European market has been one of the most active regions for the business development team, with over 250 closed integrations. Close relationships with large companies like Wirex, Opera, Nexo and AAVE have helped fuel the growth of Dai in the European region. They represent millions of users on their platforms. The Gaming initiative was sprung out of a collaboration between regions, and enabled the team to work closely with brands such as Animoca Brands, Axie infinity and Decentraland.
 
-#### **Africa.**
+#### Africa
 
 In Africa the prime focus has been to build initial relationships and liquidity up. This is still a work in progress, but a detailed action plan is being made, with local resources expected to come into play over the next couple of months. This will enable the Growth team to help Dai liquidity being sourced from the global markets into the African continent. Enabling liquidity to push integrations with local partners. The team has showcased the success of the internal strategies by propelling Dai to be one of the top crypto currencies in LATAM. This approach will be replicated, tweaked to fit Africa, and then put into place to ensure Dai to be a top currency in the years to come. Opening up for DeFi and financial inclusion for Africa.

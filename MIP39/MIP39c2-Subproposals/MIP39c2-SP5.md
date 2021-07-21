@@ -18,7 +18,7 @@ MIP39c2-SP5 adds Core Unit MKT-001: Content Production.
 
 ## Specification
 
-### **Motivation**
+### Motivation
 
 MakerDAO needs a Core Unit responsible for the content produced by the DAO.
 
@@ -26,15 +26,15 @@ A content-focused Core Unit will enable other Core Units and the DAO itself to e
 
 The Maker ecosystem is full of stories that deserve to be told and by providing interested audiences with educational and entertaining stories, the Content Production Core Unit will provide an ongoing stream of opportunities for people to engage with MakerDAO.
 
-### **Core Unit Name**
+### Core Unit Name
 
 * Content Production Core Unit
 
-### **Core Unit Facilitator/s**
+### Core Unit Facilitator/s
 
-### Seth Goldfarb
+Seth Goldfarb.
 
-### **Core Unit Mandate**
+### Core Unit Mandate
 
 The Content Production core unit will be responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
 
@@ -44,7 +44,7 @@ The goals of the Content Production core unit will be to:
 * Produce entertaining and educational content that promotes engagement with Dai and the Maker Protocol.
 * Produce promotional content for other Core Units and provide resources to educate the ecosystem on best practices in content production and distribution.
 
-### **Roadmap**
+### Roadmap
 
 The primary focus of our first three months will be to
 
@@ -77,70 +77,30 @@ During this period, team members will continue lending support to projects like:
 * Provide feedback to RFC on the budget proposal
 * Continue producing content and reporting results
 
-### **Team Structure**
+### Team Structure
 
 This unit will consist of a small team capable of facilitating the production of written, audio, and video content as well as infographics in collaboration with the Design Core Unit.
 
 Accountability will be demonstrated through regular updates on goals and KPIs.
 
-<table>
-  <tr>
-   <td><strong>Title</strong>
-   </td>
-   <td><strong>Commitment</strong>
-   </td>
-   <td><strong>Name</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Facilitator / Content
-   </td>
-   <td>Full-time
-   </td>
-   <td>Seth Goldfarb
-   </td>
-  </tr>
-  <tr>
-   <td>Audio Engineer / Podcast Producer
-   </td>
-   <td>Full-time
-   </td>
-   <td>Jerry Goldfarb
-   </td>
-  </tr>
-  <tr>
-   <td>SEO & Writer
-   </td>
-   <td>Part-time
-   </td>
-   <td>Tom DeMichele
-   </td>
-  </tr>
-  <tr>
-   <td>Video Production
-   </td>
-   <td>Full-time
-   </td>
-   <td>TBD
-   </td>
-  </tr>
-  <tr>
-   <td>2x Writers
-   </td>
-   <td>Full-time
-   </td>
-   <td>TBD
-   </td>
-  </tr>
-</table>
+| Half     | Vesting Date     | Max MKR total (if 100% objectiveDS)     |
+|---|---|---|
+| H2 2021     |  January 1 2022      |  0      |
+| H1 2022     |  July 1 2022      |  396      |
+| H2 2022     |  January 1 2023      |  264      |
+| H1 2023     |  July 1 2023      |  396      |
+| H2 2023     |  January 1 2024      |  264      |
+| H1 2024     |  July 1 2024      |  396      |
+| H2 2024     |  December 31 2024      |  264      |
+|      |  **Total MKR**      |  **1980**      |
 
-### **Legal Structure**
+### Legal Structure
 
 * Delaware-based S-Corp
 * Contributors will be employees unless they prefer to freelance.
 * Payments not yet decided. Considering Opolis or the Keg
 
-### **Team Credentials**
+### Team Credentials
 
 Members of this team bring expertise in content marketing and production, audio engineering, and SEO. 
 
@@ -158,6 +118,3 @@ You can see this team’s work for MakerDAO in:
 * The [Community Portal](https://community-development.makerdao.com/en/)
 * Maker Relay ([Written](https://forum.makerdao.com/tag/maker-relay) and [Audio](https://anchor.fm/voicesofmkr/))
 * Stats on the State of Maker Summaries
-
-[Budget proposal](https://forum.makerdao.com/t/mip40c2-sp5-core-unit-budget-mkt-001/6824)
-[Facilitator Onboarding proposal](https://forum.makerdao.com/t/mip41c4-sp5-facilitator-onboarding-mkt-001/6825)
