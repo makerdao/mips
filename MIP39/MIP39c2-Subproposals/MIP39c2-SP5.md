@@ -44,7 +44,7 @@ The goals of the Content Production core unit will be to:
 * Produce entertaining and educational content that promotes engagement with Dai and the Maker Protocol.
 * Produce promotional content for other Core Units and provide resources to educate the ecosystem on best practices in content production and distribution.
 
-### **Roadmap**
+### Roadmap
 
 The primary focus of our first three months will be to
 
