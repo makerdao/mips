@@ -9,6 +9,10 @@
     Declaration Statement: Onboarding a new collateral type backed by B.Protocol v2.
     Declaration to Replace: n/a
 
+## Sentence Summary
+
+MIP13c3-SP11 is the Declaration of Intent to experiment a native integration with B.Protocol's V2. Namely, to on-board a new collateral that gives a priority in liquidations to B.Protocol.
+
 ## Specification
 
 ### Context and Motivation

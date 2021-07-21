@@ -10,7 +10,7 @@ Contributors: @LongForWisdom, @JuanJuan
 Tags: mip-amendment, mip-set
 Status: Accepted
 Date Proposed: 2021-02-26
-Date Ratified: 2021-03-25
+Date Ratified: 2021-04-27
 ```
 
 ## Sentence Summary

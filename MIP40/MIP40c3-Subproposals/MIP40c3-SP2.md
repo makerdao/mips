@@ -18,15 +18,15 @@ MIP40c3-SP2 adds the budget for Core Unit RISK-001: Risk.
 
 ## Specification
 
-## Motivation
+### Motivation
 
 Remuneration for the [Risk Core Unit](https://forum.makerdao.com/t/mip39c2-sp2-adding-risk-core-unit/6342).
 
-## Core Unit Name
+### Core Unit Name
 
 Risk Core Unit
 
-## List of Budget Implementations
+### List of Budget Implementations
 
 This budget implementation uses the Manual Budget Implementations, the Simple one, or any other method achieving the same result at the discretion of the Governance Facilitators.
 
@@ -37,9 +37,9 @@ This budget implementation uses the Manual Budget Implementations, the Simple on
 
 We intend to “invoice” the protocol on a monthly basis (first week of the month). This follows Simple implementation logic where through recurrent suck () calls Core Unit Facilitator requests for monthly funds to finance its team.
 
-## Budget Breakdown / Items
+### Budget Breakdown / Items
 
-### Team costs
+#### Team costs
 
 Team currently consists of 2 full time members, 5 part time members covering various risk related fields and at least 3 part time collateral onboarding evaluators:
 
@@ -54,19 +54,19 @@ Team currently consists of 2 full time members, 5 part time members covering var
 * Andrej Marolt (@indy), part time - Collateral evaluations
 * Will Remor (@williamr), part time - Collateral evaluations
 
-### Tooling
+#### Tooling
 
 * AWS
 * Infura
 * Subscriptions to off-chain data APIs
 
-### Operations
+#### Operations
 
 * Company administration
 * Flights, conferences, etc.
 * Legal costs
 
-### Grants
+#### Grants
 
 * Risk tools development to attract new members
 * Smaller tasks
@@ -83,7 +83,9 @@ The monthly amount is based on quarterly budget. We believe we can reasonably es
 
 Breakdown:
 
-* Team Costs        78% / 78,000 DAI
-* Tooling                 5% / 5,000 DAI
-* Operations           5% / 5,000 DAI
-* Grants                 12% / 12,500 DAI
+| Item | Percentage | Amount |
+|--|--|--|
+|Team Costs|78%|78,000 Dai|
+|Tooling|5%|5,000 Dai|
+|Operations|5%|5,000 Dai|
+|Grants|12%|12,500 Dai|

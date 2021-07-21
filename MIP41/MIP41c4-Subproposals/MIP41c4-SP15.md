@@ -12,6 +12,10 @@ Date Applied: 2021-06-08
 Date Ratified: <yyyy-mm-dd>
 ```
 
+## Sentence Summary
+
+MIP41c4-SP15 onboards Kathleen Chu as Facilitator for the Strategic Marcomms Core Unit (CPM-001).
+
 ## Specification
 
 ### Motivation
