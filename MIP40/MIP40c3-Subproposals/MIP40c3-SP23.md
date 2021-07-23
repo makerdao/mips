@@ -1,10 +1,12 @@
+# MIP40c3-SP23: Modify Core Unit Budget (MKR) - Growth (GRO-001)
+
 ## Preamble
 
 ```
 MIP40c3-SP#: 23
 Author(s): @Nadia
 Contributors:
-tags: core-unit, gro-001
+tags: core-unit, gro-001, budget, mkr-budget
 Status: RFC
 Date Applied: 2021-07-07
 Date Ratified: N/A

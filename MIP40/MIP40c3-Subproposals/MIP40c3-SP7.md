@@ -1,4 +1,4 @@
-# MIP40c3-SP7: Modify Protocol Engineering Core Unit Budget
+# MIP40c3-SP7: Modify Core Unit Budget - Protocol Engineering (PE-001)
 
 ## Preamble
 

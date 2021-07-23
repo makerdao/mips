@@ -1,4 +1,4 @@
-# MIP40c3-SP8: Modify Core Unit Budget, COM-001
+# MIP40c3-SP8: Modify Core Unit Budget - Governance Communications (COM-001)
 
 ## Preamble
 

@@ -1,4 +1,4 @@
-# MIP40c3-SP13: Modify Core Unit Budget, RISK-001
+# MIP40c3-SP13: Modify Core Unit Budget - Risk (RISK-001)
 
 ## Preamble
 

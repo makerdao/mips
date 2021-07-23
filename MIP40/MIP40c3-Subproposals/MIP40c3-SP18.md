@@ -1,4 +1,4 @@
-# MIP40c3-SP18: Add Core Unit Budget, CPM-001
+# MIP40c3-SP18: Add Core Unit Budget - Strategic Marcomms (CPM-001)
 
 ## Preamble
 
