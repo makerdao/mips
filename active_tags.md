@@ -36,6 +36,7 @@
 | mips | MIPs about the MIP Framework itself |
 | mip-set | MIPs that belong to a(ny) MIP Set |
 | mkr |  |
+| mkr-budget | MIP40c3 SPs that implement an MKR incentive plan |
 | module |  |
 | operational-support |  |
 | oracle-offboarding |  |
