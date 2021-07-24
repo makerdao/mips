@@ -1,3 +1,5 @@
+# MIP13c3-SP11: Declaration of Intent - Onboarding a new collateral type backed by B.Protocol v2
+
 ## Preamble
 
     MIP13c3-SP#: 11
