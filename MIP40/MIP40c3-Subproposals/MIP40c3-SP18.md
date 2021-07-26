@@ -7,7 +7,7 @@ MIP40c3-SP#: 18
 Author: Kathleen Chu 
 Contributors: @HBJ, @AdrienDLT, Francesco Alberti, Kaori Sato, @Sahabia, Jose Vicente
 tags: core-unit, cu-cpm-001, budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-06-08
 Date Ratified: <yyyy-mm-dd>
 ```  

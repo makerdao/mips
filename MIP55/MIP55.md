@@ -9,9 +9,9 @@ Author(s): @amyjung
 Contributors: @LongForWisdom @SebVentures
 Tags:
 Type: General
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-06-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-07-26
 Dependencies: n/a
 Replaces: n/a
 ```

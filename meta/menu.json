@@ -2,7 +2,7 @@
     "data": [
         {
             "id": "learn",
-            "name": "Learn MIPs",
+            "name": "Learn",
             "children": [
                 {
                     "id": "portaldoc",
@@ -29,6 +29,22 @@
                     "id": "allcus",
                     "name": "All (MIP38c2: Core Unit State)",
                     "href": "https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state"
+                },
+                {
+                    "id": "com-001",
+                    "name": "COM-001: Governance Communications",
+                    "children": [
+                        {
+                            "id": "com-001-active",
+                            "name": "Subproposals in Force",
+                            "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-com-001,%20%23active)&subproposalsMode=true"
+                        },
+                        {
+                            "id": "mkt-001-inactive",
+                            "name": "Archive",
+                            "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23cu-com-001,%20NOT(%23active))&subproposalsMode=true"
+                        }
+                    ]
                 },
                 {
                     "id": "mkt-001",
@@ -178,7 +194,7 @@
         },
         {
             "id": "technical",
-            "name": "Technical MIPs",
+            "name": "Technical",
             "children": [
                 {
                     "id": "implemented",
@@ -194,7 +210,7 @@
         },
         {
             "id": "process",
-            "name": "MIPs with Process Components",
+            "name": "Processes",
             "href": "https://mips.makerdao.com/mips/list?&search=$%20%23process"
         },
         {

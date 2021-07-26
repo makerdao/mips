@@ -7,7 +7,7 @@ MIP39c2-SP#: 12
 Author(s): @monkey.irish
 Contributors:
 Tags: core-unit, cu-ces-001, mandate
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
 ```

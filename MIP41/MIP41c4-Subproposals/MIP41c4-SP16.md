@@ -11,7 +11,7 @@ MIP41c4-SP#: 16
 Author(s): @mitchell_amazix
 Contributors: N/A
 Tags: core-unit, cu-amzx-001, facilitator
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-06-09
 Date Ratified:
 ```

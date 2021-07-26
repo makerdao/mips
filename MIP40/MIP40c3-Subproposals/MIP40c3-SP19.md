@@ -6,10 +6,10 @@
 MIP40c3-SP#: 19
 Author(s): @Nadia
 Contributors:
-tags: core-unit, cu-gro-001, budget
-Status: Formal Submission
+tags: core-unit, cu-gro-001, budget, active
+Status: Accepted
 Date Applied: 2021-06-08
-Date Ratified: N/A
+Date Ratified: 2021-07-26
 ```
 
 ## Sentence Summary
