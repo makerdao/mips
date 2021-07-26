@@ -8,9 +8,9 @@ Title: Dispute Resolution
 Author(s): Gregory Di Prisco (g_dip)
 Contributors: None
 Type: General
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-05-04
-Date Ratified: n/a
+Date Ratified: 2021-07-26
 Dependencies: MIP3c1
 Replaces: n/a
 ```
