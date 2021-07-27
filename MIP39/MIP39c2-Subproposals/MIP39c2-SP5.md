@@ -83,16 +83,13 @@ This unit will consist of a small team capable of facilitating the production of
 
 Accountability will be demonstrated through regular updates on goals and KPIs.
 
-| Half     | Vesting Date     | Max MKR total (if 100% objectiveDS)     |
+| Title        | Commitment        | Name        |
 |---|---|---|
-| H2 2021     |  January 1 2022      |  0      |
-| H1 2022     |  July 1 2022      |  396      |
-| H2 2022     |  January 1 2023      |  264      |
-| H1 2023     |  July 1 2023      |  396      |
-| H2 2023     |  January 1 2024      |  264      |
-| H1 2024     |  July 1 2024      |  396      |
-| H2 2024     |  December 31 2024      |  264      |
-|      |  **Total MKR**      |  **1980**      |
+| Facilitator / Content        | Full-time        | Seth Goldfarb        |
+| Audio Engineer / Podcast Producer        | Full-time        | Jerry Goldfarb        |
+| SEO & Writer        | Part-time        | Tom DeMichele        |
+| Video Production        | Full-time        | TBD        |
+| 2x Writers        | Full-time        | TBD        |
 
 ### Legal Structure
 
