@@ -1,4 +1,4 @@
-# MIP40c3-SP3: Core Unit Budget - GOV-001
+# MIP40c3-SP3: Core Unit Budget - GovAlpha (GOV-001)
 
 ## Preamble
 

@@ -7,7 +7,7 @@ Author(s): Harry Denley
 Contributors: Jordan Spence, Mia Alexander
 Type: Process Component
 Tags: oracles
-Status: Proposed
+Status: RFC
 Date Proposed: 2020-07-13
 Date Ratified:
 ``` 

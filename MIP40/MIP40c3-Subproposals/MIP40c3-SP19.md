@@ -1,4 +1,4 @@
-# MIP40c3-SP19: Growth Core Unit Budget, GRO-001
+# MIP40c3-SP19: Modify Core Unit Budget - Growth (GRO-001)
 
 ## Preamble
 

@@ -1,4 +1,4 @@
-# MIP40c3-SP22: Modify Maker Portfolio Core Unit Budget
+# MIP40c3-SP22: Modify Core Unit Budget - Maker Portfolio (MPCU-001)
 
 ## Preamble
 
@@ -6,6 +6,7 @@
 MIP40c3-SP#: 22
 Author(s): PaperImperium
 Contributors: N/A
+Tags: core-unit, cu-mpcu-001, budget
 Status: RFC
 Date Applied: 2021-06-28
 Date Ratified: 

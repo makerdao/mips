@@ -1,4 +1,4 @@
-# MIP40c3-SP21: Modify Core Unit Budget, MKT-001
+# MIP40c3-SP21: Modify Core Unit Budget - Content Production (MKT-001)
 
 ## Preamble
 

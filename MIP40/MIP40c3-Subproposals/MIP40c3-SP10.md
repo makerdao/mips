@@ -1,4 +1,4 @@
-# MIP40c3-SP10: Modify Core Unit Budget
+# MIP40c3-SP10: Modify Core Unit Budget - Sustainable Ecosystem Scaling (SES-001)
 
 ## Preamble
 

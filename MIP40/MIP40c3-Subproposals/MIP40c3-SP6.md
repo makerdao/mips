@@ -1,4 +1,4 @@
-# MIP40c3-SP6: MakerDAO Shop Budget, MDS-001
+# MIP40c3-SP6: Modify Core Unit Budget - MakerDAO Shop (MDS-001)
 
 ## Preamble
 

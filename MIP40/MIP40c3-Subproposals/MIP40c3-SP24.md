@@ -1,4 +1,4 @@
-# MIP40c3-SP24: Modify Dai Foundation Core Unit Budget
+# MIP40c3-SP24: Modify Core Unit Budget - Dai Foundation (DAIF-001)
 
 ## Preamble
 

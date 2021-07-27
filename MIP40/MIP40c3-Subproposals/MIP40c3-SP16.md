@@ -1,4 +1,4 @@
-# MIP40c3-SP16: The Strategic Happiness Core Unit Budget, SH-001
+# MIP40c3-SP16: Modify Core Unit Budget - Strategic Happiness (SH-001)
 
 ## Preamble
 

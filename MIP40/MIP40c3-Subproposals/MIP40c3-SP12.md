@@ -1,4 +1,4 @@
-# MIP40c3-SP12: Modify Core Unit Budget, RWF-001
+# MIP40c3-SP12: Modify Core Unit Budget - Real-World Finance (RWF-001)
 
 ## Preamble
 
