@@ -72,7 +72,7 @@ Following an approved Governance action that involves a newly recognized Multi-S
 
 This listing is to be maintained and updated by the Governance Facilitators. It will serve as an active registry of approved Multi-Sigs.
 
-**Entries into this list should follow the following template:**
+**Entries into this list should contain the following information:**
 
 ```
 Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
@@ -80,6 +80,12 @@ Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
 - Address: Public wallet address of Multi-Sig
 - Date Added: (yyyy-mm-dd)
 ```
+| **Group Name**               | **Contact**    | **Wallet Address**                                                                                                                   | **Date Added** |
+|------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| Real-World Finance Core Unit | @SebVentures   | [0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09](https://gnosis-safe.io/app/#/safes/0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09/balances) | 2021-04-13     |
+| GovAlpha Core Unit           | @LongForWisdom | [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/#/safes/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances) | 2021-05-24     |
+| Content Production Core Unit | @Seth          | [0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60](https://gnosis-safe.io/app/#/safes/0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60/balances) | 2021-05-29     |
+| Oracles Core Unit            | @NikKunkel     | [0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf](https://gnosis-safe.io/app/#/safes/0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf/balances) | 2021-06-17     |
 
 ### MIP47c3: Dissolution of Multi-Sig
 
