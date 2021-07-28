@@ -32,13 +32,8 @@
                 },
                 {
                     "id": "activedaibudgets",
-                    "name": "All Active DAI Budgets",
-                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23budget,%20NOT(%23mkr-budget))"
-                },
-                {
-                    "id": "activemkrbudgets",
-                    "name": "All Active MKR Budgets",
-                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23mkr-budget)"
+                    "name": "All Active Budgets",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23budget)"
                 },
                 {
                     "id": "com-001",
