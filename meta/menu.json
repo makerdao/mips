@@ -31,6 +31,16 @@
                     "href": "https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state"
                 },
                 {
+                    "id": "activedaibudgets",
+                    "name": "All Active DAI Budgets",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23budget,%20NOT(%23mkr-budget))"
+                },
+                {
+                    "id": "activemkrbudgets",
+                    "name": "All Active MKR Budgets",
+                    "href": "https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23mkr-budget)"
+                },
+                {
                     "id": "com-001",
                     "name": "COM-001: Governance Communications",
                     "children": [

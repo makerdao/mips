@@ -6,7 +6,7 @@
 MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
-Tags: smart-contracts, core-unit, cu-pe-001, budget, active
+Tags: smart-contracts, core-unit, cu-pe-001, budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27
