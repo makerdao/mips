@@ -24,7 +24,7 @@ To fulfill the mandate of the Content Production Core Unit.
 
 ### Core Unit
 
-Content Production (MKR-001)
+Content Production (MKT-001)
 
 ### Quarterly Focus
 
