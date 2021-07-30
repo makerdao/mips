@@ -6,7 +6,6 @@
 MIP39c2-SP#: 16
 Author(s): PaperImperium
 Contributors:
-Tags: core-unit, cu-mpcu-001, mandate
 Status: RFC
 Date Applied: 2021-06-28
 Date Ratified:
@@ -14,17 +13,17 @@ Date Ratified:
 
 ## Sentence Summary
 
-Add a Maker Portfolio Core Unit to build a portfolio of publicly traded, real-world financial assets that the Maker Protocol can be exposed to.
+Add a Maker Portfolio Core Unit to build a portfolio of publicly traded, real-world financial assets that the Maker Protocol can be exposed to with the primary goal of diversifying Maker's dollar-equivalent reserves away from just the PSM.
 
 ## Paragraph Summary
 
-The Maker Portfolio Core Unit (MPCU) will be tasked with creating and onboarding partnered legal entities that can provide the Maker Protocol with exposure to securities of its choice. The MPCU's role is to find and implement legal, low-effort workarounds for Maker's inability to join legal agreements or pass KYC requirements of counterparties. The MPCU's priorities will be to safely scale upwards the supply of DAI, lock in long-term and predictable revenues for the protocol, and generate goodwill through a substantial charitable giving component as part of its tax mitigation strategy.
+The Maker Portfolio Core Unit (MPCU) will be tasked with creating and onboarding partnered legal entities that can provide the Maker Protocol with exposure to securities of its choice as a means of diversifying our dollar-equivalent reserves collected by the PSM. The MPCU's role is to find and implement legal, low-effort workarounds for Maker's inability to join legal agreements or pass KYC requirements of counterparties. The MPCU's primary goal is to be a way to drain/refill the PSM facility to minimize the risks of holding undiversified, zero-yielding proxies for dollars in the form of fiat-backed stablecoins (currency only USDC). Secondary goals are to provide regularly scheduled revenue to the protocol and generate goodwill while we integrate with the real-world financial markets.
 
 ## Statement of Problem
 
-Maker currently struggles with complexity in the legal frontier of offering financing against real world assets. This slows the onboarding process, and scale is hard to achieve while simultaneously minimizing risk.
+Core to Maker's success is its commitment to -- and successful maintenance -- of the fixed exchange rate of 1 DAI for 1 USD. Because this commitment is paired with the free flow of capital into and out of DAI, Maker has little direct control over the size of the DAI supply. When capital inflows are large because DAI is desired, the PSM is currently the main method of keeping the fixed rate of exchange at 1 USD per 1 DAI. 
 
-While multiple structures for financing real-world customers are tried and refined, Maker has simpler, more direct tools for investing on its own behalf. These will be the focus of the MPCU.
+While this mechanically works very well, the PSM has shown an ability to accumulate enough of a dollar-proxy (currently USDC) that can present credit risks and negative PR. The Maker Portfolio Core Unit (MPCU) will facilitate the diversification of those holdings, so that when the PSM has excess liquidity or so much of a single asset as to present risks to the protocol, those holdings can be deployed into actual dollars instead of just on-chain proxies. Alternatively, if the PSM is in need of an additional liquidity buffer to defend the exchange rate, real-world dollars and dollar-equivalents can be wound down to refill the PSM.
 
 ## Strategy
 
@@ -32,19 +31,21 @@ The MPCU will utilize simple legal structures to give Maker exposure to assets i
 
 Initially, this will take the form of creating charitable trusts, which will only be allowed to operate in a prescribed manner. These trusts will be a "captive" customer that Maker can create and establish rules for, ensuring that interests are aligned and minimal monitoring is required.
 
-The initial approach is that for each investment, a trust will be formed with a charity named as the beneficiary. That trust will be allowed to borrow from a vault created for a token only that trust will have. The trust then takes the DAI, converts to USD on the open market, and proceeds to have a broker purchase securities for the trust. The stability fee for the vault will be less than the yield on the security, thereby leaving some profit for the trust, which will then be donated in full to a named charity, removing any tax liability. The trust will be able to pass KYC requirements to purchase securities through standard brokerages, but will not be required to KYC Maker in turn through the characterization of its financing through one of several possible methods (just as Nexo does not need to send Maker a 1099 or perform KYC).
+The initial approach is that for each lot of securities, a trust will be formed with a charity named as the beneficiary. That trust will be allowed to borrow from a vault created for a token only that trust will have, or some similar structure. The trust then takes the DAI, converts to USD on the open market, and proceeds to have a broker purchase securities for the trust. The stability fee for the vault will be less than the yield on the security, thereby leaving some profit for the trust, which will then be donated in full to a named charity, removing any tax liability. The trust will be able to pass KYC requirements to purchase securities through standard brokerages, but will not be required to KYC Maker in turn through the characterization of its financing through one of several possible methods (just as Nexo does not need to send Maker a 1099 or perform KYC).
 
 Each trust will only purchase one batch of securities, and proceed to hold them to maturity, providing both Maker and the charity beneficiary with predicable, regularly scheduled income. It should also generate good PR and general goodwill through Maker's charitable givings. Any subsequent desired exposure by Maker -- even to the same securities -- will likely be done through a new trust, as the instructions are unlikely to be alterable after its creation.
 
-**This strategy represents only the initial phase of the MPCU, and will evolve as new legal opportunities present themselves ([such as this one in Nebraska](https://nebraskalegislature.gov/FloorDocs/107/PDF/Slip/LB649.pdf)) and as Maker grows confident it can invest in higher-yielding -- but still very safe -- securities.**
+This strategy represents only the initial phase of the MPCU, and will evolve as new legal opportunities present themselves ([such as this one in Nebraska](https://nebraskalegislature.gov/FloorDocs/107/PDF/Slip/LB649.pdf)) and as Maker grows confident it can invest in higher-yielding -- but still very safe -- securities.
 
-It is estimated that as long as the DAI<>USD peg holds, Maker can take up to 5% of the $21 trillion market for US Treasury obligations within 5 years. There are also opportunities in other ultra-safe, dollar-denominated, fixed-maturity securities.
+The issuance and sale of DAI on the open market at scale should exert downward pressure on the peg, thereby indirectly transferring liquidity from the PSM to the securities purchased by Maker's charitable trusts. Even if liquidity is not removed from the PSM, the use of these trusts should lower the amount of liquidity that would have otherwise entered the PSM.
 
-It should be noted that this structure will not meet the needs of the market being addressed by the RWF unit or the RWA Company, which require much more oversight and complexity to both monitor the collaterals, satisfy borrower demand, and minimize tax events for profit-seeking entities. The MPCU will only oversee investments directed at publicly traded securities, and will not include private securities in its mandate. There is no envisioned overlap between MPCU and RWF in terms of universe of investable assets.
+It should be noted that this structure is unlikely meet the needs of the market being addressed by the RWF unit or the RWA Company, which require much more oversight and complexity to both monitor the collaterals, satisfy borrower demand, and minimize tax events for profit-seeking entities. The MPCU will only oversee investments directed at publicly traded securities, and will not include private securities in its mandate. There is no envisioned overlap between MPCU and RWF in terms of universe of investable assets. 
+
+**The primary focus of the MPCU is to reduce risks associated with undiversified reserves holdings, with secondary focus on yield, and tertiary focus on charitable contributions**
 
 ## Unit Structure
 
-This team will initially include a single individual (the facilitator). No further full or part-time employees are currently planned. Legal and accounting expertise will be outsourced to full-time practitioners.
+This team will initially include a single individual (the facilitator). No further full or part-time employees are currently planned. Legal and accounting expertise will be outsourced to full-time practitioners. **This CU will not handle invested funds or control investment decisions, as that would centralize too much control over large sums of money.**
 
 ## Core Unit Mandate
 
