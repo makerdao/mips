@@ -1,4 +1,4 @@
-# MIP39c2-SP16 adds Core Unit DAIF-001: Dai Foundation
+# MIP39c2-SP16: Adding Maker Portfolio Core Unit - MPCU-001
 
 ## Preamble
 
@@ -6,6 +6,7 @@
 MIP39c2-SP#: 16
 Author(s): PaperImperium
 Contributors:
+Tags: core-unit, cu-mpcu-001, mandate
 Status: RFC
 Date Applied: 2021-06-28
 Date Ratified:
