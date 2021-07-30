@@ -6,7 +6,7 @@
 MIP40c3-SP#: 22
 Author(s): PaperImperium
 Contributors: N/A
-Tags: core-unit, cu-mpcu-001, budget
+Tags: core-unit, cu-mpcu-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-06-28
 Date Ratified: 
