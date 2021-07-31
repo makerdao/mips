@@ -5,7 +5,7 @@
 ```
 MIP40c2-SP#: 9
 Author(s): Kathleen Chu
-Tags: core-unit, cu-cpm-001, budget
+Tags: core-unit, cu-cpm-001, budget, dai-budget
 Status: Rejected
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>

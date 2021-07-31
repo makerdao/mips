@@ -6,7 +6,7 @@
 MIP40c3-SP#: 8
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, cu-com-001, budget, active
+Tags: core-unit, cu-com-001, budget, dai-budget, active
 Status: Accepted
 Date Applied: 2021-03-12
 Date Ratified: 2021-07-26

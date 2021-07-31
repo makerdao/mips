@@ -67,9 +67,20 @@
                "href":"https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state"
             },
             {
-               "id":"activedaibudgets",
-               "name":"All Active Budgets",
-               "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23budget)"
+               "id":"activebudgets",
+               "name":"Active Budgets",
+               "children":[
+                 {
+                   "id":"daibudgets",
+                   "name":"DAI Budgets",
+                   "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23dai-budget)"
+                 },
+                 {
+                   "id":"mkrbudgets",
+                   "name":"MKR Budgets",
+                   "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23mkr-budget)"
+                 }
+               ]
             },
             {
                "id":"com-001",
