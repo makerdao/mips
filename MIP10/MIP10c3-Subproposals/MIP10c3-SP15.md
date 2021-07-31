@@ -24,50 +24,50 @@ This Oracle would provide the UNI/USD price as part of the collateral onboarding
 
 ### Oracle Data Model 
 
-    |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-    | :----------- | :------------ | :---: | :---------: | :----------: |
-    |    Binance   |    UNI/BTC    |   13  |    Median   |    Median    |
-    |    Coinbase  |    UNI/USD    | 
-    |      FTX     |    UNI/USD    |
-    |     Huobi    |    UNI/USDT   |
-    |      OKEx    |    UNI/USDT   |
-    |    Uniswap   |    UNI/ETH    |
+|    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
+| :----------- | :------------ | :---: | :---------: | :----------: |
+|    Binance   |    UNI/BTC    |   13  |    Median   |    Median    |
+|    Coinbase  |    UNI/USD    | 
+|      FTX     |    UNI/USD    |
+|     Huobi    |    UNI/USDT   |
+|      OKEx    |    UNI/USDT   |
+|    Uniswap   |    UNI/ETH    |
 
 
 ### Oracle Supporting Data Model(s)
 
- **BTC/USD (canonical)**
+**BTC/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Bitstamp    |    BTC/USD    |    Median    |
-    |   Bittrex     |    BTC/USD    |              |
-    |   Coinbase    |    BTC/USD    |              |
-    |   Gemini      |    BTC/USD    |              |
-    |   Kraken      |    BTC/USD    |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Bitstamp    |    BTC/USD    |    Median    |
+|   Bittrex     |    BTC/USD    |              |
+|   Coinbase    |    BTC/USD    |              |
+|   Gemini      |    BTC/USD    |              |
+|   Kraken      |    BTC/USD    |              |
 
 
  **ETH/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Binance     |    ETH/USD    |    Median    |
-    |   Bitfinex    |    ETH/USDT   |              |
-    |   Bitstamp    |    ETH/USD    |              |
-    |   Coinbase    |    ETH/USD    |              |
-    |   Gemini      |    ETH/USD    |              |
-    |   Kraken      |    ETH/USD    |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Binance     |    ETH/USD    |    Median    |
+|   Bitfinex    |    ETH/USDT   |              |
+|   Bitstamp    |    ETH/USD    |              |
+|   Coinbase    |    ETH/USD    |              |
+|   Gemini      |    ETH/USD    |              |
+|   Kraken      |    ETH/USD    |              |
 
 **USDT/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Binance     |    BTC/USDT   |    Median    |
-    |   BitFinex    |    USDT/USD   |              |
-    |   FTX         |    ETH/USDT   |              |
-    |   Huobi       |    ETH/USDT   |              |
-    |   Kraken      |    USDT/USD   |              |
-    |   OKEx        |    BTC/USDT   |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Binance     |    BTC/USDT   |    Median    |
+|   BitFinex    |    USDT/USD   |              |
+|   FTX         |    ETH/USDT   |              |
+|   Huobi       |    ETH/USDT   |              |
+|   Kraken      |    USDT/USD   |              |
+|   OKEx        |    BTC/USDT   |              |
 
 ### Oracle Address
 - Medianizer - Mainnet TBD

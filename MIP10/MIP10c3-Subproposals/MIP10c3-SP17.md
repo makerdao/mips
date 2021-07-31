@@ -25,13 +25,13 @@ This Oracle would provide the RenBTC/USD price as part of the collateral onboard
 
  **BTC/USD (canonical)**
 
-    |    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-    | :------------ | :------------ | :---: | :---------: | :----------: | 
-    |   Bitstamp    |    BTC/USD    |   13  |   Median    |    Median    |
-    |   Bittrex     |    BTC/USD    |
-    |   Coinbase    |    BTC/USD    |
-    |   Gemini      |    BTC/USD    |
-    |   Kraken      |    BTC/USD    |
+|    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
+| :------------ | :------------ | :---: | :---------: | :----------: | 
+|   Bitstamp    |    BTC/USD    |   13  |   Median    |    Median    |
+|   Bittrex     |    BTC/USD    |
+|   Coinbase    |    BTC/USD    |
+|   Gemini      |    BTC/USD    |
+|   Kraken      |    BTC/USD    |
 
 
 ### Oracle Supporting Data Model(s)

@@ -57,27 +57,26 @@ Substitute of (3), (4) and (7) gives us the following model for calculating the 
 
 ### Oracle Supporting Data Model(s)
 
- **ETH/USD (canonical)**
+**ETH/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Binance     |    ETH/USD    |    Median    |
-    |   Bitfinex    |    ETH/USDT   |              |
-    |   Bitstamp    |    ETH/USD    |              |
-    |   Coinbase    |    ETH/USD    |              |
-    |   Gemini      |    ETH/USD    |              |
-    |   Kraken      |    ETH/USD    |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Binance     |    ETH/USD    |    Median    |
+|   Bitfinex    |    ETH/USDT   |              |
+|   Bitstamp    |    ETH/USD    |              |
+|   Coinbase    |    ETH/USD    |              |
+|   Gemini      |    ETH/USD    |              |
+|   Kraken      |    ETH/USD    |              |
 
- **WBTC/USD (canonical)**
+**WBTC/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Bitstamp    |    BTC/USD    |    Median    |
-    |   Bittrex     |    BTC/USD    |              |
-    |   Coinbase    |    BTC/USD    |              |
-    |   Gemini      |    BTC/USD    |              |
-    |   Kraken      |    BTC/USD    |              |
-
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Bitstamp    |    BTC/USD    |    Median    |
+|   Bittrex     |    BTC/USD    |              |
+|   Coinbase    |    BTC/USD    |              |
+|   Gemini      |    BTC/USD    |              |
+|   Kraken      |    BTC/USD    |              |
 
 ### Oracle Address
 - Mainnet - UniV2LpOracle - TBD

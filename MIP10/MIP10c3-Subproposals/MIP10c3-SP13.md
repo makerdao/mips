@@ -24,9 +24,9 @@ This Oracle would provide the GUSD/USD price as part of the collateral onboardin
 
 ### Oracle Data Model 
 
-    |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-    | :----------- | :------------ | :---: | :---------: | :----------: |
-    |       1      |    GUSD/USD   |  N/A  |      N/A    |      N/A     |
+|    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
+| :----------- | :------------ | :---: | :---------: | :----------: |
+|       1      |    GUSD/USD   |  N/A  |      N/A    |      N/A     |
 
 
 ### Oracle Supporting Data Model(s)
