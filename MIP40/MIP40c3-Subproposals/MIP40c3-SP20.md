@@ -6,7 +6,7 @@
 MIP40c3-SP#: # 20
 Author(s): @mitchell_amazix
 Contributors: N/A
-tags: core-unit, cu-amzx-001, budget
+tags: core-unit, cu-amzx-001, dai-budget
 Status: Rejected
 Date Applied: 2021-06-09
 Date Ratified: 
