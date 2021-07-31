@@ -24,39 +24,38 @@ This Oracle would provide the COMP/USD price as part of the collateral onboardin
 
 ### Oracle Data Model 
 
-    |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-    | :----------- | :------------ | :---: | :---------: | :----------: |
-    |    Binance   |    COMP/USDT  |   13  |    Median   |    Median    |
-    |    Coinbase  |    COMP/USD   | 
-    |    Huobi     |    COMP/USDT  |
-    |    Kraken    |    COMP/USD   |
-    |    KuCoin    |    COMP/USDT  |
-    |    Uniswap   |    COMP/ETH   |
-
+|    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
+| :----------- | :------------ | :---: | :---------: | :----------: |
+|    Binance   |    COMP/USDT  |   13  |    Median   |    Median    |
+|    Coinbase  |    COMP/USD   | 
+|    Huobi     |    COMP/USDT  |
+|    Kraken    |    COMP/USD   |
+|    KuCoin    |    COMP/USDT  |
+|    Uniswap   |    COMP/ETH   |
 
 ### Oracle Supporting Data Model(s)
 
 **USDT/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Binance     |    BTC/USDT   |    Median    |
-    |   BitFinex    |    USDT/USD   |              |
-    |   FTX         |    ETH/USDT   |              |
-    |   Huobi       |    ETH/USDT   |              |
-    |   Kraken      |    USDT/USD   |              |
-    |   OKEx        |    BTC/USDT   |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Binance     |    BTC/USDT   |    Median    |
+|   BitFinex    |    USDT/USD   |              |
+|   FTX         |    ETH/USDT   |              |
+|   Huobi       |    ETH/USDT   |              |
+|   Kraken      |    USDT/USD   |              |
+|   OKEx        |    BTC/USDT   |              |
 
- **ETH/USD (canonical)**
+**ETH/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Binance     |    ETH/USD    |    Median    |
-    |   Bitfinex    |    ETH/USDT   |              |
-    |   Bitstamp    |    ETH/USD    |              |
-    |   Coinbase    |    ETH/USD    |              |
-    |   Gemini      |    ETH/USD    |              |
-    |   Kraken      |    ETH/USD    |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Binance     |    ETH/USD    |    Median    |
+|   Bitfinex    |    ETH/USDT   |              |
+|   Bitstamp    |    ETH/USD    |              |
+|   Coinbase    |    ETH/USD    |              |
+|   Gemini      |    ETH/USD    |              |
+|   Kraken      |    ETH/USD    |              |
 
 ### Oracle Address
 - Medianizer - Mainnet TBD

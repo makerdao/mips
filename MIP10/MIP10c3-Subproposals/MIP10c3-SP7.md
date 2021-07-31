@@ -24,10 +24,9 @@ This Oracle would provide the PAX/USD price as part of the collateral onboarding
 
 ### Oracle Data Model 
 
-    |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-    | :----------- | :------------ | :---: | :---------: | :----------: |
-    |       1      |    PAX/USD    |  N/A  |      N/A    |      N/A     |
-
+|    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
+| :----------- | :------------ | :---: | :---------: | :----------: |
+|       1      |    PAX/USD    |  N/A  |      N/A    |      N/A     |
 
 ### Oracle Supporting Data Model(s)
 

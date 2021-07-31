@@ -59,20 +59,20 @@ Substitute of (3), (4) and (7) gives us the following model for calculating the 
 
  **ETH/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Binance     |    ETH/USD    |    Median    |
-    |   Bitfinex    |    ETH/USDT   |              |
-    |   Bitstamp    |    ETH/USD    |              |
-    |   Coinbase    |    ETH/USD    |              |
-    |   Gemini      |    ETH/USD    |              |
-    |   Kraken      |    ETH/USD    |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Binance     |    ETH/USD    |    Median    |
+|   Bitfinex    |    ETH/USDT   |              |
+|   Bitstamp    |    ETH/USD    |              |
+|   Coinbase    |    ETH/USD    |              |
+|   Gemini      |    ETH/USD    |              |
+|   Kraken      |    ETH/USD    |              |
 
  **DAI/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |      1        |    DAI/USD    |   constant   |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|      1        |    DAI/USD    |   constant   |
 
 
 ### Oracle Address

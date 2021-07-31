@@ -24,38 +24,37 @@ This Oracle would provide the LINK/USD price as part of the collateral onboardin
 
 ### Oracle Data Model 
 
-    |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-    | :----------- | :------------ | :---: | :---------: | :----------: |
-    |    Binance   |    LINK/BTC   |   13  |    Median   |    Median    |
-    |   Coinbase   |    LINK/USD   | 
-    |     FTX      |    LINK/USD   |
-    |    Gemini    |    LINK/USD   |
-    |     Huobi    |    LINK/USDT  |
-    |    Kraken    |    LINK/USD   |
-
+|    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
+| :----------- | :------------ | :---: | :---------: | :----------: |
+|    Binance   |    LINK/BTC   |   13  |    Median   |    Median    |
+|   Coinbase   |    LINK/USD   | 
+|     FTX      |    LINK/USD   |
+|    Gemini    |    LINK/USD   |
+|     Huobi    |    LINK/USDT  |
+|    Kraken    |    LINK/USD   |
 
 ### Oracle Supporting Data Model(s)
 
 **USDT/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Binance     |    BTC/USDT   |    Median    |
-    |   BitFinex    |    USDT/USD   |              |
-    |   FTX         |    ETH/USDT   |              |
-    |   Huobi       |    ETH/USDT   |              |
-    |   Kraken      |    USDT/USD   |              |
-    |   OKEx        |    BTC/USDT   |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Binance     |    BTC/USDT   |    Median    |
+|   BitFinex    |    USDT/USD   |              |
+|   FTX         |    ETH/USDT   |              |
+|   Huobi       |    ETH/USDT   |              |
+|   Kraken      |    USDT/USD   |              |
+|   OKEx        |    BTC/USDT   |              |
 
- **BTC/USD (canonical)**
+**BTC/USD (canonical)**
 
-    |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
-    |   Bitstamp    |    BTC/USD    |    Median    |
-    |   Bittrex     |    BTC/USD    |              |
-    |   Coinbase    |    BTC/USD    |              |
-    |   Gemini      |    BTC/USD    |              |
-    |   Kraken      |    BTC/USD    |              |
+|    Source     |  Asset Pair   |  Feed Model  |
+| :------------ | :------------ | :----------: | 
+|   Bitstamp    |    BTC/USD    |    Median    |
+|   Bittrex     |    BTC/USD    |              |
+|   Coinbase    |    BTC/USD    |              |
+|   Gemini      |    BTC/USD    |              |
+|   Kraken      |    BTC/USD    |              |
 
 ### Oracle Address
 - Medianizer - Mainnet TBD
