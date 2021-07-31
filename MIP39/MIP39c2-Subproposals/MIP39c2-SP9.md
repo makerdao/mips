@@ -7,7 +7,7 @@ MIP39c2-SP: 9
 Authors: Kathleen Chu, Maria Magenes
 Contributors: Sahabia Yakubu, Kaori Sato, Francesco Alberti, Nathan Kim
 Tags: core-unit, cu-cpm-001, mandate
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```
