@@ -14,7 +14,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP39c2-SPX adds Core Unit CPM-001
+MIP39c2-SP14 adds Core Unit CPM-001
 
 ## Specification
 
