@@ -7,7 +7,7 @@ MIP39c2-SP#: 16
 Author(s): PaperImperium
 Contributors:
 Tags: core-unit, cu-mpcu-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-06-28
 Date Ratified:
 ```
