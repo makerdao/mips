@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP41c3-SP#: 5
+MIP40c3-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
 Tags: core-unit, cu-mkt-001, budget
