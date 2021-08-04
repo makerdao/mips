@@ -7,7 +7,7 @@ MIP39c2-SP#: 17
 Author(s): @sorenpeter
 Contributors: @juanjuan
 Tags: dai-foundation, core-unit, daif-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-07-07
 Date Ratified: <yyyy-mm-dd>
 ```
