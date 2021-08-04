@@ -7,7 +7,7 @@ MIP40c3-SP#: 23
 Author(s): @Nadia
 Contributors:
 tags: core-unit, gro-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-07-07
 Date Ratified: N/A
 ```

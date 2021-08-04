@@ -7,7 +7,7 @@ MIP#: 37
 Title: Static Reserve For Governance
 Author(s):  Alexis
 Type: Technical
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2021-01-15
 Dependencies: None
 Replaces: Nothing

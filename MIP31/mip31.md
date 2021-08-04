@@ -8,7 +8,7 @@ Title: Active Reserve AMM (`dss-ara`)
 Author(s): Alexis
 Contributors: n/a
 Type: Technical
-Status: RFC
+Status: Withdrawn
 Date Proposed: <2020-12-15>
 Date Ratified: <yyyy-mm-dd>
 Dependencies:  keg module
