@@ -1,4 +1,4 @@
-# MIP39c2-SP17: adds Core Unit DAIF-001: Dai Foundation
+# MIP39c2-SP17: adds Core Unit Dai Foundation, DAIF-001
 
 ## Preamble
 

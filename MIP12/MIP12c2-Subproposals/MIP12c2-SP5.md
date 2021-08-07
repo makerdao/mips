@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP12c2-SP: 5
+MIP12c2-SP#: 5
 Title: Domain work requirements for onboarding the COMP collateral type
 Author(s): @Niklas Kunkel (@NiklasKunkel)
 Contributors: Charles St.Louis (@CPSTL)
