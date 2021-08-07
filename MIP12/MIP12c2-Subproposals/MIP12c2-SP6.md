@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP12c2-SP: 6
+MIP12c2-SP#: 6
 Title: Domain work requirements for onboarding the LINK collateral type
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors: Charles St.Louis (@CPSTL)

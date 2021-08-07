@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP12c2-SP: 1
+MIP12c2-SP#: 1
 Title: Domain work requirements for onboarding the ZRX collateral type
 Author(s): Cyrus Younessi (@DonutJr), Niklas Kunkel (@NiklasKunkel), Mariano Conti (@nanexcool)
 Contributors: Charles St.Louis (@CPSTL)
@@ -25,19 +25,19 @@ This proposal defines the documentation and work requirements for the onboarding
 
 This subproposal contains the domain work products required for the ZRX collateral asset to be added to the Maker Protocol. More specifically, it includes the risk parameters/risk evaluation, oracle solutions, and necessarily smart contracts needed for ZRX. 
 
-1. **Risk Domain Work:** The risk domain team's work contains a risk construct/risk evaluation for the ZRX collateral type:
+1. **Risk Domain Work:** The risk domain team's work contains a risk construct/risk evaluation for the ZRX collateral type:
     1. [[ZRX] MIP12c2-SP1 Collateral Onboarding Risk Evaluation](https://forum.makerdao.com/t/zrx-mip12c2-sp1-collateral-onboarding-risk-evaluation/2730)
 
-2. **Smart Contracts Domain Work:** The smart contracts domain team's work required to get ZRX added to the Maker Protocol includes an assessment of the collateral type-token contracts[,](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) work products for the operational collateral adapter, medianizer, oracle security module, and deploying the executive vote code (spell). More specifically, this includes:
+2. **Smart Contracts Domain Work:** The smart contracts domain team's work required to get ZRX added to the Maker Protocol includes an assessment of the collateral type-token contracts[,](https://etherscan.io/token/0xdd974d5c2e2928dea5f71b9825b8b646686bd200) work products for the operational collateral adapter, medianizer, oracle security module, and deploying the executive vote code (spell). More specifically, this includes:
 
     1. Perform a review of the ZRX ERC20 contract to determine if they conform to the standard and can indeed be used with the existing smart contract collateral adapters.
     2. Perform the testing on the Kovan testnet, confirming that adapters and auction contracts ork well with the Maker Protocol.
     3. Create the spells to include the collaterals on our Kovan deployment. 
     4. Finally, the team will deploy the smart contracts and build the executive vote spells for the Ethereum Mainnet.
 
-3. **Oracles Domain Work:** The oracles domain team's work required to get ZRX added to the Maker Protocol, includes making sure the oracle price feeds to support the new collateral type are prepared. More specifically, this includes:
+3. **Oracles Domain Work:** The oracles domain team's work required to get ZRX added to the Maker Protocol, includes making sure the oracle price feeds to support the new collateral type are prepared. More specifically, this includes:
 
-    1. Add support for ZRX to [setzer](https://github.com/makerdao/setzer)
+    1. Add support for ZRX to [setzer](https://github.com/makerdao/setzer)
     2. Add support for ZRX to [omnia](https://github.com/makerdao/oracles-v2)
     3. Deploy release candidate to the Kovan testnet for testing
     4. Coordinate Feeds to upgrade to latest release candidate

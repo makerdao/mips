@@ -1,4 +1,4 @@
-# MIP39c2-SP16: Adding Maker Portfolio Core Unit - MPCU-001
+# MIP39c2-SP16: Adding Maker Portfolio Core Unit, MPCU-001
 
 ## Preamble
 

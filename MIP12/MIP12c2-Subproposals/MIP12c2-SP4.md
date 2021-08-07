@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP12c2-SP: 4
+MIP12c2-SP#: 4
 Title: Domain work requirements for onboarding the LRC collateral type
 Author(s): Cyrus Younessi (@DonutJr), Niklas Kunkel (@NiklasKunkel), Mariano Conti (@nanexcool)
 Contributors: Charles St.Louis (@CPSTL)

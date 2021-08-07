@@ -1,4 +1,4 @@
-# MIP13c3-SP4 Declaration of Intent & Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan
+# MIP13c3-SP4: Declaration of Intent & Commercial Points - Off-Chain Asset Backed Lender to onboard Real World Assets as Collateral for a DAI loan
 
 ## Preamble
 ```
