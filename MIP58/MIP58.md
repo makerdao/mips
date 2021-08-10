@@ -1,4 +1,4 @@
-# MIPXX: RWA Foundations
+# MIP58: RWA Foundations
 
 ## Preamble
 
@@ -113,7 +113,7 @@ For illustrative purposes, the objects for which the RWA Foundations are establi
 - to provide financial assistance or benefits to beneficiaries as designated or determined under the articles of association; and
 - to do all such things as in the opinion of the directors are or may be incidental or conducive to the above objects or any of them.
 
-![](diagram.png)
+![](https://github.com/makerdao/mips/blob/master/MIP58/diagram.png)
 
 
 In case this MIP conflicts with the Cayman Islands laws, the Articles of Association or the Memorandum of Association of the RWA Foundation, the latter shall prevail. The RWA Foundation MIP applies to any compatible Cayman Foundation regardless of the name of such Foundation.
