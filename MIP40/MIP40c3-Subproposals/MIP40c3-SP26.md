@@ -1,4 +1,4 @@
-# MIP40c3-SP26: Development & UX Core Unit MKR Budget - DUX-001
+# MIP40c3-SP26: Development & UX Core Unit Budget - DUX-001
 
 ## Preamble
 
