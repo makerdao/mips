@@ -42,7 +42,7 @@ This budget secures a team of 5 Senior Engineers, one Data Scientist (part-time)
 
 The budget asked is $775,000 for six months. The distribution of the budget across profiles is shown below.
 
-![|493x304](upload://7xjESfzby9AnJl5G2bCvKt7YD30.png "Chart")
+![Pie Chart](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/pie-chart.png)
 
 ---
 
