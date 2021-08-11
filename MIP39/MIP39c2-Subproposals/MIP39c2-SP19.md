@@ -1,4 +1,6 @@
-# MIP39c2-SP19: Adding the StarkNet Engineering Core Unit (SNE-001)
+# MIP39c2-SP19: Adding the StarkNet Engineering Core Unit - SNE-001
+
+## Preamble
 
 ```
 MIP39c2-SP#: 19
@@ -10,7 +12,7 @@ Date Applied: <2021-08-09>
 Date Ratified: NA
 ```
 
-## Sentence summary
+## Sentence Summary
 
 In a volatile, high gas cost environment, DeFi protocols are attempting to build bridges to Layer2 protocols to access liquidity and remain competitive. This proposal puts forward a high-level plan for enabling DAI minting on StarkNet. It opens the door to leveraging StarkNet to keep the Maker protocol attractive to users in the ZK-rollup, Layer 2 domain.
 
