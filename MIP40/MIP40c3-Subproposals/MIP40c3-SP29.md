@@ -6,6 +6,7 @@
 MIP40c3-SP#: 29
 Author(s): Payton Rose (@prose11)
 Contributors: @LongForWisdom
+Tags: core-unit, cu-gov-001, budget, dai-budget
 Status:  RFC
 Date Applied: 2021-08-11
 Date Ratified: - - -
