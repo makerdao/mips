@@ -1,4 +1,3 @@
- 
 # MIP39c2-SP18: Adding Development & UX Core Unit - DUX-001
 
 ## Preamble
@@ -7,6 +6,7 @@
 MIP39c2-SP#: 18
 Author(s): @rafinskipg, @tiago, @adamgoth, @tyler, @philip, @0xdeniz
 Contributors: @wouter, @juanjuan
+Tags: core-unit, cu-dux-001, mandate
 Status: RFC
 Date Applied: 2021-08-11
 Date Ratified: YYYY-MM-DD
