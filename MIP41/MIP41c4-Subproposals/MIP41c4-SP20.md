@@ -1,5 +1,7 @@
 # MIP41c4-SP20: Facilitator Onboarding, Starknet Engineering Core Unit
 
+## Preamble
+
 ```
 MIP41c4-SP#: 20
 Author(s): Louis Baudoin (@louismerkle), Ohad Barta
