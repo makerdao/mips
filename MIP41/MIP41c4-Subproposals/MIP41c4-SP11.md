@@ -1,4 +1,4 @@
-# MIP41c4-SP11: Facilitator Onboarding, Strategic Happiness Core Unit, SWAG-001
+# MIP41c4-SP11: Facilitator Onboarding, Strategic Happiness Core Unit, SH-001
 
 ## Preamble
 
