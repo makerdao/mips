@@ -183,7 +183,7 @@ If DssVest or another protocol-approved method for streaming DAI is not in place
 **Payout Dates (if no streaming is available)**  
 Month of October - 89,734 DAI  
 Month of November - 89,733 DAI  
-Month of December - 89,733 DAI
-Month of January - 89,734 DAI
-Month of February - 89,733 DAI
-Month of March - 89,733 DAI
+Month of December - 89,733 DAI  
+Month of January - 89,734 DAI  
+Month of February - 89,733 DAI  
+Month of March - 89,733 DAI  
