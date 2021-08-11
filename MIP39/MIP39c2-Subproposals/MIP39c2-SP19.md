@@ -14,11 +14,13 @@ Date Ratified: NA
 
 ## Sentence Summary
 
-In a volatile, high gas cost environment, DeFi protocols are attempting to build bridges to Layer2 protocols to access liquidity and remain competitive. This proposal puts forward a high-level plan for enabling DAI minting on StarkNet. It opens the door to leveraging StarkNet to keep the Maker protocol attractive to users in the ZK-rollup, Layer 2 domain.
+MIP39c2-SP19 adds the StarkNet Engineering Core Unit, SNE-001
 
 ## Specification
 
 ### Motivation
+
+In a volatile, high gas cost environment, DeFi protocols are attempting to build bridges to Layer2 protocols to access liquidity and remain competitive. This proposal puts forward a high-level plan for enabling DAI minting on StarkNet. It opens the door to leveraging StarkNet to keep the Maker protocol attractive to users in the ZK-rollup, Layer 2 domain.
 
 #### Why do we want to expand the Maker protocol behind Ethereum?
 
