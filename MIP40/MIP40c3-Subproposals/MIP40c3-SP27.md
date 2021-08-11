@@ -7,6 +7,7 @@
 MIP40c3-SP#: 27
 Author(s): @rafinskipg, @adam, @bainpm
 Contributors: @wouter, @juanjuan
+Tags: core-unit, cu-dux-001, budget, mkr-budget
 Status: RFC
 Date Applied: 2021-08-11
 Date Ratified: YYYY-MM-DD
