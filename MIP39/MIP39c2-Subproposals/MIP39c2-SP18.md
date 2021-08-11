@@ -62,7 +62,7 @@ In a continuous iterative looping process, putting the community at the heart of
 
 This process allows us to diverge when uncovering problems to solve and discovering new opportunities, and to converge when implementing a possible solution.
 
-![DUX_Strategy_Diagram_04_08_|690x398](upload://zJ0jEV5Jzx16gccAvaIhWvnLhiM.png)
+![DUX_Strategy_Diagram](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP18/dux_strategy_diagram.png)
 
 ## 1. Discover
 
@@ -211,7 +211,7 @@ As part of our current work, we have identified several areas of improvement for
 
 All of this will be available on our [public roadmap](https://makerdao-dux.frill.co/roadmap)
 
-![Untitled|600x500](upload://iS9w5aTazQeAneRUksPNW2yKIpp.jpeg)
+![Untitled](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP18/untitled.jpeg)
 
 ---
 
