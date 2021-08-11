@@ -87,7 +87,7 @@ This payment implementation is based on the [SES MKR budget proposal](https://fo
 
 - Payment of the MKR tokens will follow the same flow as described in the original DUX [budget MIP](https://forum.makerdao.com/t/mip40c3-sp-1-development-ux-core-unit-budget-dux-001/9774)
 
-![payment_flow|690x234](upload://mmFRBMzcWozYN1988QeVZzb8i7M.png)
+![payment_flow|690x234](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP27/payment_flow.png)
 - As [defined above](https://forum.makerdao.com/t/mip40c3-sp-1-development-ux-core-unit-budget-dux-001/9774) and in the [Monthly Budget Statement](https://github.com/makerdao-dux/transparency-reporting/blob/main/Monthy%20Budget%20Statements/2021-09.md) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
   - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `DUX Auditors Wallet`, which then acts as an escrow wallet.
