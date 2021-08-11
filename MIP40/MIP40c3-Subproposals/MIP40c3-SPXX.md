@@ -7,7 +7,7 @@ MIP40c3-SP#: X
 Author(s): Payton Rose (@prose11)
 Contributors: @LongForWisdom
 Status:  RFC
-Date Applied: 2021-08-04
+Date Applied: 2021-08-11
 Date Ratified: - - -
 ```
 
