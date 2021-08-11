@@ -8,7 +8,7 @@ Title: RWA Foundations
 Author(s): @SebVentures, @christiancdpetersen
 Contributors: N/A
 Type: General
-Status: Draft
+Status: RFC
 Date Proposed: 2021-08-04
 Date Ratified: n/a
 Dependencies: n/a
