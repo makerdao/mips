@@ -1,4 +1,3 @@
- 
 # MIP40c3-SP26: Development & UX Core Unit MKR Budget - DUX-001
 
 ## Preamble
@@ -7,6 +6,7 @@
 MIP40c3-SP#: 26
 Author(s): @rafinskipg, @adam, @bainpm
 Contributors: @wouter, @juanjuan
+Tags: core-unit, cu-dux-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-08-11
 Date Ratified: YYYY-MM-DD
