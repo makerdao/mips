@@ -6,9 +6,9 @@
 MIP40c3-SP#: 16
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
-tags: core-unit, cu-sh-001, budget, dai-budget, mkr-budget
+tags: sh-001-mipset
 Status: RFC
-Date Applied: <2021-05-11>
+Date Applied: <2021-08-11>
 Date Ratified: <yyyy-mm-dd>
 ```
 
@@ -67,8 +67,9 @@ The Strategic Happiness Core Unit team will include:
 |Swag | 15,000 DAI |
 |Shipping | 10,000 DAI |
 |Ongoing Operations |25,000 DAI|
+|Travel |8,000 DAI|
 |||
-|**Total**| 50,000 DAI|
+|**Total**| 58,000 DAI|
 
 ### Facilitator
 
@@ -132,6 +133,14 @@ After accounting for all expenses:
 - Travel
 - Miscellaneous Costs
 
+### Travel
+
+I am requesting a quarterly budget of 8,000 Dai for travel.
+- This will allow me to attend Maker, ETH, and other worldwide crypto events.
+- The budget will cover flights, lodging, food, etc.
+- There should be enough funds to cover one to two events per quarter.
+- Unused funds will be credited towards the next quarter's budget.
+
 ### Clarifications
 
 #### Unused Funds
@@ -184,13 +193,13 @@ On day one, I am requesting funding up-front, as follows:
 
 | Description | Amount |
 | --- | ---:
-|Quarterly Budget| 50,000 DAI |
-|Past Expenditures * | 25,000 DAI |
+|Quarterly Budget| 58,000 DAI |
+|Past Expenditures * | 27,000 DAI |
 |Projected Expenditures ** | 5,000 DAI |
-| **Total** | **80,000 DAI** |
+| **Total** | **90,000 DAI** |
 |||
 
-> \* The 25,000 DAI covers my past expenditures since the dissolution of Comm-Dev.
+> \* The 27,000 DAI covers my past expenditures since the dissolution of Comm-Dev.
 > \** The 5,000 DAI should cover my expenditures until the next monthly Core Unit Cycle.
 
 #### Wallet Address:
