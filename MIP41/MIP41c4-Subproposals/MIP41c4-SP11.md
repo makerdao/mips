@@ -71,7 +71,7 @@ I will continue to:
 
 |  |  |
 | --- | ---
-| ![](https://i.imgur.com/hbbFfD5.png) | ![](https://i.imgur.com/qoSSZoc.png) |
+| ![](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/supporting_materials/MIP41c4-SP11/quote_me0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/supporting_materials/MIP41c4-SP11/quote_me1.png) |
 |||
 
 ### Related MIPS
