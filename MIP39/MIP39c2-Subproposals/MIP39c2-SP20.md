@@ -4,7 +4,7 @@
 
 ```
 MIP39c2-SP#: 20
-Author(s): Robert Jordan @monkey.irish
+Author(s): Robert Jordan (@monkey.irish)
 Contributors:
 Tags: core-unit, cu-ces-001, mandate
 Status: RFC
@@ -79,7 +79,7 @@ The first part is people. Our audience is anyone capable of working with the pro
 
 Since this is all about enablement, there is a constant cycle of adaptation. The first iterations will have constraints and necessary manual intervention. We will rapidly move towards automation keeping stability and security as top priorities. The goal is to employ a system where we Learn, Optimize, and Enable others to help Maker greatly scale the Dai supply.
 
-![insert graphic](upload://cw5l2L0bn4T3KfF6m8s03cu3Doi.jpeg)
+![cycle](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP20/cycle.jpeg)
 
 #### Technology
 
@@ -97,5 +97,5 @@ Please reach out if you have any questions. The goal for us is to be clear, conc
 
 ## Related Documents
 
-[MIP40c3-SPXX Collateral Engineering Services Core Unit Budget Proposal]()
-[MIP41c4-SPXX: Facilitator Onboarding, Collateral Engineering Services Core Unit]()
+[MIP40c3-SP30: Collateral Engineering Services Core Unit Budget Proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
+[MIP41c4-SP21: Facilitator Onboarding, Collateral Engineering Services Core Unit](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
