@@ -6,8 +6,9 @@
 MIP39c2-SP#: 11
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
+Tags: core-unit, cu-sh-001, mandate
 Status: RFC
-Date Applied: <2021-08-11>
+Date Applied: <2021-05-11>
 Date Ratified: <yyyy-mm-dd>
 ```
 
