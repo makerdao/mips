@@ -16,13 +16,6 @@ Date Ratified: <yyyy-mm-dd>
 
 MIP40c3-SP30 adds the budget for Core Unit CES-001: Collateral Engineering Services.
 
-For more information about the history of this MIP, please see:
-
-- [MIP40c3-SP14: Modify Collateral Engineering Services Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp14-modify-collateral-engineering-services-core-unit-budget/8038)
-- [Collateral Onboarding Core Unit Update](https://forum.makerdao.com/t/collateral-onboarding-core-cob-unit-update/8657)
-- [Collateral Onboarding Core Unit Launch Pod Session](https://www.youtube.com/watch?v=Q6xNOLPcw2Y)
-- [Collateral Engineering Services Core Unit Ask Maker Anything](https://www.youtube.com/watch?v=QTWc0q46lXs)
-
 ## Specification
 
 ### Motivation
@@ -108,7 +101,7 @@ A few notes about the Budget Detail:
 
 Illustrating these details as a percentage of the total budget request for overall comparison (12 months):
 
-![CES 12 Month Budget](upload://12xzerQ8FgzWeZNzqOD8WDKm2Bf.png)
+![CES 12 Month Budget](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP30/pie-chart.png)
 
 ### Budget Details:
 
@@ -184,7 +177,7 @@ The CES budget implementation is architected to build and sustain a stable Core 
 - MKR incentives with a Vesting Period of three years, a 12 month cliff, and six month vesting after the cliff
 - Provide full transparency and accounting of funds during all budget periods
 
-![CES Cycle Alignment](upload://mrG3zFk629ASfQAf416b44xY2Mq.jpeg)
+![CES Cycle Alignment](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP30/ces-cycle-alignment.jpeg)
 
 #### Total Budget Cap for the Cycle
 
@@ -194,7 +187,7 @@ The Auditors Wallet balance will never exceed the upper limit voted by Governanc
 
 #### CES Budgeting Cycle
 
-![CES Budgeting Cycle](upload://mbxlPHsSm2f5np2uc7BtQRDIFZd.jpeg)
+![CES Budgeting Cycle](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP30/ces-budgeting-cycle.jpeg)
 
 #### Core Unit Ratification
 
@@ -258,5 +251,5 @@ The following wallets are involved:
 
 ## Related Documents
 
-[MIP39c2-SP20: Collateral Engineering Services Core Unit MIP]()
-[MIP41c4-SPXX: Facilitator Onboarding, Collateral Engineering Services Core Unit]()
+- [MIP39c2-SP20: Collateral Engineering Services Core Unit MIP](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP20.md)
+- [MIP41c4-SP21: Facilitator Onboarding, Collateral Engineering Services Core Unit](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
