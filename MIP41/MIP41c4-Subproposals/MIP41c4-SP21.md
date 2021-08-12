@@ -16,13 +16,6 @@ Date Ratified: <yyyy-mm-dd>
 
 MIP41c4-SP21 onboards Robert Jordan @monkey.irish as Facilitator for the Collateral Engineering Services Core Unit.
 
-For more information about the history of this MIP, please see:
-
-- [MIP41c4-SP14: Facilitator Onboarding, Collateral Engineering Services Core Unit](https://forum.makerdao.com/t/mip41c4-sp14-facilitator-onboarding-collateral-engineering-services-core-unit/8039)
-- [Collateral Onboarding Core Unit Update](https://forum.makerdao.com/t/collateral-onboarding-core-cob-unit-update/8657)
-- [Collateral Onboarding Core Unit Launch Pod Session](https://www.youtube.com/watch?v=Q6xNOLPcw2Y)
-- [Collateral Engineering Services Core Unit Ask Maker Anything](https://www.youtube.com/watch?v=QTWc0q46lXs)
-
 ## Specification
 
 ## Motivation
@@ -101,5 +94,5 @@ The following is a partial list of Maker Foundation experiences that are support
 
 ## Related Documents
 
-[MIP39c2-SP20 Collateral Engineering Services Core Unit MIP]()
-[MIP40c3-SP30 Collateral Engineering Services Core Unit Budget Proposal]()
+[MIP39c2-SP20 Collateral Engineering Services Core Unit MIP](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP20.md)
+[MIP40c3-SP30 Collateral Engineering Services Core Unit Budget Proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
