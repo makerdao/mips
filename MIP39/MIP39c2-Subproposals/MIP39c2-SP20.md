@@ -16,13 +16,6 @@ Date Ratified: <yyyy-mm-dd>
 
 MIP39c2-SP20 adds Collateral Engineering Services Core Unit, CES-001.
 
-For more information about the history of this MIP, please see:
-
-- [MIP39c2-SP12: Adding Collateral Engineering Services Core Unit](https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-engineering-services-core-unit/8037)
-- [Collateral Onboarding Core Unit Update](https://forum.makerdao.com/t/collateral-onboarding-core-cob-unit-update/8657)
-- [Collateral Onboarding Core Unit Launch Pod Session](https://www.youtube.com/watch?v=Q6xNOLPcw2Y)
-- [Collateral Engineering Services Core Unit Ask Maker Anything](https://www.youtube.com/watch?v=QTWc0q46lXs)
-
 ## Specification
 
 ### Motivation
