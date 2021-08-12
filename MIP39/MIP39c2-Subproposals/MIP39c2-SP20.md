@@ -97,5 +97,5 @@ Please reach out if you have any questions. The goal for us is to be clear, conc
 
 ## Related Documents
 
-[MIP40c3-SP30: Collateral Engineering Services Core Unit Budget Proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
-[MIP41c4-SP21: Facilitator Onboarding, Collateral Engineering Services Core Unit](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
+- [MIP40c3-SP30: Collateral Engineering Services Core Unit Budget Proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
+- [MIP41c4-SP21: Facilitator Onboarding, Collateral Engineering Services Core Unit](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
