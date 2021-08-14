@@ -1,8 +1,9 @@
 # MIP40c3-SP26: Development & UX Core Unit Budget - DUX-001
 
-Preamble
+## Preamble
 
 ```
+MIP40c3-SP#: 26
 Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @wouter, @juanjuan
 Status: RFC
