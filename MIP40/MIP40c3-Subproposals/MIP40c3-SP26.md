@@ -1,12 +1,10 @@
 # MIP40c3-SP26: Development & UX Core Unit Budget - DUX-001
 
-## Preamble
+Preamble
 
 ```
-MIP40c3-SP#: 26
-Author(s): @rafinskipg, @adam, @bainpm
+Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @wouter, @juanjuan
-Tags: core-unit, cu-dux-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-08-11
 Date Ratified: YYYY-MM-DD
@@ -14,89 +12,155 @@ Date Ratified: YYYY-MM-DD
 
 ## Sentence Summary
 
-MIP40c3-SP26 adds the MKR Incentive Plan budget for Core Unit DUX-001: Development and UX.
+MIP40c3-SP26 adds the DAI budget for Core Unit DUX-001: Development and UX.
 
 ## Paragraph Summary
 
-MIP40c3-SP26 adds the MKR Incentive Plan budget for Core Unit DUX-001: Development and UX. It contains:
-- Total MKR Expenditure Cap
-- Estimated MKR Expenditure (based on the current team)
-- Escrow Wallet mechanism
+MIP40c3-SP26 adds the budget for Core Unit DUX-001: Development and UX. It contains:
+- Total Budget Cap: The hard limit voted on by Governance
+- First-month forecast: The actual first month estimated expenses
+- Breakdown of Permanent Team for the expected first payment (October)
 
-The DUX Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) and Oracles Oracles Core Unit (ORA-001) proposal for MKR Vesting.
+## Specification
 
-MKR incentives have been determined based on the [Program discussed here](https://forum.makerdao.com/t/pre-mip-discussion-an-alternative-mkr-compensation-plan/8000). This is a 3-year vesting plan with 1-year cliff vest.
+### Motivation
 
-The DUX core unit has been working under the incubation program of the SES since June of 2021. The members of this core unit will take that as the start date for the vesting schedule.
+Based on the nature of the work done by the Development and UX Core Unit (DUX), the budget reflects the needs of the team to ensure continuity of the work described in our [MIP39c2](https://forum.makerdao.com/t/mip39c2-sp-adding-development-ux-core-unit-dux-001/9770). This is summarized in, but not limited to:
+- Improving Governance User experience
+- Democratizing access to the voting process and facilitating information flow.
+- Maintaining tools and systems for the governance UIs and frontend tools of the protocol.
 
-## Total MKR Expenditure Cap
+### Core Unit ID
 
-The total MKR Expenditure will not exceed `1982.87 MKR`.
+DUX-001
 
-This covers the entire `3 years` plan for `6 FTEs`.
+### Budget Implementation
 
-## Estimated MKR Expenditure
+The DUX budget is designed with the following in mind:
+- Paying for the operational costs to run the core unit
+- Having a buffer for unexpected legal, technical, or financial problems
 
-The Estimated MKR Expenditure is our best guess of how much MKR will be used with the current team configuration.
+Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
+- Funding an initial 3 month budget for DUX
+- A continuous funding model based on [the SES top-up mechanism](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
 
-Reasons why the Actual MKR Expenditure could rise closer to the MKR Expenditure Cap:
-- A raise for a member of the team
-- New hires
-- Repricing (and resetting) the program, in the case of bear market
+### Team Summary for 2021
 
-`Price floor: -30%`. If any Contributor chose to reprice their program, they could do it at a maximum of -30% from the set MKR price.
-
-### Permanent Team Forecast
-
-For the permanent team, assuming the team configuration remains the same as today, this would result in the vesting schedule below.
-
-|    Vesting Date      | MKR Amount |
+|   Team members    | Amount |  
 |---------------|:-----:|
-| December 31, 2021 |   0 MKR   |
-| June 1, 2022 |   366.35 MKR  |
-| December 31, 2022 |   183.18 MKR  |
-| June 1, 2023 |   183.18 MKR  |
-| December 31 |  183.18 MKR  |
-| June 1, 2024 |   183.18 MKR  |
-| **Total** | **1099.05 MKR**  |
+| Senior Software Engineers |   4  |      
+| Designer / UX Specialist |  1  |      
+| Product Manager |   1  |      
+| **Team Total** |   **6**  |    
 
-This covers the total vesting schedule of `3 years` for the current `6 FTEs`.
+### Budget Cap Breakdown
 
-On average, this yields `61.05 MKR` per FTE per year.
+### Dai Expenditure
 
-Any changes to these amounts will be reported and reviewed by our budget auditors.
+We’re asking for a **Total Budget Cap** of **$483,575 DAI**, spanning a 3-month runway.
 
-### Parameters
+The budget cap differs from the actual expenses of the core unit. The cap refers to the maximum that the core unit can request for operating and it includes room for unforeseen circumstances.
 
-|    Parameter      | Value |
-|---------------|:-----:|
-| MKR/USD lock-in Price (New) |   Trailing 6 month average   |
-| MKR/USD lock-in Price (OG) |   MKR = $2,303.81 (12/3/20 - 06/1/21)  |
-| MKR Price Floor |   -30% ($1.613)  |
-| Vesting Period |   3 years  |
-| Cliff Vest |  12 months  |
-| Vesting Schedule |   After cliff has expired, biannual MKR amount  |
-| Vesting Interval | 6 months  |
-| Manual Repricing | yes |
-| Auto-Renewal | yes  |
+#### Contributor Compensation:
+|   Type    | Monthly Cost | Quarterly | 
+|---------------|:-----:|:-------------:|
+| **Grand Total** |   **$91,667**   |       **$275,000**       |  
 
 
-## Payment Implementation
+#### Budget Breakdown:
+|    Summary      | Monthly Cost | Quarterly | 
+|---------------|:-----:|:-------------:|
+| Contributor compensation |   $91,667   |       $275,000       |   
+| Travel & Conferences |   $4,500  |      $13,500       |
+| IT & Subscriptions |   $9,000  |      $27,000        |
+| Gas Costs |   $1,000  |      $3,000       |
+| Professional & Legal Services |  $12,000  |     $36,000     |
+| Contractor Services (Audits, DevOps) |   $15,000  |     $45,000 |
+| One time costs |  -  |   $21,000 (6 new members one time cost) |
+| **Total** | **$133,167**  |   **$420,500** |
+| + Contigency Buffer (15%) | **$153,142**  |  **$483,575** |
 
-This payment implementation is based on the [SES MKR budget proposal](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043)
+### Budget Details:
 
-- Payment of the MKR tokens will follow the same flow as described in the original DUX [budget MIP](https://forum.makerdao.com/t/mip40c3-sp-1-development-ux-core-unit-budget-dux-001/9774)
+Providing additional detail with regards to the above line items:
 
-![payment_flow|690x234](upload://mmFRBMzcWozYN1988QeVZzb8i7M.png)
-- As [defined above](https://forum.makerdao.com/t/mip40c3-sp-1-development-ux-core-unit-budget-dux-001/9774) and in the [Monthly Budget Statement](https://github.com/makerdao-dux/transparency-reporting/blob/main/Monthy%20Budget%20Statements/2021-09.md) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
-- To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
-  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `DUX Auditors Wallet`, which then acts as an escrow wallet.
-  - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `DUX Auditors Wallet` to the `DUX Permanent Team Operational Wallet`.
-  - When the MKR has vested, it is paid out to the contributor, either directly or through an intermediate payment processor.
-- Any excess MKR in the `DUX Auditors Wallet` or the `DUX Permanent Team Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
+**Contributor Compensation:** The initial team has 4 full-time senior software engineers, 1 full-time product manager, 1 full-time designer/UX specialist (for a total of 6 permanent members).
 
-This payment implementation makes no assumptions about the origin of the MKR. It can either be moved from the protocol’s treasury, newly minted, or obtained from another source.
+The total cost of an employee includes only compensations as a contractor. Contractors have to take care of their health insurance and other expenses.
 
-The MKR that’s held by the `DUX Auditors Wallet` and the `DUX Permanent Team Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
+**Travel and Conferences (\*):** The team may travel to present at industry events, attend conferences or participate in a team offsite.
 
-DUX may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
+**Hardware / Welcome Package:** An allocation of $3,500 per new team member. (New members only, one-time cost). This includes tools needed for testing features (hardware wallets, devices), and laptop/working setup.
+
+**IT & Subscriptions (\*):** We anticipate a variety of costs related to software subscriptions, cloud services, analytics, and tooling. Our infrastructure costs are around $9,000 per month coming from the previous costs that the team's applications have incurred. We will work to lower these expenses to a reasonable amount by optimizing network usage. However, this cost can spike if we have spikes in traffic.
+
+**Gas Costs (\*):** The gas cost assumes testing of voting features on mainnet. $1,000 per month is allocated for this purpose. This will allow for testing of all the features on mainnet with each release.
+
+**Professional & Legal Services (\*):** Coverage for legal services, financial services, and payment processor fees.
+
+**Contractor Services (\*):** The core unit may occasionally need to hire additional contractors, other core units, or professional services (DevOps, security auditing, quality assurance, etc).
+
+**Contingency Buffer (\*):** Approximately 15% of the total cap costs added in case of additional urgent expenses, such:
+- Increased cost on systems and tools due to high usage demand (Infura, Alchemy, etc)
+- Spikes in gas prices
+- Need to defend the CU legally/financially
+- Error in budget planning
+
+**(\*) = These are estimated values. The team will generate financial reports and return the excess capital at the end of the working year.**
+
+Any changes to these amounts will be reported in the [transparency reports](https://github.com/makerdao-dux/transparency-reporting) and reviewed by our budget auditors.
+
+---
+
+_This reporting framework and the monthly top-up mechanism are adopted from the SES. Thank you to SES for their incubation program and guidance._
+
+---
+
+### Monthly Budget Statement
+
+Within the first 5 days of each month, DUX will submit a **Monthly Budget Statement** to the signers of the Auditors Wallet with the following sections:
+
+1. **Budget Forecast** - The amount of Dai that is required to maintain a 3-month runway for the team based on available information
+2. **Previous Month Actuals** - The actual expenses (DAI and MKR) of the month that just ended
+3. **MKR Vesting Overview** - a schedule of the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
+4. **Transaction Amounts**
+   - The required DAI amount for the Operational Wallet to replenish the 3-month runway
+   - Any excess DAI amount that will be returned to the Auditors Wallet
+
+The Monthly Budget Statements will be added to the MakerDAO forum. The originals can be found in [this GitHub repository](https://github.com/makerdao-dux/transparency-reporting).
+
+### Monthly Top-Up Cycle
+
+### Seeding the Auditors Wallet
+
+In preparation for the monthly top-up cycle, the Auditors Wallet first needs to be seeded with the total budget cap from the surplus buffer. This seeding transaction will be included in the executive vote on the initial DUX Core Unit MIPs.
+
+### Monthly Cycle
+
+1. **Monthly Budget Statement Submission** – Within the first 5 days of the month, DUX submits the Monthly Budget Statement to the Auditors Wallet signers. This report is also available for the rest of the community to review.
+2. **Transaction Requests Submission** – In parallel, DUX submits the necessary transaction requests for the Auditors Wallet signers to sign:
+   - **DAI Top-up Transactions** – One DAI transaction for the Operational Wallet that has a balance below the 3-month runway forecast. The top-up transaction adds enough funds to the Operational Wallet to replenish this runway.
+3. **Returning Excess Funds** – DUX creates and signs any transactions for excess funds that should be returned to governance:
+   - **Excess DAI Transactions** – DAI transactions for the Operational Wallet if there is a balance above the 3-month runway forecast.
+4. **Auditors’ Review** – The Auditors Wallet signers review the Monthly Budget Statement. They check that the transaction request amounts are the ones mentioned in the report and that they make sense. If there are any irregularities or other questions or comments, they discuss this with DUX and allow for resubmission if any corrections are required.
+5. **Transaction Approvals** – Three of the Auditor's Wallet signers sign the submitted transactions, sending the DAI top-up amounts to the Operational Wallet. DUX can now use the funds for expenses.
+6. **Auditors Wallet Top-Up** – In the next executive vote, DUX submits a PR to top-up the Auditors Wallet to the Total Budget Cap. The cycle can now start again from step 1.
+
+---
+
+### Transfers
+
+**Seed Transfer**
+- **What:** Initial transfer of the total budget cap for the 3-month runway.
+- **When:** Automatically, upon executive vote approval (spell cast).
+- **Amount:** **483,575 DAI**
+- **Sender:** `Maker Protocol Surplus Buffer`
+- **Recipient:** Auditors Wallet: `0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad`
+
+**October 2021 Transfer**
+- **What:** Operational wallets top-up for October 2021 expenditures.
+- **When:** Manually, upon October 2021 Budget Statement review.
+- **Amount:** Determined by the [October 2021 Budget Statement](https://github.com/makerdao-dux/transparency-reporting/blob/main/Monthy%20Budget%20Statements/2021-09.md)
+- **Sender:** Auditors Wallet: `0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad`
+- **Recipients:**
+   - Permanent Team Wallet: `0x8Cd0ad5C55498Aacb72b6689E1da5A284C69c0C7`
