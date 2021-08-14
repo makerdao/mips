@@ -6,7 +6,7 @@ MIP#: 39
 Title: Core Unit Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
-Tags: process, core-unit-framework, mip-set, mip-set, core-unit-mipset
+Tags: process, core-unit-framework, mip-set, core-unit-framework-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2021-01-18
