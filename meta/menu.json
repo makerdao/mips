@@ -22,6 +22,11 @@
          ]
       },
       {
+         "id":"mipsets",
+         "name":"MIP Sets",
+         "href":"https://mips.makerdao.com/mips/list?&search=&mipsetMode=true"
+      },
+      {
          "id":"status",
          "name":"Status",
          "children":[
