@@ -97,9 +97,9 @@
                      "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-com-001,%20%23active)&subproposalsMode=true"
                   },
                   {
-                     "id":"mkt-001-inactive",
+                     "id":"com-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-com-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-com-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -115,7 +115,7 @@
                   {
                      "id":"mkt-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mkt-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mkt-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -131,7 +131,7 @@
                   {
                      "id":"gov-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-gov-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-gov-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -147,7 +147,7 @@
                   {
                      "id":"gro-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-gro-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-gro-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -163,7 +163,7 @@
                   {
                      "id":"mds-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mds-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-mds-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -179,7 +179,7 @@
                   {
                      "id":"ora-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-ora-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-ora-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -195,7 +195,7 @@
                   {
                      "id":"pe-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-pe-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-pe-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -211,7 +211,7 @@
                   {
                      "id":"rsk-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-rsk-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-risk-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -227,7 +227,7 @@
                   {
                      "id":"rwf-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-rwf-001,%20NOT(%23active))&subproposalsMode=true"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-rwf-001,NOT(%23active),@Accepted)"
                   }
                ]
             },
@@ -243,7 +243,7 @@
                   {
                      "id":"ses-001-inactive",
                      "name":"Archive",
-                     "href":"https://mips.makerdao.com/mips/list?&search=$and(%23cu-ses-001,%20NOT(%23active))"
+                     "href":"https://mips.makerdao.com/mips/list?&search=$AND(%23cu-ses-001,NOT(%23active),@Accepted)"
                   }
                ]
             }
