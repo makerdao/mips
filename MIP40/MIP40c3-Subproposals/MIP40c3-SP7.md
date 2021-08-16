@@ -1,4 +1,4 @@
-# MIP40c3-SP7: Modify Protocol Engineering Core Unit Budget
+# MIP40c3-SP7: Modify Core Unit Budget - Protocol Engineering (PE-001)
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
-Tags: smart-contracts, core-unit, cu-pe-001, budget, active
+Tags: smart-contracts, core-unit, cu-pe-001, budget, dai-budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27
@@ -14,7 +14,7 @@ Date Ratified: 2021-04-27
 
 ## Sentence Summary
 
-MIP40c3-SP7 adds the budget for the Protocol Engineering Core Unit.
+MIP40c3-SP7 adds the budget for Core Unit PE-001: Protocol Engineering.
 
 ## Specification
 

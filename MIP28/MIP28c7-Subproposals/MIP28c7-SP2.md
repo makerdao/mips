@@ -6,9 +6,9 @@
 MIP28c7-SP#: 2
 Author(s): @juanjuan
 Contributors:
-Status: Request For Comments (RFC)
+Status: Accepted
 Date Proposed: 2020-11-23
-Date Ratified: 
+Date Ratified: 2021-01-28
 ---
 Domain Role: Operational Support Domain Facilitator
 Proposed Applicant: @juanjuan

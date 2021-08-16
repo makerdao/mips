@@ -1,16 +1,20 @@
-# MIP40c3-SP13: Modify Core Unit Budget, RISK-001
+# MIP40c3-SP13: Modify Core Unit Budget - Risk (RISK-001)
 
 ## Preamble
 
 ```
 MIP40c3-SP#: 13
 Author(s): Primož Kordež
-Contributors: 
-Status: RFC
+Contributors:
+Tags: core-unit, cu-risk-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-05-12
-Date Ratified: 
+Date Ratified: 2021-06-28
 ```
 
+## Sentence Summary
+
+MIP40c3-SP13 adds the budget for Core Unit RISK-001: Risk.
 ## Specification
 
 ## Motivation

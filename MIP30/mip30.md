@@ -7,7 +7,7 @@ MIP#: 30
 Title: Farmable cUSDC Adapter (`CropJoin`)
 Author(s): Lev Livnev (@equivrel), ￼🌧️ McRainface
 Contributors: n/a
-Tags: technical, smart-contracts
+Tags: technical, pending-implementation, smart-contracts
 Type: Technical
 Status: Accepted
 Date Proposed: 2020-11-16

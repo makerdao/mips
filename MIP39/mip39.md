@@ -6,7 +6,7 @@ MIP#: 39
 Title: Core Unit Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
-Tags: process, core-unit-framework, mip-set, mip-set, core-unit-mipset
+Tags: process, core-unit-framework, mip-set, core-unit-framework-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2021-01-18
@@ -59,7 +59,6 @@ A Core Unit is a structure that has a budget attached to it, managed by one or m
 
 Core Units are proposed by community members and voted on by Maker Governance. Each Core Unit may have a budget (MIP40). The Facilitators (MIP41) of a Core Unit may have additional permissions over the Maker Protocol or Governance Processes depending on their Core Unit's nature.
 
-
 **Core Unit Mandates**
 
 Core Unit Mandates set the direction of the work that Facilitators must help carry out by using their budget and exercising their Governance Powers.
@@ -78,23 +77,30 @@ Core Units are at the intersection of Domains (which denote skillsets and capabi
 
 A Core Unit can participate in multiple objectives and can fall under one or more domains.
 
-
 ---
 
 ### MIP39c2: Adding/Modifying Core Units (Subproposal Process)
 
-- This subproposal process allows Governance to create or modify an existing Core Unit by setting its Mandate and/or its name.
-    > Care should be taken so that names and Mandates don't end up drifting apart from each other.
-- Once a subproposal is approved, the Governance Facilitator or the MIP Editor modifies the DAO Primitives State (MIP38) to append a new entry with the Core Unit specified in the subproposal. The Operational Support Core Unit, or the MIP Editor or Governance Facilitator, will also assign a Core Unit ID (e.g.: `GOV1`) to uniquely identify the given Core Unit.
-- The proposal parameters are:
-    - Minimum feedback period: 1 month.
-    - Minimum frozen period: 1 week.
+This subproposal process allows Governance to create or modify an existing Core Unit by setting its Mandate and/or its name.
+
+> Care should be taken so that names and Mandates don't end up drifting apart from each other.
+    
+Once a subproposal is approved, the Governance Facilitator or the MIP Editor modifies the DAO Primitives State (MIP38) to append a new entry with the Core Unit specified in the subproposal. The Operational Support Core Unit, or the MIP Editor or Governance Facilitator, will also assign a Core Unit ID (e.g.: `GOV1`) to uniquely identify the given Core Unit.
+
+The proposal parameters are:
+- Minimum feedback period: 1 month.
+- Minimum frozen period: 1 week.
+
+MIP39c2 subproposals must use the template located at [MIP39c2-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposal-Template.md).
 
 ---
 
 ### MIP39c3: Removing Core Units (Subproposal Process)
 
-- This subproposal process allows Governance to remove a Core Unit from the DAO Primitives State (MIP38). A Core Unit can only be removed if it has no active budget implementations (see MIP40) and no active facilitators (see MIP41).
-- The proposal parameters are:
-    - Minimum feedback period 1 month
-    - Minimum frozen period: 1 week
+This subproposal process allows Governance to remove a Core Unit from the DAO Primitives State (MIP38). A Core Unit can only be removed if it has no active budget implementations (see MIP40) and no active facilitators (see MIP41).
+
+The proposal parameters are:
+- Minimum feedback period 1 month
+- Minimum frozen period: 1 week
+
+MIP39c3 subproposals must use the template located at [MIP39c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposal-Template.md)

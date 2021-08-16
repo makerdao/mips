@@ -1,4 +1,4 @@
-# MIP49: Staking Rewards 
+# MIP49: Staking Rewards
 
 ## Preamble
 
@@ -7,10 +7,11 @@ MIP#: 49
 Title: Staking Rewards
 Author(s): Payton Rose (@prose11), Sam MacPherson (@hexonaut)
 Contributors:@LongForWisdom, @JuanJuan, @Elihu
+Tags: incentives, mkr
 Type: General
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2021-02-03
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 Dependencies:
 Replaces:
 ```

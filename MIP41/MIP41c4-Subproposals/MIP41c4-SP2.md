@@ -5,7 +5,7 @@
 ```
 MIP41c4-SP#:2
 Author(s): Primož Kordež
-Contributors: 
+Contributors:
 Tags: core-unit, cu-risk-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-02-03

@@ -1,4 +1,4 @@
-# MIP4c2: MIP Amendment Subproposals
+# MIP4c2-SP14: MIP0 Amendments
 
 ## Preamble
 
@@ -7,16 +7,16 @@ MIP4c2-SP#: #14
 MIP to be amended: MIP0
 Author(s): @blimpa, @elihu
 Contributors: @LongForWisdom
-Status: Formal Submission
+Status: Accepted
 Date of Amendment Submission: 2021-03-31
-Date of ratification:
+Date of ratification:2021-05-25
 ```
 
+## Sentence Summary
+
+MIP4c2-SP14 amends MIP0 with the intent of making it easier to read and navigate.
+
 ## Specification
-
-### Paragraph Summary
-
-This MIP Amendment trims down, reformats and partly rewords MIP0 with the intent of making it easier to read and navigate. This MIP Amendment does not change MIP0's logic and processes.
 
 ### Motivation
 

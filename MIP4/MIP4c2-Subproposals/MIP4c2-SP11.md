@@ -1,13 +1,14 @@
 # MIP4c2-SP11: MIP24 Amendments
 
 ## Preamble
+
 ```
 MIP4c2-SP#: 11
 MIP to be Amended: MIP24
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
 Tags: mip-amendment, core-unit, emergency
-Status: Request For Comments (RFC)
+Status: RFC
 Date Proposed: 2021-01-18
 Date Ratified:
 Dependencies:

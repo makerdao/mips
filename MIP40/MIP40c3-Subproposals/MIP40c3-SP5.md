@@ -1,12 +1,12 @@
-# MIP40c2-SP5: Core Unit Budget, MKT-001
+# MIP40c3-SP5: Core Unit Budget - Content Production (MKT-001)
 
 ## Preamble
 
 ```
-MIP41c4-SP#: 5
+MIP40c3-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
-Tags: core-unit, cu-mkt-001, budget, active
+Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27
@@ -24,7 +24,7 @@ To fulfill the mandate of the Content Production Core Unit.
 
 ### Core Unit
 
-Content Production (MKR-001)
+Content Production (MKT-001)
 
 ### Quarterly Focus
 
@@ -69,4 +69,4 @@ We aim to provide salaries competitive with regard to market rates and the compe
 
 133.124 Dai covers 3 months; we’re requesting 1/3 (44,375) per month.
 
-Address: 0x6A0Ce7dBb43Fe537E3Fd0Be12dc1882393895237
+Address: 0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60

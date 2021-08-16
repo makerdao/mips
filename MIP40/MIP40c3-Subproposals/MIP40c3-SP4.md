@@ -1,4 +1,4 @@
-# MIP40c3-SP4: Core Unit Budget, GRO-001
+# MIP40c3-SP4: Core Unit Budget - Growth (GRO-001)
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP40c3-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
-Tags: core-unit, cu-gro-001, budget, active
+Tags: core-unit, cu-gro-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-02-24
 Date Ratified: 2021-04-27

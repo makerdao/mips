@@ -5,9 +5,9 @@
 MIP7c4-SP#: 2
 Author(s): Wil Barnes (@wilbarnes)
 Contributors: n/a
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-09-09
-Date Ratified:
+Date Ratified: n/a
 ---
 Domain Team Name: Blue Team (aka Mariano Conti)
 ```

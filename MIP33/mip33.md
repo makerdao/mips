@@ -10,7 +10,7 @@ MIP#: 33
 Title: Maker Stability Price Module.
 Author(s):  Alexis
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Withdrawn
 Date Proposed: 2020-12-27
 Dependencies:
 Replaces: 

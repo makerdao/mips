@@ -6,10 +6,10 @@
 MIP41c4-SP#: 8
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, cu-com-001, facilitator
-Status: Request for Comments (RFC)
+Tags: core-unit, cu-com-001, facilitator, active
+Status: Accepted
 Date Applied: 2021-03-12
-Date Ratified:
+Date Ratified: 2021-07-26
 ```
 
 ## Sentence Summary

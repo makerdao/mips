@@ -1,11 +1,12 @@
 # MIP13c3-SP1: Declaration of Intent (Forward Guidance)
 
 ## Preamble
+
 ```
 MIP13c3-SP#: 1
 Author(s): Akiva Dubrofsky (@akiva)
 Contributors: @vitalyr
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2020-07-08
 Date Ratified:
 ---

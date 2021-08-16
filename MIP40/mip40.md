@@ -6,7 +6,7 @@ MIP#: 40
 Title: Budget Framework
 Author(s): @juanjuan
 Contributors: @elprogreso, @iammeeoh
-Tags: process, core-unit-framework, mip-set, mip-set, core-unit-mipset
+Tags: process, core-unit-framework, mip-set, core-unit-framework-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2021-01-18
@@ -92,6 +92,8 @@ This is a technical process component that can have on-chain effects that alter 
 The proposal parameters are:
 * Minimum feedback period: 1 month.
 * Minimum frozen period: 1 week.
+
+MIP40c3 subproposals must use the template located at [MIP40c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposal-Template.md)
 
 ---
 

@@ -1,4 +1,4 @@
-# MIP40c3-SP6: MakerDAO Shop Budget, MDS-001
+# MIP40c3-SP6: Modify Core Unit Budget - MakerDAO Shop (MDS-001)
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP40c3-SP#: 6
 Author(s): Coulter Mulligan & Mike Porcaro
 Contributors:
-Tags: core-unit, cu-mds-001, budget, active
+Tags: core-unit, cu-mds-001, budget, dai-budget, active
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27

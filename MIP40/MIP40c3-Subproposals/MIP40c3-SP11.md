@@ -1,4 +1,4 @@
-# MIP40c3-SP11: GovAlpha Core Unit Budget - GOV-001
+# MIP40c3-SP11: Modify Core Unit Budget - GovAlpha (GOV-001)
 
 ## Preamble
 
@@ -6,9 +6,10 @@
 MIP40c3-SP#: 11
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
-Status: RFC
+Tags: core-unit, cu-gov-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-05-12
-Date Ratified: N/A
+Date Ratified: 2021-06-28
 ```
 
 ## Sentence Summary
@@ -16,7 +17,7 @@ Date Ratified: N/A
 MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
-MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 532,750 DAI over 3 months - 382,750 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
+MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 520,000 DAI over 3 months - 370,000 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
 
 ### Motivation
 
@@ -70,7 +71,7 @@ The GovAlpha Team will consist of at least the following members in the July/Aug
 @charlesstlouis - Part Time -  MIP Editor  
 
 **--Contributors--**  
-@Elihu - Full Time - Governance Core Unit Contributor  
+@Elihu - Part Time - Governance Core Unit Contributor  
 _Unfilled_ - Part Time PM / Operations  
 _Unfilled_ - Part Time Contributor  
 _Unfilled_ - Part Time Contributor  
@@ -112,14 +113,14 @@ The multiplier for partial commitment is higher than one might initially expect 
 | **People**                        |                 |
 | Core Unit Facilitators (2)        | 59,000 DAI      |
 | MIP Editors (2)                   | 24,500 DAI      |
-| Contributors (4)                  | 51,250 DAI      |
+| Contributors (4)                  | 41,250 DAI      |
 | **Programs**                      |                 |
 | SourceCred Payouts                | 85,000 DAI      |
 | SourceCred Customization/Support  | 6,500 DAI       |
 | SourceCred Feature Development    | 36,000 DAI      |
 | DaiStats Support                  | 1,500 DAI       |
 | CatFlip Equivalent Development    | 6,000 DAI       |
-| DAI Backing Support               | 6,000 DAI       |
+| DAI Backing Support               | 3,000 DAI       |
 | MIPs Portal                       | 20,000 DAI      |
 | Forum Customization               | 4,000 DAI       |
 | **Admin**                         |                 |
@@ -130,7 +131,7 @@ The multiplier for partial commitment is higher than one might initially expect 
 | Gas                               | 5,000 DAI       |
 | Travel                            | 6,000 DAI       |
 | Continuity Budget                 | 150,000 DAI     |
-| **Total**                         | **532,750 DAI** |
+| **Total**                         | **520,000 DAI** |
 
 The full budget can be found [here](https://docs.google.com/spreadsheets/d/1o_IiwcBtN50o4rFH6Wbhhj7RDCKCNjDCHYX3WG4NGFU/edit#gid=1620670023).
 
@@ -152,19 +153,26 @@ As in-person events once again become a regular occurrence, we wish to budget ex
 
 **Continuity Budget**
 
-We are requesting a portion of this quarter's budget allocation for the purpose of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for USDC to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI infeasible.
+We are requesting a portion of this quarter's budget allocation for the purpose of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for an alternative stablecoin to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI infeasible.
 
 150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovAlpha cannot receive monthly budget payments from the protocol. 
 
 ### Budget Implementation
 
-**To be completed**
+GovAlpha has set up a Governance-owned multi-signature wallet that will be used to administer the funds allocated to fulfilling the GovAlpha mandate. The details of this multi-sig wallet are as follows:
 
-Assuming that Payton Rose (@prose11) will be confirmed as a facilitator, we will set up a GovAlpha multi-sig wallet that will be owned by governance and administered by GovAlpha facilitators for the purpose of funding the operations of the GovAlpha core unit. The details of this wallet will be shared once it has been set up.
+**Multi-sig Address:**  
+[0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/#/safes/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances)  
 
-In the event of Payton Rose (@prose11) failing to be ratified as a facilitator of GovAlpha, the Core Unit will continue to use the Interim DAO Multi-sig wallet located at this address **0x73f09254a81e1F835Ee442d1b3262c1f1d7A13ff** that was used for the previous quarter.
+**Keyholders:**  
+[@LongForWisdom](https://forum.makerdao.com/u/LongForWisdom) - [0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69](https://etherscan.io/address/0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69)  
+[@prose11](https://forum.makerdao.com/u/prose11) - [0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE](0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE)
 
-**Payout Dates**
-July - 277,584 DAI  
-August - 127,584 DAI  
-September - 127,584 DAI  
+For the next quarter, GovAlpha is proposing a manual budget implementation that will involve the transfers listed below. Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote. 
+
+**Payout Dates**  
+Month of July - 273,334 DAI  
+Month of August - 123,333 DAI  
+Month of September - 123,333 DAI  
+
+

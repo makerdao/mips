@@ -7,7 +7,7 @@ Title: Peg Stability - Compound Governance Dai Leverage
 Author(s): Alexis
 Contributors: None
 Type: Technical
-Status: Request for Comments (RFC)
+Status: Withdrawn
 Date Proposed: 2021-01-09
 Date Ratified: <yyyy-mm-dd>
 Dependencies: Join Dai-farming, Join Dai-lendler 

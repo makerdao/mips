@@ -1,4 +1,4 @@
-# MIP40c3-SP12: Modify Core Unit Budget, RWF-001
+# MIP40c3-SP12: Modify Core Unit Budget - Real-World Finance (RWF-001)
 
 ## Preamble
 
@@ -6,10 +6,19 @@
 MIP40c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
-Status: RFC
+Tags: core-unit, cu-rwf-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-05-11
-Date Ratified:
+Date Ratified: 2021-06-28
 ````
+
+## Sentence Summary
+
+MIP40c3-SP12 adds the budget for Core Unit RWF-001: Real-World Finance.
+
+## Paragraph Summary
+
+With [MIP40c3-SP1](https://forum.makerdao.com/t/mip40c3-sp1-modify-core-unit-budget-real-world-finance/6225) the Real-World Finance team was able to onboard the first Real-World Asset and provide some financials for MakerDAO. Nevertheless, as no Legal Core Unit is expected in the short term, we need to increase the budget for legal expenses. We also need to solidify the data analytics part, which is currently limited, to integrate MakerDAO and RWA data to provide transparency and insights to stakeholders.
 
 ## Specification
 
@@ -82,4 +91,4 @@ We plan to propose MKR vesting for members. We plan to follow a MakerDAO-wide fr
 Not saying we are following those comparable but we want to provide data to MakerDAO Governance to assess the proposal.
 [Compensantion scales in the FP&A space](https://www.mergersandinquisitions.com/corporate-finance-career-path/)
 Compensation in investment banking in [UK](https://docs.google.com/document/d/14QZ6Zgd9EwjaShrQ470Vlz3LZ5cWsWLoPZcDSSKjfLQ/edit?usp=sharing) and [US](https://www.mergersandinquisitions.com/investment-banker-salary/) ([another source](https://corporatefinanceinstitute.com/resources/careers/compensation/investment-banker-salary/))
-![image|690x350](upload://uys4Wtx0lF3BpJCV8WvjNFsgBEB.png)
+![Table](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP12/table.png)

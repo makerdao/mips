@@ -6,10 +6,10 @@
 MIP39c2-SP#: 10
 Author(s): @wouter, @juanjuan
 Contributors:
-Tags: core-unit, cu-ses-001, mandate
-Status: Formal Submission
+Tags: core-unit, cu-ses-001, active, mandate
+Status: Accepted
 Date Applied: 2021-04-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-05-25
 ```
 
 ## Sentence Summary

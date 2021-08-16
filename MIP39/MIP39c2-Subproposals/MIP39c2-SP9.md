@@ -7,15 +7,18 @@ MIP39c2-SP: 9
 Authors: Kathleen Chu, Maria Magenes
 Contributors: Sahabia Yakubu, Kaori Sato, Francesco Alberti, Nathan Kim
 Tags: core-unit, cu-cpm-001, mandate
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-03-25
 Date Ratified: <yyyy-mm-dd>
 ```
 
+## Sentence Summary
+
+MIP39c2-SP9 adds the Strategic Marcomms Core Unit (CPM-001).
+
 ## Specification
 
 ## Paragraph Summary
-
 
 The Strategic Marcomms unit aims to take MakerDAO to the next level of growth through outreach, branding, marketing, and ads campaigns. It will focus on MakerDAO's target audience groups and markets. Our objectives are:
 
