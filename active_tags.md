@@ -31,6 +31,7 @@
 | incentives |  |
 | integrations |  |
 | liquidations |  |
+| living | Describes MIPs that have live-content to be updated by MIP Editors (active lists) |
 | mandate | Core Unit onboarding subproposals (MIP39c2) |
 | mip-amendment |  |
 | mips | MIPs about the MIP Framework itself |

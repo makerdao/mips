@@ -7,7 +7,7 @@ MIP#: 14
 Title: Protocol DAI Transfer
 Author(s): @LongForWisdom, @jtathmann
 Contributors: N/A
-Tags: process, governance
+Tags: process, governance, living
 Type: Process
 Status: Accepted
 Date Proposed: 2020-05-12

@@ -7,6 +7,7 @@ MIP#: 58
 Title: RWA Foundations
 Author(s): @SebVentures, @christiancdpetersen
 Contributors: N/A
+Tags: living
 Type: General
 Status: RFC
 Date Proposed: 2021-08-04

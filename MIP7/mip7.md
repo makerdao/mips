@@ -6,7 +6,7 @@ MIP#: 7
 Title: Onboarding and Offboarding Domain Teams (Collateral Onboarding)
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23)
 Contributors: @LongForWisdom, Leo Jsaraceno (@Mitote), Helge Andreas Qvam (@planet_X)
-Tags: process, personnel-xboarding, mip-set, collateral-onboarding-mipset
+Tags: process, personnel-xboarding, mip-set, collateral-onboarding-mipset, living
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06

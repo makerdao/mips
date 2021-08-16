@@ -7,7 +7,7 @@ MIP#: 47
 Title: MakerDAO Multisignature Wallet Management
 Author(s): Payton Rose @prose11
 Contributors: @amyjung @LongForWisdom @Elihu
-Tags: general, governance
+Tags: general, governance, living
 Type: General
 Status: Accepted
 Date Proposed: 2021-02-03
