@@ -6,7 +6,7 @@ MIP#: 15
 Title: Dark Spell Mechanism
 Author(s): Wil Barnes (@wilbarnes), Charles St.Louis (@CPSTL)
 Contributors:
-Tags: process, governance, smart-contracts
+Tags: process, governance, smart-contracts, living
 Type: Process
 Status: Accepted
 Date Proposed: 2020-05-21

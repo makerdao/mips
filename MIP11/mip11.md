@@ -5,7 +5,7 @@
 MIP#: 11
 Title: Collateral Onboarding General Risk Model Management
 Author(s): Cyrus Younessi (@DonutJr), Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
-Tags: process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset
+Tags: process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset, living
 Type: Process
 Status: Accepted
 Date Proposed: 2020-04-06

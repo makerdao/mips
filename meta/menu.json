@@ -27,6 +27,11 @@
          "href":"https://mips.makerdao.com/mips/list?&search=&mipsetMode=true"
       },
       {
+         "id":"living",
+         "name":"Living MIPs",
+         "href":"https://mips.makerdao.com/mips/list?&search=$AND(@Accepted,%C2%A0%23living)"
+      },
+      {
          "id":"status",
          "name":"Status",
          "children":[
