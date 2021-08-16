@@ -29,7 +29,7 @@
       {
          "id":"living",
          "name":"Living MIPs",
-         "href":"https://mips.makerdao.com/mips/list?&search=$AND(@Accepted,%C2%A0%23living)"
+         "href":"https://mips.makerdao.com/mips/list?&search=$AND(@Accepted,%23living)"
       },
       {
          "id":"status",
