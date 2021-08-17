@@ -6,9 +6,9 @@
 - List the assets and new controllers using the following template:
 
 #### asset name
-> **Asset Type:** type
-> **Controller:** controller
-> **Purpose:** purpose
+> **Asset Type:** type  
+> **Controller:** controller  
+> **Purpose:** purpose  
 
 ## Record
 - Link to open PR containing the changes to MIPXc2.
