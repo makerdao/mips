@@ -15,8 +15,8 @@ Dependencies: MIP41
 Replaces: N/A
 ```
 ## References
-
-- A list of supporting materials referenced by this MIP.
+**[MIPXc3-ForumPost-Template.md](MIPXc3-ForumPost-Template.md)**  
+**[MIPXc4-Subproposal-Template.md](MIPXc4-Subproposal-Template.md)**  
 
 ## Sentence Summary
 
@@ -42,7 +42,9 @@ MIPXc4 is a process component which allows authors to appeal to Maker Governance
 
 ## Motivation
 
-- A short description of the motivation behind the MIP. 
+The goal of MIPX is to provide a lightweight and efficient mechanism for the modification of control of any digital assets owned by MakerDAO. I have attempted to meet that goal by only requiring an on-chain vote in the event of disagreement between party's over which should have control of a digital asset.
+
+A secondary motivation of MIPX is to create a publicly accessible asset registry that lists the key information about digital assets owned by MakerDAO.
 
 ## Specification / Proposal Details
 
@@ -50,22 +52,24 @@ MIPXc4 is a process component which allows authors to appeal to Maker Governance
 MIPX assumes a few things regarding control and ownership of digital assets within MakerDAO.
 
 **Assumption #1**
-MIPX assumes that some 'owning entity' exists which retains 'owner-control' of DAO owned digital assets. 'Owner-control' is defined as the power to forcably remove control of a digital asset from the controlling entity and transfer it to a new controlling entity. 
+MIPX assumes that some owning entity exists which retains 'owner-control' of DAO owned digital assets. 'Owner-control' is defined as the power to forcably remove control of a digital asset from a controlling entity and transfer it to a new controlling entity. 
 
 At the time of writing this MIP, the 'owning entity' for many of MakerDAO's digital assets is the DAI Foundation.
 
 **Assumption #2**
-MIPX assumes that MakerDAO actors usually have positive relationships with one another and are able to come to mutually satisfactory resolutions in almost all cases of control-transfer.
+MIPX assumes that MakerDAO actors usually have positive relationships with one another and are able to come to mutually satisfactory resolutions in almost all cases of modification of control.
 
 **Assumption #3**
-MIPX assumes that there are sufficient MakerDAO actors to meet the transparency requirements defined in MIPXc2.
+MIPX assumes that there are sufficient MakerDAO actors to meet the transparency requirements defined in MIPXc3.
 
 ### MIPXc2: Digital Asset List
+
+MIPXc2 defines a list of the digital assets owned by MakerDAO and should be managed by the MIP Editors. 
 
 #### vote.makerdao.com
 > **Asset Type:** Subdomain  
 > **Controller:** DUX Incubating Core Unit  
-> **Purpose:** Provide a safe way for Maker Governance to take part in the governance of MakerDAO.  
+> **Purpose:** Provide a safe and reliable way for Maker Governance to take part in the op-chain governance of MakerDAO.  
 
 etc...
 
@@ -75,10 +79,14 @@ An agreed modification of control refers to an uncontested and mutually agreed-u
 
 A subproposal is not required for an agreed modification of control.
 
+In the event an asset has not yet been 'claimed' by any controller, the new controller must still follow the requirements listed in this component.
+
 In order for a modification of control to be valid under this component, it must meet the following requirements:
 
 **Transparency**  
-An agreed mofication of control must be made publicly accessible to Maker Governance. It must remain publicly accessible for at least one week before being considered valid and actioned by the relevant 'owner-control'.
+An agreed mofication of control must be made publicly accessible to Maker Governance using the MakerDAO discourse forum. It must remain publicly accessible for at least one week before being considered valid and actioned by the relevant 'owner-controller'.
+
+The agreed modification of control must use the template located at **[MIPXc3-ForumPost-Template.md](MIPXc3-ForumPost-Template.md)**.
 
 **Supported**  
 An agreed modification of control must be publicly supported by at least three Core Unit Facilitators as defined in MIP41. 
@@ -93,7 +101,22 @@ An agreed modification of control must not be publicly contested by Maker Govern
 **Well Defined**  
 An agreed modification of control must include a listed purpose for the asset and reasoning for why the change in controllers is desirable. It must also clearly list a contact for the digital asset.
 
+**Recorded**
+An agreed modification of control must include a link to an open pull request on the official MIPs github repository which modifies MIPXc2 to take into account the agreed modification. The link to this pull request must be present in the discourse forum post as part of transparency requirements.
+
 ### MIPXc4: Contested Modification of Control
+
+MIPXc4 is a Process MIP component that allows for the resolution of Contested control over a digital asset by appealing to Maker Governance.
+
+If a subproposal under MIPXc4 passes successfully, then the listed modification of control should be made by the 'owner-controller' of that digital asset.
+
+MIPXc4 subproposals have the following parameters:
+- **Feedback Period**: 4 full weeks
+- **Frozen Period**: 1 full week
+
+MIPXc4 subproposals must use the template located at **[MIPXc4-Subproposal-Template.md](MIPXc4-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
+
+---
 
 
 
