@@ -23,9 +23,11 @@ Date of ratification: <yyyy-mm-dd>
 ### Removed MIPs
 
 - A list of the MIPs and their components that are being amended.
+ 
 ### Removal Pull Request
 
 - A link to the PR containing the removal.
+
 ### Relevant Information
 
 - Links to evidence further backing the motivation.

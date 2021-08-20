@@ -1,4 +1,4 @@
-# MIP10c15-SP2: Process to Appoint Light Feed (Infura)
+# MIP10c14-SP2: Process to Appoint Light Feed (Infura)
 
 ## Preamble
 

@@ -17,7 +17,7 @@ Replaces: n/a
 
 ## References
 
-MIP40c3-SP-Template
+[MIP40c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposal-Template.md)
 
 ## Sentence Summary
 

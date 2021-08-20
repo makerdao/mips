@@ -1,4 +1,4 @@
-# MIP10c14: Subproposal to Appoint MyCrypto as a Light Feed for the Maker Oracles
+# MIP10c14-SP6: Subproposal to Appoint MyCrypto as a Light Feed for the Maker Oracles
 
 ## Preamble
 ```
@@ -10,7 +10,7 @@ Tags: oracles
 Status: RFC
 Date Proposed: 2020-07-13
 Date Ratified:
-``` 
+```
 
 ## Sentence Summary
  MIP10c14 appoints MyCrypto as a Light Feed for the Maker Oracles.

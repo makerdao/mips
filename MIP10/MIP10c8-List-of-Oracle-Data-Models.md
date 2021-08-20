@@ -1,6 +1,7 @@
 # MIP10c8: Subproposal for List of Oracle Data Models
 
 ## Preamble
+
 ```
 MIP10c8-SP#: 
 Author(s):
@@ -28,7 +29,8 @@ Date Ratified: <yyyy-mm-dd>
 
 **Data Model Name:** < name >   
 **Data Model Origin:** < link to MIP10c1/MIP10c7 governance vote>   
-**Data Model Discussion:** < link to MIP10c1/MIP10c7 forum discussion >   
+**Data Model Discussion:** < link to MIP10c1/MIP10c7 forum discussion >
+
 |      Source     |  Asset Pair   |  Quorum | Feed Model  | Oracle Model |
 | :-------------- | :------------ | :-----: | :---------: | :----------: |
 | < data source > |   < param >   |  < # >  |  < model >  |  < model >   |
@@ -38,7 +40,8 @@ Date Ratified: <yyyy-mm-dd>
 
 **Data Model Name:** BAT/USD Data Model   
 **Data Model Origin:** N/A   
-**Data Model Discussion** N/A   
+**Data Model Discussion** N/A
+
 | Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
 |:---------|:-----------|:------:|:----------:|:------------:|
 | Binance  | BAT/BTC    | 13     | Median     | Median       |
@@ -48,7 +51,8 @@ Date Ratified: <yyyy-mm-dd>
 
 **Data Model Name:** BTC/USD Data Model   
 **Data Model Origin:** [Governance Portal](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo)   
-**Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-btcusd-oracle-set-protocol-dydx/2011/14)   
+**Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-btcusd-oracle-set-protocol-dydx/2011/14)
+
 | Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
 |:---------|:-----------|:------:|:----------:|:------------:|
 | Bitstamp | BTC/USD    | 13     | Median     | Median       |
@@ -59,7 +63,8 @@ Date Ratified: <yyyy-mm-dd>
 
 **Data Model Name:** ETH/BTC Data Model   
 **Data Model Origin:** [Governance Portal](https://vote.makerdao.com/polling-proposal/qmeymkw5rhenzsevpvnhequj9glvq6n5buzapyrvestcdg)   
-**Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-ethbtc-oracle-tbtc/2010/10)   
+**Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-ethbtc-oracle-tbtc/2010/10)
+
 | Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
 |:---------|:-----------|:------:|:----------:|:------------:|
 | Binance  | ETH/BTC    | 13     | Median     | Median       |
@@ -71,7 +76,8 @@ Date Ratified: <yyyy-mm-dd>
 
 **Data Model Name:** ETH/USD Data Model   
 **Data Model Origin:** N/A   
-**Data Model Discussion:** N/A   
+**Data Model Discussion:** N/A
+
 | Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
 |:---------|:-----------|:------:|:----------:|:------------:|
 | Binance  | ETH/BTC    | 13     | Median     | Median       |
@@ -83,7 +89,8 @@ Date Ratified: <yyyy-mm-dd>
 
 **Data Model Name:** USDC/USD Data Model   
 **Data Model Origin:** [Maker Governance](https://vote.makerdao.com/executive-proposal/proposal-for-collateral-onboarding-of-usdc)   
-**Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-for-collateral-onboarding-of-usdc/1588)   
+**Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-for-collateral-onboarding-of-usdc/1588)
+
 | Source   | Asset Pair | Quorum | Feed Model | Oracle Model |
 |:---------|:-----------|:------:|:----------:|:------------:|
 | 1        | N/A        | N/A    | N/A        | N/A          |

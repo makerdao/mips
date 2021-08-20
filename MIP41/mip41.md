@@ -17,8 +17,8 @@ Replaces: n/a
 
 ## References
 
-MIP41c4-SP-Template
-MIP41c5-SP-Template
+[MIP41c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposal-Template.md)
+[MIP41c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposal-Template.md)
 
 ## Sentence Summary
 

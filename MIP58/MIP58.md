@@ -18,15 +18,15 @@ Replaces: n/a
 
 ## References
 
-MIP58c4-SP-Template
-MIP58c5-SP-Template
-MIP58c6-SP-Template
-MIP58c7-SP-Template
-MIP58c8-SP-Template
-MIP58c9-SP-Template
-MIP58c10-SP-Template
-MIP58c11-SP-Template
-MIP58c12-SP-Template
+[MIP58c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c4-Subproposal-Template.md)
+[MIP58c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c5-Subproposal-Template.md)
+[MIP58c6-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c6-Subproposal-Template.md)
+[MIP58c7-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c7-Subproposal-Template.md)
+[MIP58c8-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c8-Subproposal-Template.md)
+[MIP58c9-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c9-Subproposal-Template.md)
+[MIP58c10-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c10-Subproposal-Template.md)
+[MIP58c11-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c11-Subproposal-Template.md)
+[MIP58c12-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP58/MIP58c12-Subproposal-Template.md)
 
 ## Sentence Summary
 

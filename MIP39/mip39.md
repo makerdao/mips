@@ -15,9 +15,8 @@ Dependencies: MIP38, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 ```
 ## References
-MIP39c2-SP-Template
-MIP39c3-SP-Template
-MIP39c4-SP-Template
+[MIP39c2-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposal-Template.md)
+[MIP39c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposal-Template.md)
 
 ## Sentence Summary
 
@@ -84,7 +83,7 @@ A Core Unit can participate in multiple objectives and can fall under one or mor
 This subproposal process allows Governance to create or modify an existing Core Unit by setting its Mandate and/or its name.
 
 > Care should be taken so that names and Mandates don't end up drifting apart from each other.
-    
+
 Once a subproposal is approved, the Governance Facilitator or the MIP Editor modifies the DAO Primitives State (MIP38) to append a new entry with the Core Unit specified in the subproposal. The Operational Support Core Unit, or the MIP Editor or Governance Facilitator, will also assign a Core Unit ID (e.g.: `GOV1`) to uniquely identify the given Core Unit.
 
 The proposal parameters are:
