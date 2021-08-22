@@ -16,6 +16,13 @@ Date Ratified: <yyyy-mm-dd>
 
 MIP39c2-SP20 adds Collateral Engineering Services Core Unit, CES-001.
 
+For more information about the history of this MIP, please see:
+
+- [MIP39c2-SP12: Adding Collateral Engineering Services Core Unit](https://forum.makerdao.com/t/mip39c2-sp12-adding-collateral-engineering-services-core-unit/8037)
+- [Collateral Onboarding Core Unit Update](https://forum.makerdao.com/t/collateral-onboarding-core-cob-unit-update/8657)
+- [Collateral Onboarding Core Unit Launch Pod Session](https://www.youtube.com/watch?v=Q6xNOLPcw2Y)
+- [Collateral Engineering Services Core Unit Ask Maker Anything](https://www.youtube.com/watch?v=QTWc0q46lXs)
+
 ## Specification
 
 ### Motivation
@@ -54,11 +61,11 @@ Operationalizing our collateral:
 
 1. Realizes the vision of decentralization by placing the power in the hands of the community. This has the benefit of greatly reducing bottlenecks.
 
-2. Aligns an appropriate incentive model for the risk/reward ratio of onboarding new collateral. Not only can we enable the community to onboard collateral, we can give them incentives to attract them to the Maker ecosystem. This also has the side benefit of filtering out collaterals that would not support the generation of a large amount of Dai.
+2. Aligns an appropriate incentive model for the risk/reward ratio of onboarding new collateral. Not only can we enable the community to onboard collateral, we can give them incentives to attract them into the Maker ecosystem. This also has the side benefit of filtering out collaterals that would not support the generation of a large amount of Dai.
 
 3. Encourages a higher level of experimentation with lesser known collateral types/classes due to transparency of the process. Incentives direct behavior. If the rewards are transparent, people will be more motivated to put time in and experiment.
 
-4. Provides an opportunity DAO Core Unit optimization by creating space and focus to take on the most innovative features of collateral management and leaving the basics to the community.
+4. Provides an opportunity for DAO Core Unit optimization by creating space and focus to take on the most innovative features of collateral management and leaving the basics to the community.
 
 ### Strategy
 
@@ -82,13 +89,14 @@ Once we understand the People and Process part, it is then possible to address t
 
 The goal of this initial MIP iteration is to provide a high-level overview of the CES Core Unit. Simply put, our focus is to enable anyone to onboard collateral. We will work with the People, Process, and Technology aspects to fulfill this vision.
 
-This is also a highly collaborative effort between the Core Units. We will be taking all of the best practices today and bundling them together for the initial product release. The “Product” in this case are the current and future tools and documentation that begin to fulfill our vision.
+This is also a highly collaborative effort between the Core Units. We will be taking all of the best practices today and bundling them together for the initial product release. The “Product” in this case are the current and future tools, technology, and documentation that begin to fulfill our vision.
 
-Until Formal Submission on Sep 8, we will be adding to this forum post and others to provide the specific details on the CES Product Plan.
+Until Formal Submission on Sep 8, we will be adding to this forum post and others to provide the specific details on the [CES Product Plan](https://forum.makerdao.com/t/collateral-engineering-services-product-plan/9887).
 
 Please reach out if you have any questions. The goal for us is to be clear, concise, and transparent on the CES Core Unit responsibilities and deliverables.
 
 ## Related Documents
 
-- [MIP40c3-SP30: Collateral Engineering Services Core Unit Budget Proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
-- [MIP41c4-SP21: Facilitator Onboarding, Collateral Engineering Services Core Unit](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
+[Collateral Engineering Services Product Plan](https://forum.makerdao.com/t/collateral-engineering-services-product-plan/9887)
+[MIP40c3-SP30 Collateral Engineering Services Core Unit Budget Proposal](https://forum.makerdao.com/t/mip40c3-sp30-modify-core-unit-budget-collateral-engineering-services-ces-001/9810/6)
+[MIP41c4-SP21: Facilitator Onboarding, Collateral Engineering Services Core Unit](https://forum.makerdao.com/t/mip41c4-sp21-facilitator-onboarding-collateral-engineering-services-core-unit-ces-001/9811/2)
