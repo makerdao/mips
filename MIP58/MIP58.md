@@ -30,60 +30,48 @@ Replaces: n/a
 
 ## Sentence Summary
 
-MIP58: RWA Foundations MIP defines the RWA Foundation, its scope and formalizes how MakerDAO can guide a RWA Foundation
+MIP58: RWA Foundations MIP defines the RWA Foundation concept, its scope and formalizes how MakerDAO can guide a RWA Foundation.
 
 ## Paragraph Summary
 
-MIP58: The RWA Foundation is a Cayman Islands legal entity whose purpose is to manage Real-World Assets investments using the Maker Protocol. The Foundation is administered by one or more supervisors, one or more directors, optional committees and optional authorized signers. This MIP defines how MakerDAO can communicate with the supervisors and the directors.
+MIP58: The RWA Foundation is a Cayman Islands legal entity whose purpose is to manage Real-World Assets investments using the Maker Protocol. The Foundation is administered by one or more supervisors, one or more directors, optional committees and optional authorized signers. This MIP defines how MakerDAO can communicate with the supervisors and the directors of such a Foundation. MakerDAO could use multiple Foundations to achieve its goals.
 
 ## Component Summary
 
 **MIP58c1: The RWA Foundation**
-
 Describes the legal structure of the RWA Foundation
 
 **MIP58c2: The DAO Resolution**
-
 Describes the DAO Resolution with which MakerDAO can instruct the RWA Foundation to act.
 
 **MIP58c3: List of active RWA Foundations**
-
 List the RWA Foundations that recognize this MIP.
 
 **MIP58c4: Generic DAO Resolution**
-
 Describes the process of issuing a generic DAO Resolution.
 
 **MIP58c5: Adding a Supervisor Process**
-
 Describes the process of adding a supervisor at the RWA Foundation.
 
 **MIP58c6: Removing a Supervisor Process**
-
 Describes the process of removing a supervisor at the RWA Foundation.
 
 **MIP58c7: Addition of a Director Process**
-
 Describes the process of adding a director at the RWA Foundation.
 
 **MIP58c8: Removal of a Director Process**
-
 Describes the process of removing a director at the RWA Foundation.
 
 **MIP58c9: Addition of a Committee**
-
 Describes the process of adding a committee at the RWA Foundation.
 
 **MIP58c10: Removal of a Committee**
-
 Describes the process of removing a committee at the RWA Foundation.
 
 **MIP58c11: Addition of an Authorized Signer** 
-
 Describes the process of adding an authorized signer at the RWA Foundation.
 
 **MIP58c12: Removal of an Authorized Signer**
-
 Describes the process of removing an authorized signer at the RWA Foundation.
 
 ## Motivation
@@ -103,7 +91,7 @@ The RWA Foundation legal structure is based on the Cayman Islands Foundation Com
 
 As defined in the following diagram. The RWA Foundation itself is not intended to directly hold any RWA but to have SPV (Special Purpose Vehicle) subsidiaries that hold the actual RWA. RWA Foundation should only hold equity interests in subsidiaries in order to qualify as a "Pure Equity Holding Company" under the "International Tax Co-Operation (Economic Substance) Act" of the Cayman Islands
 
- There could be a SPV per collateral type. This allows to select the right jurisdiction for each SPV and define a set of rules (e.g. Articles of Association) for each. As an example, investments in the U.S. may be generally be carried out through a member-managed Delaware LLC (with RWA Foundation as the sole member). MakerDAO will lend (or contribute) DAI to the RWA Foundation which will contribute (or lend) the proceeds to the SPV for investment in the RWA.
+While there could be one Foundation per collateral type, it can also be a SPV per collateral type (or any hybrid combination). This allows to select the right jurisdiction/legal structure for each SPV and define a set of rules (e.g. Articles of Association) for each. As an example, investments in the U.S. may be carried out through a member-managed Delaware LLC (with RWA Foundation as the sole member) or through a Delaware Statutory Trust (with RWA Foundation as the trust sponsor). MakerDAO will lend (or contribute) DAI to the RWA Foundation which will contribute (or lend) the proceeds to the SPV for investment in the RWA.
 
 For illustrative purposes, the objects for which the RWA Foundations are established could be the following: 
 
@@ -115,7 +103,6 @@ For illustrative purposes, the objects for which the RWA Foundations are establi
 - to do all such things as in the opinion of the directors are or may be incidental or conducive to the above objects or any of them.
 
 ![](https://github.com/makerdao/mips/blob/master/MIP58/diagram.png)
-
 
 In case this MIP conflicts with the Cayman Islands laws, the Articles of Association or the Memorandum of Association of the RWA Foundation, the latter shall prevail. The RWA Foundation MIP applies to any compatible Cayman Foundation regardless of the name of such Foundation.
 
@@ -305,4 +292,4 @@ MIP58c12 subproposals have the following parameters:
 * Feedback Period: 1 week
 * Frozen Period: 1 week
 
-MIP58c12 subproposals must use the template located at [this link](MIP58c12-Subproposal-Template.md). This template is considered ratified once this MIP moves to Accepted status. 
+MIP58c12 subproposals must use the template located at [this link](MIP58c12-Subproposal-Template.md). This template is considered ratified once this MIP moves to Accepted status.
