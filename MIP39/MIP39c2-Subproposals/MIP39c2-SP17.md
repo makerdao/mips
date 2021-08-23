@@ -6,10 +6,10 @@
 MIP39c2-SP#: 17
 Author(s): @sorenpeter
 Contributors: @juanjuan
-Tags: dai-foundation, core-unit, daif-001, mandate
-Status: Formal Submission
+Tags: dai-foundation, core-unit, daif-001, mandate, active
+Status: Accepted
 Date Applied: 2021-07-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-08-23
 ```
 
 ## Sentence Summary

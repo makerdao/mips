@@ -6,10 +6,10 @@
 MIP40c3-SP#: 24
 Author(s): @sorenpeter 
 Contributors: @juanjuan
-Tags: dai-foundation, core-unit, daif-001, budget, dai-budget
-Status: Formal Submission
+Tags: dai-foundation, core-unit, daif-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-07-07
-Date Ratified: YYYY-MM-DD
+Date Ratified: 2021-08-23
 ```
 
 ## Sentence Summary
