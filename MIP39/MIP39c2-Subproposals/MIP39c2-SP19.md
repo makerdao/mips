@@ -103,7 +103,7 @@ While StarkNet is definitely an interesting DeFi platform, it by all means wonâ€
 
 The scope for the budget in this proposal is only for phase I as described below in the chart.
 
-![chart](https://github.com/makerdao/mips/tree/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP19/chart.png)
+![chart](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP19/chart.png)
 
  **Phase 1 deliverable and timelines: DAI bridge to Starknet (3 months)**
 
