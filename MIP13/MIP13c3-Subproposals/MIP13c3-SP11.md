@@ -5,9 +5,9 @@
     MIP13c3-SP#: 11
     Author(s): Yaron Velner (@yaronvel)
     Contributors: n/a
-    Status: Formal Submission
-    Date Proposed: 2021-6-16
-    Date Ratified: <yyyy-mm-dd>
+    Status: Accepted
+    Date Proposed: 2021-06-16
+    Date Ratified: 2021-08-23
     Declaration Statement: Onboarding a new collateral type backed by B.Protocol v2.
     Declaration to Replace: n/a
 
