@@ -49,6 +49,8 @@ Date Ratified: <yyyy-mm-dd>
 | Coinbase | BAT/USDC   |        |            |              |
 | Upbit    | BAT/KRW    |        |            |              |
 
+---
+
 **Data Model Name:** BTC/USD Data Model   
 **Data Model Origin:** [Governance Portal](https://vote.makerdao.com/polling-proposal/qmealoapl7e1yzabsobg9wckj3bs8hb8pgquc5jx7r8qpo)   
 **Data Model Discussion:** [Maker Forum](https://forum.makerdao.com/t/proposal-btcusd-oracle-set-protocol-dydx/2011/14)
@@ -60,6 +62,8 @@ Date Ratified: <yyyy-mm-dd>
 | Coinbase | BTC/USD    |        |            |              |
 | Gemini   | BTC/USD    |        |            |              |
 | Kraken   | BTC/USD    |        |            |              |
+
+---
 
 **Data Model Name:** ETH/BTC Data Model   
 **Data Model Origin:** [Governance Portal](https://vote.makerdao.com/polling-proposal/qmeymkw5rhenzsevpvnhequj9glvq6n5buzapyrvestcdg)   
@@ -74,6 +78,8 @@ Date Ratified: <yyyy-mm-dd>
 | Kraken   | ETH/BTC    |        |            |              |
 | Poloniex | ETH/BTC    |        |            |              |
 
+---
+
 **Data Model Name:** ETH/USD Data Model   
 **Data Model Origin:** N/A   
 **Data Model Discussion:** N/A
@@ -86,6 +92,7 @@ Date Ratified: <yyyy-mm-dd>
 | Gemini   | ETH/USD    |        |            |              |
 | Kraken   | ETH/USD    |        |            |              |
 
+---
 
 **Data Model Name:** USDC/USD Data Model   
 **Data Model Origin:** [Maker Governance](https://vote.makerdao.com/executive-proposal/proposal-for-collateral-onboarding-of-usdc)   
