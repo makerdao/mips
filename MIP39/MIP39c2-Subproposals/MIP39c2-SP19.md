@@ -1,4 +1,4 @@
-# MIP39c2-SP19: Adding the StarkNet Engineering Core Unit - SNE-001
+# MIP39c2-SP19: Adding the StarkNet Engineering Core Unit (SNE-001)
 
 ## Preamble
 
