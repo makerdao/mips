@@ -1,4 +1,4 @@
-# MIP39c2-SP17: adds Core Unit Dai Foundation, DAIF-001
+# MIP39c2-SP17: Adds Dai Foundation Core Unit, DAIF-001
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP39c2-SP#: 17
 Author(s): @sorenpeter
 Contributors: @juanjuan
-Tags: dai-foundation, core-unit, daif-001, mandate, active
+Tags: dai-foundation, core-unit, cu-daif-001, mandate, active
 Status: Accepted
 Date Applied: 2021-07-07
 Date Ratified: 2021-08-23
