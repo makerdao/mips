@@ -133,7 +133,7 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 
    These periods can overlap. See `MIP0c1` for their definitions.
    
-> Please note that the lenghts for these periods is conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md, more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
+> Please note that the lenghts for these periods is conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md), more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
 
 4. **Fulfilled Feedback Period Requirements:** After the MIP has fulfilled the RFC phase, it is ready for Formal Submission.
 
