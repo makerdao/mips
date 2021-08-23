@@ -14,51 +14,50 @@ Date Ratified: N/A
 
 ## Sentence Summary
 
-MIP40c3-SP28 adds the budget for Starknet Engineering Core Unit
+MIP40c3-SP28 adds the budget for StarkNet Engineering Core Unit.
 
 ## Specification
 
 ### Motivation
 
-I am proposing this budget for the StarkNet Engineering Core Unit to be able to succeed in its mandate, specifically: to build a bridge to Starknet that is upgradeable through governance, and enable DAI minting on Starknet as well as investigate porting over other core functionalities (e.g., liquidations, oracles).
-
-This project should result in future protocol improvements in terms of efficiency and user experience as we have seen in the past with other protocols ported over a zk L2.
+I am proposing this budget for the StarkNet Engineering Core Unit to be able to succeed in its mandate, specifically; to build a bridge to StarkNet that is upgradeable through governance. This is referred to as phase I in the main proposal (MIP39c2-SP28).
 
 ### Core Unit ID
 
-SNE-001
+StarkNet Engineering Core Unit
 
 ### Budget considerations
 
-The budget as presented is mostly made of salaries, which have been evaluated in order to provide a competitive package to the team members.
-
-Other budget items that may have to be considered in the future but are not included in the current budget are listed in the last section of this proposal.
-
 ### Budget
 
-The current proposal is for a six months budget. Given the open-ended nature of the project and the fact that the goal of the project is partly to identify improvement vectors for the Maker protocol, we can expect the same team to continue working on solidifying the transition to Starknet, or focus on specific pieces of the protocol that have been identified as high-impact for the efficiency of the protocol and the user experience.
+This budget for phase I secures a team of 2 Senior Engineers, one Data Scientist (part-time), and one Facilitator. The team size is expected to increase in phase II once the roadmap for enabling minting on StarkNet is clearer and syndicated with the community.
 
-This budget secures a team of 5 Senior Engineers, one Data Scientist (part-time), and one Facilitator. We are forming a tight team on purpose, the goal being to make decisions quickly and have a core team of Engineers who will learn to master Cairo and be able to transfer knowledge. As we have more visibility on the exact scope of the protocol we will port over to Starknet, and as we will have more visibility on the improvement levers we want to explore further, we may request for a budget extension. However, the mindset of the team is to stay small and nimble.
+* Duration: 3 months
+* Total amount for Maker foundation: $210,375
+* Headcount: 4 (including one part-time)
 
-The budget asked is $775,000 for six months. The distribution of the budget across profiles is shown below.
+The budget asked is $210,375 for six months, which represents 50% of the total budget. The distribution of the budget across profiles is shown below. The salaries used are taken from Maker internal salary grids and guidelines.
 
-![Pie Chart](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/pie-chart.png)
+![table](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/table.png)
 
----
+The payment of all the non-salary items will be done upon starting the project. The payment of the salaries will be done either bi-weekly or monthly. The budget will be split evenly between the Maker and Starkware.
 
 ### List of Budget Breakdowns
 
-Salaries: The has 5 full-time Senior Engineers with prior knowledge of Solidity, validity proofs, or both. 1 part-time Data Scientist, and 1 full-time Team Facilitator (for a total of 7 members).
+**Salaries:** The has 2 full-time Senior Engineers with prior knowledge of Solidity, validity proofs, or both. 1 part-time Data Scientist, and 1 full-time Team Facilitator (for a total of 4 members).
+
+**Bug bounty:** Bug Bounties allow us to support whitehat involvement in the work we do. Payout amounts will be assessed and determined by the team.
+
+**Gas cost:** Rough estimate, based on gas cost needed by other Core Units, taking into account the scope of phase I.
+
+**Audit:** We will work with one of the firms Maker has worked with before (Gauntlet, PwC, Certora, Quantstamp, Trail of Bits, Consensus, OpenZepplin and Peckshield).
+
+**Buffer:** 10%
 
 ### MKR vesting
 
-This proposal does not include a vesting schedule or bonuses. The form (DAI or MKR) and the vesting schedule of the bonuses will be discussed with the community and added to this proposal in the near future.
+No MKR vesting is proposed for phase I. A MKR vesting based on deliverables will be proposed for phase II.
 
 ### What is not in this budget
 
-* Audits: We may ask for an additional budget for audits when the code is complete, or be able to work with other core unit teams.
-* Gas costs: We may ask for an additional budget for gas costs when the project is further along.
-* Bug bounty: We may ask for an additional budget for a bug bounty when the project is further along.
-
-* Team bonuses: The project is foreseen to last 6 months, hence the bonuses will be deliverable-based. The budget will be updated once the bonuses amounts and form (DAI or MKR) will be discussed and decided by the community.
-* Travel: Our team is decentralized, yet we are not excluding the option to meet in person if we assess it is needed.
+Travel: Our team is remote, yet we are not excluding the option to meet in person if we assess it is needed.
