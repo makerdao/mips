@@ -6,7 +6,7 @@
 MIP41c4-SP#: 18
 Author(s): @sorenpeter  
 Contributors: @juanjuan
-Tags: dai-foundation, core-unit, daif-001, facilitator, active
+Tags: dai-foundation, core-unit, cu-daif-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-07-07
 Date Ratified: 2021-08-23
