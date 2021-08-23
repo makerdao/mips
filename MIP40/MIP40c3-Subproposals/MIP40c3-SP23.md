@@ -6,7 +6,7 @@
 MIP40c3-SP#: 23
 Author(s): @Nadia
 Contributors:
-tags: core-unit, gro-001, budget, mkr-budget, active
+tags: core-unit, cu-gro-001, budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-07-07
 Date Ratified: 2021-08-23
