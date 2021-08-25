@@ -25,10 +25,89 @@ If accepted, this MIP would resolve some [inefficiencies](https://forum.makerdao
 
 This document supersedes the [Liquidations 2.0: Technical Summary](https://forum.makerdao.com/t/liquidations-2-0-technical-summary/4632).
 
+## Component Summary
+
+**MIP45c1: Governance Parameters**
+*Defines Governance Parameters*
+
+**MIP45c2: Vault Liquidation**
+*Describes the usage of `dog.bark`*
+
+**MIP45c3: Vault Liquidation: Partial vs. Total Liquidations**
+*Explains the difference between partial (`LIQ-2.0`) and total (`LIQ-1.2`) liquidations*
+
+**MIP45c4: Limits on DAI Needed to Cover Debt and Fees of Active Auctions**
+*Describes `ilk.hole`, the per-collateral maximum limit for the DAI needed to cover debt + liquidation penalty of active auctions, in contrast to the global limit (`Hole` in `LIQ-2.0`, `box` in `LIQ-1.2`)*
+
+**MIP45c5: Auction Initiation**
+
+**MIP45c6: Liquidation Incentive Mechanism**
+*Expounds the liquidation incentive mechanism in this design*
+
+**MIP45c7: Four-Stage Liquidation Circuit Breaker**
+*Covers the four stages of the circuit breaker built into the `Clipper` contract*
+
+**MIP45c8: Bidding (Purchasing)**
+*Describes the functioning of the purchasing function `Clipper.take`*
+
+**MIP45c9: Example Liquidation**
+
+**MIP45c10: Features**
+*Introduces the change from English-style auctions to Dutch-style auctions*
+
+**MIP45c11: Instant Settlement**
+*Explains how Dutch auctions mitigate price volatilty risk and allow for faster capital recycling*
+
+**MIP45c12: Flash Lending of Collateral**
+*Explains how flash lending eliminates any capital requirement for bidders*
+
+**MIP45c13: Price as a Function of Time**
+*Describes `abaci.sol`*
+
+**MIP45c14: Resetting an Auction**
+*Describes the conditions for a reset and the process of resetting*
+
+**MIP45c15: Improved Keeper Wallet Security**
+*Explains the decreased exposure risk for keepers in this system versus LIQ-1.2*
+
+**MIP45c16: Incentive to call `redo()`**
+*Describes the function `call.redo()`, reviews its parameters and the incentives to call it*
+
+**MIP45c17: Shutdown (Global Settlement, Emergency Shutdown)**
+
+**MIP45c18: Interfaces**
+*Describes interfaces `Dog` and `Clipper`*
+
+**MIP45c19: Incentive Farming**
+*Reviews the risk of incentive farming*
+
+**MIP45c20: Price Decreases Too Quickly**
+*Reviews the risk of prices decreasing too quickly*
+
+**MIP45c21: Price Decreases Too Slowly**
+*Reviews the risk of prices decreasing too slowly*
+
+**MIP45c22: Front-Running**
+*Reviews the risk of front-running in this system in constrast to LIQ-1.2*
+
+**MIP45c23: OSM Risk for Start Price**
+*Reviews the risky flipside of the one-hour OSM price delay*
+
+**MIP45c24: Setting Hole or ilk.hole Too High**
+*Reviews the risk of setting `Hole`or `ilk.hole` too high*
+
+**MIP45c25: Setting Hole or ilk.hole Too Low**
+*Reviews the risk of setting `Hole` or `ilk.hole` too low*
+
+**MIP45c26: `Dog` Invariants**
+
+**MIP45c27: `Clipper` Invariants**
+
+**MIP45c28: Invariants involving quantities from both the `Dog` and `Clipper`**
+
 ## Specification
 
-
-### MIP45c1 Governance Parameters
+### MIP45c1: Governance Parameters
 
 #### `Abacus/LinearDecrease` -- **tau** [seconds]
 
@@ -111,7 +190,7 @@ Max DAI needed to cover debt + liquidation penalty of active auctions per collat
 
 The address of the accounting system contract. The recipient of the bad debt coming from a vault when it's liquidated.
 
-### MIP45c2 Vault Liquidation
+### MIP45c2: Vault Liquidation
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/dog.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/dog.sol)
 
@@ -134,15 +213,15 @@ The address of the accounting system contract. The recipient of the bad debt com
 
 In the context of the Maker protocol, a "liquidation" is the automatic transfer of collateral from an insufficiently collateralized Vault, along with the transfer of that Vault's debt to the protocol. In both the current liquidation contract (the `Cat`) and the 2.0 version (the `Dog`), an auction is started promptly to sell the transferred collateral for DAI in an attempt to cancel out the debt now assigned to the protocol. This makes the behavior of the new contract very similar to that of the current one, but there are some important differences, explained below.
 
-#### MIP45c3 Partial vs. Total Liquidations
+### MIP45c3: Partial vs. Total Liquidations
 
 In the current system, in each call to the liquidation function (`Cat.bite`) transfers a fixed amount of debt (the `dunk`) from the affected Vault, along with a proportional amount of the Vault's collateral to the protocol. For example, if 50% of a Vault's debt is taken by the protocol, then half of its collateral is taken as well. If the Vault's debt is less than the `dunk`, then all debt and collateral is taken. In 2.0, all debt is taken when the liquidation function (`Dog.bark`) is called, and no analogue of the `dunk` parameter exists. The reasoning behind this change is that because the new auctions allow partial purchases of collateral, the liquidity available to a participant no longer limits their ability to participate in auctions, so instead the total number of auctions should be minimized.  Just to emphasize, there is no longer a minimum DAI liquidity requirement for the sale of collateral on a per-participant basis.
 
-#### MIP45c4 Limits on DAI Needed to Cover Debt and Fees of Active Auctions
+### MIP45c4: Limits on DAI Needed to Cover Debt and Fees of Active Auctions
 
 In situations involving large amounts of collateral at auction, the current and new designs modify the behavior described in the previous section. Both liquidations 1.2 and 2.0 implement a limit on the total amount of DAI needed to cover the summed debt and liquidation penalty associated with all active auctions.  In `LIQ-1.2` this is called the `box`, and in `LIQ-2.0` we call this the `Hole`.  Whenever the maximum possible addition to this value is less than the amount of debt+fees that would otherwise be sent to auction, a partial liquidation is performed so as not to exceed this amount. In the current system there is only a global limit; in 2.0, in addition to the global limit, there is also a per-collateral limit.  Similar to how there is an `ilk.line` for a collateral's debt ceiling and a `Line` for the overall system debt ceiling, there is now an `ilk.hole` to correspond with the `Hole`.  This ensures that typical market depth against DAI can be taken into account on a per-collateral basis by those determining risk parameters. The `Dirt` accumulator tracks the total DAI needed to cover the debt and penalty fees of all active auctions, and must be less than `Hole` for a call to `bark` to succeed. For each collateral type, `ilk.dirt` tracks the total DAI needed to cover the debt and penalty fees of a all active auctions for that `ilk`, and must be less than `ilk.hole` for a call to `bark` (on a Vault of that `ilk`) to succeed.
 
-### MIP45c5 Auction Initiation
+### MIP45c5: Auction Initiation
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol)
 
@@ -173,7 +252,7 @@ In situations involving large amounts of collateral at auction, the current and 
 
 The initial price is set by reading the current price in the corresponding [Oracle Security Module](https://docs.makerdao.com/smart-contract-modules/oracle-module/oracle-security-module-osm-detailed-documentation) (OSM) and multiplying by a configurable percentage (the `buf` parameter). Note that the *current* OSM price is between one and two hours delayed relative to the actual market price.  A keeper doesn't make a call to `Clipper.kick` directly, but rather makes a call to `Dog.bark` which in turn calls `Clipper.kick`.
 
-### MIP45c6 Liquidation Incentive Mechanism
+### MIP45c6: Liquidation Incentive Mechanism
 
 In this design, there is less incentive to quickly liquidate Vaults than in the current system, because there is no inherent advantage obtained by doing so. In contrast, the current auction system grants the account triggering a liquidation the privilege of making the first bid in the resulting auction. It is unclear whether this matters significantly in practice, or whether some stronger incentive should be added (for example, a small DAI reward paid to liquidators).
 
@@ -185,7 +264,7 @@ To ensure there was a remedy for this potential issue, an incentive mechanism wa
 
 These parameters must be set extremely carefully, lest it be possible to exploit the system by "farming" liquidation rewards (e.g. creating Vaults with the intention of liquidating them and profiting from the too-high rewards). Generally, the liquidation reward should remain less than the minimum liquidation penalty by some margin of safety so that the system is unlikely to accrue a deficit. This doesn't necessarily prevent farming, it just helps ensure the system remains solvent. For example, incentives can be farmed in a capital-efficient way when `Dirt` is close to `Hole` or when `ilk.dirt` is close to `ilk.hole` for some collateral type. An attacker would purchase a small amount of collateral from a running auction, freeing up a small amount of room relative to either `Hole` or `ilk.hole`, then liquidate a small portion of an existing Vault to collect the reward, and repeat the process. This can be done over and over in the same transaction, and the activation of EIP 2929 (scheduled for the Berlin hard fork at the time of writing) will significantly reduce the associated gas costs (due to warm storage reads and writes). Note that since the attacker does not need to create their own Vaults, the size of the liquidation penalty in relation to the incentive value is not a deterrent; only gas costs matter to the attacker. The fact that the Dog prevents partial liquidations that remove less than `ilk.dust` debt from a Vault helps to mitigate this scenario--so long as the liquidation penalty exceeds the total reward for this minimal liquidation size, _and the liquidation penalty is reliably collected by the resulting auction_ (which may not hold under conditions of market or network perturbation), the system should not on balance accrue bad debt.
 
-### MIP45c7 Four-Stage Liquidation Circuit Breaker
+### MIP45c7: Four-Stage Liquidation Circuit Breaker
 
 In this section, we'll cover the four stages of the liquidation circuit breaker. In contrast to `LIQ-1.2`, Liquidations 2.0 comes with a four-stage circuit breaker built into the `Clipper` contract. The stages are:
 
@@ -196,7 +275,7 @@ In this section, we'll cover the four stages of the liquidation circuit breaker.
 
 Just like in `LIQ-1.2`, the circuit breaker will be available through a `ClipperMom` contract giving governance the ability to bypass the `GSM` delay for circuit breaker actions.
 
-### MIP45c8 Bidding (Purchasing)
+### MIP45c8: Bidding (Purchasing)
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol)
 
@@ -241,26 +320,26 @@ After the external call completes (or immediately following the transfer of coll
 
 Lastly, various values are updated to record the changed state of the auction: the DAI needed to cover debt and fees for outstanding auctions, and outstanding auctions of the given collateral type, are reduced (via a callback to the liquidator contract) is reduced by `owe`, and the `tab` (DAI collection target) and `lot` (collateral for sale) of the auction are adjusted as well. If all collateral has been drained from an auction, all its data is cleared and it is removed from the active auctions list. If collateral remains, but the DAI collection target has been reached, the same is done and excess collateral is returned to the liquidated Vault.
 
-#### MIP45c9 Example Liquidation
+### MIP45c9: Example Liquidation
 
 ![](https://i.imgur.com/BgOFMyZ.gif)
 **Figure MIP45c9.1**: NOTE: in the above figure, `tau` is `tail`.
 
 In this example we can see a linear decrease function (`calc`), with an `ETH-A` OSM price of **200 DAI**, a `buf` of **20%**, a `tail (tau)` of **21600** seconds, a `tab` of ***60,000 DAI** with a `lot` of `347.32` ETH.  There are two bidders, **Alice** and **Bob**.  **Alice** calls `take` first and is willing to give ***50,000 DAI** in return for **256.41** ETH collateral, a price of **195 DAI** per ETH.  The price of ETH continues to fall over time, and **Bob** picks up the remaining **90.91** ETH for **10,000 DAI**, a price of **110 DAI** per ETH.  If more than `tail` seconds have elapsed since the start of the auction, or if the price has fallen to less than `cusp` percent of `top`, then `Clipper.take` would revert if called, and the auction would need to be reset with a `Clipper.redo` call.
 
-#### MIP45c10 Features
+### MIP45c10: Features
 
 As discussed previously, collateral auctions are being changed from English to Dutch style. The current auction functionality is described in the official Maker documentation; here, we will focus on the new Dutch design, and only reference some contrasting points relative to the current design.
 
-##### MIP45c11 Instant Settlement
+### MIP45c11: Instant Settlement
 
 Unlike the current English auctions, in which DAI bids are placed, with a participant's capital remaining locked until they are outbid or until the auction terminates, Dutch auctions settle instantly. They do so according to a price calculated from the initial price and the time elapsed since the auction began. Price versus time curves are discussed more later. The lack of a lock-up period mitigates much of the price volatility risk for auction participants and allows for faster capital recycling.
 
-##### MIP45c12 Flash Lending of Collateral
+### MIP45c12: Flash Lending of Collateral
 
 This feature, enabled by instant settlement, eliminates any capital requirement for bidders (excepting gas)—in the sense that even a participant with zero DAI (and nothing to trade for DAI) could still purchase from an auction by directing the sale of the auction's collateral into other protocols in exchange for DAI. Thus, all DAI liquidity available across DeFi can be used by any participant to purchase collateral, subject only to gas requirements. The exact mechanics are discussed above, but essentially a participant needs to specify a contract `who` (which conforms to a particular interface), and `calldata` to supply to it, and the auction contract will automatically invoke whatever logic is in the external contract.
 
-##### MIP45c13 Price as a Function of Time
+### MIP45c13: Price as a Function of Time
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/abaci.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/abaci.sol)
 
@@ -268,7 +347,7 @@ Price-versus-time curves are specified through an interface that treats price at
 
 It is important for bidders to take into account that while the price almost always decreases with time, there are infrequent occasions on which the price of an active auction may increase, and this could potentially result in collateral being purchased at a higher price than intended. The most obvious event that would increase the price in a running auction is if that auction is reset (via `redo`), but changes to the configurable parameters of a price decrease calculator (or even the switching out of one calculator for another) by governance can also increase the price. It is recommended that bidders (or bidding UIs that abstract this detail away from the user) choose the maximum acceptable price (`max`) argument to `take` carefully to ensure a desirable outcome if the price should unexpectedly increase.
 
-##### MIP45c14 Resetting an Auction
+### MIP45c14: Resetting an Auction
 
 As mentioned above, auctions can reach a defunct state that requires resetting for two reasons:
 
@@ -277,11 +356,11 @@ As mentioned above, auctions can reach a defunct state that requires resetting f
 
 The reset function, when called, first ensures that at least one of these conditions holds. Then it adjusts the starting time of the auction to the current time, and sets the starting price in exactly the same way as is done in the initialization function (i.e. the current OSM price increased percentage-wise by the `buf` parameter). This process will repeat until all collateral has been sold or the whole debt has been collected (unless the auction is canceled via `yank`, e.g. during Emergency Shutdown); contrast this behavior with the current auctions, which reset until at least one bid is received.
 
-##### MIP45c15 Improved Keeper Wallet Security
+### MIP45c15: Improved Keeper Wallet Security
 
 If keepers decide to use the `clipperCallee` pattern, then they need not store DAI or collateral on that account.  This means a keeper need only hold enough ETH to execute transactions that can orchestrate the `Clipper.take` call, sending collateral to a contract that returns DAI to the `msg.sender` to pay for the collateral all in one transaction.  The contract implementing the `clipperCallee` interface can send any remaining collateral or DAI beyond `owe` to a cold wallet address inaccessible to the keeper. **NOTE: If the keeper chooses to behave as an EOA address, then the DAI and collateral would be exposed just as in `LIQ-1.2` unless special care is taken to create a proxy contract.**
 
-## MIP45c16 Incentive to call `redo()`
+### MIP45c16: Incentive to call `redo()`
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol)
 
@@ -304,7 +383,7 @@ If keepers decide to use the `clipperCallee` pattern, then they need not store D
 
 An auction that has expired or which is currently offered at a value higher than the oracle threshold will likely not complete at favorable values. The system therefore provides a direct incentive to `Clipper.redo` the auction, resetting it's expiration and setting the starting price to match the current oracle price + buf. The redo includes the same Dai incentive to the keeper as the `Clipper.kick`, which is based on the flat fee plus the governance-defined percentage of collateral.  There is one exception to this incentive.  If the `tab` or `lot * price` remaining is under the `Clipper.chost` limit, then there will be no incentive paid to `redo` the auction.  This is to help prevent incentive farming attacks where no keepers bid on dusty lots, and `Clipper.redo` is called repeatedly.  If auctions in this state build up, governance may choose to pay a keeper to clean them up.
 
-### MIP45c17 Shutdown (Global Settlement, Emergency Shutdown)
+### MIP45c17: Shutdown (Global Settlement, Emergency Shutdown)
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/end.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/end.sol)
 
@@ -321,7 +400,7 @@ The `End` module will be upgraded together with the auction contracts as a new f
 
 This function `End.snip` is responsible for calling `Clipper.yank` for any running auction when shutdown is triggered.  It will receive the collateral from `Clipper.yank` and will send it back to the vault owner together with the remaining debt to recover.  One consideration to note is that the debt that the vault owner will receive includes the liquidation penalty part already charged.
 
-### MIP45c18 Interfaces
+### MIP45c18: Interfaces
 
 #### `Dog` Interface
 
@@ -501,7 +580,7 @@ function yank(uint256 id) external;
 
 This section covers some of the known risks with Liquidations 2.0
 
-### MIP45c19 Incentive Farming
+### MIP45c19: Incentive Farming
 
 Periodically, governance may increase the `ilk.dust` amount.  When this happens, it's usually because gas has become so expensive it impacts the efficiency of liquidations.  That is, the cost of calling `Dog.bark()`, `Clipper.take()`, or `Clipper.redo()` may exceed the collateral offered.  Incentives may be used as a remedy to this potential issue and possibly a way for the protocol to keep `ilk.dust` lower; however, governance must take care when increasing the `ilk`s `dust`, `tip`, or `chip` not to incentivize the creation of many Vaults to farm this incentive.  An example of an exploit is as follows:
 
@@ -513,7 +592,7 @@ Periodically, governance may increase the `ilk.dust` amount.  When this happens,
 
 In order to thwart this attack governance must be careful when setting `ilk.tip` and `ilk.chip` so as not to create this perverse incentive.
 
-### MIP45c20 Price Decreases Too Quickly
+### MIP45c20: Price Decreases Too Quickly
 
 If the price decreases too quickly it can have the following consequences:
 
@@ -521,7 +600,7 @@ If the price decreases too quickly it can have the following consequences:
 - bidders end up having reverts due the auction ended before tx confirmation
 - bidders end up paying much less than what they were willing to pay (possibly generating permanent bad debt)
 
-### MIP45c21 Price Decreases Too Slowly
+### MIP45c21: Price Decreases Too Slowly
 
 If the price decreases too slowly it can have the following consequences:
 
@@ -530,19 +609,19 @@ If the price decreases too slowly it can have the following consequences:
     - After the reset the price catches up, but still leaves bad debt
     - After the reset the auction price still might not catch up, causing more resets and very likely leaving bad debt
 
-### MIP45c22 Front-Running
+### MIP45c22: Front-Running
 
 In `LIQ-1.2` there is limited front-running risk as it requires capital to participate in auctions; however, in liquidations 2.0 if a keeper chooses to participate with no capital, there is substantial front-running risk from generalized front-running bots.  The easier it is to replace the `from` address of the transaction with one's own, the greater the risk.  To mitigate this risk keepers are encouraged to used authorized proxy contracts to interact with liquidations 2.0 and provide some amount of their own capital when bidding.  More aggressive gas prices may also work.  Unfortunately, we found no great way to prevent generalized front-running that preserves single-block composability.
 
-### MIP45c23 OSM Risk for Start Price
+### MIP45c23: OSM Risk for Start Price
 
 Because `Clipper.kick` and `Clipper.redo` consult the OSM for the collateral price, auction settlement prices are very sensitive to an oracle attack. This is primarily mitigated by the one-hour OSM price delay, `Dog.Hole`, and `ilk.hole`. The fact that the price is delayed by one hour, however, presents a risk of its own: since the price is out-of-date relative to the market, it may be either too high or too low to allow for efficient settlement given other parameters like `buf` and the price decrease function. The consequences of either case are effectively covered by the sections on the risk of the price decreasing either too quickly or too slowly.
 
-### MIP45c24 Setting Hole or ilk.hole Too High
+### MIP45c24: Setting Hole or ilk.hole Too High
 
 While `Dog.Hole` and `ilk.hole` can be set much higher in liquidations 2.0, there are still risks to setting this too high.  A value for `Dog.Hole` that's set too high could result in far too much DAI demand, breaking the peg high.  This is somewhat mitigated by the PSM and stablecoin collateral types, but should still factor in to how this parameter is set.  An `ilk.hole` that is set too high, may have the additional result of causing a downward spiral as the liquidations push the asset price lower.  In addition, if there is an oracle attack, this parameter can be thought of as our maximum exposure.
 
-### MIP45c25 Setting Hole or ilk.hole Too Low
+### MIP45c25: Setting Hole or ilk.hole Too Low
 
 If we set either `Dog.Hole` or `ilk.hole` too low, we run the risk of not being able to liquidate enough collateral at once.  This could lead to a buildup of undercollateralized positions in the system, eventually causing the accrual of bad debt.
 
@@ -564,13 +643,13 @@ Parameters, e.g. `tail`, `cusp`, or the price decrease function or any of its pa
 
 These invariants have not yet been formally proven, and thus should only be considered intended behavior for now.
 
-### MIP45c26 `Dog` Invariants
+### MIP45c26: `Dog` Invariants
 
 ```
 sum_over_all_ilks(Dog.ilk.dirt) == Dog.Dirt                             (c26.1)
 ```
 
-### MIP45c27 `Clipper` Invariants
+### MIP45c27: `Clipper` Invariants
 
 ```
 sum_over_auction_ids(Clipper.sales[id].lot) <= Vat.gem(Clipper)         (c27.1)
@@ -578,7 +657,7 @@ sum_over_auction_ids(Clipper.sales[id].lot) <= Vat.gem(Clipper)         (c27.1)
 
 The above is an inequality (and not an _equality_) because it is impossible to prevent a user or contract from choosing to send collateral to a `Clipper`, even though it only makes sense for the `Dog` to do so. Governance (or a new module) could create a violation of this property by calling `kick` without transferring appropriate collateral to the `Clipper`. Thus this is actually a pseudo-invariant that only holds if callers of `kick` respect the requirement to send collateral to the `Clipper`, but it should hold for the live system if deployment and authorization is done correctly. It should hold if only active auctions are summed over as well.
 
-### MIP45c28 Invariants involving quantities from both the `Dog` and `Clipper
+### MIP45c28: Invariants involving quantities from both the `Dog` and `Clipper
 
 ```
 sum_over_auctions_ids_and_ilks(Dog.ilk.clip.sales[id].tab) == Dog.Dirt  (c28.1)
