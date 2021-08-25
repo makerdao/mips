@@ -1,9 +1,5 @@
 # MIP27: Debt Ceiling Instant Access Module
 
-## Introduction
-
-Following the [Pre-MIP Discussion](https://forum.makerdao.com/t/debt-ceiling-instant-access-module-pre-mip-discussion/3924), this MIP formalizes the Maker Improvement Proposal request for a Debt Ceiling Instant Access Module. Since further work has also been done on [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-adjustments/4312) it is worth noting that this MIP does not render MIP17 redundant. It will be for the community to decide at which point they wish to move towards using an Instant Access Module for controlling debt ceilings.
-
 ## Preamble
 
 ```
@@ -28,6 +24,34 @@ MIP27 defines the Debt Ceiling Instant Access Module (DC-IAM) allowing any user 
 An Instant Access Module contains components to create direct, bounded changes to the Maker Protocol without consensus in DSChief (or DssGov). This MIP introduces a Debt Ceiling Instant Access Module that permits anyone to adjust the debt ceiling within constraints that are voted in by Governance. This flexibility introduces concepts such as the minimum time required to wait before it is possible to increase the debt ceiling, as well as the maximum amount that the ceiling can be adjusted to, which will be discussed below.
 
 The parameters and boundaries included herein should be considered examples and will be voted in at the time of implementation. There is an expectation that MIP17 and ongoing community governance experience will help inform the correct risk boundaries and governance parameters.
+
+## Component Summary
+
+**MIP27c1: Definitions**
+*Defines the DC-IAM parameters*
+
+**MIP27c2: Adjusting the Debt Ceiling**
+*Describes the procedure for adjusting the Debt Ceiling*
+
+**MIP27c3: Example**
+
+**MIP27c4: Defensive Debt Ceiling**
+*Defines the DDC*
+
+**MIP27c5: Authority**
+*Indicates who is authorized to call the DC-IAM*
+
+**MIP27c6: Security**
+*Offers some security considerations in relation to the `ttl`*
+
+**MIP27c7: DC-IAM Onboarding of Collateral Types**
+*Describes the procedure for onboarding collateral types into the DC-IAM*
+
+**MIP27c8: Licensing**
+
+## Introduction
+
+Following the [Pre-MIP Discussion](https://forum.makerdao.com/t/debt-ceiling-instant-access-module-pre-mip-discussion/3924), this MIP formalizes the Maker Improvement Proposal request for a Debt Ceiling Instant Access Module. Since further work has also been done on [MIP17](https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-adjustments/4312) it is worth noting that this MIP does not render MIP17 redundant. It will be for the community to decide at which point they wish to move towards using an Instant Access Module for controlling debt ceilings.
 
 ## Motivation
 
