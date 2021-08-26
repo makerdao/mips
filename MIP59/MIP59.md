@@ -8,7 +8,7 @@ Author(s): Tal Baneth (@talbaneth)
 Contributors: Sam MacPherson (@hexonaut), Derek Flossman (@Derek) 
 Tags: technical, module, smart-contracts
 Type: Technical
-Status: <Assigned by MIP Editor>
+Status: RFC
 Date Proposed: 2021-08-26
 Date Ratified: n/a
 Dependencies: n/a
