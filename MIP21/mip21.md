@@ -32,21 +32,27 @@ With the proposed on-boarding of Real World Assets as collateral into the Maker 
 
 ## Component Summary
 
-**MIP21c1: Collateral Parameters** where the per-collateral asset parameters are defined.
+**MIP21c1: Collateral Parameters**
+_Where the per-collateral asset parameters are defined_
 
-**MIP20c2: Smart Contract Components** where the contracts novel to this proposal are listed and described.
+**MIP21c2: Smart Contract Components**
+_Where the contracts novel to this proposal are listed and described_
 
-**MIP20c3: Liquidation Oracle** where the details of the liquidation oracle contract are described.
+**MIP21c3: Liquidation Oracle**
+_Where the details of the liquidation oracle contract are described_
 
-**MIP21c4: Write-offs** where the process for writing off losses is described.
+**MIP21c4: Write-offs**
+_Where the process for writing off losses is described_
 
-**MIP20c5: Proposed Code** where the proposed code is linked.
+**MIP21c5: Proposed Code**
+_Where the proposed code is linked_
 
-**MIP20c6: Test Cases** where the test cases are listed.
+**MIP21c6: Test Cases**
+_Where the test cases are listed_
 
-**MIP20c7: Security Considerations** is See Below
+**MIP21c7: Security Considerations**
 
-**MIP20c8: Auditor Information and Report** is See Below
+**MIP21c8: Auditor Information and Report**
 
 ## Motivation
 
