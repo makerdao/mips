@@ -77,13 +77,13 @@ Declarations of both types (and anything in-between) should be considered legiti
 
 ### MIP13c2: List of Active Declarations
 
-This list can be amended through subproposals created under MIP13c3, MIP13c4 and MIP13c5.
+This list can be amended through subproposals created under MIP13c3 and MIP13c4.
 
 **Entries into this list should follow the following template:**
 
 ```
 Declaration Statement:
-Sub-proposal Number: #
+Subproposal: #
 Date Ratified: (yyyy-mm-dd)
 ```
 
@@ -93,33 +93,59 @@ Note that the subproposal code should link to the relevant subproposal.
 
 #### MIP13c3-SP2: Add support for flash-minting Dai
 
-> "Add support for flash-minting Dai."  
-\- [MIP13c3-SP2](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP2.md), 2020-09-30
+- Declaration Statement:
+> Add support for flash-minting Dai.
+- Subproposal: [MIP13c3-SP2](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP2.md)
+- Date Ratified: 2020-09-30
 
 #### MIP13c3-SP3
 
-> "Creation of a Strategic Reserves Fund to have a financial power and autonomy."   
-\- [MIP13c3-SP3](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP3.md), 2020-10-28  
+- Declaration Statement:
+	> Creation of a Strategic Reserves Fund to have a financial power and autonomy.
+- Subproposal: [MIP13c3-SP3](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP3.md)
+- Date Ratified: 2020-10-28
 
 #### MIP13c3-SP4
 
-> "Maker Governance Intends to Utilize an Off-Chain Asset Backed Lender to onboard Real World Assets into the Maker Protocol to borrow DAI and deploy in the “Real World”."
-\- [MIP13c3-SP4](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP4.md), 2020-10-28  
+- Declaration Statement:
+	> Maker Governance Intends to Utilize an Off-Chain Asset Backed Lender to onboard Real World Assets into the Maker Protocol to borrow DAI and deploy in the “Real World”.
+- Subproposal: [MIP13c3-SP4](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP4.md)
+- Date Ratified: 2020-10-28
 
 #### MIP13c3-SP5
 
-> "MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD."  
-\- [MIP13c3-SP5](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP5.md), 2020-10-28  
+- Declaration Statement:
+> MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD.
+- Subproposal: [MIP13c3-SP5](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP5.md)
+- Date Ratified: 2020-10-28
 
 #### MIP13c3-SP6
 
-> "Maker Governance intends to fund the use of SourceCred within the Maker Community to incentivize effective governance of the Maker Protocol."
-\- [MIP13c3-SP6](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP6.md), 2020-11-27  
+- Declaration Statement:
+	> Maker Governance intends to fund the use of SourceCred within the Maker Community to incentivize effective governance of the Maker Protocol.
+- Subproposal: [MIP13c3-SP6](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP6.md)
+- Date Ratified: 2020-11-27
 
 #### MIP13c3-SP7
 
-> "Maker Governance intends to form a Governance Communications domain with the mandate described in this declaration."
-\- [MIP13c3-SP7](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP7.md), 2021-01-30  
+- Declaration Statement:
+	> Maker Governance intends to form a Governance Communications domain with the mandate described in this declaration.
+- Subproposal: [MIP13c3-SP7](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP7.md)
+- Date Ratified: 2021-01-30
+
+### MIP13c3-SP10
+
+- Declaration Statement:
+	> Analysis of a EUR-pegged DAI
+- Subproposal: [MIP13c3-SP10](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP10.md)
+- Date Ratified: 2021-04-27
+
+### MIP13c3-SP11
+
+- Declaration Statement:
+	> Onboarding a new collateral type backed by B.Protocol v2.
+- Subproposal: [MIP13c3-SP11](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP11.md)
+- Date Ratified: 2021-08-23
 
 ---
 
