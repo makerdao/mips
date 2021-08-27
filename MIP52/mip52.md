@@ -33,7 +33,7 @@ This component outlines a process by which a community member or stakeholder can
 
 This component outlines a process by which a community member or stakeholder can cause an immediate on-chain binary option poll in the next eligible weekly governance cycle.
 
-**MIP52c3 - MI52c2 Burn Amount**
+**MIP52c3: MI52c2 Burn Amount**
 
 A parameter set by governance which specifies the amount of MKR that must be burned to utilize MIP52c2.
 
