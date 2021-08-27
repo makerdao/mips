@@ -30,23 +30,23 @@ This contract gives to the governance the only functionality to withdraw tokens 
 
 ## Component Summary
 
-**MIP37a1: Parameter Definitions**
+**MIP37c1: Parameter Definitions**
 
-**MIP37a2: Function**
+**MIP37c2: Function**
 
-**MIP37a3: Authorisation**
+**MIP37c3: Authorisation**
 
-**MIP37a4: Static Reserve For Governance**
+**MIP37c4: Static Reserve For Governance**
 
-**MIP37a5: Proposed Code**
+**MIP37c5: Proposed Code**
 
-**MIP37a6: Test Cases**
+**MIP37c6: Test Cases**
 
-**MIP37a7: Spell**
+**MIP37c7: Spell**
 
-**MIP37a8: Security Considerations**   
+**MIP37c8: Security Considerations**   
 
-**MIP37a9: Licensing**  
+**MIP37c9: Licensing**  
 
 ## Motivation
 As simple as it is, currently makerDao doesn't have any place where tokens can be stored/sent/withdrew. As we move towards to the governance 
