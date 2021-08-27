@@ -115,7 +115,7 @@ Note that the subproposal code should link to the relevant subproposal.
 #### MIP13c3-SP5
 
 - Declaration Statement:
-> MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD.
+	> MakerDAO supports Centrifuges effort in developing an onboarding process for their RWA as collateral to MCD.
 - Subproposal: [MIP13c3-SP5](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP5.md)
 - Date Ratified: 2020-10-28
 
