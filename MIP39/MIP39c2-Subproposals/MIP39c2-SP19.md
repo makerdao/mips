@@ -123,7 +123,7 @@ The scope for the budget in this proposal is only for phase I as described below
 
 **Phase II ambition: Minting on Starknet**
 
-Phase II budget is not in the scope of this proposal. Phase II will be focused on enabling minting DAI on Starknet. In order to converge to a consensus on the design for phase II, the community and CUs will be involved in discussions on design principles (inspired from the [risk framework](https://docs.google.com/document/d/1agYZTjGajF8QKor09ro4VzQQGIR4Pp5KZsMP16ocVNU/edit#heading=h.5v5lkndh2uwb)) as well as concrete design alternatives. The output of those discussions will be a phase II proposal. 
+Phase II budget is not in the scope of this proposal. Phase II will be focused on enabling minting DAI on Starknet. In order to converge to a consensus on the design for phase II, the community and CUs will be involved in discussions on design principles (inspired by the [risk framework](https://docs.google.com/document/d/1agYZTjGajF8QKor09ro4VzQQGIR4Pp5KZsMP16ocVNU/edit#heading=h.5v5lkndh2uwb)) as well as concrete design alternatives. The output of those discussions will be a phase II proposal. 
 
 
 ## Community involvement
