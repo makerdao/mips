@@ -3,7 +3,7 @@
 ## Preamble
 ```
 MIP#: 59
-Title: DssCharther
+Title: DssCharter
 Author(s): Tal Baneth (@talbaneth)
 Contributors: Sam MacPherson (@hexonaut), Derek Flossman (@Derek) 
 Tags: technical, module, smart-contracts
