@@ -133,14 +133,14 @@ Note that the subproposal code should link to the relevant subproposal.
 - Subproposal: [MIP13c3-SP7](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP7.md)
 - Date Ratified: 2021-01-30
 
-### MIP13c3-SP10
+#### MIP13c3-SP10
 
 - Declaration Statement:
 	> Analysis of a EUR-pegged DAI
 - Subproposal: [MIP13c3-SP10](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP10.md)
 - Date Ratified: 2021-04-27
 
-### MIP13c3-SP11
+#### MIP13c3-SP11
 
 - Declaration Statement:
 	> Onboarding a new collateral type backed by B.Protocol v2.
