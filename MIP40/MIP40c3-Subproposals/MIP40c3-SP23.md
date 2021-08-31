@@ -91,12 +91,9 @@ This covers the total vesting schedule of 3 years for the current 7.7 FTEs.
 
 ## Payment Implementation
 
-* To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
+To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
 
 * Following the MKR vesting schedule, any MKR vesting in 6 months or less will be included in the top-up transaction added to the executive vote. This will move the MKR from the protocol to the `GROWTH Auditors Wallet`, which then acts as an escrow wallet.
-
 * Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 1 month or less, will be included in the monthly top-up transaction that moves funds from the `GROWTH Auditors Wallet` to the `GROWTH Multi-sig`.
-
 * When the MKR has vested, it is paid out to the contributor.
-
 * After vesting, any excess MKR in the `GROWTH Auditors Wallet` or the `GROWTH Multi-sig` will be returned to the protocol, following the monthly payment transactions.

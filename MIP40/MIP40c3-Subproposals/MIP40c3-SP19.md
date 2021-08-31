@@ -108,10 +108,10 @@ When we are working with future partners, part of our job is to create a way to 
 
 Growth CU has a multi-signature wallet to administer the funds allocated to fulfilling the mandate. The details of this multi-sig wallet are as follows:
 
-Multi-sig Address: **0x7800C137A645c07132886539217ce192b9F0528e**
-Budget implementation: Manual
-Payment Frequency: Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote.
-Payout Dates:
-August - 637,900 DAI
-September - 137,900 DAI
-October - 162,150 DAI
+- **Multi-sig Address**: 0x7800C137A645c07132886539217ce192b9F0528e
+- **Budget implementation:** Manual
+- **Payment Frequency**: Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote.
+- **Payout Dates:**
+	- August - 637,900 DAI
+	- September - 137,900 DAI
+	- October - 162,150 DAI
