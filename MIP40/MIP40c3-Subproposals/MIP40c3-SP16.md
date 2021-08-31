@@ -6,9 +6,9 @@
 MIP40c3-SP#: 16
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
-tags: core-unit, cu-sh-001, budget, dai-budget, mkr-budget
+tags: sh-001-mipset
 Status: RFC
-Date Applied: <2021-05-11>
+Date Applied: <2021-08-11>
 Date Ratified: <yyyy-mm-dd>
 ```
 
@@ -195,12 +195,14 @@ On day one, I am requesting funding up-front, as follows:
 | --- | ---:
 |Quarterly Budget| 58,000 DAI |
 |Past Expenditures * | 27,000 DAI |
-|Projected Expenditures ** | 5,000 DAI |
-| **Total** | **90,000 DAI** |
+|Other Expenditures ** | 16,500 DAI |
+|Projected Expenditures *** | 5,000 DAI |
+| **Total** | **106,500 DAI** |
 |||
 
 > \* The 27,000 DAI covers my past expenditures since the dissolution of Comm-Dev.
-> \** The 5,000 DAI should cover my expenditures until the next monthly Core Unit Cycle.
+> \** The 16,500 DAI covers a swag order placed towards the end of August.
+> \*** The 5,000 DAI should cover expenditures until the next monthly Core Unit Cycle.
 
 #### Wallet Address:
 - TDB upon approval by the DAO
