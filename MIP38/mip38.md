@@ -133,10 +133,12 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **ID** - GRO-001
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
 - **Date Ratified** -  2021-27-04
-- **Mandate** - [MIP39c2-SP4](https://mips.makerdao.com/mips/details/MIP39c2SP4)
-- **Budget Amount** - 126,117 DAI / month
-- **Budget Implementation** - Manual - [MIP40c3-SP4](https://mips.makerdao.com/mips/details/MIP40c3SP4#budget-implementation)
-- **Budget Breakdown** - [MIP40c3-SP4](https://mips.makerdao.com/mips/details/MIP40c3SP4#quarterly-budget)
+- **Mandate** - [MIP39c2-SP19](https://mips.makerdao.com/mips/details/MIP40c3SP19)
+- **Budget Amount** - 937,950 Dai / quarter
+	- **Budget Implementation** - Manual - [MIP40c3-SP19](https://mips.makerdao.com/mips/details/MIP40c3SP19#budget-implementation)
+	- **Budget Breakdown** - [MIP40c3-SP19](https://mips.makerdao.com/mips/details/MIP40c3SP19#budget-breakdown)
+- **MKR Incentive Plan** - [MIP40c3-SP23](https://mips.makerdao.com/mips/details/MIP40c3SP23)
+	- **Payment Implementation** - [MIP40c3-SP23](https://mips.makerdao.com/mips/details/MIP40c3SP23#payment-implementation) 
 - **Facilitator** - Nadia Alvarez - [MIP41c4-SP4](https://mips.makerdao.com/mips/details/MIP41c4SP4)
 
 ---
@@ -191,3 +193,29 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Budget Implementation** - Manual - [MIP40c3-SP15](https://mips.makerdao.com/mips/details/MIP40c3SP15)
 - **Budget Breakdown** - [MIP40c3-SP15](https://mips.makerdao.com/mips/details/MIP40c3SP15)
 - **Facilitator** - Niklas Kunkel - [MIP41c4-SP13](https://mips.makerdao.com/mips/details/MIP41c4SP13)
+
+---
+
+#### Governance Communications
+
+- **ID** - COM-001
+- **Summary** - The Governance Communications Core Unit performs a complementary set of resources and services that focus on MakerDAO's informational accessibility and communication practices as a public organization. 
+- **Date Ratified** -  2021-26-07
+- **Mandate** - [MIP39c2-SP8](https://mips.makerdao.com/mips/details/MIP39c2SP8)
+- **Budget Amount** - 163,200 Dai - Aug 2021-Dec 2021
+- **Budget Implementation** - Manual - [MIP40c3-SP8](https://mips.makerdao.com/mips/details/MIP40c3SP8#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP8](https://mips.makerdao.com/mips/details/MIP40c3SP8#budget-breakdown)
+- **Facilitator** - David Utrobin - [MIP41c4-SP8](https://mips.makerdao.com/mips/details/MIP41c4SP8)
+
+---
+
+#### Dai Foundation
+
+- **ID** - DAIF-001
+- **Summary** - The Dai Foundation Core Unit is responsible for facilitating the dialogue between the Dai Foundation and the Community regarding intellectual property safeguarding, intellectual property usage, and related activities.
+- **Date Ratified** -  2021-23-08
+- **Mandate** - [MIP39c2-SP17](https://mips.makerdao.com/mips/details/MIP39c2SP17)
+- **Budget Amount** - 2,138,591 Dai (first year); 1,038,599 Dai (second year); 463,186 Dai (third year)
+- **Budget Implementation** - [MIP40c3-SP24](https://mips.makerdao.com/mips/details/MIP40c3SP24#payment-implementation)
+- **Budget Breakdown** - [MIP40c3-SP24](https://mips.makerdao.com/mips/details/MIP40c3SP24#budget-breakdown)
+- **Facilitator** - Søren Peter Nielsen - [MIP41c4-SP18](https://mips.makerdao.com/mips/details/MIP41c4SP18)
