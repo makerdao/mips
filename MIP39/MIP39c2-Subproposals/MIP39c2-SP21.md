@@ -47,7 +47,7 @@ This experience and familiarity with Maker will allow us to be effective from Da
 
 ### Core Unit ID
 
-* SKUNK-001
+SKUNK-001
 
 ### Core Unit Name
 
