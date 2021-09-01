@@ -1,7 +1,7 @@
 # MIP40c3-SP32: Adding MakerLabs Core Unit Budget
  
 ```
-MIP40-c3-SP#: 32
+MIP40c3-SP#: 32
 Author(s): @colrad, @urbanisierung, Tim Schuppener (@ultraschuppi)
 Contributors:
 Tags: core-unit, cu-skunk-001, budget, dai-budget, mkr-budget
@@ -12,7 +12,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP40-c3-SP32 adds the budget for the MakerLabs Core Unit, SKUNK-001.
+MIP40c3-SP32 adds the budget for the MakerLabs Core Unit, SKUNK-001.
 
 ## Specification
 
