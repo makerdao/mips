@@ -215,7 +215,7 @@ On day one, I am requesting funding up-front, as follows:
 - Still, as this CU scales, compensation from the DAO would be appreciated.
     - Otherwise, Airdrops might only go out when number only go up!
 
-### Related Su
+### Related Subproposals
 
 - [MIP39c2-SP11: Strategic Happiness Core Unit](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
 - [MIP41c4-SP11: Shitpost Facilitator Onboarding, Strategic Happiness Core Unit, SH-001](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP11.md)
