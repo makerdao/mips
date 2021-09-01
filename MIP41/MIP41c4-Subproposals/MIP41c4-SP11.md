@@ -76,6 +76,5 @@ I will continue to:
 
 ### Related MIPS
 
-- [MIP39c2-SP11: Strategic Happiness Core Unit](https://forum.makerdao.com/t/mip39c2-sp11-strategic-happiness-core-unit/8006)
-- [MIP40c3-SP14: The Strategic Happiness Core Unit Budget, SH-001](https://forum.makerdao.com/t/mip40c3-sp14-the-strategic-happiness-core-unit-budget-sh-001/8007)
-- [MIP41c4-SP11: Shitpost Facilitator Onboarding, Strategic Happiness Core Unit, SH-001](https://forum.makerdao.com/t/mip41c4-sp11-shitpost-facilitator-onboarding-strategic-happiness-core-unit-sh-001/8008)
+- [MIP39c2-SP11: Strategic Happiness Core Unit](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
+- [MIP40c3-SP16: The Strategic Happiness Core Unit Budget, SH-001](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP16.md)
