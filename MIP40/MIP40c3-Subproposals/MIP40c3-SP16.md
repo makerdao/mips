@@ -195,12 +195,14 @@ On day one, I am requesting funding up-front, as follows:
 | --- | ---:
 |Quarterly Budget| 58,000 DAI |
 |Past Expenditures * | 27,000 DAI |
-|Projected Expenditures ** | 5,000 DAI |
-| **Total** | **90,000 DAI** |
+|Other Expenditures ** | 16,500 DAI |
+|Projected Expenditures *** | 5,000 DAI |
+| **Total** | **106,500 DAI** |
 |||
 
 > \* The 27,000 DAI covers my past expenditures since the dissolution of Comm-Dev.
-> \** The 5,000 DAI should cover my expenditures until the next monthly Core Unit Cycle.
+> \** The 16,500 DAI covers a swag order placed towards the end of August.
+> \*** The 5,000 DAI should cover expenditures until the next monthly Core Unit Cycle.
 
 #### Wallet Address:
 - TDB upon approval by the DAO
@@ -213,8 +215,7 @@ On day one, I am requesting funding up-front, as follows:
 - Still, as this CU scales, compensation from the DAO would be appreciated.
     - Otherwise, Airdrops might only go out when number only go up!
 
-### Related MIPS
+### Related Su
 
 - [MIP39c2-SP11: Strategic Happiness Core Unit](https://forum.makerdao.com/t/mip39c2-sp11-strategic-happiness-core-unit/8006)
-- [MIP40c3-SP14: The Strategic Happiness Core Unit Budget, SH-001](https://forum.makerdao.com/t/mip40c3-sp14-the-strategic-happiness-core-unit-budget-sh-001/8007)
 - [MIP41c4-SP11: Shitpost Facilitator Onboarding, Strategic Happiness Core Unit, SH-001](https://forum.makerdao.com/t/mip41c4-sp11-shitpost-facilitator-onboarding-strategic-happiness-core-unit-sh-001/8008)
