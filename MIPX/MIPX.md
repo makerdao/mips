@@ -5,7 +5,7 @@
 MIP#: X
 Title: Digital Asset Assignment
 Author(s): @LongForWisdom
-Contributors:
+Contributors: @seth
 Tags: living
 Type: Process
 Status: RFC
@@ -48,6 +48,14 @@ A secondary motivation of MIPX is to create a publicly accessible asset registry
 
 ## Specification / Proposal Details
 
+### Definitions
+
+Agreed Modification of Control: An uncontested and mutually agreed-upon transfer of control of a digital asset owned by MakerDAO.
+
+Contested Modification of Control: A Process MIP component that allows for the resolution of Contested control over a digital asset by appealing to Maker Governance.
+
+Owner-Controller: An individual or organization that's been granted access to an asset held by the Dai Foundation.
+
 ### MIPXc1: Assumptions**  
 MIPX assumes a few things regarding control and ownership of digital assets within MakerDAO.
 
@@ -84,7 +92,7 @@ In the event an asset has not yet been 'claimed' by any controller, the new cont
 In order for a modification of control to be valid under this component, it must meet the following requirements:
 
 **Transparency**  
-An agreed mofication of control must be made publicly accessible to Maker Governance using the MakerDAO discourse forum. It must remain publicly accessible for at least one week before being considered valid and actioned by the relevant 'owner-controller'.
+An agreed mofication of control must be made publicly accessible to Maker Governance using the MakerDAO discourse forum. It must remain publicly accessible for at least one week before being considered valid and actioned by the relevant 'Owner-Controller'.
 
 The agreed modification of control must use the template located at **[MIPXc3-ForumPost-Template.md](MIPXc3-ForumPost-Template.md)**.
 
@@ -102,13 +110,13 @@ An agreed modification of control must not be publicly contested by Maker Govern
 An agreed modification of control must include a listed purpose for the asset and reasoning for why the change in controllers is desirable. It must also clearly list a contact for the digital asset.
 
 **Recorded**
-An agreed modification of control must include a link to an open pull request on the official MIPs github repository which modifies MIPXc2 to take into account the agreed modification. The link to this pull request must be present in the discourse forum post as part of transparency requirements.
+An agreed modification of control must include a link to an open pull request on the official MIPs github repository which modifies MIPXc2 to take into account the agreed modification. The link to this pull request must be present in the discourse forum post as part of transparency requirements. Additionally, the Owner-Controller should provide a public contact address (email) and respond to contact requests from lawful authorities and mandated actors.
 
 ### MIPXc4: Contested Modification of Control
 
 MIPXc4 is a Process MIP component that allows for the resolution of Contested control over a digital asset by appealing to Maker Governance.
 
-If a subproposal under MIPXc4 passes successfully, then the listed modification of control should be made by the 'owner-controller' of that digital asset.
+If a subproposal under MIPXc4 passes successfully, then the listed modification of control should be made by the 'Owner-Controller' of that digital asset.
 
 MIPXc4 subproposals have the following parameters:
 - **Feedback Period**: 4 full weeks
