@@ -69,6 +69,7 @@ This budget also includes funds for two travel opportunities so the team can rep
 ## Budget (November - April)
 
 **People (Current)**
+
 | Role | Name |
 | --- | --- |
 | **Full-Time** |
@@ -77,8 +78,9 @@ This budget also includes funds for two travel opportunities so the team can rep
 | Video Director | @jmarshall |
 | Design/Community Manager | @kat |
 | Writer | @alec |
-|||
+
 **People (Proposed)**
+
 | Role | Name |
 | --- | --- |
 | **Full-Time** |
@@ -88,7 +90,6 @@ This budget also includes funds for two travel opportunities so the team can rep
 | Video Production Assistant | TBD |
 | Podcast Host | TBD |
 | Writer | TBD |
-|||
 
 **Programs**
 
@@ -100,18 +101,18 @@ Admin/Software - 1800
 Gas - 400
 Travel - 20,000
 
-#### Breakdown
+### Breakdown
 
 | Item | Amount | Percentage |
-| --- | --- | ---
-| **People** |
+| --- | --- | --- |
+| **People** |||
 |Salaries | 400,800 DAI | 92.56% |
 |||
-|**Programs**||
+|**Programs**|||
 | Ambassador Pilot Program | 10,000 DAI | 2.30% |
 | Subtotal | 10,000 DAI | 2.30% |
 |||
-|**Admin/Software/Gas**||
+|**Admin/Software/Gas**|||
 | Admin/Software | 1,800 DAI |
 | Gas | 400 DAI |
 | Travel | 20,000 DAI |
@@ -119,7 +120,7 @@ Travel - 20,000
 |||
 |**Total**| 433,000 DAI | 100% |
 
-#### Budget Implementation
+### Budget Implementation
 
 [Simple Budget Implementation](https://mips.makerdao.com/mips/details/MIP40#simple-budget-implementations)
 
