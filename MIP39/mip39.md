@@ -31,14 +31,11 @@ MIP39: Core Unit Framework contains a framework for managing Core Units and modi
 **MIP39c1: Core Units**
 Gives an overview of the most important characteristics of Core Units.
 
-**MIP39c2: Adding Core Units (Subproposal Process)**
-The process for adding new Core Units to the DAO primitives State.
+**MIP39c2:Adding/Modifying Core Units (Subproposal Process)**
+The process for adding new Core Units to the DAO primitives State or modifying already existing ones.
 
-**MIP39c3: Modifying Core Units (Subproposal Process)**
-The process for modifying Core Units in the DAO primitives State.
-
-**MIP39c4: Removing Core Units (Subproposal Process)**
-The process for removing Core Units from the DAO primitives State.
+**MIP39c3:  Removing Core Units (Subproposal Process)**
+The process for removing Core Units in the DAO primitives State.
 
 ## Motivation
 

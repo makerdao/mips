@@ -232,7 +232,7 @@ Externally referenced materials are not MIP content and are not ratified when a 
 - The Technical MIP Template should be used for MIPs whenever a MIP proposes changes to the smart contract code within the Maker Protocol.
 - The Technical MIP Template is located at **[Technical-MIP-Template.md](Technical-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
----    
+---
 
 ### MIP0c8: MIP0 Domain Role Dependencies
 
@@ -263,7 +263,7 @@ Governance Facilitators are defined as Facilitators attached to Core Units with 
 
 ---
 
-### MIP0c09: MIP Editor Role  
+### MIP0c9: MIP Editor Role  
 
 #### Responsibilities
 

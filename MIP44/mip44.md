@@ -93,37 +93,37 @@ It can be deploying before the UNI reward is voted, doesn't need any switch from
 
 the Join and the exit are exactly the same as a normal join
 
-### MIP44a2: Parameter
+### MIP44c2: Parameter
 one parameter:
  - bonus_delegator
- 
-### MIP44a3: Funtions
+
+### MIP44c3: Funtions
 
 3 functions:
  - join(address guy, uint256 wad) 
  - exit(address guy, uint256 wad)
  - harvest()
 
-### MIP44a4: join()
+### MIP44c4: join()
 
 it is exactly the normal join
 
-### MIP44a5: exit()
+### MIP44c5: exit()
 
 it is exactly the normal exit
 
-### MIP44a6: harvest()
+### MIP44c6: harvest()
 
  * harvest is behind an auth
  * harvest can be called from an authenticated contract
  * harvest will stop if no delegator contrat (0 address) is set up.
  * harvest will move the UNI/Bonus token to delegator contract which will sell/store/whatever we want to do with the token.
 
-### MIP44a7: Proposed code
+### MIP44c7: Proposed code
 
 [rewardJoin](https://github.com/alexisgayte/dss-reward-join/blob/main/src/RewardJoin.sol)
 
-### MIP44a8: Test cases
+### MIP44c8: Test cases
 
 [rewardJoin test](https://github.com/alexisgayte/dss-reward-join/blob/main/src/RewardJoin.t.sol)
 
