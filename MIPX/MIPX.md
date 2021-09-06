@@ -62,7 +62,7 @@ The following definitions are used within MIPX to describe the processes and act
 
 **Content Manager:** An individual or organization that has been granted access to manage the content of an asset held by an Asset Owner. For example, controlling the content of a web domain, or creating posts on a social media account.
 
-**Platform Manager:** An individual or organization that runs the technical infrastructure that serves content to an asset held by an Asset Owner. This individual or entity may be outside MakerDAO's direct control. for example, an individual or organization hosting the webserver that serves content to an asset held by an Asset Owner. As another example, a centralized organization such as Twitter or Github that manages a publicly available content platform.
+**Platform Manager:** An individual or organization that runs the technical infrastructure that serves content to an asset held by an Asset Owner. This individual or entity may be outside MakerDAO's direct control. For example, an individual or organization hosting the webserver that serves content on a given domain is a platform manager. As another example, a centralized organization such as Twitter or Github that manages a publicly available content platform is a Platform Manager.
 
 #### Assumptions
 The following assumptions are made regarding control and ownership of Intangible Assets within MakerDAO in order for this MIP to be effectively used to manage the access of digital assets.
