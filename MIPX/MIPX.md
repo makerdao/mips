@@ -48,7 +48,7 @@ A secondary motivation of MIPX is to create a publicly accessible asset registry
 
 ## Specification / Proposal Details
 
-### MIPXc1: Definitions and Assumptions**  
+### MIPXc1: Definitions and Assumptions  
 
 The following definitions are used within MIPX to describe the processes and actors involved in the control and assignment of Intangible Assets.
 
@@ -104,7 +104,7 @@ The agreed Modification of Management must use the template located at **[MIPXc3
 **Well Defined**  
 An agreed Modification of Management must include a listed purpose for the asset and reasoning for why the change in management is desirable. Additionally, the new managers must provide a public contact address (email) and commit to responding promptly to contact requests from lawful authorities and mandated actors.
 
-**Recorded**
+**Recorded**  
 An agreed Modification of Management must include a link to an open pull request on the official MIPs GitHub repository which modifies MIPXc2 to take into account the agreed modification. The link to this pull request must be present in the discourse forum post as part of transparency requirements. 
 
 **Supported**  
