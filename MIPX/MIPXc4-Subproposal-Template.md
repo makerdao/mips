@@ -21,7 +21,7 @@ Date Ratified: <yyyy-mm-dd>
 ## Specification
 
 ### Asset(s)
-- List the *new* assets and controllers using the following template:
+- List the modified assets and managers using the following template:
 
 #### asset name
 > **Asset Type:** <subdomain/twitter/etc>  

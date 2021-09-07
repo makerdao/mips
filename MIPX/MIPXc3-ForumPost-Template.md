@@ -3,7 +3,7 @@
 ## Action Date - YYYY-MM-DD (post date + 1 week)
 
 ## Asset(s)
-- List the assets and controllers using the following template:
+- List the modified assets and managers using the following template:
 
 #### asset name
 > **Asset Type:** <subdomain/twitter/etc>  

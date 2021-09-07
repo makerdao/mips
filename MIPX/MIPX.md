@@ -29,7 +29,7 @@ MIPX sets processes for MakerDAO to determine which actors manage which Intangib
 ## Component Summary
 
 **MIPXc1: Definitions and Assumptions**  
-MIPXc1 defines and actors and processes that take place under MIPX, along with assumptions that it requires to operate effectively.
+MIPXc1 defines actors and processes that take place under MIPX, along with assumptions that it requires to operate effectively.
 
 **MIPXc2: Intangible Asset List**  
 MIPXc2 defines a list of Intangible Assets owned by MakerDAO and details both the purpose and controller of the asset.
@@ -87,7 +87,7 @@ MIPXc2 defines a list of the Intangible Assets owned by MakerDAO and should be m
 > **Asset Owner:** DAI Foundation  
 > **Platform Manager:** DUX Incubating Core Unit (DUX email?)
 > **Content Manager:** GovAlpha Core Unit (GovAlpha@protonmail.com)
-> **Purpose:** Provide a safe and reliable way for Maker Governance to take part in the op-chain governance of MakerDAO.  
+> **Purpose:** Provide a safe and reliable way for Maker Governance to take part in the on-chain governance of MakerDAO.  
 > **Last Modification:** N/A (Grandfathered)  
 
 etc...
@@ -113,7 +113,7 @@ An agreed Modification of Management must be publicly supported by at least thre
 In the case that an Intangible Asset is currently managed by one or more actors, the managing actor(s) must support the Modification of Management in order for it to be valid under this component.
 
 **Uncontested**  
-An agreed Modification of Management must not be publicly contested by any of the following:
+An agreed Modification of Management can be contested by the following actors:
 * Any Core Unit Facilitators as defined in MIP41.
 * Maker Governance. Maker Governance can use MIP24c4 to express contention quickly.
 * Any of the current managers (content or platform) of the Intangible Asset.
