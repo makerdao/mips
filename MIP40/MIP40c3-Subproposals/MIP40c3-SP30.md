@@ -7,7 +7,7 @@ MIP40c3-SP#: 30
 Author(s): Robert Jordan @monkey.irish
 Contributors:
 Tags: core-unit, cu-ces-001, budget, mkr-budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-08-11
 Date Ratified: <yyyy-mm-dd>
 ```

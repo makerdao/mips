@@ -7,7 +7,7 @@ MIP41c4-SP#: 20
 Author(s): Louis Baudoin (@louismerkle), Ohad Barta
 Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, Louis Baudoin
 Tags: core-unit, cu-sne-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-08-09
 Date Ratified:NA
 ```

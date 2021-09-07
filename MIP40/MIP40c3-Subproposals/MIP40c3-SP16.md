@@ -7,7 +7,7 @@ MIP40c3-SP#: 16
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
 tags: core-unit, cu-sh-001, budget, dai-budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: <2021-05-11>
 Date Ratified: <yyyy-mm-dd>
 ```

@@ -7,7 +7,7 @@ MIP39c2-SP#: 18
 Author(s): @rafinskipg, @tiago, @adamgoth, @tyler, @philip, @0xdeniz
 Contributors: @wouter, @juanjuan
 Tags: core-unit, cu-dux-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-08-11
 Date Ratified: YYYY-MM-DD
 ```

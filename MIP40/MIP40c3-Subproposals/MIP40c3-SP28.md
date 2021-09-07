@@ -7,7 +7,7 @@ MIP40c3-SP#: 28
 Author(s): Author(s): Louis Baudoin (@louismerkle), Ohad Barta
 Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, Louis Baudoin
 Tags: core-unit, cu-sne-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-08-09
 Date Ratified: N/A
 ```

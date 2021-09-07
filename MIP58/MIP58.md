@@ -9,7 +9,7 @@ Author(s): @SebVentures, @christiancdpetersen
 Contributors: N/A
 Tags: living
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-08-04
 Date Ratified: n/a
 Dependencies: n/a

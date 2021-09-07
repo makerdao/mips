@@ -7,7 +7,7 @@ MIP40c3-SP#: 25
 Author(s): Primož Kordež
 Contributors:  
 Tags: core-unit, cu-risk-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-08-11
 Date Ratified: /
 ```
