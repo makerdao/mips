@@ -7,7 +7,7 @@ MIP41c4-SP#: 21
 Author(s): Robert Jordan @monkey.irish
 Contributors:
 Tags: core-unit, cu-ces-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-08-11
 Date Ratified: <yyyy-mm-dd>
 ```

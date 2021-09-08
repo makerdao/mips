@@ -8,7 +8,7 @@ MIP41c4-SP#: 19
 Author(s): Philip Bain
 Contributors:
 Tags: core-unit, cu-dux-001, facilitator
-Status: Request For Comments (RFC)
+Status: Formal Submission
 Date Applied: 2021-08-11
 Date Ratified: yyyy-mm-dd
 ```

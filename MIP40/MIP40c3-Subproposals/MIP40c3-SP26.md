@@ -7,7 +7,7 @@ MIP40c3-SP#: 26
 Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @wouter, @juanjuan
 Tags: core-unit, cu-dux-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-08-11
 Date Ratified: YYYY-MM-DD
 ```

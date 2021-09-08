@@ -7,7 +7,7 @@ MIP39c2-SP#: 19
 Author(s): Louis Baudoin (@louismerkle), Ohad Barta
 Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, Louis Baudoind
 Tags: core-unit, cu-sne-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: <2021-08-09>
 Date Ratified: NA
 ```
