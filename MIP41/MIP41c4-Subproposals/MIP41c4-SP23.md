@@ -14,7 +14,7 @@ Date Ratified:
 
 ## Sentence Summary
 
-This MIP adds Tomek Mierzwa (@tmierzwa) as the facilitator for the Data Insights Core Unit.
+This subproposal adds Tomek Mierzwa (@tmierzwa) as the facilitator for the Data Insights Core Unit.
 
 ## Specification
 
