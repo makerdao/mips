@@ -13,7 +13,7 @@ Date Ratified:
 
 ## Sentence Summary
 
-This subproposal adds the budget for Data Insights Core Unit
+This subproposal adds the budget for Data Insights Core Unit.
 
 ## Specification
 
