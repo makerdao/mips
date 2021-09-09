@@ -14,7 +14,7 @@ Date Ratified:
 
 ## Sentence Summary
 
-This MIP adds a Data Insights Core Unit provided as a service from Token Flow Insights with a total monthly budget of **82,750.00 DAI**. 
+This subproposal adds a Data Insights Core Unit provided as a service from Token Flow Insights with a total monthly budget of **82,750.00 DAI**. 
 A detailed plan and budget breakdown will be the subject of another proposal and governance vote.
 
 ## Specification
