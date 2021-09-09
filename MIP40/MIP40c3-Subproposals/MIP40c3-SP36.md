@@ -6,6 +6,7 @@
 MIP40c3-SP#:36
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
+Tags: core-unit, cu-deco-001, budget, mkr-budget
 Status: RFC
 Date proposed: 2021-09-08
 Date Ratified: <yyyy-mm-dd>
