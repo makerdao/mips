@@ -12,18 +12,22 @@ Date proposed: 2021-09-08
 Date Ratified: <yyyy-mm-dd>
 ```
 
-## Sentence Summary.
+## Sentence Summary
+
 MIP39c2-SP23 establishes a Deco Fixed Rate Core Unit for the integration and maintenance of the Deco protocol facilitating Fixed Rate Vaults. For more information about the history of this MIP, which was originally posted on 5 August 2021, please see [here](https://forum.makerdao.com/t/fixed-rate-vaults-proposal-with-deco-protocol/9707).
 
 ## Specification 
 
 ### Motivation
+
 This post presents a protocol designed to bring a new revenue generating and user retention feature to MakerDAO: Fixed Rate Vaults; the proposal also provides for a fully staffed core unit to support the protocol. The Deco Protocol operates to decouple Yield-Bearing Assets into Fixed Rate and Pure Yield instruments thus providing a hedge against rate volatility for all yield bearing assets. Using the Deco fixed rate protocol, Maker will be able to issue tokens that permit Vault owners to hedge the stability fee for a fixed duration and for a specific collateral type. The proposed Deco and Maker integration uses a market driven solution to make it possible for vault owners of all sizes to hedge stability fees for any desired duration. The integration of Deco will enhance rate stability, achieve a predictable and stable revenue flow for Maker, boost DAI supply, and enhance vault owner retention. The Deco protocol is ready for immediate integration. The Deco instance for Maker has been built and deployed so that it is controlled by MakerDAO governance, and thus removes the governance risk typically present in such external protocols.
 
 ### Problem: Rate Volatility and MakerDAO
+
 Stability fee volatility means that vault owners are unable to accurately predict their exposure to future fees which in turn limits the MakerDAO’s user base and in turn the DAI supply. Rate volatility constrains the market for Maker vaults by eliminating the participants who require stable rates. At the same time, stability fee variance means Maker is unable to accurately predict its own cashflow. In a bear market, the inability to predict revenue and control cash may prove problematic to the DAO. MakerDAO needs a vehicle to retain vault owners, expanding Dai supply, and provide a stable cash flow to support DAO operations. Deco is already developed and provides these features to Maker.
 
 The Deco protocol, in collaboration with MakerDAO, can offer fixed-rate vaults to Maker vault users. By using fixed rates, Maker may smooth out its revenue and achieve some predictability in its cash flow. This proposed integration brings the following immediate benefits to the MakerDAO ecosystem:
+
 - Boost supply of DAI.
 - Develop an immediate and reliable revenue stream for MakerDAO.
 - Attract MakerDAO prospective users who may be intolerant of rate volatility.
@@ -111,9 +115,3 @@ Deco on Maker is a flexible toolset. Not only can Deco be applied to fixed rate 
 - [Blog](https://deco-protocol.ghost.io/)
 - [Technical Docs](https://docs.deco.money/)
 - [Twitter](https://twitter.com/decoprotocol)
-
-## Related Docs
-
-[MIP40c3-SP#: Deco Fixed Rate Core Unit Budget](https://forum.makerdao.com/t/mip40c3-sp-deco-fixed-rate-core-unit-budget/10225)
-[MIP40c3-SP#: Deco Fixed Rate Core Unit MKR Budget](https://forum.makerdao.com/t/mip40c3-sp-deco-fixed-rate-core-unit-mkr-budget/10226)
-[MIP41c4-SP#: Facilitator Onboarding, Deco Fixed Rate Core Unit](https://forum.makerdao.com/t/mip41c4-sp-facilitator-onboarding-deco-fixed-rate-core-unit/10227)
