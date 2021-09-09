@@ -29,7 +29,8 @@ DIN-001
 
 The following diagram shows the proposed roadmap for Data Insights Core Unit for the next 9 months. This roadmap will be reviewed monthly and the backlog will be kept public.
 
-![Roadmap](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/roadmap.png)
+![Roadmap](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP34/roadmap.png)
+
 
 ### Budget considerations
 
