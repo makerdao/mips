@@ -191,7 +191,7 @@ The Monthly Budget Statements will be added to the MakerDAO forum. The originals
 
 As preparation for the Monthly Top-up Cycle, the Auditors Wallet first needs to be seeded with the Total Budget Cap from the surplus buffer. This seeding transaction will be included in the executive vote on the initial SES Core Unit MIPs.
 
-##### Monthly Cylce
+##### Monthly Cycle
 
 1. **Monthly Budget Statement Submission** -- Within the first 5 days of the month, SES submits the Monthly Budget Statement to the Auditors Wallet signers. This report is also available for the rest of the community to review.
 
