@@ -11,6 +11,7 @@ Status: RFC
 Date Applied: 2021-09-08
 Date Ratified: N/A
 ```
+
 ## Sentence Summary
 
 MIP40c3-SP37 adds the budget for Core Unit GRO-001: Growth for November 2021 through June 2022.
@@ -82,7 +83,7 @@ The compensation structure follows these rules:
 4. Bonus pay is determined as a percentage of base pay, and it’s relative to the goal number’s achievement.
 5. Bonus is capped at 100% of base pay.
 
-#### Finance costs.
+#### Finance costs
 
 To cover associated costs to legal advice and the enablement of all support applications.
 
@@ -90,11 +91,11 @@ Direct operations costs.
 
 This item includes travel costs (for conferences and one offsite) and any software or tool needed to execute our job.
 
-#### Buffer.
+#### Buffer
 
 To support any contingency or opportunity that could appear, like a tier-one partner looking to execute a strategic action.
 
-#### Integrations and Marketing.
+#### Integrations and Marketing
 
 When we are working with future partners, part of our job is to create a way to help that partner give more visibility to the new solution supported by the Maker Protocol. Sometimes the execution of that idea requires a budget for different purposes:
 
