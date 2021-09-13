@@ -6,6 +6,7 @@
 MIP40c3-SP#: 37
 Author(s): @Nadia
 Contributors:
+Tags: core-unit, cu-gro-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-09-08
 Date Ratified: N/A
@@ -32,7 +33,7 @@ Growth (GRO-001)
 
 * Progression of our pipeline. The general outline of our traditional cycle consists of the following phases: Outreach → Initial conversations → Project formalization and commitment → Integrations support → Pre-launch growth → The partner Launch → Maintenance and growth. We want to focus on the 97 opportunities in the latest stages of the Growth Process cycle during this quarter (pre-launch, partner launch, and maintenance) which requires the “integrations and marketing” budget to execute the growth plans we created with our partners.
 
-**![chart](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP40c3-SP37/chart.png)**
+![chart](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP37/chart.png)
 
 * As we have posted in previous weekly updates, there’s an interest from various companies to interact with the Maker Protocol but in a permission way (due to their compliance team, to operate with us, they need a company to KYC). We are exploring alternatives with our legal advisors and these companies’ compliance team to develop a product for these institutions (traditional institutions).
 
@@ -67,7 +68,7 @@ The Growth team will consist of at least the following members during the next e
 
 ## Combined November, December 2021 and H1 2022 Budget - November 2021 to June 2022
 
-**![table](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP40c3-SP37/table.png)**
+![table](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP37/table.png)
 
 #### Contributors costs
 
