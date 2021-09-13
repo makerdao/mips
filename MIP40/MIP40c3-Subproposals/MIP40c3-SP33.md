@@ -6,7 +6,7 @@
 MIP40c3-SP#: 33
 Author(s): @seth
 Contributors: @JerryAG @Kat @Alec @JMarshall
-Tags:
+Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-09-03
 Date Ratified:
