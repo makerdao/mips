@@ -85,7 +85,7 @@ On average and excluding retroactive MKR payment, the team MKR vesting schedule 
 
 ## Payment Implementation
 
-MKR compensation is based on Manual Budget Implementations, the Simple one and same as used for regular budget, or any other method achieving the same result at the discretion of the Governance Facilitators. Risk Core Unit may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule.
+MKR compensation is based on Manual Budget Implementations, the Simple one and same as used for regular budget, or any other method achieving the same result at the discretion of the Governance Facilitators. Risk Core Unit may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule. MKR payment is allocated from the 84,000.1 MKR treasury controlled by MakerDAO.
 
 * Payment: based on predetermined MKR compensation schedule
 * Asset type: MKR
