@@ -16,7 +16,7 @@
 
 ## Record
 
-- Link to open PR containing the changes to MIPXc2.
+- Link to open PR containing the changes to MIP60c2.
 
 ## Supporters
 
