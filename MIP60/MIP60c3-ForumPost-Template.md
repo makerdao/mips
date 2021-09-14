@@ -6,6 +6,7 @@
 - List the modified assets and managers using the following template:
 
 #### asset name
+
 > **Asset Type:** <subdomain/twitter/etc>  
 > **Asset Owner:** <DAI Foundation/etc>  
 > **Platform Manager:** <core-unit/individual/etc> (<contact email>)  
@@ -14,10 +15,13 @@
 > **Last Modification:** <link to last modification>  
 
 ## Record
+
 - Link to open PR containing the changes to MIPXc2.
 
 ## Supporters
+
 - List three supporting Core Unit Facilitators. Tag them using @. (this should go without saying, but speak to them ahead of time.)
 
 ## Reason for Modication
+
 - Why are these changes taking place?
