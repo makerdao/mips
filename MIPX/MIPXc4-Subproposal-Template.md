@@ -1,4 +1,4 @@
-# MIPXc4: Subproposal Template for Contested Digital Asset Assignment
+# MIPXc4: Subproposal Template for Intangible Asset Contested Modification of Management
 
 ## Preamble
 ```
@@ -20,12 +20,16 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Specification
 
-### Assets
-- List the assets and new controllers using the following template:
+### Asset(s)
+- List the modified assets and managers using the following template:
+
 #### asset name
-> **Asset Type:** type  
-> **Controller:** controller  
-> **Purpose:** purpose  
+> **Asset Type:** <subdomain/twitter/etc>  
+> **Asset Owner:** <DAI Foundation/etc>  
+> **Platform Manager:** <core-unit/individual/etc> (<contact email>)  
+> **Content Manager:** <core-unit/individual/etc> (<contact email>)  
+> **Purpose:** <purpose (short)>  
+> **Last Modification:** <link to last modification>  
 
 ### Record
 - Link to Open PR containing the changes to MIPXc2.
@@ -34,7 +38,7 @@ Date Ratified: <yyyy-mm-dd>
 - Why is these changes being proposed?
 
 ### Context and Motivation
-- Why is this digital asset assignment contested?
+- Why is this intangible asset assignment contested?
 
 ### Relevant Links
 - Any supporting evidence, forum discussions, etc.
