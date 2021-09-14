@@ -5,7 +5,7 @@
 MIP#: X
 Title: Intangible Asset Assignment
 Author(s): @LongForWisdom
-Contributors: @seth
+Contributors: Seth Goldfarb (@seth)
 Tags: living
 Type: Process
 Status: RFC
@@ -67,15 +67,15 @@ The following definitions are used within MIPX to describe the processes and act
 #### Assumptions
 The following assumptions are made regarding control and ownership of Intangible Assets within MakerDAO in order for this MIP to be effectively used to manage the access of digital assets.
 
-**Assumption #1**
+**Assumption #1:**
 MIPX assumes that some Asset Owner exists for the assets managed using this MIP. 
 
 At the time of writing this MIP, the Asset Owner for many of MakerDAO's Intangible Assets is the DAI Foundation.
 
-**Assumption #2**
+**Assumption #2:**
 MIPX assumes that actors under the umbrella of MakerDAO usually have positive relationships with one another and are able to come to mutually satisfactory resolutions in the majority of situations that require a modification to the Content Managers or Platform Managers of an Intangible Asset.
 
-**Assumption #3**
+**Assumption #3:**
 MIPX assumes that there are sufficient Core Unit Facilitators to meet the transparency requirements defined in MIPXc3.
 
 ### MIPXc2: Intangible Asset List
@@ -85,8 +85,8 @@ MIPXc2 defines a list of the Intangible Assets owned by MakerDAO and should be m
 #### vote.makerdao.com
 > **Asset Type:** Subdomain  
 > **Asset Owner:** DAI Foundation  
-> **Platform Manager:** DUX Incubating Core Unit (DUX email?)
-> **Content Manager:** GovAlpha Core Unit (GovAlpha@protonmail.com)
+> **Platform Manager:** DUX Incubating Core Unit (DUX email?)  
+> **Content Manager:** GovAlpha Core Unit (GovAlpha@protonmail.com)  
 > **Purpose:** Provide a safe and reliable way for Maker Governance to take part in the on-chain governance of MakerDAO.  
 > **Last Modification:** N/A (Grandfathered)  
 
