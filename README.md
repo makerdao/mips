@@ -71,7 +71,6 @@ Remember that MIP Editors are there to clarify the process and help you. Don't h
 | MIP Editor | Rocket Chat | Github | Forum |
 |-|-|-|-|
 | **Charles** | [@charlesstlouis](https://chat.makerdao.com/) | [@CPSTL](https://github.com/CPSTL) | [@charlesstlouis](https://forum.makerdao.com/u/charlesstlouis/summary) |
-| **David** | [@david.u](https://chat.makerdao.com/) | [@Davidutro](https://github.com/Davidutro) | [@Davidutro](https://forum.makerdao.com/u/davidutro/summary) |
 | **Pablo** | [@blimpa](https://chat.makerdao.com/) | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
 
 ## Helpful Resources 
