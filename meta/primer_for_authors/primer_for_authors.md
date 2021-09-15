@@ -31,7 +31,7 @@ Before plunging into the practical aspects of authoring and proposing, it might 
 
 Proposals are built on top of templates and there are a number of these. Which to choose depends on the type of document you are creating.
 
-![Templates](templates.png)
+![Templates](https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/templates.png)
 
 MIPs must use either the [general MIP template](https://github.com/makerdao/mips/blob/master/MIP0/General-MIP-Template.md) or the [technical MIP template](https://github.com/makerdao/mips/blob/master/MIP0/Technical-MIP-Template.md). The latter is for MIPs that modify smart contract code; the former is for MIPs that do not.
 
@@ -82,7 +82,7 @@ In any case, this document will walk you through the steps necessary to cast you
 
 So, you have already picked a template and drafted a proposal on top of it. Very good! You are just ready to take the first formal step in the proposal process, which is posting the proposal on [the MakerDAO forum under the MIPs > RFC subcategory](https://forum.makerdao.com/c/mips/rfc/15).
 
-![mipx](mipx.png)
+![mipx](https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/mipx.png)
 
 ### RFC
 
@@ -107,7 +107,7 @@ If you want your proposal to make it into a given month's Ratification Polls, it
 
 In order to do a Formal Submission you can either post a reply in the thread of your proposal stating that you want to move on to Formal Submission, or just send a message to a MIP Editor.
 
-![Cicero submits](cicero_submits.png)
+![Cicero submits](https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/cicero_submits.png)
 
 In practice, it is very likely that a MIP Editor will get in touch with you at the start of the Formal Submission Windows and ask if you want your proposal to advance to the next stage or if you would rather have it remain in RFC status to keep working on it.
 
@@ -123,9 +123,9 @@ These are the statuses (non-exhaustive) that a proposal may have:
 
 | Status | What is it? | When is it assigned? |
 |--|--|--|
-| ![RFC](rfc.png)| Proposals with `RFC` status are currently going through their Feedback Period/Frozen Period. | As soon as a proposal is posted on [the forum MIPs > RFC subcategory](https://forum.makerdao.com/c/mips/rfc/15) by the author. |
-| ![Formal Submission](fs.png) | Proposals with `Formal Submission` status have been submitted by authors to be voted on via Ratification Polls on-chain. | After a proposal has fulfilled their Feedback Period/Frozen Period and within a Formal Submission Window. Note that it is up to the author to have this status assigned to their proposal. Some authors may choose to stick with a `RFC` status to receive more feedback.|
-| ![Accepted](accepted.png) ![Rejected](rejected.png) | Proposals with either of these statuses have had their Ratification Polls run for two weeks and voted on  | At the closing of Ratification Polls.
+| ![RFC](https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/rfc.png) | Proposals with `RFC` status are currently going through their Feedback Period/Frozen Period. | As soon as a proposal is posted on [the forum MIPs > RFC subcategory](https://forum.makerdao.com/c/mips/rfc/15) by the author. |
+| ![Formal Submission](https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/fs.png) | Proposals with `Formal Submission` status have been submitted by authors to be voted on via Ratification Polls on-chain. | After a proposal has fulfilled their Feedback Period/Frozen Period and within a Formal Submission Window. Note that it is up to the author to have this status assigned to their proposal. Some authors may choose to stick with a `RFC` status to receive more feedback.|
+| ![Accepted](https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/accepted.png) ![Rejected](https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/rejected.png) | Proposals with either of these statuses have had their Ratification Polls run for two weeks and voted on  | At the closing of Ratification Polls.
 
 ## Resources
 
