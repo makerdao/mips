@@ -6,6 +6,9 @@ data:
       - id: portaldoc
         name: The MIPs Portal
         href: https://mips.makerdao.com
+      - id: primer
+        name: A Primer for Proposal Authors
+        href: https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/primer_for_authors.md
       - id: mip0
         name: The MIPs Framework
         href: https://mips.makerdao.com/mips/details/MIP0
