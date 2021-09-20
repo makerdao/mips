@@ -2,3 +2,9 @@ strings:
   learn: Aprender
   mips_portal: El Portal de MIPs
   technical: Técnica
+
+reserved: 
+  Preamble: Preambulo
+  Sentence Summary: Resumen
+  Paragraph Summary: Descripción
+  Component Summary: Índice

@@ -4,23 +4,7 @@ strings:
   technical: Technical
   
 reserved: 
-  preamble: Preambulo
-  Sentence Summary: Resumen
-  Paragraph Summary: Descripción
-  Component Summary: Índice
-  Details: Detalles
-  References: Referencias
-  See all: Ver todos
-  Recent Changes: Cambios Recientes
-  Title: Título
-  Status: Estatus
-  Tags: Etiquetas
-  Date Proposed: Fecha propuesta
-  Date Ratified: Fecha de ratificación
-  Author: Autor
-  Contributor: Contribuyente
-  Dependencies: Dependencias
-  Replaces: Replaces
-  Type: Tipo
-  Poll Address: Dirección de encuesta
-  Last Opened: Abierto por última vez
+  Preamble: Preamble
+  Sentence Summary: Sentence Summary
+  Paragraph Summary: Paragraph Summary
+  Component Summary: Component Summary
