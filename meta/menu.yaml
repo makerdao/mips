@@ -183,6 +183,7 @@ data:
       - id: set_1
         name: Set 1
         href: http://localhost:4200/mips/list
+        custom_view_name: Multi-queries set 1
         queries:
           - id: query_1
             name: Accepted
@@ -199,6 +200,7 @@ data:
       - id: set_2
         name: Set 2
         href: http://localhost:4200/mips/list
+        custom_view_name: Multi-queries set 2
         queries:
           - id: query_1
             name: Formal Submission
@@ -212,6 +214,7 @@ data:
       - id: set_1
         name: Set 1
         href: http://159.203.86.45:8000//mips/list
+        custom_view_name: Multi-queries set 1
         queries:
           - id: query_1
             name: Accepted
@@ -228,6 +231,7 @@ data:
       - id: set_2
         name: Set 2
         href: http://159.203.86.45:8000//mips/list
+        custom_view_name: Multi-queries set 2
         queries:
           - id: query_1
             name: Formal Submission
