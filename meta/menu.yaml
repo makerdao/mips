@@ -177,3 +177,61 @@ data:
       - id: chat
         name: Chat
         href: http://chat.makerdao.com/
+  - id: queries_local
+    name: Queries(local)
+    children:
+      - id: set_1
+        name: Set 1
+        href: http://localhost:4200/mips/list
+        queries:
+          - id: query_1
+            name: Accepted
+            query: "@Accepted"
+          - id: query_2
+            name: RFC
+            query: "@RFC"
+          - id: query_3
+            name: Rejected or Obsolete
+            query: "OR(@Rejected,@Obsolete)"
+          - id: query_4
+            name: Reje & collateral-onb
+            query: "AND(@Rejected, #collateral-onboarding)"   
+        id: set_2
+        name: Set 2
+        href: http://localhost:4200/mips/list
+        queries:
+          - id: query_1
+            name: Formal Submission
+            query: "@Formal Submission"
+          - id: query_2
+            name: not rej
+            query: "AND(NOT(@Rejected), NOT(@Obsolete),#cu-gov-001)"
+  - id: queries
+    name: Queries
+    children:
+      - id: set_1
+        name: Set 1
+        href: http://159.203.86.45:8000//mips/list
+        queries:
+          - id: query_1
+            name: Accepted
+            query: "@Accepted"
+          - id: query_2
+            name: RFC
+            query: "@RFC"
+          - id: query_3
+            name: Rejected or Obsolete
+            query: "OR(@Rejected,@Obsolete)"
+          - id: query_4
+            name: Reje & collateral-onb
+            query: "AND(@Rejected, #collateral-onboarding)"   
+        id: set_2
+        name: Set 2
+        href: http://159.203.86.45:8000//mips/list
+        queries:
+          - id: query_1
+            name: Formal Submission
+            query: "@Formal Submission"
+          - id: query_2
+            name: not rej
+            query: "AND(NOT(@Rejected), NOT(@Obsolete),#cu-gov-001)"
