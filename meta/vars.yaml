@@ -4,7 +4,6 @@ strings:
   technical: Technical
   
 reserved: 
-  Preamble: Preamble
   Sentence Summary: Sentence Summary
   Paragraph Summary: Paragraph Summary
   Component Summary: Component Summary
