@@ -22,7 +22,7 @@ Replaces: N/A
 
 ## Sentence Summary
 
-MMIP14 defines a generic process for transferring DAI from the Maker Protocol to a target Ethereum address.
+MIP14 defines a generic process for transferring DAI from the Maker Protocol to a target Ethereum address.
 
 ## Paragraph Summary
 
