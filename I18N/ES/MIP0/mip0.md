@@ -19,16 +19,15 @@ Replaces: n/a
 ## References
 
 **[General-MIP-Template.md](General-MIP-Template.md)**
-
 **[Technical-MIP-Template.md](Technical-MIP-Template.md)**
 
 ## Sentence Summary
 
-MIP0 define el*Marco de propuestas de mejora de Maker (MIP)*para que lo utilicen todos los MIP posteriores.
+MIP0 define el *Marco de propuestas de mejora de Maker (MIP)* para que lo utilicen todos los MIP posteriores.
 
 ## Paragraph Summary
 
-MIP0 define el*Marco de propuestas de mejora del fabricante (MIP)*para que lo utilicen todos los MIP posteriores. Este MIP es el MIP fundamental que proporciona las plantillas, los procesos y las pautas necesarias para trabajar dentro del marco y define las funciones clave necesarias para el funcionamiento del proceso de MIP.
+MIP0 define el *Marco de propuestas de mejora del fabricante (MIP)* para que lo utilicen todos los MIP posteriores. Este MIP es el MIP fundamental que proporciona las plantillas, los procesos y las pautas necesarias para trabajar dentro del marco y define las funciones clave necesarias para el funcionamiento del proceso de MIP.
 ## Component Summary
 
 **MIP0c1: Definicion del Sistema de mejora del Protocolo Maker**
