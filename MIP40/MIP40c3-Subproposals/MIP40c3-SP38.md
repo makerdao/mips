@@ -18,7 +18,7 @@ MIP40c3-SP38 adds the MKR Compensation budget for Core Unit RWF-001: Real-World 
 
 ## Paragraph Summary
 
-This proposal contains the MKR Compensation budget for the Core Unit RWF-001: Real-World Finance. This proposal is based on [Alternative MKR Compensation Guidelines](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) by @Aes. It provides an average of 80 MKR per FTE per year over 3 year with a 1 year cliff.
+This proposal contains the MKR Compensation budget for the Core Unit RWF-001: Real-World Finance. This proposal is based on [Alternative MKR Compensation Guidelines](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) by @Aes. It provides an average of 80 MKR per FTE per year over 3 years with a 1 year cliff.
 
 ## Team MKR Compensation Plan
 
