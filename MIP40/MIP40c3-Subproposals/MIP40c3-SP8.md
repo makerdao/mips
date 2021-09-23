@@ -18,7 +18,7 @@ MIP40c3-SP8 adds the budget for Core Unit COM-001: Governance Communications.
 
 ## Paragraph Summary
 
-This initial budget, for 163,200 Dai, provides five months of runway, August 2021 - Dec 2021. In the next year, we intend to submit bi-annual budgets, covering 6 months at a time unless otherwise preferred by MakerDAO. The annual budget figure is $486,000.
+This initial budget, for 203,550 Dai, provides five months of runway, August 2021 - Dec 2021. In the next year, we intend to submit bi-annual budgets, covering 6 months at a time unless otherwise preferred by MakerDAO. The annual budget figure is $486,000.
 
 A vote to ratify this MIP means MKR holders make a commitment to:
 
