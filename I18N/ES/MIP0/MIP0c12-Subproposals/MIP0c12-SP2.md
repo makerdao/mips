@@ -34,29 +34,29 @@ Para mitigar un poco todo lo anterior de 'este trabajo es horrible': esa es una 
 
 ---
 
-### Credentials
-- Long(ish) standing member of the MakerDAO community.
-- Started several initiatives with the aim to improve the long-term prospects of MakerDAO.
-	- [Producing a Collateral Onboarding Document](https://forum.makerdao.com/t/governance-initiative-collateral-on-boarding-process/1344)
-	- [Bringing SourceCred to Maker for a trial](https://forum.makerdao.com/t/governance-initiative-experimenting-with-sourcecred/1345)
-	- [Governance at a Glance](https://forum.makerdao.com/t/governance-at-a-glance/84)
-	- [Maintaining Forums](https://forum.makerdao.com/t/forum-navigation-index/648)
-	- [Governance Documentation](https://community-development.makerdao.com/governance/common-topics)
-	- [Collateral Status Index](https://forum.makerdao.com/t/collateral-status-index/2231)
-	- [Signal Requests](https://forum.makerdao.com/t/meta-governance-signal-requests/55)
+### Cartas credenciales
+- Miembro permanente desde hace mucho tiempo de la comunidad MakerDAO.
+- Inicié varias iniciativas con el objetivo de mejorar las perspectivas a largo plazo de MakerDAO.
+  - [Elaboración de un documento de incorporación colateral](https://forum.makerdao.com/t/governance-initiative-collateral-on-boarding-process/1344)
+  - [Traer SourceCred a Maker para una prueba](https://forum.makerdao.com/t/governance-initiative-experimenting-with-sourcecred/1345)
+  - [Gobernanza de un vistazo](https://forum.makerdao.com/t/governance-at-a-glance/84)
+  - [Mantenimiento de foros](https://forum.makerdao.com/t/forum-navigation-index/648)
+  - [Documentación de gobernanza](https://community-development.makerdao.com/governance/common-topics)
+  - [Índice de estado de la garantía](https://forum.makerdao.com/t/collateral-status-index/2231)
+  - [Solicitudes de señales](https://forum.makerdao.com/t/meta-governance-signal-requests/55)
 
-- Worked on several initiatives meant to improve the long-term prospects of MakerDAO.
-	- [Project Managing Mkrgov.science](https://forum.makerdao.com/t/governance-initiative-maker-governance-analytics-dashboard/1346)
-	- [Cleaning up Executive Audit documentation](https://community-development.makerdao.com/governance/executive-audit)
-	- [The MIPs Framework](https://github.com/LongForWisdom/mips)
+- Trabajé en varias iniciativas destinadas a mejorar las perspectivas a largo plazo de MakerDAO.
+  - [Project Managing Mkrgov.science](https://forum.makerdao.com/t/governance-initiative-maker-governance-analytics-dashboard/1346)
+  - [Limpieza de la documentación de auditoría ejecutiva](https://community-development.makerdao.com/governance/executive-audit)
+- [El marco de MIP](https://github.com/LongForWisdom/mips)
 
-- This thread produced by current governance facilitator Rich Brown: https://forum.makerdao.com/t/its-time-for-a-second-governance-facilitator/1998
+  - Este hilo producido por el actual facilitador de gobernanza Rich Brown: https://forum.makerdao.com/t/its-time-for-a-second-governance-facilitator/1998
 
 ---
 
-### Relevant Information
-- GitHub Account: [@LongForWisdom](https://github.com/LongForWisdom)
-- MakerDAO Forum Account: [@LongForWisdom](https://forum.makerdao.com/u/longforwisdom/)
-- Reddit Account: [@LongForWisdom](https://www.reddit.com/user/LongForWisdom)
+### Informacion relevante
+- Cuenta de GitHub: [@LongForWisdom](https://github.com/LongForWisdom)
+- Cuenta del foro de MakerDAO: [@LongForWisdom](https://forum.makerdao.com/u/longforwisdom/)
+- Cuenta de Reddit: [@LongForWisdom](https://www.reddit.com/user/LongForWisdom)
 
 ---

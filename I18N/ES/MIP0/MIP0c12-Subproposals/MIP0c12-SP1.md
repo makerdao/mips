@@ -20,30 +20,30 @@ MIP0c12-SP1 incorporacion de Charles St. Louis como editor de MIP.
 ## Application Form
     
 - **Motivation**
-    - El marco de propuestas de mejora de Maker requiere un editor de MIP cuando el marco se ratifica. Dado que estoy más cerca del proceso y me siento impulsado a hacer que el Protocolo sea autosostenible, me propongo asumir el papel de Editor del MIP. Como editor de MIP, apoyaré y haré cumplir los aspectos administrativos y editoriales del proceso y marco general de MIP. Para obtener la lista completa de responsabilidades, consulte [`MIP0c10: MIP Editor Role`] (https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c10-mip-editor-role).
+    - El marco de propuestas de mejora de Maker requiere un editor de MIP cuando el marco se ratifica. Dado que estoy más cerca del proceso y me siento impulsado a hacer que el Protocolo sea autosostenible, me propongo asumir el papel de Editor del MIP. Como editor de MIP, apoyaré y haré cumplir los aspectos administrativos y editoriales del proceso y marco general de MIP. Para obtener la lista completa de responsabilidades, consulte [`MIP0c10: MIP Editor Role`](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c10-mip-editor-role).
     - Además, como uno de los arquitectos del marco, trabajaré activamente con la comunidad para ayudar a implementar los MIP entrantes y trabajar y comunicarme con los facilitadores de gobernanza sobre la coordinación de la gobernanza y los votos ejecutivos en relación con los MIP y el ciclo mensual de gobernanza.
     - Por último, me gustaría señalar que la expectativa es que el marco de MIP comenzará con un editor de MIP de la Maker Foundation (yo mismo) y que otros editores de MIP se unirán más tarde.
     
-- **Credentials**
-	- **Work Experience**
-		- **Current:** 
-			- **Decentralized Governance Architect @ Maker Foundation**
-				- Responsible for the initiative to further research, architect, and formalize Maker Governance processes on behalf of the Maker Foundation ([Self-Sustaining Maker](https://forum.makerdao.com/t/the-maker-foundation-s-vision-of-a-self-sustaining-makerdao-initiation-of-maker-improvement-proposals-mips-framework/1882)).
-				- Other relevant **public** work: 
-					- [docs.makerdao.com](http://docs.makerdao.com/)
-					- Contributor [blog.makerdao.com](https://blog.makerdao.com/)
-					- Contributor [MCD Whitepaper](https://makerdao.com/en/whitepaper) 
-					- Contributor [Developer Guides](https://github.com/makerdao/developerguides) 
-					- [security.makerdao.com](http://security.makerdoa.com/)
-			- **PM @ Ethereum Cat Herders** (Volunteer / Community Contributor) 
-				- This includes helping out with technical audit coordination, advisor/editor of Ethereum.org, developer growth initiatives, creating PM processes and retroactive reports, and relaying information between Ethereum Core Dev teams.
-		- **Past:** 
-		    - Independent technical consultant and advisor
-			- Developer Experience Lead @ Polymath Network
+- **Cartas credenciales**
+  - **Experiencia laboral**
+    - **Actual:**
+      - **Arquitecto de gobierno descentralizado @ Maker Foundation**
+        - Responsable de la iniciativa para investigar, diseñar y formalizar los procesos de gobernanza de Maker en nombre de Maker Foundation ([Self-Sustaining Maker](https://forum.makerdao.com/t/the-maker-foundation-s-visión-de-un-creador-autosostenido-iniciación-del-creador-propuestas-de-mejora-mips-framework/1882)).
+        - Otras obras **públicas** relevantes:
+        - [docs.makerdao.com](http://docs.makerdao.com/)
+        - Colaborador [blog.makerdao.com](https://blog.makerdao.com/)
+        - Colaborador [Documento técnico de MCD](https://makerdao.com/en/whitepaper)
+        - Colaborador [Guías para desarrolladores](https://github.com/makerdao/developerguides)
+        - [security.makerdao.com](http://security.makerdoa.com/)
+      - **PM @ Ethereum Cat Herders** (Colaborador voluntario / comunitario)
+        - Esto incluye ayudar con la coordinación de auditorías técnicas, asesor / editor de Ethereum.org, iniciativas de crecimiento de desarrolladores, creación de procesos de gestión de proyectos e informes retroactivos, y transmisión de información entre los equipos de desarrollo de Ethereum Core.
+    - **Pasado:**
+      - Consultor y asesor técnico independiente
+      - Líder de experiencia de desarrollador en Polymath Network
 
 
-- **Relevant Information**
-    - **Github Account:** [@CPSTL](https://github.com/CPSTL)
-    - **MakerDAO Forum Account:** [@charlesstlouis](https://forum.makerdao.com/u/charlesstlouis/summary)
-    - **Twitter Account:** [@CharlieStLouis](https://twitter.com/CharlieStLouis)
+- **Informacion relevante**
+    - **Cuenta de Github:** [@CPSTL](https://github.com/CPSTL)
+    - **Cuenta de foro de MakerDAO:** [@charlesstlouis](https://forum.makerdao.com/u/charlesstlouis/summary)
+    - **Cuenta de Twitter:** [@CharlieStLouis](https://twitter.com/CharlieStLouis)
 ---

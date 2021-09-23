@@ -18,296 +18,295 @@ Replaces: n/a
 
 ## References
 
-**[General-MIP-Template.md](General-MIP-Template.md)**  
+**[General-MIP-Template.md](General-MIP-Template.md)**
+
 **[Technical-MIP-Template.md](Technical-MIP-Template.md)**
 
 ## Sentence Summary
 
-MIP0 define el *Marco de propuestas de mejora de Maker (MIP)* para que lo utilicen todos los MIP posteriores.
+MIP0 define el*Marco de propuestas de mejora de Maker (MIP)*para que lo utilicen todos los MIP posteriores.
 
 ## Paragraph Summary
 
-MIP0 define el *Marco de propuestas de mejora del fabricante (MIP)* para que lo utilicen todos los MIP posteriores. Este MIP es el MIP fundamental que proporciona las plantillas, los procesos y las pautas necesarias para trabajar dentro del marco y define las funciones clave necesarias para el funcionamiento del proceso de MIP.
+MIP0 define el*Marco de propuestas de mejora del fabricante (MIP)*para que lo utilicen todos los MIP posteriores. Este MIP es el MIP fundamental que proporciona las plantillas, los procesos y las pautas necesarias para trabajar dentro del marco y define las funciones clave necesarias para el funcionamiento del proceso de MIP.
 ## Component Summary
 
-**MIP0c1: Definicion del Sistema de mejora del Protocolo Maker**  
-*Defines core concepts of the MIP Framework.*  
+**MIP0c1: Definicion del Sistema de mejora del Protocolo Maker**
+*Defines core concepts of the MIP Framework.* 
 
-**MIP0c2: Core Principles**  
-*Sets the principles that all MIPs should aim to follow.*  
+**MIP0c2: Principios básicos**
+*Establece los principios que todos los MIP deben apuntar a seguir.*
 
-**MIP0c3: The MIP Lifecycle**  
-*Defines the formal stages in the lifecycle of MIPs from conception to approval, rejection, or deferral.*  
+**MIP0c3: El ciclo de vida de MIP**
+*Define las etapas formales en el ciclo de vida de los MIP desde la concepción hasta la aprobación, rechazo o aplazamiento.*
 
-**MIP0c4: MIP Components and MIP Component Types**  
-*Defines MIP Components and their types.*  
+**MIP0c4: Componentes MIP y tipos de componentes MIP**
+*Define componentes MIP y sus tipos.*
 
-**MIP0c5: MIP Replacement Process**  
-*Defines the process for replacing MIPs.*  
+**MIP0c5: Proceso de reemplazo de MIP**
+*Define el proceso para reemplazar MIP.*
 
-**MIP0c6: Supporting Materials**  
-*Defines how to include external materials in MIPs.*  
+**MIP0c6: Materiales de apoyo**
+*Define cómo incluir materiales externos en los MIP.*
 
-**MIP0c7: MIP Templates**  
-*Provides the MIP templates for both General and Technical MIPs.*  
+**MIP0c7: Plantillas MIP**
+*Proporciona las plantillas MIP para MIP generales y técnicos.*
 
-**MIP0c8: MIP0 Domain Role Dependencies**    
-*Defines the core roles essential to the MIP Framework.*  
+**MIP0c8: Dependencias de roles de dominio MIP0**
+*Define las funciones básicas esenciales para el marco MIP.*
 
-**MIP0c9: MIP Editor Role**  
-*Defines the responsibilities of the MIP Editor role and the criteria and grounds for their removal.*  
+**MIP0c9: Rol de editor de MIP**
+*Define las responsabilidades del rol de Editor de MIP y los criterios y motivos para su eliminación.*
 
-**MIP0c10: Governance Facilitator Role**  
-*Defines the Governance Facilitator role's responsibilities and the criteria and grounds for their removal.*  
+**MIP0c10: Rol de facilitador de gobernanza**
+*Define las responsabilidades del rol de Facilitador de Gobernanza y los criterios y motivos para su remoción.*
 
-**MIP0c11: Core Personnel Onboarding (`OBSOLETE`)**  
-*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*  
+**MIP0c11: Incorporación de personal básico (`OBSOLETE`)**
+*Dejado obsoleto por Core Unit Framework (consulte [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*
 
-**MIP0c12: Core Personnel Offboarding (`OBSOLETE`)**  
-*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*  
+**MIP0c12: Desalojo de personal básico (`OBSOLETE`)**
+*Dejado obsoleto por Core Unit Framework (consulte [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*
 
-**MIP0c13: MIP Set Management**  
-*Defines procedures for managing MIP Sets.*  
+**MIP0c13: Gestión de conjuntos MIP**
+*Define procedimientos para administrar conjuntos MIP.*
 
-## Motivation
+## Motivación
 
 Para que MakerDAO se convierta en una organización totalmente descentralizada y autosostenible, se requiere un proceso formalizado de toma de decisiones. En un protocolo sin permiso, todos deberían poder proponer cambios y mejoras.
 
 El Marco MIP sirve para empoderar a cada participante de Gobernanza dentro y fuera de la cadena, brindándoles una forma estandarizada de interactuar con el DAO más amplio y definir su forma futura.
 
-## Specification / Proposal Details
+## Detalles de la especificación/propuesta
 
-### MIP0c1: Definicion del Sistema de mejora del Protocolo Maker
+### MIP0c1: Definición del Sistema de mejora del Protocolo Maker
 
-- **Maker Improvement Proposals (MIPs):** - **Maker Improvement Proposals (MIPs):** MIPs are standardized documents subject to voting that (once enacted) regulate and define the behavior of the Maker Governance and the Maker Protocol. MIPs can be added, amended, replaced, and removed.
--   **MIP Sets:** MIP Sets are groups of interdependent MIPs that work as a modular whole. See `MIP0c13`.
--   **MIP Types:** MIPs can be either general or technical. See `MIP0c5`.
--   **Subproposals (SPs):** Subproposals are instances of Process MIP Components. See `MIP0c4`.  
--   **Minimum Feedback Period:** The minimum amount of time within which the community can give feedback in response to a proposed MIP before it can advance to Formal Submission. See `MIP0c3`.  
--   **Minimum Frozen Period:** The minimum amount of time during which a MIP must remain unchanged before it can advance to Formal Submission. See `MIP0c3`.
--   **Governance Facilitator(s):** Governance Facilitators are tasked with ensuring the smooth operation of the governance process. This role must carry a wide range of activities. Governance Facilitators cannot delegate their formal responsibilities in the MIP Framework. See `MIP0c10`.
--  **MIP Editor(s):** MIP Editors enforce the administrative and editorial aspects of the overall MIPs process and program. See `MIP0c9`.
-
----
-
-### MIP0c2: Core Principles
-
-1. **Specificity:** A MIP must define and address a specific behavior or single responsibility. Overburdened MIPs are not allowed.
-
-2. **Completeness:** A MIP must be thorough. Relevant, specific particulars must not be left undefined or unreferenced.
-
-3. **Avoid overlap:** Multiple MIPs must not implement the same type of behavior independently. For instance, there should not be two separate, interchangeable ways to onboard collaterals.
-
-4. **Clarity:** A MIP must not have equally valid conflicting interpretations. A MIP must be as clear and easy to understand as possible.
-
-5. **Brevity:** A MIP must be as short as possible, including only what is essential given the other core principles.
+- **Propuestas de mejora de Maker (MIP):** - **Propuestas de mejora de Maker (MIP):** MIPs son documentos estandarizados sujetos a votación que (una vez promulgados) regulan y definen el comportamiento de la gobernanza de Maker y el Protocolo de Maker. Los MIP se pueden agregar, modificar, reemplazar y eliminar.
+- **Conjuntos MIP:** Conjuntos MIP son grupos de MIP interdependientes que funcionan como un todo modular. Consulte `MIP0c13`.
+- **Tipos de MIP:** Los MIP pueden ser generales o técnicos. Consulte `MIP0c5`.
+- **Subpropuestas (SP):** Las subpropuestas son instancias de Componentes de proceso MIP. Consulte `MIP0c4`.
+- **Período mínimo de retroalimentación:** La cantidad mínima de tiempo dentro del cual la comunidad puede brindar retroalimentación en respuesta a un MIP propuesto antes de que pueda avanzar a la Presentación formal. Consulte `MIP0c3`.
+- **Período congelado mínimo:** La cantidad mínima de tiempo durante el cual un MIP debe permanecer sin cambios antes de que pueda avanzar a Presentación formal. Consulte `MIP0c3`.
+- **Facilitador (es) de gobernanza:** Los facilitadores de gobernanza tienen la tarea de garantizar el buen funcionamiento del proceso de gobernanza. Este papel debe incluir una amplia gama de actividades. Los facilitadores de gobernanza no pueden delegar sus responsabilidades formales en el marco de MIP. Consulte `MIP0c10`.
+- **Editor (es) de MIP:** Los editores de MIP hacen cumplir los aspectos administrativos y editoriales del proceso y programa general de MIP. Consulte `MIP0c9`.
 
 ---
 
-### MIP0c3: The MIP Lifecycle
+### MIP0c2: Principios básicos
 
-#### The MIP Lifecycle and MIP Statuses
+1. **Especificidad:** Un MIP debe definir y abordar un comportamiento específico o una responsabilidad única. No se permiten MIP sobrecargados.
+
+2. **Integridad:** Un MIP debe ser minucioso. Los detalles relevantes y específicos no deben dejarse sin definir o sin referencia.
+
+3. **Evite la superposición:** Varios MIP no deben implementar el mismo tipo de comportamiento de forma independiente. Por ejemplo, no debería haber dos formas independientes e intercambiables de incorporar garantías.
+
+4. **Claridad:** Un MIP no debe tener interpretaciones contradictorias igualmente válidas. Un MIP debe ser lo más claro y fácil de entender posible.
+
+5. **Brevedad:** Un MIP debe ser lo más breve posible, incluyendo solo lo esencial dados los otros principios básicos.
+
+---
+
+### MIP0c3: El ciclo de vida de MIP
+
+#### El ciclo de vida de MIP y los estados de MIP
 
 ![mip_life_cycle](https://github.com/makerdao/mips/blob/master/MIP0/MIP_lifecycle.png)
 
-#### MIP Lifecycle Breakdown
+#### Desglose del ciclo de vida de MIP
 
-1. **Conception**: A MIP Author posts a MIP proposal in the [Maker forum](https://forum.makerdao.com/c/mips/14) under the *Maker Improvement Proposals* category. From this point on, MIP Editors will be available to assist the MIP Author.
+1. **Concepción**: un autor de MIP publica una propuesta de MIP en el [foro de Maker](https://forum.makerdao.com/c/mips/14) en la categoría *Propuestas de mejora de Maker*. A partir de este momento, los editores de MIP estarán disponibles para ayudar al autor de MIP.
 
-2. **Approved by MIP Editor(s)**: A MIP Editor verifies that the posted MIP proposal:
+2. **Aprobado por los editores de MIP**: Un editor de MIP verifica que la propuesta de MIP publicada:
 
-   - Follows the appropriate format of the MIP Template for its type. See `MIP0c4`.
-   - Is either an original MIP or a replacement for an older MIP.
-   - Has been submitted to the [MIPs GitHub](https://github.com/makerdao/mips) repository with a Pull Request by either the MIP Author or a MIP Editor.
+   - Sigue el formato apropiado de la plantilla MIP para su tipo. Consulte `MIP0c4`.
+   - Es un MIP original o un reemplazo de un MIP anterior.
+   - Ha sido enviado al repositorio de [MIPs GitHub](https://github.com/makerdao/mips) con una solicitud de extracción por parte del autor de MIP o un editor de MIP.
 
-   If the verification is successful, the MIP Editor:
+   Si la verificación es exitosa, el Editor de MIP:
 
-   - Approves the MIP and assigns it a formal MIP number.
-   - Merges in the PR.
+   - Aprueba el MIP y le asigna un número de MIP formal.
+   - Se fusiona en el PR.
 
-3. **Request for Comments (RFC)**: A period of reviewing by the community and attendant redrafting begins. The minimum duration of this period is determined by two variables:
+3. **Solicitud de comentarios (RFC)**: comienza un período de revisión por parte de la comunidad y la redacción correspondiente. La duración mínima de este período está determinada por dos variables:
 
-   - `Feedback Period`: 3 months.
-   - `Frozen Period`: 1 month.
+   - `Periodo de retroalimentación`: 3 meses.
+   - `Frozen Period`: 1 mes.
 
-   These periods can overlap. See `MIP0c1` for their definitions.
+   Estos períodos pueden superponerse. Consulte `MIP0c1` para conocer sus definiciones.
    
-> Please note that the lenghts for these periods are conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md), more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
+> Tenga en cuenta que las longitudes de estos períodos están anuladas condicionalmente por [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md), más específicamente por [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
 
-4. **Fulfilled Feedback Period Requirements:** After the MIP has fulfilled the RFC phase, it is ready for Formal Submission.
+4. **Requisitos del período de comentarios cumplidos:** Una vez que el MIP ha cumplido con la fase de RFC, está listo para la presentación formal.
 
-5. **Formal Submission (FS):** At this point, the MIP Author submits their MIP to the Governance Cycle by moving it to the [*Formal Submission* forum category](https://forum.makerdao.com/c/mips/fs/16) within the [formal submission window of a Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md#mip51c1-governance-cycle-breakdown).
+5. **Presentación formal (FS):** En este punto, el autor de MIP envía su MIP al Ciclo de gobernanza moviéndolo a la [*categoría de foro de presentación formal*](https://forum.makerdao.com/c/mips/fs/16) dentro de la [ventana de envío formal de un ciclo de gobernanza](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md#mip51c1-governance-cycle-breakdown).
 
-6. **Approved by the Governance Facilitator(s):** The Governance Facilitators evaluate the MIP. If they do not approve it, the MIP may be reconsidered to enter the Governance Cycle at a later date.
+6. **Aprobado por el facilitador (es) de gobernanza:** Los facilitadores de gobernanza evalúan el MIP. Si no lo aprueban, se puede reconsiderar el MIP para ingresar al Ciclo de Gobernanza en una fecha posterior.
 
-7. **Monthly Governance Cycle**: At this point, the proposal enters the [Monthly Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md).
+7. **Ciclo de gobernanza mensual**: en este punto, la propuesta entra en el [Ciclo de gobernanza mensual](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md).
 
-8. **Accepted/Rejected:** The MIP is voted on. If it passes, it is officially accepted and is given the `Accepted` status. If not, the MIP is rejected.
+8. **Aceptado/Rechazado:** Se vota sobre el MIP. Si se aprueba, se acepta oficialmente y se le otorga el estado de "Aceptado". De lo contrario, se rechaza el MIP.
 
-#### Resubmission
+#### Reenvío
 
-A MIP can be resubmitted to the Formal Submission process up to 3 times without having to go through phases 1-4 again if it failed to pass due to legitimate external reasons (e.g., got bundled in a governance poll with a controversial proposal.)
+Un MIP se puede volver a enviar al proceso de presentación formal hasta 3 veces sin tener que pasar por las fases 1 a 4 nuevamente si no se aprobó debido a razones externas legítimas (por ejemplo, se incluyó en una encuesta de gobernanza con una propuesta controvertida).
 
-A rejected MIP can be resubmitted. In some cases (if it was rejected for provable extraneous explanation, as judged by Governance Facilitators), it may be allowed to enter the next Governance Cycle immediately.
+Se puede volver a enviar un MIP rechazado. En algunos casos (si fue rechazado por una explicación extraña demostrable, según lo juzguen los facilitadores de gobernanza), se le puede permitir ingresar al siguiente ciclo de gobernanza de inmediato.
 
-#### Other MIP Statuses
+#### Otros estados de MIP
 
-- **Withdrawn:** Assigned when a MIP Author withdraws their MIP proposal.
+- **Retirada:** Asignada cuando un autor de MIP retira su propuesta de MIP.
 
-  > A MIP may be withdrawn at any point before it enters the Governance Cycle. Note that a withdrawn proposal can be taken over from the original Author with a simple transition facilitated by a MIP Editor and the respective parties. If the original MIP Author ceases to be available, a MIP Editor may proceed with the transfer of authorship.
+  > Un MIP puede retirarse en cualquier momento antes de que entre en el ciclo de gobernanza. Tenga en cuenta que una propuesta retirada se puede tomar del autor original con una transición simple facilitada por un editor de MIP y las partes respectivas. Si el autor de MIP original deja de estar disponible, un editor de MIP puede proceder con la transferencia de la autoría.
 
-- **Deferred:** Assigned when a proposal has been deemed as not ready or not a priority but can be re-proposed at a later date. This status can be assigned during RFC or by a rejecting forum poll or Signal Request.
+- **Aplazado:** Se asigna cuando una propuesta se considera no lista o no es una prioridad, pero puede volver a proponerse en una fecha posterior. Este estado se puede asignar durante RFC o rechazando una encuesta de foro o una Solicitud de señal.
 
-- **Obsolete:** Assigned when:
+- **Obsoleto:** Asignado cuando:
 
-  - A MIP has been superseded or deprecated.
-  - A MIP has been deferred for over six months.
-  - A MIP Author has abandoned the proposal and no person has communicated willingness to take over the responsibility of a MIP Author.
+  - Un MIP ha sido reemplazado o desaprobado.
+  - Se ha aplazado un MIP durante más de seis meses.
+  - Un autor de MIP ha abandonado la propuesta y ninguna persona ha comunicado su voluntad de asumir la responsabilidad de un autor de MIP.
 
-#### MIP Status Change Process
+#### Proceso de cambio de estado de MIP
 
-If a MIP Author requests a status change for a MIP, a MIP Editor will review it. If the status change is warranted, the MIP Editor will change the status. Otherwise, the MIP Editor will revert and highlight issues for the MIP Author to fix before requesting another status change.
-
----
-
-### MIP0c4: MIP Components and MIP Component Types
-
-#### MIP Components
-
-In order to satisfy the Core Principles of clarity and completeness, a MIP may need to have multiple components that each define distinct units of logic.
-
-A MIP Component can be of one of two types: General or Process. The type of General MIP Components is usually left undeclared: It is the assumed type of components that are not of Process type.
-
-#### Process MIP Component  
-
-MIP Components of the Process type shape a specific process flow for the Maker community to adopt and standardize with respect to how governance operates. This MIP component type helps streamline particular processes in a transparent, open, and traceable manner.
-
-In this MIP, `MIP0c5` is a Process Component.
-
-Process MIP Components require no special template.
-
-#### Subproposals
-
-Subproposals are instances of the processes defined by Process MIP Components. For example, every concrete onboarding of a Governance Facilitator requires creating (instantiating) a subproposal off the Process MIP Component `MIP41c4` in [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md).
-
-Subproposals go through the same process MIPs do, as described in `MIP0c3`.
-
-For their derived subproposals, Process Component MIPs define:
-
-- Which template they must use. If none is specified, no special template is needed.
-- Their Feedback Period and their Frozen Period.
-
-#### Naming conventions
-
-**MIP Components** follow the naming convention `MIPXcY`, where `X` is the parent MIP and `Y` is the component number.
-
-**Subproposals** follow the naming convention `MIPXcY-SPZ`, where `X` is the parent MIP, `Y` is the component number, and `Z` is the subproposal number.
+Si un autor de MIP solicita un cambio de estado para un MIP, un editor de MIP lo revisará. Si se justifica el cambio de estado, el editor MIP cambiará el estado. De lo contrario, el editor de MIP revertirá y resaltará los problemas para que el autor de MIP los corrija antes de solicitar otro cambio de estado.
 
 ---
 
-### MIP0c5: MIP Replacement Process
+### MIP0c4: Componentes MIP y tipos de componentes MIP
 
-A MIP can define one or more replacement targets in its preamble. If the MIP is given the `Accepted` status, the replacement target(s) MIPs receive the `Obsolete` status and effectively become inactive. The replaced MIP will record the number of the MIP that replaced it. MIPs that depend on the replaced MIP will instead interact with the new MIP.
+#### Componentes MIP
 
-Since dependencies carry over, a MIP with defined replacement targets must strictly adhere to dependency requirements and interface correctly with MIPs that depend on the replaced MIP.
+Para satisfacer los Principios Básicos de claridad e integridad, un MIP puede necesitar tener múltiples componentes, cada uno de los cuales define distintas unidades lógicas.
+
+Un componente MIP puede ser de dos tipos: general o de proceso. El tipo de Componentes MIP generales generalmente no se declara: es el tipo supuesto de componentes que no son del tipo Proceso.
+
+#### Componente MIP de proceso
+
+Los componentes MIP del tipo de proceso dan forma a un flujo de proceso específico para que la comunidad Maker lo adopte y lo estandarice con respecto a cómo opera la gobernanza. Este tipo de componente MIP ayuda a optimizar procesos particulares de una manera transparente, abierta y rastreable.
+
+En este MIP, `MIP0c5` es un componente de proceso.
+
+Los componentes de proceso MIP no requieren una plantilla especial.
+
+#### Subpropuestas
+
+Las subpropuestas son instancias de los procesos definidos por Process MIP Components. Por ejemplo, cada incorporación concreta de un Facilitador de gobernanza requiere la creación (instanciación) de una subpropuesta del Componente MIP de proceso `MIP41c4` en [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md).
+
+Las subpropuestas pasan por el mismo proceso que los MIP, como se describe en `MIP0c3`.
+
+Para sus subpropuestas derivadas, los MIP de componentes de proceso definen:
+
+- Qué plantilla deben utilizar. Si no se especifica ninguno, no se necesita una plantilla especial.
+- Su período de retroalimentación y su período congelado.
+
+#### Convenciones de nombres
+
+**Los componentes MIP** siguen la convención de nomenclatura `MIPXcY`, donde` X` es el MIP principal e `Y` es el número de componente.
+
+**Las subpropuestas** siguen la convención de nomenclatura `MIPXcY-SPZ`, donde` X` es el MIP principal, `Y` es el número de componente y` Z` es el número de subpropuesta.
+
+---
+### MIP0c5: Proceso de reemplazo de MIP
+
+Un MIP puede definir uno o más objetivos de reemplazo en su preámbulo. Si el MIP recibe el estado "Aceptado", los MIP de destino de reemplazo reciben el estado "Obsoleto" y se vuelven inactivos. El MIP reemplazado registrará el número del MIP que lo reemplazó. En cambio, los MIP que dependen del MIP reemplazado interactuarán con el nuevo MIP.
+
+Dado que las dependencias se transfieren, un MIP con objetivos de reemplazo definidos debe cumplir estrictamente los requisitos de dependencia e interactuar correctamente con los MIP que dependen del MIP reemplazado.
 
 ---
 
-### MIP0c6: Supporting Materials
+### MIP0c6: Materiales de apoyo
 
-MIPs can optionally refer to external materials. External materials must be added to the [MIPs GitHhub](https://github.com/makerdao/mips) in the same folder as the MIP which references them.
+Los MIP pueden hacer referencia opcionalmente a materiales externos. Los materiales externos deben agregarse a [MIPs GitHhub](https://github.com/makerdao/mips) en la misma carpeta que el MIP que los hace referencia.
 
-Externally referenced materials are not MIP content and are not ratified when a MIP becomes `Accepted` unless it is explicitly stated otherwise in a MIP Component specification.
-
----
-
-### MIP0c7: MIP Templates
-
-#### General MIP Template
-- The General MIP Template should be used for MIPs whenever a more specific ratified template is not more appropriate.
-- The General MIP Template is located at **[General-MIP-Template.md](General-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
-
-#### Technical MIP Template
-- The Technical MIP Template should be used for MIPs whenever a MIP proposes changes to the smart contract code within the Maker Protocol.
-- The Technical MIP Template is located at **[Technical-MIP-Template.md](Technical-MIP-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+Los materiales referenciados externamente no tienen contenido de MIP y no se ratifican cuando un MIP se "Acepta" a menos que se indique explícitamente lo contrario en la especificación de un Componente de MIP.
 
 ---
 
-### MIP0c8: MIP0 Domain Role Dependencies
+### MIP0c7: Plantillas MIP
 
-The MIP Framework depends on two Domain Roles: MIP Editor and Governance Facilitator.
+#### Plantilla MIP general
+- La plantilla general de MIP debe utilizarse para los MIP siempre que una plantilla ratificada más específica no sea más apropiada.
+- La plantilla de MIP general se encuentra en **[General-MIP-Template.md](General-MIP-Template.md)**. Esta plantilla se considera ratificada una vez que este MIP pasa al estado Aceptado.
 
-#### MIP Editor
+#### Plantilla técnica MIP
+- La plantilla técnica de MIP debe usarse para MIP siempre que un MIP proponga cambios en el código de contrato inteligente dentro del Protocolo Maker.
+- La plantilla técnica MIP se encuentra en **[Technical-MIP-Template.md](Technical-MIP-Template.md)**. Esta plantilla se considera ratificada una vez que este MIP pasa al estado Aceptado.
 
-MIP Editors enforce the administrative and editorial aspects of the overall MIPs process and program.
+---
+### MIP0c8: Dependencias de roles de dominio MIP0
 
-##### Specific authority of the MIP Editor(s) in MIP0 processes
+El marco de MIP depende de dos roles de dominio: editor de MIP y facilitador de gobernanza.
 
-* MIP Editors control phase 2 of the MIP lifecycle and can assign MIP numbers.
-* MIP Editors are admins on the [MIPs Github repository](https://github.com/makerdao/mips).
-* MIP Editors moderate the [MIPs category in the forum](https://forum.makerdao.com/c/mips/14).
-* MIP Editors are responsible for updating the status of MIPs, as described in `MIP0c4`, *The MIP Lifecycle*.
+#### Editor MIP
 
-#### Governance Facilitator
+Los editores de MIP hacen cumplir los aspectos administrativos y editoriales del proceso y programa general de MIP.
 
-Governance Facilitators operate voting frontends, run governance meetings and accept MIPs that are ready to be included in the Governance Cycle and thus voted on.
+##### Autoridad específica de los editores MIP en los procesos MIP0
 
-Governance Facilitators have all the editorial powers a MIP Editor has, and can bestow these powers on contributors.
+* Los editores de MIP controlan la fase 2 del ciclo de vida de MIP y pueden asignar números de MIP.
+* Los editores de MIP son administradores del [repositorio de Github de MIP](https://github.com/makerdao/mips).
+* Los editores de MIP moderan la [categoría de MIP en el foro](https://forum.makerdao.com/c/mips/14).
+* Los editores de MIP son responsables de actualizar el estado de los MIP, como se describe en `MIP0c4`, *El ciclo de vida de MIP*.
 
-##### Specific authority of the Governance Facilitator in MIP0 processes
+#### Facilitador de gobernanza
 
-* Consensus from all Governance Facilitators controls phase 6 of the MIP lifecycle. See `MIP0c3`.
+Los facilitadores de gobernanza operan frentes de votación, organizan reuniones de gobernanza y aceptan MIP que están listos para ser incluidos en el ciclo de gobernanza y, por lo tanto, votados.
 
-Governance Facilitators are defined as Facilitators attached to Core Units with the ID `GOV` in [MIP38: DAO Primitives](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md). They are added using [MIP41: Facilitator Framework](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md).
+Los facilitadores de gobernanza tienen todos los poderes editoriales que tiene un editor de MIP y pueden otorgar estos poderes a los contribuyentes.
+
+##### Autoridad específica del Facilitador de Gobernanza en los procesos MIP0
+
+* El consenso de todos los facilitadores de gobernanza controla la fase 6 del ciclo de vida del MIP. Consulte `MIP0c3`.
+
+Los Facilitadores de Gobernanza se definen como Facilitadores adjuntos a las Unidades Principales con el ID `GOV` en [MIP38: DAO Primitives](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md). Se agregan usando [MIP41: Facilitator Framework](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md).
 
 ---
 
-### MIP0c9: MIP Editor Role  
+### MIP0c9: Rol de editor de MIP
 
-#### Responsibilities
+#### Responsabilidades
 
-MIP Editors enforces the administrative and editorial aspects of the overall MIP process and framework. This includes:
--   Maintaining and managing the [MIPs Portal](mips.makerdao.com) and the [GitHub MIPs repository](https://github.com/makerdao/mips).
--   Providing feedback in the [MIP section of the forum](https://forum.makerdao.com/c/mips/14).
--   Managing and organizing MIP and Subproposal Preambles.
+MIP Editors refuerza los aspectos administrativos y editoriales del proceso y marco general de MIP. Esto incluye:
+- Mantener y administrar el [Portal de MIP](mips.makerdao.com) y el [repositorio de MIP de GitHub](https://github.com/makerdao/mips).
+- Proporcionar comentarios en la [sección MIP del foro](https://forum.makerdao.com/c/mips/14).
+- Gestión y organización de MIP y Preámbulos de Subpropuestas.
 
-They should also enforce the proper MIPs process with responsibilities such as:
--   Assigning formal number labels to MIPs.
--   Making sure that titles, MIP statuses, category placements all track the actual MIPs.
--   Confirming there is a (real) dedicated MIP author, coordinator, funder and/or sponsor, etc.
--   Corresponding with MIP authors/coordinators.
--   Reviewing MIPs for obvious defects in the language
--   Making sure that MIPs follow the style guide (template). 
--   Working and communicating with Governance Facilitators on coordinating governance and executive votes in relation to MIPs and the Governance Cycle.
+También deben hacer cumplir el proceso de MIP adecuado con responsabilidades tales como:
+- Asignación de etiquetas de números formales a los MIP.
+- Asegurarse de que los títulos, los estados de MIP y las ubicaciones de categorías realicen un seguimiento de los MIP reales.
+- Confirmar que hay un autor (real) dedicado al MIP, coordinador, financiador y/o patrocinador, etc.
+- Correspondencia con autores/coordinadores de MIP.
+- Revisión de MIP en busca de defectos obvios en el idioma.
+- Asegurarse de que los MIP sigan la guía de estilo (plantilla).
+- Trabajar y comunicarse con los facilitadores de gobernanza en la coordinación de la gobernanza y los votos ejecutivos en relación con los MIP y el ciclo de gobernanza.
 
-MIP Editors can correct issues themselves, but they are not required to.
+Los editores de MIP pueden corregir los problemas por sí mismos, pero no están obligados a hacerlo.
 
 ---
 
-### MIP0c10: Governance Facilitator Role
+### MIP0c10: Rol del facilitador de gobernanza
 
-#### Core Responsibilities
+#### Responsabilidades principales
 
-- Responsible for ensuring the health and integrity of communication channels that are used for communication within MakerDAO. These tasks include moderation duties, establishing processes and social norms, and defending the channels from trolling and Sybil attacks.
-- Required to remain neutral and objective on issues outside the governance domain and focus on policy, procedure and facilitation.
-- Required to schedule, run and moderate weekly governance and risk meetings from a position of neutrality.
-- Required to manage and run governance processes as directed by relevant Accepted MIPs or MIP sets.
-- Required to create on-chain polls on the ‘official’ voting frontend as directed by governance processes defined in relevant Accepted MIPs or MIP sets.
-- Should aim to foster a culture of openness, receptiveness and reasoned discussion within the community.
-- Should work with the community to operate an emergency voting process to defend the system in the event of an emergency.
-- Should aim to onboard and maintain at least three Governance Facilitators at all times while prioritising candidates from unrepresented geographic regions.
+- Responsable de garantizar la salud e integridad de los canales de comunicación que se utilizan para la comunicación dentro de MakerDAO. Estas tareas incluyen tareas de moderación, establecimiento de procesos y normas sociales, y defensa de los canales de trolling y ataques de Sybil.
+- Se requiere permanecer neutral y objetivo en asuntos fuera del dominio de la gobernanza y centrarse en la política, el procedimiento y la facilitación.
+- Requerido para programar, ejecutar y moderar reuniones semanales de gobierno y riesgo desde una posición de neutralidad.
+- Requerido para administrar y ejecutar procesos de gobernanza según lo indiquen los MIP aceptados relevantes o los conjuntos de MIP.
+- Requerido para crear sondeos en cadena en la interfaz de votación "oficial" según lo indiquen los procesos de gobernanza definidos en los MIP aceptados relevantes o conjuntos de MIP.
+- Debe tener como objetivo fomentar una cultura de apertura, receptividad y discusión razonada dentro de la comunidad.
+- Debe trabajar con la comunidad para operar un proceso de votación de emergencia para defender el sistema en caso de una emergencia.
+- Debe tener como objetivo incorporar y mantener al menos tres facilitadores de gobernanza en todo momento, al mismo tiempo que se da prioridad a los candidatos de regiones geográficas no representadas.
 
-##### Encouraging Participation
-- Should work to maintain and encourage healthy debate, in accordance with the guidelines outlined in the Scientific Governance and Risk Framework and the Core Foundation Principals.
-- Should ensure that the upcoming governance schedule is well communicated to all stakeholders at least a week in advance.
-- Should aim to promote and increase engagement by stakeholders in the governance process.
-- Should ensure that new members of the community understand the general level of decorum and civility expected by the group, that they have the resources they need to get onboarded quickly.
+##### Fomentar la participación
+- Deben trabajar para mantener y fomentar un debate saludable, de acuerdo con las pautas descritas en el Marco de Riesgo y Gobernanza Científica y los Principios Fundamentales.
+- Debe asegurarse de que el próximo calendario de gobernanza se comunique bien a todas las partes interesadas al menos con una semana de anticipación.
+- Debe tener como objetivo promover y aumentar la participación de las partes interesadas en el proceso de gobernanza.
+- Debe asegurarse de que los nuevos miembros de la comunidad comprendan el nivel general de decoro y cortesía que espera el grupo, y que tengan los recursos que necesitan para incorporarse rápidamente.
 
-##### Improving Efficiency
+##### Mejora de la eficiencia
 
-- Should ensure that once debate reaches its natural end that appropriate consensus gathering methods take place.
-- Should support and facilitate communications between the other mandated actors in the Maker Protocol.
-- Should look for opportunities to streamline the governance process without sacrificing its integrity.
+- Debe garantizar que una vez que el debate llegue a su final natural, se lleven a cabo los métodos adecuados de obtención de consenso.
+- Debe apoyar y facilitar las comunicaciones entre los otros actores autorizados en el Protocolo Maker.
+- Debe buscar oportunidades para agilizar el proceso de gobernanza sin sacrificar su integridad.
 
 ##### Cohesion and Morale
 - Responsible for raising community governance issues to the Maker Foundation or the third-party ecosystem and ensuring appropriate follow up for the community.
@@ -317,26 +316,26 @@ MIP Editors can correct issues themselves, but they are not required to.
 
 ---
 
-### MIP0c11: Core Personnel Onboarding (`OBSOLETE`)
-*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*
+### MIP0c11: Incorporación de personal básico (`OBSOLETO`)
+* Dejado obsoleto por Core Unit Framework (consulte [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md)) *
 
-### MIP0c12: Core Personnel Offboarding (`OBSOLETE`)
-*Rendered obsolete by the Core Unit Framework (See [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md))*
+### MIP0c12: Desplazamiento de personal básico (`OBSOLETO`)
+* Dejado obsoleto por Core Unit Framework (consulte [MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md)) *
 
 ---
 
-### MIP0c13: MIP Set Management
+### MIP0c13: Gestión de conjuntos MIP
 
-Some unitary structures and behaviors must be analyzed into separate parts across more than one MIP. When these MIPs are tightly interwoven, they constitute a MIP Set.
+Algunas estructuras y comportamientos unitarios deben analizarse en partes separadas en más de un MIP. Cuando estos MIP están estrechamente entrelazados, constituyen un conjunto MIP.
 
-#### Tagging
+#### Etiquetado
 
-For any MIP Set, its constituent MIPs must all share a common tag. The tag should be defined by MIP Authors and/or MIP Editors and should comply with the following format:
+Para cualquier conjunto de MIP, sus MIP constituyentes deben compartir una etiqueta común. La etiqueta debe ser definida por los autores y / o editores de MIP y debe cumplir con el siguiente formato:
 
-`descriptive short name-mipset`
+`nombre corto descriptivo-mipset`
 
-MIP Sets are usually introduced as such by MIP Authors, but if MIP Editors find that a group of loose, untagged MIPs in the RFC phase satisfy the conditions for being a MIP Set, they can tag these MIPs together into a formal MIP Set. When in doubt, the ultimate criteria should be usefulness and modularity.
+Los autores de MIP suelen introducir conjuntos de MIP como tales, pero si los editores de MIP encuentran que un grupo de MIP sueltos y sin etiquetatar en la fase RFC satisfacen las condiciones para ser un conjunto de MIP, pueden etiquetar estos MIP juntos en un conjunto de MIP formal. En caso de duda, el criterio último debería ser la utilidad y la modularidad.
 
-#### Additional Considerations
+#### Consideraciones adicionales
 
-Because of their interdependent nature, MIP Sets can only be voted as a block, as any partial passing would result in the onboarding of inconsistent, incomplete, or nonsensical MIPs. By the same token, special care must be taken when modifying or removing MIPs within a MIP Set.
+Debido a su naturaleza interdependiente, los conjuntos de MIP solo se pueden votar como un bloque, ya que cualquier aprobación parcial resultaría en la incorporación de MIP inconsistentes, incompletos o sin sentido. Del mismo modo, se debe tener especial cuidado al modificar o eliminar MIP dentro de un conjunto MIP.
