@@ -18,8 +18,8 @@ Replaces: n/a
 
 ## References
 
-**[General-MIP-Template.md](General-MIP-Template.md)**
-**[Technical-MIP-Template.md](Technical-MIP-Template.md)**
+**[Plantilla General para los  MIPs](General-MIP-Template.md)**
+**[Plantilla Técnica para los  MIPs](Technical-MIP-Template.md)**
 
 ## Sentence Summary
 

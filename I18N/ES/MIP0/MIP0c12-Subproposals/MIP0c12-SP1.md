@@ -20,7 +20,7 @@ MIP0c12-SP1 incorporacion de Charles St. Louis como editor de MIP.
 ## Formulario de Aplicación
     
 - **Motivación**
-    - El marco de propuestas de mejora de Maker requiere un editor de MIP cuando el marco se ratifica. Dado que estoy más cerca del proceso y me siento impulsado a hacer que el Protocolo sea autosostenible, me propongo asumir el papel de Editor del MIP. Como editor de MIP, apoyaré y haré cumplir los aspectos administrativos y editoriales del proceso y marco general de MIP. Para obtener la lista completa de responsabilidades, consulte [`MIP0c10: MIP Editor Role`](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c10-mip-editor-role).
+    - El marco de propuestas de mejora de Maker requiere un editor de MIP cuando el marco se ratifica. Dado que estoy más cerca del proceso y me siento impulsado a hacer que el Protocolo sea autosostenible, me propongo asumir el papel de Editor del MIP. Como editor de MIP, apoyaré y haré cumplir los aspectos administrativos y editoriales del proceso y marco general de MIP. Para obtener la lista completa de responsabilidades, consulte [MIP0c10: MIP Editor Role](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c10-mip-editor-role).
     - Además, como uno de los arquitectos del marco, trabajaré activamente con la comunidad para ayudar a implementar los MIP entrantes y trabajar y comunicarme con los facilitadores de gobernanza sobre la coordinación de la gobernanza y los votos ejecutivos en relación con los MIP y el ciclo mensual de gobernanza.
     - Por último, me gustaría señalar que la expectativa es que el marco de MIP comenzará con un editor de MIP de la Maker Foundation (yo mismo) y que otros editores de MIP se unirán más tarde.
     
