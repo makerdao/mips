@@ -18,7 +18,7 @@ MIP0c13-SP1 Salida de Richard Brown del rol de Facilitador de Gobernanza.
 
 ## Solicitud de remoción y evidencia de respaldo
     
-### Motivaión
+### Motivación
 Como es bien sabido, Richard Brown ha optado recientemente por dejar la `Maker Foundation`. Por lo que puedo decir, esta salida fue totalmente en buenos términos. Además, ha expresado su deseo de dejar el rol de facilitador de gobernanza con efecto inmediato.
 
 Esta subpropuesta es en gran parte una formalidad para confirmar esa decisión y eliminar oficialmente la autoridad y los permisos que Rich continúa teniendo en el proceso de MIP como Facilitador de Gobernanza.

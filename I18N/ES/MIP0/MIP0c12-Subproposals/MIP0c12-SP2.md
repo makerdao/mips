@@ -17,10 +17,9 @@ Proposed applicant: LongForWisdom
 ## Sentence Summary
 MIP0c12-SP2 incorpora LongForWisdom como Facilitador de Gobernanza.
 
-## Application Form
+## Formulario de Aplicación
     
-### Motivation
-
+- **Motivación**
 Mi primera impresión de esto cuando Rich sugirió que era "su trabajo es horrible, ¿por qué querría hacerlo?" Dicho esto, hay algunas razones bastante convincentes por las que siento que debería hacerlo.
 - Es un paso concreto hacia la descentralización de la DAO.
 - Rich trabaja en exceso y, a menudo, no puede prestar toda su atención al puesto (aunque, para ser justos, hace un gran trabajo al equilibrarlo con sus otras responsabilidades). Tener un segundo facilitador debería ayudar a aumentar la cobertura.
