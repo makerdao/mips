@@ -94,20 +94,20 @@ The Monthly Budget Statements will be added to the [team drive](https://drive.go
 
 ### Budget Breakdown
 
-_Please Note, Q3 2021 only covers the month of August, and includes some upfront costs. This budget assumes a July 2021 Governance Cycle ratification with August being our first month officially operating._
+_Please Note, Q3 2021 only covers the months of August and September, and includes some upfront costs. This budget assumes a July 2021 Governance Cycle ratification with August being our first month officially operating._
 
 |  Description  |  Annual  |  Q3 2021  |  Q4 2021  |
 |-|-|-|-|
-|  Salaries (3 positions)  |  $ 280,000.00  |  $ 23,333.33  |  $ 70,000.00  |
-|  Hourly Compensation  |  $ 40,000.00  |  $ 3,333.33  |  $ 10,000.00  |
-|  Healthcare  |  $ 43,200.00  |  $ 3,600.00  |  $ 10,800.00  |
+|  Salaries (3 positions)  |  $ 280,000.00  |   $ 46,666.66  |  $ 70,000.00  |
+|  Hourly Compensation  |  $ 40,000.00  |  $ 6,666.66  |  $ 10,000.00  |
+|  Healthcare  |  $ 43,200.00  |  $ 7,200.00  |  $ 10,800.00  |
 |  Sign-on Expenses  |  $ 1,800.00  |  $ 1,800.00  |  $ -    |
-|  Travel & Events  |  $ 10,000.00  |  $ 833.33  |  $ 2,500.00  |
-|  Operating Expenses  |  $ 11,000.00  |  $ 916.67  |  $ 2,750.00  |
-|  Professional Services  |  $ 50,000.00  |  $ 4,166.67  |  $ 12,500.00  |
-|  Contingency Buffer  |  $ 50,000.00  |  $ 4,166.67  |  $ 12,500.00  |
+|  Travel & Events  |  $ 10,000.00  |  $ 1,666.68  |  $ 2,500.00  |
+|  Operating Expenses  |  $ 11,000.00  |  $ 1,833.34  |  $ 2,750.00  |
+|  Professional Services  |  $ 50,000.00  |  $ 8,333.33  |  $ 12,500.00  |
+|  Contingency Buffer  |  $ 50,000.00  |  $ 8,333.33  |  $ 12,500.00  |
 |  |  |  |  |
-|  Total  |  $ 486,000.00  |  $ 42,150.00  |  $ 121,050.00  |
+|  Total  |  $ 486,000.00  |  $ 82,500.00  |  $ 121,050.00  |
 |  Approximate Per month  |  $ 40,500.00  |  |  |
 
 #### Details
