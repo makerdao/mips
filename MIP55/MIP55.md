@@ -114,7 +114,7 @@ The initial funding implementation would use a simple funding implementation of 
 
 ### MIP55c3: Adding/Modifying a Special Purpose Fund
 
-MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](link)** .
+MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposal-Template.md)** .
 
 This is a component that can have on-chain effects that alter the Maker Protocol's state. When subproposals are generated from this component, the vote must include a technical state change to authorize drawing funds from the Maker Protocol.
 
