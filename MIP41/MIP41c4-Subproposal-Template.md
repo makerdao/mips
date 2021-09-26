@@ -26,7 +26,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Facilitator name and information
 
-- This element must contain the Forum name of the Facilitator, as well as other names and IDs in Maker related communication channels. Additionally it must contain the Facilitators ethereum address used for Budget Implementation control and other authorizations.
+- This element must contain the Forum name of the Facilitator, as well as other names and IDs in Maker related communication channels. Additionally it must contain the Facilitators Ethereum address used for Budget Implementation control and other authorizations.
 
 ### Facilitator Commitment
 

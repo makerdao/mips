@@ -80,7 +80,7 @@ After this period, the budget will be revised on the basis of actual backlog, do
 
 ### Interim budget
 
-Since leaving the Foundation at the end of May 2021 our team has continued to maintain and update existing datasets (e.g. vaults history, governance actions history, liquidations history, pricing history), GUIs and APIs (e.g. MCDState.info, MCDGov.info) that are being used by other Core Units (e.g. Risk CU, GovAlpha CU). We have also updated EthTx to support Goerli at the request of Protocol Engineering.
+Since leaving the Foundation at the end of May 2021 our team has continued to maintain and update existing datasets (e.g., vaults history, governance actions history, liquidations history, pricing history), GUIs and APIs (e.g., MCDState.info, MCDGov.info) that are being used by other Core Units (e.g., Risk CU, GovAlpha CU). We have also updated EthTx to support Goerli at the request of Protocol Engineering.
 
 We also respond to a lot of ad-hoc queries and answer data related requests from other CUs and community members. Currently one of our data engineers is almost fully utilized by these activities to support the DAO. This also generates substantial costs of maintaining the required AWS and Snowflake infrastructure.
 

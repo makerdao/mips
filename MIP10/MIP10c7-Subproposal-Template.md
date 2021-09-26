@@ -43,7 +43,7 @@ Date Ratified: <yyyy-mm-dd>
 - Oracle Security Module (OSM)
     
 ### Supported Tools
-- < tool name > < version commit hash > < link to github repo >
+- < tool name > < version commit hash > < link to GitHub repo >
 
 ### Changelog
 - List of updates

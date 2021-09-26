@@ -51,9 +51,9 @@ While MIP7 provided an initial starting point, it did not attempt to define how 
 
 In theory, the open and permissive structure of having multiple teams within a domain that work independently has the advantage of decentralization and scalability. However in practice MakerDAO is not yet at the point where there are a sufficient number of qualified and willing personnel to support multiple teams. In fact, the open team structure may be inhibiting the growth and sharing of domain expertise due to the barrier for entry.
 
-The domain structure defined in MIP23 is designed to promote knowledge transfer from current domain personnel into potential domain personnel via a facilitator-contributor model. In this hierarchical model, there is more of an opportunity for community members to be paid for domain work without immediately taking on longer term responsbility for that domain or having to pass a governance vote.
+The domain structure defined in MIP23 is designed to promote knowledge transfer from current domain personnel into potential domain personnel via a facilitator-contributor model. In this hierarchical model, there is more of an opportunity for community members to be paid for domain work without immediately taking on longer term responsibility for that domain or having to pass a governance vote.
 
-It is hoped that the addition of an explicit entry-level role will increase interest in these roles and leave the protocol with a larger pool of trained personnel to fulfil domain work.
+It is hoped that the addition of an explicit entry-level role will increase interest in these roles and leave the protocol with a larger pool of trained personnel to fulfill domain work.
 
 ## Specification / Proposal Details
 
@@ -65,13 +65,13 @@ Each domain is encouraged to build their own working structure under this umbrel
 
 The first role is known as the Domain Facilitators. This position maps most closely to the previous Domain Team role. This position takes responsibility for the domain as it relates to MakerDAO and takes more of an organizational role. Persons in this role must be ratified by Maker Governance.
 
-The second role is known as the Domain Contributors. This position is a working role that fulfils tasks as defined by the Domain Facilitators. Domain Contributors are not required to be ratified by governance.
+The second role is known as the Domain Contributors. This position is a working role that fulfills tasks as defined by the Domain Facilitators. Domain Contributors are not required to be ratified by governance.
 
 ---
 
 ### MIP23c2: Domain Facilitators
 
-The Domain Facilitators take responsibility for the success of MakerDAO as it relates to their domain. They will complete domain work themselves, or outsource to their Domain Contributors in order to fulfil their responsibilities. Additionally, they will aggressively transfer knowledge and attempt to grow the pool of personnel that can effectively work within their domain.
+The Domain Facilitators take responsibility for the success of MakerDAO as it relates to their domain. They will complete domain work themselves, or outsource to their Domain Contributors in order to fulfill their responsibilities. Additionally, they will aggressively transfer knowledge and attempt to grow the pool of personnel that can effectively work within their domain.
 
 Each domain will have its own specific requirements and responsibilities, but it is suggested that domain facilitators keep the following principles in mind at all times:
 * Transparency - Be clear and upfront with the activities within the domain. Make every effort to inform Maker Governance of current work, issues, and concerns.
@@ -84,7 +84,7 @@ At least one Domain Facilitator is required to explicitly and publicly approve a
 
 The Domain Facilitator role within any domain is an elected role. Personnel must be ratified via a subproposal to be defined in each individual domain definition MIP (see MIP23c4.) A list of Domain Facilitators will be maintained within the domain definition MIP for that domain by the Domain Facilitators.
 
-Each domain facilitator must provide a hardware-wallet secured ethereum public address to which they uniquely hold the private key. This address must be listed in the domain facilitator list for this domain (see MIP23c4). This address may be delegated powers or authority by Maker Governance at a future date.
+Each domain facilitator must provide a hardware-wallet secured Ethereum public address to which they uniquely hold the private key. This address must be listed in the domain facilitator list for this domain (see MIP23c4). This address may be delegated powers or authority by Maker Governance at a future date.
 
 ---
 ### MIP23c3: Domain Contributors

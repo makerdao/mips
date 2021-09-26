@@ -38,7 +38,7 @@ Date Ratified: <yyyy-mm-dd>
 
 - Link to Open PR containing the changes to MIP60c2.
 
-### Reason for Modication
+### Reason for Modification
 
 - Why is these changes being proposed?
 

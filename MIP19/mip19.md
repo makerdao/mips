@@ -18,7 +18,7 @@ License: AGPL v3.0
 ## References
 
 - [Debt Auction Blocking in the Dai Credit System Presentation by Kurt Barry](https://docs.google.com/presentation/d/1nnpPBiOLEWi81q8zrHoIWH4s3iQaKrCSaR68AafzQJo/edit#slide=id.p)
-    - [Video recording of the presenation](https://www.youtube.com/watch?v=erh25lnaIo0)
+    - [Video recording of the presentation](https://www.youtube.com/watch?v=erh25lnaIo0)
 - [Formal Verification Run](https://reports.makerfoundation.com/k-dss/dcc4d3a8fcab50a5af6f/)
 
 ## Sentence Summary
@@ -51,7 +51,7 @@ States the license used for the proposed code.
 
 ## Motivation
 
-As of today, the collateral, surplus, and debt auction contracts expect bidders to have the full amount of their bid in their wallet. Thus, if they are increasing a bid they already made (i.e. they were the most recent bidder on the auction), they cannot simply supply the additional amount over their previous bid. Instead, they must have the full amount of the previous bid plus the additional amount in their wallet; after supplying this, their previous bid is refunded.
+As of today, the collateral, surplus, and debt auction contracts expect bidders to have the full amount of their bid in their wallet. Thus, if they are increasing a bid they already made (i.e., they were the most recent bidder on the auction), they cannot simply supply the additional amount over their previous bid. Instead, they must have the full amount of the previous bid plus the additional amount in their wallet; after supplying this, their previous bid is refunded.
 
 **Example**
 
@@ -132,7 +132,7 @@ This is a small upgrade to the Auction Contracts; thus, the implementation risks
 	- [Flopper Documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flop-detailed-documentation#4-gotchas-potential-source-of-user-error)
 	- [Flapper Documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation#4-gotchas-potential-source-of-user-error)
 - [Collateral Module Documentation](https://docs.makerdao.com/smart-contract-modules/collateral-module#4-gotchas-potential-sources-of-user-error)
-    - [Flipper Documenation](https://docs.makerdao.com/smart-contract-modules/collateral-module/flipper-detailed-documentation#4-gotchas-potential-source-of-user-error)
+    - [Flipper Documentation](https://docs.makerdao.com/smart-contract-modules/collateral-module/flipper-detailed-documentation#4-gotchas-potential-source-of-user-error)
 ---
 ### MIP19c4: Formal Verification / Audit Information
 

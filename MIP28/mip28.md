@@ -89,7 +89,7 @@ Naturally, the focus of the domain functions will change with the maturity of Ma
 * Incubate and provide grants funding for smaller working groups and proto-teams.
 * Coordinate domain budget proposals and payments.
 * Help new domain teams onboard.
-* Manage account permissions to any shared MakerDAO resources (ie. Github, Forum, etc).
+* Manage account permissions to any shared MakerDAO resources (i.e., GitHub, Forum, etc).
 
 ---
 

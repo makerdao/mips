@@ -90,7 +90,7 @@ Providing additional detail with regards to the above line items;
 
 **Travel:** Engineers may travel to present at industry events or participate in a team offsite.
 
-**Hardware:** In order to ensure we are able to run multiple ETH nodes to support testing and contract deployment, a supplement for a Dev machine (e.g. Intel Quad Core i7-8565U, 40GB RAM, 512GB NVMe) and test node (e.g. Intel NUC; i5-7300U 2.6 - 3.5 GHz Dual Core, 32GB RAM, 2TB NVMe M.2.) will ensure the team has the hardware in place to achieve this.
+**Hardware:** In order to ensure we are able to run multiple ETH nodes to support testing and contract deployment, a supplement for a Dev machine (e.g., Intel Quad Core i7-8565U, 40GB RAM, 512GB NVMe) and test node (e.g., Intel NUC; i5-7300U 2.6 - 3.5 GHz Dual Core, 32GB RAM, 2TB NVMe M.2.) will ensure the team has the hardware in place to achieve this.
 
 **Referral & Sign-on Expenses:** Provided at the discretion of the Facilitator to attract top talent to the team.
 

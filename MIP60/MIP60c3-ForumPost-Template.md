@@ -22,6 +22,6 @@
 
 - List three supporting Core Unit Facilitators. Tag them using @. (this should go without saying, but speak to them ahead of time.)
 
-## Reason for Modication
+## Reason for Modification
 
 - Why are these changes taking place?

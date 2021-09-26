@@ -50,7 +50,7 @@ Per-second multiplicative factor. Initialized to zero and should be set to a val
 #### `Clipper` -- **buf** [ray]
 
 The multiplicative factor to increase the starting price of an auction.
-E.g. if the current OSM price of an asset is 1,000 and `buf = 1.2 * RAY` (20% above), then the initial price of that auction will be 1,200.
+E.g., if the current OSM price of an asset is 1,000 and `buf = 1.2 * RAY` (20% above), then the initial price of that auction will be 1,200.
 
 #### `Clipper` -- **calc** [address]
 
@@ -64,7 +64,7 @@ Percentage of `tab` to `suck` from `vow` to incentivize keepers when liquidating
 #### `Clipper` -- **cusp** [ray]
 
 Percentage price drop that can occur before an auction must be reset. Together with `tail`, this parameter determines when an auction needs to be reset.
-E.g. if the initial price of an auction (`top`) is set to 1,200 and `cusp = 0.6 * RAY` (60% of the starting price), then the auction will need to be reset when reaching just below the price of 720.
+E.g., if the initial price of an auction (`top`) is set to 1,200 and `cusp = 0.6 * RAY` (60% of the starting price), then the auction will need to be reset when reaching just below the price of 720.
 
 #### `Clipper` -- **dog** [address]
 
@@ -77,7 +77,7 @@ The Collateral price module contract address.
 #### `Clipper` -- **tail** [seconds]
 
 Seconds that can elapse before an auction must be reset. Together with `cusp`, this parameter determines when an auction needs to be reset.
-E.g. if `tail` is 1800 seconds, then if an auction is not complete after 30 minutes have elapsed, it will need to be reset.
+E.g., if `tail` is 1800 seconds, then if an auction is not complete after 30 minutes have elapsed, it will need to be reset.
 
 #### `Clipper` -- **tip** [rad]
 
@@ -96,7 +96,7 @@ Max DAI needed to cover debt + liquidation penalty of active auctions.
 #### `Dog` -- **ilk.chop** [wad]
 
 Liquidation Penalty per collateral (`ilk`).
-E.g. if there is a vault ready to be liquidated that has a debt of 1,000 DAI and `chop = 1.13 * WAD` (13% above), then the max amount to be raised by the auction will be 1,130 DAI.
+E.g., if there is a vault ready to be liquidated that has a debt of 1,000 DAI and `chop = 1.13 * WAD` (13% above), then the max amount to be raised by the auction will be 1,130 DAI.
 
 #### `Dog` -- **ilk.clip** [address]
 
@@ -183,7 +183,7 @@ To ensure there was a remedy for this potential issue, an incentive mechanism wa
 - The component of the reward that increases linearly with the total Vault debt is intended to be used to reward liquidators for reducing risk to the system, as risk itself scales with the size of undercollateralized Vaults—a Vault that is twice as big as another represents twice the risk of bad debt accrual. Or viewed another way, liquidating two vaults of size X represents the same risk reduction as liquidating one Vault of size 2X—thus the reward to a liquidator ought to be similar. Further, the system can *afford* to pay more for larger liquidations, because the liquidation penalty is also proportional to the amount of debt outstanding for a given Vault.
 - The constant component of the reward can be used to cover gas costs (which are per-Vault for liquidators) or to allow MKR holders to effectively pay Keepers to clear small Vaults that would otherwise not be attractive for liquidation.
 
-These parameters must be set extremely carefully, lest it be possible to exploit the system by "farming" liquidation rewards (e.g. creating Vaults with the intention of liquidating them and profiting from the too-high rewards). Generally, the liquidation reward should remain less than the minimum liquidation penalty by some margin of safety so that the system is unlikely to accrue a deficit. This doesn't necessarily prevent farming, it just helps ensure the system remains solvent. For example, incentives can be farmed in a capital-efficient way when `Dirt` is close to `Hole` or when `ilk.dirt` is close to `ilk.hole` for some collateral type. An attacker would purchase a small amount of collateral from a running auction, freeing up a small amount of room relative to either `Hole` or `ilk.hole`, then liquidate a small portion of an existing Vault to collect the reward, and repeat the process. This can be done over and over in the same transaction, and the activation of EIP 2929 (scheduled for the Berlin hard fork at the time of writing) will significantly reduce the associated gas costs (due to warm storage reads and writes). Note that since the attacker does not need to create their own Vaults, the size of the liquidation penalty in relation to the incentive value is not a deterrent; only gas costs matter to the attacker. The fact that the Dog prevents partial liquidations that remove less than `ilk.dust` debt from a Vault helps to mitigate this scenario--so long as the liquidation penalty exceeds the total reward for this minimal liquidation size, _and the liquidation penalty is reliably collected by the resulting auction_ (which may not hold under conditions of market or network perturbation), the system should not on balance accrue bad debt.
+These parameters must be set extremely carefully, lest it be possible to exploit the system by "farming" liquidation rewards (e.g., creating Vaults with the intention of liquidating them and profiting from the too-high rewards). Generally, the liquidation reward should remain less than the minimum liquidation penalty by some margin of safety so that the system is unlikely to accrue a deficit. This doesn't necessarily prevent farming, it just helps ensure the system remains solvent. For example, incentives can be farmed in a capital-efficient way when `Dirt` is close to `Hole` or when `ilk.dirt` is close to `ilk.hole` for some collateral type. An attacker would purchase a small amount of collateral from a running auction, freeing up a small amount of room relative to either `Hole` or `ilk.hole`, then liquidate a small portion of an existing Vault to collect the reward, and repeat the process. This can be done over and over in the same transaction, and the activation of EIP 2929 (scheduled for the Berlin hard fork at the time of writing) will significantly reduce the associated gas costs (due to warm storage reads and writes). Note that since the attacker does not need to create their own Vaults, the size of the liquidation penalty in relation to the incentive value is not a deterrent; only gas costs matter to the attacker. The fact that the Dog prevents partial liquidations that remove less than `ilk.dust` debt from a Vault helps to mitigate this scenario--so long as the liquidation penalty exceeds the total reward for this minimal liquidation size, _and the liquidation penalty is reliably collected by the resulting auction_ (which may not hold under conditions of market or network perturbation), the system should not on balance accrue bad debt.
 
 ### MIP45c7 Four-Stage Liquidation Circuit Breaker
 
@@ -216,7 +216,7 @@ Just like in `LIQ-1.2`, the circuit breaker will be available through a `Clipper
 - that the auction does not need to be reset, either due to having experienced too large a percentage decrease in price, or having existed for too long of a time duration
 - that the caller's specified maximum price is at least the current auction price
 
-Then, the amount of collateral to attempt to purchase is computed as the minimum of the collateral left in the auction (`lot`) and the caller's specified quantity (`amt`)—the resulting value is the `slice`. This value is then multiplied by the current price of the auction to compute the DAI owed in exchange (`owe`). If `owe` exceeds the DAI collection target of the auction (`tab`), then `owe` is adjusted to be equal to `tab`, and `slice` is set to `tab / price` (i.e. the auction will not sell more collateral than is needed to cover debt+fees from the liquidated Vault).
+Then, the amount of collateral to attempt to purchase is computed as the minimum of the collateral left in the auction (`lot`) and the caller's specified quantity (`amt`)—the resulting value is the `slice`. This value is then multiplied by the current price of the auction to compute the DAI owed in exchange (`owe`). If `owe` exceeds the DAI collection target of the auction (`tab`), then `owe` is adjusted to be equal to `tab`, and `slice` is set to `tab / price` (i.e., the auction will not sell more collateral than is needed to cover debt+fees from the liquidated Vault).
 
 To make it less likely that auctions are left in a state that is unattractive to bid on, further logic is applied if there will be both left over DAI target and collateral based on the initial determinations for `slice` and `owe`. If the remaining `tab` in such a case would be less than `chost` (a value stored by the contract, asynchronously set to `ilk.dust * ilk.chop / WAD` by the `upchost()` function), then:
 1) If the overall DAI target is less than `chost`, **the function reverts. Callers should be aware of this possibility and account for it when necessary.**
@@ -275,7 +275,7 @@ As mentioned above, auctions can reach a defunct state that requires resetting f
 - too much time has elapsed since the auction started (controlled by the `tail` governance parameter)
 - the ratio of the current price to the initial price has fallen below a certain level (specified by the `cusp` governance parameter).
 
-The reset function, when called, first ensures that at least one of these conditions holds. Then it adjusts the starting time of the auction to the current time, and sets the starting price in exactly the same way as is done in the initialization function (i.e. the current OSM price increased percentage-wise by the `buf` parameter). This process will repeat until all collateral has been sold or the whole debt has been collected (unless the auction is canceled via `yank`, e.g. during Emergency Shutdown); contrast this behavior with the current auctions, which reset until at least one bid is received.
+The reset function, when called, first ensures that at least one of these conditions holds. Then it adjusts the starting time of the auction to the current time, and sets the starting price in exactly the same way as is done in the initialization function (i.e., the current OSM price increased percentage-wise by the `buf` parameter). This process will repeat until all collateral has been sold or the whole debt has been collected (unless the auction is canceled via `yank`, e.g., during Emergency Shutdown); contrast this behavior with the current auctions, which reset until at least one bid is received.
 
 ##### MIP45c15 Improved Keeper Wallet Security
 
@@ -495,7 +495,7 @@ Updates the `chost` value stored in the contract to equal the product of `Vat.il
 ```
 function yank(uint256 id) external;
 ```
-(Authenticated) Allows an auction to be removed during Emergency Shutdown or via a goveranance action.
+(Authenticated) Allows an auction to be removed during Emergency Shutdown or via a governance action.
 
 ## Known Risks
 
@@ -548,7 +548,7 @@ If we set either `Dog.Hole` or `ilk.hole` too low, we run the risk of not being 
 
 ### Auction Parameter Changes Affect Running Auctions
 
-Parameters, e.g. `tail`, `cusp`, or the price decrease function or any of its parameters, can be changed at any time by governance and will affect the behavior of running auctions. Integrators should take this possibility into account, reasoning through how sudden changes in parameters would impact their bidding strategies. Governance should endeavor to change parameters infrequently and if possible, only when there are not any auctions that will be affected.
+Parameters, e.g., `tail`, `cusp`, or the price decrease function or any of its parameters, can be changed at any time by governance and will affect the behavior of running auctions. Integrators should take this possibility into account, reasoning through how sudden changes in parameters would impact their bidding strategies. Governance should endeavor to change parameters infrequently and if possible, only when there are not any auctions that will be affected.
 
 ## Audits
 

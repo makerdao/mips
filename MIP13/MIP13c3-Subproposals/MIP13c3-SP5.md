@@ -82,7 +82,7 @@ The onboarding process for risk will be in conjuction with the risk domain teams
 * **Stability fee**: fee on Dai that is generated from a RWA Vault should be competitive with the current cost of capital of the asset originator or the industry standard rate of the specific asset.
 * **Debt ceiling**: We propose the maximum amount of Dai that can be generated from Vault/RWA should not be higher than 4m in the first itereation. The debt ceiling for RWA as collateral should be determined by the capital need / origination volume of the asset originator.
 * **Collateralization ratio**: The ratio between the value of the collateral and the value of the generated Dai for the specific RWA vault.
-* **Downside protection / TIN ratio**: The ratio between DROP and TIN (Senior and Junior tranche). This is an additional saftey cushion for any RWA vault. It should be derived from the asset originators historic default rate and/or the asset's historic default rate (e.g. Invoices as an asset type have a historic default rate of less than 1%)
+* **Downside protection / TIN ratio**: The ratio between DROP and TIN (Senior and Junior tranche). This is an additional saftey cushion for any RWA vault. It should be derived from the asset originators historic default rate and/or the asset's historic default rate (e.g., Invoices as an asset type have a historic default rate of less than 1%)
 - **Reporting**: Present a Risk Assessment Report co-authored by active Maker community members; either by the current Risk Domain Team or longer term a Domain Team specializing in non-crypto assets.
 
 #### Executive Vote

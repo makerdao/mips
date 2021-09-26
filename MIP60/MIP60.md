@@ -21,7 +21,7 @@ Replaces: N/A
 
 ## Sentence Summary
 
-MIP60 sets processes for MakerDAO to determine which actors manage which Intangible Assets (such as web domains, Github repositories, and social media accounts).
+MIP60 sets processes for MakerDAO to determine which actors manage which Intangible Assets (such as web domains, GitHub repositories, and social media accounts).
 
 ## Paragraph Summary
 
@@ -65,7 +65,7 @@ The following definitions are used within MIP60 to describe the processes and ac
 
 **Content Manager:** An individual or organization that has been granted access to manage the content of an asset held by an Asset Owner. For example, controlling the content of a web domain, or creating posts on a social media account.
 
-**Platform Manager:** An individual or organization that runs the technical infrastructure that serves content to an asset held by an Asset Owner. This individual or entity may be outside MakerDAO's direct control. For example, an individual or organization hosting the webserver that serves content on a given domain is a platform manager. As another example, a centralized organization such as Twitter or Github that manages a publicly available content platform is a Platform Manager.
+**Platform Manager:** An individual or organization that runs the technical infrastructure that serves content to an asset held by an Asset Owner. This individual or entity may be outside MakerDAO's direct control. For example, an individual or organization hosting the web server that serves content on a given domain is a platform manager. As another example, a centralized organization such as Twitter or GitHub that manages a publicly available content platform is a Platform Manager.
 
 #### Assumptions
 The following assumptions are made regarding control and ownership of Intangible Assets within MakerDAO in order for this MIP to be effectively used to manage the access of digital assets.

@@ -18,7 +18,7 @@ MIPs have two types: **technical** if they propose changes or additions to smart
 
 ### Subproposals
 
-Subroposals are a common recurring process. They are created and used as a means of proposing and enacting decisions nested within specific MIPs.
+Subproposals are a common recurring process. They are created and used as a means of proposing and enacting decisions nested within specific MIPs.
 
 Just like MIPs, subproposals are standardized documents subject to voting. Once approved, they trigger a concrete action or state such as onboarding specific collateral, offboarding a Core Unit Facilitator, modifying a budget, and so forth.
 
@@ -68,7 +68,7 @@ For a more detailed breakdown of the procedure, please read [MIP0c3](https://mip
 
 Remember that MIP Editors are there to clarify the process and help you. Don't hesitate to reach out if you need assistance!
 
-| MIP Editor | Rocket Chat | Github | Forum |
+| MIP Editor | Rocket Chat | GitHub | Forum |
 |-|-|-|-|
 | **Charles** | [@charlesstlouis](https://chat.makerdao.com/) | [@CPSTL](https://github.com/CPSTL) | [@charlesstlouis](https://forum.makerdao.com/u/charlesstlouis/summary) |
 | **Pablo** | [@blimpa](https://chat.makerdao.com/) | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
@@ -77,4 +77,4 @@ Remember that MIP Editors are there to clarify the process and help you. Don't h
 
 * [MIPs Discussion Channel](https://go.rocket.chat/invite?host=chat.makerdao.com&path=invite%2FNPEuhW)
 * [MakerDAO MIPs Forum](https://forum.makerdao.com/c/mips/14)
-* [MakerDAO MIPs Github](https://github.com/makerdao/mips)
+* [MakerDAO MIPs GitHub](https://github.com/makerdao/mips)

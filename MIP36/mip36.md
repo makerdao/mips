@@ -50,9 +50,9 @@ Here is the last part of the - Peg Stability Compound Mixed Exposure - project.
 
 ## Motivation
 
-Currently, the usdc token inside the PSM is inefficient and needs to be diversified.
+Currently, the USDC token inside the PSM is inefficient and needs to be diversified.
 All previous MIPs ( [MIP29](https://forum.makerdao.com/t/mip29-peg-stability-module/5071), [MIP32](https://forum.makerdao.com/t/mip32-peg-stability-module-compound-mixed-exposure/5684), [MIP35](https://forum.makerdao.com/t/mip35-peg-stability-module-compound-mixed-exposure-with-farming/6024)) 
-are mint to control the peg under or over a certain level, for example the current PSM levels the dai at 1.001 or 0.999 on the other side. 
+are mint to control the peg under or over a certain level, for example the current PSM levels the Dai at 1.001 or 0.999 on the other side. 
 But none of them can actually move the price, this stabilizer allows the governance to push down or up the price. 
 I believe this tool is needed for example in case the price stays stuck on one side and in any case it gives more power to the governance.  
 The governance can move the market price by sending supply to the market via `cDai` or by removing supply.
@@ -66,9 +66,9 @@ The contract has 2 methods only accessible by governance :
  - `leverage(uint256 amount)`
  - `deleverage(uint256 amount)`
 
-`leverage()` flash mint the amount of dai pass as parameter. Increase its position on cDai using one Compound join and return the Dai flash minted. 
+`leverage()` flash mint the amount of Dai pass as parameter. Increase its position on cDai using one Compound join and return the Dai flash minted. 
 
-`deleverage()` flash mint the amount of dai pass as parameter. Use the Dai to pay back its debt using one Compound join, decrease its position and return the Dai flash minted.  
+`deleverage()` flash mint the amount of Dai pass as parameter. Use the Dai to pay back its debt using one Compound join, decrease its position and return the Dai flash minted.  
 
 Two contracts will be deployed one for the Lending Join one for the Farming Join.
 
@@ -110,9 +110,9 @@ Due to the design of multi-collateral DAI, worst-case losses should be limited t
 
 There is security consideration about the code itself, compound tokens.
 In this implementation as we use leverage on compound, the c-token can be sized.
-By using leverage on compound we also expose ourself to a lost of the assert which is currently compensated by COMP token.
+By using leverage on compound we also expose ourselves to a lost of the assert which is currently compensated by COMP token.
 
-Another risk: uniswap interaction, but limited to the extra bonus.
+Another risk: Uniswap interaction, but limited to the extra bonus.
 
 ### MIP36c6: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)

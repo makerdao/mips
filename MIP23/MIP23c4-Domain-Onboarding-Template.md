@@ -16,12 +16,12 @@ $Domain Facilitator to be added:
 ## Application
     
 ### Motivation
-- Explanation of why and how you want to fulfil this role. 
+- Explanation of why and how you want to fulfill this role. 
     
 ### Credentials
 - Past work experience.
 
 ### Relevant Information
-- Github Account
+- GitHub Account
 - MakerDAO Forum Account 
 - Other relevant Accounts

@@ -118,7 +118,7 @@ A process component that defines the method and template to update the Feed Stip
 ### Oracle Parameters:
 
 **Description**
-The Oracle system has several parameters that determine how frequently the Oracles are updated. Updating more frequently leads to a more sensitive Oracle, at the expense of higher costs. The Oracle Security Module (OSM) is the watchdog between the Oracle and the Maker Protocol. It delays prices by a delay interval before the price is utilizied by the Maker Protocol. This delay protects the Maker Protocol from Oracle attacks by enabling Governance to take emergency action during the delay period.
+The Oracle system has several parameters that determine how frequently the Oracles are updated. Updating more frequently leads to a more sensitive Oracle, at the expense of higher costs. The Oracle Security Module (OSM) is the watchdog between the Oracle and the Maker Protocol. It delays prices by a delay interval before the price is utilized by the Maker Protocol. This delay protects the Maker Protocol from Oracle attacks by enabling Governance to take emergency action during the delay period.
 
 **MIP10c19: Process to Update Oracle Expiration Time**
 A process component that defines the method and template to update the Oracle Expiration Time.
@@ -141,8 +141,8 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
 - **Feedback Period:** 0 days
 - **Frozen Period:** 0 days
 
-1. An Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
+1. An Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs GitHub repo.
+2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the GitHub PR.
 3. The Oracle Team submits a Polling Vote to the Governance Portal. If the Oracle is being onboarded as part of the collateral onboarding process, this proposal may be bundled up with other deliverables necessary for collateral onboarding.
 4. If the Polling Vote passes, the Oracle Team will alert the Feeds to update their Oracle clients. If the Polling Vote fails the Oracle Team may make changes to the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and resubmit a new Polling Vote. If the Oracle Team does not, and no other Oracle Team decides to take up this responsibility, the process ends here.
 5. Oracle Team Notifies the Feeds to update their Oracle clients
@@ -151,9 +151,9 @@ In the Maker Protocol, every collateral type has a corresponding Oracle that pub
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c15.
 6. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote.
 
-7. The Oracle Team(s) update [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to append the new Oracle and submit a PR to the MIPS Github repo.
-8. The Oracle Team(s) update [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to append the new Data Model and submit a PR to the MIPS Github repo.
-9. The Oracle Team(s) update [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to append all whitelist entries and submit a PR to the MIPS Github repo.
+7. The Oracle Team(s) update [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to append the new Oracle and submit a PR to the MIPS GitHub repo.
+8. The Oracle Team(s) update [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to append the new Data Model and submit a PR to the MIPS GitHub repo.
+9. The Oracle Team(s) update [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to append all whitelist entries and submit a PR to the MIPS GitHub repo.
 
 ---
 
@@ -186,7 +186,7 @@ MIP10c3 subproposals have the following parameters:
 MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**.
 
 1. The Oracle Team verifies for each customer whitelisted contract:
-    - contract is verified on etherscan
+    - contract is verified on Etherscan
     - contract uses Oracle data in a permissioned manner so as to prohibit on-chain parasitic behavior by 3rd parties.
     - If Oracle data is saved to storage, it is stored in a private variable accessible exclusively by the protocol.
 2. The Oracle Team finds and selects data sources
@@ -201,7 +201,7 @@ MIP10c3 subproposals must use the template located at **[MIP10c3-Subproposal-Tem
     - Medianizer
     - Oracle Security Module (OSM) - only required for collateral assets
 
-6. The Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
+6. The Oracle Team publishes the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) to the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs GitHub repo.
 
 ---
 
@@ -215,7 +215,7 @@ MIP10c4 subproposals have the following parameters:
 
 MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**.
 
-1. A community member or other 3rd party publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
+1. A community member or other 3rd party publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs GitHub repo.
 2. After a period for the community to review and give feedback on the proposal, an Oracle Team may choose to commit to the work required to continue the Oracle Offboarding process.
 3. The Oracle Team submits a Polling Vote to the Governance Portal.
 4. If the Polling Vote passes, the Oracle Team gives 30 day notice to any customers whitelisted on the Oracle that the Oracle is shutting down.
@@ -228,8 +228,8 @@ MIP10c4 subproposals must use the template located at **[MIP10c4-Subproposal-Tem
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
 7. If on-chain changes are necessary, the actions are bundled up in the subsequent Executive Vote.
-8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to remove the Oracle and submits a PR to the MIPS Github repo.
-9. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to remove all whitelist entries and submits a PR to the MIPS Github repo.
+8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to remove the Oracle and submits a PR to the MIPS GitHub repo.
+9. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to remove all whitelist entries and submits a PR to the MIPS GitHub repo.
 
 ---
 
@@ -255,8 +255,8 @@ MIP10c6 subproposals must use the template located at **[MIP10c6-Subproposal-Tem
 
 **An Oracle Team may opt to skip this step and submit MIP10c7**
 
-1. A community member publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
+1. A community member publishes the [MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs GitHub repo.
+2. Feedback is incorporated into the [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the GitHub PR.
 3. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to submit [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) and continue the Oracle Data Model Update process.
 
 ---
@@ -274,8 +274,8 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
 1. The Oracle Team completes the following technical deliverables:
     - Update price querying tool(s) to implement the Data Model for the Oracle.
     - Update the Oracle client(s) to integrate the latest version of the price querying tool(s) and implement technical changes to utilize the new Data Model.
-2. The Oracle Team publishes the [MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs Github repo.
-3. Feedback is incorporated into the [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the MIPS Github repo.
+2. The Oracle Team publishes the [MIP10c7-Subproposal-Template.md](MIP10c7-Subproposal-Template.md) in the Oracle section of the Maker Forum for community review as well as submitting a PR to the MIPs GitHub repo.
+3. Feedback is incorporated into the [MIP10c7-Subproposal-Template](MIP10c7-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the MIPS GitHub repo.
 4. The Oracle Team submits a Polling Vote to the Governance Portal.
 5. If the Polling Vote passes, the Oracle Team gives 30 day notice to any customers whitelisted on the Oracle that the Oracle Data Model is changing.
     - Notice is sent to each customer via the email provided in MIP10c9.
@@ -283,8 +283,8 @@ MIP10c7 subproposals must use the template located at **[MIP10c7-Subproposal-Tem
     - Alert sent out on the official Feeds Keybase channels
     - Timeline: 1 week to deploy
     - Feeds who do not deploy within the given timeline are given a warning. Given enough warnings, governance may opt to remove the Feed through MIP10c16.
-7. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to update the Data Model and submits a PR to the MIPS Github repo.
-8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to update the Active Oracle record with the updated Data Model and submits a PR to the MIPS Github repo.
+7. The Oracle Team updates [MIP10c8: List of Oracle Data Models](MIP10c8-List-of-Oracle-Data-Models.md) to update the Data Model and submits a PR to the MIPS GitHub repo.
+8. The Oracle Team updates [MIP10c5: List of Active Oracles](MIP10c5-List-of-Active-Oracles.md) to update the Active Oracle record with the updated Data Model and submits a PR to the MIPS GitHub repo.
 
 ---
 
@@ -310,12 +310,12 @@ MIP10c9 subproposals have the following parameters:
 
 MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Template.md](MIP10c9-Subproposal-Template.md)**.
 
-1. A community member publishes the [MIP10c9-Subproposal-Template](MIP10c9-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPs Github repo. Typically this will be the 3rd party with a desire to consume the requested Oracle's data. An Oracle Team may also submit such a proposal on behalf of the interested party.
+1. A community member publishes the [MIP10c9-Subproposal-Template](MIP10c9-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPs GitHub repo. Typically this will be the 3rd party with a desire to consume the requested Oracle's data. An Oracle Team may also submit such a proposal on behalf of the interested party.
 
 2. At this point the proposal is in limbo until an Oracle Teams commits to doing the work required to submit [MIP10c3-Subproposal-Template](MIP10c3-Subproposal-Template.md) and continue the Whitelist Oracle Access process.
 
 3. The Oracle Team verifies for each proposed contract to whitelist:
-    - contract is verified on etherscan
+    - contract is verified on Etherscan
     - contract uses Oracle data in a permissioned manner so as to prohibit on-chain parasitic behavior by 3rd parties.
     - If Oracle data is saved to storage, it is stored in a private variable accessible exclusively by the protocol.
 
@@ -323,7 +323,7 @@ MIP10c9 subproposals must use the template located at **[MIP10c9-Subproposal-Tem
 
 5. If the Polling Vote passes the Oracle Team will bundle the proposal in the subsequent Executive Vote.
 
-6. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS Github repo.
+6. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submit a PR to the MIPS GitHub repo.
 
 ---
 
@@ -337,19 +337,19 @@ MIP10c10 subproposals have the following parameters:
 
 MIP10c10 subproposals must use the template located at **[MIP10c10-Subproposal-Template.md](MIP10c10-Subproposal-Template.md)**.
 
-1. A customer, community member, or Oracle Team publishes the [MIP10c10-Subproposal-Template](MIP10c10-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+1. A customer, community member, or Oracle Team publishes the [MIP10c10-Subproposal-Template](MIP10c10-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS GitHub repo.
 
 2. At this point the proposal is in limbo until an Oracle Teams commits to doing the work required and continue the Oracle Removal process.
 
 If voluntary:
     3. The Oracle Team contacts the customer via the email provided in MIP10c3/MIP10c9 to verify this action.
     4. The Oracle Team bundles the proposal into the next Executive Vote.
-    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
+    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS GitHub repo.
 
 If involuntary:
     3. The Oracle Team gives the customer 30 days notice via the email the customer provided in MIP10c3/MIP10c9.
     4. After the 30 day period has elapsed, the Oracle Team bundles the proposal into the next Executive Vote.
-    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS Github repo.
+    5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the Whitelist for the Oracle(s) and submits a PR to the MIPS GitHub repo.
 
 ---
 
@@ -374,19 +374,19 @@ MIP10c13 subproposals have the following parameters:
 
 The MIP10c12 template is located at **[MIP10c12-Subproposal-Template.md](MIP10c12-Subproposal-Template.md)**.
 
-1. A community member publishes the [MIP10c12-Subproposal-Template](MIP10c12-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+1. A community member publishes the [MIP10c12-Subproposal-Template](MIP10c12-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS GitHub repo.
 
-2. Feedback is incorporated into the [MIP10c12-Subproposal-Template](MIP10c12-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the MIPS Github repo.
+2. Feedback is incorporated into the [MIP10c12-Subproposal-Template](MIP10c12-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the MIPS GitHub repo.
 
 3. An Oracle Team submits a Polling Vote to the Governance Portal.
 
 4. If the Polling Vote passes the Oracle Team gives affected customers 30 days notice via the email stored in [MIP10c12](MIP10c12-Subproposal-Template.md).
 
-5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the fees for each modified entry and submit a PR to the MIPS Github repo.
+5. The Oracle Team updates [MIP10c11: List of Oracle Whitelists](MIP10c11-List-of-Oracle-Whitelists.md) to update the fees for each modified entry and submit a PR to the MIPS GitHub repo.
 
 ---
 
-### MIP10c13: Process to Appoint Dark Feed Reqest
+### MIP10c13: Process to Appoint Dark Feed Request
 
 Used by the community to appoint a Dark Feed.
 
@@ -396,11 +396,11 @@ MIP10c13 subproposals have the following parameters:
 
 MIP10c13 subproposals must use the template located at **[MIP10c13-Subproposal-Template.md](MIP10c13-Subproposal-Template.md)**.
 
-1. An anon uses VPN/TOR/I2C to post [MIP10c13-Subproposal-Template](MIP10c13-Subproposal-Template.md) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo using a fresh Github Account registered with a throwaway email.
+1. An anon uses VPN/TOR/I2C to post [MIP10c13-Subproposal-Template](MIP10c13-Subproposal-Template.md) to the Oracle section of the Maker Forum and submits a PR to the MIPS GitHub repo using a fresh GitHub Account registered with a throwaway email.
 
 2. At this point the proposal is in limbo until an Oracle Teams commits to doing the work required to validate the information provided. The Oracle Team may ask follow-up questions or request more data from the proposer.
 
-3. The Oracle Team prepares the assesment of the information provided by the proposed Light Feed to prepare MIP10c15.
+3. The Oracle Team prepares the assessment of the information provided by the proposed Light Feed to prepare MIP10c15.
 
 ---
 
@@ -414,7 +414,7 @@ MIP10c14 subproposals have the following parameters:
 
 MIP10c14 subproposals must use the template located at **[MIP10c14-Subproposal-Template.md](MIP10c14-Subproposal-Template.md)**.
 
-1. An institution publishes [MIP10c14-Subproposal-Template](MIP10c14-Subproposal-Template.md) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+1. An institution publishes [MIP10c14-Subproposal-Template](MIP10c14-Subproposal-Template.md) to the Oracle section of the Maker Forum and submits a PR to the MIPS GitHub repo.
 
 2. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to validate the information provided. The Oracle Team may ask follow-up questions or request more data from the proposer.
 
@@ -434,7 +434,7 @@ MIP10c15 subproposals have the following parameters:
 
 MIP10c15 subproposals must use the template located at **[MIP10c15-Subproposal-Template.md](MIP10c15-Subproposal-Template.md)**.
 
-1. The Oracle Team compiles and assesses the information provided in MIP10c13/MIP10c14. The Oracle Team compiles and publishes [MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template) to the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+1. The Oracle Team compiles and assesses the information provided in MIP10c13/MIP10c14. The Oracle Team compiles and publishes [MIP10c15-Subproposal-Template](MIP10c15-Subproposal-Template) to the Oracle section of the Maker Forum and submits a PR to the MIPS GitHub repo.
 
 2. The community reviews and gives feedback on the proposal.
 
@@ -464,7 +464,7 @@ MIP10c16 subproposals have the following parameters:
 
 MIP10c16 subproposals must use the template located at **[MIP10c16-Subproposal-Template](MIP10c16-Subproposal-Template.md)**.
 
-1. A community member publishes the [MIP10c16-Subproposal-Template](MIP10c16-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+1. A community member publishes the [MIP10c16-Subproposal-Template](MIP10c16-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS GitHub repo.
 
 2. At this point the proposal is in limbo until an Oracle Team commits to doing the work required to review and validate the evidence.
 
@@ -503,11 +503,11 @@ MIP10c18 subproposals must use the template located at **[MIP10c18-Subproposal-T
 
 **MIP10c18 is currently frozen until governance takes over the funding of Feed Stipends**
 
-1. A community member publishes the [MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS Github repo.
+1. A community member publishes the [MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md) in the Oracle section of the Maker Forum and submits a PR to the MIPS GitHub repo.
 
 2. The community reviews the details of the proposal and gives feedback.
 
-3. Feedback is incorporated into the [MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the Github PR.
+3. Feedback is incorporated into the [MIP10c18-Subproposal-Template](MIP10c18-Subproposal-Template.md) with changes logged in the changelog section. Changes are reflected both in the Forum thread as well as in the GitHub PR.
 
 4. An Oracle Team submits a Polling Vote to the Governance Portal.
 

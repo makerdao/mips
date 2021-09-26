@@ -80,7 +80,7 @@ As a side effect it should bring :
    - small amount Liquidation
    - decrease burning inefficiency
    - Oasis swap
-   - onchain oracle
+   - on-chain oracle
    - etc ... (DeFi is based on AMM) 
 
 The AMM on DAI/MKR pair will have a similar effect of the burn mechanism. Instead of burning we will stack 1/2 of MKR and 1/2 of DAI. The module will allow governance to withdraw DAI, MKR or Both. It will be plugged to the `keg`.
@@ -103,7 +103,7 @@ Ultimately, I expert the AMM to be more efficient than the dutch auction.
 
 Furthermore, 
 we can add more reserve based on Dai. We can redirect small liquidation to it and decrease the dust. We can swap MKR to burn.
-We can add the swap to oassis. etc ... 
+We can add the swap to Oasis. etc ... 
 
 ## Specification
 
@@ -118,14 +118,14 @@ The flash minting part will be moved outside the main method to be independent a
  - `fees`       : percentage of the amount takes as fees for each swap.
  - `flash_fees` : percentage of the amount takes as fees for each flashmint/flashloan.
  - `period`     : period of time between each poke() call
- - `poker`      : pocker contract interface with the poker.
+ - `poker`      : poker contract interface with the poker.
    
 ### MIP31c2: Functions
 
 there are forth external functions :
- - `swap()` : uniswap function to swap two token.
+ - `swap()` : Uniswap function to swap two token.
  - `flashLoan()` : Allow flash loan on the token from the reserve.
- - `flashMint()` : Allow flash mint on the dai from the reserve.
+ - `flashMint()` : Allow flash mint on the Dai from the reserve.
  - `getReserves()` : To get the reserve
 
 there are five admin functions :
@@ -139,7 +139,7 @@ there are five admin functions :
 
  * Three parameters are needed `amount0Out`, `amount1Out`, `addressTo`
 
- * Should allow swap between two tokens using uniswap formula.
+ * Should allow swap between two tokens using Uniswap formula.
  
  * A fees is taken during the swap `amount` * `fees` parameter
 
@@ -178,7 +178,7 @@ there are five admin functions :
 
  * Three parameters are needed `receiver`, `amount`, `data`
  
- * Allow flashMint on the dai inside the AMM 
+ * Allow flashMint on the Dai inside the AMM 
 
  * A fee is taken, the fee is equal at : `amount` * `flash_fees`
 

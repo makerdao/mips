@@ -16,7 +16,7 @@ Declaration to Revoke: MIP13c3-SP#
 
 ### Context and Motivation
 
-- Why is this statment of intent being revoked?
+- Why is this statement of intent being revoked?
 
 ### Relevant Links
     

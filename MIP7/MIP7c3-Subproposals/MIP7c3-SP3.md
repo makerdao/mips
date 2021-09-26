@@ -30,7 +30,7 @@ Working on the Risk side of things at MakerDAO together with Cyrus and the team 
 - Scale Risk Teams: 
   - Build a independent structure of Risk analysts responsible directly to MakerDAO and compensated by the Protocol
   - Onboard additional regular contributors through mentoring and tasks
-  - Make contributors specialize in Risk Domain fields i.e. monetary policy, peg & liquidity, collateral risk assessments, RWA, etc.
+  - Make contributors specialize in Risk Domain fields, i.e., monetary policy, peg & liquidity, collateral risk assessments, RWA, etc.
 - More agile and effective collateral onboarding, focus on RWA
 - Simplify Rate and Debt Ceiling setting process that enables collateral type scaling
 - Enhance monitoring tools for Portfolio risk and DAI/Vault related metrics

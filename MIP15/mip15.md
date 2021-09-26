@@ -16,7 +16,7 @@ Replaces:
 ```
 ## References
 
-**[Dark Spell Github Repository](https://github.com/makerdao/dss-darkspell)**
+**[Dark Spell GitHub Repository](https://github.com/makerdao/dss-darkspell)**
 **[MIP15c7-Subproposal-Template.md](MIP15c7-Subproposal-Template.md)**
 **[MIP15c8-Subproposal-Template.md](MIP15c8-Subproposal-Template.md)**
 
@@ -36,7 +36,7 @@ This MIP proposes a special spell mechanism called a "dark spell" that conceals 
 Defines several concepts that are important for understanding the Dark Spell mechanism.
 
 **MIP15c2: Dark Spell Process Overview**
-A step-by-step walkthrough of how a dark spell is deployed and an overview of which stakeholders are involved in the process.
+A step-by-step walk-through of how a dark spell is deployed and an overview of which stakeholders are involved in the process.
 
 **MIP15c3: Dark Spell Requirements**
 Defines the critical bug criteria that necessitate a dark spell.

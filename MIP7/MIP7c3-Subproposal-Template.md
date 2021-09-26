@@ -31,6 +31,6 @@ Proposed Applicant:
     
 ### Relevant Information
     
-- Github Accounts
+- GitHub Accounts
 - Forum Accounts
 - Other 

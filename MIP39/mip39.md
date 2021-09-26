@@ -69,7 +69,7 @@ Mandates from different Core Units can overlap to create redundancy and parallel
 
 Core Objectives and Domains are not directly defined in the DAO Primitives MIP Set but are flexible concepts that emerge through the interaction of DAO Primitives.
 
-Core Units are at the intersection of Domains (which denote skillsets and capabilities) and Objectives (which denote cross-domain long term workstreams.)
+Core Units are at the intersection of Domains (which denote skill sets and capabilities) and Objectives (which denote cross-domain long term workstreams.)
 
 A Core Unit can participate in multiple objectives and can fall under one or more domains.
 

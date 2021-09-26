@@ -91,7 +91,7 @@ The RWA Foundation legal structure is based on the Cayman Islands Foundation Com
 
 As defined in the following diagram. The RWA Foundation itself is not intended to directly hold any RWA but to have SPV (Special Purpose Vehicle) subsidiaries that hold the actual RWA. RWA Foundation should only hold equity interests in subsidiaries in order to qualify as a "Pure Equity Holding Company" under the "International Tax Co-Operation (Economic Substance) Act" of the Cayman Islands
 
-While there could be one Foundation per collateral type, it can also be a SPV per collateral type (or any hybrid combination). This allows to select the right jurisdiction/legal structure for each SPV and define a set of rules (e.g. Articles of Association) for each. As an example, investments in the U.S. may be carried out through a member-managed Delaware LLC (with RWA Foundation as the sole member) or through a Delaware Statutory Trust (with RWA Foundation as the trust sponsor). MakerDAO will lend (or contribute) DAI to the RWA Foundation which will contribute (or lend) the proceeds to the SPV for investment in the RWA.
+While there could be one Foundation per collateral type, it can also be a SPV per collateral type (or any hybrid combination). This allows to select the right jurisdiction/legal structure for each SPV and define a set of rules (e.g., Articles of Association) for each. As an example, investments in the U.S. may be carried out through a member-managed Delaware LLC (with RWA Foundation as the sole member) or through a Delaware Statutory Trust (with RWA Foundation as the trust sponsor). MakerDAO will lend (or contribute) DAI to the RWA Foundation which will contribute (or lend) the proceeds to the SPV for investment in the RWA.
 
 For illustrative purposes, the objects for which the RWA Foundations are established could be the following: 
 
@@ -119,24 +119,24 @@ While having a member at the creation, this membership is terminated, and a spec
 
 The supervisors are independent third-party service companies. The supervisors are voting at the general meeting. The purpose of the supervisor is to act as an "interested person" to enforce the rights of the Foundation and enforce the rights and liabilities of the directors. The RWA Foundation supervisors will be authorized to appoint and remove the directors (but require a DAO Resolution, MIP58c6 or MIP58c7). The supervisors can also change the Articles of Associations by issuing a Special Resolution (but require a DAO Resolution, MIP58c3). The supervisors can be appointed or removed by the directors with by MakerDAO (MIP58c4 and MIP58c5). It is intended to have one supervisor, being a reputable servicing company.
 
-The directors are independent third-party service companies. The directors are managing the Foundation. They are appointed or removed by the supervisors with an ordinary resolution of the general meeting (MIP58c6 and MIP58c7). While they can manage the day to day administratives part of the Foundation, more impacting actions need to be initiated and ratified by MakerDAO (MIP58c3). It is intended to have one director, being a reputable independent third-party service company. It is intended that the director service company is different from the supervisor independent third-party service company. This provide a better redundancy.
+The directors are independent third-party service companies. The directors are managing the Foundation. They are appointed or removed by the supervisors with an ordinary resolution of the general meeting (MIP58c6 and MIP58c7). While they can manage the day to day administrative part of the Foundation, more impacting actions need to be initiated and ratified by MakerDAO (MIP58c3). It is intended to have one director, being a reputable independent third-party service company. It is intended that the director service company is different from the supervisor independent third-party service company. This provide a better redundancy.
 
-The committee is a group of MakerDAO appointed people through a DAO Resolution to the directors (MIP58c9 and MIP58c10). The DAO Resolution will set forth the size, composition and authorities of the Committee. The Committee, if adopted, is intended to have some defined level of authority to instruct the directors to carry out certain predefined actions in respect of RWA without having to revert to Maker on every administrative detail. The directors will still have to accept to act on the guidance and follow their fiduciary duty to the RWA Foundation and obedience to the Cayman laws. This provide some additional safety versus appointing those MakerDAO people as directors. It also reduce the need of paperwork and scrutiny on MakerDAO people, possibily allowing pseudonymous committee members.
+The committee is a group of MakerDAO appointed people through a DAO Resolution to the directors (MIP58c9 and MIP58c10). The DAO Resolution will set forth the size, composition and authorities of the Committee. The Committee, if adopted, is intended to have some defined level of authority to instruct the directors to carry out certain predefined actions in respect of RWA without having to revert to Maker on every administrative detail. The directors will still have to accept to act on the guidance and follow their fiduciary duty to the RWA Foundation and obedience to the Cayman laws. This provide some additional safety versus appointing those MakerDAO people as directors. It also reduce the need of paperwork and scrutiny on MakerDAO people, possibly allowing pseudonymous committee members.
 
 A potential list of delegations that can be left to the committee is the following:
 
-- Notifify the borrower of a default;
+- Notify the borrower of a default;
 - Take any time sensitive measures to protect lender rights;
 - Immaterial (non-monetary) waivers under financing agreements;
 - Immaterial (non-monetary) amendments under financing agreements;
 - Administrative matters to maintain SPV security (UCC filings, renewals);
 - Authorize payments of administrative fees, costs and expenses for loan management.
 
-The autorized signers are appointed by the directors following a DAO Resolution. They are given the power to represent the RWA Foundation on a set of limited topics. For instance, they can be appointed to open a bank account to the benefit of a RWA Foundation SPV (one time event) or to issue a default notice when there is a need to (ongoing authorization). That can be used when the directors is not willing to convey the action (for instance because he is not competent in the designed jurisdiction) or to save cost and time (each director action being an expense).
+The authorized signers are appointed by the directors following a DAO Resolution. They are given the power to represent the RWA Foundation on a set of limited topics. For instance, they can be appointed to open a bank account to the benefit of a RWA Foundation SPV (one time event) or to issue a default notice when there is a need to (ongoing authorization). That can be used when the directors is not willing to convey the action (for instance because he is not competent in the designed jurisdiction) or to save cost and time (each director action being an expense).
 
-Both the committee and the authorized signers are optionals and can be set up or removed by the directors following a DAO Resolution.
+Both the committee and the authorized signers are optional and can be set up or removed by the directors following a DAO Resolution.
 
-Actor             | Direct power | Indirect Power | Required Trust  | Exemples of actions (issuance)
+Actor             | Direct power | Indirect Power | Required Trust  | Examples of actions (issuance)
 ------------------|--------------|----------------|-----------------|------
 Supervisor        | High         | High           | High            | Administrative tasks (if any)
 Director          | High         | High           | High            | Day to day administration of the Foundation
@@ -224,7 +224,7 @@ This subproposal is used to instruct the RWA Foundation supervisors to appoint a
 
 The supervisors should be reputable service providers entities. There are not expected to take any decision beside acting on DAO Resolutions and managing the day to days administrative operations of the Foundation.
 
-While not expected to act on significant matters without a DAO Resolution or a Committee guidance, it is always a possibility that external actors would act in good faith on directors' resquest (without a DAO Resolution) incuring a liability for the Foundation. This should be a quite remote issue with any service provider.
+While not expected to act on significant matters without a DAO Resolution or a Committee guidance, it is always a possibility that external actors would act in good faith on directors' request (without a DAO Resolution) incurring a liability for the Foundation. This should be a quite remote issue with any service provider.
 
 It is the intent of the MIP to add a director only to replace a defaulting or resigning director. Having more than one director doesn't significantly reduce the issue mentioned above.
 

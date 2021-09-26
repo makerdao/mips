@@ -17,6 +17,7 @@ Date Ratified: 2021-08-23
 MIP40c3-SP24 adds the budget for Core Unit DAIF-001: Dai Foundation Core Unit.
 
 ## Paragraph Summary
+
 This proposal contains a three year budget for the DAIF CU with requested funding and payment implementation.
 * The first year the requested funding is 2,554,358 DAI which includes 2 Million DAI for reserves buildup
 * The second year it is  1,463,186 DAI including 1 Million DAI for reserves buildup meaning the operational expenses are reduced by 16% compared to year 1. 
@@ -167,7 +168,7 @@ Examples of events for which Dai Foundation may need access to reserves to conti
 
 - Regulatory or other action which means the contributions from the Protocol to cover daily operations are cut off for a period that may last up to three years
 - A lawsuit like the one that was seen after the “Black Thursday” event in 2020 where Dai Foundation will be the main or rather the only centralized entity to target. Defending against lawsuits can be very expensive - an estimate of legal cost of $1M in connection with a big US lawsuit is not unrealistic.
-- Events where Directors and Officer Insurance is required - e.g. a lawsuit where board members are sued individually. It is very expensive for Dai Foundation to acquire a Directors and Officers insurance, so as a backup there should be sufficient reserves for Dai Foundation to provide the same cover for its board members as is available to board members in similar foundations, e.g. a coverage up to $2M.
+- Events where Directors and Officer Insurance is required - e.g., a lawsuit where board members are sued individually. It is very expensive for Dai Foundation to acquire a Directors and Officers insurance, so as a backup there should be sufficient reserves for Dai Foundation to provide the same cover for its board members as is available to board members in similar foundations, e.g., a coverage up to $2M.
 
 Based on the above, Dai Foundation should aim to build up reserves of at least $3M where it is proposed that the protocol donates $2M to reserves the first year and $1M the following year.
 
@@ -177,7 +178,7 @@ A Danish foundation has favourable tax conditions while being legally required t
 
 #### How will donations that Dai Foundation receives from third parties be allocated?
 
-To the degree the Dai Foundation receives donations (e.g. in the form of crypto sent to the Dai Foundation wallet) they will be allocated to one or more of the following three categories:
+To the degree the Dai Foundation receives donations (e.g., in the form of crypto sent to the Dai Foundation wallet) they will be allocated to one or more of the following three categories:
 
 - Funding more charitable donations from Dai Foundation
 - Further building up of the reserves

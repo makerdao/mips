@@ -28,7 +28,7 @@ This proposal provides a smart contract implementation of a Streaming Payments S
 
 ## Paragraph Summary
 
-The Keg is a tool for streaming ERC20 DAI to a preset group of addresses. These address groups can be targetted by specifying a human-friendly name to the Keg. These address groups are called `flights`. Anyone can make a payment into the Keg provided they specify the destination `flight` and have enough DAI. Also included are two contracts `Tap` and `FlapTap` to facilitate payments from the Surplus Buffer and Flapper respectively.
+The Keg is a tool for streaming ERC20 DAI to a preset group of addresses. These address groups can be targeted by specifying a human-friendly name to the Keg. These address groups are called `flights`. Anyone can make a payment into the Keg provided they specify the destination `flight` and have enough DAI. Also included are two contracts `Tap` and `FlapTap` to facilitate payments from the Surplus Buffer and Flapper respectively.
 
 ## Component Summary
 

@@ -39,7 +39,7 @@ The investigation should be contained by the following elements:
 
 #### Operational resources
 
-While limited to exploratory and analysis work, this declaration of intent might trigger some costs (e.g. technical resources). MakerDAO intends to devote up to 50k DAI to this declaration of intent managed by the [mandated actors multisig](https://forum.makerdao.com/t/signal-request-interim-dao-operating-budget/5924).
+While limited to exploratory and analysis work, this declaration of intent might trigger some costs (e.g., technical resources). MakerDAO intends to devote up to 50k DAI to this declaration of intent managed by the [mandated actors multisig](https://forum.makerdao.com/t/signal-request-interim-dao-operating-budget/5924).
 
 ## Relevant Links
 
