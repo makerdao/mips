@@ -30,7 +30,7 @@ This proposal provides a smart contract implementation of `Vox`, a module which 
 
 ## Paragraph Summary
 
-The Dai Stablecoin System is intended to reliably maintain dai's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates. In contrast to the Target Rate Feedback Mechanism (TRFM), the mechanism in this proposal does not adjust rates algorithmically using a DAI price oracle. Instead, the target rate is set directly by governance, similarly to how the Stability Fees and Dai Savings Rate are set today.
+The Dai Stablecoin System is intended to reliably maintain Dai's exchange rate with respect to a reference asset (USD). Certain parameters of the System, such as the Stability Fee, are administered by Maker governance on an ongoing basis in response to evolving market conditions. This MIP implements the `Vox` module, which allows Maker governance to institute negative effective interest rates. In contrast to the Target Rate Feedback Mechanism (TRFM), the mechanism in this proposal does not adjust rates algorithmically using a DAI price oracle. Instead, the target rate is set directly by governance, similarly to how the Stability Fees and Dai Savings Rate are set today.
 
 ## Component Summary
 
@@ -62,7 +62,7 @@ Adjusting the target price of DAI up or down causes an implicit value transfer f
 
 ### MIP20c1: Definitions
 
-- **Target Price**: the system accounting price of 1 DAI in USD. This is currently represented as `spot.par()`, and is set to $1.00. Multi-collateral dai uses the Target Price in two places: when measuring the collateral ratio of a CDP, and when calculating the redemption value of DAI after Emergency Shutdown. The governance community may also use the Target Price as the price target for DAI/USD when setting interest rates and other risk parameters.
+- **Target Price**: the system accounting price of 1 DAI in USD. This is currently represented as `spot.par()`, and is set to $1.00. Multi-collateral Dai uses the Target Price in two places: when measuring the collateral ratio of a CDP, and when calculating the redemption value of DAI after Emergency Shutdown. The governance community may also use the Target Price as the price target for DAI/USD when setting interest rates and other risk parameters.
 - **Target Rate**: the annualised compounding rate of change of the Target Price (short for Target Price Adjustment Rate).
 - **Target Price Adjustment Module**: the smart contract which periodically adjusts the Target Price by the Target Rate.
 - **Target Price Cap**: the maximum Target Price that the Target Price Adjustment Module is able to set.
@@ -109,7 +109,7 @@ The proposed solution is simple and non-invasive, interacting with only one othe
 
 Upon adoption of this MIP, the Target Rate parameter can be adjusted by governance as an additional monetary policy lever, similar to the current notion of "Base Rate". Monetary policy processes may have to be amended in order to leverage this facility, and this MIP may be expanded in order to specify them.
 
-This MIP can be compared with the folkloric Target Rate Feedback Mechanism (TRFM), an unused implementation of which was present in single-collateral dai. The TRFM relies on the same notion of adjusting the target price of DAI as a monetary policy tool. The crucial difference between the TRFM and the mechanism proposed in this MIP is that while the TRFM algorithm sets the Target Rate automatically and continuously depending on a DAI price oracle, this MIP does not propose for the Target Rate to be set algorithmically.
+This MIP can be compared with the folkloric Target Rate Feedback Mechanism (TRFM), an unused implementation of which was present in single-collateral Dai. The TRFM relies on the same notion of adjusting the target price of DAI as a monetary policy tool. The crucial difference between the TRFM and the mechanism proposed in this MIP is that while the TRFM algorithm sets the Target Rate automatically and continuously depending on a DAI price oracle, this MIP does not propose for the Target Rate to be set algorithmically.
 
 ### MIP20c7: Formal Verification/audit Information
 

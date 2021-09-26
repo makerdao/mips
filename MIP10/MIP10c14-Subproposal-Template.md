@@ -18,7 +18,7 @@ Date Ratified: <yyyy-mm-dd>
 ### Organization
 - Name
 - Website
-- Github
+- GitHub
 - Number of Employees
 - Email < domain must be organization >
 - Incorporated

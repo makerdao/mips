@@ -47,10 +47,10 @@ Date Ratified: <yyyy-mm-dd>
 - The more, the better.
 
 ### Identity
-- Is there any personally indentifiable information linked to the previous experience of running a miner / validator?
+- Is there any personally identifiable information linked to the previous experience of running a miner / validator?
 - Could the proposer be doxed given extensive effort investigating their past experience?
 - If yes, please list the type of information that is available.
-- Are there any individuals who are aware of the proposer's miner / validator experienc and their identity?
+- Are there any individuals who are aware of the proposer's miner / validator experience and their identity?
 - If the proposer ceased to run their miner / validator why did they cease operation? Was this voluntary or involuntary?
 
 ### Changelog

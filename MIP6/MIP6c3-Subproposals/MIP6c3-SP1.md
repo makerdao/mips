@@ -33,7 +33,7 @@ The following questions to be added to **RWA** collateral onboarding application
 
 * Outline the applicant’s underwriting guidelines/policies, origination strategy (marketing, sales, channels), servicing strategy (charge-offs, collections) and historical asset performance.
 
-* Outline the applicant’s risk monitoring and operations guidelines/policies (e.g. charge-offs, collection, recovery provisions, data collection and technology, etc).
+* Outline the applicant’s risk monitoring and operations guidelines/policies (e.g., charge-offs, collection, recovery provisions, data collection and technology, etc).
 
 * Describe the regulatory regime applicable to the underlying asset (if any) and the applicant’s legal and compliance program relating thereto.
 

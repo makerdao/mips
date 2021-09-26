@@ -17,7 +17,7 @@ Declaration to Replace: MIP13c3-SP# or n/a
 
 ### Context and Motivation
 
-- Why is this statment of intent being proposed?
+- Why is this statement of intent being proposed?
 
 ### Declaration Detail
 

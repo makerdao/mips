@@ -30,11 +30,12 @@ MIP44 is a generic vault solution which can by applied to any tokens with reward
 
 At the difference of cropJoin, the interface is generic and work exactly as a normal join.  
 It is less specific but it works with any vault independently of the reward.
-Therefore, It can be applied to any uniswap pair as we don't know which one will be the next rewarded pool.  
-If we want to use the current cropJoin implementation as far as I am aware of, Maker will be forced to deploy a specific vault everytime the uniswap vote a new rewarded pool and stop it when the reward end.
+Therefore, It can be applied to any Uniswap pair as we don't know which one will be the next rewarded pool.  
+If we want to use the current cropJoin implementation as far as I am aware of, Maker will be forced to deploy a specific vault every time the Uniswap vote a new rewarded pool and stop it when the reward end.
 
-### Probably not an MIP but more an addon on the Uniswap MIPs
-I am not too sure how to formalize it but I believe this is not a proper MIP but a complement to the uniswap vault creation.
+### Probably not a MIP but more an add-on on the Uniswap MIPs
+
+I am not too sure how to formalize it but I believe this is not a proper MIP but a complement to the Uniswap vault creation.
 
 ### How does it work?
 
@@ -52,7 +53,7 @@ The delegator can be built after as the UNI will be inside the contract.
 
 **MIP44c2: Parameter:** list of parameter for the contract
 
-**MIP44c2: Funtions:** list of function accessible from the contract
+**MIP44c2: Functions:** list of function accessible from the contract
 
 **MIP44c2: join():** list of function accessible from the contract
 
@@ -70,7 +71,7 @@ The delegator can be built after as the UNI will be inside the contract.
 
 ## Motivation
 
-Currently we use a normal join, for all uniswap tokens. for example [UNI-V2-ETH-USDT](https://forum.makerdao.com/t/uni-v2-eth-usdt-erc20-token-smart-contract-technical-assessment/6231) 
+Currently we use a normal join, for all Uniswap tokens. for example [UNI-V2-ETH-USDT](https://forum.makerdao.com/t/uni-v2-eth-usdt-erc20-token-smart-contract-technical-assessment/6231) 
 
 ```
 -Can use existing MCD collateral type adapter?
@@ -81,7 +82,7 @@ Here is the issue if we don't allow the join contract to withdraw UNI right now,
 
 While it is probably less interesting for user than deploying a cropJoin contract, it allows a rapid and effort-less management for MakerDAO.
 
-My understanding is that both contracts have a different value while the normal uniswap vault can stay up with this join, a new cropjoin for the same pair can be deployed.
+My understanding is that both contracts have a different value while the normal Uniswap vault can stay up with this join, a new cropJoin for the same pair can be deployed.
 
 The join is 100% compatible with the existing system and it is also as gas efficient for the holder as a normal join.
 
@@ -97,7 +98,7 @@ the Join and the exit are exactly the same as a normal join
 one parameter:
  - bonus_delegator
 
-### MIP44c3: Funtions
+### MIP44c3: Functions
 
 3 functions:
  - join(address guy, uint256 wad) 
@@ -116,7 +117,7 @@ it is exactly the normal exit
 
  * harvest is behind an auth
  * harvest can be called from an authenticated contract
- * harvest will stop if no delegator contrat (0 address) is set up.
+ * harvest will stop if no delegator contract (0 address) is set up.
  * harvest will move the UNI/Bonus token to delegator contract which will sell/store/whatever we want to do with the token.
 
 ### MIP44c7: Proposed code

@@ -26,7 +26,7 @@ leverage the position using cdai.
 ## Paragraph Summary
 
 The PSM Compound Mixed Exposure is based on the classic PSM but with a second join plug in serie to leverage the position with Dai.
-It also uses a "lending gem join" which lend dai to cdai and usdc to cusdc.
+It also uses a "lending gem join" which lend Dai to cDai and USDC to cUSDC.
 
 The join is a generic 'maker join' and can be plugged to any vaults.
 It takes as input a collateral and lends it behind the scene to compound, 
@@ -35,7 +35,7 @@ It can be applied to Dai or any compound collaterals.
 
 Optional fees `tin` and `tout` can be activated as well which send a fraction of the trade into the `vow`.
 
-This PSM will have 2 urns one `cDai` and one `cUsdc`, but the maker position for this PSM is still on uscd and dai.
+This PSM will have 2 urns one `cDai` and one `cUsdc`, but the maker position for this PSM is still on USDC and Dai.
 
 #### Global Overview Diagram 
 
@@ -62,7 +62,7 @@ This PSM will have 2 urns one `cDai` and one `cUsdc`, but the maker position for
 
 ## Motivation
 
-Currently, the usdc token inside the PSM is inefficient and needs to be diversified. 
+Currently, the USDC token inside the PSM is inefficient and needs to be diversified. 
 By using `cDai` and `cUsdc` we will bring some diversification. 
 The leverage is also motivated by a better outcome and a better diversification.
 
@@ -77,7 +77,7 @@ The PSM Mixed Exposure is articulated around 3 main components:
 
 ### MIP32c1: The PSM
 
-It is very similar at the actual PSM ([MIP 29](https://github.com/makerdao/mips/blob/formal-submission/MIP29/mip29.md)) with two vaults, one in Dai and one in Usdc.
+It is very similar at the actual PSM ([MIP 29](https://github.com/makerdao/mips/blob/formal-submission/MIP29/mip29.md)) with two vaults, one in Dai and one in USDC.
 
 It has three methods:
  - `sell(address usr, uint256 gemAmt)`
@@ -89,16 +89,16 @@ It also has three admin methods
  - `rely(address contract)` : To add authorized address
  - `deny(address contract)` : To remove authorized address
 
-There are three prameters:
+There are three parameters:
 - `tin` : The fraction of the Gem -> Dai transaction sent to the `vow` as a fee. Encoded as `tin` in `wad` units.
 - `tout`: The fraction of the Dai -> Gem transaction sent to the `vow` as a fee. Encoded as `tout` in `wad` units.
-- `line`: The maximum amount of Usdc owns by the PSM. Encoded as `line` in `wad` units.
+- `line`: The maximum amount of USDC owns by the PSM. Encoded as `line` in `wad` units.
 
-`sell` will take in input usdc, convert usdc into dai via the new `lending join` (usdc/dai). Then it will take the dai and convert it to dai via another `lending join` (Dai/Dai) and take the fees and return the Dai.
+`sell` will take in input USDC, convert USDC into Dai via the new `lending join` (USDC/Dai). Then it will take the Dai and convert it to Dai via another `lending join` (Dai/Dai) and take the fees and return the Dai.
 
-`buy` will take in input dai, convert the dai after fee into dai via the `lending join` (dai/dai). Then it will take the dai and convert it to usdc via the `lending join` (Dai/Usdc) and return the Usdc.
+`buy` will take in input Dai, convert the Dai after fee into Dai via the `lending join` (Dai/Dai). Then it will take the Dai and convert it to USDC via the `lending join` (Dai/USDC) and return the USDC.
 
-`reserve` will return the reserve inside the contract in dai,token - this is based on the uniswap reserve() call.
+`reserve` will return the reserve inside the contract in Dai,token - this is based on the Uniswap reserve() call.
 
 
 **Additional specification:**  
@@ -134,7 +134,7 @@ The join has one parameter:
  - `excess_delegator` : excess Delegator address 
 
 **Additional specification:**  
-In order to calculate the excess, we add a total variable which represent the amount own by the join. Then we subtract this amount from the lendler underlying collateral.
+In order to calculate the excess, we add a total variable which represent the amount own by the join. Then we subtract this amount from the lender underlying collateral.
 
 ![image](https://user-images.githubusercontent.com/32653033/103847811-01fecd80-506f-11eb-8b9f-771c1db62912.png)
 
@@ -144,9 +144,9 @@ In order to calculate the excess, we add a total variable which represent the am
 The Delegator is replaceable, its main purpose is to manage the token conversion and what we do with it.
 
 This delegator has three public methods:
-- `processUsdc()` convert the usdc to dai via the psm.
-- `processComp()` convert token bonus to dai via uniswap.  
-- `processDai()`  convert dai to MKR via uniswap and burn the MKR.
+- `processUsdc()` convert the USDC to Dai via the PSM.
+- `processComp()` convert token bonus to Dai via Uniswap.  
+- `processDai()`  convert Dai to MKR via Uniswap and burn the MKR.
 
 The join also has forth admin methods
  - `file(bytes32 what, data)` : To change parameters
@@ -155,12 +155,12 @@ The join also has forth admin methods
  - `cage()` : To cage the join
  
 There are six parameters :
-- `psm` : psm address - can be changed
-- `route` : uniswap route address - can be changed
-- `bonus_auction_duration`: min time is sec between 2 uniswap swap
+- `psm` : PSM address - can be changed
+- `route` : Uniswap route address - can be changed
+- `bonus_auction_duration`: min time is sec between 2 Uniswap swap
 - `max_bonus_auction_amount` : max comp amount by swap.
-- `dai_auction_duration`: min time is sec between 2 uniswap swap
-- `max_dai_auction_amount` : max dai amount by swap.
+- `dai_auction_duration`: min time is sec between 2 Uniswap swap
+- `max_dai_auction_amount` : max Dai amount by swap.
 
 ### MIP32c4: The Harvest contract
 
@@ -207,7 +207,7 @@ Due to the design of multi-collateral DAI, worst-case losses should be limited t
 There is security consideration about the code itself, compound tokens.
 In this implementation as we don't use leverage on compound, the c-token can't be sized.
 
-Another risk: uniswap interaction, but limited to the extra bonus.
+Another risk: Uniswap interaction, but limited to the extra bonus.
 
 ### MIP32c8: Licensing
    - [AGPL3+](https://www.gnu.org/licenses/agpl-3.0.en.html)

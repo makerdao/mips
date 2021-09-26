@@ -138,7 +138,7 @@ Africa has high demand for financial services like loans, savings/investment and
 
 * After researching and identifying where crypto can be used (internet access, mobile) and where there already are crypto financial services (or where they can be incentivized to be created), we will be able to better motivate potential users to try out Dai and DeFi, and can facilitate the education.
 * As a way to improve financial literacy and overcome high barriers to access the financial services, there's a need for education regarding to money via introductory campaigns and similar initiatives.
-* Our marketing approach will not merely transfer US/Europe-centric strategy to Africa, it will take into account region’s unique infrastructure and leapfrogging development to employ locally relevant and meaningful communication channels and platforms (e.g. radio show popularity and social media like facebook that fall under free data policy by the local operators).
+* Our marketing approach will not merely transfer US/Europe-centric strategy to Africa, it will take into account region’s unique infrastructure and leapfrogging development to employ locally relevant and meaningful communication channels and platforms (e.g., radio show popularity and social media like facebook that fall under free data policy by the local operators).
 
 **METAVERSE**
 

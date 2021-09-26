@@ -38,7 +38,7 @@ To facilitate this the Governance Communications Domain will attempt to resolve 
 The working group has identified three directions of communication, each of which would be the responsibility of the Governance Communications Domain.
 
 - Communicating information between members of the DAO.
-    - *Clarification*: Intra-DAO Updates will be aggregated and simplified for all community members, including those who may not have specialized knowledge of the domain-team workflows (i.e. programming, smart contracts, communication).
+    - *Clarification*: Intra-DAO Updates will be aggregated and simplified for all community members, including those who may not have specialized knowledge of the domain-team workflows (i.e., programming, smart contracts, communication).
 - Communicating from the DAO to the public.
     - *Clarification*: Communications to the public will be accumulations/aggregations of community opinions and discussion, or votes and polls, in order to respond. Messages will be asterisked with a “not a definitive statement” or “any statements made could be voted on and rejected by the community” or “the DAO reserves the right to change it’s opinion.”
 - Communicating from the public to the DAO.

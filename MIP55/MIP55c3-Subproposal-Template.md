@@ -26,7 +26,7 @@ Recipient Address:
 
 * The Special Purpose Fund (SPF) Scope must outline the scope of the problem SPF is filling, its solution, and any dependencies and maintenance necessary for the SPF to contribute to the success of the project.
 * The Special Purpose Fund Scope should be specific to ensure that Maker Governance has clarity about what need it is supporting.
-* The Special Purpose Fund Scope must be limited to either timeframe or specific deliverable (ie. The Protocol needs audits. Funds are approved, Dai goes into escrow, and 2 Comptrollers release funds once audits are complete).
+* The Special Purpose Fund Scope must be limited to either timeframe or specific deliverable (i.e., The Protocol needs audits. Funds are approved, Dai goes into escrow, and 2 Comptrollers release funds once audits are complete).
 
 ### Funding Breakdown
 

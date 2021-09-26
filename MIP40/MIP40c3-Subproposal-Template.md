@@ -29,7 +29,7 @@ Date Ratified: <yyyy-mm-dd>
 ---
 - Is it a smart contract Budget Implementation, or manual Budget Implementation?
     - If it is a smart contract Budget Implementation:
-        - what is the ethereum address that the smart contract is deployed to?
+        - what is the Ethereum address that the smart contract is deployed to?
         - what kind of authorization does it need (suck authorization, authorization to draw funds from other smart contracts, etc.)
 - What is the amount of Dai or other assets per month that the Budget Implementation will pay out (if any)?
     - If it is a manual Budget Implementation, at which week of the month will the executive vote to pay out the budget for the month be submitted?

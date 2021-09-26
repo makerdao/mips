@@ -1,4 +1,3 @@
- 
 # MIP39c2-SP21: Adding MakerLabs Core Unit
 
 ## Preamble
@@ -54,12 +53,13 @@ SKUNK-001
 MakerLabs
 
 ### Core Unit Mandate
+
 #### Product Implementation
 
 _Quickly develop new product ideas into usable MVPs._
 
 * Products are focused on increasing the Maker Ecosystems value and usability to end users.
-* The scope of the products would be strictly separated from the Maker Protocol. We want to build products upon the Maker Ecosystem, not modify or change but instead leverage what other Core Units e.g. Protocol Engineering or Oracles are building.
+* The scope of the products would be strictly separated from the Maker Protocol. We want to build products upon the Maker Ecosystem, not modify or change but instead leverage what other Core Units (e.g., Protocol Engineering or Oracles) are building.
 
 #### Deployment
 

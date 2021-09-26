@@ -86,7 +86,7 @@ Detail:
 Within the first 7 days of each month, COM-001 will submit `Monthly Budget Statements` with the following sections:
 
 1. **The Budget Forecast**, based on the latest available information, of the budget (in DAI) that is required to maintain a 3-month runway for the team.
-2. **The Last Month Actuals**, i.e. the actual expenses (DAI and MKR) of the month that just ended, this includes reporting any surplus or deficit.
+2. **The Last Month Actuals**, i.e., the actual expenses (DAI and MKR) of the month that just ended, this includes reporting any surplus or deficit.
 3. **The MKR Vesting Overview**, this is a schedule that has the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
 4. **Transaction Amounts**, The required DAI amount to replenish the 3-month runway.
 

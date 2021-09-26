@@ -54,7 +54,7 @@ First, it aims to reduce the cost of participation for governance by reducing th
 
 Second, it aims to increase protocol security by ensuring that only one executive vote is required per week under normal circumstances. It has been observed that the amount of MKR on the hat suffers during weeks where we have multiple executive votes, and this has caused some concern among the Smart Contracts Team.
 
-Third, it aims to remove the possibility of a monthly governance executive failing due to a lack of participation combined with a 4-day executive proposal expiry. This could be a significant setback for the DAOT. Additionally, the difficulty in determining if the executive failed due to lack of participation or opposition would complicate the steps taken after that eventuality. 
+Third, it aims to remove the possibility of a monthly governance executive failing due to a lack of participation combined with a 4-day executive proposal expiry. This could be a significant setback for the DAO. Additionally, the difficulty in determining if the executive failed due to lack of participation or opposition would complicate the steps taken after that eventuality. 
 
 The proposed monthly governance cycle should resolve these issues and allow the monthly governance cycle to proceed more efficiently, with less of a security risk, and with additional participation.
 
@@ -84,7 +84,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 
 **Week 2, Monday**
 -   The Governance facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
--   Ratification Polls are published to the [community github](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [voting portal](https://vote.makerdao.com/).
+-   Ratification Polls are published to the [community GitHub](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [voting portal](https://vote.makerdao.com/).
 
 **Week 4, Monday**
 -   The Ratification polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the MIP Editors.

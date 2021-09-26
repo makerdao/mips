@@ -85,8 +85,11 @@ Systematic research will target the identified bottlenecks, leading to repeatabl
 - **Explore solutions and frameworks** that produce high-quality, repeatable results.
 
 > #### Initial Research Roadmap
+
 > SES will start out with **three initial research projects** from day one. Below is an overview of the objectives as they have been defined for now (still subject to change). When these projects are finished, new ones will be started.
+
 > ##### 01. Project Dog Food
+
 > *Capture lessons learned from setting up a core unit ourselves.*
 > * **Successful SES CU Setup:** Go through the entire process of setting up a core unit ourselves, including (1) conception, (2) team formation, (3) legal setup, (4) budgeting, (5) partner outreach, (6) communication / transparency reporting, and (7) governance MIP approval.
 > * **Initial Documentation:** Systematically document first impressions and the process in general, while going through it: required steps, work we do, available information, challenges and hurdles, …
@@ -129,23 +132,27 @@ Our research must not be purely academic but, instead, be firmly grounded in rea
 - **Guide and support** the team throughout the process, including (1) conception, (2) team formation, (3) legal setup, (4) budgeting, (5) partner outreach, (6) communication/transparency reporting, and (7) governance MIP approval.
 
 > #### Initial Incubation Roadmap
+
 > SES will start out with **two initial incubation teams** from day one. This is an overview of the objectives as they have been defined for now (still subject to change):
 >
 > ##### 01. JavaScript Product Development CU
+
 > *Develop web applications and tools that maximize participation, simplify complexity, and democratize access in the Maker protocol.*
-> - Develop dapps, web applications, and open-source tools (e.g. dai.js) for the Maker ecosystem
+> - Develop dapps, web applications, and open-source tools (e.g., dai.js) for the Maker ecosystem
 > - Design delightful & meaningful user experiences and intuitive interfaces improving the Developer & Community Experience
-> - Provide support for maintaining existing applications that are vital to the Maker protocol and community (e.g. Governance Portal, Liquidations Portal, Migration Portal)
+> - Provide support for maintaining existing applications that are vital to the Maker protocol and community (e.g., Governance Portal, Liquidations Portal, Migration Portal)
 >
 >##### 02. Incubator CU
+
 > *Increase the successful development of new businesses (teams/Core Units), job creation and employment in areas that are aligned with Maker Protocol's unique sustainable growth opportunities.*
 > - Set up an incubation program that will be implemented with participating teams
 > - Support participating teams for 3 - 6 months in all aspects of the incubation process
 > - Close interaction with incubating core units to understand their needs and collecting feedback on the program for achieving continuous improvement
 > - Team covers 3 domain expert areas (people, business, tech profiles experts) + generalists
-> - Collaboration with external partners (e.g. educators, recruiters)
+> - Collaboration with external partners (e.g., educators, recruiters)
 >
 >##### Ongoing Conversations
+
 > We are talking to a number of interested parties to consider further incubation teams in the following areas:
 > - Smart Contracts Development, because we believe that parallelizing SC development work will be key to further scaling the ecosystem.
 > - Legal Core Unit, to work on high-priority legal frameworks that the DAO and its core units will need.

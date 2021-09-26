@@ -98,7 +98,7 @@ Proposals submitted must follow the guidelines defined in MIP0.
 - The Governance Facilitators must come to consensus on whether the results of the governance poll warrant moving forward to the executive vote.
     - This responsibility is intended to be used in the case in which the Governance Facilitators believe that moving forward to an **Executive Vote** would negatively affect community cohesion.
     - If the Governance Facilitators oppose the **Governance Poll** outcome, they must clearly communicate their reasons for disregarding the poll results.
-    - In the event the Governance Faciltiators abuse this power, they should be removed using a [MIP0c13 subproposal](https://github.com/makerdao/mips/blob/templates/MIP0/MIP0c13-Subproposal-Template.md).
+    - In the event the Governance Facilitators abuse this power, they should be removed using a [MIP0c13 subproposal](https://github.com/makerdao/mips/blob/templates/MIP0/MIP0c13-Subproposal-Template.md).
 
 **Week 4, Monday**
 - The **Executive Vote** is submitted if the Governance Facilitators confirm the 'yes' outcome of the **Governance Poll**.

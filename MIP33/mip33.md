@@ -22,7 +22,7 @@ MIP33 defines the Maker Stability Price Module (MCD_MSM), allowing the governanc
 ## Paragraph Summary
 This MIP introduces the Maker Stability Price Module which permits the governance to define a defensive low ceiling price as well as a high price both voted by Governance.
 
-Governance will vote a buying price and a selling price. Then the governance will send dai inside the contract, when an opportunity will happen market maker will use this contract to hedge the market using the dai pre-allocated.
+Governance will vote a buying price and a selling price. Then the governance will send Dai inside the contract, when an opportunity will happen market maker will use this contract to hedge the market using the Dai pre-allocated.
 
 ### Overview Logic
 
@@ -49,12 +49,12 @@ Governance will vote a buying price and a selling price. Then the governance wil
 ## Motivation
 
 For the last couple of months we have seen the MKR price going at a level which is not acceptable and had put governance at risk. 
-This situation has been driven as far as I am aware of by one partner exiting his position. But not only this event created this type of deep, for reference, the same situation happen during the black thursday. 
-This module aims, by creating this support to allow partner to exit their position at a good price for maker as well as fighting speculation and black thursday event.
+This situation has been driven as far as I am aware of by one partner exiting his position. But not only this event created this type of deep, for reference, the same situation happen during the Black Thursday. 
+This module aims, by creating this support to allow partner to exit their position at a good price for maker as well as fighting speculation and Black Thursday event.
 
 It will also create a natural support amplifying its effect. 
 
-The reserve can be top it up at any time and should be seen as a buffer or a good opportunity buyer for makerDao.
+The reserve can be top it up at any time and should be seen as a buffer or a good opportunity buyer for MakerDAO.
 
 ## Specification
 
@@ -79,11 +79,11 @@ The following variables define the parameters that can be set by Governance thro
 * If `burn` is false we don't burn and stock pill MKR.
 
 ### MIP33c3: Function
-there are 3 fonctions based on PSM interface:
+there are 3 functions based on PSM interface:
 - `file() ` : to allow governance to change parameters
 - `sell(address usr, uint256 gemAmt)` : to sell the MKR
 - `buy(address usr, uint256 gemAmt)` : to buy the MKR
-- `getReserves()` : return token reserves and last time the price change based on unisawp interface
+- `getReserves()` : return token reserves and last time the price change based on Uniswap interface
 
 ### MIP33c4: Proposed Code
 

@@ -47,7 +47,7 @@ This intent recognizes that strategic reserves can’t be minted. The SRF will s
 
 3 sources of MKR are considered:
 
-* Issuance of a fixed amount of MKR tokens (e.g. 20k) at the creation of the SRF
+* Issuance of a fixed amount of MKR tokens (e.g., 20k) at the creation of the SRF
 * Transfer of some MKR tokens from the foundation in exchange of taking some foundation expenses (using a net present value of future expected expenses)
 * Issuance of MKR tokens when MKR tokens are burnt through flap auctions (keeping the MKR outstanding amount fixed). This is the most likely way. An alternative would be to suck() DAI from the Surplus Buffer to the Strategic Reserves.
 

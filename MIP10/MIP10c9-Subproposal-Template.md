@@ -29,7 +29,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Requirements
 For each customer address to be whitelisted:   
-	- Is the contract source code verified on etherscan? <yes/no>   
+	- Is the contract source code verified on Etherscan? <yes/no>   
 	- Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? <yes/no>   
 	- Is Oracle data written to storage? <yes/no>   
 		- If Oracle data is stored, is it stored in a private variable? <yes/no>   

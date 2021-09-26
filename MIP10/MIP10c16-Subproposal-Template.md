@@ -25,7 +25,7 @@ Date Ratified: <yyyy-mm-dd>
 ### Removal Motivation
 - An explanation behind the motivation for the removal of the Feed. Possible reasons include:
       - Feed endangering Maker Protocol due to excessive downtime
-      - Feed endagering Maker Protocol due to missing update deadlines on multiple occassions
+      - Feed endangering Maker Protocol due to missing update deadlines on multiple occasions
       - Feed is proven to engage in malicious behavior
       - Feed is proven to engage in behavior not coinciding with the Data Models and Tools ratified by governance.
       - Feed is proven to engage in a conspiracy to commit malicious behavior

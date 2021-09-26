@@ -42,7 +42,7 @@ DssCharter interfaces with the dss core contracts to support creating institutio
 
 ## Motivation
 
-The goal of DssCharter is to boost dai supply by attracting partners and individuals with fixed and sometimes favorable rates, and in return charge origination fees. This setting should incentivise a longer term borrowing commitment.
+The goal of DssCharter is to boost Dai supply by attracting partners and individuals with fixed and sometimes favorable rates, and in return charge origination fees. This setting should incentivise a longer term borrowing commitment.
 
 
 ## Specification

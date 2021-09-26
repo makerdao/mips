@@ -29,7 +29,7 @@ This proposal provides a vault liquidation mechanism for Tinlake based short-ter
 
 ## Paragraph Summary
 
-For Vaults of Centrifuge pooled short term loans, auctioning off a portfolio of short term loans is not necessarily the most effective way for Maker to liquidate a vault. When these assets are very illiquid the discount a keeper would want outweights the benefit of just waiting for maturity of the underlying loans. Centrifuge has built the Tinlake contracts to manage the liquidations of loan portfolios on chain. This mechanism allows the Maker smart contracts to get direct access to these repayments without the need for any external keepers.
+For Vaults of Centrifuge pooled short term loans, auctioning off a portfolio of short term loans is not necessarily the most effective way for Maker to liquidate a vault. When these assets are very illiquid the discount a keeper would want outweighs the benefit of just waiting for maturity of the underlying loans. Centrifuge has built the Tinlake contracts to manage the liquidations of loan portfolios on chain. This mechanism allows the Maker smart contracts to get direct access to these repayments without the need for any external keepers.
 
 ## Component Summary
 
@@ -43,7 +43,7 @@ Describes the mechanism by which Vaults are liquidated when the described adapte
 Adapter Component Definitions
 
 **MIP22c4: Design Constraints**
-An explanation of design tradeoffs taken in this code
+An explanation of design trade-offs taken in this code
 
 **MIP22c5: Proposed Code**
 An explanation of the logic along with code
@@ -92,7 +92,7 @@ Assets that should be able to use this collateral have a few requirements:
 
 ### MIP22c2: Liquidation Mechanism
 
-When the liquidation of a Vault is kicked, the proposed liquidation adapter forces the Tinlake pool into liquidation by submitting an order to redeem all collateral in the Vault. The Tinlake contracts than automatically allocate all incoming cash-flows from borrowers to investors (i.e. the Maker Vault) for redemptions.
+When the liquidation of a Vault is kicked, the proposed liquidation adapter forces the Tinlake pool into liquidation by submitting an order to redeem all collateral in the Vault. The Tinlake contracts than automatically allocate all incoming cash-flows from borrowers to investors (i.e., the Maker Vault) for redemptions.
 
 ![](https://storage.googleapis.com/centrifuge-hackmd/upload_a65b9b92a17a23596ab4c0d4a2404ff7.png)
 
@@ -110,14 +110,14 @@ When the liquidation of a Vault is kicked, the proposed liquidation adapter forc
 Because the Vow debt queue only knows a single `wait` time we run into issues when using the `Cat.kick` method to trigger liquidations. This is a design oversight coming from the assumption that auctions would largely have similar run times. With both MIP22 as well as MIP21 this is not a given anymore.
 
 The current implementation of the `Vow` does not work with Vault liquidations that vary greatly in length. The delay (`wait`) it uses to add debt to the sin is a system global which means:
-* If it was extended to support the slower liquidations for RWA then flop auctions would be greatly delayed for short auction collateral (e.g. ETH) because it would sit in the queue for 90+ days.
-* If it was kept as is, a collateral liquidation of RWAs would result in first a `flop` auction (selling MKR for DAI) being triggerd while the collateral is liquidated but before it's repaid with a subsequent `flap` auction when the liquidation finishes buying MKR for DAI unecessarily yanking the price of MKR around.
+* If it was extended to support the slower liquidations for RWA then flop auctions would be greatly delayed for short auction collateral (e.g., ETH) because it would sit in the queue for 90+ days.
+* If it was kept as is, a collateral liquidation of RWAs would result in first a `flop` auction (selling MKR for DAI) being triggered while the collateral is liquidated but before it's repaid with a subsequent `flap` auction when the liquidation finishes buying MKR for DAI unnecessarily yanking the price of MKR around.
 
 This MIP proposes a workaround: it implements the liquidation internally in a first phase and only intends to use the `Cat` when a write off is expected. A long term fix for this would be modifying the Vow, for which there exists a [draft PR](https://github.com/makerdao/dss/pull/147/files).
 
 #### Simple Single Use Adapter
-In case of a liquidation or writeoff the adapter is not designed to recover. This is for a few reasons:
-* Liquidations don't occur under normal operation. These assets should have a very low chance of default (&lt; 1% probability of default per year). Given the unlikelyness just redeploying in case it happens is safer than adding the complexity to deal with recovery from previous liquidations.
+In case of a liquidation or write-off the adapter is not designed to recover. This is for a few reasons:
+* Liquidations don't occur under normal operation. These assets should have a very low chance of default (&lt; 1% probability of default per year). Given the unlikeliness just redeploying in case it happens is safer than adding the complexity to deal with recovery from previous liquidations.
 * It is likely that Maker governance would want to vote whether to allow a once liquidated collateral back into the system. This would mean a vote has to happen no matter what.
 * These pools are limited in size with in a first test balloon. There will likely be technical improvements in the Tinlake contracts but also on Maker specific parts such as adding sources to the price feed. These adapters are not designed to run forever and will likely be redeployed before a liquidation ever happens.
 
@@ -197,7 +197,7 @@ The DAI functions `draw/wipe` similarly combine the `vat.frob` call along with c
 ### Phase 2: Soft Liquidation
 Soft liquidation can be triggered by governance (casting a spell that calls `tell`) or by a the price feed calling it based on the liquidation criteria. How this is called remains outside of the scope of the `TinlakeManager`.
 
-The Tinlake contracts redeem DAI prorata to the amount of DROP the redeemer wants to redeem. While there are situations where liquidating just part of the collateral would be enough it's always safer to trigger liquidation of the entire collateral. For simplicity reasons, this manager therefore implements only a full liquidation.
+The Tinlake contracts redeem DAI pro rata to the amount of DROP the redeemer wants to redeem. While there are situations where liquidating just part of the collateral would be enough it's always safer to trigger liquidation of the entire collateral. For simplicity reasons, this manager therefore implements only a full liquidation.
 
 When triggering the `tell()` function the following happens:
 
@@ -245,7 +245,7 @@ The redeem order will now be taken into account whenever loan repayments flow in
 ### Phase 3: Writeoff
 A **writeoff** is triggered by the `Cat` when the price feed reports an undercollateralized vault. The price feed outside of the scope of the `TinlakeManager`.
 
-Functionally `kick/recover` and `tell/unwind` achieve the same thing: DAI owed to the Maker system is repaid by the pool. Their implementation varies du to the Vow debt queue (described above) and with the proposed modification to the `Vow` and `Cat` we could get rid of `tell/unwind` and only use `kick/recover`.
+Functionally `kick/recover` and `tell/unwind` achieve the same thing: DAI owed to the Maker system is repaid by the pool. Their implementation varies due to the Vow debt queue (described above) and with the proposed modification to the `Vow` and `Cat` we could get rid of `tell/unwind` and only use `kick/recover`.
 
 The `Cat` expects a `Flipper` to implement a fixed interface with a `kick()` method that the `TinlakeManager` implements. When `Cat.bite(urn)` is called, the debt is moved from the urn to the `Vow`.
 
@@ -291,7 +291,7 @@ To ensure that the `Cat` always `bites` the entire vault, the `dunk` of the coll
 ---
 
 ### MIP22c6: Test Cases
-Tinlake is undergoing an audit which will be published by Sep 22nd. We will ammend this section with information on the test cases we have covering both the
+Tinlake is undergoing an audit which will be published by Sep 22nd. We will amend this section with information on the test cases we have covering both the
 
 ---
 ### MIP22c7: Security Considerations

@@ -156,6 +156,6 @@ MIPXc8 is a Process MIP component that allows the offboarding of $Domain Facilit
 
 MIPXc8 subproposals must use the template located at  **[MIPXc8-Subproposal-Template.md](MIPXc8-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
-Domain Facilitators may voluntarily offboard themselves by filling out the MIPXc8 subproposal template and posting it publically in the official forum and making a brief public statement on the weekly governance and risk meeting.
+Domain Facilitators may voluntarily offboard themselves by filling out the MIPXc8 subproposal template and posting it publicly in the official forum and making a brief public statement on the weekly governance and risk meeting.
 
 ---

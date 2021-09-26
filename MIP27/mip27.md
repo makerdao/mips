@@ -78,7 +78,7 @@ This process can be repeated until the limit value of 150M is reached, which wil
 
 ![New DDC](https://user-images.githubusercontent.com/55456013/95357833-a59ddd80-08c8-11eb-92fe-7252c58f5a7c.png)
 
-* Calculation for the above: when the dai supply is reduced to 112M, the module takes 10% of that value (11.2M) and adds it to the Dai Supply amount (112 +11.2 = 123.2), therefore, the new debt ceiling will be 123.2M. The DC-IAM is always based off of the Dai Supply and either moves up or down 10% (or another value as determined by governance).
+* Calculation for the above: when the Dai supply is reduced to 112M, the module takes 10% of that value (11.2M) and adds it to the Dai Supply amount (112 +11.2 = 123.2), therefore, the new debt ceiling will be 123.2M. The DC-IAM is always based off of the Dai Supply and either moves up or down 10% (or another value as determined by governance).
 
 ### MIP27c4 Defensive Debt Ceiling
 
@@ -92,7 +92,7 @@ Any individual with a web3 browser will be able to change the Debt Ceiling as lo
 
 The `ttl` acts as a pause that prevents any individual from hitting the debt ceiling, increasing it, hitting the debt ceiling and repeating all the way up to the `line` limit. This function will allow governance to control the velocity at which the actual debt ceiling is able to increase.
 
-If for any reason the DC-IAM module is misbehaving (e.g. our `ttl` time period or upper boundary is too inflexible), it will be possible to bypass it through an executive vote where governance can also vote to skip the delay in the GSM.
+If for any reason the DC-IAM module is misbehaving (e.g., our `ttl` time period or upper boundary is too inflexible), it will be possible to bypass it through an executive vote where governance can also vote to skip the delay in the GSM.
 
 ### MIP27c7 DC-IAM Onboarding of Collateral Types
 

@@ -36,7 +36,7 @@ This component defines the membership of the RWA Committee.
 This component defines the quorum needed for the outcome of votes to be considered valid.
 
 **MIP57c3: RWA Committee Pass Threshold**
-This component defines the percentage of votes that the committee must have to consider a vote passed (e.g. simple majority).
+This component defines the percentage of votes that the committee must have to consider a vote passed (e.g., simple majority).
 
 ## Motivation
 
@@ -100,7 +100,7 @@ MIP57c2 subproposals must use the template located at [this link](MIP57c2-Subpro
 
 ### MIP57c3: RWA Committee Pass Threshold
 
-This subproposal can amend the percentage of votes that the committee must have to consider a vote passed (e.g. simple majority).
+This subproposal can amend the percentage of votes that the committee must have to consider a vote passed (e.g., simple majority).
 
 The original threshold will be:
 

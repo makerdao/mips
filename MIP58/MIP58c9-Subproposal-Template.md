@@ -31,7 +31,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Committee composition
 
-- Specify the members of this committee. They could be pseudonymous but need a defined way to be publicly identified (a forum or chhat handle). They might need to have an email shared with the directors to sign.
+- Specify the members of this committee. They could be pseudonymous but need a defined way to be publicly identified (a forum or chat handle). They might need to have an email shared with the directors to sign.
 
 ### Committee quorum
 

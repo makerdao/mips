@@ -56,7 +56,7 @@ This proposal is created by [Token Flow Insights](https://tokenflow.live) - a ve
 - Token Flow is the provider of preprocessed and contextualized blockchain data
 - Token Flow has many unique capabilities like transactions’ decoding and classification, state diffs and state reads history, full scope of reverted actions, etc.
 - Token Flow has a great team with a proven deep knowledge of the MCD Protocol and long experience with Maker DAO and community
-- Token Flow constantly maintains and develops for free many open datasets that are being used by existing Core Units (e.g. [Vault activity metrics](https://forum.makerdao.com/t/maker-vault-activity-metrics/9568),  [Vaults liquidation protection analysis](https://forum.makerdao.com/t/maker-vault-liquidation-protection-analysis/10026)) and is involved in data related discussions and projects (e.g. [Polling results algorithm](https://forum.makerdao.com/t/polling-results/10177)).
+- Token Flow constantly maintains and develops for free many open datasets that are being used by existing Core Units (e.g., [Vault activity metrics](https://forum.makerdao.com/t/maker-vault-activity-metrics/9568),  [Vaults liquidation protection analysis](https://forum.makerdao.com/t/maker-vault-liquidation-protection-analysis/10026)) and is involved in data related discussions and projects (e.g., [Polling results algorithm](https://forum.makerdao.com/t/polling-results/10177)).
 
 On the other hand we realize that this kind of structure requires a well-defined Service Level Agreement, strong separation of resources between Core Unit and other commercial activities,  and also constant monitoring of the implementation of contractual provisions. We propose specific solutions later in the document.
 
@@ -106,7 +106,7 @@ Main role of the Data Insights Core Unit is providing and authoring a free proto
 But what does it really mean to provide contextualized and preprocessed data?\
 Let’s look at a simple example of Maker vaults history.
 
-1. By simply reading the blockchain transactions and events (easily accessible from any of existing data providers) you can list all **historical actions** (e.g. opening a vault, locking collateral or generating DAI). But it does not tell you much about the vault itself.
+1. By simply reading the blockchain transactions and events (easily accessible from any of existing data providers) you can list all **historical actions** (e.g., opening a vault, locking collateral or generating DAI). But it does not tell you much about the vault itself.
 2. So the next logical step is to iterate through all historical events and calculate a vault **state in time** (by adding up all collateral deposits and withdrawals up to some point in time you get the collateral balance for this exact moment). 
 3. This is still only a part of a full context, because you might be also interested in what was the collateral price (from exchanges or oracles) and overall **state of the market** at this exact point in time. This requires integration with additional data sources.
 4. So now you have the real vault history but there is much more data that you might be interested in. For example **how this vault was created**. Was it opened by the user via Oasis GUI or by InstaDapp, DefiSaver, BProtocol or any other DeFi service? This is a bit more advanced analytics that requires deep understanding of other protocols’ semantics and cannot be done just by looking at events history.

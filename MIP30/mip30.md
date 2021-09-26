@@ -27,7 +27,7 @@ This is a proposal for the technical implementation of a USDC collateral type wh
 
 ## Paragraph Summary
 
-COMP farming offers an attractive yield on USDC with very little risk, and the ability to receive additional leverage from a CDP is likely to present an attractive opportunity for a yield-seeking investor, so this collateral type could be expected to produce very high dai issuance, while generating significantly higher fees for MakerDAO than what is currently collected on MakerDAO's significant stablecoin exposure. We propose a new USDC based collateral adapter that performs COMP farming on behalf of depositors.
+COMP farming offers an attractive yield on USDC with very little risk, and the ability to receive additional leverage from a CDP is likely to present an attractive opportunity for a yield-seeking investor, so this collateral type could be expected to produce very high Dai issuance, while generating significantly higher fees for MakerDAO than what is currently collected on MakerDAO's significant stablecoin exposure. We propose a new USDC based collateral adapter that performs COMP farming on behalf of depositors.
 
 ## Component Summary
 
@@ -47,7 +47,7 @@ COMP farming offers an attractive yield on USDC with very little risk, and the a
 
 ### Background
 
-Since Black Thursday, the MakerDAO governance community has faced issues with managing the supply and demand of dai, with dai trading on the market consistently above the target price of $1.00. In July, the market demand for dai began to increase significantly, due to dai [becoming the dominant asset for "COMP farming"][comp-farming]. Further to that, other "farming"/"liquidity mining" schemes emerged, similarly boosting dai demand.
+Since Black Thursday, the MakerDAO governance community has faced issues with managing the supply and demand of Dai, with Dai trading on the market consistently above the target price of $1.00. In July, the market demand for Dai began to increase significantly, due to Dai [becoming the dominant asset for "COMP farming"][comp-farming]. Further to that, other "farming"/"liquidity mining" schemes emerged, similarly boosting Dai demand.
 
 [comp-farming]: https://forum.makerdao.com/t/upcoming-comp-farming-change-could-impact-the-dai-peg/2965
 
@@ -68,18 +68,18 @@ with the first of these being the current _status quo_ policy (at the time of wr
 
 ### The case for farmable collateral
 
-Since July, dai supply has struggled to keep up with the seemingly insatiable demand created by yield farming opportunities in Defi. One way to think of the effect this has on the dai market is to consider the farming yields as an artificial, "exogenous DSR" which is very high, (perceived to be) low risk, and beyond the control of MakerDAO governance, which has the expected effect of exerting a strong positive influence on dai demand. Another way to view the problem is that a large portion of the dai supply is locked away, and taken off the market by contracts offering depositors an attractive yield for depositing their dai. Most prominently:
+Since July, Dai supply has struggled to keep up with the seemingly insatiable demand created by yield farming opportunities in Defi. One way to think of the effect this has on the Dai market is to consider the farming yields as an artificial, "exogenous DSR" which is very high, (perceived to be) low risk, and beyond the control of MakerDAO governance, which has the expected effect of exerting a strong positive influence on Dai demand. Another way to view the problem is that a large portion of the Dai supply is locked away, and taken off the market by contracts offering depositors an attractive yield for depositing their Dai. Most prominently:
 
 - 363MM DAI sitting inside Compound
 - 197MM DAI in the Uniswap ETH/DAI pool (though the liquidity mining
   incentive is expected to end on the 17th of November)
 - 34MM DAI deposited in Curve
 
-Currently, collateral tokens (such as USDC) that are deposited in a CDP to generate dai cannot be further deployed to generate yield for the system or for the user. This means that users borrowing dai against USDC collateral are subject to a significant opportunity cost by forgoing yield on USDC, which decreases the incentive to sell the dai on the market (and it is only when dai is sold on the market that increasing supply has the desired effect on the peg). As a result, stablecoin collateral types are now only effective due to their very low collateral requirement, with the 101% collateral ratio acting as an effective ceiling on the DAI/USD premium, by arbitrage.
+Currently, collateral tokens (such as USDC) that are deposited in a CDP to generate Dai cannot be further deployed to generate yield for the system or for the user. This means that users borrowing Dai against USDC collateral are subject to a significant opportunity cost by forgoing yield on USDC, which decreases the incentive to sell the Dai on the market (and it is only when Dai is sold on the market that increasing supply has the desired effect on the peg). As a result, stablecoin collateral types are now only effective due to their very low collateral requirement, with the 101% collateral ratio acting as an effective ceiling on the DAI/USD premium, by arbitrage.
 
-If instead the CDP user could benefit from a farming yield on their deposited collateral, then dai borrowing could present an attractive way to lever up on that yield and generate an attractive carry. For example, if a yield farm is currently paying 10% APY on USDC deposits, and a CDP can be used to borrow DAI at 5% against those deposits, up to a 110% collateralization, then a user can earn `(10 - 5) * 11 = 55% APY` at maximum leverage. In doing so, they would have borrowed and sold onto the market 10 DAI for every 1 USDC they deposit, and the system would be earning a material interest rate of 5% on this DAI issuance.
+If instead the CDP user could benefit from a farming yield on their deposited collateral, then Dai borrowing could present an attractive way to lever up on that yield and generate an attractive carry. For example, if a yield farm is currently paying 10% APY on USDC deposits, and a CDP can be used to borrow DAI at 5% against those deposits, up to a 110% collateralization, then a user can earn `(10 - 5) * 11 = 55% APY` at maximum leverage. In doing so, they would have borrowed and sold onto the market 10 DAI for every 1 USDC they deposit, and the system would be earning a material interest rate of 5% on this DAI issuance.
 
-We believe that the introduction of farmable collateral types presents the most effective avenue in the short term for scaling up DAI supply in a way which rewards the system adequately for risk taking, by directly leveraging the underlying source of the dai demand.
+We believe that the introduction of farmable collateral types presents the most effective avenue in the short term for scaling up DAI supply in a way which rewards the system adequately for risk taking, by directly leveraging the underlying source of the Dai demand.
 
 #### The Case for Farmable cUSDC
 
@@ -105,11 +105,11 @@ See [crop.sol] for the core adapter implementation, and [wind.sol] for the Compo
 
 #### Rewards Distribution
 
-In `CropJoin` we implement a general purpose farming rewards adapter, that distributes income from a given token proportionally. This adapter can be used for a variety of income generating tokens, e.g. cTokens, UNI-LP, SNXRewards, and will also distribute income from direct token transfers.
+In `CropJoin` we implement a general purpose farming rewards adapter, that distributes income from a given token proportionally. This adapter can be used for a variety of income generating tokens, e.g., cTokens, UNI-LP, SNXRewards, and will also distribute income from direct token transfers.
 
-To specialize to a given token, a single method must be overridden to implement the claim logic for the given token (e.g. `.getReward()`, `.claimComp(...)`).
+To specialize to a given token, a single method must be overridden to implement the claim logic for the given token (e.g., `.getReward()`, `.claimComp(...)`).
 
-Existing approaches to this problem were considered (e.g. `SNXRewards` aka `UniPool`, and Sushi's `MasterChef`), but were unsuitable due to reliance on specified reward rates and Maker contract idiosyncrasies. In particular, designing a reward contract for Maker requires solving the "double reward" problem posed by Maker collateral always being transferable within the system (see the [`crop` README][tack] for more information).
+Existing approaches to this problem were considered (e.g., `SNXRewards` aka `UniPool`, and Sushi's `MasterChef`), but were unsuitable due to reliance on specified reward rates and Maker contract idiosyncrasies. In particular, designing a reward contract for Maker requires solving the "double reward" problem posed by Maker collateral always being transferable within the system (see the [`crop` README][tack] for more information).
 
 [crop.sol]: https://github.com/rainbreak/crop/blob/main/src/crop.sol
 [wind.sol]: https://github.com/rainbreak/crop/blob/main/src/wind.sol
@@ -119,7 +119,7 @@ Existing approaches to this problem were considered (e.g. `SNXRewards` aka `UniP
 
 COMP rewards are determined by the total assets that a user has supplied and borrowed from Compound. Effective COMP farming requires "leverage": a cToken is supplied, and the underlying is then borrowed and resupplied again. This is repeated to maximize the total amount that a user has supplied / borrowed, up to _four times_ the initial amount in the case of USDC¹.  This repeated supply / borrow method is in use by the majority of large Compound Dai deposits today, and is the reason why the total supply of cDai greatly exceeds the real supply of Dai.
 
-¹ *The upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the maximum utilization allowed by Compound (e.g. `cf=0.75` for USDC, i.e. `s = 4 * s0`).*
+¹ *The upper limit of supply `s = s0 / (1 - cf)`, where `cf` is the maximum utilization allowed by Compound (e.g., `cf=0.75` for USDC, i.e., `s = 4 * s0`).*
 
 In [wind.sol] we extend the rewards adapter described above, specializing it to receiving COMP rewards for supplying / borrowing cUSDC, via an iterative method with optional user-provided loans. There are two methods:
 
@@ -128,7 +128,7 @@ In [wind.sol] we extend the rewards adapter described above, specializing it to 
 
 ### MIP30c2: Test cases
 
-Tests can be found in [crop.t.sol]. The basic rewards adapter is covered for a mock token reward and this base is extended to test against mock and real Compound behavior (via RPC). The effect of flash loans on gas costs and collateral reachability is explored, and a number of more complex scenarios are tested against on-chain Compound, e.g. interest accumulation, liquidation, and arbitrary seizure. The mathematical behavior of Compound is considered in depth in the documentation and tests.
+Tests can be found in [crop.t.sol]. The basic rewards adapter is covered for a mock token reward and this base is extended to test against mock and real Compound behavior (via RPC). The effect of flash loans on gas costs and collateral reachability is explored, and a number of more complex scenarios are tested against on-chain Compound, e.g., interest accumulation, liquidation, and arbitrary seizure. The mathematical behavior of Compound is considered in depth in the documentation and tests.
 
 [crop.t.sol]: https://github.com/rainbreak/crop/blob/main/src/test/crop.t.sol
 

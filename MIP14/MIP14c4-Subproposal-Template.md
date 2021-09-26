@@ -15,7 +15,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Current DAI Transfer Ceiling
 
-- The intial DAI Transfer Ceiling will be set to 250,000
+- The initial DAI Transfer Ceiling will be set to 250,000
 
 ## Transfer Ceiling Change
 

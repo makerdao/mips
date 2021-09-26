@@ -133,7 +133,7 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 
    These periods can overlap. See `MIP0c1` for their definitions.
    
-> Please note that the lenghts for these periods are conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md), more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
+> Please note that the lengths for these periods are conditionally overridden by [MIP2](https://github.com/makerdao/mips/blob/master/MIP2/mip2.md), more specifically by [MIP2c2](https://mips.makerdao.com/mips/details/MIP2#mip2c2-interim-phase-2).
 
 4. **Fulfilled Feedback Period Requirements:** After the MIP has fulfilled the RFC phase, it is ready for Formal Submission.
 
@@ -216,7 +216,7 @@ Since dependencies carry over, a MIP with defined replacement targets must stric
 
 ### MIP0c6: Supporting Materials
 
-MIPs can optionally refer to external materials. External materials must be added to the [MIPs GitHhub](https://github.com/makerdao/mips) in the same folder as the MIP which references them.
+MIPs can optionally refer to external materials. External materials must be added to the [MIPs GitHub](https://github.com/makerdao/mips) in the same folder as the MIP which references them.
 
 Externally referenced materials are not MIP content and are not ratified when a MIP becomes `Accepted` unless it is explicitly stated otherwise in a MIP Component specification.
 
@@ -245,7 +245,7 @@ MIP Editors enforce the administrative and editorial aspects of the overall MIPs
 ##### Specific authority of the MIP Editor(s) in MIP0 processes
 
 * MIP Editors control phase 2 of the MIP lifecycle and can assign MIP numbers.
-* MIP Editors are admins on the [MIPs Github repository](https://github.com/makerdao/mips).
+* MIP Editors are admins on the [MIPs GitHub repository](https://github.com/makerdao/mips).
 * MIP Editors moderate the [MIPs category in the forum](https://forum.makerdao.com/c/mips/14).
 * MIP Editors are responsible for updating the status of MIPs, as described in `MIP0c4`, *The MIP Lifecycle*.
 

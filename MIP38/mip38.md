@@ -29,7 +29,7 @@ DAO Primitives State is a MIP that keeps track of the current state related to C
 
 ## Component Summary
 
-**MIP38c1: Core Unit State Maintenence**
+**MIP38c1: Core Unit State Maintenance**
 This component defines the Core Unit State list, its format and its upkeep.
 
 **MIP38c2: Core Unit State**
@@ -45,7 +45,7 @@ Thinking forward, it also provides Governance with a straightforward process to 
 
 ## Specification / Proposal Details
 
-### MIP38c1: Core Unit State Maintenence
+### MIP38c1: Core Unit State Maintenance
 
 This dataset contains all of the Core Units approved by the community, alongside the Core Units' data. It includes:
 - Core Unit Mandates

@@ -1,4 +1,4 @@
-# MIP 54: DssVest
+# MIP54: DssVest
 
 ## Preamble
 
@@ -73,7 +73,7 @@ The following gives an explanation of the module interactions and functionality:
 * DssVest will be managed by an operator
 * The operator will include the core unit multisig and Governance
 * There is a function called `yank` to remove a recipient from being eligible for awards
-* Both the multisig and Governance will be able to `yank` a recipient’s award - i.e. remove a recipient from the award they are due in the event that they e.g. leave the team
+* Both the multisig and Governance will be able to `yank` a recipient’s award - i.e., remove a recipient from the award they are due in the event that they, e.g., leave the team
 * The multisig will be capable of removing a recipient without the need for approval from governance
 * The multisig can only `yank`, it cannot create new recipients and/or awards. These must be approved solely by Governance
 
@@ -100,11 +100,11 @@ The following gives an explanation of the module interactions and functionality:
 ### Removing Awards:
 
 * In the instance an award is yanked before it has vested, it will not be possible to claim any reward
-* In the instance an award is yanked after an award has vested, and is now linearly accruring block-by-block, it will only vest up to the timestamp at which it was cancelled. The user will then be able to claim up to that timestamp
+* In the instance an award is yanked after an award has vested, and is now linearly accruing block-by-block, it will only vest up to the timestamp at which it was cancelled. The user will then be able to claim up to that timestamp
 
 ### Resources:
 
-* Github [makerdao/dss-vest](https://github.com/makerdao/dss-vest)
+* GitHub [makerdao/dss-vest](https://github.com/makerdao/dss-vest)
 
 ---
 ### Next Steps:

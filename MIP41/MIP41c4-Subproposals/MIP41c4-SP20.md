@@ -19,7 +19,7 @@ MIP41c4-SP20 onboard Louis Baudoin as facilitator for the Starknet Engineering C
 
 ### Motivation
 
-I have a genuine interest and respect for the Maker protocol and deFi in general. The decentralization of the financial system is a topic I have been passionate about since 2009. In 2011 I wrote two master's theses on the subprimes crisis and the lack of transparency in transactions and packaging of structured debt products. Ten years later, Maker protocol developed and showed incredible traction on a fundamental building block to solve some of those issues and allow a more open, transparent, and fair financial system.
+I have a genuine interest and respect for the Maker protocol and DeFi in general. The decentralization of the financial system is a topic I have been passionate about since 2009. In 2011 I wrote two master's theses on the subprimes crisis and the lack of transparency in transactions and packaging of structured debt products. Ten years later, Maker protocol developed and showed incredible traction on a fundamental building block to solve some of those issues and allow a more open, transparent, and fair financial system.
 
 I am (strangely) passionate about risk management and debt products. I started my career doing valuation of high yield debt portfolios in traditional finance, then built debt models for project finance, then built a risk management company for crypto assets, then built a lending product with a crypto custodian.
 

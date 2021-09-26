@@ -160,7 +160,7 @@ The following items categorise the scope of the Protocol Engineering Team and th
 * Address on-chain operational needs through executive spell creation
 * Understand and communicate risks to the protocol
 * Understand and document the protocol on a deep level
-* Adapt to sudden risks in the protocol e.g. flashloans by engaging with Governance
+* Adapt to sudden risks in the protocol, e.g., flashloans by engaging with Governance
 * Develop tools to fix bugs
 * Document code changes and maintain useful libraries
 

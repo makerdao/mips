@@ -162,7 +162,7 @@ Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of c
 - TDC = 10000000
 - Calculation: 16.15% = 10% * 2^(2*((13456034-10000000)/10000000))
 - Curve Output:
-![curve-exmple4n](https://user-images.githubusercontent.com/32653033/86402677-3b96ec00-bc7a-11ea-885d-196f97ae47aa.png)
+![curve-example4n](https://user-images.githubusercontent.com/32653033/86402677-3b96ec00-bc7a-11ea-885d-196f97ae47aa.png)
 
 **Example 5:**
 
