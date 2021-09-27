@@ -6,7 +6,7 @@
 MIP40c3-SP#: 11
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
-Tags: core-unit, cu-gov-001, budget, dai-budget, active
+Tags: core-unit, cu-gov-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-05-12
 Date Ratified: 2021-06-28

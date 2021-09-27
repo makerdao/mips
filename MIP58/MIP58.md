@@ -9,9 +9,9 @@ Author(s): @SebVentures, @christiancdpetersen
 Contributors: N/A
 Tags: living
 Type: General
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-08-04
-Date Ratified: n/a
+Date Ratified: 2021-09-27
 Dependencies: n/a
 Replaces: n/a
 ```
