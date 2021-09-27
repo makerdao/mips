@@ -6,10 +6,10 @@
 MIP39c2-SP#: 18
 Author(s): @rafinskipg, @tiago, @adamgoth, @tyler, @philip, @0xdeniz
 Contributors: @wouter, @juanjuan
-Tags: core-unit, cu-dux-001, mandate
-Status: Formal Submission
+Tags: core-unit, cu-dux-001, mandate, active
+Status: Accepted
 Date Applied: 2021-08-11
-Date Ratified: YYYY-MM-DD
+Date Ratified: 2021-09-27
 ```
 
 ## Sentence Summary

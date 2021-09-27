@@ -7,10 +7,10 @@
 MIP40c3-SP#: 27
 Author(s): @rafinskipg, @adam, @bainpm
 Contributors: @wouter, @juanjuan
-Tags: core-unit, cu-dux-001, budget, mkr-budget
-Status: Formal Submission
+Tags: core-unit, cu-dux-001, budget, mkr-budget, active
+Status: Accepted
 Date Applied: 2021-08-11
-Date Ratified: YYYY-MM-DD
+Date Ratified: 2021-09-27
 ```
 
 ## Sentence Summary
