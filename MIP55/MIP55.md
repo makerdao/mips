@@ -7,7 +7,7 @@ MIP#: 55
 Title: Special Purpose Fund
 Author(s): @amyjung
 Contributors: @LongForWisdom @SebVentures
-Tags:
+Tags: process
 Type: General
 Status: Accepted
 Date Proposed: 2021-06-08
