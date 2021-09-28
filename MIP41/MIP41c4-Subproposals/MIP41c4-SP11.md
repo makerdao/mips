@@ -6,7 +6,7 @@
 MIP41c4-SP#: 11
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
-Tags: core-unit, cu-sh-001, facilitator
+Tags: core-unit, cu-sh-001, facilitator, active
 Status: Formal Submission
 Date Applied: <2021-05-11>
 Date Ratified: <yyyy-mm-dd>
