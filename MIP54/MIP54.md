@@ -35,9 +35,9 @@ This module allows scheduling, cliff vesting, specification of vesting period as
 
 The following gives an explanation of the module interactions and functionality:
 
-## DssVest Specifications:
+## DssVest Specifications
 
-### DssVest Setup and Variables:
+### DssVest Setup and Variables
 
 * DssVest allows a recipient to have a vesting start date and an end date
 * DssVest will be initiated in a governance executive
@@ -52,7 +52,7 @@ The following gives an explanation of the module interactions and functionality:
     * `_mgr` : (Optional) The address of an authorized manager. This address has permission to remove the vesting plan when the contributor leaves the project
         * Note: auth users on this contract always have the ability to `yank` a vesting contract
 
-### DssVest Interaction:
+### DssVest Interaction
 
 * The following user interactions are possible with DssVest:
     * `vest(_id)`: The vesting plan participant calls `vest(id)` after the cliff period to pay out accrued and unpaid tokens
@@ -63,12 +63,12 @@ The following gives an explanation of the module interactions and functionality:
     * `yank(_id)` : An authorized user (ex. governance) of the vesting contract, or an optional plan manager, can `yank` a vesting contract. If the contract is yanked prior to the plan cliff, no funds will be paid out. If a plan is yanked after the contract cliff period has ended, new accruals will cease and the participant will be able to call vest to claim any vested funds
     * `yank(_id, _end)` : Allows governance to schedule a point in the future to end the vest. Used for planned offboarding of contributors
 
-### Optional Vesting Cliff:
+### Optional Vesting Cliff
 
 * If a cliff is included, it will not be possible for the recipient to receive any award until the timestamp of the cliff is reached
 * Once the cliff date is reached, only the recipient can call `vest` through a UI or Etherscan
 
-### Authorization:
+### Authorization
 
 * DssVest will be managed by an operator
 * The operator will include the core unit multisig and Governance
@@ -77,37 +77,37 @@ The following gives an explanation of the module interactions and functionality:
 * The multisig will be capable of removing a recipient without the need for approval from governance
 * The multisig can only `yank`, it cannot create new recipients and/or awards. These must be approved solely by Governance
 
-### Recipient Awards:
+### Recipient Awards
 
 * Token reward before the cliff equals zero. Once the cliff is  reached, the recipient will be entitled to claim the cliff amount
 * Following the cliff being reached, streaming rewards will be linearly accrued across the remaining vesting period. This will be calculated from block-to-block
 * As per the above point, it is up to the recipient when and at which interval they wish to claim their tokens
 * Awards are minted only at the point at which they are redeemed
 
-### Minting:
+### Minting
 
 * MKR will be minted at the time a user calls `vest`. This function calls the contract to redeem the MKR award available to them at that block. As stated above, this will be calculated from block-to-block
 * If a recipient wishes to change their address, they will be able to specify a new recipient address by calling the `move` function
 * Every recipient will have an on-chain  ID from which DssVest will emit an Award ID so that users can scan events to see what is available to them for transparency
 * Once the vesting period ends and the streaming award is over, the Award ID will be removed from the DssVest module
 
-### Transparency:
+### Transparency
 
 * Each award is represented with an ID and can be tracked as an ID to award mapping
 * The contract includes an `unpaid` function so anyone can take a look at it and see what the unpaid amount is on that contract
 * This is an arbitrary token vesting contract, not specific to MKR, and can easily be adapted for any token
 
-### Removing Awards:
+### Removing Awards
 
 * In the instance an award is yanked before it has vested, it will not be possible to claim any reward
 * In the instance an award is yanked after an award has vested, and is now linearly accruing block-by-block, it will only vest up to the timestamp at which it was cancelled. The user will then be able to claim up to that timestamp
 
-### Resources:
+### Resources
 
 * GitHub [makerdao/dss-vest](https://github.com/makerdao/dss-vest)
 
 ---
-### Next Steps:
+### Next Steps
 
 * MIP Governance process
 * Contract audits
