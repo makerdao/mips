@@ -18,12 +18,6 @@ data:
   - id: views
     name: Views
     children:
-      - id: mipsets
-        name: MIP Sets
-        href: 'https://mips.makerdao.com/mips/list?&search=&mipsetMode=true'
-      - id: living
-        name: Living MIPs
-        href: 'https://mips.makerdao.com/mips/list?&search=$AND(@Accepted,%23living)'
       - id: status
         name: Status
         children:
@@ -228,6 +222,12 @@ data:
                 name: Archive
                 href: >-
                   https://mips.makerdao.com/mips/list?search=$AND(%23cu-sh-001,NOT(%23active),@Accepted)&&orderDirection=ASC
+      - id: mipsets
+        name: MIP Sets
+        href: 'https://mips.makerdao.com/mips/list?&search=&mipsetMode=true'
+      - id: living
+        name: Living MIPs
+        href: 'https://mips.makerdao.com/mips/list?&search=$AND(@Accepted,%23living)'
       - id: technical
         name: Technical
         children:
