@@ -38,7 +38,7 @@ This budget for phase I secures a team of 2 Senior Engineers, one Data Scientist
 
 The budget asked is $210,375 for six months, which represents 50% of the total budget. The distribution of the budget across profiles is shown below. The salaries used are taken from Maker internal salary grids and guidelines.
 
-![table](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/table.png)
+![table](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/table.png)
 
 The payment of all the non-salary items will be done upon starting the project. The payment of the salaries will be done either bi-weekly or monthly. The budget will be split evenly between the Maker and Starkware.
 
