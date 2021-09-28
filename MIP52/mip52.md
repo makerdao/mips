@@ -7,6 +7,7 @@ MIP#: 52
 Title: Dispute Resolution
 Author(s): Gregory Di Prisco (g_dip)
 Contributors: None
+Tags: process
 Type: General
 Status: Accepted
 Date Proposed: 2021-05-04
