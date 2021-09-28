@@ -7,7 +7,7 @@ MIP#: 58
 Title: RWA Foundations
 Author(s): @SebVentures, @christiancdpetersen
 Contributors: N/A
-Tags: living
+Tags: process, living
 Type: General
 Status: Accepted
 Date Proposed: 2021-08-04
