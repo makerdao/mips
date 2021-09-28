@@ -58,7 +58,7 @@ data:
             name: MKR Budgets
             href: https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23mkr-budget)
       - id: ces-001
-        name: CES-001: Collateral Engineering
+        name: "CES-001: Collateral Engineering"
         children:
           - id: ces-001-active
             name: Subproposals in Force
@@ -85,7 +85,7 @@ data:
             name: Archive
             href: https://mips.makerdao.com/mips/list?&search=$AND(%23cu-daif-001,NOT(%23active),@Accepted)
       - id: dux-001
-        name: DUX-001: Development and UX
+        name: "DUX-001: Development and UX"
         children:
           - id: dux-001-active
             name: Subproposals in Force
@@ -175,16 +175,16 @@ data:
             name: Archive
             href: https://mips.makerdao.com/mips/list?&search=$AND(%23cu-ses-001,NOT(%23active),@Accepted)
       - id: ses-001
-        name: SES-001: Sustainable Ecosystem Scaling
+        name: "SNE-001: StarkNet Engineering"
         children:
-          - id: ses-001-active
+          - id: sne-001-active
             name: Subproposals in Force
-            href: https://mips.makerdao.com/mips/list?search=$AND(%23cu-ses-001,%20%23active)&orderDirection=ASC
+            href: https://mips.makerdao.com/mips/list?search=$AND(%23cu-sne-001,%20%23active)&orderDirection=ASC
           - id: ses-001-inactive
             name: Archive
-            href: https://mips.makerdao.com/mips/list?search=$AND(%23cu-ses-001,NOT(%23active),@Accepted)&&orderDirection=ASC
+            href: https://mips.makerdao.com/mips/list?search=$AND(%23cu-sne-001,NOT(%23active),@Accepted)&&orderDirection=ASC
       - id: sh-001
-        name: SH-001: Strategic Happiness
+        name: "SH-001: Strategic Happiness"
         children:
           - id: sh-001-active
             name: Subproposals in Force
