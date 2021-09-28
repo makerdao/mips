@@ -7,7 +7,7 @@ MIP#: 48
 Title: Streaming Payments via the Keg
 Author(s): Payton Rose @prose11, Sam MacPherson (@hexonaut)
 Contributors: @amyjung, @LongForWisdom, @Elihu
-Tags: general
+Tags: process, general
 Type: General
 Status: Accepted
 Date Proposed: 2021-02-03
