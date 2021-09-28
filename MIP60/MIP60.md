@@ -6,7 +6,7 @@ MIP#: 60
 Title: Intangible Asset Assignment
 Author(s): @LongForWisdom
 Contributors: Seth Goldfarb (@seth)
-Tags: living
+Tags: process, living
 Type: Process
 Status: RFC
 Date Proposed: <yyyy-mm-dd>
