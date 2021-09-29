@@ -208,9 +208,6 @@ On day one, I am requesting funding up-front, as follows:
 
 - 0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550
 
-> **Note:** This is a fresh address. In addition to the up-front budget, I would like to get 1-5 ETH funded to this account to cover transactions. I also plan to use some of that ETH to buy an ENS.
-
-
 ## The Show Must Go On!
 
 - Whether or not this proposal is ratified, the Happiness Airdrops will continue!
