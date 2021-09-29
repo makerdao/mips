@@ -24,15 +24,14 @@ MIP40c3-SP36 adds a MKR budget for the Core Unit DECO-001: Deco Fixed Rate Core 
 DECO-001
 
 ### Wallets
-
-There will be Two (2) multisig wallets each of which will serve a separate function, and which will be identified as: the Deco Operational Wallet, and the Deco Reserves Wallet. 
+There will be Two (2) multisig wallets each of which will serve a separate function, and which will be identified as: the Deco Operational Wallet, and the Deco Auditor Wallet. 
 
 1) The Deco Operational Wallet: 
 The Operational Wallet is a 2-out-of-3 multisig wallet controlled by the Deco Core Unit. The Deco Operational Wallet receives MKR, three (3) months prior to vesting, and releases the MKR upon vesting. 
 **Address: 0x56349A38e09f36039f6AF77309690d217Beaf0bF**
 
-2) The Deco Reserves Wallet:
-The Deco Reserves Wallet is a 2-out-of-3 multi-sig wallet controlled by trusted MakerDAO members composed of representatives from core units outside of the Deco Core Unit. Initially, the proposed signers are to be SES Core Unit members similarly to current incubator implementations. This wallet receives MKR Six (6) months in advance of vesting. Three (3) months prior to Vesting the Reserves Wallet sends the MKR to the Deco Operational Wallet. 
+2) The Deco Auditor Wallet:
+The Deco Auditor Wallet is a 2-out-of-3 multi-sig wallet controlled by trusted MakerDAO members composed of representatives from core units outside of the Deco Core Unit. Initially, the proposed signers are to be SES Core Unit members similarly to current incubator implementations. This wallet receives MKR Six (6) months in advance of vesting. Three (3) months prior to Vesting the Auditor Wallet sends the MKR to the Deco Operational Wallet. 
 **Address: 0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7**
 
 
@@ -42,7 +41,7 @@ The total MKR expenditure will not exceed 1500.00 MKR. This budget covers a thre
 
 ### MKR Vesting
 
-| **Transaction Date** | **MKR to Reserves Wallet** | **MKR to Deco Operational Wallet** | **MKR Vested** |
+| **Transaction Date** | **MKR to Auditor Wallet** | **MKR to Deco Operational Wallet** | **MKR Vested** |
 | :------------------: | :------------: | :------------: | :------------: |
 | 1-May-22             | 500            | 0              | 0              |
 | 1-Aug-22             | 125            | 500            | 0              |
@@ -65,10 +64,10 @@ Auto-Renewal|No
 
 ### Payment Implementation
 
-The MKR payment implementation will have two elements and include a phased MKR distribution comparable to the [DUX MKR Flow](https://forum.makerdao.com/t/mip40c3-sp27-development-ux-core-unit-mkr-budget-dux-001/9777). The first is a Deco Reserves multisig and a the second is a Deco Operational wallet. The Reserves wallet will receive each MKR disbursement Six (6) months prior to the vest date. Three (3) months prior to vest the MKR will be distributed from the Reserves wallet to the Deco Operational wallet requiring a 2 of 3 quorum for release to vesting. Upon vest, the Deco operational wallet will release the vested MKR.
+The MKR payment implementation will have two elements and include a phased MKR distribution comparable to the [DUX MKR Flow](https://forum.makerdao.com/t/mip40c3-sp27-development-ux-core-unit-mkr-budget-dux-001/9777). The first is a Deco Reserves multisig and a the second is a Deco Operational wallet. The Auditor Wallet will receive each MKR disbursement Six (6) months prior to the vest date. Three (3) months prior to vest the MKR will be distributed from the Auditor Wallet to the Deco Operational wallet requiring a 2 of 3 quorum for release to vesting. Upon vest, the Deco operational wallet will release the vested MKR.
 
 This payment implementation makes no assumptions regarding the origin of the MKR. It may be moved from the protocol’s treasury, newly minted, or obtained from another source.
 
-The MKR that is held by the Deco Reserves Wallet and the Deco Operational Wallet will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
+The MKR that is held by the Deco Auditor Wallet and the Deco Operational Wallet will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
 The Deco team may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
