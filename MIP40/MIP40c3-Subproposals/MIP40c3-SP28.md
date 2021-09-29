@@ -36,9 +36,9 @@ This budget for phase I secures a team of 2 Senior Engineers, one Data Scientist
 * Total amount for Maker foundation: $210,375
 * Headcount: 4 (including one part-time)
 
-The budget asked is $210,375 for six months, which represents 50% of the total budget. The distribution of the budget across profiles is shown below. The salaries used are taken from Maker internal salary grids and guidelines.
+The budget asked is $210,375 for three months, which represents 50% of the total budget. The distribution of the budget across profiles is shown below. The salaries used are taken from Maker internal salary grids and guidelines.
 
-![table](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/table.png)
+![table1](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/table1.png)
 
 The payment of all the non-salary items will be done upon starting the project. The payment of the salaries will be done either bi-weekly or monthly. The budget will be split evenly between the Maker and Starkware.
 
@@ -61,3 +61,28 @@ No MKR vesting is proposed for phase I. A MKR vesting based on deliverables will
 ### What is not in this budget
 
 Travel: Our team is remote, yet we are not excluding the option to meet in person if we assess it is needed.
+
+### Budget implementation
+
+SECU has a gnosis safe controlled by the Facilitator to pay 50% of the expenses. The other 50% will be paid by Starkware.
+
+For any budget request beyond December 2021, new sub proposals will be submitted
+
+#### Maker payments
+
+Due to the predictability and regularity of costs, this budget implementation is a “Simple Budget Implementation” under [MIP40c4](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md#mip40c4-budget-implementation-details).
+
+* Core Unit wallet address: 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1
+* Keyholder: @louismerkle - 0x83626A05588bbA91DAeDE52346E5282d123e0280
+* **Payout Dates and amounts**:
+	*DAI 75,000 on October 5th - one-off setup including gas cost, audit fee, and bug bounty
+*	DAI 45,125 streaming every 28th of each month from October to December (3 payments) - includes salaries and buffer
+
+#### Starkware payments
+
+* Starkware will follow the same schedule as the schedule described above (full schedule table below)
+* Starkware will pay the salaries in FIAT to the team via a service provider (Dill). The rest of the expenses will be paid on the same vault in USDC.
+
+![table2](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/table2.png)
+
+* **Unused funds**: Unused funds will be credited towards the next phase led by the SECU
