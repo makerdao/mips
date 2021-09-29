@@ -1,12 +1,12 @@
-# MIP41c4-SP22: Facilitator Onboarding (MakerLabs)
+# MIP40c3-SP32: Adding MakerLabs Core Unit Budget
 
 ## Preamble
 
 ```
-MIP41c4-SP#: 22
-Author(s): Tim Schuppener (@ultraschuppi)
+MIP40c3-SP#: 32
+Author(s): @colrad, @urbanisierung, Tim Schuppener (@ultraschuppi)
 Contributors:
-Tags: core-unit, cu-skunk-001, facilitator
+Tags: core-unit, cu-skunk-001, budget, dai-budget, mkr-budget
 Status: RFC
 Date Applied: 2021-09-01
 Date Ratified: <yyyy-mm-dd>
@@ -14,71 +14,152 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP41c4-SP22 onboards Tim Schuppener as Facilitator for the MakerLabs Core Unit.
+MIP40c3-SP32 adds the budget for the MakerLabs Core Unit, SKUNK-001.
 
 ## Specification
 
 ### Motivation
 
-#### Product
+We estimate this budget for the MakerLabs Core Unit to successfully implement and validate MVPs for the Maker ecosystem. More details about the scope and content of the Core Unit can be found [here](https://forum.makerdao.com/t/mip39c2-spxx-adding-makerlabs-core-unit/9425).
 
-I joined the crypto ecosystem pretty late (winter 2017) but learned about Maker quite early as there were very few projects around. The idea of taking a loan on a collateral in a permissionless way, without a man in the middle and by that providing a pegged asset into the volatile crypto market was very appealing to me so I started following and using the product.
+We’re proposing the following budget to deliver on our mandate. This includes, but is not limited to
 
-I believe we did a great job so far on focusing on the core without getting distracted too much. However, I think we should start running more experiments - something MakerLabs can support.
+* Implement,
+* Deploy, and
+* Validate
 
-#### DAO
+MVPs in the Maker ecosystem.
 
-Coming from a software engineering perspective, the idea of open-source has been a constant theme for me. MakerDAO feels to me like an open-source project, but with skin in the game. I guess nobody already knows how DAOs will work in the long run and I really like the idea of not knowing that but finding out on my own and being part of that journey.
+### Budget Considerations
 
-#### Starter, not Finisher
+MakerLabs does not have a specific product as its mission. It is rather about implementing and validating different ideas that can help the Maker ecosystem. For this reason, this budget proposal is not for a specific product but instead for setting up a team that is capable of implementing MVPs. If costs for a specific product arise during implementation or at the time of deployment, this additional budget will be requested.
 
-During my professional career I always found it most enjoyable to jump into a new topic, gather people around it, craft a plan on how to move forward and execute on it. My interest on a topic tends to drift away from it once the hard problems are solved and it moves into maintenance/harvesting mode. In the past, I just looked for the next topic to jump on and repeat.
+The following considerations have been taken into account when building the proposed budget:
 
-Working for MakerLabs would allow me to stick to the stuff I like most while not having the need to move to the next company as soon as the next topic needs to be found.
+* A competitive salary in-line with industry standards
+* A competitive benefits package in-line with industry standards
+* A high travel budget, in order to fund attending crypto conferences and team offsites which are critical for remote teams to build interpersonal relationships; vital for collaboration and retention.
+* A healthy contingency in case budget estimates are significantly off
 
-### Core Unit ID
+### Budget
 
-MakerLabs Core Unit
+The budget for the MakerLab Core Unit consists of three elements:
 
-### Facilitator name and information
+* a monthly budget covering the expenses - 82.6k DAI
+* an initial setup budget for setting up the core unit - 54.8k DAI
+* an upfront lump-sum to guarantee continuous operations - 247.8k DAI
 
-Name: Tim Schuppener
-Forum: @ultraschuppi
-R/C: @schuppi
-ETH Address: `TBD`
+This budget secures a team of 3 full-time employees as well as covers all operational costs listed below. This budget will continue on a rolling basis until modified or cancelled by Maker Governance.
 
-### Facilitator Commitment
+At the end of the calendar year, all unused funds will be returned to the Maker Protocol. Should the MakerLabs Unit shutdown, all unused funds will be returned to the DAO immediately.
 
-I will be the main link between the Core Unit and the Maker Community, Governance and other Core Unit Facilitators. I will make sure all aspects of the Core Unit including
+|Component|Setup|Monthly Budget|
+| --- | --- | --- |
+|Employee Salaries||EUR 37,500 → DAI 44,250|
+|Employment Taxes, Insurances||EUR 9375 → DAI 11063|
+|Travel||EUR 3000 → DAI 3,540|
+|Legal and Operating expenses|EUR 30000 → DAI 35,400|EUR 2000 → DAI 2,360|
+|Tools/Services/Devices|EUR 9000 → DAI 10,620|EUR 600 → DAI 708|
+|IT Services||EUR 1000 → DAI 1,180|
+|Contingency||EUR 5,347 → DAI 6,310|
+|Corporate Income Tax|EUR 7410 → DAI 8,744|EUR 11,176 → DAI 13,188|
+|One time setup|EUR 46410 → DAI 54,764||
+|Total Monthly Budget||EUR 69,998 → DAI 82,599|
 
-* priorities
-* plans
-* progress
-* costs
+### Budget Details
 
-will be reported and in line with the needs of the DAO.
+#### Total Employee Costs
 
-### Facilitator Credentials
+The team has 3 full-time developers, one of them also doing the Facilitator role. The total cost of an employee includes salary, all benefits (including healthcare), and taxes. This has been calculated by scaling salaries by 25%. This premium is likely an overestimation, and the realized cost is expected to be lower.
 
-#### Experience at Maker
+#### Travel (stolen from https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
 
-A pretty classic “from user to contributor” story you can see at open source products:
+Conferences and team offsites have been critical in the Maker Foundation’s history of fostering interpersonal relationships and generating trust. These are vital qualities in a company's culture that improve collaboration, productivity, and retention.
 
-* Minted my first SAI and bought my first MKR in Spring 2018
-* started liquidating underwater CDPs a couple of months later
-* lurked in rocketchat for a year, at some point joined the forum
-* started bombarding the forum with Signal Requests, built up a pretty solid understanding about the protocol
-* pitched [eurDai](https://forum.makerdao.com/t/mip13c3-sp10-declaration-of-intent-eurdai/6766)
-* happy member of the [MOMC](https://forum.makerdao.com/t/parameter-proposal-group-makerdao-open-market-committee/7355)
+Conferences in particular also serve a multitude of purposes. Employees are educated about the bleeding-edge technologies in the industry, and can apply that knowledge within the MakerLabs Core Unit. This budget would cover flights, lodging, nourishment, team-activities, and conference passes.
 
-#### Experience outside of Maker
+#### Legal
 
-* Bachelor in Computer Science (2002-2005)
-* Senior Engineer and Multiple Management Positions at [1&1](https://www.ionos.com/) (2002-2017)
-* Bootstrapped the cloud product line and the corresponding team at [SICK](http://sick.de) (2017-2019)
-* Bootstrapped the cloud product and the corresponding team at [Camunda](http://camunda.com) (2019-today)
+Coverage for legal costs including entity creation, legal officer/company insurance, as well as monthly and annual financial reporting.
 
-### Related Documents
+#### Tools/Services/Devices
 
-* [MIP39c2-SP21](https://mips.makerdao.com/mips/details/MIP39c2SP21)
-* [MIP40c3-SP32](https://mips.makerdao.com/mips/details/MIP40c3SP2)
+New team members will need to be provided with laptops for the duration of their employment and licenses for essential productivity tools.
+
+#### IT Services
+
+Any services, such as infrastructure providers (hosting providers, IPFS nodes, ...) or third-party services, such as services for tracking and evaluating user interactions are essential for the implementation of software products.
+
+#### Contingency
+
+As with any new endeavor, especially in an industry innovating as quickly as ours, there are many unknowns when it comes to estimating budget requirements, as well as unexpected costs that arise from time-to-time. The contingency represents 10% of the total budget and is there to act as a safety buffer.
+
+#### Corporate Income Tax
+
+From our current understanding about taxation of income from a DAO the legal entity will be subject to pay income tax on all DAI distributions we convert to FIAT. We still hope there is another way of dealing with that, in this case this position will become different.
+
+### Budget Distribution
+
+The budget is to be distributed on a monthly basis to the MakerLabs Core Unit Multisig, which is an instance of a Gnosis Safe multisig. Note that the Maker Protocol retains full administrative control of the funds in the MakerLabs Core Unit Multisig. To start, the multisig has 3 signers (see below) with a quorum of 2. This ensures that no rogue member is able to control the funds.
+
+#### MakerLabs Core Unit Multisig:
+
+
+Implementation: Distribution will be manual until a best-practice distribution method has been adopted by a majority of core units.
+
+Ownership: This multisig ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/) -> `0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9`) will consist of the three members of the MakerLabs Team:
+
+* @urbanisierung -> `urbanisierung.makerlabs.eth` -> `0x02012c3943ee2DEe32FAA35105F4E6bd2bCE6978`
+* @colrad  -> `colrad.makerlabs.eth` -> `0x02012c3943ee2DEe32FAA35105F4E6bd2bCE6978`
+* @ultraschuppi -> `schuppi.makerlabs.eth` -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
+
+This multisig conforms to the requirement ratified by Maker Governance in [MIP47](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047).
+
+### Conditions - Continuous Operation
+
+To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues or to defund/undeploy the Core unit, the MakerLab Unit is requesting an upfront lump-sum of $247.8k to sit in a multisig controlled by a set of 5 Core Unit Facilitators.
+
+#### Calculation:
+
+The lump sum is the equivalent of 3 months of expenses.
+
+#### Rationale:
+
+If normal protocol operation is not possible due to emergency shutdown or other protocol failure, these funds will be used to ensure employment resources get the system back up and functional.
+
+This will also be used in case the DAO wants to tear down the Core Unit to allow the corresponding legal entity to properly lay off the employees according to local law.
+
+At the conclusion of the year, the lump sum will remain in the multisig for the following year and may be increased at that point in time due to team growth or the need for an increased runway.
+
+Note that this multisig is NOT controlled by Maker Governance but rather exclusively by a set of Core Unit Facilitators. This is intentional to protect the funds in the event of a governance attack. Governance can indirectly transfer these funds back through a consensus of Core Unit Facilitators.
+
+#### Details:
+
+* MakerLabs Emergency Multisig - [`continuity.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0x89C5d54C979f682F40b73a9FC39F338C88B434c6/) -> `0x89C5d54C979f682F40b73a9FC39F338C88B434c6`
+* Designated Contact: @ultraschuppi - `schuppi.makerlabs.eth` -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
+* Quorum - 3/5
+* Signers: 
+  * @SebVentures -> `0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
+  * @LongForWisdom -> `0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
+  * @Nadia -> `0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
+  * @Derek -> `0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8`
+  * @ultraschuppi -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
+
+### MKR Vesting
+
+The MakerLabs Core Unit is proposing to apply the [SES - MKR Incentive Plan](https://docs.google.com/document/d/1oV0E_Eet-sLZ9Gr6jHAi7cPuSOHs2XiMGxwYpnzRLZE/edit#), a linear interpolation model to utilize salary to calculate the amount of MKR each individual will vest.
+
+We want to apply one modification, removing Repricing and Renewal. We propose this modification to remove uncertainty for MKR Holders and suppress MKR Price speculation in the Team.
+
+|Property|Value|
+| --- | --- |
+|MKR/USD lock-in Price (New)|Trailing 6 month average|
+|MKR/USD lock-in Price (OG)|MKR = $ 3072 (26.02.2021 - 26.08.2021)|
+|Biannual MKR Amount|Initial Annual Incentive Value (USD) / MKR/USD lock-in Price|
+|Vesting Period|3 years|
+|Cliff Vest|12 months|
+|Vesting Schedule|After cliff has expired, the Biannual MKR amount vests every 6 months and is distributed on Jan/Jul 1st (assuming the Core Unit starts working in January 2022).|
+|Manual Repricing|no|
+|Auto-Renewal|no|
+|MKR After 1 Year 1 FTE / TEAM|51.64 / 154.93|
+|MKR After 3 Years 1 FTE / TEAM|154.93 / 464.79|
