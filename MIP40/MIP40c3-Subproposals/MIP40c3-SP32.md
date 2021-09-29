@@ -41,20 +41,70 @@ The following considerations have been taken into account when building the prop
 * A high travel budget, in order to fund attending crypto conferences and team offsites which are critical for remote teams to build interpersonal relationships; vital for collaboration and retention.
 * A healthy contingency in case budget estimates are significantly off
 
-### Core Unit ID
+### Budget
 
-SKUNK-001
+The budget for the MakerLab Core Unit consists of three elements:
 
-### List of Budget Implementations
+* a monthly budget covering the expenses - 82.6k DAI
+* an initial setup budget for setting up the core unit - 54.8k DAI
+* an upfront lump-sum to guarantee continuous operations - 247.8k DAI
 
-#### Budget Distribution
+This budget secures a team of 3 full-time employees as well as covers all operational costs listed below. This budget will continue on a rolling basis until modified or cancelled by Maker Governance.
 
+At the end of the calendar year, all unused funds will be returned to the Maker Protocol. Should the MakerLabs Unit shutdown, all unused funds will be returned to the DAO immediately.
 
-**Implementation**: Distribution will be manual until a best-practice distribution method has been adopted by a majority of core units.
+|Component|Setup|Monthly Budget|
+| --- | --- | --- |
+|Employee Salaries||EUR 37,500 → DAI 44,250|
+|Employment Taxes, Insurances||EUR 9375 → DAI 11063|
+|Travel||EUR 3000 → DAI 3,540|
+|Legal and Operating expenses|EUR 30000 → DAI 35,400|EUR 2000 → DAI 2,360|
+|Tools/Services/Devices|EUR 9000 → DAI 10,620|EUR 600 → DAI 708|
+|IT Services||EUR 1000 → DAI 1,180|
+|Contingency||EUR 5,347 → DAI 6,310|
+|Corporate Income Tax|EUR 7410 → DAI 8,744|EUR 11,176 → DAI 13,188|
+|One time setup|EUR 46410 → DAI 54,764||
+|Total Monthly Budget||EUR 69,998 → DAI 82,599|
+
+### Budget Details
+
+#### Total Employee Costs
+
+The team has 3 full-time developers, one of them also doing the Facilitator role. The total cost of an employee includes salary, all benefits (including healthcare), and taxes. This has been calculated by scaling salaries by 25%. This premium is likely an overestimation, and the realized cost is expected to be lower.
+
+#### Travel (stolen from https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
+
+Conferences and team offsites have been critical in the Maker Foundation’s history of fostering interpersonal relationships and generating trust. These are vital qualities in a company's culture that improve collaboration, productivity, and retention.
+
+Conferences in particular also serve a multitude of purposes. Employees are educated about the bleeding-edge technologies in the industry, and can apply that knowledge within the MakerLabs Core Unit. This budget would cover flights, lodging, nourishment, team-activities, and conference passes.
+
+#### Legal
+
+Coverage for legal costs including entity creation, legal officer/company insurance, as well as monthly and annual financial reporting.
+
+#### Tools/Services/Devices
+
+New team members will need to be provided with laptops for the duration of their employment and licenses for essential productivity tools.
+
+#### IT Services
+
+Any services, such as infrastructure providers (hosting providers, IPFS nodes, ...) or third-party services, such as services for tracking and evaluating user interactions are essential for the implementation of software products.
+
+#### Contingency
+
+As with any new endeavor, especially in an industry innovating as quickly as ours, there are many unknowns when it comes to estimating budget requirements, as well as unexpected costs that arise from time-to-time. The contingency represents 10% of the total budget and is there to act as a safety buffer.
+
+#### Corporate Income Tax
+
+From our current understanding about taxation of income from a DAO the legal entity will be subject to pay income tax on all DAI distributions we convert to FIAT. We still hope there is another way of dealing with that, in this case this position will become different.
+
+### Budget Distribution
 
 The budget is to be distributed on a monthly basis to the MakerLabs Core Unit Multisig, which is an instance of a Gnosis Safe multisig. Note that the Maker Protocol retains full administrative control of the funds in the MakerLabs Core Unit Multisig. To start, the multisig has 3 signers (see below) with a quorum of 2. This ensures that no rogue member is able to control the funds.
 
 #### MakerLabs Core Unit Multisig
+
+Implementation: Distribution will be manual until a best-practice distribution method has been adopted by a majority of core units.
 
 Ownership: This multisig ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/) -> `0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9`) will consist of the three members of the MakerLabs Team:
 
@@ -62,7 +112,7 @@ Ownership: This multisig ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/ap
 * @colrad  -> `colrad.makerlabs.eth` -> `0x02012c3943ee2DEe32FAA35105F4E6bd2bCE6978`
 * @ultraschuppi -> `schuppi.makerlabs.eth` -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
 
-This multisig conforms to the requirement ratified by Maker Governance in [MIP47](https://github.com/makerdao/mips/blob/master/MIP47/MIP47.md).
+This multisig conforms to the requirement ratified by Maker Governance in [MIP47](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047).
 
 ### Conditions - Continuous Operation
 
@@ -93,63 +143,6 @@ Note that this multisig is NOT controlled by Maker Governance but rather exclusi
   * @Nadia -> `0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
   * @Derek -> `0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8`
   * @ultraschuppi -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
-
-### List of Budget Breakdowns
-
-The budget for the MakerLab Core Unit consists of three elements:
-
-* a monthly budget covering the expenses - 82.6k DAI
-* an initial setup budget for setting up the core unit - 54.8k DAI
-* an upfront lump-sum to guarantee continuous operations - 247.8k DAI
-
-This budget secures a team of 3 full-time employees as well as covers all operational costs listed below. This budget will continue on a rolling basis until modified or cancelled by Maker Governance.
-
-At the end of the calendar year, all unused funds will be returned to the Maker Protocol. Should the MakerLabs Unit shutdown, all unused funds will be returned to the DAO immediately.
-
-|Component|Setup|Monthly Budget|
-| --- | --- | --- |
-|Employee Salaries||EUR 37,500 → DAI 44,250|
-|Employment Taxes, Insurances||EUR 9375 → DAI 11063|
-|Travel||EUR 3000 → DAI 3,540|
-|Legal and Operating expenses|EUR 30000 → DAI 35,400|EUR 2000 → DAI 2,360|
-|Tools/Services/Devices|EUR 9000 → DAI 10,620|EUR 600 → DAI 708|
-|IT Services||EUR 1000 → DAI 1,180|
-|Contingency||EUR 5,347 → DAI 6,310|
-|Corporate Income Tax|EUR 7410 → DAI 8,744|EUR 11,176 → DAI 13,188|
-|One time setup|EUR 46410 → DAI 54,764||
-|Total Monthly Budget||EUR 69,998 → DAI 82,599|
-
-#### Budget Details
-
-##### Total Employee Costs
-
-The team has 3 full-time developers, one of them also doing the Facilitator role. The total cost of an employee includes salary, all benefits (including healthcare), and taxes. This has been calculated by scaling salaries by 25%. This premium is likely an overestimation, and the realized cost is expected to be lower.
-
-##### Travel (stolen from [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md))
-
-Conferences and team offsites have been critical in the Maker Foundation’s history of fostering interpersonal relationships and generating trust. These are vital qualities in a company's culture that improve collaboration, productivity, and retention.
-
-Conferences in particular also serve a multitude of purposes. Employees are educated about the bleeding-edge technologies in the industry, and can apply that knowledge within the MakerLabs Core Unit. This budget would cover flights, lodging, nourishment, team-activities, and conference passes.
-
-##### Legal
-
-Coverage for legal costs including entity creation, legal officer/company insurance, as well as monthly and annual financial reporting.
-
-##### Tools/Services/Devices
-
-New team members will need to be provided with laptops for the duration of their employment and licenses for essential productivity tools.
-
-##### IT Services
-
-Any services, such as infrastructure providers (hosting providers, IPFS nodes, ...) or third-party services, such as services for tracking and evaluating user interactions are essential for the implementation of software products.
-
-##### Contingency
-
-As with any new endeavor, especially in an industry innovating as quickly as ours, there are many unknowns when it comes to estimating budget requirements, as well as unexpected costs that arise from time-to-time. The contingency represents 10% of the total budget and is there to act as a safety buffer.
-
-##### Corporate Income Tax
-
-From our current understanding about taxation of income from a DAO the legal entity will be subject to pay income tax on all DAI distributions we convert to FIAT. We still hope there is another way of dealing with that, in this case this position will become different.
 
 ### MKR Vesting
 
