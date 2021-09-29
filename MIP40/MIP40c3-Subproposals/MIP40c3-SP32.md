@@ -72,7 +72,7 @@ At the end of the calendar year, all unused funds will be returned to the Maker 
 
 The team has 3 full-time developers, one of them also doing the Facilitator role. The total cost of an employee includes salary, all benefits (including healthcare), and taxes. This has been calculated by scaling salaries by 25%. This premium is likely an overestimation, and the realized cost is expected to be lower.
 
-#### Travel (stolen from https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
+#### Travel (stolen from [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md))
 
 Conferences and team offsites have been critical in the Maker Foundation’s history of fostering interpersonal relationships and generating trust. These are vital qualities in a company's culture that improve collaboration, productivity, and retention.
 
@@ -112,7 +112,7 @@ Ownership: This multisig ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/ap
 * @colrad  -> `colrad.makerlabs.eth` -> `0x02012c3943ee2DEe32FAA35105F4E6bd2bCE6978`
 * @ultraschuppi -> `schuppi.makerlabs.eth` -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
 
-This multisig conforms to the requirement ratified by Maker Governance in [MIP47](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047).
+This multisig conforms to the requirement ratified by Maker Governance in [MIP47](https://github.com/makerdao/mips/blob/master/MIP47/MIP47.md).
 
 ### Conditions - Continuous Operation
 
