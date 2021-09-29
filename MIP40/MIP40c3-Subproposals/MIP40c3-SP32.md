@@ -1,5 +1,5 @@
 # MIP40c3-SP32: Adding MakerLabs Core Unit Budget
- 
+
 ## Preamble
 
 ```
@@ -41,7 +41,60 @@ The following considerations have been taken into account when building the prop
 * A high travel budget, in order to fund attending crypto conferences and team offsites which are critical for remote teams to build interpersonal relationships; vital for collaboration and retention.
 * A healthy contingency in case budget estimates are significantly off
 
-### Budget
+### Core Unit ID
+
+SKUNK-001
+
+### List of Budget Implementations
+
+#### Budget Distribution
+
+
+**Implementation**: Distribution will be manual until a best-practice distribution method has been adopted by a majority of core units.
+
+The budget is to be distributed on a monthly basis to the MakerLabs Core Unit Multisig, which is an instance of a Gnosis Safe multisig. Note that the Maker Protocol retains full administrative control of the funds in the MakerLabs Core Unit Multisig. To start, the multisig has 3 signers (see below) with a quorum of 2. This ensures that no rogue member is able to control the funds.
+
+#### MakerLabs Core Unit Multisig
+
+Ownership: This multisig ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/) -> `0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9`) will consist of the three members of the MakerLabs Team:
+
+* @urbanisierung -> `urbanisierung.makerlabs.eth` -> `0x02012c3943ee2DEe32FAA35105F4E6bd2bCE6978`
+* @colrad  -> `colrad.makerlabs.eth` -> `0x02012c3943ee2DEe32FAA35105F4E6bd2bCE6978`
+* @ultraschuppi -> `schuppi.makerlabs.eth` -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
+
+This multisig conforms to the requirement ratified by Maker Governance in [MIP47](https://github.com/makerdao/mips/blob/master/MIP47/MIP47.md).
+
+### Conditions - Continuous Operation
+
+To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues or to defund/undeploy the Core unit, the MakerLab Unit is requesting an upfront lump-sum of $247.8k to sit in a multisig controlled by a set of 5 Core Unit Facilitators.
+
+#### Calculation
+
+The lump sum is the equivalent of 3 months of expenses.
+
+#### Rationale
+
+If normal protocol operation is not possible due to emergency shutdown or other protocol failure, these funds will be used to ensure employment resources get the system back up and functional.
+
+This will also be used in case the DAO wants to tear down the Core Unit to allow the corresponding legal entity to properly lay off the employees according to local law.
+
+At the conclusion of the year, the lump sum will remain in the multisig for the following year and may be increased at that point in time due to team growth or the need for an increased runway.
+
+Note that this multisig is NOT controlled by Maker Governance but rather exclusively by a set of Core Unit Facilitators. This is intentional to protect the funds in the event of a governance attack. Governance can indirectly transfer these funds back through a consensus of Core Unit Facilitators.
+
+#### Details
+
+* MakerLabs Emergency Multisig - [`continuity.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0x89C5d54C979f682F40b73a9FC39F338C88B434c6/) -> `0x89C5d54C979f682F40b73a9FC39F338C88B434c6`
+* Designated Contact: @ultraschuppi - `schuppi.makerlabs.eth` -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
+* Quorum - 3/5
+* Signers: 
+  * @SebVentures -> `0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
+  * @LongForWisdom -> `0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
+  * @Nadia -> `0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
+  * @Derek -> `0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8`
+  * @ultraschuppi -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
+
+### List of Budget Breakdowns
 
 The budget for the MakerLab Core Unit consists of three elements:
 
@@ -66,76 +119,37 @@ At the end of the calendar year, all unused funds will be returned to the Maker 
 |One time setup|EUR 46410 → DAI 54,764||
 |Total Monthly Budget||EUR 69,998 → DAI 82,599|
 
-### Budget Details
+#### Budget Details
 
-#### Total Employee Costs
+##### Total Employee Costs
 
 The team has 3 full-time developers, one of them also doing the Facilitator role. The total cost of an employee includes salary, all benefits (including healthcare), and taxes. This has been calculated by scaling salaries by 25%. This premium is likely an overestimation, and the realized cost is expected to be lower.
 
-#### Travel (stolen from https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047)
+##### Travel (stolen from [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md))
 
 Conferences and team offsites have been critical in the Maker Foundation’s history of fostering interpersonal relationships and generating trust. These are vital qualities in a company's culture that improve collaboration, productivity, and retention.
 
 Conferences in particular also serve a multitude of purposes. Employees are educated about the bleeding-edge technologies in the industry, and can apply that knowledge within the MakerLabs Core Unit. This budget would cover flights, lodging, nourishment, team-activities, and conference passes.
 
-#### Legal
+##### Legal
 
 Coverage for legal costs including entity creation, legal officer/company insurance, as well as monthly and annual financial reporting.
 
-#### Tools/Services/Devices
+##### Tools/Services/Devices
 
 New team members will need to be provided with laptops for the duration of their employment and licenses for essential productivity tools.
 
-#### IT Services
+##### IT Services
 
 Any services, such as infrastructure providers (hosting providers, IPFS nodes, ...) or third-party services, such as services for tracking and evaluating user interactions are essential for the implementation of software products.
 
-#### Contingency
+##### Contingency
 
 As with any new endeavor, especially in an industry innovating as quickly as ours, there are many unknowns when it comes to estimating budget requirements, as well as unexpected costs that arise from time-to-time. The contingency represents 10% of the total budget and is there to act as a safety buffer.
 
-#### Corporate Income Tax
+##### Corporate Income Tax
 
 From our current understanding about taxation of income from a DAO the legal entity will be subject to pay income tax on all DAI distributions we convert to FIAT. We still hope there is another way of dealing with that, in this case this position will become different.
-
-### Budget Distribution
-
-The budget is to be distributed on a monthly basis to the MakerLabs Core Unit Multisig, which is an instance of a Gnosis Safe multisig. Note that the Maker Protocol retains full administrative control of the funds in the MakerLabs Core Unit Multisig. To start, the multisig has 3 signers (see below) with a quorum of 2. This ensures that no rogue member is able to control the funds.
-
-#### MakerLabs Core Unit Multisig:
-
-`TBD`
-
-Implementation: Distribution will be manual until a best-practice distribution method has been adopted by a majority of core units.
-
-Ownership: This multisig will consist of the three members of the MakerLabs Team. TBD
-
-This multisig conforms to the requirement ratified by Maker Governance in [MIP47](https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047).
-
-### Conditions - Continuous Operation
-
-To ensure 3 months of continuous operation in the event of emergency shutdown or protocol issues or to defund/undeploy the Core unit, the MakerLab Unit is requesting an upfront lump-sum of $247.8k to sit in a multisig controlled by a set of TBD Core Unit Facilitators.
-
-#### Calculation:
-
-The lump sum is the equivalent of 3 months of expenses.
-
-#### Rationale:
-
-If normal protocol operation is not possible due to emergency shutdown or other protocol failure, these funds will be used to ensure employment resources get the system back up and functional.
-
-This will also be used in case the DAO wants to tear down the Core Unit to allow the corresponding legal entity to properly lay off the employees according to local law.
-
-At the conclusion of the year, the lump sum will remain in the multisig for the following year and may be increased at that point in time due to team growth or the need for an increased runway.
-
-Note that this multisig is NOT controlled by Maker Governance but rather exclusively by a set of Core Unit Facilitators. This is intentional to protect the funds in the event of a governance attack. Governance can indirectly transfer these funds back through a consensus of Core Unit Facilitators.
-
-#### Details:
-
-* MakerLabs Emergency Multisig - `TBD`
-* Designated Contact: @ultraschuppi - `TBD`
-* Quorum - `TBD`
-* Signers: `TBD`
 
 ### MKR Vesting
 
