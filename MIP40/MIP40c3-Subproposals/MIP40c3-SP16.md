@@ -205,7 +205,11 @@ On day one, I am requesting funding up-front, as follows:
 > \*** The 5,000 DAI should cover expenditures until the next monthly Core Unit Cycle.
 
 #### Wallet Address:
-- TDB upon approval by the DAO
+
+- 0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550
+
+> **Note:** This is a fresh address. In addition to the up-front budget, I would like to get 1-5 ETH funded to this account to cover transactions. I also plan to use some of that ETH to buy an ENS.
+
 
 ## The Show Must Go On!
 
