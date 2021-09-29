@@ -70,13 +70,13 @@ For any budget request beyond December 2021, new sub proposals will be submitted
 
 #### Maker payments
 
-Due to the predictability and regularity of costs, this budget implementation is a “Simple Budget Implementation” under [MIP40c4](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md#mip40c4-budget-implementation-details).
-
+* Due to the predictability and regularity of costs, this budget implementation is a “Simple Budget Implementation” under [MIP40c4](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md#mip40c4-budget-implementation-details).
 * Core Unit wallet address: 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1
 * Keyholder: @louismerkle - 0x83626A05588bbA91DAeDE52346E5282d123e0280
-* **Payout Dates and amounts**:
-	*DAI 75,000 on October 5th - one-off setup including gas cost, audit fee, and bug bounty
-*	DAI 45,125 streaming every 28th of each month from October to December (3 payments) - includes salaries and buffer
+* **The first disbursement requested is DAI 210,275, which includes**:
+	* DAI 75,000 on October 5th - one-off setup including gas cost, audit fee, and bug bounty. To be included in the executive vote on October 1st
+	* **Monthly transfers**
+		* DAI 3*45,125 streaming - October 1th - December 31th - includes salaries and buffer
 
 #### Starkware payments
 
