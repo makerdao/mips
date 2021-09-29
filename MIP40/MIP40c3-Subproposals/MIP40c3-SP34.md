@@ -112,3 +112,15 @@ In addition, a one-off incorporation / set-up budget for establishing DI Co of *
 * Core Unit wallet address: [0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F](https://etherscan.io/address/0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F)
 * Keyholder: @tmierzwa - [0x5Fc4d6cF7777FF7A89268562959680dF6e6DD83D](https://etherscan.io/address/0x5Fc4d6cF7777FF7A89268562959680dF6e6DD83D)
 * The keys to the Core Unit wallet address above will be owned by “DI Co” (it will be contributed to the company on incorporation by the Facilitator and listed as an asset of DI Co).
+
+### Transfers
+**Initial transfer**
+* **What:** The incorporation and interim budgets
+* **When:** Immediately after the subproposal ratification
+* **Amount:** 107,500 DAI
+* **Recipient:** CU Wallet: `0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F`
+**Monthly transfers**
+* **What:** Monthly payouts of the fixed budget 
+* **When:** First week of every calendar month from November 2021 to April 2022
+* **Amount:** 59,500 DAI
+* **Recipient:** CU Wallet: `0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F`
