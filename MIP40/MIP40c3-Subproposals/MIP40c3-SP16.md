@@ -204,9 +204,25 @@ On day one, I am requesting funding up-front, as follows:
 > \** The 16,500 DAI covers a swag order placed towards the end of August.
 > \*** The 5,000 DAI should cover expenditures until the next monthly Core Unit Cycle.
 
-#### Wallet Address:
+### Transfers
 
-- 0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550
+#### Core Unit Wallet Address
+
+- **Address:**  0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550
+- **Keyholder:** @aburban90
+
+#### Initial Transfer
+
+- **Amount:** 106,500 DAI
+- **Description:** Up-front payment for the first quarter's budget and reimbursement for past expenses.
+
+#### Quarterly Transfers
+
+- **Amount:** 58,000 DAI
+- **Description:** Ongoing Core Unit expenses
+- **Streaming:** 58,000 per quarter 
+- **Dates:** October 1st, 2021 through December 31st, 2021.
+- **Note:** Based on community interest and actual expenses, I will revise this budget going forward.
 
 ## The Show Must Go On!
 
