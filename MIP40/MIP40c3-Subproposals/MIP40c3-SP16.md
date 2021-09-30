@@ -213,15 +213,12 @@ On day one, I am requesting funding up-front, as follows:
 
 #### Initial Transfer
 
-- **Amount:** 106,500 DAI
+- **Transfer:** 106,500 DAI transferred to 0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550 starting on 2021-10-05.
 - **Description:** Up-front payment for the first quarter's budget and reimbursement for past expenses.
 
 #### Quarterly Transfers
 
-- **Amount:** 58,000 DAI
-- **Description:** Ongoing Core Unit expenses
-- **Streaming:** 58,000 per quarter 
-- **Dates:** October 1st, 2021 through December 31st, 2021.
+- **Transfer:** 58,000 DAI streamed to 0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550 starting on October 2021-10-01 to 2021-12-31.
 - **Note:** Based on community interest and actual expenses, I will revise this budget going forward.
 
 ## The Show Must Go On!
