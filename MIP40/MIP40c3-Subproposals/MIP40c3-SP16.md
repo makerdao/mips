@@ -213,7 +213,7 @@ On day one, I am requesting funding up-front, as follows:
 
 #### Initial Transfer
 
-- **Transfer:** 106,500 DAI transferred to 0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550 starting on 2021-10-05.
+- **Transfer:** 106,500 DAI transferred to 0x955993Df48b0458A01cfB5fd7DF5F5DCa6443550 on 2021-10-05.
 - **Description:** Up-front payment for the first quarter's budget and reimbursement for past expenses.
 
 #### Quarterly Transfers
