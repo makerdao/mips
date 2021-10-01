@@ -12,9 +12,9 @@ data:
       - id: mip0
         name: The MIPs Framework
         href: 'https://mips.makerdao.com/mips/details/MIP0'
-      - id: mip3
-        name: Governance Cycle
-        href: 'https://mips.makerdao.com/mips/details/MIP3'
+      - id: mip51
+        name: Monthly Governance Cycle
+        href: 'https://mips.makerdao.com/mips/details/MIP51'
   - id: views
     name: Views
     children:
