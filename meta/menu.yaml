@@ -48,6 +48,7 @@ data:
               https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state
           - id: activebudgets
             name: Active Budgets
+            href: https://mips.makerdao.com/mips/list?customViewName=Active%20Budgets&_DAI Budgets=$AND(%23active,%23dai-budget)&MKR Budgets=$AND(%23active,%23mkr-budget)
             children:
               - id: daibudgets
                 name: DAI Budgets
