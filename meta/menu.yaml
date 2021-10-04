@@ -49,15 +49,6 @@ data:
           - id: activebudgets
             name: Active Budgets
             href: https://mips.makerdao.com/mips/list?customViewName=Active%20Budgets&_DAI Budgets=$AND(%23active,%23dai-budget)&MKR Budgets=$AND(%23active,%23mkr-budget)
-            children:
-              - id: daibudgets
-                name: DAI Budgets
-                href: >-
-                  https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23dai-budget)
-              - id: mkrbudgets
-                name: MKR Budgets
-                href: >-
-                  https://mips.makerdao.com/mips/list?&search=$AND(%23active,%20%23mkr-budget)
           - id: ces-001
             name: 'CES-001: Collateral Engineering'
             children:
