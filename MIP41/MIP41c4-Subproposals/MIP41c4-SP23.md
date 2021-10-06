@@ -7,7 +7,7 @@ MIP41c4-SP#: 23
 Author(s): Tomek Mierzwa (@tmierzwa)
 Contributors:
 Tags: core-unit, cu-din-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-07
 Date Ratified:
 ```

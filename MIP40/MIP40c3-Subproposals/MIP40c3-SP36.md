@@ -7,7 +7,7 @@ MIP40c3-SP#:36
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, cu-deco-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date proposed: 2021-09-08
 Date Ratified: <yyyy-mm-dd>
 
@@ -42,17 +42,19 @@ The total MKR expenditure will not exceed 1500.00 MKR. This budget covers a thre
 ### MKR Vesting
 
 | **Transaction Date** | **MKR to Auditor Wallet** | **MKR to Deco Operational Wallet** | **MKR Vested** |
-| :------------------: | :------------: | :------------: | :------------: |
-| 1-May-22             | 500            | 0              | 0              |
-| 1-Aug-22             | 125            | 500            | 0              |
-| 1-Nov-22             | 125            | 125            | 500            |
-| 1-Feb-23             | 125            | 125            | 125            |
-| 1-May-23             | 125            | 125            | 125            |
-| 1-Aug-23             | 125            | 125            | 125            |
-| 1-Nov-23             | 125            | 125            | 125            |
-| 1-Feb-24             | 125            | 125            | 125            |
-| 1-May-24             | 125            | 125            | 125            |                      | 1-Aug-24       | 0              | 125            | 125                  |                | 1-Nov-24       | 0              | 0                    | 125            |
-| **Total MKR**        |       |                |    **1500** |
+|---|---|---|---|
+| 1-May-22 | 500 | 0 | 0 |
+| 1-Aug-22 | 125 | 500 | 0 |
+| 1-Nov-22 | 125 | 125 | 500 |
+| 1-Feb-23 | 125 | 125 | 125 |
+| 1-May-23 | 125 | 125 | 125 |
+| 1-Aug-23 | 125 | 125 | 125 |
+| 1-Nov-23 | 125 | 125 | 125 |
+| 1-Feb-24 | 125 | 125 | 125 |
+| 1-May-24 | 125 | 125 | 125 |
+| 1-Aug-24 | 0 | 125 | 125 |
+| 1-Nov-24 | 0 | 0 | 125 |
+| **Total MKR** |  |  | **1500** |
 
 **Parameter**|**Value**
 :-----:|:-----:

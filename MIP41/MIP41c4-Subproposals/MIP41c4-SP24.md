@@ -7,7 +7,7 @@ MIP41c4-SP#: 24
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, fixed-rate, cu-deco-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-08
 Date Ratified: <yyyy-mm-dd>
 ```
