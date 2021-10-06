@@ -7,7 +7,7 @@ MIP39c2-SP#: 21
 Author(s): @colrad, @urbanisierung, Tim Schuppener (@ultraschuppi)
 Contributors: -
 Tags: core-unit, cu-skunk-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-07-19
 Date Ratified: <yyyy-mm-dd>
 ```

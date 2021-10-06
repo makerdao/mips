@@ -7,7 +7,7 @@ MIP40c3-SP#: 35
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, cu-deco-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date proposed: 2021-09-08
 Date Ratified: <yyyy-mm-dd>
 ```
@@ -92,7 +92,7 @@ Marketing|60,000
 Gas Costs|100,000
 **Total**|**1,712,500**
 
-The budget will be managed, controlled, and accounted for at the discretion of and by the Deco entity, with appropriate and conforming reporting requirements.
+The budget will be managed, controlled, and accounted for at the discretion of and by the Deco entity, with appropriate and conforming reporting requirements with reports available in our [maker-cu-transparency-reporting](https://github.com/deco-protocol/maker-cu-transparency-reporting) repo.
 
 ### Budget Details
 

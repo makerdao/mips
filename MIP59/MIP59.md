@@ -1,6 +1,7 @@
 # MIP59: DssCharter
 
 ## Preamble
+
 ```
 MIP#: 59
 Title: DssCharter
@@ -8,13 +9,14 @@ Author(s): Tal Baneth (@talbaneth)
 Contributors: Sam MacPherson (@hexonaut), Derek Flossman (@Derek) 
 Tags: technical, module, smart-contracts
 Type: Technical
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-08-26
 Date Ratified: n/a
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 ```
+
 ## References
 
 * The proposed [dss-charter](https://github.com/makerdao/dss-charter) implementation.
@@ -64,7 +66,6 @@ Vault creation and modification are performed through the CharterManager contrac
 Most of the new functionality mentioned above resides in the `frob()` function, which wraps the Vat's `frob()`. This includes fetching the user's proxy account through `getOrCreateProxy()`, charging origination fees through `draw()` and adding validations on any drawn debt through `validate()`.
 
 As in CropJoin, liquidations can only be done by users who create a proxy through CharterManager. To support that, the [ProxyManagerClipper](https://github.com/makerdao/proxy-manager-clipper) should be used.
-
 
 
 ### MIP59c3: Test Summary

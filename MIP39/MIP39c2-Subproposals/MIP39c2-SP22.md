@@ -7,7 +7,7 @@ MIP39c2-SP#: 22
 Author(s): Tomek Mierzwa (@tmierzwa)
 Contributors: Piotr Klis (@pklis)
 Tags: core-unit, cu-din-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-07
 Date Ratified:
 ```
