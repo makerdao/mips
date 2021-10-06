@@ -11,7 +11,7 @@ Status: Accepted
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Last Amended: 2020-06-25
-Dependencies: MIP0, MIP3, MIP7
+Dependencies: MIP0, MIP7, MIP51
 Replaces: n/a
 ```  
 
