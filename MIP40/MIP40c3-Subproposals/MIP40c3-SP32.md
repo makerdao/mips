@@ -106,15 +106,15 @@ Distribution will be manual until a best-practice distribution method has been a
 
 #### Initial Setup
 
-* **54.8k DAI** will be transferred to 0x89C5d54C979f682F40b73a9FC39F338C88B434c6 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) on 2021-11-10
+* **54,800 DAI** will be transferred to 0x89C5d54C979f682F40b73a9FC39F338C88B434c6 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) on 2021-11-10
 
 #### Lump Sum
 
-* **247.8k DAI** will be transferred to 0x89C5d54C979f682F40b73a9FC39F338C88B434c6 ([`continuity.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0x89C5d54C979f682F40b73a9FC39F338C88B434c6/)) on 2021-11-10
+* **247,800 DAI** will be transferred to 0x89C5d54C979f682F40b73a9FC39F338C88B434c6 ([`continuity.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0x89C5d54C979f682F40b73a9FC39F338C88B434c6/)) on 2021-11-10
 
 #### Monthly Payments
 
-* **991200 DAI** will be streamed to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) starting 2022-01-01 and ending 2022-12-31 at a rate of $82600 DAI per month.
+* **991,200 DAI** will be streamed to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) starting 2022-01-01 and ending 2022-12-31 at a rate of $82600 DAI per month.
 
 ### MakerLabs Core Unit Multisig
 
