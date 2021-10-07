@@ -66,7 +66,7 @@ The distribution of budget across these components is shown below:
 |- Finance, accounting|DAI 3,500.00|
 |- Legal, admin|DAI 2,000.00|
 
-The total budget asked for the first 6 months from 1 November 2021 is **DAI 59,500.00 per month**. 
+The total budget asked for the first 6 months from 1 November 2021 is **DAI 59,500.00 per month**.
 The activities and scope of the Core Unit will be revisited during Q1 2022 to see whether it should be expanded again to meet wider Core Unit (and other stakeholder) needs.
 
 ### Interim budget
@@ -101,26 +101,31 @@ The regular monthly budget would then commence from 1 November 2021.
 
 In addition, a one-off incorporation / set-up budget for establishing DI Co of **DAI 10,000** is requested in the first disbursement. This budget covers legal fees, incorporation fees. etc.
 
-### Budget implementation
+### Budget implementation    
 
-* The first disbursement requested is therefore **DAI 464,500** which includes:
-  * **DAI 10,000** - one-off setup / incorporation budget for DI Co
-  * **DAI 97,500** - one-off interim budget for data and services provided from June to October 2020
-  * **6 x DAI 59,500** per month for 1 November 2021 to 30 April 2022 (streamed monthly at the beginning of each month through the DssVest or another streaming solution)
-* For any budget request beyond April 2022, new MIP40c3 subproposals will be submitted
-* Due to the predictability and regularity of costs, this budget implementation is a “Simple Budget Implementation” under [MIP40c4](https://mips.makerdao.com/mips/details/MIP40#MIP40c4).
+This budget implementation is a “Simple Budget Implementation” under [MIP40c4](https://mips.makerdao.com/mips/details/MIP40#simple-budget-implementations).
+
 * Core Unit wallet address: [0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F](https://etherscan.io/address/0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F)
 * Keyholder: @tmierzwa - [0x5Fc4d6cF7777FF7A89268562959680dF6e6DD83D](https://etherscan.io/address/0x5Fc4d6cF7777FF7A89268562959680dF6e6DD83D)
 * The keys to the Core Unit wallet address above will be owned by “DI Co” (it will be contributed to the company on incorporation by the Facilitator and listed as an asset of DI Co).
 
-### Transfers
-**Initial transfer**
-* **What:** The incorporation and interim budgets
-* **When:** Immediately after the subproposal ratification
-* **Amount:** 107,500 DAI
-* **Recipient:** CU Wallet: `0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F`
-**Monthly transfers**
-* **What:** Monthly payouts of the fixed budget 
-* **When:** First week of every calendar month from November 2021 to April 2022
-* **Amount:** 59,500 DAI
-* **Recipient:** CU Wallet: `0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F`
+The first disbursement requested is **DAI 464,500** which includes what follows.
+
+#### One-off Setup / Incorporation Budget / One-off Interim Budget for Data and Services Provided from June to October 2020
+
+* **107,500 DAI** will be transferred to 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F on November 10, 2020
+
+##### Breakdown
+
+* **107,500 DAI** =
+	* **10,000 DAI**  one-off setup / incorporation budget for DI Co +
+	* **97,500 DAI** - one-off interim budget for data and services provided from June to October 2020
+
+
+#### Monthly Transfers
+
+  * **357,000 DAI** will be streamed to 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F starting 2021-11-01 and ending 2022-04-30 at a rate of 59,500 DAI per month
+
+### Other Considerations
+
+* For any budget request beyond April 2022, new MIP40c3 subproposals will be submitted

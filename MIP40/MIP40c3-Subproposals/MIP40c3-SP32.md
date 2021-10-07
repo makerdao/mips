@@ -106,18 +106,18 @@ Distribution will be manual until a best-practice distribution method has been a
 
 #### Initial Setup
 
-* **54.8k DAI** will be transferred to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 on November 10, 2021
-  
+* **54,800 DAI** will be transferred to 0x89C5d54C979f682F40b73a9FC39F338C88B434c6 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) on 2021-11-10
+
 #### Lump Sum
 
-* **247.8k DAI** will be transferred to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 on November 10, 2021
+* **247,800 DAI** will be transferred to 0x89C5d54C979f682F40b73a9FC39F338C88B434c6 ([`continuity.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0x89C5d54C979f682F40b73a9FC39F338C88B434c6/)) on 2021-11-10
 
 #### Monthly Payments
 
-* **82.6k DAI** will be transferred monthly to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 through the first executive proposal of each month
+* **991,200 DAI** will be streamed to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) starting 2022-01-01 and ending 2022-12-31 at a rate of $82,600 DAI per month.
 
 ### MakerLabs Core Unit Multisig
-    
+
 Ownership: This multisig ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/) -> `0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9`) will consist of the three members of the MakerLabs Team:
 
 * @urbanisierung -> `urbanisierung.makerlabs.eth` -> `0x02012c3943ee2DEe32FAA35105F4E6bd2bCE6978`
@@ -149,7 +149,7 @@ Note that this multisig is NOT controlled by Maker Governance but rather exclusi
 * MakerLabs Emergency Multisig - [`continuity.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0x89C5d54C979f682F40b73a9FC39F338C88B434c6/) -> `0x89C5d54C979f682F40b73a9FC39F338C88B434c6`
 * Designated Contact: @ultraschuppi - `schuppi.makerlabs.eth` -> `0x2eC2331809F63B64ea1F4f34b51D992fc0D3E683`
 * Quorum - 3/5
-* Signers: 
+* Signers:
   * @SebVentures -> `0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
   * @LongForWisdom -> `0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
   * @Nadia -> `0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
