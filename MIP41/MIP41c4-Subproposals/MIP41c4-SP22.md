@@ -1,5 +1,7 @@
 # MIP41c4-SP22: Facilitator Onboarding (MakerLabs)
 
+## Preamble
+
 ```
 MIP41c4-SP#: 22
 Author(s): Tim Schuppener (@ultraschuppi)
