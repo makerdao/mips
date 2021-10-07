@@ -114,7 +114,7 @@ Distribution will be manual until a best-practice distribution method has been a
 
 #### Monthly Payments
 
-* **991,200 DAI** will be streamed to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) starting 2022-01-01 and ending 2022-12-31 at a rate of $82600 DAI per month.
+* **991,200 DAI** will be streamed to 0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9 ([`teamwallet.makerlabs.eth`](https://gnosis-safe.io/app/#/safes/0xb179F0760B1f1D71A447B8c37BBF5ef99E4dF6c9/)) starting 2022-01-01 and ending 2022-12-31 at a rate of $82,600 DAI per month.
 
 ### MakerLabs Core Unit Multisig
 
