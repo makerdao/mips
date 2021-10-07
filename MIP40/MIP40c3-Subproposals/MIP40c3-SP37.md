@@ -112,9 +112,9 @@ Growth CU has a multi-signature wallet to administer the funds allocated to fulf
 
 As we have fixed monthly expenses (contributor costs and the buffer) and variable quarterly expenses (Finance costs, Direct operations costs and Integrations and Marketing costs) we propose two parallel budget implementations, the streamed payment for the fixed monthly expenses and the manual implementation for the variable quarterly expenses:
 
-For the total Fixed expenses for eight months = 942,663 DAI, the budget implementation is through the DssVest (or another streaming solution), streaming 117,833 DAI per month.
+* **942,663 DAI** will be streamed to 0x7800C137A645c07132886539217ce192b9F0528e starting 2021-11-01 and ending 2022-06-30 at a rate of 117,833 DAI per month.
 
-For the total Variable expenses for eight months = 1,265,821 DAI, the budget implementation is manual and payed at the beginning of each quarter. Because our quarterly schedule is misaligned, the first payment should be included in the first executive of November and the second payment should be included in the first executive of April (In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote), for each executive these are the payments to be done:
+For the total Variable expenses for eight months = 1,265,821 DAI, the budget implementation is manual and paid at the beginning of each quarter. Because our quarterly schedule is misaligned, the first payment should be included in the first executive of November and the second payment should be included in the first executive of April (In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote), for each executive these are the payments to be done:
 
-- November - 791,138 DAI
-- April - 474,683 DAI
+* **791,138 DAI** will be transferred to 0x7800C137A645c07132886539217ce192b9F0528e on 2021-11-10
+* **474,683 DAI** will be transferred to 0x7800C137A645c07132886539217ce192b9F0528e on 2022-04-06

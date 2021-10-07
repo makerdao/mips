@@ -126,6 +126,4 @@ Travel - 20,000
 
 We’ve set up a Content Production multi-sig wallet in accordance with [MIP 47](https://github.com/makerdao/mips/blob/master/MIP47/MIP47.md) - details are [here.](https://forum.makerdao.com/t/adding-content-production-multisig/8428)
 
-433,000 Dai covers 6 months; we're requesting 72,167 Dai per month, covering November through April.
-
-Address: 0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60
+* A total of 433,000 Dai DAI will be streamed to 0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60 address starting on 2021-11-01 and ending on 2022-04-30 at the rate of 72,167 Dai per month
