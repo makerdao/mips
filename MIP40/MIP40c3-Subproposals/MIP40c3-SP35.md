@@ -16,6 +16,10 @@ Date Ratified: <yyyy-mm-dd>
 
 The Deco Fixed Rate Core Unit is requesting a Budget for the fixed period of November 1, 2021, through November 1, 2024, (36 Months), with a fixed budget floor of 1,712,500 Dai annually, paid monthly, secured in advance quarterly.
 
+## Paragraph Summary
+
+The Deco Fixed Rate Core Unit is requesting a Budget for the fixed period of November 1, 2021, through November 1, 2024, (36 Months), with a fixed budget floor of 1,712,500 Dai annually, paid monthly secured in advance quarterly. Deco is not requesting, nor has it included any upfront reimbursement of costs for past work. Instead, Deco has proposed a revenue share model: Maker will pay to Deco 15% of the revenue from the Fixed-Rate CLAIM_FEE token sales only AFTER it has reimbursed the Deco Core Unit operating expenses advanced by Maker.
+
 ## Specification
 
 ### Motivation
