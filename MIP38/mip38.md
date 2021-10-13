@@ -105,7 +105,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - GOV-001
 - **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and - well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
-- **Date Ratified** -  2021-25-03
+- **Date Ratified** - 2021-25-03
 - **Mandate** - [MIP39c2-SP3](https://mips.makerdao.com/mips/details/MIP39c2SP3)
 - **Budget Amount** - 520,000 DAI / quarter
 - **Budget Implementation** - Manual - [MIP40c3-SP11](https://mips.makerdao.com/mips/details/MIP40c3SP11#budget-implementation)
@@ -119,7 +119,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - PE-001
 - **Summary** - The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.
-- **Date Ratified** -  2021-27-04
+- **Date Ratified** - 2021-27-04
 - **Mandate** - [MIP39c2-SP7](https://mips.makerdao.com/mips/details/MIP39c2SP7)
 - **Budget Amount** - 510,000 DAI / month
 - **Budget Implementation** - Manual - [MIP40c3-SP7](https://mips.makerdao.com/mips/details/MIP40c3SP7#smart-contract-implementation)
@@ -132,7 +132,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - GRO-001
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
-- **Date Ratified** -  2021-27-04
+- **Date Ratified** - 2021-27-04
 - **Mandate** - [MIP39c2-SP19](https://mips.makerdao.com/mips/details/MIP40c3SP19)
 - **Budget Amount** - 937,950 Dai / quarter
 	- **Budget Implementation** - Manual - [MIP40c3-SP19](https://mips.makerdao.com/mips/details/MIP40c3SP19#budget-implementation)
@@ -147,7 +147,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - MKT-001
 - **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
-- **Date Ratified** -  2021-27-04
+- **Date Ratified** - 2021-27-04
 - **Mandate** - [MIP39c2-SP5](https://mips.makerdao.com/mips/details/MIP39c2SP5)
 - **Budget Amount** - 44,375 DAI / month
 - **Budget Implementation** - Manual - [MIP40c3-SP5](https://mips.makerdao.com/mips/details/MIP41c3SP5#budget-implementation)
@@ -160,7 +160,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - MDS-001
 - **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store
-- **Date Ratified** -  2021-27-04
+- **Date Ratified** - 2021-27-04
 - **Mandate** - [MIP39c2-SP6](https://mips.makerdao.com/mips/details/MIP39c2SP6)
 - **Budget Amount** - 0 DAI (50/50 profit sharing)
 - **Budget Implementation** - Manual - [MIP40c3-SP6](https://mips.makerdao.com/mips/details/MIP40c3SP6#list-of-budget-implementations)
@@ -174,7 +174,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - SES-001
 - **Summary** - The Sustainable Ecosystem Scaling Core Unit's mission is to sustainably grow the Maker Protocol’s moats by systematically removing barriers between the decentralized workforce, capital, and work.
-- **Date Ratified** -  2021-25-05
+- **Date Ratified** - 2021-25-05
 - **Mandate** - [MIP39c2-SP10](https://mips.makerdao.com/mips/details/MIP39c2SP10)
 - **Budget Amount** - 1,153,480 DAI / quarter
 - **Budget Implementation** - Manual - [MIP40c3-SP10](https://mips.makerdao.com/mips/details/MIP40c3SP10#budget-implementation), [MIP40c3-SP17 (MKR Incentive Plan)](https://mips.makerdao.com/mips/details/MIP40c3SP17)
@@ -187,7 +187,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - ORA-001
 - **Summary** - The Oracle Core Unit is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized. 
-- **Date Ratified** -  2021-28-06
+- **Date Ratified** - 2021-28-06
 - **Mandate** - [MIP39c2-SP13](https://mips.makerdao.com/mips/details/MIP39c2SP13)
 - **Budget Amount** - 5,036,124 DAI / year
 - **Budget Implementation** - Manual - [MIP40c3-SP15](https://mips.makerdao.com/mips/details/MIP40c3SP15)
@@ -200,7 +200,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - COM-001
 - **Summary** - The Governance Communications Core Unit performs a complementary set of resources and services that focus on MakerDAO's informational accessibility and communication practices as a public organization. 
-- **Date Ratified** -  2021-26-07
+- **Date Ratified** - 2021-26-07
 - **Mandate** - [MIP39c2-SP8](https://mips.makerdao.com/mips/details/MIP39c2SP8)
 - **Budget Amount** - 163,200 Dai - Aug 2021-Dec 2021
 - **Budget Implementation** - Manual - [MIP40c3-SP8](https://mips.makerdao.com/mips/details/MIP40c3SP8#budget-implementation)
@@ -213,9 +213,53 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **ID** - DAIF-001
 - **Summary** - The Dai Foundation Core Unit is responsible for facilitating the dialogue between the Dai Foundation and the Community regarding intellectual property safeguarding, intellectual property usage, and related activities.
-- **Date Ratified** -  2021-23-08
+- **Date Ratified** - 2021-23-08
 - **Mandate** - [MIP39c2-SP17](https://mips.makerdao.com/mips/details/MIP39c2SP17)
 - **Budget Amount** - 2,138,591 Dai (first year); 1,038,599 Dai (second year); 463,186 Dai (third year)
 - **Budget Implementation** - [MIP40c3-SP24](https://mips.makerdao.com/mips/details/MIP40c3SP24#payment-implementation)
 - **Budget Breakdown** - [MIP40c3-SP24](https://mips.makerdao.com/mips/details/MIP40c3SP24#budget-breakdown)
 - **Facilitator** - Søren Peter Nielsen - [MIP41c4-SP18](https://mips.makerdao.com/mips/details/MIP41c4SP18)
+
+---
+
+- **ID** - SNE-001
+- **Summary** - In a volatile, high gas cost environment, DeFi protocols are attempting to build bridges to L2 protocols to access liquidity and remain competitive. This proposal is a plan to build a DAI bridge over Starknet within 3 months (phase I).
+- **Date Ratified** - 2021-27-09
+- **Mandate** - [MIP39c2-SP19](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP19.md)
+- **Budget Amount** - 210,375 Dai - Oct 2021-Dec 2021
+- **Budget Implementation** - [MIP40c3-SP28](https://mips.makerdao.com/mips/details/MIP40c3SP28#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP28](https://mips.makerdao.com/mips/details/MIP40c3SP28#list-of-budget-breakdowns)
+- **Facilitator** - Louis Baudoin - [MIP41c4-SP20](https://mips.makerdao.com/mips/details/MIP41c4SP20)
+
+---
+
+- **ID** - CES-001
+- **Summary** - To operationalize collateral management within the Maker Protocol allowing anyone to onboard collateral while ensuring the stability and security of the ecosystem.
+- **Date Ratified** - 2021-27-09
+- **Mandate** - [MIP39c2-SP20](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP20.md)
+- **Budget Amount** - 1,223,552 Dai (Total Budget Cap spanning a six-month cycle)
+- **Budget Implementation** - [MIP40c3-SP30](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md#budget-implementation-1)
+- **Budget Breakdown** - [MIP40c3-SP30](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md#list-of-budget-breakdowns)
+- **Facilitator** - Robert Jordan - [MIP41c4-SP21](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
+
+---
+
+- **ID** - DUX-001
+- **Summary** - Enabling the best-in-class decentralized decision making for the Maker Protocol by providing a meaningful user experience for all governance participants.
+- **Date Ratified** - 2021-27-09
+- **Mandate** - [MIP39c2-SP18](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP18.md)
+- **Budget Amount** - 483,575 Dai (Total Budget Cap spanning a three-month cycle)
+- **Budget Implementation** - [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md#transfers)
+- **Budget Breakdown** - [MIP40c3-SP16](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP16.md#budget-breakdown)
+- **Facilitator** - Philip Bain - [MIP41c4-SP19](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP19.md)
+
+---
+
+- **ID** - SH-001
+- **Summary** - he SHCU aims to promote community engagement and promote the Maker brand by strategically spreading happiness, positive vibes, and mild but delightful confusion throughout the Maker Community via memes, shitposts, and Bespoke Happiness Airdrops.
+- **Date Ratified** - 2021-27-09
+- **Mandate** - [MIP39c2-SP11](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
+- **Budget Amount** - 58,000 Dai - Oct 2021-Dec 2021 + 106,500 DAI (initial payment)
+- **Budget Implementation** - [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md#transfers)
+- **Budget Breakdown** - [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md#quarterly-budget-implementation)
+- **Facilitator** - Andrew Burban - [MIP41c4-SP11](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP11.md)
