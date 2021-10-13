@@ -1,6 +1,7 @@
-# Intangible Asset Assignment
+# MIP60: Intangible Asset Assignment
 
 ## Preamble
+
 ```
 MIP#: 60
 Title: Intangible Asset Assignment
@@ -12,7 +13,9 @@ Status: RFC
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP24, MIP41
-Replaces: N/A
+Replaces: N/A  
+Ratification Poll:
+Forum URL: https://forum.makerdao.com/t/mip60-intangible-asset-assignment/10319
 ```
 
 ## References

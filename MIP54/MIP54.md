@@ -14,7 +14,9 @@ Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Dependencies: n/a
 Replaces: n/a
-License: AGPL3+
+License: AGPL3+  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPfjETk?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip-54-dssvest/8025/15
 ```
 
 ## Sentence Summary

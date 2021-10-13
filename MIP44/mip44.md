@@ -14,6 +14,8 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip44-reward-join-adapter-rewardjoin/6283
 ```
 
 ## References

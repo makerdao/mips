@@ -13,7 +13,9 @@ Status: Accepted
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Dependencies:
-Replaces:
+Replaces:    
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip47-makerdao-multisignature-wallet-management/6338
 ```
 
 ## References

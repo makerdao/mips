@@ -1,6 +1,7 @@
 # MIP46: Parameter Proposal Groups
 
 ## Preamble
+
 ```
 MIP#: 46
 Title: Parameter Proposal Groups
@@ -12,7 +13,10 @@ Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Dependencies: None
 Replaces: None
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail  
+Forum URL: https://forum.makerdao.com/t/mip46-parameter-proposal-groups/6341
 ```
+
 ## References
 
 None.

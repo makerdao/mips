@@ -13,7 +13,9 @@ Status: Rejected
 Date Proposed: 2021-02-03
 Date Ratified:
 Dependencies:
-Replaces:
+Replaces:  
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip49-staking-rewards/6331
 ```
 
 ## References
