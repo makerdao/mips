@@ -1,6 +1,7 @@
 # MIP1: Maker Governance Paradigms
 
 ## Preamble
+
 ```
 MIP#: 1
 Title: Governance Paradigms
@@ -13,9 +14,12 @@ Date Proposed: 2020-04-06
 Date Ratified: 2020-05-2
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL: 
+Forum URL: https://forum.makerdao.com/t/mip1-maker-governance-paradigms/1903
 ```
 
 ## References
+
 **[MIP1c4-Subproposal-Template.md](MIP1c4-Subproposal-Template.md)**  
 
 ## Sentence Summary

@@ -14,7 +14,10 @@ Date Proposed: 2020-05-12
 Date Ratified: 2020-10-27
 Dependencies: MIP0
 Replaces: N/A
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 ```
+
 ## References
 
 **[MIP14c2-Subproposal-Template.md](MIP14c2-Subproposal-Template.md)**

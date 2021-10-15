@@ -1,10 +1,12 @@
 # MIP33: Maker Stability Price Module
 
 ## Introduction
+
 Following [some discussion](https://forum.makerdao.com/t/technical-mipxx-throttled-surplus-buffer-pre-mip-discussion/5577), 
 this MIP is to formalize the request for a Maker Stability Price Module. 
 
 ## Preamble
+
 ```
 MIP#: 33
 Title: Maker Stability Price Module.
@@ -13,13 +15,17 @@ Type: Technical
 Status: Withdrawn
 Date Proposed: 2020-12-27
 Dependencies:
-Replaces: 
+Replaces:
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip33-maker-stability-price-module/5943
 ```
 
 ## Sentence Summary
+
 MIP33 defines the Maker Stability Price Module (MCD_MSM), allowing the governance to defend a MKR price by pre-allocating dai to buy at pre-defined level.
 
 ## Paragraph Summary
+
 This MIP introduces the Maker Stability Price Module which permits the governance to define a defensive low ceiling price as well as a high price both voted by Governance.
 
 Governance will vote a buying price and a selling price. Then the governance will send Dai inside the contract, when an opportunity will happen market maker will use this contract to hedge the market using the Dai pre-allocated.

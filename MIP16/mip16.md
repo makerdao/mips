@@ -14,6 +14,8 @@ Date Proposed: 2020-07-01
 Date Ratified: 2020-07-28
 Dependencies:
 Replaces: n/a
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-monthly-governance-cycle-bundle-increase-the-eth-a-debt-ceiling?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 ```
 
 ## References

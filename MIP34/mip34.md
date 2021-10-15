@@ -15,6 +15,8 @@ Date Ratified: 2021-25-03
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip34-keg-streaming-payments-module/6013
 ```
 
 ## References

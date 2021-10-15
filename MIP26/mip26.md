@@ -10,6 +10,8 @@ Status: RFC
 Date Proposed: 2020-10-06
 Dependencies: 
 Replaces: DSChief
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627
 ```
 
 ## Sentence Summary

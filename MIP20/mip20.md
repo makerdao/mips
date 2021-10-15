@@ -15,6 +15,8 @@ Date Ratified: 2020-10-27
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-october-2020-governance-cycle-bundle-october-26-2020?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip20-target-price-adjustment-module-vox/3196
 ```
 
 ## References

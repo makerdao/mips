@@ -13,7 +13,8 @@ Date Proposed: 2020-07-07
 Date Ratified: 2020-07-28
 Dependencies:
 Replaces:
-
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-monthly-governance-cycle-bundle-increase-the-eth-a-debt-ceiling?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip18-meta-parameter-adjustments/3118
 ```
 
 ## References
@@ -95,7 +96,7 @@ MIP18c4 subproposals have the following parameters:
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
 
-MIP18c4 subproposals must use the template located at **[MIP18c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/RFC/MIP18/MIP18c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP18c4 subproposals must use the template located at **[MIP18c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/RFC/MIP18/MIP18c4-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 

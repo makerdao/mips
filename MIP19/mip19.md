@@ -1,6 +1,7 @@
 # MIP19: Liquidations System 1.1 Upgrade
 
 ## Preamble
+
 ```
 MIP#: 19
 Title: Liquidations System 1.1 Upgrade
@@ -14,7 +15,10 @@ Date Ratified: 2020-07-28
 Dependencies: n/a
 Replaces: n/a
 License: AGPL v3.0
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-monthly-governance-cycle-bundle-increase-the-eth-a-debt-ceiling?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip19-liquidations-system-1-1-upgrade/3098
 ```
+
 ## References
 
 - [Debt Auction Blocking in the Dai Credit System Presentation by Kurt Barry](https://docs.google.com/presentation/d/1nnpPBiOLEWi81q8zrHoIWH4s3iQaKrCSaR68AafzQJo/edit#slide=id.p)

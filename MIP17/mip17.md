@@ -13,6 +13,8 @@ Date Proposed: 2020-07-02
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces:
+Ratification Poll URL: 
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 ```
 
 ## References
@@ -53,20 +55,20 @@ The purpose of this MIP is to introduce an initial version of secure Actual Debt
 
 ### MIP17c1: Definitions
 
-- **Risk Parameters:** Each type of collateral added to the Maker Protocol is associated with its own set of risk parameters, influenced by the collateral token's financial and technical characteristics. Risk parameters are calculated by a Risk Domain Team, typically using the collateral type's information provided by the collateral proposer (via a [MIP6 application](https://github.com/makerdao/mips/blob/master/MIP6/MIP6c2-Collateral-Application-Template.md)).
-- **Actual Debt Ceiling:** The Actual Debt Ceiling is the current Debt Ceiling set in the Maker Protocol. Note this is different from the Target Debt Ceiling and current existing system Debt.
-- **Target Debt Ceiling:** This is a risk parameter that is set by MIP12 subproposals, which regulates the adjustment of the Actual Debt Ceiling and the Actual Risk Premium in the Weekly Governance Cycle ([MIP16](https://github.com/makerdao/mips/tree/RFC/MIP16)).
-- **Current Debt:** The current outstanding Debt in the Maker Protocol (this is **not** the same as the Debt Ceiling).
-- **Actual Risk Premium:** The Actual Risk Premium is the Maker Protocol's current Risk Premium. It is adjusted based on the utilization of the collateral type and used to calculate the Stability Fees in the Maker Protocol. The Actual Risk Premium is the value that is added to the Base Rate to get the Stability Fee value.
-- **Target Risk Premium:** A risk parameter set by MIP12 subproposals which regulates the Actual Risk Premium's adjustment.
-- **Actual Debt Ceiling Adjustment:** An adjustment process to securely modify the Actual Debt Ceiling so that it minimizes the system's attack surface while still enabling growth and not frustrating users.
-- **Actual Risk Premium Adjustment:** The Actual Risk Premium calculation is based on the Target Debt Ceiling utilization.
+- **Risk Parameters:** Each type of collateral added to the Maker Protocol is associated with its own set of risk parameters, influenced by the collateral token's financial and technical characteristics. Risk parameters are calculated by a Risk Domain Team, typically using the collateral type's information provided by the collateral proposer (via a [MIP6 application](https://github.com/makerdao/mips/blob/master/MIP6/MIP6c2-Collateral-Application-Template.md)).
+- **Actual Debt Ceiling:** The Actual Debt Ceiling is the current Debt Ceiling set in the Maker Protocol. Note this is different from the Target Debt Ceiling and current existing system Debt.
+- **Target Debt Ceiling:** This is a risk parameter that is set by MIP12 subproposals, which regulates the adjustment of the Actual Debt Ceiling and the Actual Risk Premium in the Weekly Governance Cycle ([MIP16](https://github.com/makerdao/mips/tree/RFC/MIP16)).
+- **Current Debt:** The current outstanding Debt in the Maker Protocol (this is **not** the same as the Debt Ceiling).
+- **Actual Risk Premium:** The Actual Risk Premium is the Maker Protocol's current Risk Premium. It is adjusted based on the utilization of the collateral type and used to calculate the Stability Fees in the Maker Protocol. The Actual Risk Premium is the value that is added to the Base Rate to get the Stability Fee value.
+- **Target Risk Premium:** A risk parameter set by MIP12 subproposals which regulates the Actual Risk Premium's adjustment.
+- **Actual Debt Ceiling Adjustment:** An adjustment process to securely modify the Actual Debt Ceiling so that it minimizes the system's attack surface while still enabling growth and not frustrating users.
+- **Actual Risk Premium Adjustment:** The Actual Risk Premium calculation is based on the Target Debt Ceiling utilization.
 
 ---
 
 ### MIP17c2: Actual Debt Ceiling Adjustments
 
-The Actual Debt Ceiling Adjustment calculation logic is used to securely manage the free Debt Ceilings of collateral assets in the Protocol, except for those onboarded as non-standard assets (such as USDC-B). The adjustment process uses a parameter called the **Target Debt Ceiling** and introduces a weekly cadence for making changes to the **Actual Debt Ceiling**. When the calculation logic outputs an adjustment value of the Actual Debt Ceiling for one or more Collateral types, the changes are put up in a single (bundled) Weekly Cycle Poll on the Monday of the weekly cycle. Note that the Actual Debt Ceiling Adjustment will be calculated and proposed by a mandated governance domain actor. If the weekly poll passes successfully, the poll contents will be put up in an Executive Vote on the Friday of the same weekly cycle, according to the processes defined in [MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md). The Actual Debt Ceiling Adjustment calculation logic is further explained below.
+The Actual Debt Ceiling Adjustment calculation logic is used to securely manage the free Debt Ceilings of collateral assets in the Protocol, except for those onboarded as non-standard assets (such as USDC-B). The adjustment process uses a parameter called the **Target Debt Ceiling** and introduces a weekly cadence for making changes to the **Actual Debt Ceiling**. When the calculation logic outputs an adjustment value of the Actual Debt Ceiling for one or more Collateral types, the changes are put up in a single (bundled) Weekly Cycle Poll on the Monday of the weekly cycle. Note that the Actual Debt Ceiling Adjustment will be calculated and proposed by a mandated governance domain actor. If the weekly poll passes successfully, the poll contents will be put up in an Executive Vote on the Friday of the same weekly cycle, according to the processes defined in [MIP16](https://github.com/makerdao/mips/blob/RFC/MIP16/mip16.md). The Actual Debt Ceiling Adjustment calculation logic is further explained below.
 
 ### Calculation Logic
 
@@ -90,12 +92,12 @@ The Actual Debt Ceiling Adjustment calculation logic is used to securely manage 
 
 **Notes:**
 - The Actual Debt Ceiling can surpass the Target Debt Ceiling.
-- The Actual Debt Ceiling Adjustment calculation logic may be modified by using the subproposal process defined in **MIP17c3: Actual Debt Ceiling Modification Process.**
+- The Actual Debt Ceiling Adjustment calculation logic may be modified by using the subproposal process defined in **MIP17c3: Actual Debt Ceiling Modification Process.**
 
 ### Example Scenarios
 
-- **Example 1:** A collateral type has a Target Debt Ceiling of 150 million, an Actual Debt Ceiling of 80 million, and a current debt of 75 million. The next weekly poll would then propose to adjust the Actual Debt Ceiling to 97.5 million.
-- **Example 2:** A collateral type has a target debt ceiling of 200 million, an actual debt ceiling of 100 million, and the current debt of 65 million. The next weekly poll would then adjust the Actual Debt Ceiling to 95 million.
+- **Example 1:** A collateral type has a Target Debt Ceiling of 150 million, an Actual Debt Ceiling of 80 million, and a current debt of 75 million. The next weekly poll would then propose to adjust the Actual Debt Ceiling to 97.5 million.
+- **Example 2:** A collateral type has a target debt ceiling of 200 million, an actual debt ceiling of 100 million, and the current debt of 65 million. The next weekly poll would then adjust the Actual Debt Ceiling to 95 million.
 
 ---
 
@@ -108,11 +110,11 @@ MIP17c3 subproposals have the following parameters:
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
 
-MIP17c3 subproposals must use the template located at **[MIP17c3-Subproposal-Template.md](https://hackmd.io/@mips/MIP17c3/edit)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP17c3 subproposals must use the template located at **[MIP17c3-Subproposal-Template.md](https://hackmd.io/@mips/MIP17c3/edit)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---
 
-### MIP17c4: Actual Risk Premium Adjustments
+### MIP17c4: Actual Risk Premium Adjustments
 
 Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of collateral assets in the Maker protocol. It is calculated as a function of the Actual Debt Ceiling, the Target Debt Ceiling, and the Target Risk Premium. Any time there is a proposal to adjust the Actual Debt Ceiling of one or more collateral types, there will also be corresponding adjustments to the Actual Risk Premium of those collateral types. The Actual Risk Premium Adjustments will be calculated and then proposed in a Weekly Poll by a mandated governance domain actor. If the Weekly Poll passes, then the adjustments will be put up in an Executive Vote on the Friday of the week to determine if it should be officially implemented to the Maker Protocol.
 
@@ -187,7 +189,7 @@ Actual Risk Premium is the Risk Premium used to calculate the Stability Fee of c
 - ARP output is rounded to the nearest two decimals.
 
 ---
-### MIP17c5: Actual Risk Premium Calculation Logic Modification Process
+### MIP17c5: Actual Risk Premium Calculation Logic Modification Process
 
 MIP17c5 is a Process MIP component that allows community members and domain teams to modify the Actual Risk Premium calculation logic (formula).
 
@@ -196,6 +198,6 @@ MIP17c5 subproposals have the following parameters:
 - **Default Feedback Period**: 3 months
 - **Frozen Period**: 1 month
 
-MIP17c5 subproposals must use the template located at **[MIP17c5-Subproposal-Template.md](https://hackmd.io/@mips/MIP17c5/edit)**. This template is considered ratified once this MIP moves to Accepted status.
+MIP17c5 subproposals must use the template located at **[MIP17c5-Subproposal-Template.md](https://hackmd.io/@mips/MIP17c5/edit)**. This template is considered ratified once this MIP moves to Accepted status.
 
 ---

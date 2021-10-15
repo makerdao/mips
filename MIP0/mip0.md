@@ -14,6 +14,8 @@ Date Ratified: 2020-05-02
 Last Amended: 2021-04-29
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip0-the-maker-improvement-proposal-framework/1902
 ```
 
 ## References

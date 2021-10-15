@@ -13,7 +13,9 @@ Status: Accepted
 Date Proposed: 2020-09-07
 Date Ratified: 2020-11-24
 Dependencies:
-Replaces: MIP 5
+Replaces: MIP5
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-november-2020-governance-cycle-bundle-november-23-2020?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip24-emergency-voting-system-replaces-mip-5/4009
 ```
 
 ## References

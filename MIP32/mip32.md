@@ -1,6 +1,7 @@
 # MIP32: Peg Stability Module - Compound Mixed Exposure
 
 ## Preamble
+
 ```
 MIP#: 32
 Title: Peg Stability Module - Compound Mixed Exposure
@@ -13,7 +14,10 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies: PSM, Uniswap, Vat, Join Usdc-lendler, Join Dai-lendler 
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip32-peg-stability-module-compound-mixed-exposure/5684
 ```
+
 ## References
 
 * The proposed implementation : [dss-psm-cme](https://github.com/alexisgayte/dss-psm-cme)

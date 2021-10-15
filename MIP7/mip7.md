@@ -1,6 +1,7 @@
 # MIP7: Onboarding and Offboarding Domain Teams (Collateral Onboarding)
 
 ## Preamble
+
 ```
 MIP#: 7
 Title: Onboarding and Offboarding Domain Teams (Collateral Onboarding)
@@ -13,9 +14,12 @@ Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL: 
+Forum URL: https://forum.makerdao.com/t/mip7-onboarding-and-offboarding-domain-teams-for-collateral-onboarding/1909
 ```
 
 ## References
+
 **[MIP7c3-Subproposal-Template.md](MIP7c3-Subproposal-Template.md)**  
 **[MIP7c4-Subproposal-Template.md](MIP7c4-Subproposal-Template.md)**  
 

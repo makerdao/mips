@@ -1,6 +1,7 @@
 # MIP8: Domain Greenlight
 
 ## Preamble
+
 ```
 MIP#: 8
 Title: Domain Greenlight
@@ -14,9 +15,12 @@ Date Ratified: 2020-05-02
 Last Amended: 2020-06-25
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip8-domain-greenlight/1910
 ```
 
 ## References
+
 No referenced materials.
 
 ## Sentence Summary

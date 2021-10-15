@@ -1,6 +1,7 @@
 # MIP35: Peg Stability Module - Compound Mixed Exposure - With Farming
 
 ## Preamble
+
 ```
 MIP#: 35
 Title: Peg Stability Module - Compound Mixed Exposure - With Farming
@@ -13,7 +14,10 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies: PSM, Uniswap, Vat, Join Usdc-lendler, Join Dai-lendler 
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip35-peg-stability-module-compound-mixed-exposure-with-farming/6024
 ```
+
 ## References
 
 * The proposed implementation is part of the [dss-psm-cme](https://github.com/alexisgayte/dss-psm-cme) - Peg Stability Compound Mixed Exposure - project.

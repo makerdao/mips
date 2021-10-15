@@ -1,6 +1,7 @@
 # MIP15: Dark Spell Mechanism
 
 ## Preamble
+
 ```
 MIP#: 15
 Title: Dark Spell Mechanism
@@ -13,7 +14,10 @@ Date Proposed: 2020-05-21
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces:
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 ```
+
 ## References
 
 **[Dark Spell GitHub Repository](https://github.com/makerdao/dss-darkspell)**

@@ -1,6 +1,7 @@
 # MIP6: Collateral Onboarding Application
 
 ## Preamble
+
 ```
 MIP#: 6
 Title: Collateral Onboarding Application
@@ -14,9 +15,12 @@ Date Ratified: 2020-05-02
 Last Amended: 2020-06-25
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip6-collateral-onboarding-form-forum-template/1908
 ```
 
 ## References
+
 **[MIP6c2-Collateral-Application-Template.md](MIP6c2-Collateral-Application-Template.md)**
 **[MIP6c3-Subproposal-Template.md](MIP6c3-Subproposal-Template.md)**
 
