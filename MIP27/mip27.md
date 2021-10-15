@@ -17,6 +17,8 @@ Date Proposed: 2020-10-07
 Date Ratified: 2020-11-24
 Dependencies:
 Replaces: Weekly governance executive debt ceiling adjustments
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-november-2020-governance-cycle-bundle-november-23-2020?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627
 ```
 
 ## Sentence Summary

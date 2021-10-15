@@ -13,7 +13,9 @@ Status: Accepted
 Date Proposed: 2021-06-08
 Date Ratified: 2021-07-26
 Dependencies: n/a
-Replaces: n/a
+Replaces: n/a  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmStS4VH?network=mainnet  
+Forum URL: https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624
 ```
 
 ## Sentence Summary

@@ -15,6 +15,8 @@ Date Ratified: 2021-01-30
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-january-2021-governance-cycle-bundle-january-25-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip29-peg-stability-module/5071
 ```
 
 ## References

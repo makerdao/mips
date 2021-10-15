@@ -15,6 +15,8 @@ Date Ratified: 2020-05-02
 Last Amended: 2021-04-29
 Dependencies: MIP6
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip9-community-greenlight/1911
 ```
 
 ## References

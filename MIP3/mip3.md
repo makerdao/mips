@@ -1,6 +1,7 @@
 # MIP3: Governance Cycle
 
 ## Preamble
+
 ```
 MIP#: 3
 Title: Governance Cycle
@@ -13,9 +14,12 @@ Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip3-governance-cycle/1905
 ```
 
 ## References
+
 **[MIP3c2-Subproposal-Template.md](MIP3c2-Subproposal-Template.md)**
 
 ## Sentence Summary

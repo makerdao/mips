@@ -1,6 +1,7 @@
 # MIP22: Centrifuge Direct Liquidation Module
 
 ## Preamble
+
 ```
 MIP#: 22
 Title: Centrifuge Direct Liquidation Module
@@ -14,7 +15,8 @@ Date Ratified: 2020-10-27
 Dependencies: none
 Replaces: none
 Licenses: AGPL
-
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-october-2020-governance-cycle-bundle-october-26-2020?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip22-centrifuge-direct-liquidation-module/3930
 ```
 
 ## References

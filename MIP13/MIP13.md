@@ -1,6 +1,7 @@
 # MIP13: Declarations of Intent
 
 ## Preamble
+
 ```
 MIP#: 13
 Title: Declarations of Intent
@@ -13,8 +14,12 @@ Date Proposed: 2020-05-12
 Date Ratified: 2020-06-25
 Dependencies: MIP0
 Replaces: n/a
+Ratification Poll URL: https://vote.makerdao.com/executive/monthly-mips-official-ratification?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 ```
+
 ## References
+
 **[MIP13c3-Subproposal-Template.md](MIP13c3-Subproposal-Template.md)**
 **[MIP13c4-Subproposal-Template.md](MIP13c4-Subproposal-Template.md)**
 

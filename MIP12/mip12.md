@@ -1,6 +1,7 @@
 # MIP12: Collateral and Risk Parameter Management
 
 ## Preamble
+
 ```
 MIP#: 12
 Title: Collateral and Risk Parameter Management
@@ -13,9 +14,12 @@ Date Ratified: 2020-05-02
 Last Amended: 2020-06-25
 Dependencies: MIP0, MIP7, MIP51
 Replaces: n/a
-```  
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
+``` 
 
 ## References
+
 **[MIP12c2-Subproposal-Template.md](MIP12c2-Subproposal-Template.md)**
 
 ## Sentence Summary

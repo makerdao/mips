@@ -1,6 +1,7 @@
 # MIP51: Monthly Governance Cycle
 
-## Preamble
+## Preamble  
+
 ```
 MIP#: 51
 Title: Monthly Governance Cycle
@@ -13,9 +14,12 @@ Date Proposed: 2021-04-07
 Date Ratified: 2021-05-25
 Dependencies: MIP0, MIP16
 Replaces: MIP3
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip51-monthly-governance-cycle/7366
 ```
 
-## References
+## References  
+
 N/A
 
 ## Sentence Summary

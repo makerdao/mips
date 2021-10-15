@@ -13,7 +13,9 @@ Status: Accepted
 Date Proposed: 2021-05-04
 Date Ratified: 2021-07-26
 Dependencies: MIP3c1
-Replaces: n/a
+Replaces: n/a  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSUYRFT?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip52-dispute-resolution
 ```
 
 ## Sentence Summary

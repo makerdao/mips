@@ -14,7 +14,9 @@ Date Proposed: 2021-08-26
 Date Ratified: n/a
 Dependencies: n/a
 Replaces: n/a
-License: AGPL3+
+License: AGPL3+  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmNVWmdU?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip59-dsscharter/10028
 ```
 
 ## References

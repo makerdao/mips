@@ -13,6 +13,8 @@ Date Proposed: 2021-01-18
 Date Ratified: 2021-25-03
 Dependencies: MIP38, MIP39, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip40-budget-framework/6097
 ```
 
 ## References

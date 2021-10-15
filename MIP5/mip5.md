@@ -1,6 +1,7 @@
 # MIP5: Emergency Voting System
 
 ## Preamble
+
 ```
 MIP#: 5
 Title: Emergency Voting System
@@ -14,9 +15,12 @@ Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
 Replaced by: MIP24
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip5-emergency-voting-system/1907
 ```
 
 ## References
+
 No referenced materials.
 
 ## Sentence Summary

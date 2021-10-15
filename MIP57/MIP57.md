@@ -13,7 +13,9 @@ Status: RFC
 Date Proposed: 2021-07-09
 Date Ratified: n/a
 Dependencies: n/a
-Replaces: n/a
+Replaces: n/a  
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip57-rwa-committee/9304
 ```
 
 ## Sentence Summary

@@ -1,6 +1,7 @@
 # MIP11: Collateral Onboarding General Risk Model Management
 
 ## Preamble
+
 ```
 MIP#: 11
 Title: Collateral Onboarding General Risk Model Management
@@ -12,9 +13,12 @@ Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: MIP0, MIP7, MIP51
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 ```
 
 ## References
+
 **[MIP11c3-Subproposal-Template.md](MIP11c3-Subproposal-Template.md)**
 **[MIP11c4-Subproposal-Template.md](MIP11c4-Subproposal-Template.md)**
 

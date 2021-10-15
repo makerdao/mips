@@ -15,9 +15,12 @@ Date Ratified: 2021-25-03
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip43-term-lending-module-tlm/6153
 ```
 
 ## Disclosure
+
 This MIP proposes an integration with Yield Protocol. Authors Allan and Alberto are employees of Yield, Inc. a company working to build Yield Protocol. Lev is an advisor to Yield, Inc.
 
 ## References

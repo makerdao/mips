@@ -1,6 +1,7 @@
 # MIP2: Launch Period
 
 ## Preamble
+
 ```
 MIP#: 2
 Title: Launch Period
@@ -13,9 +14,12 @@ Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: MIP0, MIP1
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip2-launch-period/1904
 ```
 
 ## References
+
 No referenced materials.
 
 ## Sentence Summary

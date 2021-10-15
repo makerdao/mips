@@ -14,7 +14,9 @@ Date Proposed: 2021-04-07
 Date Ratified: n/a
 Dependencies: n/a
 Replaces: n/a
-License: AGPL3+
+License: AGPL3+  
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail  
+Forum URL: https://forum.makerdao.com/t/mip50-direct-deposit-module/7356
 ```
 
 ## References

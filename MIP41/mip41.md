@@ -1,6 +1,7 @@
 # MIP41: Facilitator Framework
 
 ## Preamble
+
 ```
 MIP#: 41
 Title: Facilitator Framework
@@ -13,6 +14,8 @@ Date Proposed: 2021-01-18
 Date Ratified: 2021-25-03
 Dependencies: MIP38, MIP39, MIP40, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip41-facilitator-framework/6098
 ```
 
 ## References

@@ -1,6 +1,7 @@
 # MIP10: Oracle Management
 
 ## Preamble
+
 ```
 MIP#: 10
 Title: Oracle Management
@@ -12,9 +13,12 @@ Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 ```
 
 ## References
+
 **[MIP10c2-Subproposal-Template.md](MIP10c2-Subproposal-Template.md)**
 **[MIP10c3-Subproposal-Template.md](MIP10c3-Subproposal-Template.md)**
 **[MIP10c4-Subproposal-Template.md](MIP10c4-Subproposal-Template.md)**

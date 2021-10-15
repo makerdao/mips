@@ -14,6 +14,8 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies:  keg module
 Replaces: n/a
 License: AGPL3+
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip31-active-reserve-via-amm/5639
 ```
 
 ## References

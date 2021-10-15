@@ -13,7 +13,11 @@ Date Proposed: <2021-01-20>
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip42-proposed-compensation-addendum-for-makerdao-contributors/6138
 ```
+  
+
 ## Sentence Summary
 
 MIP42: Proposes to pay contributors partially in time-locked MKR to increase value returned to contributors and directly align their interests with those of MakerDAO.

@@ -1,6 +1,7 @@
 # MIP56: Alternative MKR Compensation Guidelines
 
-## Preamble
+## Preamble  
+
 ```
 MIP#:56
 Title: Alternative MKR Compensation Guidelines
@@ -12,7 +13,9 @@ Status: RFC
 Date Proposed: 2021-07-07
 Date Ratified: TBA
 Dependencies: n/a
-Replaces: n/a
+Replaces: n/a  
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230
 ```
 
 ## References

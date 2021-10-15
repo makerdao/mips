@@ -11,9 +11,11 @@ Tags:
 Type: General
 Status: Withdrawn
 Date Proposed: 2021-11-05
-Date Ratified: TBA
+Date Ratified: 
 Dependencies:
-Replaces:
+Replaces:  
+Ratification Poll URL:  
+Forum URL: https://forum.makerdao.com/t/mip53-the-mkr-compensation-guidelines/8012  
 ```
 
 ## References

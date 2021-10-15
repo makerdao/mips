@@ -1,6 +1,7 @@
 # MIP23: Domain Structure and Roles
 
 ## Preamble
+
 ```
 MIP#: 23
 Title: Domain Structure and Roles
@@ -12,10 +13,13 @@ Status: Accepted
 Date Proposed: 2020/09/07
 Date Ratified: 2020/10/27
 Dependencies: n/a
-Replaces: n/a
+Replaces: n/a  
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-october-2020-governance-cycle-bundle-october-26-2020?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip23-domain-structure-and-roles/4021
 ```
 
 ## References
+
 **[MIP23c4-Domain-Definition-Template](MIP23c4-Domain-Definition-Template.md)**
 **[MIP23c4-Domain-Offboarding-Template](MIP23c4-Domain-Offboarding-Template.md)**
 **[MIP23c4-Domain-Onboarding-Template](MIP23c4-Domain-Onboarding-Template.md)**

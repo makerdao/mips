@@ -1,6 +1,7 @@
 # MIP36: Peg Stability - Compound Governance Dai Leverage
 
-## Preamble
+## Preamble  
+
 ```
 MIP#: 36
 Title: Peg Stability - Compound Governance Dai Leverage
@@ -13,7 +14,10 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies: Join Dai-farming, Join Dai-lendler 
 Replaces: n/a
 License: AGPL3+
-```
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip36-peg-stability-compound-governance-dai-leverage/6029
+``` 
+
 ## References
 
 * The proposed implementation is part of the [dss-psm-cme](https://github.com/alexisgayte/dss-psm-cme) - Peg Stability Compound Mixed Exposure - project.

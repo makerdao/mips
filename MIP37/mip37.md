@@ -11,6 +11,8 @@ Status: Withdrawn
 Date Proposed: 2021-01-15
 Dependencies: None
 Replaces: Nothing
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip37-static-reserve-for-governance/6067
 ```
 
 ## Sentence Summary
