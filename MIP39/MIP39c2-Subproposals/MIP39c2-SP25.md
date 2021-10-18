@@ -18,6 +18,10 @@ MIP39c2-SP25 adds SAS-001: Sidestream Auction Services Core Unit.
 
 ## Specification
 
+### Motivation
+
+Liquidations and auctions are important security mechanisms to keep the Maker protocol free of debt. A healthy auction ecosystem helps to operate the protocol sustainably and therefore increases trust. Besides, a healthy auction ecosystem helps with better outcomes for vault owners in cases of liquidations, which can increase user satisfaction. These factors are the motivation for having a dedicated Auction Services Core Unit.
+
 ### Core Unit ID
 
 SAS-001
