@@ -13,6 +13,8 @@ Date Ratified:
 Purpose : Funding request
 Amount Requested: DAI 45,154
 Recipient Address: "0x44d2509074993b858c54B6d276ebD3816FC93A68"
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp1-adding-special-purpose-fund-for-feasibility-study-for-securitisation-framework-in-singapore/10493
 ```
 
 ## Sentence Summary

@@ -10,6 +10,8 @@ Tags: core-unit, cu-mkt-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-03-03
 Date Ratified: 2021-04-27
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-april-2021-governance-cycle-april-26-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp5-facilitator-onboarding-mkt-001/6825
 ```
 
 ## Sentence Summary
