@@ -1,0 +1,44 @@
+strings:
+  - $learn: Learn
+  - $portaldoc: The MIPs Portal
+  - $primer: Primer for Authors
+  - $mip0: The MIPs Frameworkd
+  - $mip51: Monthly Governance Cycle
+  - $views: Views
+  - $status: Status
+  - $rfc: RFC
+  - $fs: Formal Submission
+  - $accepted: Accepted
+  - $obsolete: Obsolete
+  - $rejected: Rejected
+  - $withdrawn: Withdrawn
+  - $coreunits: Core Units
+  - $allcus: All (MIP38c2)
+  - $activebudgets: Active Budgets
+  - $spsinforce: Subproposals in Force
+  - $archive: Archive
+  - $living: Living MIPs
+  - $technical: Technical
+  - $implemented: Implemented
+  - $pending: Pending Implementation
+  - $process: Processes
+  - $contact: Get in Touch
+  - $forum: Forum
+  - $chat: Chat
+reserved:
+  - Preamble: Preamble
+  - 'MIP#': 'MIP#'
+  - Title: Title
+  - Author(s): Author(s)
+  - Contributors: Contributors
+  - Type: Type
+  - Status: Status
+  - Date Proposed: Date Proposed
+  - Date Ratified: Date Ratified
+  - Last Amended: Last Amended
+  - Dependencies: Dependencies
+  - Replaces: Replaces
+  - References: References
+  - Sentence Summary: Sentence Summary
+  - Paragraph Summary: Paragraph Summary
+  - Component Summary: Component Summary
