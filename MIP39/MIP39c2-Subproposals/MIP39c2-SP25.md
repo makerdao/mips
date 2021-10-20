@@ -57,7 +57,7 @@ The following describes a selection of anticipated challenges. Afterwards, we di
 
 ##### Anticipated Challenges
 
-![|624x369](upload://utVkmvOBIvBRgY4H37XKUHwe1UR.jpeg)
+![Anticipated Challenges](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP25/anticipated_challenges.png)
 
 *1. Fail-Safety*
 
@@ -188,8 +188,3 @@ Next to the user interfaces, we are planning to take over, maintain and run all 
 **Support New Protocol Upgrades**
 
 We will adjust auction services to follow protocol engineering’s efforts to scale the reach of Maker. For example, this includes onboarding new collateral type and extension to L2s in the future.
-
-### Links
-
-* [CU Website](https://lp.sidestream.tech/maker-dao)
-* [CU Presentation](https://drive.google.com/file/d/10pXyaqRmsUW0tT9J9RXETEmSrATnpl-p/view?usp=sharing)
