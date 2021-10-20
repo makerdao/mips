@@ -10,6 +10,8 @@ Tags: core-unit, cu-cpm-001, mandate
 Status: Rejected
 Date Applied: 2021-06-8
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmbWeLjJ?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp14-add-strategic-marcomms-core-unit/8617
 ```
 
 ## Sentence Summary

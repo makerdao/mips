@@ -9,7 +9,8 @@ Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana,
 Tags: core-unit, cu-sas-001, budget, dai-budget
 Status: RFC
 Date Applied: <2021-10-06>
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>  
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799/2
 ```
 
 ## Sentence Summary

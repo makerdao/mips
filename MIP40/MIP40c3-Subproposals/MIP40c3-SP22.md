@@ -9,7 +9,8 @@ Contributors: N/A
 Tags: core-unit, cu-mpcu-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-06-28
-Date Ratified: 
+Date Ratified:   
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp22-modify-maker-portfolio-core-unit-budget/8998/3
 ```
 
 ## Sentence Summary

@@ -10,6 +10,8 @@ Tags: core-unit, cu-sh-001, mandate, active
 Status: Accepted
 Date Applied: 2021-05-11
 Date Ratified: 2021-09-27
+Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp11-strategic-happiness-core-unit/8006
 ```
 
 ## Sentence Summary

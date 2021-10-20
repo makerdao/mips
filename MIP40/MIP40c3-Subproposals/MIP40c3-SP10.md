@@ -10,6 +10,8 @@ Tags: core-unit, cu-ses-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-04-07
 Date Ratified: 2021-05-25
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369
 ```
 
 ## Sentence Summary

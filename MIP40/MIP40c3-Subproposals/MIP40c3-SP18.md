@@ -10,6 +10,8 @@ tags: core-unit, cu-cpm-001, budget, dai-budget
 Status: Rejected
 Date Applied: 2021-06-08
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmbWeLjJ?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip40c2-sp18-add-core-unit-budget-cpm-001/8618
 ```  
 
 ## Sentence Summary

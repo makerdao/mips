@@ -10,6 +10,8 @@ Tags: core-unit, cu-dux-001, mandate, active
 Status: Accepted
 Date Applied: 2021-08-11
 Date Ratified: 2021-09-27
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp18-adding-development-ux-core-unit-dux-001/9770
 ```
 
 ## Sentence Summary

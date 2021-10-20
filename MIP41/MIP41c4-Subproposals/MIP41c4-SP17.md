@@ -10,6 +10,7 @@ Tags: core-unit, cu-mpcu-001, mandate
 Status: RFC
 Date Applied: 2021-06-28
 Date Ratified:
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp17-facilitator-onboarding-maker-portfolio-core-unit/8997/5
 ```
 
 ## Sentence Summary

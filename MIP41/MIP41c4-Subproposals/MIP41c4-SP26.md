@@ -9,7 +9,8 @@ Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana,
 Tags: core-unit, cu-sas-001, facilitator
 Status: RFC
 Date Applied: <2021-10-06>
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>  
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp26-sidestream-auction-services-facilitator-onboarding-sas-001/10797/2
 ```  
 
 ## Sentence Summary

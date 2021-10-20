@@ -10,6 +10,8 @@ Tags: core-unit, cu-ses-001, active, mandate
 Status: Accepted
 Date Applied: 2021-04-07
 Date Ratified: 2021-05-25
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368
 ```
 
 ## Sentence Summary

@@ -9,7 +9,9 @@ Contributors:
 Tags: core-unit, cu-skunk-001, facilitator
 Status: Formal Submission
 Date Applied: 2021-09-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmV44i6E?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp22-facilitator-onboarding-makerlabs/10109
 ```
 
 ## Sentence Summary

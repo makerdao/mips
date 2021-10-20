@@ -10,6 +10,8 @@ Tags: core-unit, cu-ora-001, budget, dai-budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-05-12
 Date Ratified: 2021-06-28
+Ratification Poll URL: https://vote.makerdao.com/polling/QmNRGQwN?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp15-modify-oracles-core-unit-budget/8047
 ```
 
 ## Sentence Summary
