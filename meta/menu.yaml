@@ -48,7 +48,8 @@ data:
               https://mips.makerdao.com/mips/details/MIP38#mip38c2-core-unit-state
           - id: activebudgets
             name: $activebudgets
-            href: https://mips.makerdao.com/mips/list?customViewName=Active%20Budgets&_DAI%20Budgets=$AND(%23active,%23dai-budget)&_MKR%20Budgets=$AND(%23active,%23mkr-budget)
+            href: >-
+              https://mips.makerdao.com/mips/list?customViewName=Active%20Budgets&_DAI%20Budgets=$AND(%23active,%23dai-budget)&_MKR%20Budgets=$AND(%23active,%23mkr-budget)
           - id: ces-001
             name: 'CES-001: Collateral Engineering'
             children:
