@@ -14,11 +14,11 @@ Date Ratified: n/a
 
 ## Sentence Summary
 
-MIP40c3-SP39 extends the budget for the Real-World Finance Core Unit defined in [MIP40c3-SP12](https://forum.makerdao.com/t/mip40c3-sp12-modify-core-unit-budget-rwf-001/7985) in 2022.
+MIP40c3-SP39 extends the budget for the Real-World Finance Core Unit defined in [MIP40c3-SP12](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP12.md5) in 2022.
 
 ## Paragraph Summary
 
-With [MIP40c3-SP12](https://forum.makerdao.com/t/mip40c3-sp12-modify-core-unit-budget-rwf-001/7985) the Real-World Finance team was able to expand the team, sustain legal costs related to RWA, onboard more RWA and develop FP&A. This new budget extends the previous one in 2022.
+With [MIP40c3-SP12](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP12.md) the Real-World Finance team was able to expand the team, sustain legal costs related to RWA, onboard more RWA and develop FP&A. This new budget extends the previous one in 2022.
 
 ## Specification
 
@@ -27,9 +27,9 @@ With [MIP40c3-SP12](https://forum.makerdao.com/t/mip40c3-sp12-modify-core-unit-b
 * Continue the Real-World Finance Core Unit efforts. Our current budget is [MIP40c3-SP12](https://forum.makerdao.com/t/mip40c3-sp12-modify-core-unit-budget-rwf-001/7985) which ends in December.
 * The RWF CU mandate is "to bring real-world finance concepts to MakerDAO" following MakerDAO needs. Currently, the priority is put on RWA. 2022 should see the transition from the experimentation/learning phase to the production/scaling phase.
 
-## Core Unit Name
+## Core Unit ID
 
-* Real-World Finance
+* RWF-001 (Real-World Finance)
 
 ## List of Budget Implementations
 
@@ -67,11 +67,11 @@ While the team expanded (~4.5 FTE) we are not yet at the target (7 FTE). The tar
 
 The grants are used for community contributors/experts. MakerDAO being community-driven, we intend to continue to leverage and involve our amazing community.
 
-### Legal consultations
+### Legal Consultations
 
 We have onboarded law firms (Ogier, Shearman & Sterling, Lathan & Watkins) to help us audit the RWA structures and guide us through legal solutions/issues. So far costs are below budget but this isn't expected to continue.
 
-### Real-world structures
+### Real-World Structures
 
 Following the trust model for RWA, we are working on legal entities for MakerDAO RWA. We are financing the newly created RWA Foundation (until it gets financed by underlying investments or other parts of MakerDAO). This is a yearly cost of ~50k DAI.
 
@@ -87,4 +87,4 @@ Extra safety in case we forgot something unexpected and for stuff like gas, SaaS
 
 ## MKR compensation
 
-For reference, MKR compensation was proposed [here](https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447)
+For reference, MKR compensation was proposed [here](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP38.md)
