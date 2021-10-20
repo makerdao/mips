@@ -6,7 +6,7 @@
 MIP40c3-SP#: 42
 Author(s): @travinimmunefi
 Contributors: @psychonaut
-Tags: core-unit, cu-si-001, budget, dai-budget
+Tags: core-unit, cu-is-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-10-06
 Date Ratified: <yyyy-mm-dd>  
