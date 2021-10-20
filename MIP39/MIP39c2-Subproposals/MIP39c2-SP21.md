@@ -9,7 +9,9 @@ Contributors: -
 Tags: core-unit, cu-skunk-001, mandate
 Status: Formal Submission
 Date Applied: 2021-07-19
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmV44i6E?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp21-adding-makerlabs-core-unit/9425
 ```
 
 ## Sentence Summary

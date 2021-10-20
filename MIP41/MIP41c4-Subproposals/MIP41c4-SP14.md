@@ -10,6 +10,8 @@ Tags: core-unit, cu-ces-001, facilitator
 Status: Rejected
 Date Applied: 2021-05-12
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZG3pPe?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp14-facilitator-onboarding-collateral-engineering-services-core-unit/8039
 ```
 
 ## Sentence Summary

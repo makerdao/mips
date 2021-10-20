@@ -9,7 +9,9 @@ Contributors: Jerry Goldfarb, Tom DeMichele
 Tags: core-unit, cu-mkt-001, active, mandate
 Status: Accepted
 Date Applied: 2021-03-03
-Date Ratified: 2021-04-27
+Date Ratified: 2021-04-27  
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp5-content-production-core-unit-mkt-001/6823
 ```
 
 ## Sentence Summary

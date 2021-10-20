@@ -9,7 +9,9 @@ Contributors: Sahabia Yakubu, Kaori Sato, Francesco Alberti, Nathan Kim
 Tags: core-unit, cu-cpm-001, mandate
 Status: Rejected
 Date Applied: 2021-03-25
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmT8hdMX?network=mainnet
+Forum URL: https://forum.makerdao.com/search?q=mip39c2-sp9
 ```
 
 ## Sentence Summary

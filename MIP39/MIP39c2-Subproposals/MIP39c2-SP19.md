@@ -10,6 +10,8 @@ Tags: core-unit, cu-sne-001, mandate, active
 Status: Accepted
 Date Applied: 2021-08-09
 Date Ratified: 2021-09-27
+Ratification Poll URL: https://vote.makerdao.com/polling/QmesWgnC?network=mainnet  
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp19-adding-the-starknet-engineering-core-unit-sne-001/9745
 ```
 
 ## Sentence Summary

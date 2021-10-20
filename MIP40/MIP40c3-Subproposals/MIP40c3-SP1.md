@@ -10,6 +10,8 @@ Tags: core-unit, cu-rwf-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp1-modify-core-unit-budget-real-world-finance/6225
 ```
 
 ## Sentence Summary

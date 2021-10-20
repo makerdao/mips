@@ -10,6 +10,8 @@ Tags: dai-foundation, core-unit, cu-daif-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-07-07
 Date Ratified: 2021-08-23
+Ratification Poll URL: https://vote.makerdao.com/polling/QmVZ2rcG?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp18-facilitator-onboarding-for-the-dai-foundation-core-unit/9236
 ```
 
 ## Sentence Summary

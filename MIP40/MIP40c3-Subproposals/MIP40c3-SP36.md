@@ -9,8 +9,9 @@ Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, cu-deco-001, budget, mkr-budget
 Status: Formal Submission
 Date proposed: 2021-09-08
-Date Ratified: <yyyy-mm-dd>
-
+Date Ratified: <yyyy-mm-dd>  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZyjR4t?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp36-deco-fixed-rate-core-unit-mkr-budget/10226
 ```
 
 ## Sentence Summary

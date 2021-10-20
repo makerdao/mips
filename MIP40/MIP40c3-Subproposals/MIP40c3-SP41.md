@@ -10,6 +10,7 @@ Tags: core-unit, cu-is-001, budget, mkr-budget
 Status:RFC
 Date Applied: 2021-10-06
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/2
 ```
 
 ## Sentence Summary

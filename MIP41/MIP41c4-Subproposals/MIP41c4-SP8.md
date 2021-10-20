@@ -10,6 +10,8 @@ Tags: core-unit, cu-com-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-03-12
 Date Ratified: 2021-07-26
+Ratification Poll URL: https://vote.makerdao.com/polling/QmcZSQnc?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp8-facilitator-onboarding-com-001/7011
 ```
 
 ## Sentence Summary

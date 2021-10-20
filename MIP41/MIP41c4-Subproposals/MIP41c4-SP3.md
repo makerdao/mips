@@ -10,6 +10,8 @@ Tags: core-unit, cu-gov-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-02-03
 Date Ratified: 2021-25-03
+Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp3-core-unit-facilitator-onboarding/6350
 ```
 
 ## Sentence Summary

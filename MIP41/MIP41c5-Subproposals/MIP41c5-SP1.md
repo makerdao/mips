@@ -10,6 +10,7 @@ Tags:
 Status: Accepted
 Date Applied: 2021-05-27
 Date Ratified: N/A
+Forum URL: https://forum.makerdao.com/t/mip41c5-sp1-facilitator-offboarding-amy-jung/8383
 ```
 
 ## Sentence Summary

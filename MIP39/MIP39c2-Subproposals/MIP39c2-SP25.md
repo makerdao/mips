@@ -10,6 +10,7 @@ Tags: core-unit, cu-sas-001, mandate
 Status: RFC
 Date Applied: <2021-10-06>
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp25-adding-sidestream-auction-services-core-unit-sas-001/10796/10
 ```
 
 ## Sentence Summary

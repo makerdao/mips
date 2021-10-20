@@ -7,7 +7,9 @@ Contributors:
 Tags: core-unit, cu-skunk-001, budget, dai-budget, mkr-budget
 Status: Formal Submission
 Date Applied: 2021-09-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>  
+Ratification Poll URL: https://vote.makerdao.com/polling/QmV44i6E?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp32-adding-makerlabs-core-unit-budget/10108
 ```
 
 ## Sentence Summary
