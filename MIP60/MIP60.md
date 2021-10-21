@@ -10,7 +10,7 @@ Contributors: Seth Goldfarb (@seth)
 Tags: process, living
 Type: Process
 Status: RFC
-Date Proposed: <yyyy-mm-dd>
+Date Proposed: 2021-09-14
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP24, MIP41
 Replaces: N/A  
