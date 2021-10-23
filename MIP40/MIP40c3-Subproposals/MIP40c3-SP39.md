@@ -10,6 +10,8 @@ Tags: core-unit, cu-rwf-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-09-29
 Date Ratified: n/a
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp39-modify-core-unit-budget-rwf-001/10543
 ````
 
 ## Sentence Summary

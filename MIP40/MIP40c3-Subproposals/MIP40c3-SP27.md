@@ -1,4 +1,4 @@
- 
+
 # MIP40c3-SP27: Development & UX Core Unit MKR Budget - DUX-001
 
 ## Preamble
@@ -11,6 +11,8 @@ Tags: core-unit, cu-dux-001, budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-08-11
 Date Ratified: 2021-09-27
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp27-development-ux-core-unit-mkr-budget-dux-001/9777
 ```
 
 ## Sentence Summary
