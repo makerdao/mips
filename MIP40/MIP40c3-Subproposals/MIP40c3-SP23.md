@@ -10,6 +10,8 @@ tags: core-unit, cu-gro-001, budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-07-07
 Date Ratified: 2021-08-23
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSAsT8S?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp23-growth-core-unit-mkr-budget-gro-001/9245
 ```
 
 ## Sentence Summary

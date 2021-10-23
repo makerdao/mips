@@ -10,8 +10,10 @@ Tags: core-unit, cu-rwf-001, budget, mkr-budget
 Status: RFC
 Date Applied: 2021-09-22
 Date Ratified: /
+Ratification Poll URL:
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447
 ```
-  
+
 ## Sentence Summary
 
 MIP40c3-SP38 adds the MKR Compensation budget for Core Unit RWF-001: Real-World Finance.

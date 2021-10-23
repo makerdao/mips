@@ -10,6 +10,8 @@ Tags: core-unit, cu-risk-001, budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2021-08-11
 Date Ratified: 2021-09-27
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUAXKm4?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp25-risk-core-unit-mkr-compensation-risk-001/9788
 ```
 ## Sentence Summary
 

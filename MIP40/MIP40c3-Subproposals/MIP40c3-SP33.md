@@ -1,5 +1,5 @@
 # MIP40c3-SP33: Modify Core Unit Budget - Content Production (MKT-001)
- 
+
 ## Preamble
 
 ```
@@ -10,6 +10,8 @@ Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: Formal Submission
 Date Applied: 2021-09-03
 Date Ratified:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWn7G3Q?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp33-modify-core-unit-budget-mkt-001/10150
 ```
 
 ## Sentence Summary
