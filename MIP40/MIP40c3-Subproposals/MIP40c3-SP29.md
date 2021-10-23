@@ -17,7 +17,7 @@ Date Ratified: 2021-09-27
 MIP40c3-SP29 adds the budget for Core Unit GOV-001: GovAlpha for October 2021 through March 2022.
 
 ## Paragraph Summary
-MIP40c3-SPX adds the budget for Core Unit GOV-001: GovAlpha for October 2021 through March 2022. We are requesting a 6-month budget allocation of 538,400 DAI or 89,733.33 DAI streamed per month.
+MIP40c3-SP29 adds the budget for Core Unit GOV-001: GovAlpha for October 2021 through March 2022. We are requesting a 6-month budget allocation of 538,400 DAI or 89,733.33 DAI streamed per month.
 
 ### Motivation
 
