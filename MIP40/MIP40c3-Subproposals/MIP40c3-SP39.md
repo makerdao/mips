@@ -36,9 +36,7 @@ With [MIP40c3-SP12](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-S
 ## List of Budget Implementations
 
 * This budget implementation uses the DssVest. This can be changed if needed to any method achieving similar objectives.
-* This budget will be in place from January 2022 to December 2022 included
-* Dai per month: 155,000
-* The destination wallet is: 0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09 [RWF Core Unit Multisig](https://forum.makerdao.com/t/mip40c1-adding-rwf-core-unit-multisig/7476)
+* A total of 1,860,000 Dai will be streamed to 0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09 ([RWF Core Unit Multisig](https://forum.makerdao.com/t/mip40c1-adding-rwf-core-unit-multisig/7476)) starting 2022-01-01 and ending 2022-12-31 at a rate of 155,000 Dai per month
 
 ## List of Budget Breakdowns
 
