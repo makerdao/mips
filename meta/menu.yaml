@@ -71,6 +71,13 @@ data:
                 name: $spsinforce
                 href: >-
                   https://mips.makerdao.com/mips/list?customViewName=Dai%20Foundation%20Core%20Unit%20(DAIF-001)%20-%20Subproposals%20in%20Force&_Mandate=$AND(%23active,%23cu-daif-001,%23mandate)&_Budgets=$AND(%23active,%23cu-daif-001,%23budget)&_Facilitators=$AND(%23active,%23cu-daif-001,%23facilitator)
+          - id: daif-001
+            name: 'DIN-001: Data Insights'
+            children:
+              - id: din-001-active
+                name: $spsinforce
+                href: >-
+                  https://mips.makerdao.com/mips/list?customViewName=Data%20Insights%20Core%20Unit%20(DIN-001)%20-%20Subproposals%20in%20Force&_Mandate=$AND(%23active,%23cu-din-001,%23mandate)&_Budgets=$AND(%23active,%23cu-din-001,%23budget)&_Facilitators=$AND(%23active,%23cu-din-001,%23facilitator)
           - id: dux-001
             name: 'DUX-001: Development and UX'
             children:
