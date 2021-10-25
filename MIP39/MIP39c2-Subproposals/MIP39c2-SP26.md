@@ -2,7 +2,6 @@
 
 ## Preamble
 
-
 ```
 MIP39c2-SP#: 26
 Author(s): Akiva Dubrofsky, Avtar Singh Sehra, Ashwin Tumne
