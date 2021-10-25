@@ -9,9 +9,9 @@ Author(s): Tal Baneth (@talbaneth)
 Contributors: Sam MacPherson (@hexonaut), Derek Flossman (@Derek) 
 Tags: technical, module, smart-contracts
 Type: Technical
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-08-26
-Date Ratified: n/a
+Date Ratified: 2021-10-25
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+  

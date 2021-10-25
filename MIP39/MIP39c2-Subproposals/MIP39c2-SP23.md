@@ -7,9 +7,9 @@ MIP39c2-SP#: 23
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, fixed-rate, cu-deco-001, mandate
-Status: Formal Submission
+Status: Rejected
 Date proposed: 2021-09-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZyjR4t?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp23-adding-the-deco-fixed-rate-core-unit/10224
 ```
