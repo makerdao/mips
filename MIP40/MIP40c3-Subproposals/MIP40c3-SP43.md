@@ -45,7 +45,7 @@ Based on the nature of the work done by the Sidestream Auction Services Core Uni
 
 * SAS-001
 
-## List of Budget Implementations
+### List of Budget Implementations
 
 The detailed budget implementation will be added shortly.
 
@@ -79,7 +79,7 @@ The budget cap differs from the actual expenses of the core unit. The cap refers
 |**Total**|$81,912.50|$245,737.50|
 |**Contentigency Buffer (15%)**|$94,199.38|$282,598.13|
 
-### Budget Details
+#### Budget Details
 
 Providing additional detail regarding the above line items:
 
