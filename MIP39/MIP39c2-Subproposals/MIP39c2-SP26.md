@@ -23,21 +23,23 @@ The Pairwyse Foundation has deployed smart contracts and off-chain technology se
 
 ![](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP26/flowchart.png)
 
-## Motivation
+## Specification / Proposal Details
 
-### Pairwyse: Problem and Solution
+### Motivation
+
+#### Pairwyse: Problem and Solution
 
 The Pairwyse protocol specifically solves the [impossible trinity ](https://en.wikipedia.org/wiki/Impossible_trinity)for MakerDAO by creating a fixed-rate marketplace for borrowers and lenders without restricting Maker’s ability to use floating rates and market-driven capital flows to maintain the DAI peg and grow its supply.
 
 ![](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP26/trinity.png)
 
-### How Pairwyse Solves This
+#### How Pairwyse Solves This
 
 Pairwyse smart contracts directly address the asset-liability mismatch problem using a Forward Rate Agreement (FRA) that creates a matched book between lender investment and borrower financing. By wrapping Maker’s credit and deposit instruments, the FRA smart contract mediates a continuous interest rate swap between borrower and lender escrows resulting in a net fixed-rate for both parties.
 
 ![](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP26/pairwyse-fra-smart-contract.png)
 
-### Benefits for MKR Holders
+#### Benefits for MKR Holders
 
 By funnelling existing DAI investors back into a Maker-centric lending marketplace, Pairwyse can provide Maker:
 
@@ -51,15 +53,13 @@ By funnelling existing DAI investors back into a Maker-centric lending marketpla
 
 For more info on Pairwyse, please explore the following links.
 
-### Links
+#### Links
 
 * [Maker Forum Post](https://forum.makerdao.com/t/discussion-pairwyse-as-a-solution-for-fixed-rates-on-makerdao/10145)
 * [Pairwyse AMA (video)](https://forum.makerdao.com/t/ama-fixed-rate-maker-vaults-with-pairwyse/10397/5)
 * [Whitepaper](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf)
 * [Github](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts)
 * [Pairwyse.io](https://pairwyse.io/)
-
-## Specification / Proposal Details
 
 ### Core Unit ID
 
