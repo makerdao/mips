@@ -80,15 +80,15 @@ The budget cap will differ from the actual expenses of the core unit. The cap re
 
 | Summary | Monthly Cost | Quarterly|
 |------ | :--------: | :------:|
-|Facilitator | $2 083.33 | $6 250+|
+|Facilitator | $2 083.33 | $6 250|
 |Deputy Facilitator | $10 000 | $30 000|
 |Immunefi | $10 000 | $30 000|
 |ChainSecurity | $10 000 | $30 000|
 |DeFi Safety | $5 000 (one-time) | $10 000 (one-time)|
-|Software and Infrastructure Expenses | TBD | TBD|
+|Software and Infrastructure Expenses | $61 500 (one time) | $61 500 (one time)|
 |Company Setup (1st year) | $2200 (year) | $2200 (year)|
-|Total | TBD | TBD|
-|+ Contigency Buffer (15%) | TBD | TBD|
+|Total | $100 783.33 | $169 950|
+|+ Contigency Buffer (15%) | $115900.83 | $195 442.50|
 
 ### Budget Details
 
@@ -100,7 +100,7 @@ Though listed as an individual, the compensation will be provided directly to Im
 
 #### Deputy Facilitator
 
-The Deputy Facilitator will work a minimum of 24 hours per week, increasing the number of hours as necessary as well as having a planned increase to a full-time role as the Core Unit progresses. Like the Facilitator, all costs are only inclusive of all work done by the Deputy Facilitator.
+The Deputy Facilitator will work a minimum of 24 hours per week, increasing the number of hours as necessary as well as having a planned increase to a full-time role as the Core Unit progresses. Like the Facilitator, all costs are only inclusive of all work done by the Deputy Facilitator. A more in-depth description of the Deputy Facilitator is found in the [Core Unit Mandate MIP](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP24.md).
 
 #### Immunefi - <https://immunefi.com>
 
@@ -120,7 +120,11 @@ The provision of Operational Security Services will be covered under a separate 
 
 #### ChainSecurity - <https://chainsecurity.com>
 
-The company, which provides software audits for the MakerDAO smart contracts, will provide final triaging services for smart contract bug reports as well as provide technical assistance during incident response. The quote provided is the maximum estimated amount required assuming a combination of regular working hours as well as emergency response hours. However, it is not expected that this would be used maximally each month.
+The company, which provides software audits for the MakerDAO smart contracts, will provide final triaging services for smart contract bug reports as well as provide technical assistance during incident response. However, it is not expected that this would be used maximally each month. Instead, the amount being requested is the expected maximum number of hours that could be used in the event of multiple critical bug reports and/or an incidence response occasion, also accounting for the additional charge of emergency hours response.
+
+The current agreement between ChainSecurity and the Maker ecosystem will continue to be utilized. The only difference is that the funds would be from the Immunefi Security CU if hours are used for operations of the CU.
+
+If no hours are used by ChainSecurity, or if there are leftover hours, that is carried into the succeeding month.
 
 #### DeFi Safety - <https://defisafety.com>
 
@@ -130,14 +134,17 @@ The company’s contribution to the Operational Security Services will be covere
 
 #### Software and Infrastructure Expenses
 
-These expenses will include, but will not be strictly limited to, the setup and maintenance of:
+About $7 500 of these expenses will include, but will not be strictly limited to, the setup and maintenance of:
 
 * Secure communications channels for sensitive discussions
 * General communications tools for office hours, general updates, etc.
 * Backups and/or primary hosting for identified critical infrastructure
 * Internal organizational tools
+* Team hardware (e.g secure laptop)
 
-These expenses will also include the provision of a premium testing environment for bug bounty hunters.
+Some software may be charged to the Core Unit on a monthly basis, but this one-time budget request has accounted for potential monthly expenses. As the identification of critical infrastructure and other operations have not yet commenced, we are currently unable to accurately go over what this will cover. All spending, however, will be documented and reported accordingly within reason.
+
+The remaining expense of $54 000 is allocated for the software and infrastructure provided by [ChaosLabs](https://chaoslabs.xyz/) to provide a better testing experience for the bug bounty hunters spending time on the planned MakerDAO bug bounty program. This is, however, a consumable amount based on the number of hackers that would be permitted to use the software and infrastructure, as well as the extent that they use it. The Immunefi Security CU will use its discretion to approve or reject bug bounty hunters from accessing the software, with the proper process to be further outlined in the future Bug Bounty Program Subproposal. However, participating in the bug bounty program will not necessitate the use of the software and infrastructure. 
 
 #### Company Setup
 
