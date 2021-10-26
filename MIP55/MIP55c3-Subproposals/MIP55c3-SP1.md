@@ -27,6 +27,8 @@ This document aims to request funds from the Special Purpose Fund to conduct a f
 
 While the scope of this study focuses on a specific issuer with good performance record and capital scaling capacity, the end goal is to understand the conditions that will make possible to set up a base structuring framework for various asset-backed security (ABS) issuances for Singaporean-domiciled entities.
 
+## Feasibility Study for Securitisation Framework in Singapore
+
 ## Motivation
 
 As part of the expansion and diversification of MakerDAO in RWA debt investments, it is crucial that the protocol extends its portfolio exposure to key financial centres. Singapore is a cornerstone financial hub for the Asia-Pacific and is expected to lead the credit expansion in the fastest growing region of the globe this decade. This strategic position requires MakerDAO to work closely with well regulated originators and issuers in Singapore. These entities are increasingly encouraged by regulators to on-shore/domicile their security issuances (e.g. SPV, Trusts etc) within Singapore. Singapore is also a critical hub in Asia for crypto as the regulator authorities are actively setting up frameworks for financial institutions to operate safely with crypto-assets in a clear regulatory environment.
