@@ -54,7 +54,7 @@ Immunefi Security
 
 ### Core Unit Mandate
 
-The overall goal of the Immunefi Security CU is to secure the Maker ecosystem through multiple angles by leveraging its existing and growing security community and expertise. This involves dedicated services to the Maker ecosystem, effectively establishing a security partnership with the DAO. 
+The overall goal of the Immunefi Security CU is to secure the Maker ecosystem through multiple angles by leveraging its existing and growing security community and expertise. This involves dedicated services to the Maker ecosystem, effectively establishing a security partnership with the DAO. The CU will also aim to complement and collaborate with existing and future CUs instead of competing with them, leveraging existing processes, infrastructure, and information, among others, in order to deliver greater value to the Maker ecosystem. 
 
 As a pioneer in the DeFi space with billions in funds in the protocol, the Maker ecosystem is an attractive target for blackhat hackers who look to steal funds or disrupt the protocol. With millions lost regularly in the cryptocurrency space, it is likely that the Maker protocol, its key people, and its key infrastructure, are targeted on a regular basis. 
 
@@ -62,7 +62,7 @@ As a pioneer in the DeFi space with billions in funds in the protocol, the Maker
 
 To ensure that the right areas are covered by the services of the Immunefi Security CU, the CU will need to regularly identify the critical areas of the Maker ecosystem, including key people, infrastructure, and processes. The CU will create metrics that need to be tracked for each of them. It will then coordinate with other CUs to leverage existing monitoring tools, and coordinate the creation of new tools for uncovered areas that are deemed critical. Where deemed necessary, the CU will create backups as well as provide necessary support for the upkeep of these tools. 
 
-Throughout this time, the CU will ensure that the other CUs are aware of all dependencies that we have with them, and the reasons for their importance. The CU will also identify critical security dependencies across CUs throughout its investigation and surface these dependencies to the relevant CUs. 
+Throughout this time, the CU will ensure that the other CUs are aware of all dependencies that we have with them, and the reasons for their importance. The CU will also identify critical security dependencies across CUs throughout its investigation and surface these dependencies to the relevant CUs. The identification for need and establishment of secure communication channels will also be covered under this service.
 
 #### Bug Bounty Program
 
@@ -77,13 +77,15 @@ In order to achieve this, the Immunefi Security CU will:
 * **Triage** all vulnerability reports and escalate to the appropriate CU as needed. 
 * **Publicly report** all critical vulnerabilities after all fixes have been implemented and verified in the format of a postmortem, and respond to inquiries from the community.
 
+A subproposal will be created for the bug bounty program as well as a separate budget subproposal due to the unique process complexities for this. 
+
 #### Incident Response Facilitation
 
 Even with an effective Bug Bounty Program and appropriate incentives in place, there are always those who don’t care about these incentives, or believe that they can get away cleanly with more funds than the bug bounty program reward.
 
 This is why the Maker ecosystem should still be prepared to react appropriately in the event of a serious successful attack. 
 
-The Immunefi Security CU will collaborate with other CUs to create a War Room of on-call members, both from within and outside the Maker ecosystem. This will provide the necessary support in order to minimize the impact of the attacks.
+The Immunefi Security CU will collaborate with other CUs, such as the GovComm CU, to create a War Room of on-call members, both from within and outside the Maker ecosystem. This will provide the necessary support in order to minimize the impact of the attacks.
 
 * **Technical experts** to act on and validate successful attacks as well as assist in fixes as necessary. 
 * **PR specialists** to take a proactive role in framing the perception of the exploit in a constructive manner, with the appropriate legal review of public statements. 
@@ -116,6 +118,8 @@ The audits include, but are not limited to:
 * Incident response procedures relevant for the CU
 * Secure software and hardware recommendations
 
+A subproposal will be created for the Core Unit Operational Audits - Full Spectrum Security Service  as well as a separate budget subproposal. 
+
 #### Education and Advisory
 
 As a last pillar of our strategy, the Immunefi Security CU will provide educational resources and on-call advisory, especially those for areas not covered by the Full Spectrum Security Service.
@@ -123,7 +127,10 @@ As a last pillar of our strategy, the Immunefi Security CU will provide educatio
 * **Provide content** that is accessible to the wider community, including resources for end users, with prioritization determined after getting feedback from other CUs
 * **Conduct live seminars and workshops** for Maker ecosystem projects and CUs, with a focus on smart contract security, including bringing in experts from the wider ecosystem to provide up-to-date security information.
 * **Be accessible** to all Maker projects and CUs for advisory on security-related matters in the form of an open questions and answers channel as well as an office hours call twice a month. 
-* **Collaborate** with CUs that need to provision security processes, such as the SES CU when new CUs are being onboarded. 
+* **Collaborate** with CUs that need to provision security processes, such as the SES CU when new CUs are being onboarded.
+
+ #### Deputy Facilitator
+In addition to a Facilitator, this Core Unit will be having a Deputy Facilitator who will engage in multiple areas of the Core Unit operations and will act as a representative. The responsibilities of the Deputy Facilitator will be growing over time as the Core Units operations gets established. A job description of the Deputy Facilitator role can be found [here](https://docs.google.com/document/d/18lf-hy8vAL8psIgaX1gjfertcbb-TASZpjlMG2Va60k/edit?usp=sharing).
 
 #### Roadmap
 
@@ -131,30 +138,31 @@ Below is a roadmap of the activities of the Core Unit of the first 5 months afte
 
 ##### September - October 2021
 
-* Submit RFC for Core Unit, Budget, and Facilitator MIPs
+* Submit MIPs for Core Unit, Budget, MKR Budget, and Facilitator Onboarding
 * Onboard Deputy Facilitator
 * Begin identification of critical infrastructure for bug bounty program coverage 
-* Finalize draft of bug bounty program 
+* Begin draft of bug bounty program 
 * Begin coordination for Incident Response
 
 #####  November 2021
 
 * Post Core Unit and Facilitator MIP
-* Post bug bounty program RFC 
 * Begin content planning 
 * Launch of social media channels 
+* Finalize draft of bug bounty program and overall structure
 
 #####  December 2021
 
 * Anticipated Core Unit Launch
-* Post bug bounty program MIP 
-* Post Core Unit Operational Audits RFC 
+* Post Bug Bounty Program Subproposal 
+* Post Core Unit Operational Audits Subproposal 
 * Set up weekly calls for office hours and general update calls
 * Launch community channels 
 
 #####  January 2022
 
-* Post Core Unit Operational Audits MIP 
+* Formal Submission of Core Unit Operational Audits Subproposal 
+* Formal Submission of Bug Bounty Program Subproposal 
 * Finalize initial incident response procedures 
 * Complete identification of metrics for nefarious activity 
 * First regular content publication 
@@ -163,4 +171,5 @@ Below is a roadmap of the activities of the Core Unit of the first 5 months afte
 
 * Organize the creation of backups for critical monitoring infrastructure 
 * Commence first fire drill 
+* Set up and launch bug bounty program 
 * Begin Core Unit Operational Audits for two CUs 
