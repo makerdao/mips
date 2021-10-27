@@ -63,7 +63,7 @@ The budget cap differs from the actual expenses of the core unit. The cap refers
 | --- | --- | --- |
 |Grand Total|$54,337.50|$163,012.50|
 
-**Budget Breakdown:**
+**Budget Breakdown**
 
 |Summary|Monthly Cost|Quarterly|
 | --- | --- | --- |
