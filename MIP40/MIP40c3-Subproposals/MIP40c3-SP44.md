@@ -88,11 +88,11 @@ Any changes to these amounts will be reported and reviewed by our budget auditor
 
 ### Payment Implementation
 
-This payment implementation is based on the [SES MKR budget proposal](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043)
+This payment implementation is based on the [SES MKR budget proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md)
 
 ![|624x141](upload://bE2jZZ2i4a8sM5uWRJPmcVHeFaM.png)
 
-	* The [Monthly Budget Statement](https://github.com/makerdao-sas/transparency-reporting/tree/main/Monthly%20Budget%20Statements) contains the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
+* The [Monthly Budget Statement](https://github.com/makerdao-sas/transparency-reporting/tree/main/Monthly%20Budget%20Statements) contains the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 * To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
   * Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the *Auditors Wallet*, which then acts as an escrow wallet.
   * Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the *Auditors Wallet* to the *CU’s Permanent Team Operational Wallet*.
@@ -103,4 +103,4 @@ This payment implementation makes no assumptions about the origin of the MKR. It
 
 The MKR that’s held by the *Auditors Wallet* and the *CU’s Permanent Team Operational Wallet* will not be used for voting or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
-The CU may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
+The CU may consider alternative payment flows compliant with [DssVest](https://github.com/makerdao/mips/blob/master/MIP54/MIP54.md) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
