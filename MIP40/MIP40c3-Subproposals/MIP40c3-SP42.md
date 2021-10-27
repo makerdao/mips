@@ -96,7 +96,7 @@ Providing additional detail with regards to the above line items:
 
 #### Facilitator
 
-Though listed as an individual, the compensation will be provided directly to Immunefi, pending MIP41c4-SPXX. All costs are only inclusive of all work done by the Facilitator. The quote provided assumes the maximum amount of hours, on a yearly basis, but has been evenly distributed per month.
+Though listed as an individual, the compensation will be provided directly to Immunefi, pending MIP41c4-SP25. All costs are only inclusive of all work done by the Facilitator. The quote provided assumes the maximum amount of hours, on a yearly basis, but has been evenly distributed per month.
 
 #### Deputy Facilitator
 
