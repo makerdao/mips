@@ -90,7 +90,7 @@ Any changes to these amounts will be reported and reviewed by our budget auditor
 
 This payment implementation is based on the [SES MKR budget proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md)
 
-![|624x141](upload://bE2jZZ2i4a8sM5uWRJPmcVHeFaM.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP44/payment_implementation.png)
 
 * The [Monthly Budget Statement](https://github.com/makerdao-sas/transparency-reporting/tree/main/Monthly%20Budget%20Statements) contains the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 * To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
