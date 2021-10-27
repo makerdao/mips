@@ -7,16 +7,17 @@ MIP40c3-SP#:36
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, cu-deco-001, budget, mkr-budget
-Status: Rejected
+Status: RFC
 Date proposed: 2021-09-08
 Date Ratified:
+Resubmission: First formally submitted for October's Governance Cycle
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZyjR4t?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp36-deco-fixed-rate-core-unit-mkr-budget/10226
 ```
 
 ## Sentence Summary
 
-MIP40c3-SP36 adds a MKR budget for the Core Unit DECO-001: Deco Fixed Rate Core Unit on a fixed MKR budget of 500 MKR annually, utilizing a 12-month cliff and vesting quarterly, for the fixed period of November 1, 2021, through November 1, 2024, (36 Months).
+MIP40c3-SP36 adds a MKR budget for the Core Unit DECO-001: Deco Fixed Rate Core Unit on a fixed MKR budget of 500 MKR annually, utilizing a 12-month cliff and vesting quarterly, for the fixed period of December 1, 2021, through December 1, 2024, (36 Months).
 
 ## Specification
 
@@ -25,6 +26,7 @@ MIP40c3-SP36 adds a MKR budget for the Core Unit DECO-001: Deco Fixed Rate Core 
 DECO-001
 
 ### Wallets
+
 There will be Two (2) multisig wallets each of which will serve a separate function, and which will be identified as: the Deco Operational Wallet, and the Deco Auditor Wallet. 
 
 1) The Deco Operational Wallet: 
@@ -43,19 +45,19 @@ The total MKR expenditure will not exceed 1500.00 MKR. This budget covers a thre
 ### MKR Vesting
 
 | **Transaction Date** | **MKR to Auditor Wallet** | **MKR to Deco Operational Wallet** | **MKR Vested** |
-|---|---|---|---|
-| 1-May-22 | 500 | 0 | 0 |
-| 1-Aug-22 | 125 | 500 | 0 |
-| 1-Nov-22 | 125 | 125 | 500 |
-| 1-Feb-23 | 125 | 125 | 125 |
-| 1-May-23 | 125 | 125 | 125 |
-| 1-Aug-23 | 125 | 125 | 125 |
-| 1-Nov-23 | 125 | 125 | 125 |
-| 1-Feb-24 | 125 | 125 | 125 |
-| 1-May-24 | 125 | 125 | 125 |
-| 1-Aug-24 | 0 | 125 | 125 |
-| 1-Nov-24 | 0 | 0 | 125 |
-| **Total MKR** |  |  | **1500** |
+| :------------------: | :------------: | :------------: | :------------: |
+| 1-Jun-22             | 500            | 0              | 0              |
+| 1-Sep-22             | 125            | 500            | 0              |
+| 1-Dec-22             | 125            | 125            | 500            |
+| 1-Mar-23             | 125            | 125            | 125            |
+| 1-Jun-23             | 125            | 125            | 125            |
+| 1-Sep-23             | 125            | 125            | 125            |
+| 1-Dec-23             | 125            | 125            | 125            |
+| 1-Mar-24             | 125            | 125            | 125            |
+| 1-Jun-24             | 125            | 125            | 125            |                      
+| 1-Sep-24       | 0              | 125            | 125                  |                
+| 1-Dec-24       | 0              | 0                    | 125            |
+| **Total MKR**        |       |                |    **1500** |
 
 **Parameter**|**Value**
 :-----:|:-----:
@@ -67,10 +69,10 @@ Auto-Renewal|No
 
 ### Payment Implementation
 
-The MKR payment implementation will have two elements and include a phased MKR distribution comparable to the [DUX MKR Flow](https://forum.makerdao.com/t/mip40c3-sp27-development-ux-core-unit-mkr-budget-dux-001/9777). The first is a Deco Reserves multisig and a the second is a Deco Operational wallet. The Auditor Wallet will receive each MKR disbursement Six (6) months prior to the vest date. Three (3) months prior to vest the MKR will be distributed from the Auditor Wallet to the Deco Operational wallet requiring a 2 of 3 quorum for release to vesting. Upon vest, the Deco operational wallet will release the vested MKR.
+The MKR payment implementation will have two elements and include a phased MKR distribution comparable to the [DUX MKR Flow](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP27.md). The first is a Deco Reserves multisig and a the second is a Deco Operational wallet. The Auditor Wallet will receive each MKR disbursement Six (6) months prior to the vest date. Three (3) months prior to vest the MKR will be distributed from the Auditor Wallet to the Deco Operational wallet requiring a 2 of 3 quorum for release to vesting. Upon vest, the Deco operational wallet will release the vested MKR.
 
 This payment implementation makes no assumptions regarding the origin of the MKR. It may be moved from the protocol’s treasury, newly minted, or obtained from another source.
 
 The MKR that is held by the Deco Auditor Wallet and the Deco Operational Wallet will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
-The Deco team may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
+The Deco team may consider alternative payment flows compliant with [DssVest](https://github.com/makerdao/mips/blob/master/MIP54/MIP54.md) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
