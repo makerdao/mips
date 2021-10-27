@@ -24,7 +24,7 @@ This proposal contains the MKR Compensation budget for the Core Unit RWF-001: Re
 
 ## Team MKR Compensation Plan
 
-We used [Alternative MKR Compensation Guidelines](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) by @Aes, currently as a MIP in RFC phase as it was extensively discussed with plenty of time for comments.
+We used [Alternative MKR Compensation Guidelines](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) by @Aes, currently a MIP in RFC phase, as it was extensively discussed with plenty of time for comments.
 
 ### Vesting Details
 
@@ -64,7 +64,7 @@ On average, the team MKR vesting schedule yields `80 MKR` per FTE per year, or 5
 
 ## Payment Implementation
 
-MKR compensation is based on Manual Budget Implementation, the Simple one and same as used for regular budget, or any other method achieving the same result at the discretion of the Governance Facilitators. Real-World Finance Core Unit may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule. 
+MKR compensation is based on Manual Budget Implementation, the Simple one and the same as used for regular budget, or any other method achieving the same result at the discretion of the Governance Facilitators. Real-World Finance Core Unit may consider alternative payment flows compliant with [DssVest](https://github.com/makerdao/mips/blob/master/MIP54/MIP54.md) if the standardized flow is compatible with the vesting schedule. 
 
 * Payment: based on predetermined MKR compensation schedule
 * Asset type: MKR
