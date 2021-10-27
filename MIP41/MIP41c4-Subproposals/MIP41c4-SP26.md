@@ -63,6 +63,7 @@ A non-exhaustive overview of my responsibilities includes:
 * Location: Cologne, Germany (Central European Summer Time)
 * Forum: @danik
 * Discord: danielkr#9058
+* Ethereum Address: TBD
 
 #### Facilitator Credentials
 
