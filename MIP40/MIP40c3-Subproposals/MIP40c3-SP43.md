@@ -13,6 +13,20 @@ Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799/2
 ```
 
+# MIP40c3-SP43: Adding Sidestream Auction Services Core Unit Budget - SAS-001
+
+## Preamble
+
+```
+MIP40c3-SP#: 43
+Author(s): @danik
+Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana, @lollike, @Njoku_Emmanuel
+Tags: core-unit, cu-sas-001, budget, dai-budget
+Status: RFC
+Date Applied: <2021-10-06>
+Date Ratified: <yyyy-mm-dd>
+```
+
 ## Sentence Summary
 
 MIP40c3-SP43 adds the DAI budget for Core Unit SAS-001: Sidestream Auction Services.
@@ -27,7 +41,7 @@ The SAS CU budget is designed with the following in mind:
 Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 
 * Funding a 3 month run-way for SAS CU
-* Replenish this runway on a monthly basis as described in [the SES top-up mechanism](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md#budget-implementation)
+* Replenish this runway on a monthly basis as described in [the SES top-up mechanism](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
 
 ## Specification
 
@@ -45,9 +59,79 @@ Based on the nature of the work done by the Sidestream Auction Services Core Uni
 
 * SAS-001
 
-### List of Budget Implementations
+### Budget Implementation
 
-The detailed budget implementation will be added shortly.
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP43/budget_implementation.png)
+
+#### Monthly Budget Statement
+
+Within the first 5 days of each month, we will submit a Monthly Budget Statement to the signers of the Auditors Wallet with the following sections:
+
+1. **Budget Forecast**: The amount of Dai that is required to maintain a 3-month runway for the team based on available information
+2. **Previous Month Actuals**: The actual expenses (DAI and MKR) of the month that just ended
+3. **MKR Vesting Overview**: A schedule of the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
+4. **Transaction Amounts**
+    * The required DAI amount for the Operational Wallet to replenish the 3-month runway
+    * Any DAI amount exceeding the 3-month runway that will be returned to the Auditors Wallet.
+
+The Monthly Budget Statements will be added to the MakerDAO forum. The originals can be found [here](https://github.com/makerdao-sas/transparency-reporting)
+
+#### Monthly Payment Flow
+Once the Monthly Budget Statement has been delivered, the following payment flow will be executed:
+
+* Budget Statement Review
+  * SES Accounting will review the monthly budget and check that its expenses reflect the allocated budgets in the budget MIP.
+  * SES Accounting may ask the SAS team to clarify or correct the budget statement.
+  * In case of disagreements, the payments will be paused, and SES Accounting will escalate to the Maker Community.
+
+* Top-up transaction
+  * The auditors will pull the available amount from the DssVest contract.
+  * Once the Auditor Wallet signers are satisfied with the monthly budget statement, a top-up transaction from the Auditor Wallet to the SAS Operational Wallet will be made.
+  * The top-up amount will replenish the 3-month runway based on the forecast in the monthly budget statement.
+
+* Return excess funds to protocol
+  * After the top-up transaction has been completed, the Auditor Wallet signers will return any funds to the protocol that exceed 2x the monthly budget cap.
+
+#### Wallets
+
+*SAS Auditors Wallet (2:3)*
+* Controlled by the SAS Auditors
+* Address: -ADDRESS-
+* Signers
+  * SES Accounting (1:2, -ADDRESS- )
+  * SES Auditing (1:3, -ADDRESS- )
+  * Maker Protocol (DSS_PAUSE)
+
+*SAS Operational Wallet (2:3)*
+* Controlled by the SAS Core Unit team
+* Address: 0x465AA62a82E220B331f5ECcA697c20E89554B298
+* Signers
+  * 0x274736890166046f00f424fEB64b2E468841ebfE
+  * 0x4f3B7fb6204C614B28F0e1f50Dc1C99175631678
+  * 0xD95802afC02B49e5C1a6016D44d08fe37EAfEc9d
+
+
+#### Initial Seed Transaction
+
+The initial seed transaction covers three months runway based on the forecast in the budget statement:  
+
+* 3 x $81,912.50 = $245,737.50
+
+
+#### Transactions / Approvals
+
+* *Initial Seed Transaction*
+From: Maker Protocol Surplus Buffer
+To: SAS Auditors Wallet ( -ADDRESS- )
+Amount: 245,737.50 DAI
+When: Upon approval of this MIP (approx. Dec 1 2021)
+
+* *DssVest Streaming Budget Cap*
+From: Maker Protocol Surplus Buffer
+To: SAS Auditors Wallet ( -ADDRESS- )
+Amount: 1,130,392.56 DAI
+Start: 1 Dec 2021 00:00:00
+End: 30 Nov 2022 23:59:59
 
 ### List of Budget Breakdowns
 
@@ -79,11 +163,11 @@ The budget cap differs from the actual expenses of the core unit. The cap refers
 |**Total**|$81,912.50|$245,737.50|
 |**Contingency Buffer (15%)**|$94,199.38|$282,598.13|
 
-#### Budget Details
+### Budget Details
 
 Providing additional detail regarding the above line items:
 
-* Permanent Contributor Compensation: The permanent team consists of five permanent team members (3.5 FTE). The total cost of an employee includes only compensations as a contractor. Contractors have to take care of their health insurance and other expenses.
+* Permanent contributor Compensation: The permanent team consists of five permanent team members (3.5 FTE). The total cost of an employee includes only compensations as a contractor. Contractors have to take care of their health insurance and other expenses.
 
 |Team members|Headcount|FTE (Full-Time Equivalent)|
 | --- | --- | --- |
@@ -109,16 +193,3 @@ Providing additional detail regarding the above line items:
 Any changes to these amounts will be reported in the transparency report and reviewed by our budget auditors.
 
 *This reporting framework and the monthly top-up mechanism are adopted from the SES. Thank you to SES for their incubation program and guidance.*
-
-#### Monthly Budget Statement
-
-Within the first 5 days of each month, we will submit a Monthly Budget Statement to the signers of the Auditors Wallet with the following sections:
-
-1. **Budget Forecast**: The amount of Dai that is required to maintain a 3-month runway for the team based on available information
-2. **Previous Month Actuals**: The actual expenses (DAI and MKR) of the month that just ended
-3. **MKR Vesting Overview**: A schedule of the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
-4. **Transaction Amounts**
-    * The required DAI amount for the Operational Wallet to replenish the 3-month runway
-    * Any excess DAI amount that will be returned to the Auditors Wallet
-
-The Monthly Budget Statements will be added to the MakerDAO forum. The originals can be found [here](https://github.com/makerdao-sas/transparency-reporting).
