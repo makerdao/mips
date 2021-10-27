@@ -27,7 +27,7 @@ The SAS CU budget is designed with the following in mind:
 Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 
 * Funding a 3 month run-way for SAS CU
-* Replenish this runway on a monthly basis as described in [the SES top-up mechanism](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369)
+* Replenish this runway on a monthly basis as described in [the SES top-up mechanism](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md#budget-implementation)
 
 ## Specification
 
@@ -67,23 +67,23 @@ The budget cap differs from the actual expenses of the core unit. The cap refers
 
 |Summary|Monthly Cost|Quarterly|
 | --- | --- | --- |
-|Permanent contributer comepensation|$54,337.50|$163,012.50|
+|Permanent Contributor Compensation|$54,337.50|$163,012.50|
 |Travel & Events|$2,500.00|$7,500.00|
 |IT & Subscriptions|$1,500.00|$4,500.00|
 |Gas Costs|$2,000.00|$6,000.00|
 |Office Space|$1,575.00|$4,725.00|
 |Professional & Legal Services|$5,000.00|$15,000.00|
 |Engineer Contractor|$10,000.00|$30,000.00|
-|Other Contactor Services (e.g. Audits)|$5,000.00|$15,000.00|
+|Other Contractor Services (e.g. Audits)|$5,000.00|$15,000.00|
 ||||
 |**Total**|$81,912.50|$245,737.50|
-|**Contentigency Buffer (15%)**|$94,199.38|$282,598.13|
+|**Contingency Buffer (15%)**|$94,199.38|$282,598.13|
 
 #### Budget Details
 
 Providing additional detail regarding the above line items:
 
-* Permanent contributor Compensation: The permanent team consists of five permanent team members (3.5 FTE). The total cost of an employee includes only compensations as a contractor. Contractors have to take care of their health insurance and other expenses.
+* Permanent Contributor Compensation: The permanent team consists of five permanent team members (3.5 FTE). The total cost of an employee includes only compensations as a contractor. Contractors have to take care of their health insurance and other expenses.
 
 |Team members|Headcount|FTE (Full-Time Equivalent)|
 | --- | --- | --- |
