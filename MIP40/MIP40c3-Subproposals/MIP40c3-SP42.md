@@ -70,9 +70,9 @@ Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 - [ChainSecurity](https://chainsecurity.com)
 - [DeFi Safety](https://defisafety.com)
 
-### Budget Cap Breakdown
+#### Budget Cap Breakdown
 
-#### Dai Expenditure
+##### Dai Expenditure
 
 We will be asking for a Total Budget Cap spanning 12-months, the amount of which is currently $634,972.45.
 
