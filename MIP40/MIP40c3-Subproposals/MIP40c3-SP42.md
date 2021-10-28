@@ -198,7 +198,7 @@ About $7,500 of these expenses will include, but will not be strictly limited to
 
 Some software may be charged to the Core Unit on a monthly basis, but this one-time budget request has accounted for potential monthly expenses. As the identification of critical infrastructure and other operations have not yet commenced, we are currently unable to accurately go over what this will cover. All spending, however, will be documented and reported accordingly within reason.
 
-The remaining expense of $54 000 is allocated for the software and infrastructure provided by [ChaosLabs](https://chaoslabs.xyz/) to provide a better testing experience for the bug bounty hunters spending time on the planned MakerDAO bug bounty program. This is, however, a consumable amount based on the number of hackers that would be permitted to use the software and infrastructure, as well as the extent that they use it. The Immunefi Security CU will use its discretion to approve or reject bug bounty hunters from accessing the software, with the proper process to be further outlined in the future Bug Bounty Program Subproposal. However, participating in the bug bounty program will not necessitate the use of the software and infrastructure. 
+The remaining expense of $54,000 is allocated for the software and infrastructure provided by [ChaosLabs](https://chaoslabs.xyz/) to provide a better testing experience for the bug bounty hunters spending time on the planned MakerDAO bug bounty program. This is, however, a consumable amount based on the number of hackers that would be permitted to use the software and infrastructure, as well as the extent that they use it. The Immunefi Security CU will use its discretion to approve or reject bug bounty hunters from accessing the software, with the proper process to be further outlined in the future Bug Bounty Program Subproposal. However, participating in the bug bounty program will not necessitate the use of the software and infrastructure. 
 
 #### Company Setup
 
@@ -212,20 +212,20 @@ Within the first 5 days of each month, IS will submit a Monthly Budget Statement
 * Previous Month Actuals – The actual expenses (DAI and MKR) of the month that just ended
 * MKR Vesting Overview – A schedule of the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
 * Transaction Amounts
-* The required DAI amount for the Operational Wallet to replenish the 3-month runway
-* Any DAI amount exceeding the 3-month runway that will be returned to the Auditors Wallet. The Monthly Budget Statements will be added to the MakerDAO forum. The originals can be found [here](https://github.com/makerdao-is/transparency-reporting).
+    * The required DAI amount for the Operational Wallet to replenish the 3-month runway
+    * Any DAI amount exceeding the 3-month runway that will be returned to the Auditors Wallet. The Monthly Budget Statements will be added to the MakerDAO forum. The originals can be found [here](https://github.com/makerdao-is/transparency-reporting).
 
 #### Monthly Payment Flow
 
 Once the Monthly Budget Statement has been delivered, the following payment flow will be executed:
 
 * Budget Statement Review
-* SES Accounting will review the monthly budget and check that its expenses reflect the allocated budgets in the budget MIP.
-* SES Accounting may ask the IS team to clarify or correct the budget statement.
-* In case of disagreements, the payments will be paused, and SES Accounting will escalate to the Maker Community.
-* Top up transaction
-* The auditors will pull the available amount from the DssVest contract.
-* Once the Auditor Wallet signers are satisfied with the monthly budget statement, a top-up transaction from the Auditor Wallet to the IS Operational Wallet will be made.
-* The top-up amount will replenish the 3-month runway based on the forecast in the monthly budget statement.
+    * SES Accounting will review the monthly budget and check that its expenses reflect the allocated budgets in the budget MIP.
+    * SES Accounting may ask the IS team to clarify or correct the budget statement.
+    * In case of disagreements, the payments will be paused, and SES Accounting will escalate to the Maker Community.
+* Top-up transaction
+    * The auditors will pull the available amount from the DssVest contract.
+    * Once the Auditor Wallet signers are satisfied with the monthly budget statement, a top-up transaction from the Auditor Wallet to the IS Operational Wallet will be made.
+    * The top-up amount will replenish the 3-month runway based on the forecast in the monthly budget statement.
 * Return excess funds to protocol
 * After the top-up transaction has been completed, the Auditor Wallet signers will return any funds to the protocol that exceed 2x the monthly budget cap.
