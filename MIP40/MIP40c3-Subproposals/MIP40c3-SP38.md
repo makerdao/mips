@@ -67,5 +67,5 @@ On average, the team MKR vesting schedule yields `80 MKR` per FTE per year, or 5
 MKR compensation is based on Manual Budget Implementation, the Simple one and the same as used for regular budget, or any other method achieving the same result at the discretion of the Governance Facilitators. Real-World Finance Core Unit may consider alternative payment flows compliant with [DssVest](https://github.com/makerdao/mips/blob/master/MIP54/MIP54.md) if the standardized flow is compatible with the vesting schedule. 
 
 * Payment: based on predetermined MKR compensation schedule
-* Asset type: MKR
+* Asset type: MKR, minted or coming from an existing source.
 * Address: 0x9e1585d9ca64243ce43d42f7dd7333190f66ca09
