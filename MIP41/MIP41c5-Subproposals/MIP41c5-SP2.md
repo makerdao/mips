@@ -8,7 +8,7 @@ Author(s): Rune Christensen
 Contributors:
 Tags: personnel-xboarding
 Status: RFC
-Date Applied: <2021-30-10>
+Date Applied: 2021-30-10
 Date Ratified:  
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp1-facilitator-offboarding-rwf-001/11306
 ```
@@ -23,7 +23,7 @@ This subproposal is to offboard the current Facilitator of the Real-World Financ
 
 Sébastien Derivaux has done a great job at creating and bootstrapping the Real World Finance Core Unit over the past year, assembling a team of professionals to work in one of the first ever Maker Core Units, and achieving early success with the onboarding of the New Silver Vault, which is the world's first Real-World Asset DeFi collateral.
 
-Now that we enter a new phase where what's already been built needs to be scaled up and further decentralized, I am proposing we offboard Sebastien as the Facilitator and replace him with an Acting Facilitator (MIP following shortly) that can further decentralize the RWA process and prepare it to safely scale into the billions.
+Now that we enter a new phase where what's already been built needs to be scaled up and further decentralized, I am proposing we offboard Sébastien as the Facilitator and replace him with an Acting Facilitator (MIP following shortly) that can further decentralize the RWA process and prepare it to safely scale into the billions.
 
 In my private conversations with Sébastien he explained that his objective with the RWF Core Unit all along was to bootstrap it to get it to a solid spot, and then pass on the reins so that he can focus on other things in the DAO that are more suitable for his interests and skillset. 
 
