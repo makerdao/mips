@@ -3,6 +3,7 @@
 | Tag | Applied to |
 |-|-|
 | active | Currently-in-force Core Unit-related subproposals: ratified budgets for current quarter, non-offboarded Facilitators. Older budgets should have this tag removed, as should offboarded Facilitators |
+| amendment | |
 | budget | Core Unit budget additions/modifications (MIP40c3 subproposals) |
 | collateral-onboarding | Applications, Greenlights, Risk Models |
 | collateral-onboarding-mipset | MIPs 6 through 12 |
