@@ -7,7 +7,7 @@ MIP40c3-SP#: 33
 Author(s): @seth
 Contributors: @JerryAG @Kat @Alec @JMarshall
 Tags: core-unit, cu-mkt-001, budget, dai-budget
-Status: Rejected
+Status: Formal Submission
 Date Applied: 2021-09-03
 Date Ratified:
 Resubmission: First formally submitted for October's Governance Cycle

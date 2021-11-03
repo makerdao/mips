@@ -7,7 +7,7 @@ MIP40c3-SP#: 38
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:  
 Tags: core-unit, cu-rwf-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-22
 Date Ratified: /
 Ratification Poll URL:

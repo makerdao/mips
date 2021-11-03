@@ -7,8 +7,8 @@ MIP39c2-SP#: 23
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, fixed-rate, cu-deco-001, mandate
-Status: RFC
-Date proposed: 2021-09-08
+Status: Formal Submission
+Date Proposed: 2021-09-08
 Date Ratified:
 Resubmission: First formally submitted for October's Governance Cycle
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZyjR4t?network=mainnet
