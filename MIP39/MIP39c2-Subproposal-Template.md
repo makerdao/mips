@@ -13,6 +13,9 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Sentence Summary
+
+## Paragraph Summary
+
 ## Specification
 
 ### Motivation

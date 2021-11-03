@@ -1,6 +1,7 @@
 # MIP40c3: Modify Core Unit Budget (Subproposal Process) Template
 
 ## Preamble
+
 ```
 MIP40c3-SP#: #
 Author(s):
@@ -12,6 +13,9 @@ Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Sentence Summary
+
+## Paragraph Summary
+
 ## Specification
 
 ### Motivation
