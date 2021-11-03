@@ -7,9 +7,9 @@ MIP41c4-SP#: 25
 Author(s): @travinimmunefi
 Contributors: @psychonaut
 Tags: core-unit, cu-is-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-10-06
-Date Ratified: <yyyy-mm-dd>  
+Date Ratified: yyyy-mm-dd 
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp25-immunefi-security-core-unit-facilitator-onboarding-is-001/10812/2
 ```
 

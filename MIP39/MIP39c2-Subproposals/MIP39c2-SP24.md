@@ -7,9 +7,9 @@ MIP39c2-SP#: 24
 Author(s): @travinimmunefi
 Contributors: @psychonaut
 Tags: core-unit, cu-is-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-10-06
-Date Ratified: <yyyy-mm-dd>  
+Date Ratified: yyyy-mm-dd 
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp24-adding-immunefi-security-core-unit-is-001/10810
 ```
 
@@ -146,7 +146,7 @@ Below is a roadmap of the activities of the Core Unit of the first 5 months afte
 
 #####  November 2021
 
-* Post Core Unit and Facilitator MIP
+* Formal submission of Core Unit, Budget, MKR Budget, and Facilitator Onboarding MIPs
 * Begin content planning 
 * Launch of social media channels 
 * Finalize draft of bug bounty program and overall structure
@@ -172,4 +172,4 @@ Below is a roadmap of the activities of the Core Unit of the first 5 months afte
 * Organize the creation of backups for critical monitoring infrastructure 
 * Commence first fire drill 
 * Set up and launch bug bounty program 
-* Begin Core Unit Operational Audits for two CUs 
+* Begin Core Unit Operational Audits for two CUs

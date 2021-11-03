@@ -7,9 +7,9 @@ MIP41c4-SP#: 26
 Author(s): @danik
 Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana, @lollike, @Njoku_Emmanuel
 Tags: core-unit, cu-sas-001, facilitator
-Status: RFC
-Date Applied: <2021-10-06>
-Date Ratified: <yyyy-mm-dd>  
+Status: Formal Submission
+Date Applied: 2021-10-06
+Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp26-sidestream-auction-services-facilitator-onboarding-sas-001/10797/2
 ```  
 
@@ -37,6 +37,28 @@ SAS-001
 
 Sidestream Auction Services
 
+### Facilitator Name and Information
+
+* Name: Daniel Kremerov
+* Location: Cologne, Germany (Central European Summer Time)
+* Forum: @danik
+* Discord: danielkr#9058
+* Ethereum Address: TBD
+
+#### Facilitator Credentials
+
+##### Experience at Sidestream
+
+* Co-founded the software development agency SIDESTREAM GmbH at the beginning of 2020
+* Grew the company to 7-figure revenue and 20 employees within less than two years
+* Acquired and led software development projects for a variety of mid- and large-cap customers. You can find the portfolio [here](https://www.sidestream.tech/en/reference-projects-software-development)
+
+##### Other Experience and Education
+
+* Started a few tech-related projects and ventures, among others an IoT Startup for Beekeeping
+* Worked in an IT Consultancy and in Product roles for two Startups
+* University Degrees in Finance and Computer Science from University College London, Maastricht University, National University of Singapore
+
 ### Facilitator Commitment
 
 My role is to support the mandate and business continuity of the Sidestream Auction Services Core Unit (SAS).
@@ -56,25 +78,3 @@ A non-exhaustive overview of my responsibilities includes:
   * Build and retain a high performing team
   * Maintain legal and financial structures of the Core Unit
   * Draft and deliver MIPs
-
-### Facilitator Name and Information
-
-* Name: Daniel Kremerov
-* Location: Cologne, Germany (Central European Summer Time)
-* Forum: @danik
-* Discord: danielkr#9058
-* Ethereum Address: TBD
-
-#### Facilitator Credentials
-
-##### Experience at Sidestream
-
-* Co-founded the software development agency SIDESTREAM GmbH at the beginning of 2020
-* Grew the company to 7-figure revenue and 20 employees within less than two years
-* Acquired and led software development projects for a variety of mid- and large-cap customers. You can find the portfolio [here](https://sidestream.tech/case-study-softwareentwicklung/)
-
-##### Other Experience and Education
-
-* Started a few tech-related projects and ventures, among others an IoT Startup for Beekeeping
-* Worked in an IT Consultancy and in Product roles for two Startups
-* University Degrees in Finance and Computer Science from University College London, Maastricht University, National University of Singapore

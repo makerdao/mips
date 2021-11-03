@@ -7,7 +7,7 @@ MIP39c2-SP#: 25
 Author(s): @danik
 Contributors: @BracketJohn , @lukass , @builderman, @wouter, @juan, @Petru_Catana, @lollike, @Njoku_Emmanuel
 Tags: core-unit, cu-sas-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: <2021-10-06>
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp25-adding-sidestream-auction-services-core-unit-sas-001/10796/10
@@ -161,9 +161,12 @@ The team has completed a variety of end-to-end software development projects inc
 
 #### Work in Progress
 
-Since joining the SES Incubation Program in June 2021, the team has already been working to deliver value to the community. We hope to hit the ground running as a new core unit and are looking to have a first release around the time our MIP is formally submitted.
+Since joining the SES Incubation Program in June 2021, the team has already been working to deliver value to the community. We hope to hit the ground running as a new core unit and are looking to have a first release around the time our MIP is formally submitted. The first release is a MVP of a new, unified Auctions UI. The MVP enables participation in flip auctions. 
 
-The first release will be the MVP of a new, unified Auctions UI. The MVP enables participation in flip auctions. The core features of the MVP are explained below:
+- You can find the release [here](https://auctions.makerdao.network/). 
+- The code is Open Source and can be found [here](https://github.com/sidestream-tech/unified-auctions-ui).
+
+The core features of the MVP are explained below:
 
 **One-click arbitrage through flash lending**: It is the first UI in the Maker ecosystem that leverages flash lending of collateral. This means a user can engage in one-click arbitrage opportunities without the need for any DAI funds. With this new possibility, a higher number of keepers can participate in flip auctions, which leads to increased security of the Maker Protocol in case of inefficient market conditions and a high number of liquidations. In the case of inefficient programmatic keepers, the UI can also be seen as a backstop solution.
 

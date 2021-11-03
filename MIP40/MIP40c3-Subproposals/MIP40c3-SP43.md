@@ -7,24 +7,10 @@ MIP40c3-SP#: 43
 Author(s): @danik
 Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana, @lollike, @Njoku_Emmanuel
 Tags: core-unit, cu-sas-001, budget, dai-budget
-Status: RFC
-Date Applied: <2021-10-06>
+Status: Formal Submission
+Date Applied: 2021-10-06
 Date Ratified: <yyyy-mm-dd>  
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799/2
-```
-
-# MIP40c3-SP43: Adding Sidestream Auction Services Core Unit Budget - SAS-001
-
-## Preamble
-
-```
-MIP40c3-SP#: 43
-Author(s): @danik
-Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana, @lollike, @Njoku_Emmanuel
-Tags: core-unit, cu-sas-001, budget, dai-budget
-Status: RFC
-Date Applied: <2021-10-06>
-Date Ratified: <yyyy-mm-dd>
 ```
 
 ## Sentence Summary

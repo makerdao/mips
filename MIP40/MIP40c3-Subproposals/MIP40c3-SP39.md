@@ -7,7 +7,7 @@ MIP40c3-SP#: 39
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
 Tags: core-unit, cu-rwf-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-29
 Date Ratified: n/a
 Ratification Poll URL:

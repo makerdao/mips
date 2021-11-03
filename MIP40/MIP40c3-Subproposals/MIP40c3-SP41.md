@@ -7,8 +7,9 @@ MIP40c3-SP#: 41
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: core-unit, cu-is-001, budget, mkr-budget
-Status:RFC
+Status: Formal Submission
 Date Applied: 2021-10-06
+Resubmission: First formally submitted for October's Governance Cycle
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/2
 ```
@@ -85,9 +86,9 @@ Any changes to these amounts will be reported and reviewed by our budget auditor
 
 ## Payment Implementation
 
-This payment implementation is based on the [SES MKR budget proposal](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043)
+This payment implementation is based on the [SES MKR budget proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md)
 
-- Payment of the MKR tokens will follow the same flow as described in DUX [budget MIP](https://forum.makerdao.com/t/mip40c3-sp-1-development-ux-core-unit-budget-dux-001/9774)
+- Payment of the MKR tokens will follow the same flow as described in DUX [budget MIP](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP1.md)
 - As defined above and in the Monthly Budget Statement will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
   - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `IS Auditors Wallet`, which then acts as an escrow wallet.
@@ -99,4 +100,4 @@ This payment implementation makes no assumptions about the origin of the MKR. It
 
 The MKR that’s held by the `IS Auditors Wallet` and the `IS Permanent Team Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
-IS-001 may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
+IS-001 may consider alternative payment flows compliant with [DssVest](https://github.com/makerdao/mips/blob/master/MIP54/MIP54.md) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
