@@ -269,7 +269,7 @@ Governance Facilitators are defined as Facilitators attached to Core Units with 
 
 #### Responsibilities
 
-MIP Editors enforces the administrative and editorial aspects of the overall MIP process and framework. This includes:
+MIP Editors enforce the administrative and editorial aspects of the overall MIP process and framework. This includes:
 -   Maintaining and managing the [MIPs Portal](mips.makerdao.com) and the [GitHub MIPs repository](https://github.com/makerdao/mips).
 -   Providing feedback in the [MIP section of the forum](https://forum.makerdao.com/c/mips/14).
 -   Managing and organizing MIP and Subproposal Preambles.
