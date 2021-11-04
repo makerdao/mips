@@ -15,20 +15,6 @@ Ratification Poll URL: https://vote.makerdao.com/polling/QmWn7G3Q?network=mainne
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp33-modify-core-unit-budget-mkt-001/10150
 ```
 
-# MIP40c3-SP33: Modify Core Unit Budget - Content Production (MKT-001)
-
-## Preamble
-
-```
-MIP40c3-SP#: 33
-Author(s): @seth
-Contributors: @JerryAG @Kat @Alec @JMarshall
-Tags: core-unit, cu-mkt-001, budget, dai-budget
-Status: Formal Submission
-Date Applied: 2021-09-03
-Date Ratified:
-```
-
 ## Sentence Summary
 
 MIP40c3-SP33 adds the budget for Core Unit MKT-001: Content Production for December 2021 through May 2022.
