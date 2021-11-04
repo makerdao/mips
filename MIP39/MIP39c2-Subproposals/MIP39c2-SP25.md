@@ -157,7 +157,7 @@ The team is composed of 5 permanent members (3.5 FTE)
 * 1 Designer & Product Manager (Lukas - 1 FTE)
 * 3 Full-stack Software Engineers (incl. DevOps) (Valentin - 1 FTE, Nils - 0.5 FTE, Ben - 0.5 FTE)
 
-The team has completed a variety of end-to-end software development projects including specifications, design, frontend, backend and infrastructure. The team consists of the founders and core team of the software development agency [SIDESTREAM](https://sidestream.tech/) that is known for high-quality software development. You can find our portfolio [here](https://lp.sidestream.tech/reference-projects-software-development). The core unit will be a separate business unit of the company.
+The team has completed a variety of end-to-end software development projects including specifications, design, frontend, backend and infrastructure. The team consists of the founders and core team of the software development agency [SIDESTREAM](https://sidestream.tech/) that is known for high-quality software development. You can find our portfolio [here](https://www.sidestream.tech/en/reference-projects-software-development). The core unit will be a separate business unit of the company.
 
 #### Work in Progress
 
