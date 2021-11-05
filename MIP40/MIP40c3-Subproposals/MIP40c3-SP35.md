@@ -7,7 +7,7 @@ MIP40c3-SP#: 35
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, cu-deco-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-08
 Date Ratified:
 Resubmission: First formally submitted for October's Governance Cycle
