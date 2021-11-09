@@ -4,8 +4,8 @@
 
 ```
 MIP40c3-SP#: 1
-Author(s): @manomad_ @andydobrucki
-Contributors: @manomad_ @andydobrucki @wouter @juanjuan
+Author(s): @manomad_ @synesthesia
+Contributors: @manomad_ @synesthesia @wouter @juanjuan
 Tags: core-unit, budget, dai-budget, makertalent
 Status: Formal Submission
 Date Applied: <2021-12-08>
@@ -20,23 +20,22 @@ MIP40c3-SP#1: adds the DAI budget for the Core Unit MT-001: Maker Talent
 
 The Maker Talent CU budget is designed with the following goals in mind:
 
-- Paying the DAI contribution of its members 
+- Paying the DAI compensation to core unit members 
 - Sponsoring events where Maker Talent will meet potential candidates and connect with its community
 - Paying a part of the referral bonus as an incentive (see MIP39 for details).
-- Paying the operational costs of the CU (like candidates management software, gas fees and job-ads)
-- Having some buffer for unexpected legal or financial expenses.
+- Paying the operational costs of the CU (e.g candidates management software, gas fees and job-ads)
+- Keeping reasonable buffer for unexpected expenses (legal, financial and other)
 
-Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
+Therefore, a vote to ratify this MIP means MKR holders will commit to:
 
-- Funding a 3 month run-way for MT-001
-
-- Replenish this budget on a quarterly basis
+- Funding a 3 month runway for MT-001
+- Replenish the budget on a quarterly basis
 
 ## Specification
 
 ### Motivation
 
-This CU will attract, connect and recruit the best talent for other CU and commercial companies of MakerDAO. This is summarized but not limited to:
+This Core Unit will attract, connect and recruit the best talent for other Core Units as well as commercial entities related to MakerDAO. This is summarized but not limited to:
 
     1. Recruit best-in-class talent for the Maker Protocol
     2. Connect with the community in small and big events.
@@ -50,11 +49,11 @@ This CU will attract, connect and recruit the best talent for other CU and comme
 
 - Events
 
-Maker Talent is planning to get acquire sponsor tickets for 3 big events and 3 small events per year. 
+Maker Talent is planning to acquire sponsor tickets for 3 major events and 3 minor events per year. 
 
 - Job offers
 
-This includes posting job-offers in important blockchain publications and sites.
+This includes posting job-offers across important blockchain publications and sites.
 
 - Providers
 
@@ -62,7 +61,7 @@ This section includes occassional lawyer services (i.e. GDPR management), a co-w
 
 - Software
 
-This includes an ATS (applicant tracking system), a subscription fee to the Linkedin Search Engine, G-Suite, Notio and hosting, among others.
+Includes an ATS subscription (applicant tracking system), a subscription fee to the Linkedin Search Engine, G-Suite, Notion wiki and hosting, among others.
 
 - Others
 
@@ -70,23 +69,23 @@ Includes a welcome pack for new joiners, gas fees and a contribution to the refe
 
 ### List of Budget Breakdown
 
-In a quarterly basis, the budget is composed of:
+On quarterly basis, the budget is composed of:
 
-Item | Amount Requested (DAI)
+Budgeted Item | Amount Requested (DAI)
 ------------ | -------------
 Maker Contribution | 103,625.11 
 Subtotal Events | 64,481.50 
 Job Offers and Posting Job ads | 5,365.00 
-Recruitment Providers | 4,379.00 D
+Recruitment Providers | 4,379.00 
 Software Licenses | 9,820.56 
 Others (i.e. gas fees) | 19,592.40 
 Subtotal Without Buffer | 207,263.57 
 Buffer 15% | 31,089.54 
-TOTAL| 238,353.10 
+**TOTAL**| **238,353.10** 
 
 TO BE MODIFIED:
 
-| MIP Editor | Rocket Chat | GitHub | Forum |
+| MIP Editor | Discord | GitHub | Forum |
 |-|-|-|-|
 | **Manomad** | [@manomad](https://chat.makerdao.com/) | [@manoplas](https://github.com/manoplas) | [@charlesstlouis](https://forum.makerdao.com/u/charlesstlouis/summary) |
 | **Pablo** | [@blimpa](https://chat.makerdao.com/) | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
