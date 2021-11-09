@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP40c3-SP#: 1
+MIP40c3-SP#: 45
 Author(s): @manomad_ @synesthesia
 Contributors: @manomad_ @synesthesia @wouter @juanjuan
 Tags: core-unit, budget, dai-budget, makertalent
@@ -47,27 +47,27 @@ This Core Unit will attract, connect and recruit the best talent for other Core 
 
 ### List of Budget Implementations
 
-- Events
+#### Events
 
 Maker Talent is planning to acquire sponsor tickets for 3 major events and 3 minor events per year. 
 
-- Job offers
+#### Job offers
 
 This includes posting job-offers across important blockchain publications and sites.
 
-- Providers
+#### Providers
 
 This section includes occassional lawyer services (i.e. GDPR management), a co-working space and accountable services, among others.
 
-- Software
+#### Software
 
 Includes an ATS subscription (applicant tracking system), a subscription fee to the Linkedin Search Engine, G-Suite, Notion wiki and hosting, among others.
 
-- Others
+#### Others
 
 Includes a welcome pack for new joiners, gas fees and a contribution to the referral bonuses paid.
 
-### List of Budget Breakdown
+### Budget Breakdown
 
 On quarterly basis, the budget is composed of:
 
