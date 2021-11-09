@@ -224,6 +224,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ---
 
+#### StarkNet Engineering
+
 - **ID** - SNE-001
 - **Summary** - In a volatile, high gas cost environment, DeFi protocols are attempting to build bridges to L2 protocols to access liquidity and remain competitive. This proposal is a plan to build a DAI bridge over Starknet within 3 months (phase I).
 - **Date Ratified** - 2021-27-09
@@ -234,6 +236,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Facilitator** - Louis Baudoin - [MIP41c4-SP20](https://mips.makerdao.com/mips/details/MIP41c4SP20)
 
 ---
+
+#### Collateral Engineering Services
 
 - **ID** - CES-001
 - **Summary** - To operationalize collateral management within the Maker Protocol allowing anyone to onboard collateral while ensuring the stability and security of the ecosystem.
@@ -246,6 +250,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ---
 
+#### Development and UX
+
 - **ID** - DUX-001
 - **Summary** - Enabling the best-in-class decentralized decision making for the Maker Protocol by providing a meaningful user experience for all governance participants.
 - **Date Ratified** - 2021-27-09
@@ -257,8 +263,10 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ---
 
+#### Strategic Happiness
+
 - **ID** - SH-001
-- **Summary** - he SHCU aims to promote community engagement and promote the Maker brand by strategically spreading happiness, positive vibes, and mild but delightful confusion throughout the Maker Community via memes, shitposts, and Bespoke Happiness Airdrops.
+- **Summary** - The SHCU aims to promote community engagement and promote the Maker brand by strategically spreading happiness, positive vibes, and mild but delightful confusion throughout the Maker Community via memes, shitposts, and Bespoke Happiness Airdrops.
 - **Date Ratified** - 2021-27-09
 - **Mandate** - [MIP39c2-SP11](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
 - **Budget Amount** - 58,000 Dai - Oct 2021-Dec 2021 + 106,500 DAI (initial payment)
