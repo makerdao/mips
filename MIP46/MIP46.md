@@ -7,7 +7,7 @@ MIP#: 46
 Title: Parameter Proposal Groups
 Author(s): @LongForWisdom, Sam MacPherson (@hexonaut)
 Contributors: @ultraschuppi
-Tags: governance
+Tags: governance, ppg
 Type: General
 Status: Accepted
 Date Proposed: 2021-02-03
