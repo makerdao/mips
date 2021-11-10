@@ -30,6 +30,7 @@ Therefore, a vote to ratify this MIP means MKR holders will commit to:
 
 - Funding a 3 month runway for MT-001
 - Replenish the budget on a quarterly basis
+- Include members of the Core Unit in the SES MKR Incentive Plan.
 
 ## Specification
 
