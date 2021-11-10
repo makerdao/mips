@@ -86,9 +86,9 @@ Buffer 15% | 31,089.54
 
 TO BE MODIFIED:
 
-| MIP Editor | Discord | GitHub | Forum |
-|-|-|-|-|
-| **Manomad** | [@manomad](https://chat.makerdao.com/) | [@manoplas](https://github.com/manoplas) | [@charlesstlouis](https://forum.makerdao.com/u/charlesstlouis/summary) |
-| **Pablo** | [@blimpa](https://chat.makerdao.com/) | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
+| MIP Editor | Discord | Forum |
+|-|-|-|
+| **Manomad** | manomad#0321| [@manomad](https://forum.makerdao.com/u/manomad/summary) |
+| **Pablo** | Andy__#5763 | [@synesthesia](https://forum.makerdao.com/u/synesthesia/summary) |
 
 * [MakerDAO MIPs Forum](https://forum.makerdao.com/c/mips/14)
