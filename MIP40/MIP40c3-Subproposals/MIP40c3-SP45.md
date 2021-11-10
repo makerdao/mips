@@ -30,7 +30,7 @@ Therefore, a vote to ratify this MIP means MKR holders will commit to:
 
 - Funding a 3 month runway for MT-001
 - Replenish the budget on a quarterly basis
-- Include members of the Core Unit in the SES MKR Incentive Plan.
+- Include members of the Core Unit in the SES MKR Incentive Plan
 
 ## Specification
 
@@ -89,6 +89,6 @@ TO BE MODIFIED:
 | MIP Editor | Discord | Forum |
 |-|-|-|
 | **Manomad** | manomad#0321| [@manomad](https://forum.makerdao.com/u/manomad/summary) |
-| **Pablo** | Andy__#5763 | [@synesthesia](https://forum.makerdao.com/u/synesthesia/summary) |
+| **Andy** | Andy__#5763 | [@synesthesia](https://forum.makerdao.com/u/synesthesia/summary) |
 
 * [MakerDAO MIPs Forum](https://forum.makerdao.com/c/mips/14)
