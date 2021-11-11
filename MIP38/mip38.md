@@ -273,3 +273,16 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Budget Implementation** - [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md#transfers)
 - **Budget Breakdown** - [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md#quarterly-budget-implementation)
 - **Facilitator** - Andrew Burban - [MIP41c4-SP11](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP11.md)
+
+---
+
+#### Data Insights
+
+- **ID** - DIN-001
+- **Summary** - The Data Insights Core Unit (DIN-001) is responsible for providing free and permissionless datasets based on detailed Maker Protocol history.
+- **Date Ratified** - 2021-25-10
+- **Mandate** - [MIP39c2-SP22](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP22.md)
+- **Budget Amount** - 59,050.00 DAI (November 1, 2021 to April 30, 2022) + 107,500 DAI (one-off payments)
+- **Budget Implementation** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-considerations)
+- **Facilitator** - Tomek Mierzwa - [MIP41c4-SP23](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP23.md)
