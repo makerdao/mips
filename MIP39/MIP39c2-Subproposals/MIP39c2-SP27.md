@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP39c?-SP#: XX?
+MIP39c2-SP#: 27
 Author(s): @manomad_ @synesthesia
 Contributors: @manomad_ @synesthesia @wouter @juanjuan
 Tags: core-unit, makertalent, mip39
@@ -14,11 +14,11 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP39c?-SP# adds Core Unit MT-001: Maker Talent
+MIP39c2-SP#: 27 adds Core Unit MT-001: Maker Talent
 
 ## Paragraph Summary
 
-MIP39c?-SP# adds Core Unit MT-001: Maker Talent is focused in recruiting best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices and offering amazing candidate experience.
+MIP39c2-SP#: 27 adds Core Unit MT-001: Maker Talent is focused in recruiting best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices and offering an amazing candidate experience.
 
 ## Specification
 
@@ -28,7 +28,7 @@ As MakerDAO and its Core Unit grows, the need of connecting with IT professional
 
 Until now, Core Units have been growing by employing their own resources and personal network, but this strategy is limited as MakerDAO scales up. 
 
-By observing the upcoming challenges for Maker in growth and adoption, and the sttrugle for finding talent within such a small niche, the lack of a recruitment strategy can compromise the success of many of our projects.
+By observing the upcoming challenges for Maker in growth and adoption, and the struggle for finding talent within such a small niche, the lack of a recruitment strategy can compromise the success of MakerDAO.
 
 We believe that a long term solution to this problem remains on developing and maintaining an active pool of blockchain professionals, that are enthusiastic about the Maker spirit and projects, so we can speed up and facilitate the process of onboarding them when needed.
 
@@ -43,10 +43,26 @@ We believe that a long term solution to this problem remains on developing and m
 
 ### Core Unit Mandate
 
+Option A.
+
+Recruit best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices, offering amazing candidate experience while being a reliable partner for the DAO hiring needs.
+
+Thriving ecosystem of Maker Core Units and commercial projects integrating with it, fulfilling their recruitment needs through Maker Talent as one stop-shop for best talent in blockchain. Maker Talent sources and recruits for the Maker Community in an efficient and transparent way, while providing state-of-art candidate experience.
+
+
+Option B.
+
 - Recruit best-in-class talent for the Maker Core Units
 - Develop a community that remains engaged to MakerDAO through social media, events and interesting online and offline activities
 - Assist facilitators in the operational side of the recruitment processes, providing market insights and guaranteeing the best candidate experience
 - Thrive our candidates database through the Maker Community, by promoting referrals programs and an easy application processes
+
+### Challenges
+
+- Demand is unstable
+- Unusual social media channels
+- Soft and long term approach
+- only a 
 
 ## Strategy
 
