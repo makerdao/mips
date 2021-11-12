@@ -48,6 +48,12 @@ This Core Unit will attract, connect and recruit the best talent for other Core 
 
 ### List of Budget Implementations
 
+Nearly 30% of this budget is represented by variable expenses that are impacted by the high demand of profiles (i.e. the more opennings we have, the more budget we will spend in posting offers, expanding our team of recruiters or even paying more referral bonuses).
+
+#### DAI Contribution
+
+Represents de the contributions to the members of the Core Unit. 
+
 #### Events
 
 Maker Talent is planning to acquire sponsor tickets for 3 major events and 3 minor events per year. 
