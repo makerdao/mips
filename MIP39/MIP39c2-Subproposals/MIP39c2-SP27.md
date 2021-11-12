@@ -18,19 +18,19 @@ MIP39c?-SP# adds Core Unit MT-001: Maker Talent
 
 ## Paragraph Summary
 
-MIP39c?-SP# adds Core Unit MT-001: Maker Talent is focused recruiting best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices and offering amazing candidate experience.
-
+MIP39c?-SP# adds Core Unit MT-001: Maker Talent is focused in recruiting best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices and offering amazing candidate experience.
 
 ## Specification
 
-### Motivation
+### Motivation: The Problem
 
-As MakerDAO and its Core Unit grows, the need of connecting with IT professionals in the blockchain sector becomes an urgent need that has to be solved fast, but with a long term strategy.
+As MakerDAO and its Core Unit grows, the need of connecting with IT professionals in the Blockchain becomes a critical matter that requires both urgent attention and a long term strategy.
 
+Until now, Core Units have been growing by employing their own resources and personal network, but this strategy is limited as MakerDAO scales up. 
 
-Till now, many Core Units have been growing by using their own resources and network, but this strategy does not scale up. If we look at the upcoming challenges in adoption and the fight for the small number of professionals in the sector, the lack of recruitment help can compromise the success of many projects.
+By observing the upcoming challenges for Maker in growth and adoption, and the sttrugle for finding talent within such a small niche, the lack of a recruitment strategy can compromise the success of many of our projects.
 
-We strongly believe that creating an active community of talented professionals that remain positive about being a Maker contributor will ease the way onboard them when needed and will promote talent as a great place for a developer to start a career.
+We believe that a long term solution to this problem remains on developing and maintaining an active pool of blockchain professionals, that are enthusiastic about the Maker spirit and projects, so we can speed up and facilitate the process of onboarding them when needed.
 
 ### Core Unit Name | ID
 
@@ -39,30 +39,39 @@ We strongly believe that creating an active community of talented professionals 
 
 ### Core Unit Facilitators
 
-- manomad
+- @manomad
 
-### Core Unit Mandate and Strategy
+### Core Unit Mandate
 
-- Recruit best-in-class talent 
-- Create a community engaged by events, social media and online activities.
-- Assist hiring managers: partners, provides training
-- provide an amazing candidate experience
-- Database and referrals
+- Recruit best-in-class talent for the Maker Core Units
+- Develop a community that remains engaged to MakerDAO through social media, events and interesting online and offline activities
+- Assist facilitators in the operational side of the recruitment processes, providing market insights and guaranteeing the best candidate experience
+- Thrive our candidates database through the Maker Community, by promoting referrals programs and an easy application processes
 
-### Identification
-- Recruit best-in-class talent  
+## Strategy
 
-### Community
-- The Core Unit Mandate
+### To attract Best-in-class talent:
+- Invest in apps and tools to reach the best developers within their communities.
+- Attract top candidates by creating a process that is fun, insightful and enriching.
+- Train recruiters so they can have the required expertise in terms of social recruiting, sourcing and MakerDAO business domain. 
+- Create a clear and easy process for candidates to apply for future opportunities: backed up by a team focused on nurturing our talent pool, doing proactive interviews and assisting to fairs and blockchain events.
+- Create an effective keyword tagging system so candidates can be shared or retrieved effectively from the pool.
 
- ### Reliable Partner
-- The Core Unit Mandate 
- ### Candidate Experience
-- The Core Unit Mandate
-- 
- ### Database and referrals
 
-- The Core Unit Mandateis the broad scope of what problems the Core Unit must solve, and what must be operated and maintained for the Core Unit to contribute to the success of the project.
-- The Core Unit Mandate should be specific enough to ensure that Maker Governance has clarity about what problems it is solving when delegating resources to the Core Unit.
-- Beyond that, the Core Unit Mandate should be as broad as possible in order to leave room for Facilitators to implement a flexible approach to solve the problems as the environment change.
-- The Core Unit Mandate can also contain directives, guidelines or suggestions from Governance that helps inform Facilitators and Contributors of the Core Unit how to act in certain situations.
+### To offer an Amazing Candidate Experience.
+
+- Act as a partner with candidates to assist them in the preparation of their interviews by explaining the process in detail and aligning expectations at all stages.
+- Train interviewers (hiring managers and recruiters) on interviewing skills.
+- Optimise and promote "Recruitee" as an easy-to-use tool for hiring by training interviewers  with insightful and useful videos and workshops.
+- Compensate candidates for doing complex tech tests.
+- Prepare a set of communication materials to guarantee that candidates are properly informed about the position, conditions, MakerDAO projects and our roadmap. 
+- Constantly improve performance of recruiters, hiring managers and everyone involved in the process by sharing qualitative feedback and KPIs from candidate surveys.
+- Make sure that effective and personalised feedback is sent to all rejected candidates.
+- Assist interviewers 15 mins before the interview to align expectations and goals.
+
+### To be a Reliable Partner for the DAO:
+
+- Act as a partner that understands the Core Unit needs and roadmap.
+- Deliver candidates that match requirements and within a reasonable timeframe.
+- Provides continuous insights about market status and candidate's funnel.
+- Create an easy-to-follow, automated and online registered process to request new hires.
