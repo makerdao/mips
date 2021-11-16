@@ -112,23 +112,30 @@ Hiring market is a double sided market. Providing great candidate experience is 
 Let's face a few real-world scenarios that can most likely pose a challenge to our endeavors and as such needs to be quickly mitigated.
 
 #### Talent scarcity
-Blockchain talent is scarce. In addition to the base hard skills, candidates need to outperform others in the new decentralised, distributed environment. How do we make sure we find the right ones and where shall we look for them?
+Blockchain talent is scarce. In addition to the base hard skills, candidates need to outperform others in the new decentralised, distributed environment. How do we make sure we reach them and how?
 
 ##### Answer
+
+Blockchain talent is pretty unusual. You don't post an offer and people start appling like in other industries, also in most of the times it is hard to know the candidate's real name and collect efficiently their deliveries accross social media. 
+
+It is necessary to connect with them through objects of interest and promote inbound recruitment. Some examples include events, webinars, sharing common practices, participating in meet-ups and stay in touch not only when you need them. The use of our community power is key: we need to transform every Maker stakeholder into a connection to the best talent.
 
 #### Sub-par candidate quality
-How do we make sure incoming candidates are properly screened e.g. a potential legal advisor's skills are assessed within and by the DAO while there is no legal authority within e.g. a Core Unit?
+How do we make sure that we ask the right questions to proof candidate's competency in an industry where everything changes so fast?
 
 ##### Answer
+
+During interviews we tend to be too much focused on what candidates reply. We are used to classic interviews question vs. answer: here the outcome ends up being limited. 
+
+We need to be able create complex but realistic problems that are similar to the scenarios that Maker faces every day. We also need to promote candidates interaction by asking with more open and insightfull questions. During an interview, the process can teach much more than the final answer. 
+
+Giving acurate and on-the-moment feedback, engage by co-creating new solutions and inspire them with Maker's vision and mindset is part or the esencial skillset to get the most and guarantee a nice interview experience.
 
 #### Measuring Performance the right way
-An usual metric for hiring agencies in the centralised world is the moment of "hire" . That puts quantity over quality. This simplistic strategy often disregards if and how long successful hire stays at their  new employer.  Funds spent on the hiring process are thus easily wasted by short retention period and both time and resources needed to phase in a new candidate into their new position.
+An usual metric for recruitment agencies in the centralised world is the moment of "hire" . That puts quantity over quality. This simplistic strategy often disregards if and how long successful hire stays at the position.  Funds spent on the hiring process are thus easily wasted by short retention period and both time and resources needed to phase in a new candidate into their new position.
 
 ##### Answer
 
-## Core Unit Growth Plan
-Following the strategy along with challenges faced is no easy task. Maker Talent core unit must therefore, in the early stages focus on hiring the right team of high-performing specialists. The initial plan for hiring for the Core Unit is as follows:
+Creating a scalable and efficient recruitment machine for Maker might require sometimes the use of recruitment agencies, but we will try to avoid it as much as possible for cost and quality porposes. Partnering with hiring managers with internal and well trained HR professionals is the key to achieve this. The more engaged we keep our community with Maker's vision and projects, the less help we will need from externals.
 
-| Sought position      |      Short description  | Predicted time to hire |
-|----------------------|-----------------------------|------------------------------|
-| Customer Happiness Manager | Candidate Recruitment and Account Management | by End of December 2021 |
+
