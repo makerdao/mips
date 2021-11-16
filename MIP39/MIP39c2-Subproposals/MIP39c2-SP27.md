@@ -1,4 +1,4 @@
-# MIP39c2: Adding/Modifying Core Units
+# MIP39c2: Adding Maker Talent Core Unit
 
 ## Preamble
 
