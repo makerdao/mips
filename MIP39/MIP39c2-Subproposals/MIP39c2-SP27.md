@@ -24,9 +24,9 @@ MIP39c2-SP#: 27 adds Core Unit MT-001: Maker Talent is focused in recruiting bes
 
 ### Motivation: The Problem
 
-As MakerDAO and its Core Unit grows, the need of connecting with IT professionals in the Blockchain becomes a critical matter that requires both urgent attention and a long term strategy.
+As MakerDAO and its Core Unit grows, the need of connecting with IT professionals in the Blockchain industry becomes a critical matter that requires both urgent attention and a long term strategy.
 
-Until now, Core Units have been growing by employing their own resources and personal network, but this strategy is limited as MakerDAO scales up. 
+Until now, Core Units have been growing by employing their own resources and personal network to find required talent, but this strategy is limited as MakerDAO scales up. 
 
 By observing the upcoming challenges for Maker in growth and adoption, and the struggle for finding talent within such a small niche, the lack of a recruitment strategy can compromise the success of MakerDAO.
 
@@ -43,51 +43,92 @@ We believe that a long term solution to this problem remains on developing and m
 
 ### Core Unit Mandate
 
-Option A.
-
+#### Mission
 Recruit best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices, offering amazing candidate experience while being a reliable partner for the DAO hiring needs.
 
+#### Vision
 Thriving ecosystem of Maker Core Units and commercial projects integrating with it, fulfilling their recruitment needs through Maker Talent as one stop-shop for best talent in blockchain. Maker Talent sources and recruits for the Maker Community in an efficient and transparent way, while providing state-of-art candidate experience.
 
+#### Our Values
 
-Option B.
-
-- Recruit best-in-class talent for the Maker Core Units
-- Develop a community that remains engaged to MakerDAO through social media, events and interesting online and offline activities
-- Assist facilitators in the operational side of the recruitment processes, providing market insights and guaranteeing the best candidate experience
-- Thrive our candidates database through the Maker Community, by promoting referrals programs and an easy application processes
-
-### Challenges
-
-- Demand is unstable
-- Unusual social media channels
-- Soft and long term approach
-- only a 
+![Maker Talent Values](C:\Users\Lenovo\Documents\dev\mips\MIP39\MIP39c2-Subproposals\supporting_materials\MIP39c2-SP27\talvalues.png)
 
 ## Strategy
 
-### To attract Best-in-class talent:
-- Invest in apps and tools to reach the best developers within their communities.
-- Attract top candidates by creating a process that is fun, insightful and enriching.
-- Train recruiters so they can have the required expertise in terms of social recruiting, sourcing and MakerDAO business domain. 
-- Create a clear and easy process for candidates to apply for future opportunities: backed up by a team focused on nurturing our talent pool, doing proactive interviews and assisting to fairs and blockchain events.
-- Create an effective keyword tagging system so candidates can be shared or retrieved effectively from the pool.
+Our primary strategy consists of four pillars, breaking down Maker Talent's mission into actionable early stage roadmaps. To grow as a reliable partner for DAO hiring needs, we need to parallelize activities across these pillars. To reiterate, we must::
+
+1.  Find the best talent across the blockchain world
+2.  Provide amazing candidate experience
+3.  Utilize Social Recruiting as main recruitment strategy
+4.  Gain reliability from hiring partners within Maker DAO
+
+![Maker Talent Values](C:\Users\Lenovo\Documents\dev\mips\MIP39\MIP39c2-Subproposals\supporting_materials\MIP39c2-SP27\mt_strategy2x.png)
+
+Let's dive a bit deeper into the strategies mentioned. Here is how we are going to make these actionable. These activities can be treated as early roadmap once the Core Unit is up and running.
+
+### Find the best talent across the blockchain world
+
+* Invest in apps and tools to reach the best developers within their communities.
+* Attract top candidates by creating a process that is fun, insightful and enriching.
+* Train recruiters so they can have the required expertise in terms of social recruiting, sourcing and MakerDAO business domain. 
+* Create a clear and easy process for candidates to apply for future opportunities: backed up by a team focused on nurturing our talent pool, doing proactive interviews and assisting to fairs and blockchain events.
+* Create an effective keyword tagging system so candidates can be shared or retrieved effectively from the pool.
 
 
-### To offer an Amazing Candidate Experience.
+### Provide amazing candidate experience.
+As talent is scarsce within the crypto space, we need to make sure we provide experience that is both fair, involving and transparent to the potential candidate. Regardless of final decision, candidates should regard time spent in recruitment process as valuable, contributing to their individual growth. 
 
-- Act as a partner with candidates to assist them in the preparation of their interviews by explaining the process in detail and aligning expectations at all stages.
-- Train interviewers (hiring managers and recruiters) on interviewing skills.
-- Optimise and promote "Recruitee" as an easy-to-use tool for hiring by training interviewers  with insightful and useful videos and workshops.
-- Compensate candidates for doing complex tech tests.
-- Prepare a set of communication materials to guarantee that candidates are properly informed about the position, conditions, MakerDAO projects and our roadmap. 
-- Constantly improve performance of recruiters, hiring managers and everyone involved in the process by sharing qualitative feedback and KPIs from candidate surveys.
-- Make sure that effective and personalised feedback is sent to all rejected candidates.
-- Assist interviewers 15 mins before the interview to align expectations and goals.
+* Act as a partner with candidates to assist them in the preparation of their interviews by explaining the process in detail and aligning expectations at all stages
+* Train interviewers (hiring managers and recruiters) on interviewing skills
+* Optimise and promote "Recruitee" as an easy-to-use tool for hiring by training interviewers  with insightful and useful videos and workshops
+* Compensate candidates for doing complex tech tests
+* Prepare a set of communication materials to guarantee that candidates are properly informed about the position, conditions, MakerDAO projects and our roadmap
+* Constantly improve performance of recruiters, hiring managers and everyone involved in the process by sharing qualitative feedback and KPIs from candidate surveys.
+* Make sure that effective and personalised feedback is sent to all rejected candidates.
+* Assist interviewers 15 mins before the interview to align expectations and goals
 
-### To be a Reliable Partner for the DAO:
+### Utilize Social Recruiting as main recruitment strategy
 
-- Act as a partner that understands the Core Unit needs and roadmap.
-- Deliver candidates that match requirements and within a reasonable timeframe.
-- Provides continuous insights about market status and candidate's funnel.
-- Create an easy-to-follow, automated and online registered process to request new hires.
+Blockchain talent - experts and developers alike are often prominent within social networks on and off-line. We need to make sure to seek them out with both inbound and outbound strategies. 
+
+* Set up easily identifiable branding for Maker Talent that promotes Maker DAO at the same time
+* Create recruiting strategies for Twitter, Github, Stack Overflow and others
+* Offer a crispy clear and fair referral program to increase talent pull effect by the DAO itself
+* Deliver workshops and keynotes around a variety of hiring and retention topics
+* Sponsor and attend industry events attracting young yet undiscovered talents
+
+### To gain reliability from hiring partners within Maker DAO
+
+Hiring market is a double sided market. Providing great candidate experience is just one side of a coin. The other side though, puts a requirement on us to be seen by the hiring parties (Core Unit Hiring Managers) as _the_  DAO Hiring Agency. 
+
+* Build a network of Subject Matter Experts to help filter and recruit best-in-class talent
+* Create a central hub for all DAO's hiring needs, easily approachable by both hiring managers and candidates
+* Act as a partner that understands the Core Unit needs and roadmap
+* Deliver candidates that match requirements  within a reasonable timeframe
+* Provide continuous insights about market status and candidate's funnel
+* Create an easy-to-follow, automated and online registered process to request new hires
+
+## Challenges we will face
+Let's face a few real-world scenarios that can most likely pose a challenge to our endeavors and as such needs to be quickly mitigated.
+
+#### Talent scarcity
+Blockchain talent is scarce. In addition to the base hard skills, candidates need to outperform others in the new decentralised, distributed environment. How do we make sure we find the right ones and where shall we look for them?
+
+##### Answer
+
+#### Sub-par candidate quality
+How do we make sure incoming candidates are properly screened e.g. a potential legal advisor's skills are assessed within and by the DAO while there is no legal authority within e.g. a Core Unit?
+
+##### Answer
+
+#### Measuring Performance the right way
+An usual metric for hiring agencies in the centralised world is the moment of "hire" . That puts quantity over quality. This simplistic strategy often disregards if and how long successful hire stays at their  new employer.  Funds spent on the hiring process are thus easily wasted by short retention period and both time and resources needed to phase in a new candidate into their new position.
+
+##### Answer
+
+## Core Unit Growth Plan
+Following the strategy along with challenges faced is no easy task. Maker Talent core unit must therefore, in the early stages focus on hiring the right team of high-performing specialists. The initial plan for hiring for the Core Unit is as follows:
+
+| Sought position      |      Short description  | Predicted time to hire |
+|----------------------|-----------------------------|------------------------------|
+| Customer Happiness Manager | Candidate Recruitment and Account Management | by End of December 2021 |
