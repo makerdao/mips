@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-10-06
 Date Ratified: <yyyy-mm-dd>  
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799/2
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPnAkS4?network=mainnet#poll-detail
 ```
 
 ## Sentence Summary
@@ -82,11 +83,11 @@ Once the Monthly Budget Statement has been delivered, the following payment flow
 
 *SAS Auditors Wallet (2:3)*
 * Controlled by the SAS Auditors
-* Address: -ADDRESS-
+* Address: 0xb1f950a51516a697E103aaa69E152d839182f6Fe
 * Signers
-  * SES Accounting (1:2, -ADDRESS- )
-  * SES Auditing (1:3, -ADDRESS- )
-  * Maker Protocol (DSS_PAUSE)
+  * SES Accounting (1:2, 0xA2A855Ac8D2a92e8A5a437690875261535c8320C)
+  * SES Auditing (1:2, 0xB2da57e224949acDDe173a5b8A8160c023ea86e6)
+  * Maker Protocol (MCD_PAUSE_PROXY, 0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB)
 
 *SAS Operational Wallet (2:3)*
 * Controlled by the SAS Core Unit team
@@ -108,13 +109,13 @@ The initial seed transaction covers three months runway based on the forecast in
 
 * *Initial Seed Transaction*
 From: Maker Protocol Surplus Buffer
-To: SAS Auditors Wallet ( -ADDRESS- )
+To: SAS Auditors Wallet (0xb1f950a51516a697E103aaa69E152d839182f6Fe)
 Amount: 245,737.50 DAI
 When: Upon approval of this MIP (approx. Dec 1 2021)
 
 * *DssVest Streaming Budget Cap*
 From: Maker Protocol Surplus Buffer
-To: SAS Auditors Wallet ( -ADDRESS- )
+To: SAS Auditors Wallet (0xb1f950a51516a697E103aaa69E152d839182f6Fe)
 Amount: 1,130,392.56 DAI
 Start: 1 Dec 2021 00:00:00
 End: 30 Nov 2022 23:59:59
