@@ -9,7 +9,8 @@ Contributors: @psychonaut
 Tags: core-unit, cu-is-001, budget, dai-budget
 Status: Formal Submission
 Date Applied: 2021-10-06
-Date Ratified: <yyyy-mm-dd>  
+Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet  
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp42-adding-immunefi-security-core-unit-budget-is-001/10813/11
 ```
 
@@ -85,9 +86,9 @@ The budget cap will differ from the actual expenses of the core unit. The cap re
 * Controlled by the IS Auditors
 * Address: 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4
 * Signers:
-	* SES Accounting (1:2, TBD)
-	* SES Auditing (1:3, TBD)
-	* Maker Protocol (DSS_PAUSE)
+	* SES Accounting (1:2, 0xA2A855Ac8D2a92e8A5a437690875261535c8320C)
+	* SES Auditing (1:2, 0xB2da57e224949acDDe173a5b8A8160c023ea86e6)
+	* Maker Protocol (MCD_PAUSE_PROXY, 0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB)
 
 **IS Operational Wallet (2:3)**
 
