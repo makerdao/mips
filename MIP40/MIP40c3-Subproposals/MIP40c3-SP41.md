@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-10-06
 Resubmission: First formally submitted for October's Governance Cycle
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/2
 ```
 
