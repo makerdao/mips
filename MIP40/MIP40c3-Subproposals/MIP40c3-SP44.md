@@ -9,7 +9,8 @@ Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana,
 Tags: core-unit, cu-sas-001, budget, mkr-budget
 Status: Formal Submission
 Date Applied: <2021-10-06>
-Date Ratified: <yyyy-mm-dd>  
+Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPnAkS4
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp44-adding-sidestream-auction-services-core-unit-mkr-budget-sas-001/10802/2
 ```
 
