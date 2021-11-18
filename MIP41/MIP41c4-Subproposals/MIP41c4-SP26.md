@@ -10,6 +10,7 @@ Tags: core-unit, cu-sas-001, facilitator
 Status: Formal Submission
 Date Applied: 2021-10-06
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPnAkS4
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp26-sidestream-auction-services-facilitator-onboarding-sas-001/10797/2
 ```  
 
