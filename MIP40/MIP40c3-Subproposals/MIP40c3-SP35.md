@@ -10,8 +10,8 @@ Tags: core-unit, cu-deco-001, budget, dai-budget
 Status: Formal Submission
 Date Applied: 2021-09-08
 Date Ratified:
-Resubmission: First formally submitted for October's Governance Cycle
-Ratification Poll URL: https://vote.makerdao.com/polling/QmZyjR4t?network=mainnet
+Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmZyjR4t)
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPPvUhN
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp35-deco-fixed-rate-core-unit-budget/10225
 ```
 
