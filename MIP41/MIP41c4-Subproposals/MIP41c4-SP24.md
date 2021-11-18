@@ -10,8 +10,8 @@ Tags: core-unit, fixed-rate, cu-deco-001, facilitator
 Status: Formal Submission
 Date Applied: 2021-09-08
 Date Ratified:
-Resubmission: First formally submitted for October's Governance Cycle
-Ratification Poll URL: https://vote.makerdao.com/polling/QmZyjR4t?network=mainnet
+Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmZyjR4t)
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPPvUhN
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp24-facilitator-onboarding-deco-fixed-rate-core-unit/10227
 ```
 
