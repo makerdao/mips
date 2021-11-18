@@ -44,7 +44,7 @@ We believe that a long term solution to this problem remains on developing and m
 ### Core Unit Mandate
 
 #### Mission
-Recruit best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices, offering amazing candidate experience while being a reliable partner for the DAO hiring needs.
+Recruit best-in-class talent for the Maker Protocol, targeted through innovative social recruiting practices, offering amazing candidate experience while being a reliable partner for MakerDAO hiring needs.
 
 #### Vision
 Thriving ecosystem of Maker Core Units and commercial projects integrating with it, fulfilling their recruitment needs through Maker Talent as one stop-shop for best talent in blockchain. Maker Talent sources and recruits for the Maker Community in an efficient and transparent way, while providing state-of-art candidate experience.
@@ -55,7 +55,7 @@ Thriving ecosystem of Maker Core Units and commercial projects integrating with 
 
 ## Strategy
 
-Our primary strategy consists of four pillars, breaking down Maker Talent's mission into actionable early stage roadmaps. To grow as a reliable partner for DAO hiring needs, we need to parallelize activities across these pillars. To reiterate, we must::
+Our primary strategy consists of four pillars, breaking down Maker Talent's mission into actionable early stage roadmaps. To grow as a reliable partner for Maker DAO hiring needs, we need to parallelize activities across these pillars. To reiterate, we must::
 
 1.  Find the best talent across the blockchain world
 2.  Provide amazing candidate experience
@@ -91,18 +91,18 @@ As talent is scarsce within the crypto space, we need to make sure we provide ex
 
 Blockchain talent - experts and developers alike are often prominent within social networks on and off-line. We need to make sure to seek them out with both inbound and outbound strategies. 
 
-* Set up easily identifiable branding for Maker Talent that promotes Maker DAO at the same time
+* Set up easily identifiable branding for Maker Talent that promotes MakerDAO at the same time
 * Create recruiting strategies for Twitter, Github, Stack Overflow and others
-* Offer a crispy clear and fair referral program to increase talent pull effect by the DAO itself
+* Offer a crispy clear and fair referral program to increase talent pull effect by MakerDAO itself
 * Deliver workshops and keynotes around a variety of hiring and retention topics
 * Sponsor and attend industry events attracting young yet undiscovered talents
 
-### To gain reliability from hiring partners within Maker DAO
+### To gain reliability from hiring partners within MakerDAO
 
-Hiring market is a double sided market. Providing great candidate experience is just one side of a coin. The other side though, puts a requirement on us to be seen by the hiring parties (Core Unit Hiring Managers) as _the_  DAO Hiring Agency. 
+Hiring market is a double sided market. Providing great candidate experience is just one side of a coin. The other side though, puts a requirement on us to be seen by the hiring parties (Core Unit Hiring Managers) as _the_  MakerDAO Hiring Agency. 
 
 * Build a network of Subject Matter Experts to help filter and recruit best-in-class talent
-* Create a central hub for all DAO's hiring needs, easily approachable by both hiring managers and candidates
+* Create a central hub for all MakerDAO's hiring needs, easily approachable by both hiring managers and candidates
 * Act as a partner that understands the Core Unit needs and roadmap
 * Deliver candidates that match requirements  within a reasonable timeframe
 * Provide continuous insights about market status and candidate's funnel
