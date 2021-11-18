@@ -10,7 +10,7 @@ Tags: core-unit, cu-rwf-001, budget, mkr-budget
 Status: Formal Submission
 Date Applied: 2021-09-22
 Date Ratified: /
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmYNiuNE?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447
 ```
 
