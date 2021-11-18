@@ -10,7 +10,7 @@ Tags: core-unit, cu-com-001, budget, dai-budget
 Status: Formal Submission
 Date Applied: 2021-10-05
 Date Ratified: xxx
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUGBMLz?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp40-modify-core-unit-budget-com-001/10756
 ```
 
