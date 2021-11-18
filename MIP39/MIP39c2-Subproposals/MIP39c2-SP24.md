@@ -9,7 +9,8 @@ Contributors: @psychonaut
 Tags: core-unit, cu-is-001, mandate
 Status: Formal Submission
 Date Applied: 2021-10-06
-Date Ratified: yyyy-mm-dd 
+Date Ratified: yyyy-mm-dd
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp24-adding-immunefi-security-core-unit-is-001/10810
 ```
 
