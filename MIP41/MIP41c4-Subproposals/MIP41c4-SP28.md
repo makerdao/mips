@@ -22,17 +22,22 @@ MIP41-SP#: XX adds Core Unit Facilitator for Maker Talent MT-001, along with MIP
 
 ## Specification
 
+### Professional background
+_Write 1-2 paragraphs about your professional career past 5 years_
+
 ### Motivation
 
 Being the a facilitator is the consequence of all the roles I have been through, from clinical Psychologist to Talent Manager in Techs and Startups.
 
 Leading this Core Unit will also mean contributing the co-creation of how DAOs will manage talent commuunities and interact with them in a very-near future.
 
-I'm convinced I belong to the small bounch of guys that believe that Blockchain can change the whole world we are living.
+I'm convinced I belong to the small bunch of people that believe that Blockchain can change the whole world we are living in.
 
 I have an extensive list of projects and future Core Units in all matters including  Training, Onboaridng, Retention and Maker's Contributor experience, among others that will born from Maker Talent. 
 
-This, for me, is the bigining of something much bigger.
+Currently I am restricted to recruitment but in the future I am planning to expand Maker Talent Core Unit into such areas as contributor onboarding, training, retention and more. 
+
+This, for me, is the beginning of something much , much bigger.
 
 ### Core Unit ID
 
@@ -48,12 +53,20 @@ Forum: @manomad
 
 ### Facilitator Commitment
 
-As a facilitator, my plan consists of:
+As a facilitator, my initial plan is as follows
 
-- Create a Team
-- Build a Community
-- Interact through events 
-- Tokenize 
+#### To understand hiring manger's needs 
+#### Keep due diligence in the Core Unit
+#### Maker sure Maker DAO has access to the best talent out there
+#### Be ready for constructive criticism, include different perspectives 
+#### Being transprent about stuff
+#### Promote healthy relations and fairness among Core Unit Members
+
+
+#### Create a Team
+#### Build a Community
+#### Interact through events 
+#### Tokenize 
 
 
 - OKRs from the Maker Talent CU involve:
