@@ -11,6 +11,7 @@ Tags: amendment, rwa
 Status: Formal Submission
 Date Proposed: 2021-09-22
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/Qme2ni4a?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip6c3-sp1-rwa-only-supplement-to-collateral-onboarding-application/10433
 ```
 
