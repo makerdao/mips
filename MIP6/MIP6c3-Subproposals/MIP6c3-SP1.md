@@ -8,9 +8,9 @@ Title: RWA Only Supplement to Collateral Onboarding Application
 Author(s): Christian Petersen (@christiancdpetersen)
 Contributors: @sebventures, @williamr, @e_rapp
 Tags: amendment, rwa
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-09-22
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme2ni4a?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip6c3-sp1-rwa-only-supplement-to-collateral-onboarding-application/10433
 ```

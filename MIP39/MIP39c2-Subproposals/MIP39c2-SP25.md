@@ -6,10 +6,10 @@
 MIP39c2-SP#: 25
 Author(s): @danik
 Contributors: @BracketJohn , @lukass , @builderman, @wouter, @juan, @Petru_Catana, @lollike, @Njoku_Emmanuel
-Tags: core-unit, cu-sas-001, mandate
-Status: Formal Submission
-Date Applied: <2021-10-06>
-Date Ratified: <yyyy-mm-dd>
+Tags: core-unit, cu-sas-001, mandate, active
+Status: Accepted
+Date Applied: 2021-10-06
+Date Ratified: 2021-11-21
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPnAkS4
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp25-adding-sidestream-auction-services-core-unit-sas-001/10796/10
 ```

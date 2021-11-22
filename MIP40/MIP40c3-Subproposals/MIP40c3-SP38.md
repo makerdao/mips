@@ -6,10 +6,10 @@
 MIP40c3-SP#: 38
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:  
-Tags: core-unit, cu-rwf-001, budget, mkr-budget
-Status: Formal Submission
+Tags: core-unit, cu-rwf-001, budget, mkr-budget, active
+Status: Accepted
 Date Applied: 2021-09-22
-Date Ratified: /
+Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmYNiuNE?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447
 ```

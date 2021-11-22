@@ -6,10 +6,10 @@
 MIP40c3-SP#: 42
 Author(s): @travinimmunefi
 Contributors: @psychonaut
-Tags: core-unit, cu-is-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-is-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-10-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet  
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp42-adding-immunefi-security-core-unit-budget-is-001/10813/11
 ```

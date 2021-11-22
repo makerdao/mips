@@ -6,7 +6,7 @@
 MIP40c3-SP#: 21
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
-Tags: core-unit, cu-mkt-001, budget, dai-budget, active
+Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-05-29
 Date Ratified: 2021-07-26
