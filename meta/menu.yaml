@@ -78,6 +78,13 @@ data:
                 name: $spsinforce
                 href: >-
                   https://mips.makerdao.com/mips/list?customViewName=Data%20Insights%20Core%20Unit%20(DIN-001)%20-%20Subproposals%20in%20Force&_Mandate=$AND(%23active,%23cu-din-001,%23mandate)&_Budgets=$AND(%23active,%23cu-din-001,%23budget)&_Facilitators=$AND(%23active,%23cu-din-001,%23facilitator)
+          - id: deco-001
+            name: 'DECO-001: Deco Fixed-Rate'
+            children:
+              - id: deco-001-active
+                name: $spsinforce
+                href: >-
+                  https://mips.makerdao.com/mips/list?customViewName=Deco%20Fixed-Rate%20Core%20Unit%20(DECO-001)%20-%20Subproposals%20in%20Force&_Mandate=$AND(%23active,%23cu-deco-001,%23mandate)&_Budgets=$AND(%23active,%23cu-deco-001,%23budget)&_Facilitators=$AND(%23active,%23cu-deco-001,%23facilitator)
           - id: dux-001
             name: 'DUX-001: Development and UX'
             children:
@@ -107,6 +114,13 @@ data:
                 name: $archive
                 href: >-
                   https://mips.makerdao.com/mips/list?customViewName=Growth%20Core%20Unit%20(GRO-001)%20-%20Subproposals%20no%20longer%20in%20Force&_Budgets=$AND(NOT(%23active),@Accepted,%23cu-gro-001,%23budget)
+          - id: is-001
+            name: 'IS-001: Immunefi Security'
+            children:
+              - id: is-001-active
+                name: $spsinforce
+                href: >-
+                  https://mips.makerdao.com/mips/list?customViewName=Immunefi%20Security%20Core%20Unit%20(IS-001)%20-%20Subproposals%20in%20Force&_Mandate=$AND(%23active,%23cu-is-001,%23mandate)&_Budgets=$AND(%23active,%23cu-is-001,%23budget)&_Facilitators=$AND(%23active,%23cu-is-001,%23facilitator)
           - id: mds-001
             name: 'MDS-001: MakerDAO Shop'
             children:
@@ -161,6 +175,13 @@ data:
                 name: $archive
                 href: >-
                   https://mips.makerdao.com/mips/list?customViewName=Real-World%20Finance%20Core%20Unit%20(RWF-001)%20-%20Subproposals%20no%20longer%20in%20Force&_Budgets=$AND(NOT(%23active),@Accepted,%23cu-rwf-001,%23budget)
+          - id: sas-001
+            name: 'SAS-001: Sidestream Auction Services'
+            children:
+              - id: sas-001-active
+                name: $spsinforce
+                href: >-
+                  https://mips.makerdao.com/mips/list?customViewName=Sidestream%20Auction%20Services%20Core%20Unit%20(SAS-001)%20-%20Subproposals%20in%20Force&_Mandate=$AND(%23active,%23cu-sas-001,%23mandate)&_Budgets=$AND(%23active,%23cu-sas-001,%23budget)&_Facilitators=$AND(%23active,%23cu-sas-001,%23facilitator)
           - id: ses-001
             name: 'SES-001: Sustainable Ecosystem Scaling'
             children:

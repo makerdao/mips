@@ -6,11 +6,11 @@
 MIP40c3-SP#: 41
 Author(s): @psychonaut
 Contributors: @travinimmunefi
-Tags: core-unit, cu-is-001, budget, mkr-budget
-Status: Formal Submission
+Tags: core-unit, cu-is-001, budget, mkr-budget, active
+Status: Accepted
 Date Applied: 2021-10-06
+Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle
-Date Ratified: <yyyy-mm-dd>
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/2
 ```

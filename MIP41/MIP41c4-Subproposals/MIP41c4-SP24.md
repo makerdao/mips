@@ -6,10 +6,10 @@
 MIP41c4-SP#: 24
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
-Tags: core-unit, fixed-rate, cu-deco-001, facilitator
-Status: Formal Submission
+Tags: core-unit, fixed-rate, cu-deco-001, facilitator, active
+Status: Accepted
 Date Applied: 2021-09-08
-Date Ratified:
+Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmZyjR4t)
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPPvUhN
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp24-facilitator-onboarding-deco-fixed-rate-core-unit/10227

@@ -6,10 +6,10 @@
 MIP40c3-SP#: 39
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
-Tags: core-unit, cu-rwf-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-rwf-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-09-29
-Date Ratified: n/a
+Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmYoEMTT
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp39-modify-core-unit-budget-rwf-001/10543
 ````
