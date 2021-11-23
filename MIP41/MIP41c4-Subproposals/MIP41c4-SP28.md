@@ -46,7 +46,7 @@ At these international and multicultural startups, the core business was always 
 
 This fast-speed-growing environments many times involved increasing the staff from 0 to 120 people in less than a year and managing a group of 2-3 recruiters plus externals.
 
-Typical profiles I'm used to interview include Tech Engineers, Product Managers, Data Analysts, CTOs or Finance Advisors, among others.
+Typical profiles I'm used to interview include Tech Engineers, Product Managers, Data Analysts, CTOs, Finance and Legal Advisors, among others.
 
 Specifically during the last 5 years, I developed myself as a Freelance Tech Recruiter for the European tech startup niche. As a side job I did Career Transition Coaching and voluntered in an NGOs as a Clinical Psychologist.
 
