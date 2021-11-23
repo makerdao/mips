@@ -1,4 +1,4 @@
-# MIP41c4: Facilitator Onboarding (Subproposal Process) Template
+# MIP41c4: Facilitator Onboarding for Maker Talent Core Unit
 
 ## Preamble
 
