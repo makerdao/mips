@@ -29,8 +29,12 @@ Maker Talent: MT-001
 ### Facilitator name and information
 
 Discord: @manomad#0321
+
 Github: @manomad 
+
 Maker Forum: @manomad 
+
+Linkedin: https://www.linkedin.com/in/mvbdigitalrecruiter/
 
 - Additionally it must contain the Facilitators Ethereum address used for Budget Implementation control and other authorizations. (we need this)
 
