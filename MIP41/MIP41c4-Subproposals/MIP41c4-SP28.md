@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP41-SP#: XX
+MIP41-SP#: 28
 Author(s): @manomad_ @synesthesia
 Contributors: @manomad_ @synesthesia @wouter @juanjuan
 Tags: core-unit, makertalent, mip39
@@ -14,13 +14,25 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP41-SP#: XX adds the Core Unit Facilitator
+MIP41c4-SP28: Adds Maker Talent Core Unit Facilitator
 
 ## Paragraph Summary
 
-MIP41-SP#: XX adds Core Unit Facilitator for Maker Talent MT-001, along with MIP 39 and 40.
+MIP41-SP28: Add Core Unit Facilitator for Maker Talent MT-001, along with MIP 39 and MIP 40.
 
 ## Specification
+
+### Core Unit ID
+
+Maker Talent: MT-001
+
+### Facilitator name and information
+
+Discord: @manomad#0321
+Github: @manomad 
+Maker Forum: @manomad 
+
+- Additionally it must contain the Facilitators Ethereum address used for Budget Implementation control and other authorizations. (we need this)
 
 ### Professional background
 
@@ -44,19 +56,7 @@ Leading this Core Unit will also mean contributing to the co-creation of how DAO
 
 I feel honoured of belonging to the small bunch of people that believe that Blockchain can change the whole world we are living in.
 
-Currently I am restricted to recruitment but **in the future I am planning to expand Maker Talent Core Unit into other areas** impacting onboarding, training, contributor experience, retention and many more more.
-
-### Core Unit ID
-
-Maker Talent: MT-001
-
-### Facilitator name and information
-
-Discord: @manomad#0321
-Github: @manomad 
-Forum: @manomad 
-
-- Additionally it must contain the Facilitators Ethereum address used for Budget Implementation control and other authorizations. (we need this)
+Currently I am restricted to recruitment but **in the future I am planning to expand Maker Talent Core Unit into other areas** impacting onboarding, training, contributor experience, retention and many more.
 
 ### Facilitator Commitment
 
