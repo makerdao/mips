@@ -286,3 +286,16 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Budget Implementation** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-implementation)
 - **Budget Breakdown** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-considerations)
 - **Facilitator** - Tomek Mierzwa - [MIP41c4-SP23](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP23.md)
+
+---
+
+#### Deco Fixed-Rate
+
+- **ID** - DECO-001
+- **Summary** - The Deco protocol is a fixed rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
+- **Date Ratified** - 2021-22-11
+- **Mandate** - [MIP39c2-SP23](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
+- **Budget Amount** - 59,050.00 DAI (November 1, 2021 to April 30, 2022) + 107,500 DAI (one-off payments)
+- **Budget Implementation** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-considerations)
+- **Facilitator** - Tomek Mierzwa - [MIP41c4-SP23](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP23.md)
