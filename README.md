@@ -70,7 +70,6 @@ Remember that MIP Editors are there to clarify the process and help you. Don't h
 
 | MIP Editor | Rocket Chat | GitHub | Forum |
 |-|-|-|-|
-| **Charles** | [@charlesstlouis](https://chat.makerdao.com/) | [@CPSTL](https://github.com/CPSTL) | [@charlesstlouis](https://forum.makerdao.com/u/charlesstlouis/summary) |
 | **Pablo** | [@blimpa](https://chat.makerdao.com/) | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
 
 ## Helpful Resources 
