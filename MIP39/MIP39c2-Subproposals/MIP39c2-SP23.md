@@ -9,7 +9,7 @@ Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, fixed-rate, cu-deco-001, mandate, active
 Status: Accepted
 Date Proposed: 2021-09-08
-Date Ratified: 2021-11-21
+Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmZyjR4t)
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPPvUhN
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp23-adding-the-deco-fixed-rate-core-unit/10224
