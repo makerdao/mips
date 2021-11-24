@@ -105,29 +105,29 @@ a. Protocol Credits held more than the MIP Term commitment will be labeled as �
 ##### Initial Seed Transfer
 
 The initial seed transfer shall be $465,625 DAI and sent to the Auditor Wallet upon vote approval of Deco’s Core Unit MIP. 
-**What:** Initial transfer of the total budget cap for the 3-month runway.
-**When:** Upon executive vote approval (spell cast).
-**How:** Automatically (spell cast).
-**Amount:** **465,625.00 DAI**
-**Sender:** Maker Protocol Surplus Buffer
-**Recipient:** Auditor Wallet: 0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7
+- **What:** Initial transfer of the total budget cap for the 3-month runway.
+- **When:** Upon executive vote approval (spell cast).
+- **How:** Automatically (spell cast).
+- **Amount:** **465,625.00 DAI**
+- **Sender:** Maker Protocol Surplus Buffer
+- **Recipient:** Auditor Wallet: 0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7
 
 ##### DssVest Auditor Wallet Stream
 
-**From:** Maker Protocol Surplus Buffer
-**To:** Auditor Wallet: 0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7
-**Term:** Dec 1, 2021 – Sept 1, 2024 (33 Months)
-**Rate:** 155,208.33 DAI / month streamed continuously
+- **From:** Maker Protocol Surplus Buffer
+- **To:** Auditor Wallet: 0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7
+- **Term:** Dec 1, 2021 – Sept 1, 2024 (33 Months)
+- **Rate:** 155,208.33 DAI / month streamed continuously
 
 ##### December 1, 2021, Transfer
 
 The Deco Auditor Wallet signers will manually transfer one month’s operating budget floor to the Deco Operations Wallet upon receipt. 
-**What:** Initial operational wallet transfer of the monthly operating budget floor.
-**When:** Immediately upon receipt of 3-month runway seed transfer by Auditor’s Wallet
-**How:** Manually by Auditor’s Wallet
-**Amount:** **155,208.33 DAI**
-**Sender:** Auditor Wallet: 0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7
-**Recipient:** Deco Operational Wallet: 0x56349A38e09f36039f6AF77309690d217Beaf0bF
+- **What:** Initial operational wallet transfer of the monthly operating budget floor.
+- **When:** Immediately upon receipt of 3-month runway seed transfer by Auditor’s Wallet
+- **How:** Manually by Auditor’s Wallet
+- **Amount:** **155,208.33 DAI**
+- **Sender:** Auditor Wallet: 0xF482D1031E5b172D42B2DAA1b6e5Cbf6519596f7
+- **Recipient:** Deco Operational Wallet: 0x56349A38e09f36039f6AF77309690d217Beaf0bF
 
 ### Budget Breakdown
 
