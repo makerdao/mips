@@ -269,7 +269,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Summary** - The SHCU aims to promote community engagement and promote the Maker brand by strategically spreading happiness, positive vibes, and mild but delightful confusion throughout the Maker Community via memes, shitposts, and Bespoke Happiness Airdrops.
 - **Date Ratified** - 2021-27-09
 - **Mandate** - [MIP39c2-SP11](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
-- **Budget Amount** - 58,000 Dai - Oct 2021-Dec 2021 + 106,500 DAI (initial payment)
+- **Budget Amount** - 58,000 Dai - Oct 2021-Dec 2021 + 106,500 Dai (initial payment)
 - **Budget Implementation** - [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md#transfers)
 - **Budget Breakdown** - [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md#quarterly-budget-implementation)
 - **Facilitator** - Andrew Burban - [MIP41c4-SP11](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP11.md)
@@ -295,7 +295,33 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Summary** - The Deco protocol is a fixed rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
 - **Date Ratified** - 2021-22-11
 - **Mandate** - [MIP39c2-SP23](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
-- **Budget Amount** - 59,050.00 DAI (November 1, 2021 to April 30, 2022) + 107,500 DAI (one-off payments)
-- **Budget Implementation** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-implementation)
-- **Budget Breakdown** - [MIP40c3-SP34](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP34.md#budget-considerations)
-- **Facilitator** - Tomek Mierzwa - [MIP41c4-SP23](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP23.md)
+- **Budget Amount** - Initial seed transfer of 465,625 Dai + 155,208.33 Dai/month streamed continuously
+- **Budget Implementation** - [MIP40c3-SP35](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP35](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md#budget-breakdown)
+- **Facilitator** - Vamsi Alluri - [MIP41c4-SP24](https://mips.makerdao.com/mips/details/MIP41c4SP24)
+
+---
+
+#### Immunefi Securiy
+
+- **ID** - IS-001
+- **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
+- **Date Ratified** - 2021-22-11
+- **Mandate** - [MIP39c2-SP24](https://mips.makerdao.com/mips/details/MIP39c2SP24)
+- **Budget Amount** - 634,972.45 Dai (Total Budget Cap spanning a 12-month cycle)
+- **Budget Implementation** - [MIP40c3-SP42](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP42](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md#budget-cap-breakdown)
+- **Facilitator** - Travin Keith - [MIP41c4-SP25](https://mips.makerdao.com/mips/details/MIP41c4SP25)
+
+---
+
+#### Sidestream Auction Services
+
+- **ID** - SAS-001
+- **Summary** - Sidestream Auction Services's mission is to improve security, transparency and accessibility of the Maker Protocol by providing and maintaining auction services through open-source development.
+- **Date Ratified** - 2021-22-11
+- **Mandate** - [MIP39c2-SP25](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP25.md)
+- **Budget Amount** - 282,598.13 Dai (Total Budget Cap spanning a three-month runway)
+- **Budget Implementation** - [MIP40c3-SP43](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP43.md#budget-implementation)
+- **Budget Breakdown** - [MIP40c3-SP43](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP43.md#list-of-budget-breakdowns)
+- **Facilitator** - Daniel Kremerov - [MIP41c4-SP26](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP26.md)
