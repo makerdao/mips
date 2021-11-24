@@ -6,10 +6,10 @@
 MIP40c3-SP#:36
 Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
-Tags: core-unit, cu-deco-001, budget, mkr-budget
-Status: Formal Submission
+Tags: core-unit, cu-deco-001, budget, mkr-budget, active
+Status: Accepted
 Date proposed: 2021-09-08
-Date Ratified:
+Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmZyjR4t)
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPPvUhN
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp36-deco-fixed-rate-core-unit-mkr-budget/10226
