@@ -1,4 +1,4 @@
-# MIP40c3-SP28: Adding the StarkNet Engineering Core Unit (SNE-001)
+# MIP40c3-SP28: Adding the StarkNet Engineering Core Unit Budget (SNE-001)
 
 ## Preamble
 
