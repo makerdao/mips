@@ -82,7 +82,7 @@ The GovAlpha Team will consist of at least the following members for the next tw
 @Sebix - Part Time Contributor  
 @AstronautThis - Part Time Contributor  
 @Mkrorbkr - Part Time Contributor
-@ultrashuppi - Part Time Contributor (pending Core Unit application)
+@ultraschuppi - Part Time Contributor (pending Core Unit application)
 
 
 
