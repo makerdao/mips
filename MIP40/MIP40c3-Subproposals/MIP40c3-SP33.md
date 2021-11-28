@@ -6,10 +6,10 @@
 MIP40c3-SP#: 33
 Author(s): @seth
 Contributors: @JerryAG @Kat @Alec @JMarshall
-Tags: core-unit, cu-mkt-001, budget, dai-budget
+Tags: core-unit, cu-mkt-001, budget, dai-budget, active
 Status: Formal Submission
 Date Applied: 2021-09-03
-Date Ratified:
+Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmWn7G3Q)
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPTCHwr
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp33-modify-core-unit-budget-mkt-001/10150
