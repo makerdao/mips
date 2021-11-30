@@ -293,7 +293,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
     - **Budget Amount** - 5,036,124 DAI / year
     - **Budget Implementation** - Manual
     - **Budget Breakdown** - [MIP40c3-SP15 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md#budget)
-- MKR Vesting - [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md)
+- **MKR Vesting** - [MIP40c3-SP15](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP15.md)
 
 ##### Facilitator
 
