@@ -1,4 +1,4 @@
-[^1]# MIP38: DAO Primitives State
+# MIP38: DAO Primitives State
 
 ## Preamble
 ```
