@@ -1,21 +1,22 @@
-# MIP0c12-SP2: Subproposal for Core Personnel Onboarding (Governance Facilitator) 
+# MIP0c11-SP2: Subproposal for Core Personnel Onboarding (Governance Facilitator) 
 
 ## Preamble
 ```
-MIP0c12-SP#: 2
+MIP0c11-SP#: 2
 Author: LongForWisdom
 Contributors: n/a
 Tags: personnel-xboarding, governance
 Status: Accepted
 Date Proposed: 2020-05-04
 Date Ratified: 2020-05-28
+Notes: Originally MIP0c12-SP2. MIP0's components got rearranged.
 ---
 Core Personnel Role: Governance Facilitator
 Proposed applicant: LongForWisdom
 ```
 
 ## Sentence Summary
-MIP0c12-SP2 onboards LongForWisdom as Governance Facilitator.
+MIP0c11-SP2 onboards LongForWisdom as Governance Facilitator.
 
 ## Application Form
     
