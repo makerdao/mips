@@ -86,11 +86,12 @@ MIP63c4 subproposals must use the [MIP63c4-Subproposal-Template](https://github.
 Any community member can begin an offboarding process. Reasons for termination include, but are not limited to:
 
  * Network is operating out of order. The network is continually operating out of order with respect to the Sequencer.
- * Network is not maintaining its budget limits. They frequently go outside of the min/max limit when this can be prevented (by streaming more DAI for example).
+* Network is missing too many keeper actions when it should be executing.
+* Network is not maintaining its budget limits. They frequently go outside of the min/max limit when this is able to be prevented (by streaming more DAI for example).
 
 The parameters for MIP63c5 subproposals are:
 
-**Feedback Period**: 3 weeks
-**Frozen Period**: 1 week
+- **Feedback Period**: 3 weeks
+- **Frozen Period**: 1 week
 
 **Outcome**: Keeper network is either offboarded successfully or they continue as-is. If offboarded, the budget will be terminated from `dss-vest` at the next available opportunity.
