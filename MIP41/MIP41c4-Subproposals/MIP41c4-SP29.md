@@ -14,7 +14,7 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Sentence Summary
 
-MIP41c4-SP29: Adds Maker Talent Core Unit Facilitator
+MIP41c4-SP29: Adds Maker Talent Core Unit Facilitator.
 
 ## Paragraph Summary
 
