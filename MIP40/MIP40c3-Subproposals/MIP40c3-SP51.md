@@ -79,7 +79,7 @@ Any changes to these amounts will be reported and reviewed by our budget auditor
 
 ### Payment Implementation
 
-This payment implementation is based on the [SES MKR budget proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md)
+This payment implementation is based on the [SES MKR budget proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md).
 
 - Payment of the MKR tokens will follow the same flow as described in [MIP40c3-SP50](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP50.md).
 - As defined above and in the Monthly Budget Statement, it contains the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
