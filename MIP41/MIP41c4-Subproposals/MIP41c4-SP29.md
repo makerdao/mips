@@ -28,9 +28,9 @@ Maker Talent: MT-001
 
 ### Facilitator name and information
 
-Discord: manomad#0321
-Maker Forum: @manomad 
-Linkedin: https://www.linkedin.com/in/mvbdigitalrecruiter/
+- Discord: manomad#0321
+- Maker Forum: @manomad 
+- Linkedin: https://www.linkedin.com/in/mvbdigitalrecruiter/
 
 ### Professional background
 
