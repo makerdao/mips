@@ -6,16 +6,15 @@
 MIP41c4-SP#:28
 Author(s): Mark Phillips (@Aes)
 Contributors:
-Tags: core-unit, cu-fs-001, facilitator
-Status: RFC
+Tags: core-unit, cu-sf-001, facilitator
+Status: RFC 
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
-Forum URL: https://forum.makerdao.com/t/mip41c4-sp28-facilitator-onboarding-financial-strategy-fs-001/11939/
 ```
 
 ## Sentence Summary
 
-MIP41c4-SP28 onboards Mark Phillips (@Aes) as Facilitator for the Financial Strategy Core Unit.
+MIP41c4-SP28 onboards Mark Phillips (@Aes) as Facilitator for the Strategic Finance Core Unit.
 
 ## Specification
 
@@ -25,7 +24,7 @@ FS-001
 
 ### Core Unit Name
 
-Financial Strategy
+Strategic Finance
 
 ## Motivation
 
@@ -37,25 +36,25 @@ People who have worked with me in the past know me as a builder---there is nothi
 
 ## Facilitator Commitment
 
-My commitment as the FS team facilitator is to:
+My commitment as the SF team facilitator is to:
 
-- Serve as a point of contact between the Financial Strategy Core Unit, the Governance community and other facilitators to ensure alignment on team deliverables and objectives
+- Serve as a point of contact between the Strategic Finance Core Unit, the Governance community and other facilitators to ensure alignment on team deliverables and objectives
 - Represent the Core Unit to the community by:
 	- Engaging with the community and synthesizing feedback for the team to help iterate on our ideas
 	- Communicating team updates, roadmap, and releases to the community
 	- Demonstrating to stakeholders how our contributions bring value to the protocol
 	- Acting under principles of transparency
 	- Attending relevant meetings and delivering status updates
-- Work with FS Team Lead to:
+- Work with SF Team Lead to:
 	- Define Core Unit management framework and team KPIs
 	- Set up legal structure of the Core Unit
 	- Draft and deliver required MIPs
 
 ## Facilitator Name and Information
 
-• Name: Mark Phillips
-• Forum: @Aes
-• Discord: @Aes#7287
+- Name: Mark Phillips
+- Forum: @Aes
+- Discord: @Aes#7287
 
 ## Facilitator Credentials
 

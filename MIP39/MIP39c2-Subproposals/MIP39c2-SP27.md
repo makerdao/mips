@@ -1,4 +1,4 @@
-# MIP39c2-SP27: Financial Strategy Core Unit
+# MIP39c2-SP27: Adding Strategic Finance Core Unit (SF-001)
 
 ## Preamble
 
@@ -6,26 +6,25 @@
 MIP39c2-SP#: 27
 Author(s): @Aes
 Contributors: @SebVentures
-Tags: core-unit, cu-fs-001, mandate
+Tags: core-unit, cu-sf-001, mandate
 Status: RFC
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
-Forum URL: https://forum.makerdao.com/t/mip39c2-sp27-adding-financial-strategy-core-unit/11938/
 ```
 
 ## Sentence Summary
 
-MIP adds Core Unit FS-001: Financial Strategy Core Unit
+MIP39c2-SP27 adds Core Unit SF-001: Strategic Finance Core Unit.
 
 ## Specification
 
 ### Core Unit ID
 
-FS-001
+SF-001
 
 ### Core Unit Name
 
-Financial Strategy
+Strategic Finance
 
 ### Core Unit Facilitator
 
@@ -52,7 +51,7 @@ Our vision is to provide the most accurate and clear financial reporting across 
 
 ### Strategy & Current Work
 
-FS encompasses the traditional finance functions including financial reporting, planning, analysis, and accounting, as well as an advisory component that helps facilitate consensus around the DAO's strategic priorities. This work as detailed below and in the 'RWF Efforts' section will be continued with the approval of the FS Core Unit. This work includes but is not limited to:
+SF encompasses the traditional finance functions including financial reporting, planning, analysis, and accounting, as well as an advisory component that helps facilitate consensus around the DAO's strategic priorities. This work as detailed below and in the 'RWF Efforts' section will be continued with the approval of the SF Core Unit. This work includes but is not limited to:
 
 - Publishing Monthly Financial Statements
 - Posting Monthly Financial Reports
@@ -63,22 +62,20 @@ FS encompasses the traditional finance functions including financial reporting, 
 - Analyzing Profitability by Vault
 - Building new SQL queries to support the Strategic Focus Areas for the Recurring Strategy Reviews and KPIs
 
-
 Our approach to working with the DAO is focused on collaboration. We believe partnering with the other Core Units and MKR holders with each bringing our strengths and expertise to the table will yield multiplicative benefits compared to working purely in silos. This does not mean the Core Unit is dependent on other Core Units to execute the current work and envisioned scope, only that results will be maximized through collaboration. This collaboration is already happening today and will only get better moving forward. 
- 
 
-### Road Map
+### Roadmap
 
-The FS CU will initially focus on continuing to build a solid financial reporting foundation and continue its work on the [RWF FP&A roadmap](https://forum.makerdao.com/t/rwf-financial-planning-analysis-roadmap/9756), prioritizing work based on community feedback.
+The SF CU will initially focus on continuing to build a solid financial reporting foundation and continue its work on the [RWF FP&A roadmap](https://forum.makerdao.com/t/rwf-financial-planning-analysis-roadmap/9756), prioritizing work based on community feedback.
 
-The current road map includes:
+The current roadmap includes:
 
-- Create a Strategic Action Plan (STRAP) to develop plans to achieve DAO-wide long-term goals
-    - Determine the protocol's strategic position
-    - Prioritize Objectives
-    - Develop & formalize the strategic plan
-    - Execute and manage the plan
-    - Review and revise the plan as necessary
+- Create a Strategic Action Plan (STRAP) to develop plans to achieve DAO-wide long-term goals by facilitating:
+    - Determining the protocol's strategic position
+    - Prioritization of Objectives
+    - Developing & formalizing the strategic plan
+    - The assessment of executing the plan
+    - The review and revision of the plan as necessary
 - Facilitate recurring Strategy reviews to:
     - Assess how CUs are executing the mission and agreed upon strategy
     - Understand issues and obstacles the DAO needs to address
@@ -91,11 +88,18 @@ The current road map includes:
 - Asset-Liability Management:
     - Reporting of the current and future balance sheet structure in term of interest rate, duration, maturity and profitability
     - Researching and proposing ways to optimize the balance sheet allocation
-- Financial reporting & KPI dashboard
+    - Provide insights into [borrower risks](https://forum.makerdao.com/t/borrowers-concentration-analysis/12014) and analyzing customer capital flows
+- Financial Reporting & Planning
+     - Monthly Financial Reports
+     - Monthly Expense Reports
+     - Monthly Revenue & Expense Forecasts
+     - Budgeting support through building Budget Templates and providing expense analysis to CUs
+- KPI dashboard
+     - Building real-time dashboards leveraging on-chain data to measure DAO-approved Strategic Focus Areas and Key Performance Indicators 
 - Real-time Vault Profitability Analysis
 
-
 ### Community Involvement
+
 - Educate community members in understanding the protocol, its economics, and risk aspects
 - Develop models for community members
 - Review community proposals
@@ -103,10 +107,10 @@ The current road map includes:
 
 ### Team Structure
 
-The full team will be composed of 4 permanent members:
+The full team and current budget will be composed of 4 permanent members:
 
 - 1 Finance & Strategy Facilitator - @Aes
-- 1 Head of Asset-Liability Management - @SebVentures
+- 1 Title TBD - @SebVentures
 - 1 Senior Finance Manager
 - 1 Senior Data Analyst
 
@@ -129,6 +133,6 @@ As part of the RWF CU, the team has already delivered a number of reports, model
 - [Budget Simulator with Revenue & Cash Flow Forecast](https://forum.makerdao.com/t/makerdao-budget-simulator-as-of-7-21-21-revenue-cash-flow-forecast/9469)
 - [Key Performance Indicator Discussion](https://forum.makerdao.com/t/discussion-makerdao-key-performance-indicators-kpis-capital-allocation/7863)
 
-
 ### Domain Evolution
-The Financial Strategy Core Unit aims to build a solid financial foundation for the DAO that enables the creation and growth of other specialized financial Core Units with expertise in diverse areas of finance. Some examples include Corp Dev (M&A), Asset-Liability Management, Treasury, Accounting, Audit, and Governance Relations.
+
+The Strategic Finance Core Unit aims to build a solid financial foundation for the DAO that enables the creation and growth of other specialized financial Core Units with expertise in diverse areas of finance. Some examples include Corp Dev (M&A), Asset-Liability Management, Treasury, Accounting, Audit, and Governance Relations.

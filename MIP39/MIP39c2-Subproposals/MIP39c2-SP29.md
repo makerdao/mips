@@ -18,33 +18,13 @@ MIP39c2-SP29 adds the TechOps Core Unit (TOCU-001) to handle the system administ
 
 ## Paragraph Summary
 
-The TechOps Core Unit will handle system administration and technical support needs of Maker Protocol and its Core Units. TOCU-001 will strive to improve communication and collaboration between the developers, end users, and other stakeholders by applying DevOps principles to software delivery and first-class technical support. TOCU-001 will get things done safer and faster in an automated and repeatable way with the help from some of the modern Infrastructure Administration tools, while continuously monitoring and improving the process throughout.
+The TechOps Core Unit will handle system administration and technical support needs of Maker Protocol and its Core Units. TOCU-001 will strive to improve communication and collaboration between the developers, end users, and other stakeholders by applying DevOps principles to software delivery and first-class technical support.
 
 ## Specification
 
 ### Motivation
 
-TOCU-001 is passionately supporting secure, reliable and transparent infrastructure in order to improve MakerDAO’s collaboration, agility, and resilience. Stakeholders in the Maker Ecosystem such as the Maker Community, the Maker Governance, other CUs, and users of the Maker Protocol (DAI holders) know that they can rely on an experienced team to set up and securely maintain their infrastructure.
-
-### Mission
-
-To provide technical support services to MakerDAO stakeholders and liaison with external service providers while ensuring the effectiveness, reliability and security of the MakerDAO infrastructure layer.
-
-### Vision
-
-TOCU-001 is a team of passionate professionals with quality-first attitude, extensive experience in the Maker Ecosystem and a heavy interest in the always developing Web3 space.
-
-The infrastructure we deliver is reinforced by:
-
-* _Reliability_ - Secure and reliable operations, resulting in high service availability, robust monitoring, and regular safe deployments
-* _Support_ - 24/7 detection and incident response with high level of redundancy between critical components and team members
-* _Transparency_ - Accessibility and transparency to other CUs and the broader MakerDAO community. Stakeholders will be kept informed regularly about the state of the infrastructure, its cost structure and the tradeoffs involved
-
-TOCU-001 closely collaborates with the stakeholders of the Maker Ecosystem facilitating:
-
-* _Education_ - TOCU-001 properly educates stakeholders about operational security best practices and regularly reviews them for improvements
-* _Point of contact_ - TOCU-001 facilitates incident response and acts as a first line of support for external security researchers and Maker Ecosystem participants
-* _Integration_ - New participants in the Maker Ecosystem and third-party integrators can access and reuse infrastructure scripts and recipes from the service catalogue created and maintained by TOCU-001
+TOCU-001 is looking forward to passionately support secure, reliable and transparent infrastructure in order to improve MakerDAO’s collaboration, agility, and resilience. Stakeholders in the Maker Ecosystem such as the Maker Community, the Maker Governance, other CUs, and users of the Maker Protocol (DAI holders) know that they can rely on an experienced team to set up and securely maintain their infrastructure.
 
 ### Core Unit ID
 
@@ -53,10 +33,6 @@ TOCU-001
 ### Core Unit Name
 
 TechOps
-
-### Proposed Core Unit Facilitator(s)
-
-Simon KP (@eskp) and Dumitru Zavrotschi (@d01)
 
 ### Core Unit Team
 
@@ -111,25 +87,25 @@ Will be looking to hire in the near future. The main objective is to relieve the
 
 ## Core Unit Mandate
 
-### Challenges
+### Mission
 
-The team has identified a number of key challenges and has worked out a strategy to anticipate them: 
+To provide technical support services to MakerDAO stakeholders and liaison with external service providers while ensuring the effectiveness, reliability and security of the MakerDAO infrastructure layer.
 
-**Implementing secure self-service infrastructure**
+### Vision
 
-The team needs to strike a balance between maintaining necessary control to ensure secure operations while at the same time giving technical stakeholders as much freedom as possible to maintain control their own infrastructure.
+TOCU-001 is a team of passionate professionals with quality-first attitude, extensive experience in the Maker Ecosystem and a heavy interest in the always developing Web3 space.
 
-**Team knowledge sharing and keeping up to date within and outside MakerDAO ecosystem**
+The infrastructure we deliver is reinforced by:
 
-Being a 24/7 team spread geographically by design, communication naturally becomes a challenge. We try to avoid knowledge silos and reduce the bus factor, making sure that on-duty team members are sufficiently informed to help with incoming requests at any time.
+* _Reliability_ - Secure and reliable operations, resulting in high service availability, robust monitoring, and regular safe deployments
+* _Support_ - 24/7 detection and incident response with high level of redundancy between critical components and team members
+* _Transparency_ - Accessibility and transparency to other CUs and the broader MakerDAO community. Stakeholders will be kept informed regularly about the state of the infrastructure, its cost structure and the tradeoffs involved
 
-**Incoming vs Project Workload Prioritisation**
+TOCU-001 closely collaborates with the stakeholders of the Maker Ecosystem facilitating:
 
-Completing internal project work as well as incoming support tasks to make tomorrow’s infrastructure and services better than today's---not just getting jobs done as they come in. Eliminating toil by managing technical debt and implementing lean processes.
-
-**Collaboration and communication with stakeholders without getting blocked**
-
-Context switching between projects and keeping timelines in sync with the stakeholders becomes an issue as the number of projects increase.
+* _Education_ - TOCU-001 properly educates stakeholders about operational security best practices and regularly reviews them for improvements
+* _Point of contact_ - TOCU-001 facilitates incident response and acts as a first line of support for external security researchers and Maker Ecosystem participants
+* _Integration_ - New participants in the Maker Ecosystem and third-party integrators can access and reuse infrastructure scripts and recipes from the service catalogue created and maintained by TOCU-001
 
 ### Strategy
 
@@ -140,10 +116,10 @@ Source: atlassian.com
 
 #### Plan
 
-- Establish clear priorities: Ensure that urgent or time sensitive work is prioritized appropriately
+- Establish clear priorities: Ensure that urgent or time sensitive work is prioritised appropriately
 - Conduct peer code reviews: A minimum of two other engineers looking at every code change
-- Limit WIP (Work in Progress): Minimize context switching and improve quality of work
-- Knowledge sharing sessions: Analyze our performance and update the process as necessary
+- Limit WIP (Work in Progress): Minimise context switching and improve quality of work
+- Knowledge sharing sessions: Analyse our performance and update the process as necessary
 
 #### Provision Infrastructure with Infrastructure as Code
 
@@ -193,7 +169,8 @@ The initial list is included below:
     - **Oracle (ORA-001)**
     	- Administration, Monitoring and new Collateral onboarding
         - Addition of each new collateral type touches various systems that need to be reconfigured to accept said collateral. Systems such as Oracle Feeds and Relayers, monitoring, dashboards, keepers, changelog and _spell_ whitelisting.
-        - _Note_: A different MIP will be put forward to the community to transfer the ownership of the current Oracle Feed and Relayers from the Maker Foundation to TOCU.	
+        
+      _Note_: A different MIP will be put forward to the community to transfer the ownership of the current Oracle Feed and Relayers from the Maker Foundation to TOCU.	
     - **Development & UX (DUX-001)** - GovPollDB hosting & maintenance
     - **GovAlpha (GOV-001)** - Monitoring spells and voting
     * **Immunefi Security (IS-001)** - Runbooks for incident response and emergency procedures
@@ -203,9 +180,9 @@ The initial list is included below:
 Critical Maker protocol components such as:
 
 - Flap auctions
-- Forum
-- Website
-- Blog
+- Forum*
+- Website*
+- Blog*
 - Discord administration
 - Various keepers - open source services to facilitate Maker smart contracts operations
 	- [Chief Keeper](https://github.com/makerdao/chief-keeper)
@@ -216,17 +193,15 @@ Critical Maker protocol components such as:
 	- Poker Keeper
 	- Drip Keeper
 
-**Note**: TOCU-001 will only take responsibility for the infrastructure hosting exclusively as Platform Manager, and will not be responsible for the content hosted on these platforms.
-
+  \* **Note**: TOCU-001 will only take responsibility for the infrastructure hosting exclusively as Platform Manager, and will not be responsible for the content hosted on these platforms. 
 The team will work with the community and follow the procedures laid out in [MIP60](https://forum.makerdao.com/t/mip60-intangible-asset-assignment/10319) to establish Content Managers for the respective platforms.
-
 At the very minimum the contact details of the Content Manager need to be publicly available on the platform. Platforms without a designated Content Manager will be taken offline after a notice period of 70 days.
 
-**Note**: Gas costs are not included in our [MIP40c3-SP28](https://forum.makerdao.com/t/mip40c3-sp28-techops-core-unit-dai-budget/12072) budget proposal. TOCU-001 will work with the relevant stakeholders and MakerDAO governance to organize the provisioning of ETH to cover these costs. TOCU-001 will at any time be managing these funds in service of the MakerDAO community and will at no time take ownership of the assets that are involved in the process. The Maker Protocol will be added as beneficiary in the multisigs that are part of this setup wherever practically feasible. 
+  \*\* **Note**: Gas costs are not included in our [MIP40c3-SP28](https://forum.makerdao.com/t/mip40c3-sp28-techops-core-unit-dai-budget/12072) budget proposal. TOCU-001 will work with the relevant stakeholders and MakerDAO governance to organise the provisioning of ETH to cover these costs. TOCU-001 will at any time be managing these funds in service of the MakerDAO community and will at no time take ownership of the assets that are involved in the process. The Maker Protocol will be added as beneficiary in the multisigs that are part of this setup wherever practically feasible. 
 
 - Infrastructure Monitoring & Alerts: Dashboards, response to alerts and Reports
 
-**Note**: TOCU-001 is not responsible for any actions taken from looking at the metrics presented through the dashboards hosted by TOCU-001. All the data is public and available to be consumed by everyone.
+  **Note**: TOCU-001 is not responsible for any actions taken from looking at the metrics presented through the dashboards hosted by TOCU-001. All the data is public and available to be consumed by everyone.
 
 - Development & QA
 - Infrastructure design, CI/CD pipelines and staging environments
@@ -260,8 +235,8 @@ At the very minimum the contact details of the Content Manager need to be public
 
 - Infrastructure as Code Automation
 	- Cloud Environment provisioning
-	- Cost management & Optimizations
-- Source control and artifacts management
+	- Cost management & Optimisations
+- Source control and artefacts management
 	- GitHub and Docker repositories
 - CI/CD - Setting up automated delivery and testing pipelines to deploy Maker services to various environments with confidence
 	- Github Actions and other CI systems
@@ -269,7 +244,7 @@ At the very minimum the contact details of the Content Manager need to be public
 	- Various server metrics
 	- Service availability and performance monitoring
 - Log Aggregation
-	- Centralize log data storage for easy developer access, analysis and optional alerting
+	- Centralised log data storage for easy developer access, analysis and optional alerting
 - Knowledge Sharing and Training
 	- Expected to be continuously learning
 	- Provide environment for safe experimentation
@@ -282,10 +257,4 @@ At the very minimum the contact details of the Content Manager need to be public
 - Eth2 nodes administration
 - Container orchestration on Kubernetes
 - Chaos Engineering implementation for testing the redundancy of components
-- Mapping and establishing Service Level Indicators (SLIs) and Service Level Objectives (SLOs). Made popular by Google, SLOs are a tool to help determine what engineering work to prioritize, therefore increasing reliability of services
-
-### Related Documents
-
-* [MIP40c3-SP28: TechOps Core Unit DAI Budget](https://forum.makerdao.com/t/mip40c3-sp28-techops-core-unit-dai-budget/12072)
-* [MIP41c4-SP28: TechOps Core Unit - Facilitator Onboarding - Simon](https://forum.makerdao.com/t/mip41c4-sp28-techops-core-unit-facilitator-onboarding-simon/12073)
-* [MIP41c4-SP28: TechOps Core Unit - Facilitator Onboarding - Dumitru](https://forum.makerdao.com/t/mip41c4-sp28-techops-core-unit-facilitator-onboarding-dumitru/12074)
+- Mapping and establishing Service Level Indicators (SLIs) and Service Level Objectives (SLOs). Made popular by Google, SLOs are a tool to help determine what engineering work to prioritise, therefore increasing reliability of services

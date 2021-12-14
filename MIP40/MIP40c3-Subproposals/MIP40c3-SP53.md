@@ -73,7 +73,7 @@ At the end of the calendar year, all unused funds will be returned to the Maker 
 
 #### People Cost
 
-The total people cost includes Compensation and Other people costs such as benefits, including healthcare and any taxes and fees relating to compensating people for their work. As a contingency this has been scaled by 25% to help with any unknown costs involved in dealing with multiple jurisdictions worldwide.
+The total people cost includes Compensation and Other people costs such as benefits, including healthcare and any taxes and fees relating to compensating people for their work. As a contingency this has been scaled by up by 5% to help with any unknown costs involved in dealing with multiple jurisdictions worldwide.
 
 The essential factor of TechOps services is 24/7/365 support. This requires proper coverage across all time zones. The Core Unit team already has a total time zone coverage with Engineers in the Americas (1 Engineer), Europe (3) and APAC (1). We plan to hire another 2 Engineers in the near future to improve time zone coverage, namely in the Americas (+1) and APAC (+1).
 

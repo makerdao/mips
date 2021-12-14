@@ -334,11 +334,11 @@ Oracle Emergency Funds = $1,784,424.60 + $181,849.32 * 6/52
 Oracle Emergency Funds = $1,805,407.21
 ```
 
-This budget is expected to be voted on in December 2021. The Maker Foundation would  front Oracle gas costs until the OCU has access to the requested funds. This means the refund would approximately cover the range 08/01/21 to 12/31/22. If the current rate of spending holds, this would be approximately:
+This budget is expected to be voted on in December 2021. The Maker Foundation would front Oracle gas costs until the OCU has access to the requested funds. This means the refund would approximately cover the range 08/01/21 to 12/31/21. If the current rate of spending holds, this would be approximately:
 
 ```
 Maker Foundation Refund = Annual Oracles Gas Cost * Days Since August 1st, 2021 / 365 Days per Year
-Maker Foundation Refund = $7,236,833.10 * 153/365 
+Maker Foundation Refund = $7,236,833.10 * 153/365
 Maker Foundation Refund = ~$3,033,522
 ```
 
@@ -353,13 +353,13 @@ Maker Foundation Refund = ~$3,033,522
 
 | Item     | Cost |
 | -------- | -------- |
-| Oracle Gas Cost (01/01/22 - 03/31/21) | $3,932,547.84  |
+| Oracle Gas Cost (01/01/22 - 03/31/22) | $3,932,547.84  |
 | Oracle Emergency Fund | $1,805,407.21 |
-| Maker Foundation Refund ~(8/1/21 - 12/31/21)     | $3,033,522     |
+| Maker Foundation Refund ~(8/1/21 - 12/31/21) | $3,033,522 |
 | | |
 | Total | $8,771,477.05 |
 
-*The only recurring item of this budget will be the 3-month Oracle Gas Cost. The Foundation refund is a one-time expense, and the Emergency Fund only need to be funded once and topped up if ever utilized. Realized gas costs are likely to be lower than what is budgeted, this is by design.*
+*The only recurring item of this budget will be the 3-month Oracle Gas Cost. The Foundation refund is a one-time expense, and the Emergency Fund only need to be funded once and topped up if ever utilized. Realized gas costs are likely to be lower than what is budgeted. This is by design.*
 
 ### Budget Implementation
 
@@ -367,7 +367,7 @@ Maker Foundation Refund = ~$3,033,522
 
 Funds will be split up into two multi-sig wallets that are separate from the Oracle Core Unit Operations Multi-sigs and Oracle Core Unit Emergency Multi-sig.
 
-**Multisig #1 = Oracle Gas Costs**  
+**Multisig #1 = Oracle Gas Costs**
 
 ```
 Signers = 5
@@ -380,7 +380,7 @@ Nik - Oracle Core Unit Faciliator - @NikKunkel
 Marc-Andre - OCU Engineering Team Lead - @marcandu
 0xf63EfEE2A663b04cB5a09De6E3EB910d8442131D
 
-George - Tech-Ops Core Unit - 
+George - Tech-Ops Core Unit -
 TBD
 
 Primoz - Risk Core Unit Facilitator - @doopson 
@@ -390,7 +390,7 @@ PunchIt Inc. - Protocol Engineering Core Contributor - @cmooney
 0xEeF3026eF864C9398c008195E65d16D9cb42a512
 ```
 
-**Multisig #2 = Oracle Emergency Fund**  
+**Multisig #2 = Oracle Emergency Fund**
 
 ```
 Signers = 3
@@ -403,7 +403,7 @@ Nik - Oracle Core Unit Faciliator - @NikKunkel
 Marc-Andre - OCU Engineering Team Lead - @marcandu
 0xf63EfEE2A663b04cB5a09De6E3EB910d8442131D
 
-George - Tech-Ops Core Unit - 
+George - Tech-Ops Core Unit -
 TBD
 ```
 
