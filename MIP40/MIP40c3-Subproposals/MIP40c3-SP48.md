@@ -1,4 +1,4 @@
-# MIP40c3-SP48: Financial Strategy MKR Compensation (FS-001)
+# MIP40c3-SP48: Strategic Finance MKR Compensation (SF-001)
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP40c3-SP#: 48
 Author(s): Mark Phillips (@Aes)
 Contributors:
-Tags: core-unit, cu-fs-001, budget, mkr-budget
+Tags: core-unit, cu-sf-001, budget, mkr-budget
 Status: RFC
 Date Applied: 2021-12-07
 Date Ratified:
@@ -14,7 +14,7 @@ Date Ratified:
 
 ## Sentence Summary
 
-MIP40c3-SP48 adds the MKR Incentive Plan budget for Core Unit FS-001: Financial Strategy.
+MIP40c3-SP48 adds the MKR Incentive Plan budget for Core Unit SF-001: Strategic Finance.
 
 ## Paragraph Summary
 
@@ -32,21 +32,21 @@ We used [“Alternative MKR Compensation Guidelines”](https://forum.makerdao.c
 
 ## Vesting Details
 
-| Property | 	Value |
-|----------|----------|
-|MKR/USD lock-in Price (New)|Trailing 2-month average|
-|MKR/USD lock-in Price (OG)|MKR = $2,605 (10/1/21 - 12/1/21)| 
-|Vesting Period|3 years|
-|Cliff Vest|	12 months|
-|Vesting Schedule|After the cliff has expired, the quarterly MKR amount vests every 3 months and is distributed on July/Oct/Jan/Apr 1st, depending on each individual full-time onboarding|
-|Manual Repricing|yes|
-|Auto-Renewal|yes|
-|Estimated Max Total team MKR After 1 Year (4 FTE)|320|
-|Estimated Max Total team MKR After 3 Years (4 FTE)|960|
+| Property | Value |
+|---|---|
+| MKR/USD lock-in Price (New) | Trailing 2-month average |
+| MKR/USD lock-in Price (OG) | MKR = $2,605 (10/1/21 - 12/1/21) |
+| Vesting Period | 3 years |
+| Cliff Vest | 12 months |
+| Vesting Schedule | After the cliff has expired, the quarterly MKR amount vests every 3 months and is distributed on July/Oct/Jan/Apr 1st, depending on each individual full-time onboarding |
+| Manual Repricing | yes |
+| Auto-Renewal | yes |
+| Estimated Max Total team MKR After 1 Year (4 FTE) | 320 |
+| Estimated Max Total team MKR After 3 Years (4 FTE) | 960 |
 
-\* _Note that this estimation is based on all 4 FTEs joining the Financial Strategy Core Unit on day 1. There are currently only 2 FTEs working for the Financial Strategy Core Unit which reduces the actual amount of MKR expended for FS-001 vesting (estimated currently at 160 MKR per year). If the MKR price increases significantly from current levels, the amount of MKR tokens allocated to new contributors will decrease._
+\* _Note that this estimation is based on all 4 FTEs joining the Strategic Finance Core Unit on day 1. There are currently only 2 FTEs working for the Financial Strategy Core Unit which reduces the actual amount of MKR expended for SF-001 vesting (estimated currently at 160 MKR per year). If the MKR price increases significantly from current levels, the amount of MKR tokens allocated to new contributors will decrease._
 
-Manual repricing allows any contributor of FS-001 to calculate a new MKR/USD lock-in price using the trailing 2-month average. This ensures that contributors who join during a bull market aren’t penalized relative to new contributors who join later during a bear market. In order to prevent abuse, manual repricing will reset the 12-month cliff vest period.
+Manual repricing allows any contributor of SF-001 to calculate a new MKR/USD lock-in price using the trailing 2-month average. This ensures that contributors who join during a bull market aren’t penalized relative to new contributors who join later during a bear market. In order to prevent abuse, manual repricing will reset the 12-month cliff vest period.
 
 ### Current Team MKR Vesting Schedule
 
@@ -91,7 +91,7 @@ On average, the team MKR vesting schedule yields 80 MKR per FTE per year, or 320
 
 ## Payment Implementation
 
-The Financial Strategy Core Unit will leverage DssVest with individual contributor vesting schedules. MKR payment for DSSVest #1 & #2 will be for the time the FS-001 contributors were in RWF-001. New hire MKR will be allocated from the 84,000.1 MKR treasury controlled by MakerDAO. Vesting schedule will be posted monthly for transparency. Unallocated MKR will be returned to the DAO. 
+The Strategic Finance Core Unit will leverage DssVest with individual contributor vesting schedules. MKR payment for DSSVest #1 & #2 will be for the time the SF-001 contributors were in RWF-001. New hire MKR will be allocated from the 84,000.1 MKR treasury controlled by MakerDAO. Vesting schedule will be posted monthly for transparency. Unallocated MKR will be returned to the DAO. 
 
 Two DSSVest implementation will be created immediately after the approval of this MIP:
 
