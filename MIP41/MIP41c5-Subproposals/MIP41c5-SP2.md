@@ -7,10 +7,10 @@ MIP41c5-SP#: 2
 Author(s): Rune Christensen
 Contributors:
 Tags: personnel-xboarding
-Status: RFC
+Status: Withdrawn
 Date Applied: 2021-30-10
 Date Ratified:  
-Forum URL: https://forum.makerdao.com/t/mip41c5-sp1-facilitator-offboarding-rwf-001/11306
+Forum URL: https://forum.makerdao.com/t/mip41c5-sp1-facilitator-offboarding-rwf-001/
 ```
 
 ## Sentence Summary

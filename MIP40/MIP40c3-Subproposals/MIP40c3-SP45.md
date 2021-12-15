@@ -10,6 +10,7 @@ Tags: core-unit, cu-ora-001, budget
 Status: RFC
 Date Applied: 2021-11-09
 Date Ratified: n/a
+Forum Post URL:https://forum.makerdao.com/t/mip40c3-sp45-modify-core-unit-budget-ora-001-oracle-gas-costs/
 ```
 
 ## Sentence Summary

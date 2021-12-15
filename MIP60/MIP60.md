@@ -15,7 +15,7 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP24, MIP41
 Replaces: N/A  
 Ratification Poll:
-Forum URL: https://forum.makerdao.com/t/mip60-intangible-asset-assignment/10319
+Forum URL: https://forum.makerdao.com/t/mip60-intangible-asset-assignment
 ```
 
 ## References

@@ -10,7 +10,7 @@ Tags: personnel-xboarding
 Status: RFC
 Date Applied: <2021-10-30>
 Date Ratified:  
-Forum URL: https://forum.makerdao.com/t/mip41c4-spx-facilitator-onboarding-rwf-001/11308
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp27-facilitator-onboarding-rwf-001
 ```
 
 ## Sentence Summary

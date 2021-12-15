@@ -10,6 +10,7 @@ Tags: core unit, cu-mkt-001, facilitator, personnel-xboarding
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified:
+Forum Post URL: https://forum.makerdao.com/t/mip41c5-sp3-facilitator-offboarding-mkt-001
 ```
 
 ## Sentence Summary
