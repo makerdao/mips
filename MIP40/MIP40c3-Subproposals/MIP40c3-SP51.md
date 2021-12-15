@@ -10,6 +10,7 @@ Tags: core-unit, cu-mt-001, budget, mkr-budget
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
+Forum Post URL: https://forum.makerdao.com/t/mip40c3-sp51-modify-core-unit-budget-mkr-maker-talent-mt-001
 ```
 
 ## Sentence Summary

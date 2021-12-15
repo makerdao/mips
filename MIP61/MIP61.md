@@ -14,6 +14,7 @@ Date Proposed: 2021-10-01
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces: <List of MIP it is replacing>
+Forum Post URL: https://forum.makerdao.com/t/mip61-delegate-compensation/
 ```
 
 ## References

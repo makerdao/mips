@@ -10,6 +10,7 @@ Tags: core-unit, cu-sf-001, mandate
 Status: RFC
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
+Forum Post URL: https://forum.makerdao.com/t/mip39c2-sp27-adding-financial-strategy-core-unit/11938
 ```
 
 ## Sentence Summary

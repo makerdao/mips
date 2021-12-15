@@ -15,6 +15,7 @@ Date Ratified: n/a
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
+Forum Post URL: https://forum.makerdao.com/t/mip63-maker-keeper-network
 ```
 
 ## References

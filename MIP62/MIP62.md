@@ -14,6 +14,7 @@ Date Proposed: 2021-12-06
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces: None
+Forum Post URL: https://forum.makerdao.com/t/mip62-collateral-offboarding-process
 ```
 
 ## References
