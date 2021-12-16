@@ -8,7 +8,7 @@ Tags: core-unit, cu-sne-001, budget, dai-budget
 Status: RFC
 Date Applied: <2021-07-12>
 Date Ratified: <yyyy-mm-dd>
-Forum Post URL: https://forum.makerdao.com/t/mip40c3-sp47-core-unit-budget-sne-001-phase-ii-starknet-fast-withdrawal-and-wormhole
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp47-core-unit-budget-sne-001-phase-ii-starknet-fast-withdrawal-and-wormhole
 ```
 
 ## Sentence Summary

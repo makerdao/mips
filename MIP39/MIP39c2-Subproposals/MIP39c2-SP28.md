@@ -10,7 +10,7 @@ Tags: core-unit, cu-mt-001, mandate
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
-Forum Post URL: https://forum.makerdao.com/t/mip39c2-sp28-adding-maker-talent-core-unit-mt-001
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp28-adding-maker-talent-core-unit-mt-001
 ```
 
 ## Sentence Summary

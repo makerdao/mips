@@ -10,7 +10,7 @@ Tags: core-unit, cu-sf-001, facilitator
 Status: RFC 
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
-Forum Post URL: https://forum.makerdao.com/t/mip41c4-sp28-facilitator-onboarding-financial-strategy-fs-001/
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp28-facilitator-onboarding-financial-strategy-fs-001/
 ```
 
 ## Sentence Summary

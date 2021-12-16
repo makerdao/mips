@@ -10,7 +10,7 @@ Tags: core-unit, cu-dux-001, budget, dai-budget
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified: YYYY-MM-DD
-Forum Post URL: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-unit-budget-dux-001
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-unit-budget-dux-001
 ``` 
 
 ## Sentence Summary

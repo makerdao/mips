@@ -10,7 +10,7 @@ Tags: core-unit, cu-tocu-001, budget, mkr-budget
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified: YYYY-MM-DD
-Forum Post URL: https://forum.makerdao.com/t/mip40c3-sp54-techops-core-unit-mkr-budget
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp54-techops-core-unit-mkr-budget
 ```
 
 ## Sentence Summary
