@@ -10,7 +10,7 @@ Tags: core-unit, cu-tocu-001, mandate
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
-Forum Post URL: https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tocu-001
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tocu-001
 ```
 
 ## Sentence Summary

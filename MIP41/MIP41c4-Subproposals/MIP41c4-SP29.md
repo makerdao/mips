@@ -10,7 +10,7 @@ Tags: core-unit, cu-mt-001, facilitator
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
-Forum Post URL: https://forum.makerdao.com/t/mip41c4-sp29-facilitator-onboarding-for-maker-talent-core-unit-mt-001
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp29-facilitator-onboarding-for-maker-talent-core-unit-mt-001
 ```
 
 ## Sentence Summary

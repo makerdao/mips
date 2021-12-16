@@ -10,7 +10,7 @@ Tags: core-unit, cu-tocu-001, facilitator
 Status: RFC
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
-Forum Post URL: https://forum.makerdao.com/t/mip41c4-spxx-techops-core-unit-facilitator-onboarding-simon
+Forum URL: https://forum.makerdao.com/t/mip41c4-spxx-techops-core-unit-facilitator-onboarding-simon
 ```
 
 ## Sentence Summary

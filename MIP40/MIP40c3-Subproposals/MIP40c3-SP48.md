@@ -10,7 +10,7 @@ Tags: core-unit, cu-sf-001, budget, mkr-budget
 Status: RFC
 Date Applied: 2021-12-07
 Date Ratified:
-Forum Post URL: https://forum.makerdao.com/t/mip40c3-sp48-financial-strategy-unit-mkr-compensation-fs-001/
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp48-financial-strategy-unit-mkr-compensation-fs-001/
 ```
 
 ## Sentence Summary
