@@ -2,7 +2,7 @@
 
 [//]: # "These are comments that clarify the template. Remove them once they've been read."
 
-[//]: # "When titling this subproposal, use: 'MIP39c2: Adding [Core Unit name]([Core Unit ID])' or 'MIP39c2: Modifying [...]"
+[//]: # "When titling this subproposal, use: 'MIP39c2: Adding [Core Unit name]([Core Unit ID])' (or 'Modifying', as the case may be)"
 
 [//]: # "Feel free to add new headers, but refrain from removing those included by default (unless the possibility is explicitely indicated) and from altering their order."
 
