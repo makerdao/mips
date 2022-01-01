@@ -45,7 +45,7 @@ The **MKR Expenditure Cap** included in the table above covers the total vesting
 
 The **Estimated MKR Expenditure** is our best guess of how much MKR will be used with the current team configuration with **3.4 FTEs**. This would result in the vesting schedule below:
 
-||Vesting Date|MKR Amount|
+|Vesting Date|MKR Amount|
 |--|--|
 |December 8, 2022|257.31|
 |June 8, 2023|128.65 |
@@ -66,7 +66,7 @@ Reasons why the Actual MKR Expenditure could rise closer to the MKR Expenditure 
 
 ### Payment Implementation
 		
-![Wallet setup](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-54/wallet-setup.png)
+![Wallet setup](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP54/wallet-setup.png)
 
 - As defined in [MIP40c3-SP53](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP53.md) and in the [Monthly Budget Statement](https://github.com/MakerOps/tocu-transparency-reporting) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
