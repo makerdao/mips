@@ -1,4 +1,4 @@
-# MIP40c3-SP46: Strategic Finance Core Unit Budget: SF-001
+# MIP40c3-SP46: Adding Strategic Finance Core Unit Budget (SF-001)
 
 ## Preamble
 
@@ -29,7 +29,7 @@ MIP40c3-SP46 adds the budget for Core Unit SF-001: Strategic Finance. It contain
 
 ### Motivation
 
-Based on the nature of the work done by the Strategic Finance Core Unit (FS), the budget reflects the needs of the team to ensure continuity of the work described in our [MIP39c2-SP27](https://forum.makerdao.com/t/mip39c2-sp27-adding-financial-strategy-core-unit/11938). This is summarized in, but not limited to:
+Based on the nature of the work done by the Strategic Finance Core Unit (SF-001), the budget reflects the needs of the team to ensure continuity of the work described in our [MIP39c2-SP27](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP27.md). This is summarized in, but not limited to:
 
 - Maintaining Financial Statements, Reporting, and existing Dashboards
 - Driving alignment and facilitating discussion for Strategic Focus Areas & KPIs
@@ -40,11 +40,11 @@ Based on the nature of the work done by the Strategic Finance Core Unit (FS), th
 
 ### Core Unit ID
 
-FS-001
+SF-001
 
 ### Budget Implementation
 
-The FS budget is designed with the following in mind:
+The SF-001 budget is designed with the following in mind:
 
 - Paying for the operational costs to run the core unit
 - Having a buffer for unexpected legal, technical, or financial problems

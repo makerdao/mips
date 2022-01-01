@@ -371,7 +371,7 @@ Funds will be split up into two multi-sig wallets that are separate from the Ora
 **Multisig #1 = Oracle Gas Costs**
 
 ```
-Signers = 5
+Signers = 6
 Quorum = 3
 
 Signers:
@@ -381,8 +381,11 @@ Nik - Oracle Core Unit Faciliator - @NikKunkel
 Marc-Andre - OCU Engineering Team Lead - @marcandu
 0xf63EfEE2A663b04cB5a09De6E3EB910d8442131D
 
-George - Tech-Ops Core Unit -
-TBD
+Simon - Tech-Ops Core Unit Co-Facilitator - @simonkp
+0xA60C77efe539166F1C4a6cE2512F3cBF451fFbc5
+
+Dumitru Zavrotschi - Tech-Ops Core Unit Co-Facilitator - @dumitru
+0xcebd4Fa8c2c6014F2F7924De3Ae617BdD42ca25B
 
 Primoz - Risk Core Unit Facilitator - @doopson 
 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c
@@ -404,8 +407,8 @@ Nik - Oracle Core Unit Faciliator - @NikKunkel
 Marc-Andre - OCU Engineering Team Lead - @marcandu
 0xf63EfEE2A663b04cB5a09De6E3EB910d8442131D
 
-George - Tech-Ops Core Unit -
-TBD
+Simon - Tech-Ops Core Unit - 
+0xA60C77efe539166F1C4a6cE2512F3cBF451fFbc5
 ```
 
 The emergency multi-sig has a lower signing threshold than the general multi-sig because of the need to ensure that in an emergency funds are available to fuel the Oracles. Unlike people which can convinced with rhetoric that their paychecks will be late, Oracles are smart-contract which are much more resolute. You either pay them, and they do what you want, or you don't pay them and they will do nothing. Therefore, it's imperative that the emergency fund is easy to access and not susceptible to uncommon but high impact scenarios such as "multiple signers: on a plane, asleep, off-the-grid, generally unreachable, bus-factor, etc."

@@ -43,7 +43,7 @@ Our vision is to provide the most accurate and clear financial reporting across 
 
 - Providing clear, easily digestible financial information to the DAO that enables stakeholders to make informed decisions for the protocol
 - Building financial dashboards and tools that provide real-time financial data directly from the blockchain so stakeholders can understand the health of the protocol
-- Partnering with SES to implemented standardized and automated expense reporting vs budgets
+- Partnering with SES to implement standardized and automated expense reporting vs budgets
 - Collaborating with Growth and Risk Core Units to provide financial analysis of prospective deals
 - Working with the Protocol Engineering and Oracle Core Units to model growth opportunities and risks
 - Asset-liability management and innovation through investing protocol assets to generate yield (real-world assets, DeFi, etc.)
@@ -52,22 +52,22 @@ Our vision is to provide the most accurate and clear financial reporting across 
 
 ### Strategy & Current Work
 
-SF encompasses the traditional finance functions including financial reporting, planning, analysis, and accounting, as well as an advisory component that helps facilitate consensus around the DAO's strategic priorities. This work as detailed below and in the 'RWF Efforts' section will be continued with the approval of the SF Core Unit. This work includes but is not limited to:
+Strategic Finance encompasses the traditional finance functions, including financial reporting, planning, analysis, and accounting, as well as an advisory component that helps facilitate consensus around the DAO's strategic priorities. This work, as detailed below and in the *RWF Efforts* section, will be continued with the approval of SF-001. This work includes but is not limited to:
 
 - Publishing Monthly Financial Statements
 - Posting Monthly Financial Reports
 - Reporting Actual Monthly Expenses & Forecasting by Core Unit
-- Partnering with @Nadia and @Primoz to negotiate terms for the Nexo Institutional Vault as well as another 600M+ undisclosed prospective IV customer 
-- Maintenance of the Real Time Financial Dashboard
+- Partnering with GRO-001 Facilitator @Nadia and RISK-001 Facilitator @Primoz to negotiate terms for the Nexo Institutional Vault as well as another 600M+ undisclosed prospective IV customer 
+- Maintenance of the Real-Time Financial Dashboard
 - Forecasting Revenue and Profitability
 - Analyzing Profitability by Vault
 - Building new SQL queries to support the Strategic Focus Areas for the Recurring Strategy Reviews and KPIs
 
-Our approach to working with the DAO is focused on collaboration. We believe partnering with the other Core Units and MKR holders with each bringing our strengths and expertise to the table will yield multiplicative benefits compared to working purely in silos. This does not mean the Core Unit is dependent on other Core Units to execute the current work and envisioned scope, only that results will be maximized through collaboration. This collaboration is already happening today and will only get better moving forward. 
+Our approach to working with the DAO is focused on collaboration. We believe partnering with the other Core Units and MKR holders, with each bringing our strengths and expertise to the table will yield multiplicative benefits compared to working purely in silos. This does not mean the Core Unit is dependent on other Core Units to execute the current work and envisioned scope; only that results will be maximized through collaboration. This collaboration is already happening today and will only get better moving forward. 
 
 ### Roadmap
 
-The SF CU will initially focus on continuing to build a solid financial reporting foundation and continue its work on the [RWF FP&A roadmap](https://forum.makerdao.com/t/rwf-financial-planning-analysis-roadmap/9756), prioritizing work based on community feedback.
+SF-001 will initially focus on continuing to build a solid financial reporting foundation and continue its work on the [RWF FP&A roadmap](https://forum.makerdao.com/t/rwf-financial-planning-analysis-roadmap/9756), prioritizing work based on community feedback.
 
 The current roadmap includes:
 
@@ -78,18 +78,18 @@ The current roadmap includes:
     - The assessment of executing the plan
     - The review and revision of the plan as necessary
 - Facilitate recurring Strategy reviews to:
-    - Assess how CUs are executing the mission and agreed upon strategy
+    - Assess how CUs are executing the mission and agreed-upon strategy
     - Understand issues and obstacles the DAO needs to address
-    - Discuss new opportunity that have arisen that the DAO may want to pursue
+    - Discuss new opportunities that have arisen that the DAO may want to pursue
     - Decide if adjustments to the plan are needed
     - Facilitate optimal capital allocation
 - Partnering with SES to standardize and automate expense reporting across the DAO
     - Increase transparency and reporting standards to provide more accountability to CU spend
 - Build out 'Governance Relations' by partnering with CU leadership to frame and communicate MakerDAO's strategy, operations & financial results to the community
 - Asset-Liability Management:
-    - Reporting of the current and future balance sheet structure in term of interest rate, duration, maturity and profitability
+    - Reporting of the current and future balance sheet structure in terms of interest rate, duration, maturity and profitability
     - Researching and proposing ways to optimize the balance sheet allocation
-    - Provide insights into [borrower risks](https://forum.makerdao.com/t/borrowers-concentration-analysis/12014) and analyzing customer capital flows
+    - Providing insights into [borrower risks](https://forum.makerdao.com/t/borrowers-concentration-analysis/12014) and analyzing customer capital flows
 - Financial Reporting & Planning
      - Monthly Financial Reports
      - Monthly Expense Reports

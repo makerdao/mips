@@ -33,11 +33,9 @@ To continue supporting critical MakerDAO infrastructure, the TechOps Core Unit p
 
 ### Budget Implementation
 
-![TOCU_Wallet_Setup|690x379](upload://psxXZF2tHZPCZRjgbKWeYSbiqw9.jpeg)
+![TOCU_Wallet_Setup](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP53/wallet-setup.jpeg)
 
 The budget implementation will follow standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance. 
-
-*Details will be added ASAP.*
 
 The TOCU-001 budget is designed with the following in mind:
 
@@ -52,6 +50,61 @@ Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 - Streaming the annual budget for TOCU using *DssVest* for 1 year.
 - A continuous funding model based on [the SES top-up mechanism](https://forum.makerdao.com/t/mip40c3-sp10-modify-core-unit-budget-ses-001/7369).
 
+#### Multi-sig Wallets
+
+The following multi-sigs are involved:
+
+1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants. 
+   The Accountant Role Multi-sig will have 2 signers---both SES permanent team contributors. The Auditor Role Multi-sig will also have 2 signers, also both SES permanent team contributors. SES will conduct the monthly auditing process as described in the Monthly Top-up Cycle, increasing transparency of the auditing process for the community.
+   The Maker Protocol (`MCD_PAUSE_PROXY`, `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB`) will be listed as a beneficiary on the Auditor Wallet. This allows the protocol to withdraw up to 1B DAI from the Auditor Multi-sig wallet, ensuring control over these funds and acting as a backup.
+   This multi-sig will hold funds up to the Quarterly Budget Cap in DAI and receive the DssVest stream. All funds pass through this wallet before any are sent to the Operational Wallet.
+2. **The Operational Wallet** -- One wallet for TOCU operational expenses. This is a 2-out-of-2 multi-sig controlled by TOCU. Signers include both the facilitators of TOCU.
+   The Maker Protocol (`MCD_PAUSE_PROXY`, `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB`) will also be listed as a beneficiary on the Operational Wallet. This allows the protocol to withdraw up to 1B DAI from the Operational Multi-sig wallet, ensuring control over these funds and acting as a backup.
+
+#### Monthly Budget Statement
+
+Within the first 5 days of each month, TOCU will submit a Monthly Budget Statement to the signers of the Auditor Wallet with the following sections:
+
+1. **Previous Month Actuals** -- The actual expenses (DAI and MKR) of the month that just ended.
+2. **Budget Forecast** - A forecast of the Dai amount required to maintain a 3-month operational runway for the team based on the latest available information.
+3. **MKR Vesting Overview** - A schedule of the expected MKR vesting amounts for the current team configuration, grouped by the pay-out month.
+4. **Transactions**
+   * The required DAI amount sent from the Auditor Wallet to the Operational Wallet to replenish the 3-month runway as indicated in the Budget Forecast section.
+   * Any excess DAI amount above the 3-month forecast in the Operational Wallet that will be returned to the Auditor Wallet
+The Monthly Budget Statements can be found in [this GitHub repository](https://github.com/MakerOps/tocu-transparency-reporting).
+
+#### Monthly Top-up Cycle
+
+1. **Monthly Budget Statement Submission** – Within the first 5 days of the month, TOCU submits the Monthly Budget Statement to the Auditor Wallet signers. This report is also available for the rest of the community to review.
+2. **Transaction Requests Submission** -- In parallel, TOCU submits the necessary transaction requests for the Auditor Wallet signers to sign:
+   * DAI Top-up Transaction – One DAI transaction for the Operational Wallet that adds enough funds to the Operational Wallet to replenish the forecast 3-month runway. Only applies if the Operational Wallet balance is below this forecast.
+3. **Returning Excess Funds** – TOCU creates and signs any transactions for excess funds that should be returned to the Auditor Wallet:
+   * Excess DAI Transactions – DAI transactions for Operational Wallets that have a balance above the 3-Month Budget Forecast will be returned to the Auditor Wallet.
+4. **DssVest Pull** - The Auditor Wallet signers will pull available funds from the TOCU DssVest contract, replenishing the available funds in the Auditor Wallet.
+6. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by TOCU to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings. 
+   A summary of each audit cycle’s report will be made available to the Maker Community at the conclusion of the audit cycle on the TOCU’s transparency reporting repository on Github.
+6. **Transaction Approvals** – Upon acceptance of the Monthy Budget Statement audit, an Accountant Role signer and an Auditor Role signer will sign the requested transactions, sending the DAI top-up amounts to the Operational Wallet.
+7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer. 
+   As such, the Auditor Wallet will then hold up to 2x the Monthly Budget Cap at the start of the month, allowing DssVest to stream DAI up to the Quarterly Budget Cap over the course of the month.
+
+#### Auditor Wallet Configuration
+
+To enable this payment flow, the following configuration of the TOCU Auditor Wallet will be required.
+* Accountant Role Wallet (`0xA2A855Ac8D2a92e8A5a437690875261535c8320C`) as a signer
+* Auditor Role Wallet (`0xB2da57e224949acDDe173a5b8A8160c023ea86e6`) as a signer
+* Add `MCD_PAUSE_PROXY` as a beneficiary, with an allowance of 1B DAI withdrawal.
+* Configure required confirmations as 2-out-of-2.
+
+#### Transactions
+
+* **Initial Seed Transfer**
+     1,069,250 DAI will be transfered to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` on 2022-2-1. 
+     
+     This seeds the Operational Wallet to 3x the Month Budget Cap. This also initially funds the Auditor Wallet to 2x the Monthly Budget Cap. The initial transfer funds the Operational Wallet, enabling the Core unit to begin operations. This also then positions DssVest to begin streaming funds up to the Quarterly Budget Cap each month in the Auditor Wallet. 
+* **DssVest Stream**
+  A total of 2,566,200 DAI will be streamed to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` starting 2022-2-1 and ending 2023-1-31.
+    _(2,566,200 DAI is calculated as Quarterly Budget Cap x 4 = 641,550 DAI x 4)._
+
 ### Budget Breakdown
 
 The yearly budget cap request for the TechOps Core Unit is 2,566,200 DAI. This equates to a monthly budget cap of 213,850 DAI to support the team mandate.
@@ -60,21 +113,21 @@ This budget cap secures a team of 5.7 full-time employees (FTE), critical infras
 
 At the end of the calendar year, all unused funds will be returned to the Maker Protocol. Should the TechOps Core Unit shut down, all unused funds will be returned to the DAO immediately.
 
-![Budget table|470x500](upload://uS2LUsEzaYGNQdwqKFompihDZYU.png)
+![Budget table](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP53/budget-table.png)
 
 #### Annual budget components
 
-![Budget components|690x396](upload://zOyjqtRO5WUio5eHJqwXyoZI3wH.png)
+![Budget components](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP53/budget-components.png)
 
 #### Monthly & Quarterly Budget Cap
 
-![Monthly_Quarterly|633x500](upload://tlwPFpsrv9AkbHjf6IhUJZTsob.jpeg)
+![Monthly_Quarterly](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP53/monthly-quarterly.jpeg)
 
 ### Budget Details
 
 #### People Cost
 
-The total people cost includes Compensation and Other people costs such as benefits, including healthcare and any taxes and fees relating to compensating people for their work. As a contingency this has been scaled by up by 5% to help with any unknown costs involved in dealing with multiple jurisdictions worldwide.
+The total people cost includes Compensation and Other people costs such as benefits, including healthcare and any taxes and fees relating to compensating people for their work. As a contingency this has been scaled up by 5% to help with any unknown costs involved in dealing with multiple jurisdictions worldwide.
 
 The essential factor of TechOps services is 24/7/365 support. This requires proper coverage across all time zones. The Core Unit team already has a total time zone coverage with Engineers in the Americas (1 Engineer), Europe (3) and APAC (1). We plan to hire another 2 Engineers in the near future to improve time zone coverage, namely in the Americas (+1) and APAC (+1).
 
@@ -85,8 +138,7 @@ The structure below presents a prospective team structure built around the missi
 |Role|People|FTE|
 |--|--|--|
 |Facilitator/DevOps Engineer|2|1.6|
-|Engineering Team Lead|1|0.8|
-|DevOps Engineer|4|2.6|
+|DevOps Engineer|5|3.4|
 |Project Manager|1|0.5|
 |Operations Consultant|1|0.2|
 |**Total**|**9**|**5.7**|
