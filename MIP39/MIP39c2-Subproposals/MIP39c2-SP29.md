@@ -37,7 +37,7 @@ TechOps
 
 ### Core Unit Team
 
-The essential factor of TechOps services is 24/7/365 support. This requires proper coverage across all time zones. The Core Unit team already has a total time zone coverage with Engineers in the Americas (1 Engineer), Europe (3) and APAC (1). We plan to hire another 2 Engineers in the near future to improve time zone coverage, namely in the Americas (+1) and APAC (+1).
+The essential factor of TechOps services is 24/7/365 support. This requires proper coverage across all time zones. The Core Unit team already has a total time zone coverage with Engineers in the Americas (1 Engineer), Europe (2) and APAC (1). We plan to hire another 3 Engineers in the near future to improve time zone coverage, namely in the Americas, Europe and APAC.
 
 Another important factor of TechOps services is cost effectiveness. Combining these two factors together (the 24/7/365 support and cost effectiveness), the team will also provide services for other Core Units and commercial entities (subject of separate arrangements), and settle the accounts based on FTE (Full Time Equivalent) allocation.
 
@@ -46,19 +46,17 @@ The structure below presents the **current team structure** built around the mis
 |Role|People|FTE|
 |--|--|--|
 |Facilitator/DevOps Engineer|2|1.6|
-|Engineering Team Lead|1|0.8|
 |DevOps Engineer|2|1.6|
 |Project Manager|0|0.0|
 |Operations Consultant|1|0.2|
-|**TOTAL**|**6**|**4.2**|
+|**TOTAL**|**6**|**3.4**|
 
 The structure below presents a **prospective team structure** with planned additional hires.
 
 |Role|People|FTE|
 |--|--|--|
 |Facilitator/DevOps Engineer|2|1.6|
-|Engineering Team Lead|1|0.8|
-|DevOps Engineer|4|2.6|
+|DevOps Engineer|5|3.4|
 |Project Manager|1|0.5|
 |Operations Consultant|1|0.2|
 |**TOTAL**|**9**|**5.7**|
@@ -72,7 +70,7 @@ The structure below presents a **prospective team structure** with planned addit
 * No single point of failure
 * The Facilitators will also have the responsibilities of the DevOps Engineer role
 
-#### Engineering - currently 5
+#### Engineering - currently 4
 
 * Securely manage existing and provision new infrastructure
 * Operate the internal support desk

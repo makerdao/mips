@@ -43,7 +43,7 @@ MIP62c2 specifies which communication channels and media assets should be utiliz
 
 **MIP62c3: Modification of MIP62c2 Communication Channels**
 
-MIP62c3 describes the process for adding and removing communication channels for the process outlined in this MIP.
+MIP62c3 describes the process for adding, removing, and modifying communication channels for the process outlined in this MIP.
 
 **MIP62c4: Expedited Offboarding**
 
@@ -99,6 +99,8 @@ Additionally, outreach may be done to cover more channels not listed here. These
 
 Unless otherwise noted in the offboarding proposal, Collateral Engineering Services (CES-001) will take the lead and coordinate this process.
 
+These channels, the order in which they are to be used for these communications, and who is responsible for which channel can be modified via MIP62c3. It is GOV-001's responsibility to keep MIP62c2: Communication Channels and Media Assets up-to-date.
+
 ### MIP62c3: Modification of MIP62c2 Communication Channels
 
 #### Addition of Communication Channels
@@ -108,6 +110,10 @@ New communication channels and media assets may be added to those listed under M
 #### Removal of Communication Channels
 
 Removal of a communication channel or media asset in MIP62c2 may be effected without the requirement for governance vote by a joint public statement on the MakerDAO Forum by any two Core Unit facilitators. Public statements should tag or otherwise directly notify @GovAlpha-Core-Unit. 
+
+#### Modification of Existing Communication Channels
+
+The use of existing channels as specified in MIP62c2 (order in the sequence of notification, actors responsible for their use) can be modified by the same process used to add new communication channels.
 
 ### MIP62c4: Expedited Offboarding
 
