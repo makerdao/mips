@@ -10,7 +10,7 @@ Tags: core-unit, cu-tech-001, facilitator
 Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
-Forum URL: https://forum.makerdao.com/t/mip41c4-spxx-techops-core-unit-facilitator-onboarding-simon
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp31-techops-core-unit-facilitator-onboarding-simon-kelada-polupanov/12073
 ```
 
 ## Sentence Summary
