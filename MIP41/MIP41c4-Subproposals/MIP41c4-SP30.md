@@ -6,8 +6,8 @@
 MIP41c4-SP#: #30
 Author(s): Dumitru Zavrotschi
 Contributors: N/A
-Tags: core-unit, cu-tocu-001, facilitator
-Status: RFC
+Tags: core-unit, cu-tech-001, facilitator
+Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp30-techops-core-unit-facilitator-onboarding-dumitru-zavrotschi
@@ -25,7 +25,7 @@ I am happy that the Maker Foundation reached its goals and dissolved, making way
 
 ### Core Unit ID
 
-- TOCU-001
+- TECH-001
 
 ### Facilitator Name and Information
 
@@ -36,7 +36,7 @@ I am happy that the Maker Foundation reached its goals and dissolved, making way
 
 ### Facilitator Commitment
 
-As a Facilitator my commitment will be to keep the TechOps Core Unit running smoothly. The daily tasks may include:
+As a Facilitator, my commitment will be to keep the TechOps Core Unit running smoothly. The daily tasks may include:
 
 - Being the Facilitator and Quality Assurance Lead for TechOps Core Unit
 - Being the main contact person for TechOps Core Unit

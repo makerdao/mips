@@ -7,8 +7,8 @@ MIP40c3-SP#: 47
 Author(s): @louismerkle
 Contributors: @maciejka, @ohad_barta_starkware, @nulven  
 Tags: core-unit, cu-sne-001, budget, dai-budget
-Status: RFC
-Date Applied: <2021-07-12>
+Status: Formal Submission
+Date Applied: 2021-07-12
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp47-core-unit-budget-sne-001-phase-ii-starknet-fast-withdrawal-and-wormhole
 ```

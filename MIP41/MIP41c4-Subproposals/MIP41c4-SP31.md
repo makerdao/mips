@@ -6,8 +6,8 @@
 MIP41c4-SP: #31
 Author(s): @simonkp
 Contributors: N/A
-Tags: core-unit, cu-tocu-001, facilitator
-Status: RFC
+Tags: core-unit, cu-tech-001, facilitator
+Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-spxx-techops-core-unit-facilitator-onboarding-simon
@@ -25,7 +25,7 @@ I'm excited to continue working with the Maker project and to officially be onbo
 
 ### Core Unit ID
 
-- TOCU-001
+- TECH-001
 
 ### Facilitator Name and Information
 
@@ -36,16 +36,16 @@ I'm excited to continue working with the Maker project and to officially be onbo
 
 ### Facilitator Commitment
 
-My role is to support the Mandate and business continuity for the TechOps Core Unit. Myself and Dumitru will be the two facilitators for this Core Unit. We'll be the point of contact between TOCU-001 and other Core Units to further contribute to MakerDAO ecosystem security and collaboration. Dumitru is based in EU and I am in APAC for a 24-hour time zone coverage and operations with no single point of failure.
+My role is to support the Mandate and business continuity for the TechOps Core Unit. Myself and Dumitru will be the two facilitators for this Core Unit. We'll be the point of contact between TECH-001 and other Core Units to further contribute to MakerDAO ecosystem security and collaboration. Dumitru is based in EU and I am in APAC for a 24-hour time zone coverage and operations with no single point of failure.
 
 A list of responsibilities may include:
 
 - Be the Facilitator and DevOps Engineer for TechOps Core Unit
-- Serve as main point of contact for TOCU-001
+- Serve as main point of contact for TECH-001
 - Communicate, collaborate and stay up to date with the community
 - Maintain visibility and transparency with the community
 - Look after my team mates by making myself available to listen and represent their wishes to the DAO
-- Attract the best talent to grow TOCU-001
+- Attract the best talent to grow TECH-001
 
 ### Facilitator Credentials
 

@@ -7,17 +7,26 @@ MIP39c2-SP#: 27
 Author(s): @Aes
 Contributors: @SebVentures
 Tags: core-unit, cu-sf-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
-Forum URL: https://forum.makerdao.com/t/mip39c2-sp27-adding-financial-strategy-core-unit/11938
 ```
 
 ## Sentence Summary
 
 MIP39c2-SP27 adds Core Unit SF-001: Strategic Finance Core Unit.
 
+## Paragraph Summary
+
+MIP39c2-SP27 adds Core Unit SF-001: Strategic Finance Core Unit. Its mission is to provide financial reporting and analysis to assist the DAO in evaluating the financial health of the protocol to enable strategic decision making and allocate capital more effectively.
+
 ## Specification
+
+### Motivation
+
+I joined the DAO almost exactly a year ago, initially as an investor to learn more about the project and direction of the DAO. I was particularly interested in the RWF CU and after discussing my background with @amyjung, she recommended I connect with @SebVentures. As I continued to get more and more involved in the community and working with Seb, I saw tremendous opportunity to add value through building out the financial foundation Seb laid down. 
+
+The intellectual curiosity, openness, and desire of the DAO to create and grow a more robust, transparent, and secure financial system is deeply motivating. Adding in the mandate to fight the most challenging problem humanity has faced - climate change - and I could not be more excited to do everything I can to support the DAO and its mission.
 
 ### Core Unit ID
 
@@ -52,7 +61,7 @@ Our vision is to provide the most accurate and clear financial reporting across 
 
 ### Strategy & Current Work
 
-Strategic Finance encompasses the traditional finance functions, including financial reporting, planning, analysis, and accounting, as well as an advisory component that helps facilitate consensus around the DAO's strategic priorities. This work, as detailed below and in the *RWF Efforts* section, will be continued with the approval of SF-001. This work includes but is not limited to:
+SF encompasses the traditional finance functions, including financial reporting, planning, analysis, and accounting, as well as an advisory component that helps facilitate consensus around the DAO's strategic priorities. This work, as detailed below and in the 'RWF Efforts' section, will be continued with the approval of the SF Core Unit. This work includes but is not limited to:
 
 - Publishing Monthly Financial Statements
 - Posting Monthly Financial Reports
@@ -67,7 +76,7 @@ Our approach to working with the DAO is focused on collaboration. We believe par
 
 ### Roadmap
 
-SF-001 will initially focus on continuing to build a solid financial reporting foundation and continue its work on the [RWF FP&A roadmap](https://forum.makerdao.com/t/rwf-financial-planning-analysis-roadmap/9756), prioritizing work based on community feedback.
+The SF CU will initially focus on continuing to build a solid financial reporting foundation and continue its work on the [RWF FP&A roadmap](https://forum.makerdao.com/t/rwf-financial-planning-analysis-roadmap/9756), prioritizing work based on community feedback.
 
 The current roadmap includes:
 

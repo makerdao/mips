@@ -9,7 +9,7 @@ Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
 Tags: technical, process, liquidations
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-12-08
 Date Ratified: n/a
 Dependencies: n/a

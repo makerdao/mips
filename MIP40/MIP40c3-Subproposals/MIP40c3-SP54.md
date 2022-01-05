@@ -6,8 +6,8 @@
 MIP40c3-SP: #54
 Author(s): @simonkp
 Contributors: @lukaszb, @wouter
-Tags: core-unit, cu-tocu-001, budget, mkr-budget
-Status: RFC
+Tags: core-unit, cu-tech-001, budget, mkr-budget
+Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: YYYY-MM-DD
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp54-techops-core-unit-mkr-budget
@@ -15,7 +15,7 @@ Forum URL: https://forum.makerdao.com/t/mip40c3-sp54-techops-core-unit-mkr-budge
 
 ## Sentence Summary
 
-This subproposal defines the MKR compensation plan for the TechOps Core Unit (TOCU-001).
+This subproposal defines the MKR compensation plan for the TechOps Core Unit (TECH-001).
 
 ## Paragraph Summary
 
@@ -70,13 +70,13 @@ Reasons why the Actual MKR Expenditure could rise closer to the MKR Expenditure 
 
 - As defined in [MIP40c3-SP53](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP53.md) and in the [Monthly Budget Statement](https://github.com/MakerOps/tocu-transparency-reporting) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
-  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `TOCU Auditors Wallet`, which then acts as an escrow wallet.
-  - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `TOCU Auditors Wallet` to the `TOCU Operational Wallet`.
+  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `TECH-001 Auditors Wallet`, which then acts as an escrow wallet.
+  - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `TECH-001 Auditors Wallet` to the `TECH-001 Operational Wallet`.
   - When the MKR has vested, it is paid out to the contributor, either directly or through an intermediate payment processor.
-- Any excess MKR in the `TOCU Auditors Wallet` or the `TOCU Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
+- Any excess MKR in the `TECH-001 Auditors Wallet` or the `TECH-001 Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
 
 This payment implementation makes no assumptions about the origin of the MKR. It can either be moved from the protocol’s treasury, newly minted, or obtained from another source.
 
-The MKR that’s held by the `TOCU Auditors Wallet` and the `TOCU Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
+The MKR that’s held by the `TECH-001 Auditors Wallet` and the `TECH-001 Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
-TOCU may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
+TECH-001 may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.

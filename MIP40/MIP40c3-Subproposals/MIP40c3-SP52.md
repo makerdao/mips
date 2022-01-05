@@ -7,7 +7,7 @@ MIP40c3-SP#: 52
 Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @SES-Core-Unit
 Tags: core-unit, cu-dux-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: YYYY-MM-DD
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-unit-budget-dux-001
