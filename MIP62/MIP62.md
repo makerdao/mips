@@ -9,7 +9,7 @@ Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium, @LongForWisdom, @monkey.irish, @lollike, @DavidUtro
 Tags: living
 Type: process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-12-06
 Date Ratified: <yyyy-mm-dd>
 Dependencies:

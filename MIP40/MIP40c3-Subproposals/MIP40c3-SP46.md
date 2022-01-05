@@ -7,7 +7,7 @@ MIP40c3-SP#: 46
 Author(s): @Aes 
 Contributors: @SebVentures
 Tags: core-unit, cu-sf-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp46-adding-financial-strategy-core-unit-budget-fs-001/
@@ -58,7 +58,7 @@ A continuous funding model similar to those proposed by RISK-001, SES-001, and D
 - This budget implementation uses the DssVest. This can be changed if needed to any method achieving similar objectives.
 - The first vesting budget will be in place from February 2022 to January 2023 included. It will be renewed each year.
 - Dai per month: 82,417
-- The destination wallet is: TBD - SF Core Unit Multisig
+- The destination wallet is: 0x387Cde8598E1CBb297FDc5bAEbA5E5c5c2735344 - SF Core Unit Multisig
 
 ## Budget Breakdown
 

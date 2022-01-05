@@ -7,7 +7,7 @@ MIP#: 64
 Author(s): @travinimmunefi
 Contributors: @psychonaut
 Tags: cu-is-001, bug-bounty
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip64-bug-bounty-program-for-makerdao-critical-infrastructure/12096
@@ -17,11 +17,44 @@ Forum URL: https://forum.makerdao.com/t/mip64-bug-bounty-program-for-makerdao-cr
 
 MIP64 establishes the bug bounty program for critical infrastructure of MakerDAO on Immunefi managed by the Immunefi Security Core Unit (IS-001).
 
+## Paragraph Summary
+
+MIP64 is part of the ongoing fulfillment of one of the mandates of the Immunefi Security Core Unit (IS-001). The part which it fulfills is “Bug Bounty Program”, where IS-001 will orient its growing community of security researchers on the Immunefi bug bounty platform towards the Maker ecosystem. The program will attract whitehat hackers who find vulnerabilities and responsibly disclose them, so they are fixed before they can be exploited. Additionally, this provides an incentivized opportunity for disclosure of vulnerabilities instead of exploitation for blackhat hackers.
+
+## Component Summary
+
+**MIP64c1: Overview**
+MIP64c1 gives an overview of the Bug Bounty Program for MakerDAO Critical Infrastructure
+
+**MIP64c2: Scope**
+MIP64c2 defines the scope of the program (assets to be covered, impacts, out-of-scope vulnerabilities, etc.)
+
+**MIP64c3: Rewards**
+MIP64c3 establishes rewards by asset impacted and severity of the impact
+
+**MIP64c4: Rules and Eligibility**
+MIP64c4 defines the rules of the program and the elegibility criteria for participants
+
+**MIP64c5: Payment Process and Budget Request**
+MIP64c5 describes how payments are to be carried out
+
+**MIP64c6: Postmortems and Fixing of Bugs**
+MIP64c6 goes into some detail about the postmortem process and the fixing of bugs
+
+**MIP64c7: Bug Bounty Launch Process**
+MIP64c7 describes the PR efforts that will ensue upon the approval of this proposal
+
+## Motivation
+
+With the extensive growth of the DeFi ecosystem, as well as crypto as a whole, comes greater threats. Though a significant increase in both community sizes and funds within the ecosystem indicates a maturing environment, the glitter of success also attracts nefarious individuals and groups seeking to damage the ecosystem in exchange for their own personal gains.
+
+With MakerDAO not only being one of the largest ecosystems in the space but also a pioneer in the push for decentralization, it is a prime target for these nefarious people. Through this bug bounty program, in addition to its other activities, IS-001 aims to to prevent, or, at the very least, minimize the negative effects of their intended actions.
+
 ## Specification
 
-Note: The information presented in this section, and more, will be available as permanent documentation together with the Immunefi Security Core Unit at <https://immunefi.makerdao.network> as part of our transparency reporting. It will be kept up-to-date even after the publication and approval of this MIP.
+> Note: The information presented in this section, and more, will be available as permanent documentation together with the Immunefi Security Core Unit at <https://immunefi.makerdao.network> as part of our transparency reporting. It will be kept up-to-date even after the publication and approval of this MIP.
 
-### Overview
+### MIP64c1: Overview
 
 The Immunefi Security Core Unit will orient its growing community of security researchers on the Immunefi bug bounty platform towards the Maker ecosystem. Leveraging its expertise with bug bounty programs across the cryptocurrency space, especially the DeFi ecosystem, IS-001 will create and propose a bug bounty program to economically incentivize further investigation of the code.
 
@@ -34,11 +67,13 @@ In order to achieve this, IS-001 will:
 - Triage all vulnerability reports together with ChainSecurity and escalate to the appropriate Core Unit as needed.
 - Publicly report all critical vulnerabilities after all fixes have been implemented and verified in the format of a postmortem, and respond to inquiries from the community.
 
-### Assets to be Covered
+### MIP64c2: Scope
+
+#### Assets to be Covered
 
 The assets considered as in-scope of the bug bounty program will be those that are identified as critical infrastructure to the Maker ecosystem by IS-001. The Core Units that manage these assets would be regarded as stewards to their respective assets. Other assets that are created by Maker ecosystem entities that are not core units may be included in the bug bounty program at the discretion of IS-001. These modifications may be done during the lifespan of the bug bounty program, to account for changes in the Maker ecosystem.
 
-### Severity Classification and Accepted Severity Levels
+#### Severity Classification and Accepted Severity Levels
 
 All rewards for bug reports will utilize the [Immunefi Vulnerability Severity Classification System](https://immunefi.com/severity-updated/) as well as considering new standards proposed by Immunefi. Based on the feedback from the associated Core Units, customizations of this system may be adopted for particular assets.
 
@@ -46,7 +81,7 @@ In general, severity levels from Low to Critical for smart contracts and Low to 
 
 IS-001 may choose to adopt a new severity system if it deems it to be better for the bug bounty program.
 
-### Accepted Impacts
+#### Accepted Impacts
 
 Only the following impacts would be considered as in-scope for the bug bounty program. All other bug reports of course may still be reported directly to the respective Core Units outside of the bug bounty program.
 
@@ -77,7 +112,43 @@ Only the following impacts would be considered as in-scope for the bug bounty pr
 - Vote or voting result manipulation, including display
 - Blocking access to users when they should have access
 
-### Rewards
+#### Out-of-Scope Vulnerabilities and Impacts
+
+The following vulnerabilities and impacts will be considered out of scope of the bug bounty program and will not be eligible for a reward:
+
+- Attacks that the reporter has already exploited themselves, leading to damage
+- Attacks requiring access to leaked keys/credentials
+- Attacks requiring access to privileged addresses (governance, etc.)
+
+##### Smart Contracts and Blockchain
+
+- Incorrect data supplied by third party oracles
+- Not to exclude oracle manipulation/flash loan attacks
+- Basic economic governance attacks (e.g., 51% attack)
+- Lack of liquidity
+- Best practice critiques
+- Sybil attacks
+- Centralization Risks
+
+##### Websites and Apps
+
+- Theoretical vulnerabilities without any proof or demonstration
+- Content spoofing / Text injection issues
+- Self-XSS
+- Captcha bypass using OCR
+- CSRF with no security impact (logout CSRF, change language, etc.)
+- Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)
+- Server-side information disclosure such as IPs, server names, and most stack traces
+- Vulnerabilities used to enumerate or confirm the existence of users or tenants
+- Vulnerabilities requiring unlikely user actions
+- URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)
+- Lack of SSL/TLS best practices
+- DDoS vulnerabilities
+- Attacks requiring privileged access from within the organization
+- Feature requests
+- Best practices
+
+### MIP64c3: Rewards
 
 The default rewards based on the type of asset impacted will be as follows:
 
@@ -105,13 +176,10 @@ High smart contract vulnerabilities will be further capped at up to 100% of the 
 
 Critical website and application bug reports will be rewarded with USD 100,000 only if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote. All other impacts that would be classified as Critical would be rewarded no more than USD 50,000.
 
-### Bug Report Requirements
 
-In addition to the standard bug report information requested by Immunefi in its bug submission page, a runnable proof of concept (PoC) will be required for all smart contract bug reports. Exceptions may be made in cases where the vulnerability is objectively evident from simply mentioning the vulnerability and where it exists. However, the triaging team will make this determination and may at its discretion require a PoC from the bug reporter.
+### MIP64c4: Rules and Eligibility
 
-All website and application bug reports will require a PoC.
-
-### Rules
+#### Rules
 
 All bug bounty hunters will be bound by the [rules on Immunefi](https://immunefi.com/rules/). Additionally, all bug bounty hunters must not perform any of the following, otherwise they lose eligibility for receiving a reward:
 
@@ -121,57 +189,28 @@ All bug bounty hunters will be bound by the [rules on Immunefi](https://immunefi
 - Any denial of service attacks
 - Automated testing of services that generates significant amounts of traffic
 
-### Out-of-Scope Vulnerabilities and Impacts
 
-The following vulnerabilities and impacts will be considered out of scope of the bug bounty program and will not be eligible for a reward:
-
-- Attacks that the reporter has already exploited themselves, leading to damage
-- Attacks requiring access to leaked keys/credentials
-- Attacks requiring access to privileged addresses (governance, etc.)
-
-#### Smart Contracts and Blockchain
-
-- Incorrect data supplied by third party oracles
-- Not to exclude oracle manipulation/flash loan attacks
-- Basic economic governance attacks (e.g., 51% attack)
-- Lack of liquidity
-- Best practice critiques
-- Sybil attacks
-- Centralization Risks
-
-#### Websites and Apps
-
-- Theoretical vulnerabilities without any proof or demonstration
-- Content spoofing / Text injection issues
-- Self-XSS
-- Captcha bypass using OCR
-- CSRF with no security impact (logout CSRF, change language, etc.)
-- Missing HTTP Security Headers (such as X-FRAME-OPTIONS) or cookie security flags (such as “httponly”)
-- Server-side information disclosure such as IPs, server names, and most stack traces
-- Vulnerabilities used to enumerate or confirm the existence of users or tenants
-- Vulnerabilities requiring unlikely user actions
-- URL Redirects (unless combined with another vulnerability to produce a more severe vulnerability)
-- Lack of SSL/TLS best practices
-- DDoS vulnerabilities
-- Attacks requiring privileged access from within the organization
-- Feature requests
-- Best practices
-
-### Eligibility
+#### Eligibility
 
 Bug reports from compensated team members of any MakerDAO Core Unit will not be eligible for a reward. Employees and team members of third-party suppliers to Core Units that operate in a technical capacity and have assets covered in this bug bounty program will also not be eligible for a reward. All team members of IS-001, and its third-party suppliers, including Immunefi Services itself, are not eligible for a reward.
 
 Bug reports from team members and third-party suppliers of businesses and organizations that are not a MakerDAO Core Unit but have assets considered as critical infrastructure covered under the bug bounty program are also not eligible for the bug bounty program.
 
-### Triaging Process
+#### Bug Report Requirements
+
+In addition to the standard bug report information requested by Immunefi in its bug submission page, a runnable proof of concept (PoC) will be required for all smart contract bug reports. Exceptions may be made in cases where the vulnerability is objectively evident from simply mentioning the vulnerability and where it exists. However, the triaging team will make this determination and may at its discretion require a PoC from the bug reporter.
+
+All website and application bug reports will require a PoC.
+
+#### Triaging Process
 
 Initial triaging will be provided by Immunefi Services through IS-001. The triaging team will not only filter out spam but also determine the likelihood of the bug report being legitimate enough for further consideration by an entity more deeply familiar with the Maker software. For smart contract vulnerabilities, the bug report would then be escalated to ChainSecurity to provide additional emergency triaging. Afterwards, and for website and application vulnerabilities, if the bug report appears credible, then it is escalated to the steward Core Unit.
 
-### Bug Validation Process
+#### Bug Validation Process
 
 The steward Core Unit receives a credible bug report and determines whether there is a true vulnerability. If not then an explanation is returned to the bug reporter. Otherwise, the Facilitator of the Core Unit must accept the bug report and confirm its severity level in the [bug report dashboard](https://bugs.immunefi.com/).
 
-### Payment Process and Budget Request
+### MIP64c5: Payment Process and Budget Request
 
 The payment process is triggered once the steward Core Unit approves the bug report as valid, as IS-001 and ChainSecurity, if relevant, have already signed off on the bug report by that time. A fix does not necessarily need to be implemented before the payment is released. However, payment may be delayed if the announcement of a payout draws unwanted attention to the existence of a vulnerability.
 
@@ -183,14 +222,16 @@ For bug bounty rewards over USD 1,000,000, after the first million is paid out, 
 
 As its standard fee, Immunefi will charge the DAO a performance fee based on the reward paid out to the bug bounty hunter, charged on top of the reward. Per vulnerability, the first USD 5m paid out would be charged with the standard 10% fee. Any amount over USD 5m paid out will be charged with a discounted 8% fee. For example, a bug report that pays out USD 9m would have a fee of USD 5m * 10%, which would be USD 500k, added to USD 4m * 8%, which would be USD 320k, resulting in a net fee of USD 820k. Immunefi will charge no onboarding or maintenance fees. The first payment to the bounty hunter and Immunefi will be sent in the same executive spell. In the event that the Immunefi fee is over USD 500,000, the first USD 500,000 will be paid in the same process with the bug bounty hunter and the remaining will be paid out in the next month.
 
-### Postmortem Process
+### MIP64c6: Postmortems and Fixing of Bugs
+
+#### Postmortem Process
 
 All Critical and High bug reports will have a postmortem written by Immunefi to be published on the Immunefi Medium blog and distributed on its social media channels after the payout is made and the fixes finalized. The identity of the bug reporter may be included, either with their real name or pseudonymously, if they choose to, or they can choose to remain anonymous. Contents of the postmortem will include details about the vulnerability, the fix applied, as well as the impact should the vulnerability have been exploited.
 
-### Fixing of Bugs
+#### Fixing of Bugs
 
 The process for fixes to be implemented will be determined depending on the asset impacted and the severity of the bug. For smart contract vulnerabilities, Chain Security will be consulted to verify if the fix addresses the vulnerability discovered. Implementations of fixes with spells will focus on overall security in order to prevent public leakages and inadvertent exposure of the vulnerability.
 
-### Bug Bounty Launch Process
+### MIP64c7: Bug Bounty Launch Process
 
 If this proposal is approved, a bug bounty program will be launched by the end of February 2021 replacing the [bug bounty program currently on HackerOne](https://hackerone.com/makerdao_bbp). PR efforts will be performed by Immunefi on its own channels such as its [Twitter account](https://twitter.com/immunefi), [Medium blog](https://immunefi.medium.com/), Discord (refreshing invite link found on https://immunefi.com), and [Telegram announcement channel](https://t.me/Immunefi). Additional PR efforts will also be performed by its PR team with appropriate PR work done in early February in order to maximize potential impact. Coordination with other Core Units will be done as needed.
