@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp49-modify-core-unit-budget-mkt-001
+Ratification Poll URL: https://vote.makerdao.com/polling/QmYk1XN5
 ```
 
 ## Sentence Summary

@@ -10,6 +10,8 @@ Tags: core-unit, cu-sf-001, mandate
 Status: Formal Submission
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp27-adding-strategic-finance-core-unit/11938
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt
 ```
 
 ## Sentence Summary

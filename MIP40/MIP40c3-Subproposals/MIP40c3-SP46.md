@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp46-adding-financial-strategy-core-unit-budget-fs-001/
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt
 ```
 
  ## Sentence Summary

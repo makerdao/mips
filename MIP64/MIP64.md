@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip64-bug-bounty-program-for-makerdao-critical-infrastructure/12096
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWkPoVv
 ```
 
 ## Sentence Summary

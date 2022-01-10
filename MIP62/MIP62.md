@@ -15,6 +15,7 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip62-collateral-offboarding-process
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdwoZtA
 ```
 
 ## References

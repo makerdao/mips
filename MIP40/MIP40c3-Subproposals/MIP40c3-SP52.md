@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: YYYY-MM-DD
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-unit-budget-dux-001
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUnMZKw
 ``` 
 
 ## Sentence Summary
