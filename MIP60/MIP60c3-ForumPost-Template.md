@@ -16,7 +16,7 @@
 
 ## Record
 
-- Link to open PR containing the changes to MIP60c2.
+- Link to open PR containing the changes to the Canonical Intangible Asset Records.
 
 ## Supporters
 
