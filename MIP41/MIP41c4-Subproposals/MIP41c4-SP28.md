@@ -10,6 +10,8 @@ Tags: core-unit, cu-sf-001, facilitator
 Status: Formal Submission 
 Date Applied: 2021-12-01
 Date Ratified: YYYY-MM-DD
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp28-facilitator-onboarding-strategic-finance-sf-001/11939
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt
 ```
 
 ## Sentence Summary

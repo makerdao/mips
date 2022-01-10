@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-12-07
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp48-strategic-finance-unit-mkr-compensation-sf-001/12060
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt
 ```
 
 ## Sentence Summary

@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-11-09
 Date Ratified: n/a
 Forum URL:https://forum.makerdao.com/t/mip40c3-sp45-modify-core-unit-budget-ora-001-oracle-gas-costs/
+Ratification Poll URL: https://vote.makerdao.com/polling/QmRT9363
 ```
 
 ## Sentence Summary

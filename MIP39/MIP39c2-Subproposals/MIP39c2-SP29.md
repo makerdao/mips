@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tocu-001
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZEeWAC
 ```
 
 ## Sentence Summary
