@@ -73,11 +73,8 @@ data:
                 https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-dux-001)&_Archive=$AND(NOT(%23active),%23cu-dux-001
           - id: gov-001
             name: 'GOV-001: Governance'
-            children:
-              - id: gov-001
-                name: gov-001
-                href: >-
-                  https://mips.makerdao.com/mips/list?customViewName=GovAlpha%20Core%20Unit%20(GOV-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-gov-001)&_Archive=$AND(NOT(%23active),%23cu-gov-001)
+            href: >-
+                https://mips.makerdao.com/mips/list?customViewName=GovAlpha%20Core%20Unit%20(GOV-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-gov-001)&_Archive=$AND(NOT(%23active),%23cu-gov-001)
           - id: gro-001
             name: 'GRO-001: Growth'
             href: >-
