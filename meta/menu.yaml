@@ -58,19 +58,19 @@ data:
           - id: daif-001
             name: 'DAIF-001: Dai Foundation'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Dai%20Foundation%20Core%20Unit%20(DAIF-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-daif-001)&_Archive=$AND(NOT(%23active),%23cu-daif-001
+                https://mips.makerdao.com/mips/list?customViewName=Dai%20Foundation%20Core%20Unit%20(DAIF-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-daif-001)&_Archive=$AND(NOT(%23active),%23cu-daif-001)
           - id: daif-001
             name: 'DIN-001: Data Insights'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Data%20Insights%20Core%20Unit%20(DIN-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-din-001)&_Archive=$AND(NOT(%23active),%23cu-din-001
+                https://mips.makerdao.com/mips/list?customViewName=Data%20Insights%20Core%20Unit%20(DIN-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-din-001)&_Archive=$AND(NOT(%23active),%23cu-din-001)
           - id: deco-001
             name: 'DECO-001: Deco Fixed-Rate'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Deco%20Fixed%20Rate%20Core%20Unit%20(DECO-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-deco-001)&_Archive=$AND(NOT(%23active),%23cu-deco-001
+                https://mips.makerdao.com/mips/list?customViewName=Deco%20Fixed%20Rate%20Core%20Unit%20(DECO-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-deco-001)&_Archive=$AND(NOT(%23active),%23cu-deco-001)
           - id: dux-001
             name: 'DUX-001: Development and UX'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-dux-001)&_Archive=$AND(NOT(%23active),%23cu-dux-001
+                https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-dux-001)&_Archive=$AND(NOT(%23active),%23cu-dux-001)
           - id: gov-001
             name: 'GOV-001: Governance'
             href: >-
@@ -78,51 +78,51 @@ data:
           - id: gro-001
             name: 'GRO-001: Growth'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Growth%20Core%20Unit%20(GRO-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-gro-001)&_Archive=$AND(NOT(%23active),%23cu-gro-001
+                https://mips.makerdao.com/mips/list?customViewName=Growth%20Core%20Unit%20(GRO-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-gro-001)&_Archive=$AND(NOT(%23active),%23cu-gro-001)
           - id: is-001
             name: 'IS-001: Immunefi Security'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Immunefi%20Security%20Core%20Unit%20(IS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-is-001)&_Archive=$AND(NOT(%23active),%23cu-is-001
+                https://mips.makerdao.com/mips/list?customViewName=Immunefi%20Security%20Core%20Unit%20(IS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-is-001)&_Archive=$AND(NOT(%23active),%23cu-is-001)
           - id: mds-001
             name: 'MDS-001: MakerDAO Shop'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=MakerDAO%20Shop%20Core%20Unit%20(MDS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mds-001)&_Archive=$AND(NOT(%23active),%23cu-mds-001
+                https://mips.makerdao.com/mips/list?customViewName=MakerDAO%20Shop%20Core%20Unit%20(MDS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mds-001)&_Archive=$AND(NOT(%23active),%23cu-mds-001)
           - id: mkt-001
             name: 'MKT-001: Content Production'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Content%20Production%20Core%20Unit%20(MKT-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mkt-001)&_Archive=$AND(NOT(%23active),%23cu-mkt-001
+                https://mips.makerdao.com/mips/list?customViewName=Content%20Production%20Core%20Unit%20(MKT-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mkt-001)&_Archive=$AND(NOT(%23active),%23cu-mkt-001)
           - id: ora-001
             name: 'ORA-001: Oracles'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Oracles%20Core%20Unit%20(ORA-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-ora-001)&_Archive=$AND(NOT(%23active),%23cu-ora-001
+                https://mips.makerdao.com/mips/list?customViewName=Oracles%20Core%20Unit%20(ORA-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-ora-001)&_Archive=$AND(NOT(%23active),%23cu-ora-001)
           - id: pe-001
             name: 'PE-001: Protocol Engineering'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Protocol%20Engineering%20Core%20Unit%20(PE-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-pe-001)&_Archive=$AND(NOT(%23active),%23cu-pe-001
+                https://mips.makerdao.com/mips/list?customViewName=Protocol%20Engineering%20Core%20Unit%20(PE-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-pe-001)&_Archive=$AND(NOT(%23active),%23cu-pe-001)
           - id: risk-001
             name: 'RISK-001: Risk'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Risk20Core%20Unit%20(RISK-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-risk-001)&_Archive=$AND(NOT(%23active),%23cu-risk-001
+                https://mips.makerdao.com/mips/list?customViewName=Risk%20Core%20Unit%20(RISK-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-risk-001)&_Archive=$AND(NOT(%23active),%23cu-risk-001)
           - id: rwf-001
             name: 'RWF-001: Real-World Finance'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Real%20World%20Finance%20Core%20Unit%20(RWF-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-rwf-001)&_Archive=$AND(NOT(%23active),%23cu-rwf-001
+                https://mips.makerdao.com/mips/list?customViewName=Real%20World%20Finance%20Core%20Unit%20(RWF-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-rwf-001)&_Archive=$AND(NOT(%23active),%23cu-rwf-001)
           - id: sas-001
             name: 'SAS-001: Sidestream Auction Services'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Sidestream%20Auction%20Services%%20Core%20Unit%20(SAS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sas-001)&_Archive=$AND(NOT(%23active),%23cu-sas-001
+                https://mips.makerdao.com/mips/list?customViewName=Sidestream%20Auction%20Services%%20Core%20Unit%20(SAS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sas-001)&_Archive=$AND(NOT(%23active),%23cu-sas-001)
           - id: ses-001
             name: 'SES-001: Sustainable Ecosystem Scaling'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Sustainable%20Ecosystem%20Scaling%20Core%20Unit%20(SES-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-ses-001)&_Archive=$AND(NOT(%23active),%23cu-ses-001
+                https://mips.makerdao.com/mips/list?customViewName=Sustainable%20Ecosystem%20Scaling%20Core%20Unit%20(SES-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-ses-001)&_Archive=$AND(NOT(%23active),%23cu-ses-001)
           - id: sne-001
             name: 'SNE-001: StarkNet Engineering'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=StarkNet%20Engineering%20Core%20Unit%20(SNE-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sne-001)&_Archive=$AND(NOT(%23active),%23cu-sne-001
+                https://mips.makerdao.com/mips/list?customViewName=StarkNet%20Engineering%20Core%20Unit%20(SNE-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sne-001)&_Archive=$AND(NOT(%23active),%23cu-sne-001)
           - id: sh-001
             name: 'SH-001: Strategic Happiness'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Strategic%20Happiness%20Core%20Unit%20(SH-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sh-001)&_Archive=$AND(NOT(%23active),%23cu-sh-001
+                https://mips.makerdao.com/mips/list?customViewName=Strategic%20Happiness%20Core%20Unit%20(SH-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sh-001)&_Archive=$AND(NOT(%23active),%23cu-sh-001)
       - id: mipsets
         name: MIP Sets
         href: 'https://mips.makerdao.com/mips/list?&search=&mipsetMode=true'
