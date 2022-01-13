@@ -62,7 +62,7 @@ This budget implementation uses a DssVest Budget Implementation.
 
 ### List of Budget Breakdowns
 
-### Team
+#### Team
 
 * Facilitator: @Primoz
 * Analysts: @rema @monet-supply @Sean +1 joining
@@ -70,7 +70,7 @@ This budget implementation uses a DssVest Budget Implementation.
 * Data Scientist: @Josolnik
 * Quantitative analyst: +1 joining
 
-### Tooling
+#### Tooling
 
 * AWS
 * Infura
@@ -79,21 +79,21 @@ This budget implementation uses a DssVest Budget Implementation.
 * Github
 * Domains
 
-### Operations
+#### Operations
 
 * Company administration
 * Flights, conferences, etc.
 * Legal costs
 
-### Grants
+#### Grants
 
 The grant program with Makerburn will be terminated as Makerburn will be joining the Risk Core Unit. Going forward, we will be looking to provide grants to potential new hires or for various specific one-time tasks.
 
-### Contingencies
+#### Contingencies
 
 We will continue to keep a contingency buffer of 20,000 DAI, as previously specified in [MIP40c3-SP13](https://forum.makerdao.com/t/mip40c3-sp13-modify-core-unit-budget-risk-001/8034). We have found this to be very useful when growing the team and covering unexpected costs.
 
-### Funding Process
+#### Funding Process
 
 The team uses a company to distribute funds and signs contracts with its contractors (full-time or part-time workers). This provides contractors additional legal security and also enables the team to make payments in fiat (for infrastructure, administrative and operational costs).
 
