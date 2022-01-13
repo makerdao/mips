@@ -28,7 +28,8 @@ A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary 
 
 * Funding is only available in Dai.
 * A SPF must contain one Point of Contact (from the SPF receiver) and a minimum of two Comptrollers. Comptrollers execute payouts to final recipients based on the completion of milestones stated in the SPF Scope.
-* Any SPF requests less than 50,000 Dai can go into a weekly or signal request process, but anything greater than 50,000 Dai must go through the monthly governance cycle.
+* Any SPF request less than or equal to 50k Dai can go into the Weekly Cycle. Anything above 50K Dai must go through the Monthly Governance Cycle.
+    * The request (a MIP55c3 subproposal) must fulfill its Feedback Period and its Frozen Period before its submission into either cycle.
 
 ## Component Summary
 
@@ -36,7 +37,7 @@ A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary 
 Outlines the requirements a Special Purpose Fund must meet to be valid for inclusion in the Governance Cycle.
 
 **MIP55c2: Special Purpose Fund Process**
-Details the governance process for proposals created by recognized Special Purpose Funds.
+Details the governance process for proposals created by Special Purpose Funds.
 
 **MIP55c3: Adding/Modifying a Special Purpose Fund**
 This subproposal process allows Governance to create or modify an existing Special Purpose Fund through the provided subproposal template.
@@ -74,11 +75,8 @@ The structure for Special Purpose Funds are specific to ensure minimum Governanc
 In order to be recognized as a Special Purpose Fund, proposals must have the following:
 
 * There must be a clear and public explanation of the purpose and scope of the Special Purpose Fund.
-
 * Must follow the multisig process outlined in MIP47: MakerDAO Multisignature Wallet Management. It must include a wallet address, official Point of Contact, and Comptroller signers must be publicly verified.
-
-* The Scope must be limited to either timeframe or specific deliverable (For example: The Protocol needs audits for the launch of LIQ.2.0. Funds are approved to pay auditors, Dai goes into escrow, and 2 Comptrollers release funds to the auditors once audits are complete.).
-
+* The Scope must be limited to either timeframe or specific deliverable (For example: The Protocol needs audits for the launch of LIQ.2.0. Funds are approved to pay auditors, Dai goes into escrow, and 2 Comptrollers release funds to the auditors once audits are complete).
 * The SPF Scope work must be auditable by Comptrollers.
 
 ### MIP55c2: Special Purpose Fund Process
@@ -88,11 +86,8 @@ A process component that provides clarity on how the payouts are addressed from 
 The process is as follows:
 
 1. MIP55c3 subproposals is submitted. MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposal-Template.md)**. This template is considered ratified once this MIP moves to Accepted status.
-
 2. MIP55c3 subproposals must go through the Governance cycle to authorize Maker Governance to draw funds from the Protocol.
-
-3. Upon approval of the MIP55c3 subproposal, funds would be transferred first to the escrow multisig. The funds in escrow must be in a multi-sig with signatory requirements of a minimum of two `Comptrollers`). Funds must be held in escrow, only released when two `Comptrollers` sign off.
-
+3. Upon approval of the MIP55c3 subproposal, funds would be transferred first to the escrow multisig. The funds in escrow must be in a multi-sig with signatory requirements of a minimum of two `Comptrollers`. Funds must be held in escrow, only released when two `Comptrollers` sign off. 
 4. Once the work is complete and approved by Comptrollers, funds would be released to the final recipient’s designated address.
 
 **Roles: Point of Contact and Comptrollers**
@@ -120,9 +115,16 @@ MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Tem
 
 This is a component that can have on-chain effects that alter the Maker Protocol's state. When subproposals are generated from this component, the vote must include a technical state change to authorize drawing funds from the Maker Protocol.
 
-**The proposal parameters:**
+**The proposal parameters**
 
-* Minimum feedback period: 4 week.
+Requests of less than or equal to 50k Dai may go into the Weekly Cycle, provided the Feedback and Frozen periods have been fullfilled. Anything above 50k Dai must go through the Monthly Governance Cycle.
+
+_Parameters for requests of less or equal to 50K Dai:_
+
+* Minimum feedback period: 2 weeks.
 * Minimum frozen period: 1 week.
 
-Requests less than 50,000 Dai may go into a weekly or signal request process, but anything greater than 50,000 Dai must go through the monthly governance cycle.
+_Parameters for requests of above 50K Dai:_
+
+* Minimum feedback period: 4 weeks.
+* Minimum frozen period: 1 week.
