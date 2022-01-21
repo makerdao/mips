@@ -14,7 +14,6 @@ Date Proposed: 2021-10-01
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces: <List of MIP it is replacing>
-Forum URL: https://forum.makerdao.com/t/mip61-delegate-compensation/
 ```
 
 ## References
@@ -22,6 +21,7 @@ Forum URL: https://forum.makerdao.com/t/mip61-delegate-compensation/
 - [Delegation and MakerDAO](https://forum.makerdao.com/t/delegation-and-makerdao/9429)
 - [Whether to compensate delegates](https://forum.makerdao.com/t/delegate-compensation-informal-poll/10042)
 - [Compensating recognized delegates, parameters](https://forum.makerdao.com/t/informal-poll-compensating-recognized-delegates-parameters/10196).
+- [Introduction of the Performance Modifier](https://forum.makerdao.com/t/signal-request-should-we-introduce-a-performance-modifier-to-the-delegate-compensation-trial/11850)
 
 ## Sentence Summary
 
@@ -64,7 +64,7 @@ Vote outcomes are largely determined by how well voters are informed. As recogni
 
 1. Delegate compensation should be positively correlated with MKR weight.
 2. There should be a per-delegate maximum compensation because we do not expect a large difference in performance among outstanding delegates.
-3. Compensation should be skewed toward delegates with smaller MKR weight to encourage recruitment of new delegates.
+3. Compensation should be positively skewed toward delegates with smaller MKR weight to encourage recruitment of new delegates.
 4. The compensation formula should discourage [zero-sum thinking](https://en.wikipedia.org/wiki/Zero-sum_thinking) among delegates. One delegate's compensation should be as independent as possible from another delegate's compensation.
 
 ## Relevant Information
@@ -93,16 +93,24 @@ The formula is `C*min(1,MKR^q/T^q)`.
 
 #### Action Plan
 
-Rates of payment need recalculation only when the amount of delegated MKR changes. A rough approximation is obtained by recalculating only at regular periods (daily or weekly). Governance Facilitators shall look for changes at least daily and include the DAI transfers as part of an executive vote once per month.
+Rates of payment need recalculation only when the amount of delegated MKR changes. A rough approximation is obtained by recalculating only at regular periods (daily or weekly). Governance Facilitators shall look for changes at least daily and include the DAI transfers as part of an Executive Vote once per month.
 
-#### Compensation Eligibility
+It is expected that Recognized Delegates will confirm both the amount of compensation being paid, and the receiving address with the Governance Facilitators in the week leading up to the Executive Vote, if this is not possible for an individual Recognized Delegate, that individual's compensation will not be included in the Executive Vote and instead will be included in a future Executive Vote at a mutually agreeable time.
 
-Governance Facilitators track participation and communication metrics for each Recognized Delegate. In order to receive regular compensation, Recognized Delegates must maintain a minimum percentage on each of these two metrics, namely:
+#### Performance Modifier
 
-- Participation is required to be **at least 90%**.
-- Communication is required to be **at least 90%**.
+Governance Facilitators track participation and communication metrics for each Recognized Delegate. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognised Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`.
+
+- For less than 75%, the Recognised Delegate will receive no compensation.
+- For 75% or above, the Performance Modifier starts at 40% and rises linearly to 100% for metrics of 90% and above.
+
+This is demonstrated in the below graph:
+
+![dc0d6e19d5b85b312de77d11b458a1ecb9ab2e63_2_1035x634|690x422](upload://reIamqwdcWgMAvkMqcjxzhaYqYz.png)
 
 These requirements and metrics may be adjusted in the future depending on the number of Recognized Delegates, the resources available to the Governance Facilitators, and feedback from the delegates themselves.
+
+The intention is that these parameters be considered over the duration of time that a Recognized Delegate is active. The advantage of such an approach is that it allows Recognized Delegates that have been performing at high levels flexibility in terms of unexpected ability to vote, for example, in the event of illness, or planned inactivity, such as a vacation period. If a Recognized Delegate's parameters were calculated on a rolling-basis, for example over three months, taking a week off would have an outsized effect on compensation, particularly if it was a week with a large number of Governance Polls. If it is difficult or uneconomical for Recognized Delegates to take time off when required, there is potential this could lead to burnout and this is consequently undesirable.
 
 ### MIP61c3: Accommodation for Delegate Contract Migration
 
@@ -112,13 +120,13 @@ This component addresses the situation when a Recognized Delegate intends to mig
 
 Suppose the parameters are set to their initial values.
 
-With 100 MKR delegated, the compensation is calculated as `C*min(1,100^q/10000^q)`. This is `C*10/100` = 14 400 DAI per year.
+With 100 MKR delegated, 95% Participation, and 95% Communication, the compensation is calculated as `min(max(min(95%,95%)-75%,0)/15%,1) C*min(1,100^q/10000^q)`. This is `100% C*10/100` = 14 400 DAI per year.
 
-With 6772 MKR delegated, the compensation is calculated as `C*min(1,6772^q/10000^q)`. This is `C*82.29/100` = 118 497 DAI per year.
+With 6772 MKR delegated, 85% Participation, and 95% Communication, the compensation is calculated as `min(max(min(85%,95%)-75%,0)/15%,1) C*min(1,6772^q/10000^q)`. This is `80% C*82.29/100` = 94 797.6 DAI per year.
 
 Compensation can be visualized by plotting the amount of MKR delegated against the compensation formula,
 
-![](https://github.com/makerdao/mips/blob/master/MIP61/Rplot.png)
+![Rplot01|690x429](upload://moanRKTJpc50wX6bxIsOMeLXZIs.png)
 
 ### MIP61c5: Modification of Parameters
 
@@ -128,7 +136,9 @@ The parameters that can be modified are:
 - Exponential factor
 - Maximum annual compensation per delegate
 
-Recognized Delegates are potentially conflicted in consideration of these proposals. There may be a temptation to approve increases in compensation and vote against decreases. Hence, a Signal Request is required to assess broader community sentiment and spotlight any positions on the MIP61c5 proposal staked out by Recognized Delegates. [Sunshine is the best disinfectant](https://quoteinvestigator.com/2020/09/22/sunlight/). The Signal Request Poll must be posted at the start of the Frozen Period.
+Recognized Delegates are potentially conflicted in consideration of these proposals. There may be a temptation to approve increases in compensation and vote against decreases. Hence, a Signal Request is required to assess broader community sentiment and spotlight any positions on the MIP61c5 proposal staked out by Recognized Delegates. [Sunshine is the best disinfectant.](https://quoteinvestigator.com/2020/09/22/sunlight/) The Signal Request Poll must be posted at the start of the Frozen Period.
+
+The Governance Facilitators will aim to perform an review of the above parameters on an annual basis. This will provide an objective review of these parameters and take into account changes in the amounts of MKR delegated, the number of active Recognized Delegates, as well as USD inflation to ensure that Recognized Delegates remain fairly compensated, whilst also ensuring good value for MKR holders. It is expected that this will occur in April to bring it in line with the annual GovAlpha CU budget submission.
 
 MIP61c5 subproposals have the following parameters:
 
