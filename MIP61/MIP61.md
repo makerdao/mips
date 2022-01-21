@@ -138,11 +138,11 @@ The parameters that can be modified are:
 
 Recognized Delegates are potentially conflicted in consideration of these proposals. There may be a temptation to approve increases in compensation and vote against decreases. Hence, a Signal Request is required to assess broader community sentiment and spotlight any positions on the MIP61c5 proposal staked out by Recognized Delegates. [Sunshine is the best disinfectant.](https://quoteinvestigator.com/2020/09/22/sunlight/) The Signal Request Poll must be posted at the start of the Frozen Period.
 
-The Governance Facilitators will aim to perform an review of the above parameters on an annual basis. This will provide an objective review of these parameters and take into account changes in the amounts of MKR delegated, the number of active Recognized Delegates, as well as USD inflation to ensure that Recognized Delegates remain fairly compensated, whilst also ensuring good value for MKR holders. It is expected that this will occur in April to bring it in line with the annual GovAlpha CU budget submission.
+The Governance Facilitators will aim to perform a review of the above parameters on an annual basis. This will provide an objective review of these parameters and take into account changes in the amounts of MKR delegated, the number of active Recognized Delegates, as well as USD inflation to ensure that Recognized Delegates remain fairly compensated, whilst also ensuring good value for MKR holders. It is expected that this will occur in April to bring it in line with the annual GovAlpha CU budget submission.
 
 MIP61c5 subproposals have the following parameters:
 
 - **Requirements**: 7-day Signal Request Thread, passing with 51%. If the Signal Request fails, then the proposal does not proceed to the Governance Cycle.
-- **Default Feedback Period**: 1 month
+- **Default Feedback Period**: 4 weeks
 - **Frozen Period**: 1 week
 - **Governance Cycle**: Monthly
