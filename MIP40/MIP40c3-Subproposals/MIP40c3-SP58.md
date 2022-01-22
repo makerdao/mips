@@ -55,7 +55,7 @@ The budget is designed with the following in mind:
 * Funding an initial 6 month budget for IS-001
 * A continuous funding model based on the [SES top-up mechanism](https://mips.makerdao.com/mips/details/MIP40c3SP10)
 
-![|624x164](upload://8r1UcWkvqZtldg10oLugor6dQ4B.png)
+![|624x164](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP58/Budget_implementations.png)
 
 #### Team Summary
 
