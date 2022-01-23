@@ -44,7 +44,7 @@ CES-001
 
 The CES budget is designed to pay for the operational costs to run and sustain the CES Core Unit. Therefore, a vote to ratify MIP40c3-SP57 means MKR holders make a commitment to a continuous funding model that operates on an annual basis starting April 1, 2022.
 
-![CES Payment Flow Structure](upload://eEaq84xFw5nCYC9ByZ1Vg6Q3vdr.jpeg)
+![CES Payment Flow Structure](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP57/PaymentFlow.jpg)
 
 #### Multisig Wallets
 
