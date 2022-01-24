@@ -6,10 +6,10 @@
 MIP40c3-SP: #53
 Author(s): @simonkp
 Contributors: @georgen, @dumitru, @lukaszb, @wouter
-Tags: core-unit, cu-tech-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-tech-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp53-techops-core-unit-dai-budget
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZEeWAC
 ```
@@ -36,7 +36,7 @@ To continue supporting critical MakerDAO infrastructure, the TechOps Core Unit p
 
 ![TOCU_Wallet_Setup](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP53/wallet-setup.jpeg)
 
-The budget implementation will follow standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance. 
+The budget implementation will follow standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance.
 
 The TECH-001 budget is designed with the following in mind:
 
@@ -55,7 +55,7 @@ Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 
 The following multi-sigs are involved:
 
-1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role-based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants. 
+1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role-based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants.
    The Accountant Role Multi-sig will have 2 signers---both SES permanent team contributors. The Auditor Role Multi-sig will also have 2 signers, also both SES permanent team contributors. SES will conduct the monthly auditing process as described in the Monthly Top-up Cycle, increasing transparency of the auditing process for the community.
    The Maker Protocol (`MCD_PAUSE_PROXY`, `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB`) will be listed as a beneficiary on the Auditor Wallet. This allows the protocol to withdraw up to 1B DAI from the Auditor Multi-sig wallet, ensuring control over these funds and acting as a backup.
    This multi-sig will hold funds up to the Quarterly Budget Cap in DAI and receive the DssVest stream. All funds pass through this wallet before any are sent to the Operational Wallet.
@@ -82,10 +82,10 @@ The Monthly Budget Statements can be found in [this GitHub repository](https://g
 3. **Returning Excess Funds** – TECH-001 creates and signs any transactions for excess funds that should be returned to the Auditor Wallet:
    * Excess DAI Transactions – DAI transactions for Operational Wallets that have a balance above the 3-Month Budget Forecast will be returned to the Auditor Wallet.
 4. **DssVest Pull** - The Auditor Wallet signers will pull available funds from the TECH-001 DssVest contract, replenishing the available funds in the Auditor Wallet.
-6. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by TECH-001 to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist and verify the Accountant’s findings. 
+6. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by TECH-001 to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist and verify the Accountant’s findings.
    A summary of each audit cycle’s report will be made available to the Maker Community at the conclusion of the audit cycle on the TECH-001’s transparency reporting repository on Github.
 6. **Transaction Approvals** – Upon acceptance of the Monthy Budget Statement audit, an Accountant Role signer and an Auditor Role signer will sign the requested transactions, sending the DAI top-up amounts to the Operational Wallet.
-7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer. 
+7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer.
    As such, the Auditor Wallet will then hold up to 2x the Monthly Budget Cap at the start of the month, allowing DssVest to stream DAI up to the Quarterly Budget Cap over the course of the month.
 
 #### Auditor Wallet Configuration
@@ -99,9 +99,9 @@ To enable this payment flow, the following configuration of the TECH-001 Auditor
 #### Transactions
 
 * **Initial Seed Transfer**
-     1,069,250 DAI will be transfered to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` on 2022-2-1. 
-     
-     This seeds the Operational Wallet to 3x the Month Budget Cap. This also initially funds the Auditor Wallet to 2x the Monthly Budget Cap. The initial transfer funds the Operational Wallet, enabling the Core unit to begin operations. This also then positions DssVest to begin streaming funds up to the Quarterly Budget Cap each month in the Auditor Wallet. 
+     1,069,250 DAI will be transfered to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` on 2022-2-1.
+
+     This seeds the Operational Wallet to 3x the Month Budget Cap. This also initially funds the Auditor Wallet to 2x the Monthly Budget Cap. The initial transfer funds the Operational Wallet, enabling the Core unit to begin operations. This also then positions DssVest to begin streaming funds up to the Quarterly Budget Cap each month in the Auditor Wallet.
 * **DssVest Stream**
   A total of 2,566,200 DAI will be streamed to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` starting 2022-2-1 and ending 2023-1-31.
     _(2,566,200 DAI is calculated as Quarterly Budget Cap x 4 = 641,550 DAI x 4)._
