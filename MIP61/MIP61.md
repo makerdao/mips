@@ -142,7 +142,7 @@ The parameters that can be modified are:
 - Exponential factor
 - Maximum annual compensation per delegate
 
-Recognized Delegates are potentially conflicted in consideration of these proposals. There may be a temptation to approve increases in compensation and vote against decreases. Hence, a Signal Request is required to assess broader community sentiment and spotlight any positions on the MIP61c5 proposal staked out by Recognized Delegates. [Sunshine is the best disinfectant.](https://quoteinvestigator.com/2020/09/22/sunlight/) The Signal Request Poll must be posted at the start of the Frozen Period.
+Recognized Delegates are potentially conflicted in consideration of these proposals. There may be a temptation to approve increases in compensation and vote against decreases. Hence, a Signal Request is required to assess broader community sentiment and spotlight any positions on the MIP61c5 proposal staked out by Recognized Delegates. The Signal Request Poll must be posted at the start of the Frozen Period.
 
 The Governance Facilitators will aim to perform a review of the above parameters on an annual basis. This will provide an objective review of these parameters and take into account changes in the amounts of MKR delegated, the number of active Recognized Delegates, as well as USD inflation to ensure that Recognized Delegates remain fairly compensated, whilst also ensuring good value for MKR holders. It is expected that this will occur in April to bring it in line with the annual GovAlpha CU budget submission.
 
