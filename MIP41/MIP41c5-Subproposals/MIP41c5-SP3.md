@@ -7,9 +7,9 @@ MIP41c5-SP#: 3
 Author(s): Deimos
 Contributors:
 Tags: core unit, cu-mkt-001, facilitator, personnel-xboarding
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2021-12-08
-Date Ratified:
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp3-facilitator-offboarding-mkt-001
 Ratification Poll URL: https://vote.makerdao.com/polling/QmYk1XN5
 ```
