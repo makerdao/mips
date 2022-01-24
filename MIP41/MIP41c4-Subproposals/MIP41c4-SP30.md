@@ -9,7 +9,7 @@ Contributors: N/A
 Tags: core-unit, cu-tech-001, facilitator, active
 Status: Accepted
 Date Applied: 2021-12-08
-Date Ratified: 2021-01-24
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp30-techops-core-unit-facilitator-onboarding-dumitru-zavrotschi
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZEeWAC
 ```
