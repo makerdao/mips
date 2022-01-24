@@ -6,10 +6,10 @@
 MIP40c3-SP: #53
 Author(s): @simonkp
 Contributors: @georgen, @dumitru, @lukaszb, @wouter
-Tags: core-unit, cu-tech-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-tech-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2021-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp53-techops-core-unit-dai-budget
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZEeWAC
 ```

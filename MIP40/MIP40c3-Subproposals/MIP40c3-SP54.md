@@ -6,10 +6,10 @@
 MIP40c3-SP: #54
 Author(s): @simonkp
 Contributors: @lukaszb, @wouter
-Tags: core-unit, cu-tech-001, budget, mkr-budget
-Status: Formal Submission
+Tags: core-unit, cu-tech-001, budget, mkr-budget, active
+Status: Accepted
 Date Applied: 2021-12-08
-Date Ratified: YYYY-MM-DD
+Date Ratified: 2021-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp54-techops-core-unit-mkr-budget
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZEeWAC
 ```
