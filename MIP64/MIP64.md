@@ -6,7 +6,7 @@
 MIP#: 64
 Author(s): @travinimmunefi
 Contributors: @psychonaut
-Tags: cu-is-001, bug-bounty, active
+Tags: cu-is-001, bug-bounty
 Status: Accepted
 Date Applied: 2021-12-08
 Date Ratified: 2022-01-24
