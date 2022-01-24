@@ -6,7 +6,7 @@
 MIP40c3-SP#: 33
 Author(s): @seth
 Contributors: @JerryAG @Kat @Alec @JMarshall
-Tags: core-unit, cu-mkt-001, budget, dai-budget, active
+Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-09-03
 Date Ratified: 2021-11-22
