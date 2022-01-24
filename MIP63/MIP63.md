@@ -9,9 +9,9 @@ Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
 Tags: technical, process, liquidations
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-12-08
-Date Ratified: n/a
+Date Ratified: 2022-01-24
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
