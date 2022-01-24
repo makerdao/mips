@@ -39,14 +39,17 @@ MIP61c1 defines key terms.
 **MIP61c2: Compensation Formula and Process**
 MIP61c2 specifies how to calculate the compensation and convey it to Recognized Delegates.
 
-**MIP61c3: Accommodation for Delegate Contract Migration**
-MIP61c3 specifies how Recognized Delegates can continue to receive predictable payments during a contract migration.
+**MIP61c3: Payment Process**
+MIP61c3 specifies the process for the payment of compensation to Recognized Delegates
 
-**MIP61c4: Examples**
-MIP61c4 provides examples of the calculation for a few different situations.
+**MIP61c4: Accommodation for Delegate Contract Migration**
+MIP61c4 specifies how Recognized Delegates can continue to receive predictable payments during a contract migration.
 
-**MIP61c5: Modification of Parameters**
-MIP61c5 is a process component that allows authors to appeal to Maker Governance to change compensation parameters.
+**MIP61c5: Examples**
+MIP61c5 provides examples of the calculation for a few different situations.
+
+**MIP61c6: Modification of Parameters**
+MIP61c6 is a process component that allows authors to appeal to Maker Governance to change compensation parameters.
 
 ## Motivation
 
@@ -91,12 +94,6 @@ Goal 1 can be addressed with a linear relationship or many different curves. Goa
 
 The formula is `C*min(1,MKR^q/T^q)`.
 
-#### Action Plan
-
-Rates of payment need recalculation only when the amount of delegated MKR changes. A rough approximation is obtained by recalculating only at regular periods (daily or weekly). Governance Facilitators shall look for changes at least daily and include the DAI transfers as part of an Executive Vote once per month.
-
-It is expected that Recognized Delegates will confirm both the amount of compensation being paid, and the receiving address with the Governance Facilitators in the week leading up to the Executive Vote, if this is not possible for an individual Recognized Delegate, that individual's compensation will not be included in the Executive Vote and instead will be included in a future Executive Vote at a mutually agreeable time.
-
 #### Performance Modifier
 
 Governance Facilitators track participation and communication metrics for each Recognized Delegate. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognised Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`.
@@ -112,11 +109,20 @@ These requirements and metrics may be adjusted in the future depending on the nu
 
 The intention is that these parameters be considered over the duration of time that a Recognized Delegate is active. The advantage of such an approach is that it allows Recognized Delegates that have been performing at high levels flexibility in terms of unexpected ability to vote, for example, in the event of illness, or planned inactivity, such as a vacation period. If a Recognized Delegate's parameters were calculated on a rolling-basis, for example over three months, taking a week off would have an outsized effect on compensation, particularly if it was a week with a large number of Governance Polls. If it is difficult or uneconomical for Recognized Delegates to take time off when required, there is potential this could lead to burnout and this is consequently undesirable.
 
-### MIP61c3: Accommodation for Delegate Contract Migration
+### MIP61c3: Payment Process
+
+* The Governance Facilitators shall maintain a note of how much MKR was delegated to each Recognized Delegate each day.
+* Compensation will be calcualted on a monthly basis using the mean average of MKR delegated to each Recognized Delegate over the course of the month, using the formulae detailed in MIP61c2.
+* Once calculated, a summary of the compensation for the Recognized Delegates will be published to the MakerDAO forum.
+* Compensation for Recognized Delegates will be distributed by Executive Vote, the Governance Facilitators will aim to include these payments in the first Executive Vote of each calendar month.
+* Recognized Delegates should confirm both the amount of compensation being paid, and the receiving address with the Governance Facilitators in the week leading up to the Executive Vote
+* If a Recognized Delegate is not able to do this, that Recognized Delegate's compensation will not be included in the next Executive Vote and instead will be included in a future Executive Vote at a mutually agreeable time.
+
+### MIP61c4: Accommodation for Delegate Contract Migration
 
 This component addresses the situation when a Recognized Delegate intends to migrate from one delegate contract to another. The associated entity must inform governance 7 days in advance of the migration effective date and which contracts are affected. The new delegate contract cannot already be involved in a migration (e.g., two delegates merging into one). During a 30 day interim period, the old and new delegate contracts are regarded, for the purpose of compensation, as referring to the same entity and compensation is calculated using stats from both the old and new contracts. For example, MKR weight will be obtained by the sum of the MKR weight of the old and new contracts. Participation and communication stats will register the most favorable stats considering both the old and new contracts.
 
-### MIP61c4: Examples
+### MIP61c5: Examples
 
 Suppose the parameters are set to their initial values.
 
@@ -128,7 +134,7 @@ Compensation can be visualized by plotting the amount of MKR delegated against t
 
 ![Rplot01|690x429](upload://moanRKTJpc50wX6bxIsOMeLXZIs.png)
 
-### MIP61c5: Modification of Parameters
+### MIP61c6: Modification of Parameters
 
 The parameters that can be modified are:
 
