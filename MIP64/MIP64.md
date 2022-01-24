@@ -6,10 +6,10 @@
 MIP#: 64
 Author(s): @travinimmunefi
 Contributors: @psychonaut
-Tags: cu-is-001, bug-bounty
-Status: Formal Submission
+Tags: cu-is-001, bug-bounty, active
+Status: Accepted
 Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip64-bug-bounty-program-for-makerdao-critical-infrastructure/12096
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWkPoVv
 ```
