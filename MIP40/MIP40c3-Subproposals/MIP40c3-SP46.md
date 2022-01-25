@@ -59,7 +59,7 @@ A continuous funding model similar to those proposed by RISK-001, SES-001, and D
 - This budget implementation uses the DssVest. This can be changed if needed to any method achieving similar objectives.
 - The first vesting budget will be in place from February 2022 to January 2023 included. It will be renewed each year.
 
-A total of 494,502 Dai will be streamed to 0x387Cde8598E1CBb297FDc5bAEbA5E5c5c2735344 (SF Core Unit Multisig) starting 02/01/22 and ending 07/31/22 at a rate of 82,417 Dai per month.
+A total of 494,502 Dai will be streamed to 0xf737C76D2B358619f7ef696cf3F94548fEcec379 (SF Core Unit Multisig) starting 02/01/22 and ending 07/31/22 at a rate of 82,417 Dai per month.
 
 ## Budget Breakdown
 
