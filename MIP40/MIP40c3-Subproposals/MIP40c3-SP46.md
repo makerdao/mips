@@ -6,10 +6,10 @@
 MIP40c3-SP#: 46
 Author(s): @Aes 
 Contributors: @SebVentures
-Tags: core-unit, cu-sf-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-sf-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-12-01
-Date Ratified: YYYY-MM-DD
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp46-adding-financial-strategy-core-unit-budget-fs-001/
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt
 ```
@@ -53,7 +53,7 @@ The SF-001 budget is designed with the following in mind:
 Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 
 A continuous funding model similar to those proposed by RISK-001, SES-001, and DUX-001. If any modifications are needed, they would be done on a six-month basis through "Modify Core Unit Budget Subproposal Process" (MIP40c3 subproposals.) If modifications are not proposed, the monthly payment amount gets rolled over from the initial proposal, if our work meets community and MKR holders expectations and demands.
- 
+
 ### Smart Contract Implementations
 
 - This budget implementation uses the DssVest. This can be changed if needed to any method achieving similar objectives.
@@ -94,7 +94,7 @@ The team for this budget cycle will be composed of 4 permanent members:
 
 Longer Term we will expand to 7 FTEs including:
 
-- 1 Sr Financial Analyst 
+- 1 Sr Financial Analyst
 - 1 Accounting Manager
 - 1 DAO Auditor
 
@@ -104,11 +104,11 @@ Providing additional detail with regards to the above line items:
 
 **Compensation:** The initial team has two full-time senior positions, one Sr Financial Manager and one Sr Data Analyst. Funds from this budget item will also be used for part-time positions if needed.
 
-The total compensation includes a competitive base salary and funds to cover health insurance, 401K matches, and other benefits offered in the marketplace. 
+The total compensation includes a competitive base salary and funds to cover health insurance, 401K matches, and other benefits offered in the marketplace.
 
 **Travel and Conferences:** The team may travel to present at industry events, attend conferences or participate in a team offsite.
 
-**Hardware & Welcome Package:** An allocation of $3,500 per new team member. (New members only, one-time cost). 
+**Hardware & Welcome Package:** An allocation of $3,500 per new team member. (New members only, one-time cost).
 
 **IT & Subscriptions:** We currently have subscriptions to Dune Analytics, Infura and Nansen and will test out various data providers to determine which product best suits our needs. We will also work with the Data Insights CU to see how our data needs can be served.
 
@@ -116,6 +116,6 @@ The total compensation includes a competitive base salary and funds to cover hea
 
 **Professional Services:** Coverage for legal, tax, and advisory services
 
-**Contingency Buffer:** Approximately 15% of the total cap costs added in case of additional unforeseen expenses. Any Contingency Buffer funds used will be detailed in our financial reports for transparency. 
+**Contingency Buffer:** Approximately 15% of the total cap costs added in case of additional unforeseen expenses. Any Contingency Buffer funds used will be detailed in our financial reports for transparency.
 
 The team will generate monthly financial reports with expense forecasts and return excess Dai at the end of the budget period.
