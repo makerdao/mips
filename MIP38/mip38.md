@@ -557,7 +557,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **Active Budget** - [MIP40c3-SP46](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP46.md)
       - **Budget Amount** - 989,004 DAI / year
-      - **Budget Implementation** - Simple via dssvest
+      - **Budget Implementation** - Simple via dssvest - [MIP40c3SP46 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP46.md)
       - **Budget Breakdown** - [MIP40c3-SP46 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP46.md#budget-breakdown)
 
 ##### Facilitator
