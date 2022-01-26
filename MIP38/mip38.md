@@ -560,7 +560,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Facilitator
 
 - Dumitru Zavrotschi (@dumitru) - [MIP41c4-SP30](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP30.md)
-- Simon Kelada-Polupanov (@simonkp) - [MIP41c3-SP31](https://forum.makerdao.com/t/mip41c4-sp31-techops-core-unit-facilitator-onboarding-simon-kelada-polupanov/12073)
+- Simon Kelada-Polupanov (@simonkp) - [MIP41c3-SP31](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP31.md)
 
 ---
 
