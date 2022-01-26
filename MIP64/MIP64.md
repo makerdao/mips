@@ -20,7 +20,7 @@ MIP64 establishes the bug bounty program for critical infrastructure of MakerDAO
 
 ## Paragraph Summary
 
-MIP64 is part of the ongoing fulfillment of one of the mandates of the Immunefi Security Core Unit (IS-001). The part which it fulfills is “Bug Bounty Program”, where IS-001 will orient its growing community of security researchers on the Immunefi bug bounty platform towards the Maker ecosystem. The program will attract whitehat hackers who find vulnerabilities and responsibly disclose them, so they are fixed before they can be exploited. Additionally, this provides an incentivized opportunity for disclosure of vulnerabilities instead of exploitation for blackhat hackers.
+The Bug Bounty Program is part of the ongoing fulfillment of one of the mandates of the Immunefi Security Core Unit (IS-001). IS-001 will orient its growing community of security researchers on the Immunefi bug bounty platform towards the Maker ecosystem. The program will attract whitehat hackers who find vulnerabilities and responsibly disclose them, so they are fixed before they can be exploited. Additionally, this provides an incentivized opportunity for disclosure of vulnerabilities instead of exploitation for blackhat hackers.
 
 ## Component Summary
 
