@@ -111,9 +111,9 @@ The initial seed transaction covers the contingency buffers for the core unit:
 * The yearly and one-time costs included in the budget: $2,530 + $70,725 = $73,255
 * Total for three months of runway: $470,639.8 + $73,255 = $543,894.8
 
-The streaming transaction covers ongoing activity for the core unit:
+The streaming transaction covers ongoing activity for the core unit. The budget for the bug bounty payout was zero for the first three months:
 
-* Total remaining costs for 12 months: $470,639.8 x 3 = $1,411,919.4
+* Total remaining costs for 12 months: $470,639.8 x 3 - $345,000 = $1,066,919.4
 
 #### Transactions
 
@@ -121,9 +121,9 @@ The streaming transaction covers ongoing activity for the core unit:
 
 A total of 366,562.5 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2021-12-01 and ending 2022-08-01
 
-348,452.3 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2022-02-15
+348,452.3 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2022-03-01
 
-A total of 1,063,467.1 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2022-02-15 and ending 2022-10-15
+A total of 700,356.9 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2022-03-01 and ending 2022-08-01
 
 ### Budget Breakdown
 
