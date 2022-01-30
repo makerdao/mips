@@ -1,4 +1,4 @@
-# MIP61: Delegate Compensation
+# MIP61: Recognized Delegate Compensation
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP#: 61
 Title: Recognized Delegate Compensation
 Author(s): Joshua Pritikin (@jpritikin)
-Contributors: @g_dip, @LongForWisdom
+Contributors: @g_dip, @LongForWisdom, @Patrick_J
 Tags: template
 Type: process
 Status: RFC
@@ -56,19 +56,23 @@ MIP61c6 is a process component that allows authors to appeal to Maker Governance
 > If I don’t delegate my MKR, why should I contribute to the expenses of those that do? I am receiving no benefit from this, and in fact may be harmed by a delegate who votes against my wishes.
 
 - Active engagement of delegates with the community and each other. This is unlikely if MKR holders hire their own delegates. Robust discussion and engagement should lead to better decision-making for the protocol.
-- Consistency in defense of the hat. If the protocol is paying, it can require the delegates to vote every week in order to receive their compensation. Bigger hat = more secure protocol.
-- MKR holders paying their own delegates is unlikely to happen because it is not in their best interests to do so. It is in MKR holders best interests to let someone else (i.e., the largest MKR holder) spend their time and resources governing the system. Given that it is obfuscated who the largest MKR holder is, everyone assumes it is not them, and no one pays the costs.
+- Consistency in defense of the hat. If the protocol compensates Recognized Delegates, they can be incentivized to vote regularly in order to receive their compensation. If more MKR is securing the hat, the Maker Protocol is more secure.
+- MKR holders paying their own delegates is unlikely to happen because it is not in their best interests to do so. It is in MKR holders best interests to let someone else (i.e. the largest MKR holder) spend their time and resources governing the system. Given that it is obfuscated who the largest MKR holder is, everyone assumes it is not them, and no one pays the costs.
 
-The only way to force cooperation is to have the protocol pay for delegates, such that the cost is divided between all MKR holders. Is this unfair for smaller MKR holders that actively vote? Yes, absolutely. But smaller MKR holders that actively vote cannot secure the hat or pass proposals without significant cooperation from other smaller MKR holders - and again, it is not in their best interests to do so given their relative vote-weight.
+The only way to force cooperation is to have the Maker Protocol pay for Recognized Delegates, such that the cost is divided between all MKR holders. Is this unfair for smaller MKR holders that actively vote? Yes, absolutely. But smaller MKR holders that actively vote cannot secure the hat or pass proposals without significant cooperation from other smaller MKR holders - and again, it is not in their best interests to do so given their relative vote-weight, especially in a high-gas environment, as the cost of voting for polls can become obstructive.
 
-Vote outcomes are largely determined by how well voters are informed. As recognized delegates hold a great deal of voting weight, MKR holders are strongly motivated to encourage delegates to be as informed as possible, deliberate on questions of governance in depth, and engage in discussion with all stakeholders to gain the broadest possible perspective on the questions presented before them to decide. Compensation will help free delegates from some of their other responsibilities. For outstanding delegates, a secondary goal of compensation is to retain talent and prevent poaching of delegates by other businesses.
+Vote outcomes are largely determined by how well voters are informed. As Recognized Delegates hold a great deal of voting weight, MKR holders are strongly motivated to encourage delegates to be as informed as possible, deliberate on questions of Governance in depth, and engage in discussion with all stakeholders to gain the broadest possible perspective on the questions presented before them to decide. Compensation will help free Recognized Delegates from some of their other responsibilities. For outstanding Recognized Delegates, a secondary goal of compensation is to retain talent and prevent poaching other businesses or protocols.
 
 ### Specific Goals
 
-1. Delegate compensation should be positively correlated with MKR weight.
-2. There should be a per-delegate maximum compensation because we do not expect a large difference in performance among outstanding delegates.
-3. Compensation should be positively skewed toward delegates with smaller MKR weight to encourage recruitment of new delegates.
-4. The compensation formula should discourage [zero-sum thinking](https://en.wikipedia.org/wiki/Zero-sum_thinking) among delegates. One delegate's compensation should be as independent as possible from another delegate's compensation.
+1. Recognized Delegate compensation should be positively correlated with MKR weight.
+2. There should be a per-delegate maximum compensation because we do not expect a large difference in performance among outstanding Recognized Delegates.
+3. Compensation should be positively skewed toward Recognized Delegates with smaller MKR weight to encourage recruitment of new Recognized Delegates.
+4. The compensation formula should discourage [zero-sum thinking](https://en.wikipedia.org/wiki/Zero-sum_thinking) among Recognized Delegates. One Recognized Delegate's compensation should be as independent as possible from another Recognized Delegate's compensation.
+
+### Performance Modifier Motivation
+
+The intention behind the Performance Modifier is that these parameters be considered over the duration of time that a Recognized Delegate is active. The advantage of such an approach is that it allows Recognized Delegates that have been performing at high levels flexibility in terms of unexpected ability to vote, for example, in the event of illness, or planned inactivity, such as a vacation period. If a Recognized Delegate's parameters were calculated on a rolling-basis, for example over three months, taking a week off would have an outsized effect on compensation, particularly if it was a week with a large number of Governance Polls. If it is difficult or uneconomical for Recognized Delegates to take time off when required, there is potential this could lead to burnout and this is consequently undesirable.
 
 ## Relevant Information
 
@@ -94,6 +98,11 @@ Goal 1 can be addressed with a linear relationship or many different curves. Goa
 
 The formula is `C*min(1,MKR^q/T^q)`.
 
+In practice, the Governance Facilitators will calculate compensation for Recognized Delegates on a monthly basis, as such the formula becomes `(C*min(1,MKR^q/T^q))/12`.
+
+* If a Recognized Delegate has greater than or equal to `T` MKR delegated to them, they will receive the maximum amount of compensation, `C`.
+* If a Recognized Delegate has less than `T` MKR delegated them, they will receive an amount of compensation derived by the above formulae.
+
 #### Performance Modifier
 
 Governance Facilitators track participation and communication metrics for each Recognized Delegate. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognised Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`.
@@ -107,12 +116,10 @@ This is demonstrated in the below graph:
 
 These requirements and metrics may be adjusted in the future depending on the number of Recognized Delegates, the resources available to the Governance Facilitators, and feedback from the delegates themselves.
 
-The intention is that these parameters be considered over the duration of time that a Recognized Delegate is active. The advantage of such an approach is that it allows Recognized Delegates that have been performing at high levels flexibility in terms of unexpected ability to vote, for example, in the event of illness, or planned inactivity, such as a vacation period. If a Recognized Delegate's parameters were calculated on a rolling-basis, for example over three months, taking a week off would have an outsized effect on compensation, particularly if it was a week with a large number of Governance Polls. If it is difficult or uneconomical for Recognized Delegates to take time off when required, there is potential this could lead to burnout and this is consequently undesirable.
-
 ### MIP61c3: Payment Process
 
 * The Governance Facilitators shall maintain a note of how much MKR was delegated to each Recognized Delegate each day.
-* Compensation will be calcualted on a monthly basis using the mean average of MKR delegated to each Recognized Delegate over the course of the month, using the formulae detailed in MIP61c2.
+* Compensation will be calculaled on a monthly basis using the mean average of MKR delegated to each Recognized Delegate over the course of the month, using the formulae detailed in MIP61c2.
 * Once calculated, a summary of the compensation for the Recognized Delegates will be published to the MakerDAO forum.
 * Compensation for Recognized Delegates will be distributed by Executive Vote, the Governance Facilitators will aim to include these payments in the first Executive Vote of each calendar month.
 * Recognized Delegates should confirm both the amount of compensation being paid, and the receiving address with the Governance Facilitators in the week leading up to the Executive Vote
@@ -120,7 +127,7 @@ The intention is that these parameters be considered over the duration of time t
 
 ### MIP61c4: Accommodation for Delegate Contract Migration
 
-This component addresses the situation when a Recognized Delegate intends to migrate from one delegate contract to another. The associated entity must inform governance 7 days in advance of the migration effective date and which contracts are affected. The new delegate contract cannot already be involved in a migration (e.g., two delegates merging into one). During a 30 day interim period, the old and new delegate contracts are regarded, for the purpose of compensation, as referring to the same entity and compensation is calculated using stats from both the old and new contracts. For example, MKR weight will be obtained by the sum of the MKR weight of the old and new contracts. Participation and communication stats will register the most favorable stats considering both the old and new contracts.
+This component addresses the situation when a Recognized Delegate intends to migrate from one delegate contract to another. The associated entity must inform governance 7 days in advance of the migration effective date and which contracts are affected. The new delegate contract cannot already be involved in a migration (e.g., two delegates merging into one). During a 30 day interim period, the old and new delegate contracts are regarded, for the purpose of compensation, as referring to the same entity and compensation is calculated using stats from both the old and new contracts. For example, MKR weight will be obtained by the sum of the MKR weight of the old and new contracts. Participation and communication stats will be calculated across both delegate contracts.
 
 ### MIP61c5: Examples
 
