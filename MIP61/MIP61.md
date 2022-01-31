@@ -133,9 +133,9 @@ This component addresses the situation when a Recognized Delegate intends to mig
 
 Suppose the parameters are set to their initial values.
 
-With 100 MKR delegated, 95% Participation, and 95% Communication, the compensation is calculated as `min(max(min(95%,95%)-75%,0)/15%,1) C*min(1,100^q/10000^q)`. This is `100% C*10/100` = 14 400 DAI per year.
+With 100 MKR delegated, 95% Participation, and 95% Communication, the compensation is calculated as `(clamp(min(95%,95%),75%,90%)-75%)/15% C*min(1,100^q/10000^q)`. This is `100% C*10/100` = 14 400 DAI per year.
 
-With 6772 MKR delegated, 85% Participation, and 95% Communication, the compensation is calculated as `min(max(min(85%,95%)-75%,0)/15%,1) C*min(1,6772^q/10000^q)`. This is `80% C*82.29/100` = 94 797.6 DAI per year.
+With 6772 MKR delegated, 85% Participation, and 95% Communication, the compensation is calculated as `(clamp(min(85%,95%),75%,90%)-75%)/15% C*min(1,6772^q/10000^q)`. This is `80% C*82.29/100` = 94 797.6 DAI per year.
 
 Compensation can be visualized by plotting the amount of MKR delegated against the compensation formula,
 
