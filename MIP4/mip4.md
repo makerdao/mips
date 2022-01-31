@@ -101,7 +101,7 @@ Amendment Subproposals must be submitted to RFC for one week, for the Default Fe
 - **Governance Cycle**: Weekly
 - **Other Requirements**: 7-day Signal Request Thread, passing with 51%.
 
-All MIP4c2 subproposals must use the template located at **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**.
+All MIP4c3 subproposals must use the template located at **[MIP4c3-Subproposal-Template.md](MIP4c3-Subproposal-Template.md)**.
 
 ### MIP4c4: MIP Removal Process
 
