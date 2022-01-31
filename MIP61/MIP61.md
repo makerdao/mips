@@ -109,22 +109,22 @@ Governance Facilitators track participation and communication metrics for each R
 
 For Participation, a score of 100% would mean that a Delegate has voted in all possible polls since they started their role as a Recognized Delegate. GovAlpha tracks Participation in Governance Polls and Executive Votes separately and also tracks a combined overall participation rating.
 
-For Communication, GovAlpha tracks how Recognized Delegates have communicated their voting decisions. Recognized Delegates are rewarded with a higher score for providing reasoning for their voting decisions. For example, a score of 100% would mean a Delegate communicated all of their voting decisions AND gave reasons for reaching these decisions. On the other hand, a score of 50% would indicate a Delegate communicated their decisions but did not provide any reasoning for these decisions. Delegates are expected to communicate their vote within seven days of a Governance Poll concluding. For Executive Votes, a more lenient approach is taken as there may be valid reasons to delay voting on an Executive Vote, so it is expected that reasoning is communicated within two weeks of an Executive Vote being executed on-chain. Their scores for each vote are combined to give an overall communication rating.
+For Communication, GovAlpha tracks how Recognized Delegates have communicated their voting decisions. Recognized Delegates are rewarded with a higher score for providing reasoning for their voting decisions. For example, a score of 100% would mean a Recognized Delegate communicated all of their voting decisions AND gave reasons for reaching these decisions. On the other hand, a score of 50% would indicate a Recognized Delegate communicated their decisions but did not provide any reasoning for these decisions. Recognized Delegate are expected to communicate their vote within seven days of a Governance Poll concluding. For Executive Votes, a more lenient approach is taken as there may be valid reasons to delay voting on an Executive Vote, so it is expected that reasoning is communicated within two weeks of an Executive Vote being executed on-chain. Their scores for each vote are combined to give an overall communication rating.
 
 | Parameter | Math Symbol | Initial Value |
 | --------- | :-----: | ----: |
-| Threshold for poor performance | L | 75% |
-| Threshold for adequate performance | H | 90% |
+| Threshold for adequate performance | L | 75% |
+| Threshold for good performance | H | 90% |
 | Beginning compensation scalar | B | 40% |
 
-- For less than `L`, the Recognised Delegate will receive no compensation.
+- For less than `L`, the Recognized Delegate will receive no compensation.
 - For `L` or above, the Performance Modifier starts at `B` and rises linearly to 100% for metrics of `H` and above.
 
 This is demonstrated in the below graph:
 
 ![dc0d6e19d5b85b312de77d11b458a1ecb9ab2e63_2_1035x634|690x422](upload://reIamqwdcWgMAvkMqcjxzhaYqYz.png)
 
-These requirements and metrics may be adjusted in the future depending on the number of Recognized Delegates, the resources available to the Governance Facilitators, and feedback from the delegates themselves.
+These requirements and metrics may be adjusted in the future depending on the number of Recognized Delegates, the resources available to the Governance Facilitators, and feedback from the Recognized Delegates themselves.
 
 ### MIP61c3: Payment Process
 
