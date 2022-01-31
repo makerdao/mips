@@ -107,6 +107,10 @@ In practice, the Governance Facilitators will calculate compensation for Recogni
 
 Governance Facilitators track participation and communication metrics for each Recognized Delegate. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognised Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`. A few parameters are used to determine the effect of the Performance Modifier.
 
+For Participation, a score of 100% would mean that a Delegate has voted in all possible polls since they started their role as a Recognized Delegate. GovAlpha tracks Participation in Governance Polls and Executive Votes separately and also tracks a combined overall participation rating.
+
+For Communication, GovAlpha tracks how Recognized Delegates have communicated their voting decisions. Recognized Delegates are rewarded with a higher score for providing reasoning for their voting decisions. For example, a score of 100% would mean a Delegate communicated all of their voting decisions AND gave reasons for reaching these decisions. On the other hand, a score of 50% would indicate a Delegate communicated their decisions but did not provide any reasoning for these decisions. Delegates are expected to communicate their vote within seven days of a Governance Poll concluding. For Executive Votes, a more lenient approach is taken as there may be valid reasons to delay voting on an Executive Vote, so it is expected that reasoning is communicated within two weeks of an Executive Vote being executed on-chain. Their scores for each vote are combined to give an overall communication rating.
+
 | Parameter | Math Symbol | Initial Value |
 | --------- | :-----: | ----: |
 | Threshold for poor performance | L | 75% |
