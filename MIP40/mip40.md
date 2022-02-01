@@ -91,6 +91,14 @@ Once a MIP40c3-SP subproposal passes, the Governance Facilitators or the MIP Edi
 
 This is a technical process component that can have on-chain effects that alter the Maker Protocol's state. When subproposals generated from this component reach the executive vote stage of the MIPs cycle, the executive vote must include a technical state change to authorize the budget implementations specified in the subproposal to draw funds from the Maker Protocol.
 
+A budget modification proposal for a Core Unit made by anyone other than a member or facilitator of that Core Unit may only be to reduce budget to 0, and may not be voted upon until the earliest of:
+
+- All active DAI budgets to the Core Unit have been fully disbursed.
+- Two months from RFC submission.
+- Explicit endorsement from the CU's facilitator or Interim Facilitator, in which case regular rules apply with regard to the RFC period.
+- Explicit endorsement by a combination of two (2) Recognized Delegates, OR two (2) Core Unit facilitators.
+- Explicit endorsement by a combination of (1) Recognized Delegate and one (1) Core Unit facilitator.
+
 The proposal parameters are:
 * Minimum feedback period: 1 month.
 * Minimum frozen period: 1 week.
