@@ -58,7 +58,7 @@ This budget implementation uses a DssVest Budget Implementation.
 * Asset type: DAI
 * Address: 0xb386Bc4e8bAE87c3F67ae94Da36F385C100a370a
 * Payment Frequency: Accrued per block linearly through DssVest
-* A total of 2,760,000 DAI will be streamed to 0xb386Bc4e8bAE87c3F67ae94Da36F385C100a370a starting 2022-03-01 and ending 2023-02-29
+* A total of 2,760,000 DAI will be streamed to 0xb386Bc4e8bAE87c3F67ae94Da36F385C100a370a starting 2022-03-01 and ending 2023-02-28
 
 ### List of Budget Breakdowns
 
