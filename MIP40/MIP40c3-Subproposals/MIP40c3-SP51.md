@@ -1,4 +1,4 @@
-# MIP50c3-SP51: Modify Core Unit Budget (MKR) - Maker Talent (MT-001) 
+# MIP50c3-SP51: Modify Core Unit Budget (MKR) - Maker Talent (MT-001)
 
 ## Preamble
 
@@ -28,7 +28,7 @@ MKR incentives have been determined based on the [Program discussed here](https:
 
 ## Total MKR Expenditure Cap
 
-The total Expenditure Cap will be 282.41 MKR.
+The total Expenditure Cap will be 274.106 MKR.
 
 ## Estimated MKR Expenditure
 
@@ -48,19 +48,19 @@ If any Contributor chose to reprice their program, they could do it at a maximum
 
 For the permanent team, this would result in the vesting schedule below.
 
-|Vesting Date|MKR Amount|
+| Vesting Date  |  MKR Amount  |
 |---------------|:------------:|
-|MAR, 2022|0 MKR|
-|SEP, 2022|32.08 MKR|
-|MAR, 2023|35.85 MKR|
-|SEP, 2023|25.95 MKR|
-|MAR, 2024|25.95 MKR|
-|SEP, 2024|25.95 MKR|
-|**Total**|**145.78 MKR**|
+| MAR, 2022     |        0 MKR |
+| SEP, 2022     |    31.76 MKR |
+| MAR, 2023     |    34.24 MKR |
+| SEP, 2023     |    25.06 MKR |
+| MAR, 2024     |    25.06 MKR |
+| SEP, 2024     |    25.06 MKR |
+| **Total**     |**141.18 MKR**|
 
-This covers the total vesting schedule of 3 years for the current and forecasted 4 FTEs.
+This covers the total vesting schedule of 3 years for the current and forecasted 3 FTEs.
 
-On average, this yields 12.97 MKR per FTE per year.
+On average, this yields 15.66 MKR per FTE per year.
 
 Any changes to these amounts will be reported and reviewed by our budget auditors.
 
@@ -69,7 +69,7 @@ Any changes to these amounts will be reported and reviewed by our budget auditor
 |Parameter|Value|
 |---------------|:-----:|
 |MKR/DAI lock-in Price (New)|Trailing 6 month average|
-|MKR/DAI lock-in Price|MKR = $3121.70 (1/SEP/21 - 05/MAR/21)|
+|MKR/DAI lock-in Price|MKR = $3,121.70 (1/SEP/21 - 05/MAR/21)|
 |MKR Price Floor|-30% ($2185.19)|
 |Vesting Period|3 years|
 |Cliff Vest|12 months|
@@ -78,20 +78,23 @@ Any changes to these amounts will be reported and reviewed by our budget auditor
 |Manual Repricing|yes|
 |Auto-Renewal|yes|
 
-### Payment Implementation
+## Payment Implementation
 
 This payment implementation is based on the [SES MKR budget proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md).
 
-- Payment of the MKR tokens will follow the same flow as described in [MIP40c3-SP50](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP50.md).
-- As defined above and in the Monthly Budget Statement, it contains the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
+- Payment of the MKR tokens will follow the same flow as described in the original [MT MIP40c3-SP50 budget MIP](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP50.md)
+
+![wallet-setup](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP51/wallet-setup.png)
+
+- As defined above and in [MIP40c3-SP50](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP50.md), the [Monthly Budget Statement](TBD) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
-  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `MT Auditors Wallet`, which then acts as an escrow wallet.
-  - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less will be included in the monthly top-up transaction that moves funds from the `MT Auditors Wallet` to the `MT Permanent Team Operational Wallet`.
+  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `MT Auditors Wallet`, which then acts as an escrow wallet.
+  - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `MT Auditors Wallet` to the `MT Operational Wallet`.
   - When the MKR has vested, it is paid out to the contributor, either directly or through an intermediate payment processor.
-- Any excess MKR in the `MT Auditors Wallet` or the `MT Permanent Team Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
+- Any excess MKR in the `MT Auditors Wallet` or the `MT Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
 
 This payment implementation makes no assumptions about the origin of the MKR. It can either be moved from the protocol’s treasury, newly minted, or obtained from another source.
 
-The MKR that’s held by the `MT Auditors Wallet` and the `MT Permanent Team Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
+The MKR that’s held by the `MT Auditors Wallet` and the `MT Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
-MT-001 may consider alternative payment flows compliant with [DssVest](https://github.com/makerdao/mips/blob/master/MIP54/MIP54.md) if the standarised flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
+MT may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
