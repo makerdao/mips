@@ -6,7 +6,7 @@
 MIP40c3-SP#: 26
 Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @wouter, @juanjuan
-Tags: core-unit, cu-dux-001, budget, dai-budget, active
+Tags: core-unit, cu-dux-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-08-11
 Date Ratified: 2021-09-27
