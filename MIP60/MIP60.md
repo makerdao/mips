@@ -87,7 +87,9 @@ MIP60 assumes that there are sufficient Core Unit Facilitators to meet the trans
 
 ### MIP60c2: Intangible Asset Records
 
-Canonical Intangible Asset Records will be maintained in the 'MIP60c2-Records' folder within the official MakerDAO mips repository. The records will be recorded in an appropriate open-source file format. For convenience, a publicly accessible google sheet will be maintained in parallel to the canonical records. The canonical records will be maintained for each asset by the Asset Owner or an agent employed on their behalf.
+The canonical Intangible Asset records will be maintained in the [interim-asset-records](link) github repository. The records will be stored in an appropriate open-source file format. It is the responsibility of the Asset Owner to ensure that changes to the canonical Intangible Asset record for an owned asset are accompanied by a relevant and specific commit-message explaining why the change took place.
+
+For convenience, a publicly accessible google sheet will be maintained in parallel to the canonical records. The canonical records will be maintained for each asset by the Asset Owner or an agent employed on their behalf.
 
 The google sheet can be found [here](https://docs.google.com/spreadsheets/d/1tW2FeaseSb4ExjRajbes9WURrIc416K6kIcrPc5l1zQ/edit#gid=0).
 
@@ -112,8 +114,8 @@ The agreed Modification of Management must use the template located at **[MIP60c
 **Well Defined**  
 An agreed Modification of Management must include a listed purpose for the asset and reasoning for why the change in management is desirable. Additionally, the new managers must provide a public contact address (email) and commit to responding promptly to contact requests from lawful authorities and mandated actors.
 
-**Recorded**  
-An agreed Modification of Management must include a link to an open pull request on the official MIPs GitHub repository which modifies MIP60c2 to take into account the agreed modification. The link to this pull request must be present in the discourse forum post as part of transparency requirements. 
+**Recordable**  
+An agreed Modification of Management must include the required information such that the Intangible Asset records can be updated.
 
 **Supported**  
 An agreed Modification of Management must be publicly supported by at least three Core Unit Facilitators as defined in MIP41. 
