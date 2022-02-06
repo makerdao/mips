@@ -8,6 +8,7 @@ MIP40c3-SP#: 58
 Author(s): @TravinImmunefi
 Contributors: @psychonaut
 Tags: budget, security, is-001
+Status: RFC
 Date Applied: 2022-01-12
 Date Ratified: <yyyy-mm-dd>
 ```
