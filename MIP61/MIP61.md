@@ -122,7 +122,7 @@ For Communication, GovAlpha tracks how Recognized Delegates have communicated th
 
 This is demonstrated in the below graph:
 
-![dc0d6e19d5b85b312de77d11b458a1ecb9ab2e63_2_1035x634|690x422](upload://reIamqwdcWgMAvkMqcjxzhaYqYz.png)
+![](https://github.com/makerdao/mips/blob/master/MIP61/modVsLowest.png)
 
 These requirements and metrics may be adjusted in the future depending on the number of Recognized Delegates, the resources available to the Governance Facilitators, and feedback from the Recognized Delegates themselves.
 
@@ -149,7 +149,7 @@ With 6772 MKR delegated, 85% Participation, and 95% Communication, The Performan
 
 Compensation can be visualized by plotting the amount of MKR delegated against the compensation formula,
 
-![Rplot01|690x429](upload://moanRKTJpc50wX6bxIsOMeLXZIs.png)
+![](https://github.com/makerdao/mips/blob/master/MIP61/Rplot.png)
 
 ### MIP61c6: Modification of Parameters
 
