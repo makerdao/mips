@@ -4,7 +4,7 @@
 
 ```
 MIP4c2-SP#: 15
-MIP to be amended: <MIP#>
+MIP to be amended: MIP39, MIP40, MIP41
 Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium, @psychonaut. @longforwisdom, @juan, @davidutro, @seth, @twblack88, @sebventures, @MadShills
 Tags: mip-amendment
