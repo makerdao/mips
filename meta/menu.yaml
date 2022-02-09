@@ -115,6 +115,10 @@ data:
             name: 'SES-001: Sustainable Ecosystem Scaling'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Sustainable%20Ecosystem%20Scaling%20Core%20Unit%20(SES-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-ses-001)&_Archive=$AND(NOT(%23active),%23cu-ses-001)
+          - id: sf-001
+            name: 'SF-001: Strategic Finance'
+            href: >-
+                https://mips.makerdao.com/mips/list?customViewName=TechOps%20Core%20Unit%20(SF-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sf-001)&_Archive=$AND(NOT(%23active),%23cu-sf-001)
           - id: sne-001
             name: 'SNE-001: StarkNet Engineering'
             href: >-
@@ -123,6 +127,10 @@ data:
             name: 'SH-001: Strategic Happiness'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Strategic%20Happiness%20Core%20Unit%20(SH-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sh-001)&_Archive=$AND(NOT(%23active),%23cu-sh-001)
+          - id: tech-001
+            name: 'TECH-001: TechOps'
+            href: >-
+                https://mips.makerdao.com/mips/list?customViewName=TechOps%20Core%20Unit%20(TECH-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-tech-001)&_Archive=$AND(NOT(%23active),%23cu-tech-001)
       - id: mipsets
         name: MIP Sets
         href: 'https://mips.makerdao.com/mips/list?&search=&mipsetMode=true'

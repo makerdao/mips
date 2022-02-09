@@ -55,11 +55,11 @@ Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 
 The following multi-sigs are involved:
 
-1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role-based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants.
+1. **The Auditor Wallet (`0x2dC0420A736D1F40893B9481D8968E4D7424bC0B`)** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role-based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants.
    The Accountant Role Multi-sig will have 2 signers---both SES permanent team contributors. The Auditor Role Multi-sig will also have 2 signers, also both SES permanent team contributors. SES will conduct the monthly auditing process as described in the Monthly Top-up Cycle, increasing transparency of the auditing process for the community.
    The Maker Protocol (`MCD_PAUSE_PROXY`, `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB`) will be listed as a beneficiary on the Auditor Wallet. This allows the protocol to withdraw up to 1B DAI from the Auditor Multi-sig wallet, ensuring control over these funds and acting as a backup.
    This multi-sig will hold funds up to the Quarterly Budget Cap in DAI and receive the DssVest stream. All funds pass through this wallet before any are sent to the Operational Wallet.
-2. **The Operational Wallet** -- One wallet for TECH-001 operational expenses. This is a 2-out-of-2 multi-sig controlled by TECH-001. Signers include both facilitators of TECH-001.
+2. **The Operational Wallet (`0x1a3DA79ee7dB30466cA752DE6a75DEf5e635b2f6`)** -- One wallet for TECH-001 operational expenses. This is a 2-out-of-2 multi-sig controlled by TECH-001. Signers include both facilitators of TECH-001.
    The Maker Protocol (`MCD_PAUSE_PROXY`, `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB`) will also be listed as a beneficiary on the Operational Wallet. This allows the protocol to withdraw up to 1B DAI from the Operational Multi-sig wallet, ensuring control over these funds and acting as a backup.
 
 #### Monthly Budget Statement
@@ -91,24 +91,34 @@ The Monthly Budget Statements can be found in [this GitHub repository](https://g
 #### Auditor Wallet Configuration
 
 To enable this payment flow, the following configuration of the TECH-001 Auditor Wallet will be required.
-* Accountant Role Wallet (`0xA2A855Ac8D2a92e8A5a437690875261535c8320C`) as a signer
-* Auditor Role Wallet (`0xB2da57e224949acDDe173a5b8A8160c023ea86e6`) as a signer
+
+* SES Accountant Role Wallet (`0xA2A855Ac8D2a92e8A5a437690875261535c8320C`) as a signer
+* SES Auditor Role Wallet (`0xB2da57e224949acDDe173a5b8A8160c023ea86e6`) as a signer
 * Add `MCD_PAUSE_PROXY` as a beneficiary, with an allowance of 1B DAI withdrawal.
+* Configure required confirmations as 2-out-of-2.
+
+#### Operational Wallet Configuration
+
+To enable this payment flow, the following configuration of the TECH-001 Operational Wallet will be required.
+
+* Facilitator 1 (0xA60C77efe539166F1C4a6cE2512F3cBF451fFbc5) as a signer
+* Facilitator 2 (0xcebd4Fa8c2c6014F2F7924De3Ae617BdD42ca25B) as a signer
+* Add MCD_PAUSE_PROXY as a beneficiary, with an allowance of 1B DAI withdrawal.
 * Configure required confirmations as 2-out-of-2.
 
 #### Transactions
 
 * **Initial Seed Transfer**
-     1,069,250 DAI will be transfered to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` on 2022-2-1.
+     1,069,250 DAI will be transfered to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` (the Auditor Wallet) on 2022-2-1.
 
      This seeds the Operational Wallet to 3x the Month Budget Cap. This also initially funds the Auditor Wallet to 2x the Monthly Budget Cap. The initial transfer funds the Operational Wallet, enabling the Core unit to begin operations. This also then positions DssVest to begin streaming funds up to the Quarterly Budget Cap each month in the Auditor Wallet.
 * **DssVest Stream**
-  A total of 2,566,200 DAI will be streamed to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` starting 2022-2-1 and ending 2023-1-31.
+  A total of 2,566,200 DAI will be streamed to `0x2dC0420A736D1F40893B9481D8968E4D7424bC0B` (the Auditor Wallet) starting 2022-2-1 and ending 2023-1-31.
     _(2,566,200 DAI is calculated as Quarterly Budget Cap x 4 = 641,550 DAI x 4)._
 
 ### Budget Breakdown
 
-The yearly budget cap request for the TechOps Core Unit is 2,566,200 DAI. This equates to a monthly budget cap of 213,850 DAI to support the team mandate.
+The yearly budget cap request for the TechOps Core Unit is 2,566,200 DAI. This equates to a monthly budget cap of 207,200 DAI to support the team mandate.
 
 This budget cap secures a team of 5.7 full-time employees (FTE), critical infrastructure and tools, as well as covers all other operational costs listed in the table below.
 

@@ -6,10 +6,10 @@
 MIP41c4-SP#: #30
 Author(s): Dumitru Zavrotschi
 Contributors: N/A
-Tags: core-unit, cu-tech-001, facilitator
-Status: Formal Submission
+Tags: core-unit, cu-tech-001, facilitator, active
+Status: Accepted
 Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp30-techops-core-unit-facilitator-onboarding-dumitru-zavrotschi
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZEeWAC
 ```

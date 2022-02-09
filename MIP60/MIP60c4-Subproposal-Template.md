@@ -1,4 +1,4 @@
-# MIP60c4: Subproposal Template for Intangible Asset Contested Modification of Management
+# MIP60c4-SP##: Subproposal for Contested Modification of Management of <Intangible Asset>
 
 ## Preamble
 ```
@@ -33,10 +33,6 @@ Date Ratified: <yyyy-mm-dd>
 > **Content Manager:** <core-unit/individual/etc> (<contact email>)  
 > **Purpose:** <purpose (short)>  
 > **Last Modification:** <link to last modification>  
-
-### Record
-
-- Link to Open PR containing the changes to MIP60c2.
 
 ### Reason for Modification
 

@@ -47,7 +47,7 @@ SNE-001
   * DAI 42,917 for January salaries
   * DAI 186,875 for bug bounty, gas costs, audit, travel, and front-end resources
 * Monthly transfers
-  * A total of DAI 257,500 (6*42,917) will be streamed to 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1 starting 02-01-2022 and ending 07-13-2022
+  * A total of DAI 257,500 (6*42,917) will be streamed to 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1 starting 02-01-2022 and ending 07-31-2022
 
 ![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP47/implementation.png)
 

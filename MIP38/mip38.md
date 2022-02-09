@@ -207,29 +207,6 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ---
 
-#### Content Production (MKT-001)
-
-- **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
-- **Ratification Date for the Initial Proposal Set** - 2021-27-04
-
-##### Mandate
-
-- [MIP39c2-SP5](https://mips.makerdao.com/mips/details/MIP39c2SP5)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP33](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md)
-    - **Ratification Date** - 2021-22-11
-    - **Budget Amount** - A total of 424,944 Dai DAI will be streamed starting 2021-12-01 and ending 2022-04-30
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP33 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md#budget-breakdown)
-
-##### Facilitator
-
-- Seth Goldfarb - [MIP41c4-SP5](https://mips.makerdao.com/mips/details/MIP41c4SP5)
-
----
-
 #### MakerDAO Shop (MDS-001)
 
 - **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store
@@ -563,3 +540,52 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Facilitator
 
 - Mark Phillips (@Aes) - [MIP41c4-SP28](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP28.md)
+
+#### TechOps (TECH-001)
+
+- **Summary** - TechOps Core Unit mission is to handle the system administration and technical support needs of the Maker Protocol and its Core Units.
+- **Ratification Date for the Initial Proposal Set** - 2022-24-01
+
+##### Mandate
+
+- [MIP39c2-SP29](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP29.md)
+
+##### Budget
+
+- **Active Budget** - [MIP40c3-SP53](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP53.md)
+      - **Budget Amount** - 2,246,400 DAI / year
+      - **Budget Implementation** - Simple via dssvest - [MIP40c3SP53 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP53.md#budget-implementation)
+      - **Budget Breakdown** - [MIP40c3-SP53 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP53.md#budget-breakdown)
+
+##### Facilitator
+
+- Dumitru Zavrotschi (@dumitru) - [MIP41c4-SP30](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP30.md)
+- Simon Kelada-Polupanov (@simonkp) - [MIP41c3-SP31](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP31.md)
+
+---
+
+### Offboarded Core Units:
+
+
+#### Content Production (MKT-001)
+
+- **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
+- **Ratification Date for the Initial Proposal Set** - 2021-27-04
+
+##### Mandate
+
+- [MIP39c2-SP5](https://mips.makerdao.com/mips/details/MIP39c2SP5)
+
+##### Budget
+
+- **Active Budget** - [MIP40c3-SP33](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md)
+    - **Ratification Date** - 2021-22-11
+    - **Budget Amount** - A total of 424,944 Dai DAI will be streamed starting 2021-12-01 and ending 2022-04-30
+    - **Budget Implementation** - Simple via dssvest
+    - **Budget Breakdown** - [MIP40c3-SP33 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md#budget-breakdown)
+
+##### Facilitator
+
+- Seth Goldfarb - [MIP41c4-SP5](https://mips.makerdao.com/mips/details/MIP41c4SP5)
+
+---

@@ -7,10 +7,11 @@ MIP41c5-SP#: 2
 Author(s): Rune Christensen
 Contributors:
 Tags: personnel-xboarding
-Status: Withdrawn
+Status: Accepted
 Date Applied: 2021-30-10
-Date Ratified:  
+Date Ratified: 2022-25-01
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp1-facilitator-offboarding-rwf-001/
+Extra: In light of Sébastien Derivaux's voluntary resignation (https://forum.makerdao.com/t/mip41c5-sp2-facilitator-offboarding-rwf-001/11306/49), this subproposal has been marked as accepted
 ```
 
 ## Sentence Summary
