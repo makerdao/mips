@@ -7,7 +7,7 @@ MIP63c4#: SP3
 Title: Onboard/Amend Keeper Network - Gelato Network
 Author(s): Sam MacPherson (@hexonaut), Hilmar Orth (@hilmarx)
 Contributors:
-Tags: template
+Tags: keeper-network
 Status: RFC
 Date Proposed: 2022-01-20
 Date Ratified: yyyy-mm-dd
