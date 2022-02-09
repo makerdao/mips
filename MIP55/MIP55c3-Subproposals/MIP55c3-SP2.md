@@ -7,7 +7,7 @@ MIP55c3-SP#: 2
 Author(s): James McCall
 Contributors:LexDAO and RealDAO
 Tags: RWA, spf
-Status: RFC
+Status: Withdrawn
 Date Applied: 2021-11-23
 Date Ratified: yyyy-mm-dd
 Amount Requested: 50,000 DAI

@@ -6,10 +6,10 @@
 MIP40c3-SP#: 45
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
-Tags: core-unit, cu-ora-001, budget
-Status: Formal Submission
+Tags: core-unit, cu-ora-001, budget, active
+Status: Accepted
 Date Applied: 2021-11-09
-Date Ratified: n/a
+Date Ratified: 2022-01-24
 Forum URL:https://forum.makerdao.com/t/mip40c3-sp45-modify-core-unit-budget-ora-001-oracle-gas-costs/
 Ratification Poll URL: https://vote.makerdao.com/polling/QmRT9363
 ```
@@ -371,6 +371,8 @@ Funds will be split up into two multi-sig wallets that are separate from the Ora
 
 **Multisig #1 = Oracle Gas Costs**
 
+Multisig address = 0x2B6180b413511ce6e3DA967Ec503b2Cc19B78Db6
+
 ```
 Signers = 6
 Quorum = 3
@@ -396,6 +398,8 @@ PunchIt Inc. - Protocol Engineering Core Contributor - @cmooney
 ```
 
 **Multisig #2 = Oracle Emergency Fund**
+
+Multisig Address = 0x1A5B692029b157df517b7d21a32c8490b8692b0f
 
 ```
 Signers = 3
@@ -424,6 +428,10 @@ Unlike core unit operational funds, which are streamed continuously, Oracle gas 
 
 1. The Maker Foundation refund needs to be paid in full so the Foundation can close its books as part of its winddown.
 2. Gas costs are hyper volatitle, meaning Oracles expense outflows can happen in bursts many times the size of a typical day. Gas costs on short-time intervals are therefore not predictable and only average over long time intervals.
+
+Upon ratification of this subproposal 6,966,069.84 DAI will be transferred to 0x2B6180b413511ce6e3DA967Ec503b2Cc19B78Db6 on 2021-01-28
+
+Upon ratification of this subproposal 1,805,407.21 DAI will be transferred to 0x1A5B692029b157df517b7d21a32c8490b8692b0f on 2021-01-28
 
 #### Fund Management
 

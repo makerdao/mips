@@ -7,7 +7,7 @@ MIP63c4#: SP2
 Title: Onboard/Amend Keeper Network - Keep3r Network
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
-Tags: template
+Tags: keeper-network
 Status: RFC
 Date Proposed: 2022-01-20
 Date Ratified: yyyy-mm-dd

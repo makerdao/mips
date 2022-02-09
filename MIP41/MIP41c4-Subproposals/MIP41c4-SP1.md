@@ -6,7 +6,7 @@
 MIP41c4-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
-Tags: core-unit, cu-rwf-001, facilitator, active
+Tags: core-unit, cu-rwf-001, facilitator
 Status: Accepted
 Date Applied: 2021-01-26
 Date Ratified: 2021-25-03
