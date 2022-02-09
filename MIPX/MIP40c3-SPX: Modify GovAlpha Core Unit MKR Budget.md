@@ -1,14 +1,14 @@
-# MIP40c3-SPXX: Modify GovAlpha Core Unit MKR Budget 
+# MIP40c3-SP60: Modify GovAlpha Core Unit MKR Budget 
 
 ## Preamble
 
 ```
-MIP40c3-SP#: #X
+MIP40c3-SP#: 60
 Author(s): @prose11, @LongForWisdom, @Patrick_J
 Contributors: @blimpa, @gala
-Tags: template
+Tags: core-unit, cu-gov-001, budget, mkr-budget
 Status: RFC
-Date Applied: <yyyy-mm-dd>
+Date Applied: <2022-02-09>
 Date Ratified: <yyyy-mm-dd>
 ```
 
@@ -110,10 +110,10 @@ Contributiors - 60,377.27 DAI
 50 MKR sent from the Pause Proxy to **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b**
 
 @LongForWisdom Facilitator Stream:
-55.28 MKR streamed from the Pause Proxy to **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b** Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
+55.28 MKR streamed from the Pause Proxy to **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b**, Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
 
 @prose11 Facilitator Stream:
-39.55 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241** Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
+39.55 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241**, Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
 
 Core Unit Stream:
 30.90 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
