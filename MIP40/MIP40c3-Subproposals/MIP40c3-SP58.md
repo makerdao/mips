@@ -8,23 +8,30 @@ MIP40c3-SP#: 58
 Author(s): @TravinImmunefi
 Contributors: @psychonaut
 Tags: budget, security, is-001
+Status: RFC
 Date Applied: 2022-01-12
 Date Ratified: <yyyy-mm-dd>
 ```
+
 ## Sentence Summary
 
 MIP40c3-SP58 modifies the DAI budget for Core Unit IS-001: Immunefi Security, replacing [MIP40c3-SP42](https://mips.makerdao.com/mips/details/MIP40c3SP42).
 
 ## Paragraph Summary
 
-IP40c3-SP58 modifies the [Dai budget for Core Unit IS-001: Immunefi Security](https://mips.makerdao.com/mips/details/MIP40c3SP42) to account for the provision of a mandate that was previously not reflected in the budget. This is expected and was mentioned in the [roadmap](https://mips.makerdao.com/mips/details/MIP39c2SP24). This budget contains:
+MIP40c3-SP58 modifies the [Dai budget for Core Unit IS-001: Immunefi Security](https://mips.makerdao.com/mips/details/MIP40c3SP42) to account for the provision of a mandate that was previously not reflected in the budget. This is expected and was mentioned in the [roadmap](https://mips.makerdao.com/mips/details/MIP39c2SP24). This budget contains:
 
 * Addition of Operational Audits
 * Increase in the Total Budget Cap
   * Increase in initial payout
   * Increase in funds to be streamed
 
-The total amount will be paid out quarterly. However, the first quarter will have 40% of the total amount, $138 000, due to frontloading and the remaining three quarters will have the remaining amount, $207 000, paid proportionally.
+## Changes (compared to MIP40c3-SP42)
+
+- Total budget cap (including 15% contingency): $634,972.45 -> $979,972.45
+- Immunefi Services - Operational Audits: $0 -> $300,000 ($345,000 incl. 15% contingency)
+
+The total amount will be paid out quarterly. However, the first quarter will have 40% of the total amount, $138,000, due to frontloading and the remaining three quarters will have the remaining amount, $207,000, paid proportionally.
 
 ## Specification
 

@@ -1,10 +1,10 @@
-MIP39c2-SP28: Adding Maker Talent Core Unit (MT-001)
+# MIP39c2-SP28: Adding Maker Talent Core Unit (MT-001)
 
 ## Preamble
 
 ```
 MIP39c2-SP#: 28
-Author(s): @manomad_@v18n_asia
+Author(s): @manomad_,@v18n_asia
 Contributors: @synesthesia
 Tags: core-unit, cu-mt-001, mandate
 Status: RFC
@@ -58,7 +58,7 @@ In order to build the best hiring/contributing experience, we will establish a T
 
 Given the agile and decentralized nature of MakerDAO, we will be leveraging the *contributor experience* a core contributor has, with the different touchpoints (hiring, onboarding, goal setting, performance, compensation, learning, internal mobility, exiting) along their journey in the DAO as the central driver for defining challenges, needs and priorities. This “actively listening in” to our contributor community will be facilitated by the deployment of a **contributor experience management platform.**
 
-![|477x149](upload://tErzPQg8216Zkbd0LsvR4qS7iOJ.png)
+![Strategy](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/Strategy.png)
 
 ### Goals
 
@@ -66,7 +66,7 @@ While we will be building the whole set of experiences a contributor has with th
 
 1. Build the talent acquisition infrastructure based on the different parts of the mapped out candidate journey:
 
-![|624x249](upload://4zmEoqhWldZ2HyE7xc8OvxKIEsM.png)
+![Goals](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/Goals.png)
 
 2. Design and deploy other touchpoints of the contributor experience that are needed to build a properly functioning talent acquisition infrastructure:
     - Improve our workforce planning to more proactively forecast the demand for contributors and resources needed.
@@ -78,7 +78,7 @@ While we will be building the whole set of experiences a contributor has with th
 
 ### Road Map for 2022
 
-![|624x339](upload://kPnjpV4oE7YU8FNRuRJKvtlNqoI.png)
+![Roadmap](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/Roadmap.png)
 
 #### Q1
 
@@ -107,9 +107,9 @@ https://enboarder.com/why-enboarder/
 * Research needs and software solutions for pre-screening and assessments
 * Research the possibility of leveraging influencers for job opening promotion
 
-## Q4
+#### Q4
 
 * Proactively build and manage talent pools of qualified candidates
 * Research needs and software solutions to facilitate an internal marketplace (internal mobility)
 * Develop and deploy hiring manager training (interview training, unconscious bias training)
-* Agency vendor review, including developing and deploying agency onboarding materials.
+* Agency vendor review, including developing and deploying agency onboarding materials

@@ -118,7 +118,7 @@ To enable this payment flow, the following configuration of the TECH-001 Operati
 
 ### Budget Breakdown
 
-The yearly budget cap request for the TechOps Core Unit is 2,566,200 DAI. This equates to a monthly budget cap of 213,850 DAI to support the team mandate.
+The yearly budget cap request for the TechOps Core Unit is 2,566,200 DAI. This equates to a monthly budget cap of 207,200 DAI to support the team mandate.
 
 This budget cap secures a team of 5.7 full-time employees (FTE), critical infrastructure and tools, as well as covers all other operational costs listed in the table below.
 

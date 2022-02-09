@@ -57,6 +57,7 @@ My role is to enable and facilitate my team towards fulfilling the mandate of th
 - (co-)Write MIPs
 
 **Common tasks as product manager**
+
 - Maintain the backlog (eg. related research, creation of epics & stories, grooming, planning)
 - Own the product roadmap (eg. prioritization, communication, delivery)
 - Own external communication on all channels (eg. Discord, Twitter, Canny, etc.)

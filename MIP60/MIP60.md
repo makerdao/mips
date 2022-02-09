@@ -21,6 +21,7 @@ Forum URL: https://forum.makerdao.com/t/mip60-intangible-asset-assignment
 ## References
 **[MIP60c3-ForumPost-Template.md](MIP60c3-ForumPost-Template.md)**  
 **[MIP60c4-Subproposal-Template.md](MIP60c4-Subproposal-Template.md)**  
+**[Public Records Google Sheet](https://docs.google.com/spreadsheets/d/1tW2FeaseSb4ExjRajbes9WURrIc416K6kIcrPc5l1zQ/edit#gid=0)**  
 
 ## Sentence Summary
 
@@ -28,15 +29,15 @@ MIP60 sets processes for MakerDAO to determine which actors manage which Intangi
 
 ## Paragraph Summary
 
-MIP60 sets processes for MakerDAO to determine which actors manage which Intangible Assets (such as web domains, GitHub repositories, and social media accounts). These processes are designed to be as lightweight as possible, requiring intervention by Maker Governance only in the case of disagreement between actors over the management of Intangible Assets. Included is a set of requirements for actors to meet when management control changes, and an active list detailing which actors manage which assets.
+MIP60 sets processes for MakerDAO to determine which actors manage which Intangible Assets (such as web domains, GitHub repositories, and social media accounts). These processes are designed to be as lightweight as possible, requiring intervention by Maker Governance only in the case of disagreement between actors over the management of Intangible Assets. Included is a set of requirements for actors to meet when management control changes, and links to the records detailing which actors manage which assets.
 
 ## Component Summary
 
 **MIP60c1: Definitions and Assumptions**  
 MIP60c1 defines actors and processes that take place under MIP60, along with assumptions that it requires to operate effectively.
 
-**MIP60c2: Intangible Asset List**  
-MIP60c2 defines a list of Intangible Assets owned by MakerDAO and details both the purpose and controller of the asset.
+**MIP60c2: Intangible Asset Records**  
+MIP60c2 defines the records of Intangible Assets owned by MakerDAO.
 
 **MIP60c3: Agreed Modification of Management**  
 MIP60c3 defines the requirements for an agreed Modification of Management of one or more Intangible Assets owned by MakerDAO.
@@ -68,10 +69,10 @@ The following definitions are used within MIP60 to describe the processes and ac
 
 **Content Manager:** An individual or organization that has been granted access to manage the content of an asset held by an Asset Owner. For example, controlling the content of a web domain, or creating posts on a social media account.
 
-**Platform Manager:** An individual or organization that runs the technical infrastructure that serves content to an asset held by an Asset Owner. This individual or entity may be outside MakerDAO's direct control. For example, an individual or organization hosting the web server that serves content on a given domain is a platform manager. As another example, a centralized organization such as Twitter or GitHub that manages a publicly available content platform is a Platform Manager.
+**Platform Manager:** An individual or organization that runs the technical infrastructure that serves content to an asset held by an Asset Owner. This individual or entity may be outside MakerDAO's direct control. For example, an individual or organization hosting the webserver that serves content on a given domain is a platform manager. As another example, a centralized organization such as Twitter or GitHub that manages a publicly available content platform is a Platform Manager.
 
 #### Assumptions
-The following assumptions are made regarding control and ownership of Intangible Assets within MakerDAO in order for this MIP to be effectively used to manage the access of digital assets.
+The following assumptions are made regarding control and ownership of Intangible Assets within MakerDAO for this MIP to be effectively used to manage the access of digital assets.
 
 **Assumption #1:**
 MIP60 assumes that some Asset Owner exists for the assets managed using this MIP. 
@@ -79,25 +80,27 @@ MIP60 assumes that some Asset Owner exists for the assets managed using this MIP
 At the time of writing this MIP, the Asset Owner for many of MakerDAO's Intangible Assets is the DAI Foundation.
 
 **Assumption #2:**
-MIP60 assumes that actors under the umbrella of MakerDAO usually have positive relationships with one another and are able to come to mutually satisfactory resolutions in the majority of situations that require a modification to the Content Managers or Platform Managers of an Intangible Asset.
+MIP60 assumes that actors under the umbrella of MakerDAO usually have positive relationships with one another and can come to mutually satisfactory resolutions in the majority of situations that require a modification to the Content Managers or Platform Managers of an Intangible Asset.
 
 **Assumption #3:**
 MIP60 assumes that there are sufficient Core Unit Facilitators to meet the transparency requirements defined in MIP60c3.
 
-### MIP60c2: Intangible Asset List
+### MIP60c2: Intangible Asset Records
 
-MIP60c2 defines a list of the Intangible Assets owned by MakerDAO and should be managed by the MIP Editors. 
+The canonical Intangible Asset records will be maintained in the [interim-asset-records](link) github repository. The records will be stored in an appropriate open-source file format. It is the responsibility of the Asset Owner to ensure that changes to the canonical Intangible Asset record for an owned asset are accompanied by a relevant and specific commit-message explaining why the change took place.
 
-#### vote.makerdao.com
+For convenience, a publicly accessible google sheet will be maintained in parallel to the canonical records. The canonical records will be maintained for each asset by the Asset Owner or an agent employed on their behalf.
 
-> **Asset Type:** Subdomain  
-> **Asset Owner:** DAI Foundation  
-> **Platform Manager:** DUX Incubating Core Unit (DUX email?)  
-> **Content Manager:** GovAlpha Core Unit (GovAlpha@protonmail.com)  
-> **Purpose:** Provide a safe and reliable way for Maker Governance to take part in the on-chain governance of MakerDAO.  
-> **Last Modification:** N/A (Grandfathered)  
+The google sheet can be found [here](https://docs.google.com/spreadsheets/d/1tW2FeaseSb4ExjRajbes9WURrIc416K6kIcrPc5l1zQ/edit#gid=0).
 
-etc...
+For each intangible asset, the records must contain the following information:
+* The asset type
+* The asset owner
+* The platform manager
+* The content manager
+* The purpose of the asset
+* The last modification date
+* A link to the last modification documentation
 
 ### MIP60c3: Agreed Modification of Management
 
@@ -111,8 +114,8 @@ The agreed Modification of Management must use the template located at **[MIP60c
 **Well Defined**  
 An agreed Modification of Management must include a listed purpose for the asset and reasoning for why the change in management is desirable. Additionally, the new managers must provide a public contact address (email) and commit to responding promptly to contact requests from lawful authorities and mandated actors.
 
-**Recorded**  
-An agreed Modification of Management must include a link to an open pull request on the official MIPs GitHub repository which modifies MIP60c2 to take into account the agreed modification. The link to this pull request must be present in the discourse forum post as part of transparency requirements. 
+**Recordable**  
+An agreed Modification of Management must include the required information such that the Intangible Asset records can be updated.
 
 **Supported**  
 An agreed Modification of Management must be publicly supported by at least three Core Unit Facilitators as defined in MIP41. 
@@ -129,7 +132,7 @@ If an agreed Modification of Management becomes contested, it is no longer valid
 
 ### MIP60c4: Contested Modification of Management
 
-MIP60c4 is a Process MIP component that allows for the resolution of Contested control over an Intangible Asset by appealing to Maker Governance. A Contested Modification of Management must also meet the same requirements as an agreed Modification of Management, with the exception of the 'Uncontested' and 'Supported' headings.
+MIP60c4 is a Process MIP component that allows for the resolution of contested control over an Intangible Asset by appealing to Maker Governance. A Contested Modification of Management must also meet the same requirements as an agreed Modification of Management, with the exception of the 'Uncontested' and 'Supported' headings.
 
 If a subproposal under MIP60c4 passes successfully, then the listed Modification of Management should be made by the Asset Owner of that Intangible Asset.
 

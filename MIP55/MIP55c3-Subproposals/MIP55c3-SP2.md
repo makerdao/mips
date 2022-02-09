@@ -89,6 +89,6 @@ Official Contact or Group Name: LexDAO and RealDAO
 Contact Email/Handle: jamesmccall@lexdao.coop/@mccallios
 Date Added: 2021-11-23
 Total Amount: 50,000 Dai
-Wallet Address: [0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09](https://gnosis-safe.io/app/#/safes/0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09/balances)
+Wallet Address: [0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09](https://gnosis-safe.io/app/eth:0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09/balances)
 Comptroller signers: @sebventures, ?, ?
 ```

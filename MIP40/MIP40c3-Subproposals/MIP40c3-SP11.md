@@ -19,7 +19,7 @@ Forum URL: https://forum.makerdao.com/t/mip40c3-sp11-govalpha-core-unit-budget-g
 MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha.
 
 ## Paragraph Summary
-MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 520,000 DAI over 3 months - 370,000 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity. 
+MIP40c3-SP11 adds the budget for Core Unit GOV-001: GovAlpha. This budget proposal covers a total of 3 months (July, August, and September of 2021). It communicates three focuses for GovAlpha over the period: Delegation, Education, and Quality Assurance. GovAlpha is asking for a total of 520,000 DAI over 3 months - 370,000 DAI will cover operations while 150,000 DAI will remain in a GovAlpha administered multi-sig wallet to ensure emergency continuity.
 
 ### Motivation
 
@@ -32,7 +32,7 @@ GovAlpha (GOV-001)
 
 #### Delegation
 
-Delegation has always been a longer-term focus for the development of governance within MakerDAO. Given recent events and the need to have delegates operating effectively as soon as possible, this is something GovAlpha plans to focus on over the next quarter. 
+Delegation has always been a longer-term focus for the development of governance within MakerDAO. Given recent events and the need to have delegates operating effectively as soon as possible, this is something GovAlpha plans to focus on over the next quarter.
 
 We are hoping to launch delegation at Maker in a structured and effective way that allows MKR Holders to choose one or more delegate that they feel is compatible with their views. GovAlpha aims to promote delegates that opt-in to a lightweight framework that sets some guidelines for delegates to follow. The aim here is to create a tradition of communication and transparency around delegates within MakerDAO - hopefully leading to a more predictable and efficient process for decision-making as governance evolves.
 
@@ -43,21 +43,21 @@ Subsequent to the launch of delegation, we plan to continue to organize and deli
 #### Education
 
 Proper educational knowledge is essential for newer participants to vote and engage effectively in governance at MakerDAO. As such, we are prioritizing getting easily accessible educational materials out to the community this quarter. We will focus our educational efforts on three key areas:
-- Ongoing development of the Maker Operational Manual. 
+- Ongoing development of the Maker Operational Manual.
 - Expansion of Parameter Documentation for Liquidations 2.0 and RWA terms.
-- Adding educational content to the [MIPs Portal](https://mips.makerdao.com/). 
+- Adding educational content to the [MIPs Portal](https://mips.makerdao.com/).
 
-We plan to work with the Content Productions Core Unit to create high-quality educational materials that are visually inviting and easy for newer users to engage with. 
+We plan to work with the Content Productions Core Unit to create high-quality educational materials that are visually inviting and easy for newer users to engage with.
 
 #### Quality Assurance
 
 As the DAO grows and governance decisions become more meaningful and impactful, it is critical that governance continues both smoothly and effectively. To this end, we feel that we should spend some time and effort on ensuring quality across the governance processes that GovAlpha operates. It is easy to fall into habits and 'grooves' with certain processes which can lead to them to continue to operate in a sub-optimal manner past the point where they should be improved.
 
-For the polling and executive processes, we aim to improve templates and voting portal user-interface to deliver information in the most intuitive and consumable way possible to voters. 
+For the polling and executive processes, we aim to improve templates and voting portal user-interface to deliver information in the most intuitive and consumable way possible to voters.
 
-For the signaling process, we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively. 
+For the signaling process, we want to improve accessibility and guidelines to make this process simple and easy for governance participants to use effectively.
 
-For the MIPs process, we intend to make sure that MIP maintenance work is performed regularly by MIP Editors. 
+For the MIPs process, we intend to make sure that MIP maintenance work is performed regularly by MIP Editors.
 
 We've also noticed some opportunities for improvement in time management and prioritization within GovAlpha, and we will be making an effort to make improvements here as well. Our aim is to ensure that our time is spent effectively and that deliverables are met consistently and with high quality.
 
@@ -87,7 +87,7 @@ _Unfilled_ - Part Time Contributor
 
 **There is no change to this section compared to the previous quarter**
 
-Remuneration for Facilitators of GovAlpha will be an annual salary paid monthly. The size of the annual salary will begin at a base rate that is equal for all facilitators and is then modified based on the level of the individual facilitator's time commitment and experience. 
+Remuneration for Facilitators of GovAlpha will be an annual salary paid monthly. The size of the annual salary will begin at a base rate that is equal for all facilitators and is then modified based on the level of the individual facilitator's time commitment and experience.
 
 The multiplier for partial commitment is higher than one might initially expect given the hours contributed compared to a full-time commitment. This is because facilitators with a partial commitment have the same requirements to be available in emergency situations and take an equal share of responsibility when fulfilling the GovAlpha mandate.
 
@@ -147,7 +147,7 @@ We will also maintain the current expenditures for SourceCred operation and supp
 
 **Contingency Buffer**
 
-Once again GovAlpha is including a not-insignificant contingency buffer. While we do feel slightly more confident about the operations of the Core Unit with a few months of experience gained, we remain concerned about the rapid pace of development within the DAO, and we wish to be prepared to take advantage of any opportunities that present themselves. 
+Once again GovAlpha is including a not-insignificant contingency buffer. While we do feel slightly more confident about the operations of the Core Unit with a few months of experience gained, we remain concerned about the rapid pace of development within the DAO, and we wish to be prepared to take advantage of any opportunities that present themselves.
 
 **Travel**
 
@@ -157,23 +157,22 @@ As in-person events once again become a regular occurrence, we wish to budget ex
 
 We are requesting a portion of this quarter's budget allocation for the purpose of continued operation during a serious event that cuts off monthly budget transfers to GovAlpha. The DAI from this allocation will likely be swapped for an alternative stablecoin to further protect the Core Unit's ability to pay for essential services during an event that makes spending DAI infeasible.
 
-150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovAlpha cannot receive monthly budget payments from the protocol. 
+150,000 DAI would allow for us to continue paying essential salaries and core expenses without defaulting on payments for previous work. These funds will only be used when GovAlpha cannot receive monthly budget payments from the protocol.
 
 ### Budget Implementation
 
 GovAlpha has set up a Governance-owned multi-signature wallet that will be used to administer the funds allocated to fulfilling the GovAlpha mandate. The details of this multi-sig wallet are as follows:
 
 **Multi-sig Address:**  
-[0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/#/safes/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances)  
+[0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/eth:0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances)  
 
 **Keyholders:**  
 [@LongForWisdom](https://forum.makerdao.com/u/LongForWisdom) - [0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69](https://etherscan.io/address/0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69)  
 [@prose11](https://forum.makerdao.com/u/prose11) - [0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE](0xf3ED2bdeBa77940E6759B806cd55CE20cAE369BE)
 
-For the next quarter, GovAlpha is proposing a manual budget implementation that will involve the transfers listed below. Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote. 
+For the next quarter, GovAlpha is proposing a manual budget implementation that will involve the transfers listed below. Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote.
 
 **Payout Dates**  
 Month of July - 273,334 DAI  
 Month of August - 123,333 DAI  
 Month of September - 123,333 DAI  
-

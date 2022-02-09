@@ -44,13 +44,13 @@ Going forward, as the DAO itself scales we expect our delegation efforts to foll
 
 #### Robustness
 
-As the DAO grows and governance decisions become more meaningful and impactful, Governance must continue both smoothly and effectively. 
+As the DAO grows and governance decisions become more meaningful and impactful, Governance must continue both smoothly and effectively.
 
 In this budget cycle, we intend to spend more resources finding different tools to help improve the Community Governance experience. We plan to find new plugins to implement in the forum as well as iterate on public GovAlpha resources.
 
 We'd also like to expand our coverage of MIPs such that MIP Editors are available to give meaningful feedback to MIP authors at all points of the submission process.
 
-We intend to use some of our funding as noted below for "Governance Mechanism Hardening," namely obtaining a Game Theory Audit on our current Governance mechanisms. This information will be useful to the DAO at large, but should also help guide us for the exploration of new mechanisms in Q1 next year. 
+We intend to use some of our funding as noted below for "Governance Mechanism Hardening," namely obtaining a Game Theory Audit on our current Governance mechanisms. This information will be useful to the DAO at large, but should also help guide us for the exploration of new mechanisms in Q1 next year.
 
 ### Q1 2022 Focus
 
@@ -64,7 +64,7 @@ To that end, we intend to spend a decent amount of time confronting any remainin
 
 Depending on the results of our Game Theory Audit and research on Governance Robustness, we plan to spend on implementing fixes and improvements suggested by our Q4 evaluations.
 
-This is primarily noted in our line item for "Misc. Dev Work" in our [detailed budget](https://docs.google.com/spreadsheets/d/1o_IiwcBtN50o4rFH6Wbhhj7RDCKCNjDCHYX3WG4NGFU/edit#gid=1620670023). We expect some of this to be spent on designing custom Discourse Plug-Ins and note the potential for use on testing new ways for Community Governance to vote and reach consensus. 
+This is primarily noted in our line item for "Misc. Dev Work" in our [detailed budget](https://docs.google.com/spreadsheets/d/1o_IiwcBtN50o4rFH6Wbhhj7RDCKCNjDCHYX3WG4NGFU/edit#gid=1620670023). We expect some of this to be spent on designing custom Discourse Plug-Ins and note the potential for use on testing new ways for Community Governance to vote and reach consensus.
 
 ### Team Membership
 The GovAlpha Team will consist of at least the following members for the next two quarters.
@@ -92,7 +92,7 @@ The GovAlpha Team will consist of at least the following members for the next tw
 
 **There is no change to this section compared to the previous quarter**
 
-Remuneration for Facilitators of GovAlpha will be an annual salary paid monthly. The size of the annual salary will begin at a base rate that is equal for all facilitators and is then modified based on the level of the individual facilitator's time commitment and experience. 
+Remuneration for Facilitators of GovAlpha will be an annual salary paid monthly. The size of the annual salary will begin at a base rate that is equal for all facilitators and is then modified based on the level of the individual facilitator's time commitment and experience.
 
 The multiplier for partial commitment is higher than one might initially expect given the hours contributed compared to a full-time commitment. This is because facilitators with a partial commitment have the same requirements to be available in emergency situations and take an equal share of responsibility when fulfilling the GovAlpha mandate.
 
@@ -153,7 +153,7 @@ We have contracted the same team (dSpot) that created the [MIPs Portal](https://
 
 **Snapshot**
 
-Setting up a Snapshot instance has been a goal of GovAlpha for some time. As we get closer to achieving that goal we decided to budget some funds for iterating on the instance. 
+Setting up a Snapshot instance has been a goal of GovAlpha for some time. As we get closer to achieving that goal we decided to budget some funds for iterating on the instance.
 
 This could range from UI commissions to dev work on the voting strategies, but we felt it was an important request to ensure we can use the tooling to the greatest effect.
 
@@ -173,7 +173,7 @@ As in-person events once again become a regular occurrence, we wish to budget ex
 GovAlpha has set up a Governance-owned multi-signature wallet that will be used to administer the funds allocated to fulfilling the GovAlpha mandate. The details of this multi-sig wallet are as follows:
 
 **Multi-sig Address:**  
-[0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/#/safes/0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances)  
+[0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/eth:0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances)  
 
 **Keyholders:**  
 [@LongForWisdom](https://forum.makerdao.com/u/LongForWisdom) - [0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69](https://etherscan.io/address/0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69)  
@@ -181,7 +181,7 @@ GovAlpha has set up a Governance-owned multi-signature wallet that will be used 
 
 GovAlpha is proposing a streamed payment for these two-quarters of expenses. This proposal comes to a streamed amount of 89,733.33 DAI per month.
 
-If DssVest or another protocol-approved method for streaming DAI is not in place, transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote. 
+If DssVest or another protocol-approved method for streaming DAI is not in place, transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote.
 
 **Payout Dates (if no streaming is available)**  
 Month of October - 89,734 DAI  
