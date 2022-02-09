@@ -1,23 +1,24 @@
-# MIP40c3-SPXX: GovAlpha Budget 2022-23
+# MIP40c3-SP59: GovAlpha Budget 2022-23
 
 ## Preamble
 
 ```
-MIP40c3-SPXX: XX
+MIP40c3-SPXX: 59
 Author(s): @LongForWisdom, @prose11
 Contributors: @patrick_J
-Tags: 
+Tags: core-unit, cu-gov-001, budget, dai-budget
 Status: RFC
 Date Applied: <2022-02-09>
 Date Ratified: <yyyy-mm-dd>
 ```
 ## Sentence Summary
 
-MIP40c3-SPXX adds a 12-month DAI budget of 1,109,793 DAI for the GovAlpha Core Unit starting in April 2022.
+MIP40c3-SP59 adds a 12-month DAI budget of 1,109,793 DAI for the GovAlpha Core Unit starting in April 2022.
 
 ## Paragraph Summary
 
-MIP40c3-SPXX adds a 12-month DAI budget of 1,109,793 DAI for the GovAlpha Core Unit starting in April 2022. This will be implemented via a 89,983 DAI per month stream and an initial transfer of 30,000 DAI.
+MIP40c3-SP59 adds a 12-month DAI budget of 1,109,793 DAI for the GovAlpha Core Unit starting in April 2022. This will be implemented via a 89,983 DAI per month stream and an initial transfer of 30,000 DAI.
+
 ## Specification
 
 ### Motivation
@@ -25,11 +26,12 @@ MIP40c3-SPXX adds a 12-month DAI budget of 1,109,793 DAI for the GovAlpha Core U
 We are proposing this Core Unit Budget modification because GovAlpha requires an operating budget to fulfill its mandate. Now and in the future we will be proposing annual DAI budgets due to our greater experience running GovAlpha and in an attempt to push MakerDAO core units toward a standard of annual DAI budgets.
 
 ### Core Unit ID
+
 GovAlpha (GOV-001)
 
 ### Year-Ahead Plans
 
-For each quarter we are defining major and minor project focuses. In addition to these items, we continue to operate existing processes and support other related CU’s in their projects by providing feedback and guidance.
+For each quarter we are defining major and minor project focuses. In addition to these items, we continue to operate existing processes and support other related CUs in their projects by providing feedback and guidance.
 
 We have only defined 6 minor items, as we want to have some flexibility to react to new priorities that appear during the next year. These items may shuffle around if and when priorities change.
 
@@ -41,10 +43,9 @@ MakerDAO lacks an accessible and effective method to comparatively determine pri
 
 We will work with DUX-001 to implement said algorithm. Once operational and tested, this will be available to governance to help:
 
-- Prioritize cross core unit initiatives.
+- Prioritize cross-Core Unit initiatives.
 - Determine direction for MakerDAO on specific issues.
 - Determine the importance and ranking of shared values for MakerDAO.
-
 
 ##### Minor: Formalizing Recognised Delegates
 
