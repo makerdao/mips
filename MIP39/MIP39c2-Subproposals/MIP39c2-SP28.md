@@ -58,7 +58,7 @@ In order to build the best hiring/contributing experience, we will establish a T
 
 Given the agile and decentralized nature of MakerDAO, we will be leveraging the *contributor experience* a core contributor has, with the different touchpoints (hiring, onboarding, goal setting, performance, compensation, learning, internal mobility, exiting) along their journey in the DAO as the central driver for defining challenges, needs and priorities. This “actively listening in” to our contributor community will be facilitated by the deployment of a **contributor experience management platform.**
 
-![Strategy](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/Strategy.png)
+![Strategy](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/strategy.png)
 
 ### Goals
 
