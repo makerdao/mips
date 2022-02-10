@@ -41,7 +41,7 @@ The implementation follows best practices and is described below for transparenc
 
 #### Budget Implementation
 
-![budget diagram](https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/a/ad48ce03e062b6c16179c6047f7a355dbdf853c7.jpeg)
+![budget diagram](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP61/payment-flow.jpg)
 
 The budget implementation will follow standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance. 
 
