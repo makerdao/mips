@@ -9,7 +9,7 @@ Author(s): @LongForWisdom
 Contributors: Seth Goldfarb (@seth)
 Tags: process, living
 Type: Process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-09-14
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP24, MIP41
