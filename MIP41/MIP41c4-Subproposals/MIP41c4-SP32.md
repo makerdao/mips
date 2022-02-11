@@ -1,12 +1,13 @@
 # MIP41c4-SP32: Facilitator Onboarding for DUX-001 - 0xdeniz
 
 ## Preamble
+
 ```
 MIP41c4-SP: 32
 Author(s): @0xdeniz
 Contributors:
 Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-01-11
 Date Ratified:
 ```
