@@ -7,7 +7,7 @@ MIP41-SP#: 29
 Author(s): @manomad_
 Contributors: @synesthesia
 Tags: core-unit, cu-mt-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp29-facilitator-onboarding-for-maker-talent-core-unit-mt-001
@@ -15,7 +15,7 @@ Forum URL: https://forum.makerdao.com/t/mip41c4-sp29-facilitator-onboarding-for-
 
 ## Sentence Summary
 
-MIP41c4-SP29: Adds Maker Talent Core Unit Facilitator.
+MIP41c4-SP29 adds Maker Talent Core Unit Facilitator.
 
 ## Paragraph Summary
 
