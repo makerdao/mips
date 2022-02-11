@@ -7,7 +7,7 @@ MIP40c3-SP#: 57
 Author(s): @monkey.irish
 Contributors: @lollike
 Tags: core-unit, ces-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-01-12
 Date Ratified: <yyyy-mm-dd>
 ```
