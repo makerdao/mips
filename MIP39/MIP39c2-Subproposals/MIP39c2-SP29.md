@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP39c2-SP: #29
+MIP39c2-SP#: 29
 Author(s): @simonkp
 Contributors: @georgen, @dumitru, @lukaszb, @wouter
 Tags: core-unit, cu-tech-001, mandate, active
@@ -169,8 +169,8 @@ The initial list is included below:
     - **Oracle (ORA-001)**
     	- Administration, Monitoring and new Collateral onboarding
         - Addition of each new collateral type touches various systems that need to be reconfigured to accept said collateral. Systems such as Oracle Feeds and Relayers, monitoring, dashboards, keepers, changelog and _spell_ whitelisting.
-        
-      _Note_: A different MIP will be put forward to the community to transfer the ownership of the current Oracle Feed and Relayers from the Maker Foundation to TECH-001.	
+
+      _Note_: A different MIP will be put forward to the community to transfer the ownership of the current Oracle Feed and Relayers from the Maker Foundation to TECH-001.
     - **Development & UX (DUX-001)** - GovPollDB hosting & maintenance
     - **GovAlpha (GOV-001)** - Monitoring spells and voting
     * **Immunefi Security (IS-001)** - Runbooks for incident response and emergency procedures
@@ -193,11 +193,11 @@ Critical Maker protocol components such as:
 	- Poker Keeper
 	- Drip Keeper
 
-  \* **Note**: TECH-001 will only take responsibility for the infrastructure hosting exclusively as Platform Manager, and will not be responsible for the content hosted on these platforms. 
+  \* **Note**: TECH-001 will only take responsibility for the infrastructure hosting exclusively as Platform Manager, and will not be responsible for the content hosted on these platforms.
 The team will work with the community and follow the procedures laid out in [MIP60](https://forum.makerdao.com/t/mip60-intangible-asset-assignment/10319) to establish Content Managers for the respective platforms.
 At the very minimum the contact details of the Content Manager need to be publicly available on the platform. Platforms without a designated Content Manager will be taken offline after a notice period of 70 days.
 
-  \*\* **Note**: Gas costs are not included in our [MIP40c3-SP28](https://forum.makerdao.com/t/mip40c3-sp28-techops-core-unit-dai-budget/12072) budget proposal. TECH-001 will work with the relevant stakeholders and MakerDAO governance to organise the provisioning of ETH to cover these costs. TECH-001 will at any time be managing these funds in service of the MakerDAO community and will at no time take ownership of the assets that are involved in the process. The Maker Protocol will be added as beneficiary in the multisigs that are part of this setup wherever practically feasible. 
+  \*\* **Note**: Gas costs are not included in our [MIP40c3-SP28](https://forum.makerdao.com/t/mip40c3-sp28-techops-core-unit-dai-budget/12072) budget proposal. TECH-001 will work with the relevant stakeholders and MakerDAO governance to organise the provisioning of ETH to cover these costs. TECH-001 will at any time be managing these funds in service of the MakerDAO community and will at no time take ownership of the assets that are involved in the process. The Maker Protocol will be added as beneficiary in the multisigs that are part of this setup wherever practically feasible.
 
 - Infrastructure Monitoring & Alerts: Dashboards, response to alerts and Reports
 
