@@ -171,7 +171,7 @@ Following the trust model for RWA, an RWA Foundation was set up in the previous 
 
 Risk teams will require access to a set of software packages to assist the analytical work during due diligence and post due diligence monitoring of onboarded structured finance transactions. 
 
-While a robust data infrastructure is not a short term priority, building data capability for team members to monitor transactions and gather insights faster will be a focus later in the year. We expect to collaborate with other teams such as CES in the architecture.
+While a robust data infrastructure is not a short-term priority (i.e., 2022Q1), building data capability for team members to monitor transactions and gather insights faster will be a focus later in the year. We expect to collaborate with other teams such as CES in the architecture.
 
 #### Buffer
 
