@@ -87,10 +87,6 @@ data:
             name: 'MDS-001: MakerDAO Shop'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=MakerDAO%20Shop%20Core%20Unit%20(MDS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mds-001)&_Archive=$AND(NOT(%23active),%23cu-mds-001)
-          - id: mkt-001
-            name: 'MKT-001: Content Production'
-            href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Content%20Production%20Core%20Unit%20(MKT-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mkt-001)&_Archive=$AND(NOT(%23active),%23cu-mkt-001)
           - id: ora-001
             name: 'ORA-001: Oracles'
             href: >-
