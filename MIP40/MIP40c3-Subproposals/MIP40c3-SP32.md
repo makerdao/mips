@@ -1,5 +1,7 @@
 # MIP40c3-SP32: Adding MakerLabs Core Unit Budget
 
+## Preamble
+
 ```
 MIP40c3-SP#: 32
 Author(s): @colrad, @urbanisierung, Tim Schuppener (@ultraschuppi)
@@ -53,18 +55,18 @@ This budget secures a team of 3 full-time employees as well as covers all operat
 
 At the end of the calendar year, all unused funds will be returned to the Maker Protocol. Should the MakerLabs Unit shutdown, all unused funds will be returned to the DAO immediately.
 
-|Component|Setup|Monthly Budget|
-| --- | --- | --- |
-|Employee Salaries||EUR 37,500 → DAI 44,250|
-|Employment Taxes, Insurances||EUR 9375 → DAI 11063|
-|Travel||EUR 3000 → DAI 3,540|
-|Legal and Operating expenses|EUR 30000 → DAI 35,400|EUR 2000 → DAI 2,360|
-|Tools/Services/Devices|EUR 9000 → DAI 10,620|EUR 600 → DAI 708|
-|IT Services||EUR 1000 → DAI 1,180|
-|Contingency||EUR 5,347 → DAI 6,310|
-|Corporate Income Tax|EUR 7410 → DAI 8,744|EUR 11,176 → DAI 13,188|
-|One time setup|EUR 46410 → DAI 54,764||
-|Total Monthly Budget||EUR 69,998 → DAI 82,599|
+| Component                    | Setup                  | Monthly Budget          |
+| ---------------------------- | ---------------------- | ----------------------- |
+| Employee Salaries            |                        | EUR 37,500 → DAI 44,250 |
+| Employment Taxes, Insurances |                        | EUR 9375 → DAI 11063    |
+| Travel                       |                        | EUR 3000 → DAI 3,540    |
+| Legal and Operating expenses | EUR 30000 → DAI 35,400 | EUR 2000 → DAI 2,360    |
+| Tools/Services/Devices       | EUR 9000 → DAI 10,620  | EUR 600 → DAI 708       |
+| IT Services                  |                        | EUR 1000 → DAI 1,180    |
+| Contingency                  |                        | EUR 5,347 → DAI 6,310   |
+| Corporate Income Tax         | EUR 7410 → DAI 8,744   | EUR 11,176 → DAI 13,188 |
+| One time setup               | EUR 46410 → DAI 54,764 |                         |
+| Total Monthly Budget         |                        | EUR 69,998 → DAI 82,599 |
 
 ### Budget Details
 
@@ -164,15 +166,15 @@ The MakerLabs Core Unit is proposing to apply the [SES - MKR Incentive Plan](htt
 
 We want to apply one modification, removing Repricing and Renewal. We propose this modification to remove uncertainty for MKR Holders and suppress MKR Price speculation in the Team.
 
-|Property|Value|
-| --- | --- |
-|MKR/USD lock-in Price (New)|Trailing 6 month average|
-|MKR/USD lock-in Price (OG)|MKR = $ 3072 (26.02.2021 - 26.08.2021)|
-|Biannual MKR Amount|Initial Annual Incentive Value (USD) / MKR/USD lock-in Price|
-|Vesting Period|3 years|
-|Cliff Vest|12 months|
-|Vesting Schedule|After cliff has expired, the Biannual MKR amount vests every 6 months and is distributed on Jan/Jul 1st (assuming the Core Unit starts working in January 2022).|
-|Manual Repricing|no|
-|Auto-Renewal|no|
-|MKR After 1 Year 1 FTE / TEAM|51.64 / 154.93|
-|MKR After 3 Years 1 FTE / TEAM|154.93 / 464.79|
+| Property                       | Value                                                                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MKR/USD lock-in Price (New)    | Trailing 6 month average                                                                                                                                         |
+| MKR/USD lock-in Price (OG)     | MKR = $ 3072 (26.02.2021 - 26.08.2021)                                                                                                                           |
+| Biannual MKR Amount            | Initial Annual Incentive Value (USD) / MKR/USD lock-in Price                                                                                                     |
+| Vesting Period                 | 3 years                                                                                                                                                          |
+| Cliff Vest                     | 12 months                                                                                                                                                        |
+| Vesting Schedule               | After cliff has expired, the Biannual MKR amount vests every 6 months and is distributed on Jan/Jul 1st (assuming the Core Unit starts working in January 2022). |
+| Manual Repricing               | no                                                                                                                                                               |
+| Auto-Renewal                   | no                                                                                                                                                               |
+| MKR After 1 Year 1 FTE / TEAM  | 51.64 / 154.93                                                                                                                                                   |
+| MKR After 3 Years 1 FTE / TEAM | 154.93 / 464.79                                                                                                                                                  |

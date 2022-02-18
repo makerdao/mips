@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP63c4#: SP2
+MIP63c4-SP#: 2
 Title: Onboard/Amend Keeper Network - Keep3r Network
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
@@ -30,4 +30,4 @@ This is an onboarding application for Keep3r Network. A decentralized, permissio
 
 ### Expected Coverage
 
- * ALL
+* ALL
