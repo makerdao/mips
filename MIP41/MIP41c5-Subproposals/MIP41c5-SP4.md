@@ -3,14 +3,15 @@
 ## Preamble
 
 ```
-MIP41c5-SP4
-Author(s): @bainpm
+MIP41c5-SP#: 4
+Author(s): @bainpmsdf
 Contributors:
 Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
 Status: RFC
 Date Applied: 2022-01-11
 Date Ratified:
 ```
+
 ## Sentence Summary
 
 This subproposal is to offboard the current Facilitator of the Development and UX Core Unit (DUX-001).
