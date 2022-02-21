@@ -11,6 +11,8 @@ Tags: keeper-network
 Status: Formal Submission
 Date Proposed: 2022-01-19
 Date Ratified: yyyy-mm-dd
+Ratification Poll URL: https://vote.makerdao.com/polling/QmbsvbsA
+Forum URL: https://forum.makerdao.com/t/mip63c4-sp1-onboard-amend-keeper-network-tech-ops/12739
 ```
 
 ## Specification
