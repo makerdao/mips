@@ -10,6 +10,7 @@ Tags: core-unit, cu-mt-001, facilitator
 Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTKSjCM
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp29-facilitator-onboarding-for-maker-talent-core-unit-mt-001
 ```
 
