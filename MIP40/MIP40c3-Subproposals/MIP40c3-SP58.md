@@ -10,6 +10,8 @@ Tags: core-unit, cu-is-001, budget, dai-budget
 Status: Formal Submission
 Date Applied: 2022-01-12
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmaBYzea
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp58-modify-core-unit-budget-immunefi-security-core-unit-budget-is-001/12598
 ```
 
 ## Sentence Summary
