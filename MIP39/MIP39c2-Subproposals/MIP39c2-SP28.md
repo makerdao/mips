@@ -10,6 +10,7 @@ Tags: core-unit, cu-mt-001, mandate
 Status: Formal Submission
 Date Applied: 2021-12-08
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTKSjCM
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp28-adding-maker-talent-core-unit-mt-001
 ```
 
