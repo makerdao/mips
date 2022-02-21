@@ -10,6 +10,8 @@ Tags: core-unit, ces-001, budget, dai-budget
 Status: Formal Submission
 Date Applied: 2022-01-12
 Date Ratified: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmb6o8ua
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp57-modify-core-unit-budget-collateral-engineering-services-ces-001/12578
 ```
 
 ## Sentence Summary
