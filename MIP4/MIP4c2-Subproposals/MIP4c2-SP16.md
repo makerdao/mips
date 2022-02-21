@@ -11,6 +11,8 @@ Tags: mip-amendment
 Status: Formal Submission
 Date of Amendment Submission: <2022-01-12>
 Date of ratification: <yyyy-mm-dd>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTRMFXz
+Forum URL: https://forum.makerdao.com/t/mip4c2-sp16-mip55-amendments/12606
 ```
 
 ## Specification
