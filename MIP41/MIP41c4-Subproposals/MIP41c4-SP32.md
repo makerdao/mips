@@ -10,7 +10,10 @@ Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
 Status: Formal Submission
 Date Applied: 2022-01-11
 Date Ratified:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmR3DeK2
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp32-facilitator-onboarding-to-dux-001-0xdeniz/12559
 ```
+
 ## Sentence Summary
 
 This subproposal is to onboard @0xdeniz as Facilitator to the Development and UX Core Unit (DUX-001).
