@@ -175,7 +175,7 @@ High smart contract vulnerabilities will be further capped at up to 100% of the 
 |Medium|USD 2,500|
 |Low|USD 1,000|
 
-Critical website and application bug reports will be rewarded with USD 100,000 only if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote. All other impacts that would be classified as Critical would be rewarded no more than USD 50,000.
+Critical website and application bug reports will be rewarded with USD 100,000 only if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote. All other impacts that would be classified as Critical would be rewarded USD 50,000.
 
 
 ### MIP64c4: Rules and Eligibility
