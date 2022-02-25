@@ -146,7 +146,7 @@ data:
               https://mips.makerdao.com/mips/list?&search=$AND(@accepted,%20%23pending-implementation)&subproposalsMode=false
       - id: process
         name: $process
-        href: 'https://mips.makerdao.com/mips/list?&search=$%20%23process'
+        href: 'https://mips.makerdao.com/mips/list?&search=$AND(%23process,@ACCEPTED)&orderDirection=ASC&hideParents=false'
   - id: contact
     name: $contact
     children:
