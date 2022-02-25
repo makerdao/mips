@@ -1,9 +1,8 @@
 # MIP41c5-SP5: Facilitators Offboarding (MDS-001)
 
-```
-MIP41c5-SP5: Facilitator Offboarding (MDS-001)
-Preamble
+## Preamble
 
+```
 MIP41c5-SP#: 5
 Author(s): Deimos
 Contributors:
