@@ -4,6 +4,7 @@
 
 ```
 MIP#: 64
+Title: Bug Bounty Program for MakerDAO Critical Infrastructure
 Author(s): @travinimmunefi
 Contributors: @psychonaut
 Tags: cu-is-001, bug-bounty
