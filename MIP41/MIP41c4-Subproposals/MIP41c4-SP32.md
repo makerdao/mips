@@ -6,10 +6,10 @@
 MIP41c4-SP: 32
 Author(s): @0xdeniz
 Contributors:
-Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
-Status: Formal Submission
+Tags: core unit, cu-dux-001, facilitator, active
+Status: Accepted
 Date Applied: 2022-01-11
-Date Ratified:
+Date Ratified: 2022-02-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmR3DeK2
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp32-facilitator-onboarding-to-dux-001-0xdeniz/12559
 ```
@@ -33,8 +33,11 @@ I'm honoured to take on the more formal aspects of the Facilitator role since I 
 DUX-001
 
 ### Core Unit Name
+
 Development & UX
+
 ### Facilitator Name and Information
+
 * Name: Deniz Yilmaz
 * Location: Amsterdam, The Netherlands (CET)
 * Forum: @0xdeniz
@@ -42,6 +45,7 @@ Development & UX
 * Ethereum Address: 0xdeniz.eth
 
 ### Facilitator Credentials
+
 Selected relevant working experience:
 - Feb 2018 - Aug 2020: Concept Design team lead @ Kryha.io (a blockchain design & development studio)
 - Aug 2020 - Feb 2021: Product & Community Manager @ Opium Finance (a DeFi derivatives protocol)
@@ -49,9 +53,11 @@ Selected relevant working experience:
 - Aug 2021 - Jan 2022: Product Manager @ MakerDAO DUX team
 
 ### Facilitator Commitment
+
 My role is to enable and facilitate my team towards fulfilling the mandate of the DUX CU.
 
 **Common tasks as facilitator**
+
 - Represent CU within Maker ecosystem and engage with stakeholders
 - Attend mandated actor calls
 - Contribute to cross-CU initiatives
