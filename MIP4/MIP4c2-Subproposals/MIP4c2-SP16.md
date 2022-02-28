@@ -2,13 +2,13 @@
 
 ```
 MIP4c2-SP#: 16
-MIP to be amended: <MIP55c2/MIP55c3>
+MIP to be amended: MIP55c2/MIP55c3
 Author(s): @Sebix
 Contributors: @Blimpa
 Tags: mip-amendment
-Status: RFC
-Date of Amendment Submission: <2022-01-12>
-Date of ratification: <yyyy-mm-dd>
+Status: Accepted
+Date of Amendment Submission: 2022-01-12
+Date of ratification: 2022-02-28
 ```
 ## Specification
 

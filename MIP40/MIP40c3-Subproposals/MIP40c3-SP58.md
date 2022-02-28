@@ -7,10 +7,10 @@ MIP40c3-SP#: 58
 
 Author(s): @TravinImmunefi
 Contributors: @psychonaut
-Tags: budget, security, is-001
-Status: RFC
+Tags: core-unit, cu-is-001, dai-budget, budget, active
+Status: Accepted
 Date Applied: 2022-01-12
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-02-28
 ```
 
 ## Sentence Summary

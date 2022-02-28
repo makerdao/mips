@@ -7,9 +7,9 @@ MIP39c2-SP#: 28
 Author(s): @manomad_
 Contributors: @synesthesia
 Tags: core-unit, cu-mt-001, mandate
-Status: RFC
+Status: Rejected
 Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-02-28
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp28-adding-maker-talent-core-unit-mt-001
 ```
 

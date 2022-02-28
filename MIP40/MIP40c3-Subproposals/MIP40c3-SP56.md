@@ -6,10 +6,10 @@
 MIP40c3-SP#: 56
 Author(s): Primož Kordež (@Primoz)
 Contributors:
-Tags: core-unit, cu-risk-001, budget
-Status: RFC
+Tags: core-unit, cu-risk-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2021-01-12
-Date Ratified: 2021-02-XX
+Date Ratified: 2021-02-28
 ```
 
 ## Sentence Summary

@@ -7,9 +7,9 @@ MIP40c3-SP#: 51
 Author(s): @manomad_
 Contributors: @synesthesia
 Tags: core-unit, cu-mt-001, budget, mkr-budget
-Status: RFC
+Status: Rejected
 Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-02-28
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp51-modify-core-unit-budget-mkr-maker-talent-mt-001
 ```
 

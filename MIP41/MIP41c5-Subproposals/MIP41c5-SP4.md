@@ -7,9 +7,10 @@ MIP41c5-SP4
 Author(s): @bainpm
 Contributors:
 Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
-Status: RFC
+Extra: voluntary offboarding. ratification date was set to the date the successor was voted in
+Status: Accepted
 Date Applied: 2022-01-11
-Date Ratified:
+Date Ratified: 2022-02-28
 ```
 ## Sentence Summary
 

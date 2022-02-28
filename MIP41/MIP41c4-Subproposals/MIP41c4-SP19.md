@@ -1,4 +1,4 @@
- 
+
 # MIP41c4-SP19: Facilitator Onboarding, Development and User Experience Core Unit
 
 ## Preamble
@@ -7,7 +7,7 @@
 MIP41c4-SP#: 19
 Author(s): Philip Bain
 Contributors:
-Tags: core-unit, cu-dux-001, facilitator, active
+Tags: core-unit, cu-dux-001, facilitator
 Status: Accepted
 Date Applied: 2021-08-11
 Date Ratified: 2021-09-27

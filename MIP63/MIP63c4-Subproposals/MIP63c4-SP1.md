@@ -8,9 +8,9 @@ Title: Onboard/Amend Keeper Network - Tech-Ops
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: keeper-network
-Status: RFC
+Status: Accepted
 Date Proposed: 2022-01-19
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2022-02-28
 ```
 
 ## Specification

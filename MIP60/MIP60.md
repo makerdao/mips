@@ -9,9 +9,9 @@ Author(s): @LongForWisdom
 Contributors: Seth Goldfarb (@seth)
 Tags: process, living
 Type: Process
-Status: RFC
+Status: Accepted
 Date Proposed: 2021-09-14
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-02-28
 Dependencies: MIP24, MIP41
 Replaces: N/A  
 Ratification Poll:
@@ -75,7 +75,7 @@ The following definitions are used within MIP60 to describe the processes and ac
 The following assumptions are made regarding control and ownership of Intangible Assets within MakerDAO for this MIP to be effectively used to manage the access of digital assets.
 
 **Assumption #1:**
-MIP60 assumes that some Asset Owner exists for the assets managed using this MIP. 
+MIP60 assumes that some Asset Owner exists for the assets managed using this MIP.
 
 At the time of writing this MIP, the Asset Owner for many of MakerDAO's Intangible Assets is the DAI Foundation.
 
@@ -118,7 +118,7 @@ An agreed Modification of Management must include a listed purpose for the asset
 An agreed Modification of Management must include the required information such that the Intangible Asset records can be updated.
 
 **Supported**  
-An agreed Modification of Management must be publicly supported by at least three Core Unit Facilitators as defined in MIP41. 
+An agreed Modification of Management must be publicly supported by at least three Core Unit Facilitators as defined in MIP41.
 
 In the case that an Intangible Asset is currently managed by one or more actors, the managing actor(s) must support the Modification of Management in order for it to be valid under this component.
 
@@ -144,6 +144,3 @@ MIP60c4 subproposals have the following parameters:
 MIP60c4 subproposals must use the template located at **[MIP60c4-Subproposal-Template.md](MIP60c4-Subproposal-Template.md)**. This template is considered ratified if this MIP moves to Accepted status.
 
 ---
-
-
-

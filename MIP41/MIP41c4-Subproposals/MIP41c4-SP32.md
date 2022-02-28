@@ -5,10 +5,10 @@
 MIP41c4-SP: 32
 Author(s): @0xdeniz
 Contributors:
-Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
-Status: RFC
+Tags: core unit, cu-dux-001, facilitator, personnel-xboarding, active
+Status: Accepted
 Date Applied: 2022-01-11
-Date Ratified:
+Date Ratified: 2022-02-28
 ```
 ## Sentence Summary
 
