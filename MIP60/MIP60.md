@@ -9,9 +9,9 @@ Author(s): @LongForWisdom
 Contributors: Seth Goldfarb (@seth)
 Tags: process, living
 Type: Process
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-09-14
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-02-28
 Dependencies: MIP24, MIP41
 Replaces: N/A  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWDna6r
