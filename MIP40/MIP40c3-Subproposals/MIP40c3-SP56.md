@@ -6,10 +6,10 @@
 MIP40c3-SP#: 56
 Author(s): Primož Kordež (@Primoz)
 Contributors:
-Tags: core-unit, cu-risk-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-risk-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2022-01-12
-Date Ratified: 2021-02-XX
+Date Ratified: 2022-02-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmfKoMca
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp56-modify-core-unit-budget-risk-001/12587
 ```
