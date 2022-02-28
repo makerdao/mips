@@ -9,7 +9,7 @@ Contributors: @synesthesia
 Tags: core-unit, cu-mt-001, mandate
 Status: Rejected
 Date Applied: 2021-12-08
-Date Ratified: 2022-02-28
+Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp28-adding-maker-talent-core-unit-mt-001
 ```
 
