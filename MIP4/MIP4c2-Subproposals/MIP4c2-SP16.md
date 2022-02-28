@@ -4,13 +4,13 @@
 
 ```
 MIP4c2-SP#: 16
-MIP to be amended: <MIP55c2/MIP55c3>
+MIP to be amended: MIP55c2/MIP55c3
 Author(s): @Sebix
 Contributors: @Blimpa
 Tags: mip-amendment
-Status: Formal Submission
-Date of Amendment Submission: <2022-01-12>
-Date of ratification: <yyyy-mm-dd>
+Status: Accepted
+Date of Amendment Submission: 2022-01-12
+Date of ratification: 2022-02-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTRMFXz
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp16-mip55-amendments/12606
 ```
