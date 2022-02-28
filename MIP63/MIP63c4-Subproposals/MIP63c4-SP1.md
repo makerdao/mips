@@ -8,9 +8,9 @@ Title: Onboard/Amend Keeper Network - Tech-Ops
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: keeper-network
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-01-19
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2022-02-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbsvbsA
 Forum URL: https://forum.makerdao.com/t/mip63c4-sp1-onboard-amend-keeper-network-tech-ops/12739
 ```
