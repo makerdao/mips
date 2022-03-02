@@ -366,8 +366,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **Active Budget** - [MIP40c3-SP57](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP57.md)
     - **Ratification Date** - 2021-02-28
-    - **Budget Amount** -
-    - **Budget Implementation** - Manual
+    - **Budget Amount**
+      * 259,184 DAI for 3-month budget runway shortfall streamed to 0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da
+      * 2,780,562 DAI streamed to 0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da from April 1, 2022 to March 31, 2023
+      * 259,184 DAI wallet top up streamed to 0xD740882B8616B50d0B317fDFf17Ec3f4f853F44f  
+    - **Budget Implementation** - Advanced
     - **Budget Breakdown** - [MIP40c3-SP57 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP57.md#budget-breakdown)
 - **MKR Vesting** - [MIP40c3-SP30](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
 
@@ -397,7 +400,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Facilitator
 
-- Philip Bain - [MIP41c4-SP19](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP19.md)
+- 0xdeniz - [MIP41c4-SP32](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP32.md)
 
 ---
 
@@ -488,11 +491,13 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Budget
 
-- **Active Budget** - [MIP40c3-SP42](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md)
-    - **Budget Amount** - 634,972.45 Dai (Total Budget Cap spanning a 12-month cycle)
+- **Active Budget** - [MIP40c3-SP58](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md)
+    - **Budget Amount**   
+      * 979,972.45 Dai (Total Budget Cap spanning a 12-month cycle)
+      * 345,000 Dai (Operational audits)
     - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP42 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md#budget-cap-breakdown)
-- **MKR Vesting** - [MIP40c3-SP41](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP41.md)
+    - **Budget Breakdown** - [MIP40c3-SP58 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md#budget-breakdown)
+- **MKR Vesting** - [MIP40c3-SP41](https://mips.makerdao.com/mips/details/MIP40c3SP41)
 
 ##### Facilitator
 
