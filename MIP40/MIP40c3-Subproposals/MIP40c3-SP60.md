@@ -18,7 +18,7 @@ This budget proposes MKR compensation for GovAlpha (GOV-001) with a vesting comp
 
 ## Paragraph Summary
 
-This budget consists of two key parts, retroactive compensation for @LongForWisdom and an MKR Compensation framework for GovAlpha. Overall, this proposal would commit 175.73 MKR to GovAlpha contributors, covering MKR compensation for the Core Unit from its inception. This is approximately 50.29 MKR/FTE/Year. Subsequent requests will take place every 6 months, featuring the same 12-month cliff. Contributors **do not** forfeit their vesting upon leaving GovAlpha, providing that their departure is a smooth transition and there have been no serious ethical breaches. 
+This budget consists of two key parts, retroactive compensation for @LongForWisdom and an MKR Compensation framework for GovAlpha. Overall, this proposal would commit 227.64 MKR to GovAlpha contributors, covering MKR compensation for the Core Unit from its inception. This is approximately 67.06 MKR/FTE/Year. Subsequent requests will take place every 6 months, featuring the same 12-month cliff. Contributors **do not** forfeit their vesting upon leaving GovAlpha, providing that their departure is a smooth transition and there have been no serious ethical breaches. 
 
 ## Specification
 
@@ -55,7 +55,7 @@ Current Core Unit MKR Compensation proposals will be resubmitted every 6 months 
 
 #### Retroactive MKR Compensation for LongForWisdom
 
-This component proposes 50 MKR be sent from the Pause Proxy to @LongForWisdom at address **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b** if this proposal passes. This would take place on the subsequent executive following the approval of this subproposal, subject to the schedule of the Protocol Engineering Core Unit.
+This component proposes 60 MKR be sent from the Pause Proxy to @LongForWisdom at address **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b** if this proposal passes. This would take place on the subsequent executive following the approval of this subproposal, subject to the schedule of the Protocol Engineering Core Unit.
 
 #### Current GovAlpha Member MKR Composition 
 
@@ -69,7 +69,7 @@ Future proposals will follow the same logic, ensuring that anyone working for th
 
 *Formula*
 
-For all members of GovAlpha (Facilitators included), MKR Compensation will be derived based on the salary earned within the Core Unit during the retroactive eligibility period. This proposal would compensate our team members in MKR in the amount of 150% of the DAI earned during the eligibility period. This figure will be divided by the moving average of MKR over the eligibility period to derive the MKR token amount for each contributor. 
+For all members of GovAlpha (Facilitators included), MKR Compensation will be derived based on the salary earned within the Core Unit during the retroactive eligibility period. This proposal would compensate our team members in MKR in the amount of 200% of the DAI earned during the eligibility period. This figure will be divided by the moving average of MKR over the eligibility period to derive the MKR token amount for each contributor. 
 
 *Sources*
 
@@ -91,7 +91,7 @@ Note that a primary difference in our incentive model is that contributors **ret
 
 *Disclaimer*
 
-Vested MKR for contributors will sit in the GovAlpha Multisig for a short period after the vesting cliff while administrative checks are performed before dispursing. GovAlpha will not use this MKR for voting or any other purpose during this time.
+Vested MKR for contributors will sit in the GovAlpha Multisig for a short period after the vesting cliff while administrative checks are performed before dispersing. GovAlpha will not use this MKR for voting or any other purpose during this time.
 
 ### List of Budget Breakdowns
 
@@ -102,25 +102,25 @@ MKR Moving Average ([spreadsheet](https://docs.google.com/spreadsheets/d/1-n5Pif
 Salary inputs:
 @LongForWisdom - 108,000 DAI
 @prose11 - 77,283 DAI
-Contributiors - 60,377.27 DAI
+Contributors - 60,377.27 DAI
 
 #### MKR Payments
 
 @LongForWisdom Retroactive MKR Payment:
-50 MKR sent from the Pause Proxy to **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b**
+60 MKR sent from the Pause Proxy to **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b**
 
 @LongForWisdom Facilitator Stream:
-55.28 MKR streamed from the Pause Proxy to **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b**, Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
+73.70 MKR streamed from the Pause Proxy to **0xC818Ae5f27B76b4902468C6B02Fd7a089F12c07b** Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
 
 @prose11 Facilitator Stream:
-39.55 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241**, Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
+52.74 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241** Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
 
 Core Unit Stream:
-30.90 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
+41.20 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/02/08, Ending 2023/02/08, cliff 2023/02/08
 
 #### Budget Impact
 
-* 50 MKR committed to @LongForWisdom for pre-Core Unit Facilitation
-* 125.73 MKR committed to GovAlpha for MKR compensation for ~85% annual compensation (Core Unit origin until present).
-* This proposal accounts for 2.5 FTE based on hours worked, or ~50.29 MKR/FTE/Year. Future proposals will likely have a higher FTE as the GovAlpha team has been expanding and this proposal takes into account the starting days of the Core Unit.
-* Overall, committing 175.73 MKR from the Pause Proxy, covering previous time working. Note that this will Repeat roughly every 6 months (but likely in a smaller amount.)
+* 60 MKR committed to @LongForWisdom for pre-Core Unit Facilitation
+* 167.64 MKR committed to GovAlpha for MKR compensation for ~85% annual compensation (Core Unit origin until present).
+* This proposal accounts for 2.5 FTE based on hours worked, or ~67.06 MKR/FTE/Year. Future proposals will likely have a higher FTE as the GovAlpha team has been expanding and this proposal takes into account the starting days of the Core Unit.
+* Overall, committing 227.64 MKR from the Pause Proxy, covering previous time working. Note that this will Repeat roughly every 6 months (but likely in a smaller amount.)
