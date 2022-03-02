@@ -91,7 +91,7 @@ Note that a primary difference in our incentive model is that contributors **ret
 
 *Disclaimer*
 
-Vested MKR for contributors will sit in the GovAlpha Multisig for a short period after the vesting cliff while administrative checks are performed before dispersing. GovAlpha will not use this MKR for voting or any other purpose during this time.
+Vested MKR for contributors will sit in the GovAlpha Multisig for a short period after the vesting cliff while administrative checks are performed before disbursing. GovAlpha will not use this MKR for voting or any other purpose during this time.
 
 ### List of Budget Breakdowns
 
