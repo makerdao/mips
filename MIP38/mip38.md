@@ -100,7 +100,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - **Active Budget** - [MIP40c3-SP39](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP39.md)
     - **Ratification Date** - 2021-22-11
-    - **Budget Amount** * A total of 1,860,000 Dai will be streamed starting 2022-01-01 and ending 2022-12-31 at a rate of 155,000 Dai per month
+    - **Budget Amount** * A total of 1,860,000 Dai will be streamed to 0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09 (RWF Core Unit Multisig) starting 2022-01-01 and ending 2022-12-31 at a rate of 155,000 Dai per month
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP39 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP39.md#list-of-budget-breakdowns)
 - **MKR Vesting** - [MIP40c3-SP38](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP38.md)
@@ -122,11 +122,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Active Budget
 
-- **Active Budget** - [MIP40c3-SP13](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP13.md)
-    - **Ratification Date** - 2021-28-06
-    - **Budget Amount** * 546,000 Dai / quarter
+- **Active Budget** - [MIP40c3-SP56](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP56.md)
+    - **Ratification Date** - 2022-02-28
+    - **Budget Amount** * A total of 2,760,000 DAI will be streamed to 0xb386Bc4e8bAE87c3F67ae94Da36F385C100a370a starting 2022-03-01 and ending 2023-02-28
     - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP13 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP13.md#budget-breakdown--items)
+    - **Budget Breakdown** - [MIP40c3-SP56 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP56.md#budget-breakdown)
 - **MKR Vesting** - [MIP40c3-SP25](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP25.md)
 
 ##### Facilitator
@@ -364,11 +364,14 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Budget
 
-- **Active Budget** - [MIP40c3-SP30](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
-    - **Ratification Date** - 2021-09-27
-    - **Budget Amount** - 1,223,552 Dai (Total Budget Cap spanning a six-month cycle)
-    - **Budget Implementation** - Manual
-    - **Budget Breakdown** - [MIP40c3-SP30 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md#list-of-budget-breakdowns)
+- **Active Budget** - [MIP40c3-SP57](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP57.md)
+    - **Ratification Date** - 2021-02-28
+    - **Budget Amount**
+      * 259,184 DAI for 3-month budget runway shortfall streamed to 0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da
+      * 2,780,562 DAI streamed to 0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da from April 1, 2022 to March 31, 2023
+      * 259,184 DAI wallet top up streamed to 0xD740882B8616B50d0B317fDFf17Ec3f4f853F44f  
+    - **Budget Implementation** - Advanced
+    - **Budget Breakdown** - [MIP40c3-SP57 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP57.md#budget-breakdown)
 - **MKR Vesting** - [MIP40c3-SP30](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
 
 ##### Facilitator
@@ -397,7 +400,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Facilitator
 
-- Philip Bain - [MIP41c4-SP19](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP19.md)
+- 0xdeniz - [MIP41c4-SP32](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP32.md)
 
 ---
 
@@ -488,11 +491,13 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Budget
 
-- **Active Budget** - [MIP40c3-SP42](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md)
-    - **Budget Amount** - 634,972.45 Dai (Total Budget Cap spanning a 12-month cycle)
+- **Active Budget** - [MIP40c3-SP58](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md)
+    - **Budget Amount**   
+      * 979,972.45 Dai (Total Budget Cap spanning a 12-month cycle)
+      * 345,000 Dai (Operational audits)
     - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP42 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md#budget-cap-breakdown)
-- **MKR Vesting** - [MIP40c3-SP41](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP41.md)
+    - **Budget Breakdown** - [MIP40c3-SP58 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md#budget-breakdown)
+- **MKR Vesting** - [MIP40c3-SP41](https://mips.makerdao.com/mips/details/MIP40c3SP41)
 
 ##### Facilitator
 
