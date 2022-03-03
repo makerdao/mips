@@ -6,7 +6,7 @@
 MIP40c3-SP#: 13
 Author(s): Primož Kordež
 Contributors:
-Tags: core-unit, cu-risk-001, budget, dai-budget, active
+Tags: core-unit, cu-risk-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-05-12
 Date Ratified: 2021-06-28
