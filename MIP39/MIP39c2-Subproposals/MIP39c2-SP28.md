@@ -4,13 +4,12 @@
 
 ```
 MIP39c2-SP#: 28
-Author(s): @manomad_,@v18n_asia
+Author(s): @manomad_
 Contributors: @synesthesia
 Tags: core-unit, cu-mt-001, mandate
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
-Ratification Poll URL: https://vote.makerdao.com/polling/QmTKSjCM
+Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp28-adding-maker-talent-core-unit-mt-001
 ```
 
@@ -47,19 +46,19 @@ Keeping the above in mind and in order to be able to fully support the Sustainab
 
 ### Core Unit Mandate
 
-#### Vision
+#### Mission
 
 To give MakerDAO a competitive advantage in terms of attracting and retaining the best crypto talent by building the most outstanding hiring/contributing experience in the industry.
 
-#### Mission
+#### Vision
 
 In order to build the best hiring/contributing experience, we will establish a Talent Core Unit that will act as a center of expertise, researching, designing, and deploying the best people practices for a DAO ecosystem so that CUs are empowered to autonomously attract and retain core contributors in the most efficient manner.
 
 ## Strategy
 
-Given the agile and decentralized nature of MakerDAO, we will be leveraging the *contributor experience* a core contributor has, with the different touchpoints (hiring, onboarding, goal setting, performance, compensation, learning, internal mobility, exiting) along their journey in the DAO as the central driver for defining challenges, needs and priorities. This “actively listening in” to our contributor community will be facilitated by the deployment of a **contributor experience management platform.**
+Given the agile, decentralized nature of MakerDAO, we will be leveraging the *contributor experience* a core contributor has with the different touchpoints (hiring, onboarding, goal setting, performance, compensation, learning, internal mobility, exiting) along their journey in the DAO as the central driver for defining challenges, needs and priorities. This “actively listening in” to our contributor community will be facilitated by the deployment of a **contributor experience management platform.**
 
-![Strategy](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/strategy.png)
+![Strategy](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/Strategy.png)
 
 ### Goals
 
@@ -67,7 +66,7 @@ While we will be building the whole set of experiences a contributor has with th
 
 1. Build the talent acquisition infrastructure based on the different parts of the mapped out candidate journey:
 
-![Goals](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/Goals.png)
+! [Goals](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP28/Goals.png)
 
 2. Design and deploy other touchpoints of the contributor experience that are needed to build a properly functioning talent acquisition infrastructure:
     - Improve our workforce planning to more proactively forecast the demand for contributors and resources needed.
@@ -113,4 +112,4 @@ https://enboarder.com/why-enboarder/
 * Proactively build and manage talent pools of qualified candidates
 * Research needs and software solutions to facilitate an internal marketplace (internal mobility)
 * Develop and deploy hiring manager training (interview training, unconscious bias training)
-* Agency vendor review, including developing and deploying agency onboarding materials
+* Agency vendor review, including developing and deploying agency onboarding materials.
