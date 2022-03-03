@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP4c3-SP#: 17
+MIP4c2-SP#: 17
 MIP to be amended: MIP64, MIP40c3-SP42
 Author(s): @psychonaut
 Contributors: @travinimmunefi
