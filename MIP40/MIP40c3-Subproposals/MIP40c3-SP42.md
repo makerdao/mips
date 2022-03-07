@@ -75,7 +75,7 @@ Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 
 ##### Dai Expenditure
 
-We will be asking for a Total Budget Cap spanning 12-months, the amount of which is currently $634,972.45.
+We will be asking for a Total Budget Cap spanning 12-months, the amount of which is currently $562,005.
 
 The budget cap will differ from the actual expenses of the core unit. The cap refers to the maximum that the core unit can request for operating and it includes room for unforeseen circumstances.
 

@@ -29,7 +29,7 @@ MIP40c3-SP58 modifies the [Dai budget for Core Unit IS-001: Immunefi Security](h
 
 ## Changes (compared to MIP40c3-SP42)
 
-- Total budget cap (including 15% contingency): $634,972.45 -> $979,972.45
+- Total budget cap (including 15% contingency): $562,005 -> $907,005
 - Immunefi Services - Operational Audits: $0 -> $300,000 ($345,000 incl. 15% contingency)
 
 The total amount will be paid out quarterly. However, the first quarter will have 40% of the total amount, $138,000, due to frontloading and the remaining three quarters will have the remaining amount, $207,000, paid proportionally.
