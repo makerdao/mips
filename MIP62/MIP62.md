@@ -86,11 +86,6 @@ GovComms (COM-001) publishes the associated notices to:
 - The MakerDAO Official Discord’s Announcement channel.
 - The official MakerDAO subreddit.
 
-Content Production (MKT-001) publishes the associated notices to:
-
-- Official MakerDAO Blogs
-- Owned MakerDAO Twitter Accounts
-
 Partner Relationship Leads from relevant Core Units reach out to:
 
 - Affected collateral partners (e.g., Aave)
