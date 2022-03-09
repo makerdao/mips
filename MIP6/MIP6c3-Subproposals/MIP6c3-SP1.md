@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP6c3-SP: 1
+MIP6c3-SP#: 1
 Title: RWA Only Supplement to Collateral Onboarding Application
 Author(s): Christian Petersen (@christiancdpetersen)
 Contributors: @sebventures, @williamr, @e_rapp
