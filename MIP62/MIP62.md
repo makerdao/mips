@@ -106,7 +106,7 @@ These channels, the order in which they are to be used for these communications,
 
 #### Addition of Communication Channels
 
-New communication channels and media assets may be added to those listed under MIP62c2 without the requirement for governance vote by a joint public statement on the MakerDAO Forum to that effect by any two Core Unit facilitators, or by public statement on the MakerDAO Forum by a facilitator of GovComms (COM-001) or Content Production (MKT-001). Public statements should tag or otherwise directly notify @GovAlpha-Core-Unit.
+New communication channels and media assets may be added to those listed under MIP62c2 without the requirement for governance vote by a joint public statement on the MakerDAO Forum to that effect by any two Core Unit facilitators, or by public statement on the MakerDAO Forum by a facilitator of GovComms (COM-001). Public statements should tag or otherwise directly notify @GovAlpha-Core-Unit.
 
 #### Removal of Communication Channels
 
