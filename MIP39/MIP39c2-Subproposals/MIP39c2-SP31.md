@@ -1,6 +1,8 @@
 # MIP39c2-SP31: Adding Events Core Unit (EVENTS-001)
+
+## Preamble
+
 ```
-Preamble
 MIP39c2-SP#: 31
 Author(s): @PonJerry
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
