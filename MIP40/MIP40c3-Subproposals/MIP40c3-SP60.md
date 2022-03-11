@@ -7,8 +7,8 @@ MIP40c3-SP#: 60
 Author(s): @prose11, @LongForWisdom, @Patrick_J
 Contributors: @blimpa, @gala
 Tags: core-unit, cu-gov-001, budget, mkr-budget
-Status: RFC
-Date Applied: <2022-02-09>
+Status: Formal Submission
+Date Applied: 2022-02-09
 Date Ratified: <yyyy-mm-dd>
 ```
 
