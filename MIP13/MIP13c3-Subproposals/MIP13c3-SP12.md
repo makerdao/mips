@@ -5,7 +5,7 @@
 ```
 MIP13c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
-Contributors: @JustinCase, @ultraschuppi
+Contributors: @JustinCase, @ultraschuppi, @Andy_McCall
 Status: Formal Submission
 Date Proposed: 2022-02-07
 Date Ratified: <yyyy-mm-dd>
@@ -35,7 +35,7 @@ Declaration to Replace: n/a
 * Different combinations of duration and assets can be proposed, but should be within the following limits:
   * Average duration up to 2 years;
   * Investment-grade corporate and/or US Treasuries;
-  * Maximum 40% of BBB-rated bonds;
+  * Maximum 20% of BBB-rated bonds;
   * US Dollars instruments only;
 * The targeted yield to maturity of the portfolio should be 1% (2-year treasuries?) before structural costs and at least 50bps (3-month t-bills?) after all structural costs (including MakerDAO cost for monitoring);.
 * The targeted size is $1B (for cost structure, investment mandate);
