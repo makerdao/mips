@@ -8,7 +8,7 @@ Title: Onboard/Amend Keeper Network - Gelato Network
 Author(s): Sam MacPherson (@hexonaut), Hilmar Orth (@hilmarx)
 Contributors:
 Tags: keeper-network
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-01-20
 Date Ratified: yyyy-mm-dd
 ```
