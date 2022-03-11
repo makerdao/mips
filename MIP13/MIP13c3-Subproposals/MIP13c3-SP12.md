@@ -6,7 +6,7 @@
 MIP13c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: @JustinCase, @ultraschuppi
-Status: n/a
+Status: Formal Submission
 Date Proposed: 2022-02-07
 Date Ratified: <yyyy-mm-dd>
 Declaration Statement: Invest in short-term bonds
