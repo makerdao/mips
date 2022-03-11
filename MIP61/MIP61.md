@@ -7,9 +7,9 @@ MIP#: 61
 Title: Recognized Delegate Compensation
 Author(s): Joshua Pritikin (@jpritikin)
 Contributors: @g_dip, @LongForWisdom, @Patrick_J
-Tags: template
+Tags:
 Type: process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2021-10-01
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
