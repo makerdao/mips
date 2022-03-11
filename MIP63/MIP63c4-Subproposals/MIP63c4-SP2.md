@@ -8,7 +8,7 @@ Title: Onboard/Amend Keeper Network - Keep3r Network
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: keeper-network
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-01-20
 Date Ratified: yyyy-mm-dd
 ```
