@@ -7,7 +7,7 @@ MIP40c3-SP#: 61
 Author(s): @williamr
 Contributors: @juan, @wouter
 Tags: core-unit, cu-rwf-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-02-09
 Date Ratified: N/A
 Ratification Poll URL: N/A
@@ -114,28 +114,28 @@ RWF-001 Operational Wallet: 0xD1505ee500791490DE8642353BA6A5b92e3550F7
 #### Transactions
 
 * **Seed Transfer** 
-  855,000 DAI will be transfered to `0x96d7b01Cc25B141520C717fa369844d34FF116ec` on 2022-4-1.
+  2,055,000 DAI will be transfered to `0x96d7b01Cc25B141520C717fa369844d34FF116ec` on 2022-4-1.
   
-  This seed transfer repairs the 3-month runway contingency buffer. It equals the quarterly budget cap of 855,000 DAI.
+  This seed transfer repairs the 3-month runway contingency buffer. It equals the quarterly budget cap of 2,055,000 DAI.
   
 * **DssVest Stream**
-  A total of 2,565,000 DAI will be streamed to `0x96d7b01Cc25B141520C717fa369844d34FF116ec` starting 2022-04-01 and ending 2022-12-31.
+  A total of 6,165,000 DAI will be streamed to `0x96d7b01Cc25B141520C717fa369844d34FF116ec` starting 2022-04-01 and ending 2022-12-31.
 
 * Decommission the previous DssVest Stream with ID 27
 
 ### Budget Breakdown
 
-| Budget Category       | Monthly  | Quarterly | Annually   |
-| --------------------- | -------- | --------- | ---------- |
-| Compensation          | $155,000 | $465,000  | $1,860,000 |
-| Profesional Services  | $100,000 | $300,000  | $1,200,000 |
-| Real-world structures | $4,000   | $12,000   | $48,000    |
-| Payment fees          | $8,500   | $25,500   | $102,000   |
-| Gas Fees              | $500     | $1,500    | $6,000     |
-| Software Costs        | $5,000   | $15,000   | $60,000    |
-| Travel Costs          | $2,000   | $6,000    | $24,000    |
-| Contingency Buffer    | $10,000  | $30,000   | $120,000   |
-| **Total Budget Cap**      | **$285,000** | **$855,000**  | **$3,420,000** |
+| Budget Category       | Monthly  | Quarterly  | Annually   | % Budget |
+| --------------------- | -------- | ---------- | ---------- | -------- |
+| Compensation          | $155,000 | $465,000   | $1,860,000 | 22.6%    |
+| Profesional Services  | $500,000 | $1,500,000 | $6,000,000 | 73.0%    |
+| Real-world structures | $4,000   | $12,000    | $48,000    | 0.6%     |
+| Payment fees          | $8,500   | $25,500    | $102,000   | 1.2%     |
+| Gas Fees              | $500     | $1,500     | $6,000     | 0.1%     |
+| Software Costs        | $5,000   | $15,000    | $60,000    | 0.7%     |
+| Travel Costs          | $2,000   | $6,000     | $24,000    | 0.3%     |
+| Contingency Buffer    | $10,000  | $30,000    | $120,000   | 1.5%     |
+| **Total Budget Cap**      | **$685,000** | **$2,055,000** | **$8,220,000** | **100.0%**   |
 
 #### Contributors
 
@@ -171,7 +171,7 @@ Following the trust model for RWA, an RWA Foundation was set up in the previous 
 
 Risk teams will require access to a set of software packages to assist the analytical work during due diligence and post due diligence monitoring of onboarded structured finance transactions. 
 
-While a robust data infrastructure is not a short-term priority (i.e., 2022Q1), building data capability for team members to monitor transactions and gather insights faster will be a focus later in the year. We expect to collaborate with other teams such as CES in the architecture.
+While a robust data infrastructure is not a short term priority (i.e. 2022Q1), building data capability for team members to monitor transactions and gather insights faster will be a focus later in the year. We expect to collaborate with other teams such as CES in the architecture.
 
 #### Buffer
 
