@@ -114,7 +114,13 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 
 #### Keeper Network List
 
-<Placeholder>
+Network Name: TechOps
+- Short Name: MAKER
+- Budget: 0 DAI/Day
+- Buffer Min: N/A
+- Buffer Max: N/A
+- Address: N/A
+- Date Added: [2022-2-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP1.md)
 
 ### MIP63c6: Offboard Keeper Network
 
