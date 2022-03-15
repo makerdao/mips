@@ -265,7 +265,7 @@ This covers the total vesting schedule of `4 Years` for the planned `2 FTEs`.
 
 ---
 
-### Related MIPS
+### Related MIPs
 
 - [MIP39c2-SP11: Strategic Happiness Core Unit](https://forum.makerdao.com/t/mip39c2-sp11-strategic-happiness-core-unit/8006)
 - [MIP40c3-SP14: The Strategic Happiness Core Unit Budget, SH-001](https://forum.makerdao.com/t/mip40c3-sp14-the-strategic-happiness-core-unit-budget-sh-001/8007)
