@@ -10,6 +10,7 @@ Tags: core-unit, cu-pe-001, budget, dai-budget
 Status: RFC
 Date Applied: 03/09/2022
 Date Ratified:
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797
 ```
 
 ## Sentence Summary
@@ -114,7 +115,7 @@ The following items provide further detail into the above data points.
 
 ### MKR Vesting
 
-* Existing core unit members are not requesting additional MKR as their vesting plan will carry over from 2021. 
+* Existing core unit members are not requesting additional MKR as their vesting plan will carry over from 2021.
 * The proposed new team members (3 in total) if hired will vest at the same level as the rest of the team, prorated to a duration of 3 years, ending on April 30th 2025.
 * The MKR is equivalent to 248.75 MKR per person per year, over 3 years, including the 1 year cliff. At the time of setup, this will be administered via DssVest.
 * It is worth noting that last year's two MKR streams remain unused.
