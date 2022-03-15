@@ -91,19 +91,19 @@ During the 2022 ETH Denver conference, the first MakerDAO branded event “DAIvi
 ETH Denver gave a great opportunity to host the MakerDAO event at the famous Church venue.  The venue is internationally acclaimed and recognized in the DJ community.
 
 
-![img1](https://github.com/makerdao/mips/blob/master/mip39/mip39c3-subproposals/mip39c3-sp32/img1.jpg)
+![img1](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img1.jpeg)
 
 ### LED Branding
 The event included strategically placed Maker and DAI LED logos throughout the venue.
 
-![img2](https://github.com/makerdao/mips/blob/master/mip39/mip39c3-subproposals/mip39c3-sp32/img2.jpg)
+![img2](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img2.jpeg)
 
-![img3](https://github.com/makerdao/mips/blob/master/mip39/mip39c3-subproposals/mip39c3-sp32/img3.png)
+![img3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img3.png)
 
 
 
 ### Visuals & LED Bracelets
-![img4](https://github.com/makerdao/mips/blob/master/mip39/mip39c3-subproposals/mip39c3-sp32/img4.gif)
+![img4](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img4.gif)
 
 The Church featured LED video screens throughout the entire venue, offering the team a great branding opportunity for MakerDAO.  At the DAIvinity event, the team hired and coordinated with a visual animator to create custom Maker & DAI branded animations as well as a library of more abstract sequences for the night.  
 
