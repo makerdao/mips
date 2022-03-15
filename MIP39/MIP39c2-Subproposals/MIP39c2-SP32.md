@@ -6,7 +6,7 @@
 MIP39c2-SP#: 32
 Author(s): @PonJerry
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
-Tags: core-unit, cu-events-001, proposal
+Tags: core-unit, cu-events-001, proposal, mandate,
 Status:RFC
 Date Applied: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
