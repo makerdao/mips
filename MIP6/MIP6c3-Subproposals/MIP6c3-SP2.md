@@ -23,7 +23,7 @@ Since the inception of [MIP6](https://mips.makerdao.com/mips/details/MIP6), Make
 
 Furthermore, analyzing the past work has allowed us to more precisely estimate the amount of work and cost of onboarding and continuously maintain collateral types in the Maker Protocol.
 
-In addition, CES has analyzed previous domain team assessments and have solicited general input from said domain teams to understand what data is necessary for them to make an informed assessment. According to Core Units involved in the collateral onboarding process, the majority of assets that were greenlit by the MakerDAO community are not fit for onboarding. This is a symptom of a lack of relevant information to make an informed decision.
+In addition, CES has analyzed previous domain team assessments and have solicited general input from said domain teams to understand what data is necessary for them to make an informed assessment. According to Core Units involved in the collateral onboarding process, the majority of the assets that were greenlit by the MakerDAO community are not fit for onboarding. This is a symptom of a lack of relevant information to make an informed decision.
 
 The conclusion of this analysis by CES and Collateral Management Onchain (CMON) Stakeholders is that the current application template does not contain all necessary information for Core Units or MakerDAO to make an initial informed decision whether or not a collateral type should be greenlit. This leads to Core Units and the general MakerDAO community having to spend time searching for information, rather than just verifying the correctness of data presented upfront.
 
