@@ -10,6 +10,7 @@ tags: core-unit, cu-sh-001, budget, mkr-budget, dai-budget
 Status: RFC
 Date Applied: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md
 ```
 
 ## Sentence Summary
