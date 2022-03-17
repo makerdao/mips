@@ -8,7 +8,7 @@ MIP to be amended: MIP64, MIP40c3-SP42
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: mip-amendment
-Status: RFC
+Status: Formal Submission
 Date of Amendment Submission: 2022-01-26
 Date of ratification: <yyyy-mm-dd>
 ```

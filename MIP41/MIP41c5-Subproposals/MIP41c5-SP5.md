@@ -7,7 +7,7 @@ MIP41c5-SP#: 5
 Author(s): Deimos
 Contributors:
 Tags: personnel-xboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-02-09
 Date Ratified:
 ```

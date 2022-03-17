@@ -7,7 +7,7 @@ MIP40c3-SP#: 61
 Author(s): @williamr
 Contributors: @juan, @wouter
 Tags: core-unit, cu-rwf-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-02-09
 Date Ratified: N/A
 Ratification Poll URL: N/A
@@ -112,12 +112,11 @@ RWF-001 Operational Wallet: 0xD1505ee500791490DE8642353BA6A5b92e3550F7
 * @monkey.irish (Collateral Engineering Services Core Unit) - `0xDE0FF661Fb2d06d4F787dd23A579D64c6989BdA1`
 
 #### Transactions
-
-* **Seed Transfer**
+* **Seed Transfer** 
   2,055,000 DAI will be transfered to `0x96d7b01Cc25B141520C717fa369844d34FF116ec` on 2022-4-1.
-
+  
   This seed transfer repairs the 3-month runway contingency buffer. It equals the quarterly budget cap of 2,055,000 DAI.
-
+  
 * **DssVest Stream**
   A total of 6,165,000 DAI will be streamed to `0x96d7b01Cc25B141520C717fa369844d34FF116ec` starting 2022-04-01 and ending 2022-12-31.
 
@@ -171,7 +170,7 @@ Following the trust model for RWA, an RWA Foundation was set up in the previous 
 
 Risk teams will require access to a set of software packages to assist the analytical work during due diligence and post due diligence monitoring of onboarded structured finance transactions.
 
-While a robust data infrastructure is not a short-term priority (i.e., 2022Q1), building data capability for team members to monitor transactions and gather insights faster will be a focus later in the year. We expect to collaborate with other teams such as CES in the architecture.
+While a robust data infrastructure is not a short term priority (i.e. 2022Q1), building data capability for team members to monitor transactions and gather insights faster will be a focus later in the year. We expect to collaborate with other teams such as CES in the architecture.
 
 #### Buffer
 

@@ -7,10 +7,11 @@ MIP40c3-SP#: 59
 Author(s): @LongForWisdom, @prose11
 Contributors: @patrick_J
 Tags: core-unit, cu-gov-001, budget, dai-budget
-Status: RFC
-Date Applied: <2022-02-09>
+Status: Formal Submission
+Date Applied: 2022-02-09
 Date Ratified: <yyyy-mm-dd>
 ```
+
 ## Sentence Summary
 
 MIP40c3-SP59 adds a 12-month DAI budget of 1,109,793 DAI for the GovAlpha Core Unit starting in April 2022.
