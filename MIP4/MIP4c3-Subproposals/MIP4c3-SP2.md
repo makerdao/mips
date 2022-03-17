@@ -11,6 +11,7 @@ Tags: amendment
 Status: RFC
 Date of Amendment Submission: 2022-03-09
 Date of ratification: yyyy-mm-dd
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp31-update-data-insights-core-unit-mandate/13790 
 ```
 
 ## Specification
