@@ -508,7 +508,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Sidestream Auction Services (SAS-001)
 
 - **Summary** - Sidestream Auction Services's mission is to improve security, transparency and accessibility of the Maker Protocol by providing and maintaining auction services through open-source development.
-- **Ratification Date for the Initial Proposal Set** - 2021-22-11
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
 
 ##### Mandate
 
@@ -529,7 +529,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Strategic Finance (SF-001)
 
 - **Summary** - Strategic Finance Core Unit's mission is to provide financial reporting and analysis to assist the DAO in evaluating the financial health of the protocol to enable strategic decision making and allocate capital more effectively.
-- **Ratification Date for the Initial Proposal Set** - 2022-24-01
+- **Ratification Date for the Initial Proposal Set** - 2022-01-24
 
 ##### Mandate
 
