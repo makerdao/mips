@@ -20,7 +20,20 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Motivation
 
-- Why are you proposing to remove this Core Unit?
+#### Summary of reason for offboarding
+*State the argument for offboarding. Include proactive actions performed to help the core unit achieve its mandate, if relevant.*
+
+#### Explicit deliverables and responsibilities
+*List deliverables and responsibilities from the Core Unit’s MIP39 mandate, as well as any other specifically declared deliverables and responsibilities (link to source when possible).*
+
+#### Implicit deliverables and responsibilities
+*List deliverables and responsibilities implied by the Core Unit (link to source when possible).*
+
+#### Examples of unfulfilled deliverables and responsibilities:
+*List examples of unmet or poorly executed deliverables and responsibilities.*
+
+#### Possible remedy to avoid offboarding
+*Suggest a path to accountability for the Core Unit, so the offboarding proposal could be withdrawn. (Optional)*
 
 ### Core Unit ID
 

@@ -139,9 +139,15 @@ When the Facilitator of a Core Unit becomes unavailable, an existing permanent F
 
 The Interim Facilitator controls the budget to continue doing regular payouts to core Contributors and pay for other critical expenses and infrastructure while a permanent Core Unit Facilitator is sought.
 
+If a Core Unit has no active facilitators as a result of involuntary offboarding and has no active budget, no Interim Facilitator will be appointed unless there are winding down activities (such as returning assets to MakerDAO) that require one. An Interim Facilitator shall not be considered an active facilitator for purposes of MIP39c3.
+
 #### The Fallback Decision Process
 
-Interim Facilitators are designated based on the Fallback Decision Process, where a simple majority of all currently active Facilitators have to reach an agreement. The Fallback Decision Process can instantly designate an existing Facilitator (who must agree to the decision) and assign them as an Interim Facilitator to a Core Unit that is without a Facilitator, or that has a Facilitator who has gone missing.
+Interim Facilitators are designated based on the Succession Plan publicly documented by a Core Unit at onboarding. An Interim Facilitator appointed based upon a succession plan must be a current or former member of that Core Unit.
+
+In the event a Core Unit does not have a succession plan publicly documented, or the candidate(s) named in it are not willing or eligible to become Interim Facilitator, the outgoing facilitator may nominate another Interim Facilitator, subject to approval by a simple majority vote of all active facilitators.
+
+In the event a Core Unit has no succession plan, the candidate(s) are not willing or eligible to become Interim Facilitator, and the outgoing facilitator is unable or unwilling to nominate a candidate able to be approved by majority vote of all active facilitators, the appointment will revert to the Fallback Decision Process, where a simple majority of all currently active Facilitators have to reach an agreement. The Fallback Decision Process can instantly designate an existing Facilitator or existing member of that Core Unit (who must agree to the decision) and assign them as an Interim Facilitator to a Core Unit that is without a Facilitator, or that has a Facilitator who has gone missing.
 
 #### The Transition
 

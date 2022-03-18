@@ -98,7 +98,11 @@ MIP39c2 subproposals must use the template located at [MIP39c2-Subproposal-Templ
 
 ### MIP39c3: Removing Core Units (Subproposal Process)
 
-This subproposal process allows Governance to remove a Core Unit from the DAO Primitives State (MIP38). A Core Unit can only be removed if it has no active budget implementations (see MIP40) and no active facilitators (see MIP41).
+This subproposal process allows Governance to remove a Core Unit from the DAO Primitives State (MIP38). A Core Unit can only be removed if it has no active budget implementations (see MIP40) and no active facilitators (see MIP41). However, a Core Unit can be offboarded in the same governance cycle as removing its budget and facilitator(s). More precisely, if a Core Unit has no active budget implementation, no active facilitators, no facilitator onboarding proposals in formal submission, and no budget requests in formal submission, no further action is required for the Core Unit to be officially offboarded.
+
+An Interim Facilitator as referenced in MIP41c6 is not an active facilitator for the purposes of MIP39c3. A Core Unit with an Interim Facilitator conducting winding down activities (such as returning assets to MakerDAO) shall be considered offboarded, even if those winding down activities are not yet complete.
+
+A Core Unit that has been offboarded should conduct all winding down activities within 2 weeks. This includes (but is not limited to) settling outstanding obligations to all contributors, settling any outstanding debts or current obligations of that Core Unit to third parties, orderly transfer of any intangible assets of the DAO to another Core Unit, and return of any DAI in excess of that needed to wind down activities in an orderly manner.
 
 The proposal parameters are:
 - Minimum feedback period 1 month
