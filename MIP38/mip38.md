@@ -10,7 +10,7 @@ Tags: general, core-unit-framework, mip-set, core-unit-framework-mipset, living
 Type: Informational
 Status: Accepted
 Date Proposed: 2021-01-18
-Date Ratified: 2021-25-03
+Date Ratified: 2021-03-25
 Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
@@ -23,7 +23,7 @@ N/A
 
 ## Sentence Summary
 
-DAO Primitives State is a MIP that keeps track of all the states related to Core Units, Budgets and Facilitators.
+DAO Primitives State is a MIP that keeps track of all the states related to Core Units, Budgets, and Facilitators.
 
 ## Paragraph Summary
 
@@ -32,7 +32,7 @@ DAO Primitives State is a MIP that keeps track of the current state related to C
 ## Component Summary
 
 **MIP38c1: Core Unit State Maintenance**
-This component defines the Core Unit State list, its format and its upkeep.
+This component defines the Core Unit State list, its format, and its upkeep.
 
 **MIP38c2: Core Unit State**
 The component that contains all of the DAO Primitives State, with Core Units as the key.
@@ -90,7 +90,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Real-World Finance (RWF-001)
 
 - **Summary** - This Core Unit is designed to pursue Real-World Asset work and more generally helps MakerDAO to take over the traditional finance world.
-- **Ratification Date for the Initial Proposal Set** - 2021-25-03
+- **Ratification Date for the Initial Proposal Set** - 2021-03-25
 
 ##### Mandate
 
@@ -99,7 +99,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Budget
 
 - **Active Budget** - [MIP40c3-SP39](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP39.md)
-    - **Ratification Date** - 2021-22-11
+    - **Ratification Date** - 2021-11-22
     - **Budget Amount** * A total of 1,860,000 Dai will be streamed to 0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09 (RWF Core Unit Multisig) starting 2022-01-01 and ending 2022-12-31 at a rate of 155,000 Dai per month
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP39 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP39.md#list-of-budget-breakdowns)
@@ -114,7 +114,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Risk (RISK-001)
 
 - **Summary** - Risk Core Unit ensures Maker Protocol can continue to grow safely by having proper risk management parameters and risk mitigation tools applied.
-- **Ratification Date for the Initial Proposal Set** - 2021-25-03
+- **Ratification Date for the Initial Proposal Set** - 2021-03-25
 
 ##### Mandate
 
@@ -137,8 +137,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### GovAlpha (GOV-001)
 
-- **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and - well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
-- **Ratification Date for the Initial Proposal Set** - 2021-25-03
+- **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
+- **Ratification Date for the Initial Proposal Set** - 2021-03-25
 
 ##### Mandate
 
@@ -147,7 +147,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Budget
 
 - **Active Budget** - [MIP40c3-SP29](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP29.md)
-    - **Ratification Date** - 2021-27-09
+    - **Ratification Date** - 2021-09-27
     - **Budget Amount** - 538,400 DAI / October, 2021 to March, 2022
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP29 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP29.md#budget-breakdown---october-through-march-combined)
@@ -161,8 +161,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### Protocol Engineering (PE-001)
 
-- **Summary** - The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts and ensure the safety and correctness of protocol design and implementation.
-- **Ratification Date for the Initial Proposal Set** - 2021-27-04
+- **Summary** - The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts, and ensure the safety and correctness of protocol design and implementation.
+- **Ratification Date for the Initial Proposal Set** - 2021-04-27
 
 ##### Mandate
 
@@ -171,7 +171,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Budget
 
 - **Active Dai Budget** - [MIP40c3-SP7](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP7.md)
-    - **Ratification Date** - 2021-27-04
+    - **Ratification Date** - 2021-04-27
     - **Budget Amount** - 510,000 DAI / month
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP7 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP7.md#budget)
@@ -186,7 +186,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Growth (GRO-001)
 
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
-- **Ratification Date for the Initial Proposal Set** - 2021-27-04
+- **Ratification Date for the Initial Proposal Set** - 2021-04-27
 
 ##### Mandate
 
@@ -195,7 +195,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Budget
 
 - **Active Budget** - [MIP40c37](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP37.md)
-    - **Ratification Date** - 2021-25-10
+    - **Ratification Date** - 2021-10-25
     - **Budget Amount** - 2,208,484 DAI / eight months
 	- **Budget Implementation** - Simple via dssvest
 	- **Budget Breakdown** - [MIP40c3-SP37 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP37.md#combined-november-december-2021-and-h1-2022-budget---november-2021-to-june-2022)
@@ -209,8 +209,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### MakerDAO Shop (MDS-001)
 
-- **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store
-- **Ratification Date for the Initial Proposal Set** - 2021-27-04
+- **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store.
+- **Ratification Date for the Initial Proposal Set** - 2021-04-27
 
 ##### Mandate
 
@@ -232,7 +232,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Sustainable Ecosystem Scaling (SES-001)
 
 - **Summary** - The Sustainable Ecosystem Scaling Core Unit's mission is to sustainably grow the Maker Protocol’s moats by systematically removing barriers between the decentralized workforce, capital, and work.
-- **Ratification Date for the Initial Proposal Set** - 2021-25-05
+- **Ratification Date for the Initial Proposal Set** - 2021-05-25
 
 ##### Mandate
 
@@ -256,7 +256,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Oracles (ORA-001)
 
 - **Summary** - The Oracle Core Unit is responsible for developing and administrating the Oracle Protocol. Oracles are a critical component of securing the Maker Protocol to ensure positions are sufficiently collateralized.
-- **Ratification Date for the Initial Proposal Set** - 2021-28-06
+- **Ratification Date for the Initial Proposal Set** - 2021-06-28
 
 ##### Mandate
 
@@ -279,8 +279,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### Governance Communications (COM-001)
 
-- **Summary** - The Governance Communications Core Unit performs a complementary set of resources and services that focus on MakerDAO's informational accessibility and communication practices as a public organization.
-- **Ratification Date for the Initial Proposal Set** - 2021-26-07
+- **Summary** - The Governance Communications Core Unit provides a complementary set of resources and services that focus on MakerDAO's informational accessibility and communication practices as a public organization.
+- **Ratification Date for the Initial Proposal Set** - 2021-07-26
 
 ##### Mandate
 
@@ -305,7 +305,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Dai Foundation (DAIF-001)
 
 - **Summary** - The Dai Foundation Core Unit is responsible for facilitating the dialogue between the Dai Foundation and the Community regarding intellectual property safeguarding, intellectual property usage, and related activities.
-- **Date Ratified** - 2021-23-08
+- **Date Ratified** - 2021-08-23
 
 ##### Mandate
 
@@ -331,7 +331,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### StarkNet Engineering (SNE-001)
 
 - **Summary** - In a volatile, high gas cost environment, DeFi protocols are attempting to build bridges to L2 protocols to access liquidity and remain competitive. This proposal is a plan to build a DAI bridge over Starknet within 3 months (phase I).
-- **Ratification Date for the Initial Proposal Set** - 2021-27-09
+- **Ratification Date for the Initial Proposal Set** - 2021-09-27
 
 ##### Mandate
 
@@ -356,7 +356,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Collateral Engineering Services (CES-001)
 
 - **Summary** - To operationalize collateral management within the Maker Protocol allowing anyone to onboard collateral while ensuring the stability and security of the ecosystem.
-- **Ratification Date for the Initial Proposal Set** - 2021-27-09
+- **Ratification Date for the Initial Proposal Set** - 2021-09-27
 
 ##### Mandate
 
@@ -383,7 +383,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Development and UX (DUX-001)
 
 - **Summary** - Enabling the best-in-class decentralized decision making for the Maker Protocol by providing a meaningful user experience for all governance participants.
-- **Ratification Date for the Initial ProposalSet** - 2021-27-09
+- **Ratification Date for the Initial ProposalSet** - 2021-09-27
 
 ##### Mandate
 
@@ -407,7 +407,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Strategic Happiness (SH-001)
 
 - **Summary** - The SHCU aims to promote community engagement and promote the Maker brand by strategically spreading happiness, positive vibes, and mild but delightful confusion throughout the Maker Community via memes, shitposts, and Bespoke Happiness Airdrops.
-- **Ratification Poll for the Initial Proposal Set** - 2021-27-09
+- **Ratification Poll for the Initial Proposal Set** - 2021-09-27
 
 ##### Mandate
 
@@ -431,7 +431,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Data Insights (DIN-001)
 
 - **Summary** - The Data Insights Core Unit (DIN-001) is responsible for providing free and permissionless datasets based on detailed Maker Protocol history.
-- **Ratification Date for the Initial Proposal Set** - 2021-25-10
+- **Ratification Date for the Initial Proposal Set** - 2021-10-25
 
 ##### Mandate
 
@@ -455,8 +455,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### Deco Fixed-Rate (DECO-001)
 
-- **Summary** - The Deco protocol is a fixed rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
-- **Ratification Date for the Initial Proposal Set** - 2021-22-11
+- **Summary** - The Deco Protocol is a fixed rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
 
 ##### Mandate
 
@@ -482,7 +482,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Immunefi Security (IS-001)
 
 - **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
-- **Ratification Date for the Initial Proposal Set** - 2021-22-11
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
 
 
 ##### Mandate
@@ -507,8 +507,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### Sidestream Auction Services (SAS-001)
 
-- **Summary** - Sidestream Auction Services's mission is to improve security, transparency and accessibility of the Maker Protocol by providing and maintaining auction services through open-source development.
-- **Ratification Date for the Initial Proposal Set** - 2021-22-11
+- **Summary** - Sidestream Auction Services's mission is to improve security, transparency, and accessibility of the Maker Protocol by providing and maintaining auction services through open-source development.
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
 
 ##### Mandate
 
@@ -529,7 +529,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Strategic Finance (SF-001)
 
 - **Summary** - Strategic Finance Core Unit's mission is to provide financial reporting and analysis to assist the DAO in evaluating the financial health of the protocol to enable strategic decision making and allocate capital more effectively.
-- **Ratification Date for the Initial Proposal Set** - 2022-24-01
+- **Ratification Date for the Initial Proposal Set** - 2022-01-24
 
 ##### Mandate
 
@@ -549,7 +549,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### TechOps (TECH-001)
 
 - **Summary** - TechOps Core Unit mission is to handle the system administration and technical support needs of the Maker Protocol and its Core Units.
-- **Ratification Date for the Initial Proposal Set** - 2022-24-01
+- **Ratification Date for the Initial Proposal Set** - 2022-01-24
 
 ##### Mandate
 
@@ -575,7 +575,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 #### Content Production (MKT-001)
 
 - **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
-- **Ratification Date for the Initial Proposal Set** - 2021-27-04
+- **Ratification Date for the Initial Proposal Set** - 2021-04-27
 
 ##### Mandate
 
