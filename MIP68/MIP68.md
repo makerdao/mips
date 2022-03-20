@@ -74,7 +74,7 @@ The final documents underpinning the proposed structure will be finally designed
 
 **Arranging Alpha Structure**
 This structure, beyond allowing Monetalis to start our Green Economy SME wholesale Lending business, is flexible enough to start Monetalis doing Arranging in practice:
-* We can sponsor/incubate new, potentially more innovative, underwriting teams focused on Maker relevant lending segments and implement these simply via signalled changes to Strategic Credit Guidelines and, potentially, Vault increases - a capability easily extendable to include the EU market.
+* We can sponsor/incubate new, potentially more innovative, underwriting teams focused on Maker relevant lending segments. These could be implement simply via signalled changes to Strategic Credit Guidelines and, potentially, Vault increases - a capability easily extendable to include the EU market.
 * We can reuse/clone our TradFi/Maker integration point (BVI trust/trustees/Governance package/Bank/Auditor/Accountant etc) to support execution efforts such as Project Clydesdale (executing liquid Bond strategy) and other potential arranged collateral.
 * Over time, with multiple collateral types and situations tested against this structure - and continued improvements of the structure - components/processes that can beneficially be moved on-chain will naturally reveal themselves and be executed upon.
 
