@@ -1,9 +1,9 @@
-# MIP6c-3SP2: Subproposal for changing the collateral application form
+# MIP6c3-SP2: Subproposal for changing the collateral application form
 
 ## Preamble
 
 ```
-MIP6c3-SP: 2
+MIP6c3-SP#: 2
 Title: Subproposal for changing the collateral application form
 Author(s): @lollike, @monkey.irish
 Contributors:
