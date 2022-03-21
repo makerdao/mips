@@ -6,7 +6,7 @@
 MIP40c3-SP#: 42
 Author(s): @travinimmunefi
 Contributors: @psychonaut
-Tags: core-unit, cu-is-001, budget, dai-budget, active
+Tags: core-unit, cu-is-001, budget, dai-budget
 Status: Accepted
 Date Applied: 2021-10-06
 Date Ratified: 2021-11-22
@@ -130,18 +130,18 @@ A total of 366,562.5 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF
 |+ Contigency Buffer (15%) | $36,895.83 | $122,187.50|
 
 #### Yearly Expenses
-| Item | Cost | 
-|------ | :--------: | 
-|Company Setup (1st year) | $2,200 
+| Item | Cost |
+|------ | :--------: |
+|Company Setup (1st year) | $2,200
 |Total | $2,200 |
 |+ Contigency Buffer (15%) | $2,530 |
 
 #### One-time Expenses - Software and Infrastructure
 
-| Item | Cost | 
-|------ | :--------: | 
+| Item | Cost |
+|------ | :--------: |
 |Hardware and Software Expenses | $7,500
-|ChaosLabs | $54,000 
+|ChaosLabs | $54,000
 |Total | $61,500 |
 |+ Contigency Buffer (15%) | $70,725 |
 
@@ -199,7 +199,7 @@ About $7,500 of these expenses will include, but will not be strictly limited to
 
 Some software may be charged to the Core Unit on a monthly basis, but this one-time budget request has accounted for potential monthly expenses. As the identification of critical infrastructure and other operations have not yet commenced, we are currently unable to accurately go over what this will cover. All spending, however, will be documented and reported accordingly within reason.
 
-The remaining expense of $54,000 is allocated for the software and infrastructure provided by [ChaosLabs](https://chaoslabs.xyz/) to provide a better testing experience for the bug bounty hunters spending time on the planned MakerDAO bug bounty program. This is, however, a consumable amount based on the number of hackers that would be permitted to use the software and infrastructure, as well as the extent that they use it. The Immunefi Security CU will use its discretion to approve or reject bug bounty hunters from accessing the software, with the proper process to be further outlined in the future Bug Bounty Program Subproposal. However, participating in the bug bounty program will not necessitate the use of the software and infrastructure. 
+The remaining expense of $54,000 is allocated for the software and infrastructure provided by [ChaosLabs](https://chaoslabs.xyz/) to provide a better testing experience for the bug bounty hunters spending time on the planned MakerDAO bug bounty program. This is, however, a consumable amount based on the number of hackers that would be permitted to use the software and infrastructure, as well as the extent that they use it. The Immunefi Security CU will use its discretion to approve or reject bug bounty hunters from accessing the software, with the proper process to be further outlined in the future Bug Bounty Program Subproposal. However, participating in the bug bounty program will not necessitate the use of the software and infrastructure.
 
 #### Company Setup
 

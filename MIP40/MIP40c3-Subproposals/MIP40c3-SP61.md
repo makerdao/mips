@@ -25,7 +25,7 @@ MIP40c3-SP61 modifies the Dai budget for the Real-World Finance Core Unit. Based
 
 ### Motivation
 
-As the Core Unit is going through a transition from Seb to Will as facilitator, there are three reasons that require a budget change: 
+As the Core Unit is going through a transition from Seb to Will as facilitator, there are three reasons that require a budget change:
 
 1. A [new multi-sig wallet setup](https://forum.makerdao.com/t/rwf-001-auditor-flow/12900) has been put in place, following best practices and applying an auditor flow.
 2. Part of the new vision requires a more thorough legal review process for RWA applications with third-party reputable firms. This brings additional recurring costs with it.
@@ -43,7 +43,7 @@ The implementation follows best practices and is described below for transparenc
 
 ![budget diagram](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP61/payment-flow.jpeg)
 
-The budget implementation will follow standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance. 
+The budget implementation will follow standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance.
 
 The RWF-001 budget is designed with the following in mind:
 
@@ -54,9 +54,9 @@ The RWF-001 budget is designed with the following in mind:
 
 #### Multi-sig Wallets
 
-The following multi-sigs are involved: 
+The following multi-sigs are involved:
 
-1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants. 
+1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants.
 
    The Accountant Role Multi-sig will have 2 signers---both SES permanent team contributors. The Auditor Role Multi-sig will also have 2 signers, also both SES permanent team contributors. SES will conduct the monthly auditing process as described in the Monthly Top-up Cycle, increasing transparency of the auditing process for the community.
 
@@ -64,7 +64,7 @@ The following multi-sigs are involved:
 
    This multi-sig will hold funds up to the Quarterly Budget Cap in DAI and receive the DssVest stream. All funds pass through this wallet before any are sent to the Operational Wallet.
 
-2. **The Operational Wallet** -- One wallet for RWF-001 operational expenses. This is a 2-out-of-3 multi-sig controlled by RWF-001. Signers include the facilitator and trusted members of other Core Units to provide business continuity. 
+2. **The Operational Wallet** -- One wallet for RWF-001 operational expenses. This is a 2-out-of-3 multi-sig controlled by RWF-001. Signers include the facilitator and trusted members of other Core Units to provide business continuity.
 
 #### Monthly Budget Statement
 
@@ -87,32 +87,31 @@ The Monthly Budget Statements can be found in [this GitHub repository - WIP](www
 3. **Returning Excess Funds** – RWF-001 creates and signs any transactions for excess funds that should be returned to the Auditor Wallet:
    * Excess DAI Transactions – DAI transactions for Operational Wallets that have a balance above the 3-Month Budget Forecast will be returned to the Auditor Wallet.
 4. **DssVest Pull** - The Auditor Wallet signers will pull available funds from the RWF-001 DssVest contract, replenishing the available funds in the Auditor Wallet.
-5. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by RWF-001 to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings. 
-   
+5. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by RWF-001 to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings.
+
     A summary of each audit cycle’s report will be made available to the Maker Community at the conclusion of the audit cycle on the RWF-001’s transparency reporting repository on Github.
 6. **Transaction Approvals** – Upon acceptance of the Monthy Budget Statement audit, an Accountant Role signer and an Auditor Role signer will sign the requested transactions, sending the DAI top-up amounts to the Operational Wallet.
-7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer. 
+7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer.
 
     As such, the Auditor Wallet will then hold up to 2x the Monthly Budget Cap at the start of the month, allowing DssVest to stream DAI up to the Quarterly Budget Cap over the course of the month.
 
 #### Auditor Wallet Signers
 
-RWF-001 Auditor Wallet: 0x96d7b01Cc25B141520C717fa369844d34FF116ec 
+RWF-001 Auditor Wallet: 0x96d7b01Cc25B141520C717fa369844d34FF116ec
 
 * Accountant Role Wallet (`0xA2A855Ac8D2a92e8A5a437690875261535c8320C`) as a signer
 * Auditor Role Wallet (`0xB2da57e224949acDDe173a5b8A8160c023ea86e6`) as a signer
 * Add `MCD_PAUSE_PROXY` as a beneficiary, with an allowance of 1B DAI withdrawal.
 * Configure required confirmations as 2-out-of-2.
 
-#### Operational Wallet Signers 
+#### Operational Wallet Signers
 
-RWF-001 Operational Wallet: 0xD1505ee500791490DE8642353BA6A5b92e3550F7 
+RWF-001 Operational Wallet: 0xD1505ee500791490DE8642353BA6A5b92e3550F7
 * @williamr (RWF-001 Facilitator)- `0x44d2509074993b858c54B6d276ebD3816FC93A68`
 * @Nadia  (Growth Core Unit) - `0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8`
 * @monkey.irish (Collateral Engineering Services Core Unit) - `0xDE0FF661Fb2d06d4F787dd23A579D64c6989BdA1`
 
 #### Transactions
-
 * **Seed Transfer** 
   2,055,000 DAI will be transfered to `0x96d7b01Cc25B141520C717fa369844d34FF116ec` on 2022-4-1.
   
@@ -139,7 +138,7 @@ RWF-001 Operational Wallet: 0xD1505ee500791490DE8642353BA6A5b92e3550F7
 
 #### Contributors
 
-Given the increase in dealflow as well as sophistication of counterparties, the pool of contributors will be biased towards senior risk professionals primarily (e.g., structured finance, credit risk management). This group will be tasked with **professionalising the function** and assisting building best practices that can be leveraged or improved upon by a wider group of specialised core units. 
+Given the increase in dealflow as well as sophistication of counterparties, the pool of contributors will be biased towards senior risk professionals primarily (e.g., structured finance, credit risk management). This group will be tasked with **professionalising the function** and assisting building best practices that can be leveraged or improved upon by a wider group of specialised core units.
 
 We will deliberately and intentionally prepare and assist senior professionals to gain the required know-how to set up and run specialised core units. Thus **enabling decentralisation** and scaling of activities with the [original vision for Risk in mind](https://forum.makerdao.com/t/mandate-risk-teams/282).
 
@@ -149,27 +148,27 @@ The team will be composed of the following roles:
 
 **Facilitator**: Ability to guide, manage and take over the work of any risk management member of the team.
 
-**Structured finance consultants (x3)**: Dealing with Asset Originators/Manager from the negotiation phase, due diligence phase, up to the monitoring phase. Competencies in structured finance, risk assessment, modeling, statistics, analytics. They also have a transactional legal understanding to collaborate with legal consultants. 
+**Structured finance consultants (x3)**: Dealing with Asset Originators/Manager from the negotiation phase, due diligence phase, up to the monitoring phase. Competencies in structured finance, risk assessment, modeling, statistics, analytics. They also have a transactional legal understanding to collaborate with legal consultants.
 
 **Consultant lawyer (x1)**: Dealing with Asset Originators/Managers from the negotiation phase, legal due diligence phase, up to the monitoring phase. Competencies in areas of the law related to structured finance transactions such as bankruptcy, commmercial law, debt restructuring etc. Given this is a specialised area, this role is the primary intermediary with external reputable law firms as well as borrower legal counterparts.   
 
-It is expected that the legal consultant will eventually be part of a dedicated group or panel of legal consultants, supporting structured finance transactions, but as part of a separate specialised Core Unit. 
+It is expected that the legal consultant will eventually be part of a dedicated group or panel of legal consultants, supporting structured finance transactions, but as part of a separate specialised Core Unit.
 
-**Expert grantees (x4 part-time)**: The grants are used for senior contributors/experts to assist in specialised structured finance transactions e.g. asset specific know-how, regulatory or jurisdiction specific experience. Eventually, grantees might either rejoin other consultants or be deliberately assisted in incubating Core Units to scale transactions. 
+**Expert grantees (x4 part-time)**: The grants are used for senior contributors/experts to assist in specialised structured finance transactions e.g. asset specific know-how, regulatory or jurisdiction specific experience. Eventually, grantees might either rejoin other consultants or be deliberately assisted in incubating Core Units to scale transactions.
 
 **Advisory grantees**: Advisory grants are dedicated to assisting the Core Unit in scaling and improving its internal processes in both risk management and end-to-end dealflow.
 
-#### Professional Services 
+#### Professional Services
 
 Solicitor members of the team have onboarded law firms (Shearman & Sterling, Lathan & Watkins, MinterEllison) to help us audit RWA structures and guide us through legal solutions/issues. Given the increasing number of counterparties and complexity of structures, costs have increased significantly.
 
 #### Real-world structures
 
-Following the trust model for RWA, an RWA Foundation was set up in the previous facilitation. Currently, this remains unutilised. However there is an yearly cost of ~50k DAI. If no legal research points to the utilisation of such structure in the coming year, funds allocated to its maintenance will be reallocated elsewhere or returned to the protocol. 
+Following the trust model for RWA, an RWA Foundation was set up in the previous facilitation. Currently, this remains unutilised. However there is an yearly cost of ~50k DAI. If no legal research points to the utilisation of such structure in the coming year, funds allocated to its maintenance will be reallocated elsewhere or returned to the protocol.
 
 #### Software costs
 
-Risk teams will require access to a set of software packages to assist the analytical work during due diligence and post due diligence monitoring of onboarded structured finance transactions. 
+Risk teams will require access to a set of software packages to assist the analytical work during due diligence and post due diligence monitoring of onboarded structured finance transactions.
 
 While a robust data infrastructure is not a short term priority (i.e. 2022Q1), building data capability for team members to monitor transactions and gather insights faster will be a focus later in the year. We expect to collaborate with other teams such as CES in the architecture.
 
