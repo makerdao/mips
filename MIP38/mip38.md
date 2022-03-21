@@ -244,7 +244,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
     - **Ratification Date** - 2021-08-11
     - **Budget Amount** - 1,461,111 Dai (Total Budget Cap spanning a three-month cycle)
     - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP31 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP55.md)
+    - **Budget Breakdown** - [MIP40c3-SP31 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP55.md#budget-breakdown)
 - **MKR Vesting** - [MIP40c3-SP17](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md)
 
 ##### Facilitator
@@ -345,7 +345,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
         - One-off setup of 75,000 Dai
         - 134,375 Dai streamed starting 2021-10-1 and ending 2021-12-31
     - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP47 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP47.md)
+    - **Budget Breakdown** - [MIP40c3-SP47 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP47.md#list-of-budget-breakdowns)
 
 ##### Facilitator
 
@@ -395,7 +395,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
     - **Ratification Date** - 2021-09-27
     - **Budget Amount** - 483,575 Dai (Total Budget Cap spanning a three-month cycle)
     - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP52 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP52.md)
+    - **Budget Breakdown** - [MIP40c3-SP52 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP52.md#budget-breakdown)
 - **MKR Vesting** - [MIP40c3-SP27](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP27.md)
 
 ##### Facilitator
@@ -455,7 +455,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 #### Deco Fixed-Rate (DECO-001)
 
-- **Summary** - The Deco Protocol is a fixed rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
+- **Summary** - The Deco Protocol is a fixed-rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
 - **Ratification Date for the Initial Proposal Set** - 2021-11-22
 
 ##### Mandate
