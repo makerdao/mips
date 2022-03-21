@@ -46,7 +46,7 @@ DIN-001
 ### Current status
 Having completed four out of the six months of the initial proposal, we believe we have demonstrated the value of this Core Unit to the protocol, to other Core Units ,as well as to the wider community.
 
-In the following post you can find an in-depth overview of the work done and the associated financials: link here *(currently WIP, we aim to publish it by the end of this week)*.
+In the following post you can find an in-depth overview of the work done and the associated financials: [link here](https://forum.makerdao.com/t/dicu-2021-2022-financial-year-in-review/13961).
 
 We would like to highlight the following aspects:
 - We constantly develop and maintain analytical datasets and GUIs covering many aspects of the protocol's history (vaults, users, voting, liquidations, debt/surplus auctions, system parameters, etc.)
