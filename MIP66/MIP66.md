@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP#: MIP66
+MIP#: 66
 Title: Pairwyse Licensure
 Author(s): [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:ashwin@akiva.capital), [Avtar Sehra](mailto:avtar@nivaura.com)
 Contributors: [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:ashwin@akiva.capital), [Avtar Sehra](mailto:avtar@nivaura.com)
