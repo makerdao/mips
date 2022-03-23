@@ -29,7 +29,7 @@ MIP39: Core Unit Framework contains a framework for managing Core Units and modi
 
 ## Paragraph Summary
 
-MIP39: Core Unit Framework contains a framework for managing Core Units and modifying them in the DAO Primitives State MIP. The Core Unit is the basic building block for organizing work for the DAO. It denotes particular long-term objectives that Maker Governance has decided for the protocol to be secure and successful.
+MIP39: Core Unit Framework contains a framework for managing Core Units and modifying them in the DAO Primitives State MIP. The Core Unit is the basic building block for organizing work for the DAO. It denotes the particular long-term objectives that Maker Governance has decided are neccessary for the protocol to be secure and successful.
 
 ## Component Summary
 
@@ -37,18 +37,18 @@ MIP39: Core Unit Framework contains a framework for managing Core Units and modi
 Gives an overview of the most important characteristics of Core Units.
 
 **MIP39c2:Adding/Modifying Core Units (Subproposal Process)**
-The process for adding new Core Units to the DAO primitives State or modifying already existing ones.
+The process for adding new Core Units to the DAO Primitives State or modifying already existing ones.
 
 **MIP39c3:  Removing Core Units (Subproposal Process)**
-The process for removing Core Units in the DAO primitives State.
+The process for removing Core Units in the DAO Primitives State.
 
 ## Motivation
 
-As the Foundation dissolves, MakerDAO must take over the tasks and responsibilities no longer fulfilled. We believe MakerDAO's current structure is too ill-defined to be able to integrate these successfully. A new scheme is needed for MakerDAO to achieve this crucial integration on its way to full autonomy.
+As the Foundation dissolves, MakerDAO must take over the tasks and responsibilities no longer fulfilled by its absence. We believe MakerDAO's current structure is too ill-defined to integrate these additional objectives successfully. A new scheme is needed for MakerDAO to achieve this crucial integration on its way to full autonomy.
 
-Core Units are DAO Primitives designed to be easy-to-transition-to and capable of accommodating both the current structures and the Foundation's newly delegated operations within a coherent framework.
+Core Units are DAO Primitives designed to be easy to transistion to, capable of accomodating the DAO's current structures, and handling the newly-delegated operations from the Foundation within a signle coherent framework.
 
-Core Units define long-term work areas and cover a broad set of responsibilities or focus. They are the basic units of work that Maker Governance is able to oversee, manage and prioritize.
+Core Units define long-term work areas and have a broad set of responsibilities and focuses. They are the basic units of "work" that Maker Governance is able to oversee, manage, and prioritize.
 
 ## Specification / Proposal Details
 
