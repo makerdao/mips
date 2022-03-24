@@ -85,7 +85,7 @@ IS-001 may choose to adopt a new severity system if it deems it to be better for
 
 #### Accepted Impacts
 
-Only the following impacts would be considered as in-scope for the bug bounty program. All other bug reports of course may still be reported directly to the respective Core Units outside of the bug bounty program.
+As a starting point, only the following impacts would be considered as in-scope for the bug bounty program. However, the published bug bounty program is authoritative when there are differences. Modifications are at the discretion of IS-001 in concert with feedback from steward core units. All other bug reports, of course, may still be reported to the respective Core Units outside of the bug bounty program.
 
 #### Smart Contracts
 
