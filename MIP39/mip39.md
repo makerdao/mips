@@ -29,7 +29,7 @@ MIP39: Core Unit Framework contains a framework for managing Core Units and modi
 
 ## Paragraph Summary
 
-MIP39: Core Unit Framework contains a framework for managing Core Units and modifying them in the DAO Primitives State MIP. The Core Unit is the basic building block for organizing work for the DAO. It denotes the particular long-term objectives that Maker Governance has decided are neccessary for the protocol to be secure and successful.
+MIP39: Core Unit Framework contains a framework for managing Core Units and modifying them in the DAO Primitives State MIP. The Core Unit is the basic building block for organizing work for the DAO. It denotes particular long-term objectives that Maker Governance has decided for the protocol to be secure and successful.
 
 ## Component Summary
 
@@ -44,11 +44,11 @@ The process for removing Core Units in the DAO Primitives State.
 
 ## Motivation
 
-As the Foundation dissolves, MakerDAO must take over the tasks and responsibilities no longer fulfilled by its absence. We believe MakerDAO's current structure is too ill-defined to integrate these additional objectives successfully. A new scheme is needed for MakerDAO to achieve this crucial integration on its way to full autonomy.
+As the Foundation dissolves, MakerDAO must take over the tasks and responsibilities no longer fulfilled. We believe MakerDAO's current structure is too ill-defined to be able to integrate these successfully. A new scheme is needed for MakerDAO to achieve this crucial integration on its way to full autonomy.
 
-Core Units are DAO Primitives designed to be easy to transistion to, capable of accomodating the DAO's current structures, and handling the newly-delegated operations from the Foundation within a signle coherent framework.
+Core Units are DAO Primitives designed to be easy-to-transition-to and capable of accommodating both the current structures and the Foundation's newly delegated operations within a coherent framework.
 
-Core Units define long-term work areas and have a broad set of responsibilities and focuses. They are the basic units of "work" that Maker Governance is able to oversee, manage, and prioritize.
+Core Units define long-term work areas and cover a broad set of responsibilities or focus. They are the basic units of work that Maker Governance is able to oversee, manage and prioritize.
 
 ## Specification / Proposal Details
 
@@ -56,7 +56,7 @@ Core Units define long-term work areas and have a broad set of responsibilities 
 
 **What is a Core Unit?**
 
-A Core Unit is a structure that: has a budget attached to it, is managed by one or more Facilitators, pays and coordinates the Core Unit's Contributors, and is focused on achieving a defined long-term goal within MakerDAO.
+A Core Unit is a structure that has a budget attached to it, managed by one or more Facilitators, that coordinate and pay contributors working to achieve a long-term goal within MakerDAO.
 
 Core Units are proposed by community members and voted on by Maker Governance. Each Core Unit may have a budget (MIP40). The Facilitators (MIP41) of a Core Unit may have additional permissions over the Maker Protocol or Governance Processes depending on their Core Unit's nature.
 
@@ -64,11 +64,11 @@ Core Units are proposed by community members and voted on by Maker Governance. E
 
 Core Unit Mandates set the direction of the work that Facilitators must help carry out by using their budget and exercising their Governance Powers.
 
-Mandates should be high-level, and avoid trying to micromanage the Core Unit processes. Instead they should be broad, open-ended, and give room for manoeuvre so as to not stifle the Facilitators' ability to come up with innovative solutions and more efficient processes.
+Mandates should be high-level and avoid trying to micromanage the Core Unit processes; instead, they should be broad, open-ended and give room for manoeuvre so as not to stifle the Facilitators' ability to come up with innovative solutions and efficient processes.
 
 When proposing to be onboarded to a given Core Unit, Mandates can be regarded as "questions" for Facilitators to "answer" with their Facilitator Commitment (MIP41).
 
-Mandates from different Core Units can overlap. This promotes redundancy and helps parallelize and decntralize work done within the DAO.
+Mandates from different Core Units can overlap to create redundancy and parallelize and decentralize work within the DAO.
 
 **Core Objectives and Domains**
 
@@ -86,7 +86,7 @@ This subproposal process allows Governance to create or modify an existing Core 
 
 > Care should be taken so that names and Mandates don't end up drifting apart from each other.
 
-Once a subproposal is approved, the Governance Facilitator or the MIP Editor modifies the DAO Primitives State (MIP38) to append a new entry with the Core Unit specified in the subproposal. The Operational Support Core Unit, MIP Editor, or Governance Facilitator, will also assign a Core Unit ID (e.g.: `GOV1`) to uniquely identify the given Core Unit.
+Once a subproposal is approved, the Governance Facilitator or the MIP Editor modifies the DAO Primitives State (MIP38) to append a new entry with the Core Unit specified in the subproposal. The Operational Support Core Unit, or the MIP Editor or Governance Facilitator, will also assign a Core Unit ID (e.g.: `GOV1`) to uniquely identify the given Core Unit.
 
 The proposal parameters are:
 - Minimum Feedback Period: 1 Month.
