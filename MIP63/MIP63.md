@@ -122,6 +122,25 @@ Network Name: TechOps
 - Address: N/A
 - Date Added: [2022-2-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP1.md)
 
+Network Name: Keep3r Network
+- Short Name: KEEP3R
+- Budget: 0 DAI/Day
+- Buffer Min: N/A
+- Buffer Max: N/A
+- Chain: All
+- Address: N/A
+- Date Added: [2022-3-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP2.md)
+
+Network Name: Gelato Network
+- Short Name: GELATO
+- Website: https://app.gelato.network/
+- Budget: 1,000 DAI / day
+- Buffer Min: 4,000 DAI
+- Buffer Max: 20,000 DAI
+- Chain: All
+- Address: 0x926c21602fec84d6d0fa6450b40edba595b5c6e4
+- Date Added: [2022-3-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP3.md)
+
 ### MIP63c6: Offboard Keeper Network
 
 
