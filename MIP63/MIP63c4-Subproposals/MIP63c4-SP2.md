@@ -8,9 +8,11 @@ Title: Onboard/Amend Keeper Network - Keep3r Network
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: keeper-network
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-01-20
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2022-03-28
+Ratification Poll URL: https://vote.makerdao.com/polling/QmaEfChz?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip63c4-sp2-onboard-amend-keeper-network-keep3r-network/12748
 ```
 
 ## Specification

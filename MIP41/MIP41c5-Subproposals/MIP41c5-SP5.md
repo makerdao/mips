@@ -7,9 +7,11 @@ MIP41c5-SP#: 5
 Author(s): Deimos
 Contributors:
 Tags: personnel-xboarding
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2022-02-09
-Date Ratified:
+Date Ratified: 2022-03-28
+Ratification Poll URL: https://vote.makerdao.com/polling/QmV3Lem7?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip41c5-sp5-facilitator-offboarding/13005
 ```
 
 ## Sentence Summary
