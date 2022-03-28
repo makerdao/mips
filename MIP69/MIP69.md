@@ -27,7 +27,7 @@ This MIP formalises technical work completed to deliver Fast Withdrawals on Laye
 
 Teleporting DAI from L2 to L1 is known as a “Fast Withdrawal”. To complete a fast withdrawal, DAI is burnt on L2, minted on L1, and sent to the user as soon as the L2 transaction is confirmed.
 
-This MIP focuses on the above L2 to L1 transaction. L2 to L2 transactions will be defined in a future MIP when the full wormhole functionality is ready to be launched.
+This MIP focuses on the above L2 to L1 transaction. L2 to L2 transactions will be defined in a future MIP when the full Wormhole functionality is ready to be launched.
 
 ## Component Summary
 
@@ -39,26 +39,38 @@ Increase user adoption by allowing users to withdraw L2 funds near instantly by 
 
 ## Specification
 
-### Terminology: Domains, Gateways and Wormhole Router
+### Definitions
 
-On L1, each Domain must be associated with a Gateway, which is a contract that supports `requestMint()` and `settle()` operations. For any L2 Domain, Gateway is a bridge from L1 -> L2, whereas for the L1 Domain, Gateway is the `WormholeJoin` adapter contract.
+* A “Domain” represents a chain such as Ethereum, Optimism, Arbitrum, etc.
+* A “Gateway” is a generic term for either side of a bridge or wormhole adapter that connects Domains together.
+* A “Wormhole Router” keeps track of each Domain’s Gateway and routes `requestMint()` or `settle()` requests to the appropriate contracts.
 
-The Wormhole Router keeps track of each Domain's Gateway and routes `requestMint()` or `settle()` requests to the appropriate contracts.
+**Contract Interaction Details:**
+
+* Each Domain connected to an L1 requires a Gateway contract supporting `requestMint()` and `settle()` operations to set the amount of DAI.
+
+### Fast Withdrawal Fees
+
+* PECU is proposing to set the Fast Withdrawal fee to 0.
+
+**Additional Details:**
+
+The fee, if Governance chooses to apply it, is currently an absolute amount, and is levied per Domain. This could be upgraded in the future if the need arises. This fee is only applied to fast withdrawals. The slow withdrawal bridge, which requires a 7 day wait will continue to function without fees even if fees are introduced for Fast Withdrawals.
 
 ### Roles
 
 * **Initiator** - person initiating DAI transfer by calling `initiateWormhole` . They can optionally specify Operator and Receiver
-* **Operator** - person (or specified third party) responsible for initiating minting process on destination domain by providing (in the fast path) Oracle attestations. Can call `requestMint` on `WormholeOracleAuth`
-* **Receiver** - person receiving minted DAI on a destination domain
+* **Operator** - person (or specified third party) responsible for initiating minting process on destination Domain by providing (in the fast path) Oracle attestations. Can call `requestMint` on `WormholeOracleAuth`
+* **Receiver** - person receiving minted DAI on a destination Domain
 
 ### Architecture
 Referencing previously shared information from our [Introducing Maker Wormhole](https://forum.makerdao.com/t/introducing-maker-wormhole/11550) post, the following diagram details interactions where 3 users seek to make DAI withdrawals to L1.
 
-![](https://github.com/makerdao/mips/blob/master/MIP69/supporting-materials/architecture.png)
+![](https://github.com/makerdao/mips/blob/master/MIP69/architecture.png)
 
 Instead of the current approach of initiating an L2 → L1 message, the system will emit an event on L2 of the user’s intent. The L2 DAI will be burnt, and a storage slot will be marked for the Checkpoint Slow Fallback contract. The Maker Oracle Network will attest to the finality and validity of the L2 transaction and operators will watch to provide signed attestations. Users will be able to query for these attestations and provide them to the Oracle Fast Withdrawal contract for authentication.
 
-Where authentication is successful, the new DAI will be minted and sent to the user, assuming the wormhole adapter has enough Debt Ceiling available. In the event that the oracle network is not available for any reason, it will be necessary to provide an on-chain fallback by relying on the slow withdrawal fraud proof. Both of these scenarios have been broken out into further detail below.
+Where authentication is successful, the new DAI will be minted and sent to the user, assuming the Wormhole adapter has enough Debt Ceiling available. In the event that the oracle network is not available for any reason, it will be necessary to provide an on-chain fallback by relying on the slow withdrawal fraud proof. Both of these scenarios have been broken out into further detail below.
 
 ### Normal (fast) path
 
@@ -92,7 +104,7 @@ If attestations cannot be obtained (Oracles down or censoring), user needs to wa
 * Relays `finalizeRegisterWormhole()`  message to `L1Bridge`
 * `L1Bridge` upon receiving `finalizeRegisterWormhole()` will call `requestMint()` on `WormholeRouter` which will:
     * Call `WormholeJoin.requestMint(wormholeGUID, maxfeePercentage, operatorFee)` which will
-        * Check if this wormhole hasn't been used before
+        * Check if this Wormhole hasn't been used before
         * Check if the debt ceiling hasn't been reached
         * Check the current fee via `WormholeFees`
         * `vat.slip`, `vat.frob`, `daiJoin.exit`
@@ -122,7 +134,7 @@ Authorizations over the following functions are detailed below:
 
 ## L2 Domains
 
-The initial deployment of fast withdrawals will include the following domains:
+The initial deployment of fast withdrawals will include the following Domains:
 * Optimism
 * Arbitrum
 

@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-SP#: 64
+MIP40c3-SP#: 64
 Author(s): Tomek Mierzwa (@tmierzwa), Tadeo (@tadeo), Piotr (@piotr.kils)
 Contributors:
 Tags: core-unit, cu-din-001, budget
@@ -15,17 +15,18 @@ Forum URL: https://forum.makerdao.com/t/mip40c3-sp64-add-data-insights-core-unit
 
 ## Sentence Summary
 
-This subproposal adds the budget for Data Insights Core Unit. It's a regular **monthly** budget of **88,600.00 DAI** from **May 2022 until April 2023**, included.
+This subproposal adds the budget for Data Insights Core Unit. It's a regular **monthly** budget of **90,250.00 DAI** from **May 2022 until April 2023**, included.
 
 ## Paragraph Summary
 MIP40c3-SP64 adds the budget for Data Insights Core Unit (DIN-001) to account for the [new mandate](https://forum.makerdao.com/t/mip39c2-sp31-update-data-insights-core-unit-mandate/13790) that expands on the initial mission to maintain the existing data assets and build new datasets to cover L2s, RWAs, and puts a special focus on the community.
 
 The main changes are the following:
-- 59,500 DAI --> 88,600.00 DAI per month (+49%)
+- 59,500 DAI --> 90,250.00 DAI per month (+52%)
 - 6 month budget --> 12 month budget
 - Team headcount increase
 - Expansion Pool
 - MKR vesting program
+- Travel budget
 
 ## Specification
 
@@ -37,7 +38,7 @@ The previous mandate was defined as a kind of Proof of Concept to validate the n
 
 The new mandate expands on the initial mission to build completely new datasets to cover L2s, RWAs, and puts a special focus on the community.
 
-This budget represents a 49% increase (59,500.00 DAI to 88,600.00 DAI per month) from the [previous budget](https://forum.makerdao.com/t/mip40c3-sp34-add-data-insights-core-unit-budget-din-001/10210). The Data Insights Core Unit currently consists of three full-time members and one part-time facilitator. We have just hired one full-time member and we are planning to increase our workforce by an additional 1-2 contributors in the near future.
+This budget represents a 52% increase (59,500.00 DAI to 90,250.00 DAI per month) from the [previous budget](https://forum.makerdao.com/t/mip40c3-sp34-add-data-insights-core-unit-budget-din-001/10210). The Data Insights Core Unit currently consists of three full-time members and one part-time facilitator. We have just hired one full-time member and we are planning to increase our workforce by an additional 1-2 contributors in the near future.
 
 ### Core Unit ID
 
@@ -78,7 +79,7 @@ We plan to adhere to the upcoming SES Ecosystem Performance initiative, making o
 The budget has been designed re-using mechanisms implemented by other Core Units to enable greater transparency and standardisation throughout the DAO. We deeply appreciate their work, in particular that of SES.
 
 ### Dai Expenditure
-We are asking for a Quarterly Budget Cap of $271,800.00 DAI. The cap refers to the maximum that the Core Unit can request for operating and it includes room for unforeseen circumstances.
+We are asking for a **Annual Budget Cap of 1,083,000.00 DAI**. The cap refers to the maximum that the Core Unit can request for operating and it includes room for unforeseen circumstances.
 
 The distribution of budget across these components is shown below:
 
@@ -92,12 +93,13 @@ The distribution of budget across these components is shown below:
 |- AWS infrastructure|DAI 1,000.00|
 |- Snowflake subscription|DAI 2,000.00|
 | - Other subscriptions | DAI 100.00 |
-|**Operational costs**|**DAI 3,500.00**|
+|**Operational costs**|**DAI 5,150.00**|
 |- Finance, admin |DAI 3,500.00|
+|- Travel |DAI 1,650.00|
 |**Expansion Pool**|**DAI 25,000.00**|
 
 
-The total monthly budget asked for is **DAI 88,600.00** for the 12 months period from **May 2022 until April 2023**, included.
+The total monthly budget asked for is **DAI 90,250.00** for the 12 months period from **May 2022 until April 2023**, included.
 
 ### Expansion Pool
 We want to be fully transparent but also very flexible to meet the future demands of the protocol. With that in mind, we want to request a dedicated pool of funds that will be used for a variety of purposes, all of them with the goal of increasing the value delivered to the protocol.
@@ -184,4 +186,4 @@ We are currently investigating the best way to implement additional wallet secur
 ####  Transfers
 
 * unused Incorporation Budget (**10,000.00 DAI**) and other unused funds from existing monthly budget (**est. 45,000.00 DAI**) will be returned to the protocol not later than on 2022-05-10
-* the total of **1,063,200 DAI** will be streamed to 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F starting 2022-05-01 and ending 2023-04-30 at a rate of **88,600.00 DAI** per month
+* the total of **1,083,000.00 DAI** will be streamed to 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F starting 2022-05-01 and ending 2023-04-30 at a rate of **90,250.00 DAI** per month

@@ -11,6 +11,7 @@ Tags: mip-amendment
 Status: RFC
 Date of Amendment Submission: 2022-03-09
 Date of ratification: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip4c2-sp18-mip7-amendments/13788
 ```
 ## Specification
 
@@ -27,4 +28,4 @@ Due to the expansion of the MakerDAO Core Units (CU) and the focus on crypto nat
 
 ### Amendment Pull Request
 
-- TODO: A link to the PR containing the amendment.
+- [PR containing the amendment.](https://github.com/makerdao/mips/pull/489)

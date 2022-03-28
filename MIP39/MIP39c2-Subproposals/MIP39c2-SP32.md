@@ -10,6 +10,7 @@ Tags: core-unit, cu-events-001, proposal, mandate,
 Status:RFC
 Date Applied: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
 ```
 ## Sentence Summary
 
@@ -18,7 +19,7 @@ MIP39c2-SP32 adds the Events Core Unit (EVENTS-001) to coordinate and execute Ma
 
 ## Paragraph Summary
 
-The Events Core Unit will handle planning, organization, and execution of MakerDAO branded events.  Our vision is to use an exhaustive list of themes, visuals, set dressing, technology and branding to carry out events to the highest standards for the MakerDAO community. 
+The Events Core Unit will handle planning, organization, and execution of MakerDAO branded events.  Our vision is to use an exhaustive list of themes, visuals, set dressing, technology and branding to carry out events to the highest standards for the MakerDAO community.
 
 ## Specification
 
@@ -86,7 +87,7 @@ Thirty seconds recap 2: https://youtu.be/fpoWT5HqMP8
 
 ### ETH Denver Summary
 
-During the 2022 ETH Denver conference, the first MakerDAO branded event “DAIvinity” was trialed at The Church Nightclub to great fanfare.  The team planned and executed an event full of Maker branding including LED logos, digital Maker & DAI branded animations to the attendance of 1.000 people.  Additionally two internationally recognized DJs were curated for the night, [Miss Monique](https://www.youtube.com/channel/UClIIy-aQBXRi1OHupBcrjJw) & [Sean Tyas](https://en.wikipedia.org/wiki/Sean_Tyas).  Since the event, the buzz from the community has been unanimously lauding, with [Bankless even giving the event a formidable shout out](https://newsletter.banklesshq.com/p/8-things-you-missed-at-ethdenver-ab5?utm_source=url). 
+During the 2022 ETH Denver conference, the first MakerDAO branded event “DAIvinity” was trialed at The Church Nightclub to great fanfare.  The team planned and executed an event full of Maker branding including LED logos, digital Maker & DAI branded animations to the attendance of 1.000 people.  Additionally two internationally recognized DJs were curated for the night, [Miss Monique](https://www.youtube.com/channel/UClIIy-aQBXRi1OHupBcrjJw) & [Sean Tyas](https://en.wikipedia.org/wiki/Sean_Tyas).  Since the event, the buzz from the community has been unanimously lauding, with [Bankless even giving the event a formidable shout out](https://newsletter.banklesshq.com/p/8-things-you-missed-at-ethdenver-ab5?utm_source=url).
 ### Venue
 ETH Denver gave a great opportunity to host the MakerDAO event at the famous Church venue.  The venue is internationally acclaimed and recognized in the DJ community.
 
@@ -127,10 +128,10 @@ The major events are targeted to the largest attended conferences.  These have b
 ### Minor Events
 
 The 2 minor events are planned in between the major events.  The Events team will consult closely with the Maker community and other Core Units to determine the most effective locations. Attendance to minor conferences is uncertain until 1 to 2 months before the conference so the Events team will have to adjust accordingly.  During the incubation of this Core Unit, ETH Amsterdam was identified as a minor event location.  The event is currently being planned and executed during the date range of April 20-24, 2022.  
-	
+
 
 ## Core Unit Team
-The Events CU team has been carefully curated to include expertise and skills to execute the ambitious vision of the MakerDAO events.  First and foremost is precision organization and execution of all aspects related to the events.  The Event Manager must be highly effective at communication and planning while remaining flexible to accommodate and resolve any unforeseen issues during the event execution.  The Event Manager will be the first point contact for event personnel and contractors.  This will ensure communication is consistent, clear and effective. 
+The Events CU team has been carefully curated to include expertise and skills to execute the ambitious vision of the MakerDAO events.  First and foremost is precision organization and execution of all aspects related to the events.  The Event Manager must be highly effective at communication and planning while remaining flexible to accommodate and resolve any unforeseen issues during the event execution.  The Event Manager will be the first point contact for event personnel and contractors.  This will ensure communication is consistent, clear and effective.
 
 The goal of the Events team is to be as vertically integrated as possible which is why the team has included a mechanical engineer role in the CU.  The engineer will be responsible for all technical aspects and coordination of visual elements, LED lighting and other event installations.  The engineer will additionally be responsible for the design and manufacturing of set dress, including LED lighting.   Safety analysis of rigging/installations would be performed by the engineer to ensure compliance with any local safety requirements or authorities.
 
@@ -139,11 +140,11 @@ The goal of the Events team is to be as vertically integrated as possible which 
 * 	Facilitator/Mechanical Engineer: Jon Perry - Forum: @PonJerry
 
 
-| Role | FTE | 
-| -------- | -------- | 
-| Event Manager     | 1    | 
-| Facilitator/Mechanical Engineer     | 1    | 
- 
+| Role | FTE |
+| -------- | -------- |
+| Event Manager     | 1    |
+| Facilitator/Mechanical Engineer     | 1    |
+
 ### Role Definitions
 #### Core Unit Facilitator
 * Communications with Governance and MakerDAO Community

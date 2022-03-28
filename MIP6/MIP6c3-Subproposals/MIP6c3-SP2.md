@@ -1,9 +1,9 @@
-# MIP6c3-SP2: Subproposal for changing the collateral application form
+# MIP6c3-SP2: Modify the collateral application form
 
 ## Preamble
 
 ```
-MIP6c3-SP#: 2
+MIP6c3-SP: 2
 Title: Subproposal for changing the collateral application form
 Author(s): @lollike, @monkey.irish
 Contributors:
@@ -19,11 +19,11 @@ Forum URL: https://forum.makerdao.com/t/mip6c3-sp2-modify-the-collateral-applica
 
 ### Motivation
 
-Since the inception of [MIP6](https://mips.makerdao.com/mips/details/MIP6), MakerDAO and Core Units involved in collateral onboarding have gained a lot of insights from onboarding new collateral types into the Maker Protocol. These insights allow us to better understand what collateral types are desirable for MakerDAO from a risk, cost and revenue perspective.
+Since the inception of [MIP6](https://mips.makerdao.com/mips/details/MIP6), MakerDAO and Core Units involved in collateral onboarding have gained a lot of insights from onboarding new collateral types into the Maker Protocol. These insights allow us to better understand what collateral types are desirable for MakerDAO from a risk, cost, and revenue perspective.
 
 Furthermore, analyzing the past work has allowed us to more precisely estimate the amount of work and cost of onboarding and continuously maintain collateral types in the Maker Protocol.
 
-In addition, CES has analyzed previous domain team assessments and have solicited general input from said domain teams to understand what data is necessary for them to make an informed assessment. According to Core Units involved in the collateral onboarding process, the majority of the assets that were greenlit by the MakerDAO community are not fit for onboarding. This is a symptom of a lack of relevant information to make an informed decision.
+In addition, CES has analyzed previous domain team assessments and has solicited general input from said domain teams to understand what data is necessary for them to make an informed assessment. According to Core Units involved in the collateral onboarding process, the majority of the assets that were greenlit by the MakerDAO community are not fit for onboarding. This is a symptom of a lack of relevant information to make an informed decision.
 
 The conclusion of this analysis by CES and Collateral Management Onchain (CMON) Stakeholders is that the current application template does not contain all necessary information for Core Units or MakerDAO to make an initial informed decision whether or not a collateral type should be greenlit. This leads to Core Units and the general MakerDAO community having to spend time searching for information, rather than just verifying the correctness of data presented upfront.
 
@@ -31,7 +31,7 @@ The goal is therefore to amend the collateral application template to contain re
 
 Comparing applications based on the new application template with the (soon to come) recommended metrics should therefore give the MakerDAO community a much better framework for assessing collateral applications.
 
-**Please note, the questions in the application template applying to RWA collateral onboarding applications will remain unchanged.**
+**Please note, the questions in the application template applying to RWA collateral onboarding applications will remain unchanged. For clarity, the RWA MIP6 applications would include the proposed application questions in this MIP in addition to the existing RWA questions currently in the application template.**
 
 ### List of Changes to Application Questions
 
@@ -53,8 +53,8 @@ The template has been rearranged and grouped into new sections. Therefore the en
 9. Provide data on the current (and future, e.g. through vesting) token distribution.
 10. Where does exchange for the asset occur?
     1. On how many exchanges is the asset listed on? List them.
-    2. For centralized exchanges provide data on liquidity, volume and order book depth.
-    3. For decentralized exchanges provide data on available liquidity, volume and order book depth.
+    2. For centralized exchanges provide data on liquidity, volume, and order book depth.
+    3. For decentralized exchanges provide data on available liquidity, volume, and order book depth.
 11. List any possible oracle data sources for the proposed collateral type.
 12. List any parties interested in taking part in liquidations for the proposed collateral type.
 
