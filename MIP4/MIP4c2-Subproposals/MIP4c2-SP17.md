@@ -8,9 +8,11 @@ MIP to be amended: MIP64, MIP40c3-SP42
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: mip-amendment
-Status: Formal Submission
+Status: Accepted
 Date of Amendment Submission: 2022-01-26
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2022-03-28
+Ratification Poll URL: https://vote.makerdao.com/polling/QmRdVByP?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip4c2-sp17-rapid-payment-for-small-bug-bounties-mip64-mip40c3-sp42-amendment/12869
 ```
 ## Specification
 
