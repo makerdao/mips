@@ -6,7 +6,7 @@
 MIP40c3-SP#: 61
 Author(s): @williamr
 Contributors: @juan, @wouter
-Tags: core-unit, cu-rwf-001, budget, dai-budget
+Tags: core-unit, cu-rwf-001, budget, dai-budget, active
 Status: Accepted
 Date Applied: 2022-02-09
 Date Ratified: 2022-03-28
