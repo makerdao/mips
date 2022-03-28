@@ -8,7 +8,7 @@ Author(s): @Nadia
 Contributors:
 tags: core-unit, cu-gro-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-06-08
+Date Proposed: 2021-06-08
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmQDJUkr?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp19-growth-core-unit-budget-gro-001/8643

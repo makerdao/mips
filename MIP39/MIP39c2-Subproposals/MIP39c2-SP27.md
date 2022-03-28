@@ -8,7 +8,7 @@ Author(s): @Aes
 Contributors: @SebVentures
 Tags: core-unit, cu-sf-001, mandate, active
 Status: Accepted
-Date Applied: 2021-12-01
+Date Proposed: 2021-12-01
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp27-adding-strategic-finance-core-unit/11938
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt

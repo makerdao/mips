@@ -8,7 +8,7 @@ Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
 Tags: core-unit, cu-gro-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-02-24
+Date Proposed: 2021-02-24
 Date Ratified: 2021-04-27
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-april-2021-governance-cycle-april-26-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp4-core-unit-budget-gro-001/6716

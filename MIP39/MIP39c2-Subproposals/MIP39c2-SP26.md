@@ -8,7 +8,7 @@ Author(s): Akiva Dubrofsky, Avtar Singh Sehra, Ashwin Tumne
 Contributors: Pairwyse Foundation
 Tags: core-unit, cu-pair-001, mandate
 Status: RFC
-Date Applied: 2021-10-22
+Date Proposed: 2021-10-22
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp26-adding-pairwyse-fixed-rate-core-unit/11150
 ```

@@ -8,7 +8,7 @@ Author(s): @bainpmsdf
 Contributors:
 Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
 Status: Accepted
-Date Applied: 2022-01-11
+Date Proposed: 2022-01-11
 Date Ratified: 2022-02-28
 Extra: Voluntary offboarding. Ratification date was set to the date the successor was voted in via MIP41c4-SP32
 ```

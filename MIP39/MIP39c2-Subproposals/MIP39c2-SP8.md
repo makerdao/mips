@@ -8,7 +8,7 @@ Author(s): David Utrobin
 Contributors: Tim Black
 Tags: core-unit, cu-com-001, mandate, active
 Status: Accepted
-Date Applied: 2021-03-12
+Date Proposed: 2021-03-12
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcZSQnc?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp8-governance-communications-core-unit-com-001-updated-5-26-21/7009

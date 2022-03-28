@@ -8,7 +8,7 @@ Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
 Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-05-29
+Date Proposed: 2021-05-29
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbLa1Wm?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp21-modify-core-unit-budget-mkt-001/8427

@@ -8,7 +8,7 @@ Author(s):
 Contributors:
 Tags: template
 Date of Submission: <yyyy-mm-dd>
-Date of Ratification: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ```
 ## Specification
     

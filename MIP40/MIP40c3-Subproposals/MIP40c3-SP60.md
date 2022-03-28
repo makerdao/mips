@@ -8,7 +8,7 @@ Author(s): @prose11, @LongForWisdom, @Patrick_J
 Contributors: @blimpa, @gala
 Tags: core-unit, cu-gov-001, budget, mkr-budget
 Status: Accepted
-Date Applied: 2022-02-09
+Date Proposed: 2022-02-09
 Date Ratified: 2022-03-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmefuvKL?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp60-modify-govalpha-core-unit-mkr-budget/13145

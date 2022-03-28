@@ -8,7 +8,7 @@ Author(s): @juanjuan
 Contributors:
 Tags: core-unit, cu-ses-001, active, facilitator
 Status: Accepted
-Date Applied: 2021-04-07
+Date Proposed: 2021-04-07
 Date Ratified: 2021-05-25
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370
