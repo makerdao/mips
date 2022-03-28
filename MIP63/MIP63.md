@@ -8,7 +8,7 @@ Title: Maker Keeper Network
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Tags: technical, process, liquidations
+Tags: technical, process, liquidations, living
 Status: Accepted
 Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
