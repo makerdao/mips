@@ -10,6 +10,7 @@ tags: core-unit, cu-sh-001, budget, mkr-budget, dai-budget
 Status: RFC
 Date Applied: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805
 ```
 
 ## Sentence Summary

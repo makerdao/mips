@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP#: MIP66
+MIP#: 66
 Title: Pairwyse Licensure
 Author(s): [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:ashwin@akiva.capital), [Avtar Sehra](mailto:avtar@nivaura.com)
 Contributors: [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:ashwin@akiva.capital), [Avtar Sehra](mailto:avtar@nivaura.com)
@@ -53,7 +53,7 @@ Decentralization is the bedrock of DeFi. Centralization weakens its foundations.
 
 The combination of vested interests in an open protocol, alongside issues related to ip/patent infringement risks, has the potential to block and prevent future DeFi innovations and uptake of new products. Such a scenario is detrimental not just for the individual projects building on Maker but also for the wider adoption of a DeFi economy.
 
-As a result, to overcome these emerging ecosystem risks, and with intent to remove Patent barriers from DeFi, our current discussions with the DAI Foundation and MKR delegates have centered on licensing Pairwyse assets and technologies for best return to Maker and its ecosystem. Accordingly, we designed our proposal with full and respectful intent to create and foster friction-free innovation amongst Pairwyse, Deco and all open source innovators.
+As a result, to overcome these emerging ecosystem risks, and with intent to remove Patent barriers from DeFi, our current discussions with the DAI Foundation and delegates have centered on licensing Pairwyse assets and technologies for best return to Maker and its ecosystem. Accordingly, we designed our proposal with full and respectful intent to create and foster friction-free innovation amongst Pairwyse, Deco and all open source innovators.
 
 We describe in this post our technology, analysis and business proposal to Maker stakeholders. Our proposal includes making an Open Patent Non-Assertion Pledge upon proposal approval that legally binds Pairwyse Foundation and its innovation affiliates to (1) fully commit to open source innovation; (2) remove Patent barriers to open source innovation by others, regardless of whether their outputs are complementary or competitive to Pairwyse. The proposed Pledge from Pairwyse will be modeled on [Google’s Open Patent Non-Assertion Pledge](https://www.google.com/patents/opnpledge/pledge/), which would restrict the Pledged Patents of the Pairwyse Foundation and its listed affiliates to only a defensive posture in the event of legal proceedings initiated by others. This removes all offensive patent risk to open source innovators, according to the definitions and declarations in the proposed Pledge.
 
@@ -72,21 +72,21 @@ Upon approval of this MIP by MKR holders followed by its execution by MakerDAO, 
 
 **Pairwyse Technology**
 
-![Decentralized Market-Place](https://github.com/makerdao/mips/blob/master/MIP66/supporting_materials/decentralized-fixed-rate-marketplace.png)
+![Decentralized Market-Place](https://github.com/makerdao/mips/blob/master/MIP66/decentralized-fixed-rate-marketplace.png)
 
 Pairwyse is a non-custodial money market platform built atop the Maker protocol. Pairwyse smart contracts allow borrowers and lenders to enter into fixed-rate lending Agreements through a peer-to-peer marketplace mechanism.
 
 Pairwyse smart contracts insulate DAI lenders and borrowers from volatilities in DAI stability fee and savings rates, which are historically high in periods of crypto market and economic turbulence. Pairwyse’s P2P design serves to strongly reinforce scalable decentralized provisioning of DAI fixed-rates on Maker.
 
-![Decentralized Market-Place](https://github.com/makerdao/mips/blob/master/MIP66/supporting_materials/ethereum-network.png)
+![Decentralized Market-Place](https://github.com/makerdao/mips/blob/master/MIP66/ethereum-network.png)
 
 Pairwyse settles fixed-rate loan agreements (FRAs) on the Maker protocol using smart contract-based escrow management of CDP vault and DSR deposit instruments. Borrowers can initiate an FRA on an existing vault or create a new vault during onboarding. The lending term is initiated upon Lender matching of loan principal, upon which the Pairwyse protocol performs a continuous cash rebalancing between borrower and lender. This continuous rebalancing produces a net and constant fixed-rate for both parties across the full length of the term.
 
-![FRAs Scheme](https://github.com/makerdao/mips/blob/master/MIP66/supporting_materials/FRAs-scheme.png)
+![FRAs Scheme](https://github.com/makerdao/mips/blob/master/MIP66/FRAs-scheme.png)
 
 In addition to Pairwyse smart contracts, we’ve also built a front-end Web3 app ([pairwyse.io](https://pairwyse.io/)) allowing borrowers and lenders to onboard onto Pairwyse loan agreements using a staged workflow. In addition, the JS library can be abstracted as an SDK to create alternative interfaces for user onboarding customized to MakerDAO’s marketing and client servicing needs.
 
-![Web3 App](https://github.com/makerdao/mips/blob/master/MIP66/supporting_materials/web3app.jpeg)
+![Web3 App](https://github.com/makerdao/mips/blob/master/MIP66/web3app.jpeg)
 
 Pairwyse smart contracts can be (a) readily integrated with Maker protocol; (b) operationalized through Maker’s existing protocol automation infrastructure; and (c) made accessible to users either via Maker’s existing portals (e.g. Oasis) or new on-boarding interfaces/platforms as Maker sees fit.
 
@@ -100,7 +100,7 @@ Pairwyse has been built with extensive QA testing. In addition to an ongoing Sec
 
 The Pairwyse protocol specifically solves the [impossible trinity](https://en.wikipedia.org/wiki/Impossible_trinity) for MakerDAO by creating a fixed-rate marketplace for borrowers and lenders without restricting Maker’s use of floating rates and market-driven capital flows to maintain the DAI peg and grow its supply.
 
-![Impossible Trinity](https://github.com/makerdao/mips/blob/master/MIP66/supporting_materials/impossible-trinity.png)
+![Impossible Trinity](https://github.com/makerdao/mips/blob/master/MIP66/impossible-trinity.png)
 
 In addition to helping solve the impossible trinity for Maker, the Pairwyse P2P protocol also provides an effective independence layer, creating a buffer between Maker’s decentralized protocol and potentially-regulated lending and borrowing entities (e.g. registered broker-dealers).
 
@@ -135,7 +135,7 @@ Beyond Pairwyse, this combination of vested interests in an open protocol, along
 
 Such a scenario is detrimental not only for various projects currently building on Maker but can set unintended consequences for the growth and adoption of DeFi, particularly around real world assets.
 
-As a consequence, to overcome these emerging ecosystem risks we have entered into early discussions with the DAI Foundation and MKR delegates centering on licensing Pairwyse assets and technologies for best returns and assurances to Maker and its wider ecosystem.
+As a consequence, to overcome these emerging ecosystem risks we have entered into early discussions with the DAI Foundation and delegates centering on licensing Pairwyse assets and technologies for best returns and assurances to Maker and its wider ecosystem.
 
 Accordingly, our proposed licensing structure will specifically include an Open Patent Non-Assertion Pledge, which upon MKR holder approval of this proposal, will legally bind the Pairwyse Foundation and its affiliate partner, Akiva Capital Holdings, Inc., to commit Pairwyse software and IP to full open source development, removing with it any IP-related barrier or friction to innovation by other open source projects. We describe in the next section below our licensing proposal and tentative IP pledge.
 

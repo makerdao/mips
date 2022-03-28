@@ -90,7 +90,7 @@ Here is a strawman solution - purely for example and reference:
 
 We have designed the process in overview as follows:
 
-![|train-schedule](https://github.com/makerdao/mips/blob/master/MIP65/supporting_materials/train-schedule.png)
+![|train_schedule](https://github.com/makerdao/mips/blob/master/MIP65/train_schedule.png)
 
 The detailed plan can be found in this spreadsheet: [ProjectClydesdalev1](https://docs.google.com/spreadsheets/d/1yvwQ_NrJ5SiQmYHCw-9lMH7BQSoy4ZpeWaI4RIBg-Yc/edit?usp=sharing)
 

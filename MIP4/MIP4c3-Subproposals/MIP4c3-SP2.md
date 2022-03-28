@@ -11,6 +11,7 @@ Tags: amendment
 Status: RFC
 Date of Amendment Submission: 2022-03-09
 Date of ratification: yyyy-mm-dd
+Forum URL: https://forum.makerdao.com/t/mip4c3-sp2-amend-mip62-following-mkt-001-offboarding/13779
 ```
 
 ## Specification
