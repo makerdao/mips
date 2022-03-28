@@ -14,6 +14,10 @@ Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainne
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp42-adding-immunefi-security-core-unit-budget-is-001/10813/11
 ```
 
+## References
+
+- [Bug Bounty Program](https://mips.makerdao.com/mips/details/MIP64)
+
 ## Sentence Summary
 
 MIP40c3-SP42 adds the DAI budget for Core Unit IS-001: Immunefi Security.
@@ -103,13 +107,13 @@ The budget cap will differ from the actual expenses of the core unit. The cap re
 
 The initial seed transaction covers the contingency buffers for the core unit:
 
-* Three months of regular expenses: $122,187.50
+* Three months of regular expenses: $470,639.8
 * The yearly and one-time costs included in the budget: $2,530 + $70,725 = $73,255
-* Total for three months of runway: $122,187.50 + $73,255 = $195,442.50
+* Total for three months of runway: $470,639.8 + $73,255 = $543,894.8
 
-The streaming transaction covers ongoing activity for the core unit:
+The streaming transaction covers ongoing activity for the core unit. The budget for the bug bounty payout was zero for the first three months:
 
-* Total remaining costs for 12 months: $122,187.50 x 3 = $366,562.50
+* Total remaining costs for 12 months: $470,639.8 x 3 - $345,000 = $1,066,919.4
 
 #### Transactions
 
@@ -117,17 +121,23 @@ The streaming transaction covers ongoing activity for the core unit:
 
 A total of 366,562.5 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2021-12-01 and ending 2022-08-01
 
+348,452.3 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2022-03-01
+
+A total of 700,356.9 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2022-03-01 and ending 2022-08-01
+
 ### Budget Breakdown
 
 | Summary | Monthly Cost | Quarterly|
 |------ | :--------: | :------:|
-|Facilitator | $2,083.33 | $6,250|
+|Facilitator        | $2,084  | $6,252|
 |Deputy Facilitator | $10,000 | $30,000|
-|Immunefi | $10,000 | $30,000|
-|ChainSecurity | $10,000 | $30,000|
-|DeFi Safety | n/a | $10,000|
-|Total | $32,083.33| $106,250|
-|+ Contigency Buffer (15%) | $36,895.83 | $122,187.50|
+|Immunefi           | $10,000 | $30,000|
+|ChainSecurity      | $10,000 | $30,000|
+|DeFi Safety        | n/a     | $10,000|
+|Gas fees           | $1,000  | $3,000|
+|Bug bounty payouts | $100,000 | $300,000 |
+|Total              | $133,084 | $409,252|
+|+ Contigency Buffer (15%) | $153,046.6 | $470,639.8 |
 
 #### Yearly Expenses
 | Item | Cost |
@@ -204,6 +214,10 @@ The remaining expense of $54,000 is allocated for the software and infrastructur
 #### Company Setup
 
 Fees include all legal and administrative expenses for the creation and maintenance of the Immunefi Security Core Unit entity as a limited liability company for one year.
+
+#### Bug Bounty Payouts
+
+Bug bounties that are judged by the Core Unit to be small and within the remaining monthly budget will be sent using the small payment process as described in the Bug Bounty Program MIP. The Immunefi performance fees for the associated bug bounties will be aggregated together and sent as part of the monthly payment to Immunefi for professional services.
 
 ### Monthly Budget Statement
 
