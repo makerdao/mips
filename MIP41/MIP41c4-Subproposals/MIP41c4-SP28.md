@@ -8,7 +8,7 @@ Author(s): Mark Phillips (@Aes)
 Contributors:
 Tags: core-unit, cu-sf-001, facilitator, active
 Status: Accepted
-Date Applied: 2021-12-01
+Date Proposed: 2021-12-01
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp28-facilitator-onboarding-strategic-finance-sf-001/11939
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt

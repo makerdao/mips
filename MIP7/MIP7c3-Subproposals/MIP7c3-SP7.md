@@ -8,7 +8,7 @@ Author(s): @monkey.irish
 Contributors:
 Status: RFC
 Tags: collateral-onboarding
-Date Applied: 2022-03-09
+Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip7c3-sp7-ces-domain-team-onboarding-ces-001/13794
 ---

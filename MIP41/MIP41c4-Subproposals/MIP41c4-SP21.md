@@ -8,7 +8,7 @@ Author(s): Robert Jordan @monkey.irish
 Contributors:
 Tags: core-unit, cu-ces-001, facilitator, active
 Status: Accepted
-Date Applied: 2021-08-11
+Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbM8u7Q?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp21-facilitator-onboarding-collateral-engineering-services-core-unit-ces-001/9811

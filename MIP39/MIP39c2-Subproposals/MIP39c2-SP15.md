@@ -8,7 +8,7 @@ Author(s): @Mitchell_AmaZix
 Contributors: N/A
 Tags: core-unit, cu-amzx-001, mandate
 Status: Rejected
-Date Applied: 2021-06-09
+Date Proposed: 2021-06-09
 Date Ratified:
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme3ABdc?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp15-adding-amazix-marketing-core-unit-amzx-001/8647

@@ -8,7 +8,7 @@ Author(s): @Pon Jerry
 Contributors: @hexonaut, @nadia
 Tags: core-unit, cu-events-001, budget, dai-budget
 Status: RFC
-Date Applied: 2022-03-09
+Date Proposed: 2022-03-09
 Date Ratified: 
 ```
  

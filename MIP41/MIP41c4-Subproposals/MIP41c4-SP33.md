@@ -8,7 +8,7 @@ Author(s): @PonJerry
 Contributors:
 Tags: core-unit, cu-events-001, facilitator
 Status:RFC
-Date Applied: 2022-03-09
+Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
 ```
 

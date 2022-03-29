@@ -8,7 +8,7 @@ Author(s): Tomek Mierzwa (@tmierzwa), Tadeo (@tadeo), Piotr (@piotr.kils)
 Contributors:
 Tags: core-unit, cu-din-001, budget
 Status: RFC
-Date Applied: 2022-03-09
+Date Proposed: 2022-03-09
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp64-add-data-insights-core-unit-budget/13791
 ```

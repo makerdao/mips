@@ -8,7 +8,7 @@ Author(s): Jon Perry
 Contributors: @PonJerry, @hexonaut, @Saint.Burban, @juan, @Nadia
 Tags: spf
 Status: RFC
-Date Applied: 2022-03-09
+Date Proposed: 2022-03-09
 Date Ratified: yyyy-mm-dd
 Amount Requested: 50,000 DAI
 Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.

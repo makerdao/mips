@@ -8,7 +8,7 @@ Author(s): @sorenpeter
 Contributors: @juanjuan
 Tags: dai-foundation, core-unit, cu-daif-001, mandate, active
 Status: Accepted
-Date Applied: 2021-07-07
+Date Proposed: 2021-07-07
 Date Ratified: 2021-08-23
 Ratification Poll URL: https://vote.makerdao.com/polling/QmVZ2rcG?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp17-adds-core-unit-daif-001-dai-foundation/9239
