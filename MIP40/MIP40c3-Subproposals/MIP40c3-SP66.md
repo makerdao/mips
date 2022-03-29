@@ -174,3 +174,27 @@ The retainer has been calculated based on a daily rate of $555 provided by indus
 
 ### Contingency
 The contingency acts as a safety buffer against any unknown or unexpected costs.  The contingency was calculated to be 15% of the entire budget.  Any unused funds would be returned to the Maker protocol.
+
+## Partnerships
+
+The Events CU plans to leverage partnerships with other protocols to offset the event costs.  Our goal for each event is to partner with other protocols to cost split.  As an example 50%-MakerDao, 50%-Partners 1, 25%-Partner 2.  MakerDao would always retain a 50% share minimum and have complete control over the creative direction and the event itself.
+
+To demonstrate how this strategy applies to the requested budget, the following is a breakdown of how the budget would look if the team is successful at cost splitting at all the planned events at 50% MakerDao and 50% Partners.
+
+**Note the following is only for demonstration purposes and not the requested budget for the CU.  We feel this accurately highlights the likely spend scenario of this CU.  We have only included foreseen expenses so have not included the contingency**
+
+| Budgeted Item | Annually | 
+| -------- | -------- | 
+|FTE Compensation    | $265,000.00    |
+|Major Event 1 (50% share of requested budget)    | $55,000.00   |
+|Major Event 2 (1200-1400 attendees)    | $55,000.00   |
+|Major Event 3 (1200-1400 attendees)    | $55,000.00   | 
+|Minor Event 1 (300-400 attendees)    | $24,000.00   |
+|Minor Event 2 (300-400 attendees)    | $24,000.00   |
+|Visual/Design/Lighting Artist Retainer    | $50,000.00  |
+|Overhead & Operation Costs    | $40,000.00  | 
+|||
+|**Total**    | **$568,000.00**  |
+|||
+
+Under this strategy, the sum of **$330,150.00** from the requested budget would be returned to the DAO.
