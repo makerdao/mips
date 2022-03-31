@@ -11,7 +11,7 @@ Status: Accepted
 Date Proposed: 2022-01-11
 Date Ratified: 2022-02-28
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp4-facilitator-offboarding-from-dux-001-philip-bain/12558
-Extra: Philip Bain [stepped down as Facilitator voluntarily](https://forum.makerdao.com/t/mip41c5-sp4-facilitator-offboarding-from-dux-001-philip-bain/12558). This subproposal was not voted on. Its ratification date was set to the date the successor was [voted in via MIP41c4-SP32](https://vote.makerdao.com/polling/QmR3DeK2).
+Extra: Given that Philip Bain [stepped down as Facilitator voluntarily](https://forum.makerdao.com/t/mip41c5-sp4-facilitator-offboarding-from-dux-001-philip-bain/12558), this subproposal was not voted on. Its ratification date was set to the date the successor was [voted in via MIP41c4-SP32](https://vote.makerdao.com/polling/QmR3DeK2).
 ```
 
 ## Sentence Summary
