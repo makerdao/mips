@@ -6,7 +6,7 @@
 MIP7c3-SP#: 7
 Author(s): @monkey.irish
 Contributors:
-Status: RFC
+Status: Formal Submission
 Tags: collateral-onboarding
 Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
