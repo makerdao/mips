@@ -8,7 +8,7 @@ Author(s): James McCall
 Contributors:LexDAO and RealDAO
 Tags: RWA, spf
 Status: Withdrawn
-Date Applied: 2021-11-23
+Date Proposed: 2021-11-23
 Date Ratified: yyyy-mm-dd
 Amount Requested: 50,000 DAI
 Recipient Address: LexDAO Resolver - 0x5B620676E28693fC14876b035b08CbB1B657dF38

@@ -8,7 +8,7 @@ Author(s): Mark Phillips (@Aes)
 Contributors:
 Tags: core-unit, cu-sf-001, budget, mkr-budget, active
 Status: Accepted
-Date Applied: 2021-12-07
+Date Proposed: 2021-12-07
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp48-strategic-finance-unit-mkr-compensation-sf-001/12060
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt

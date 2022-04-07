@@ -6,11 +6,13 @@
 MIP13c3-SP#: 12
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: @JustinCase, @ultraschuppi, @Andy_McCall
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-02-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-03-28
 Declaration Statement: Invest in short-term bonds
 Declaration to Replace: n/a
+Ratification Poll URL: https://vote.makerdao.com/polling/QmR6QMt6?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip13c3-sp12-declaration-of-intent-invest-in-short-term-bonds/13084
 ```
 
 ## Specification

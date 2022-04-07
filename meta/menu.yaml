@@ -83,10 +83,6 @@ data:
             name: 'IS-001: Immunefi Security'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Immunefi%20Security%20Core%20Unit%20(IS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-is-001)&_Archive=$AND(NOT(%23active),%23cu-is-001)
-          - id: mds-001
-            name: 'MDS-001: MakerDAO Shop'
-            href: >-
-                https://mips.makerdao.com/mips/list?customViewName=MakerDAO%20Shop%20Core%20Unit%20(MDS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mds-001)&_Archive=$AND(NOT(%23active),%23cu-mds-001)
           - id: ora-001
             name: 'ORA-001: Oracles'
             href: >-

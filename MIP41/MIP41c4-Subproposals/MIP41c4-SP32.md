@@ -8,7 +8,7 @@ Author(s): @0xdeniz
 Contributors:
 Tags: core unit, cu-dux-001, facilitator, active
 Status: Accepted
-Date Applied: 2022-01-11
+Date Proposed: 2022-01-11
 Date Ratified: 2022-02-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmR3DeK2
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp32-facilitator-onboarding-to-dux-001-0xdeniz/12559

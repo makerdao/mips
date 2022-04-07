@@ -8,7 +8,7 @@ Author(s): @wouter, @juanjuan
 Contributors:
 tags: core-unit, cu-ses-001, budget, mkr-budget, active
 Status: Accepted
-Date Applied: 2021-05-12
+Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSmhV7z?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043

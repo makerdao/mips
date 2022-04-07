@@ -7,13 +7,15 @@ MIP#: 61
 Title: Recognized Delegate Compensation
 Author(s): Joshua Pritikin (@jpritikin)
 Contributors: @g_dip, @LongForWisdom, @Patrick_J
-Tags:
+Tags: 
 Type: process
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-10-01
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-03-28
 Dependencies:
 Replaces: <List of MIP it is replacing>
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTvzCjL?network=mainnet
+Forum URL: https://forum.makerdao.com/t/mip61-recognized-delegate-compensation/10640
 ```
 
 ## References

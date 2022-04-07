@@ -8,7 +8,7 @@ Author(s): @seth
 Contributors: @JerryAG @Kat @Alec @JMarshall
 Tags: core-unit, cu-mkt-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-09-03
+Date Proposed: 2021-09-03
 Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmWn7G3Q)
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPTCHwr

@@ -8,9 +8,11 @@ Title: Onboard/Amend Keeper Network - Gelato Network
 Author(s): Sam MacPherson (@hexonaut), Hilmar Orth (@hilmarx)
 Contributors:
 Tags: keeper-network
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-01-20
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2022-03-28
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTnVxAL?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip63c4-sp3-onboard-amend-keeper-network-gelato-network/12749
 ```
 
 ## Specification

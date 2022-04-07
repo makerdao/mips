@@ -7,7 +7,7 @@ MIP40c3-SP#: 9
 Author(s): Kathleen Chu
 Tags: core-unit, cu-cpm-001, budget, dai-budget
 Status: Rejected
-Date Applied: 2021-03-25
+Date Proposed: 2021-03-25
 Date Ratified: <yyyy-mm-dd>  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmT8hdMX?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp9-modify-core-unit-budget-cpm-001/7190
