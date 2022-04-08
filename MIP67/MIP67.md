@@ -60,7 +60,7 @@ The MIP has two distinct objectives:
 1. Formalise, through on-chain voting, the [Methodology](https://forum.makerdao.com/t/methodology-for-review-of-mip6-structured-finance-transactions/12697)
 1. Define the high-level process (the “Process”) that each Proposal should follow in order to receive a positive endorsement by relevant CU stakeholder groups.
 
-e.g. RWF CU (RWF-001), the currently SES-incubated Lending Oversight team (or “LOVE” - here represented by @luca_pro) or future CUs
+e.g. RWF CU (RWF-001), the currently SES-incubated Lending Oversight team (or “LOVE” - here represented by @luca_pro), or future CUs
 
 The relevant stakeholder CU teams commit, as part of this MIP, to do their best to facilitate the review of each Proposal based on the process outlined below. In doing so, however, the teams will necessarily have to prioritise those Proposals that have, either, a higher chance of compliance, or a higher positive potential impact for the protocol. This prioritisation effort will necessarily come with some level of discretion, that the teams will try to qualify in their recommendations.
 
