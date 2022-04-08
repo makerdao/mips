@@ -4,7 +4,7 @@
 
 ```
 MIP39c2-SP#: 32
-Author(s): @PonJerry
+Author(s): @PonJerry, @Leggevents
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
 Tags: core-unit, cu-events-001, proposal, mandate,
 Status: Formal Submission
@@ -125,12 +125,10 @@ The major events are targeted to the largest attended conferences.  These have b
 
 *Note that these locations are only proposed and not final.  If CU’s agree that a major event should be moved to another conference then the Events CU will update accordingly.  CU’s will need to request a change of location with a minimum of 3 months in advance due to the logistical planning required for a major event.*
 
-### Minor Events
+### Partnerships		
+The Events CU plans to leverage partnerships with other protocols for these events.  The partnerships will allow for cross-promotion and cost offsetting of the CU budget.  From the cross-promotion aspect Maker will be able to tap into the partners' audience,  this will allow for broader exposure and interaction with a different audience Maker may draw by itself.  The partners for the event would be expected to cost split the event sub budgets with the Events CU.  The split ratio would be discussed before the event during the planning phase.  Maker would always retain a majority share to ensure the event is Maker focused.  Creative and operation control would always remain with the Events CU.  An example of the potential cost reduction impact to the CU budget is highlighted in the DAI budget MIP40c3-SP66 under the Partnerships section.
 
-The 2 minor events are planned in between the major events.  The Events team will consult closely with the Maker community and other Core Units to determine the most effective locations. Attendance to minor conferences is uncertain until 1 to 2 months before the conference so the Events team will have to adjust accordingly.  During the incubation of this Core Unit, ETH Amsterdam was identified as a minor event location.  The event is currently being planned and executed during the date range of April 20-24, 2022.  
-
-
-## Core Unit Team
+## Core Unit Team		## Core Unit Team
 The Events CU team has been carefully curated to include expertise and skills to execute the ambitious vision of the MakerDAO events.  First and foremost is precision organization and execution of all aspects related to the events.  The Event Manager must be highly effective at communication and planning while remaining flexible to accommodate and resolve any unforeseen issues during the event execution.  The Event Manager will be the first point contact for event personnel and contractors.  This will ensure communication is consistent, clear and effective.
 
 The goal of the Events team is to be as vertically integrated as possible which is why the team has included a mechanical engineer role in the CU.  The engineer will be responsible for all technical aspects and coordination of visual elements, LED lighting and other event installations.  The engineer will additionally be responsible for the design and manufacturing of set dress, including LED lighting.   Safety analysis of rigging/installations would be performed by the engineer to ensure compliance with any local safety requirements or authorities.
