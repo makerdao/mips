@@ -8,7 +8,7 @@ Author(s): @simonkp
 Contributors: @georgen, @dumitru, @lukaszb, @wouter
 Tags: core-unit, cu-tech-001, mandate, active
 Status: Accepted
-Date Applied: 2021-12-08
+Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tocu-001
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZEeWAC

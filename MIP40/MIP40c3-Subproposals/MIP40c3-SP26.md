@@ -8,7 +8,7 @@ Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @wouter, @juanjuan
 Tags: core-unit, cu-dux-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-08-11
+Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp26-development-ux-core-unit-budget-dux-001/9774

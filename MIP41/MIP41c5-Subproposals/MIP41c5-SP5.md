@@ -7,9 +7,12 @@ MIP41c5-SP#: 5
 Author(s): Deimos
 Contributors:
 Tags: personnel-xboarding
-Status: Formal Submission
-Date Applied: 2022-02-09
-Date Ratified:
+Status: Accepted
+Date Proposed: 2022-02-09
+Date Ratified: 2022-03-28
+Ratification Poll URL: https://vote.makerdao.com/polling/QmV3Lem7?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip41c5-sp5-facilitator-offboarding/13005
+Extra: The Facilitators for the [MakerDAO Shop Core Unit (MDS-001)](https://mips.makerdao.com/mips/details/MIP39c2SP6) [stepped down voluntarily](https://forum.makerdao.com/t/mip41c5-sp5-facilitator-offboarding/13005/40) *after* the [Ratification Poll that would offboard them](https://vote.makerdao.com/polling/QmV3Lem7) went on-chain. The Ratification Poll passed. This subproposal has been marked as Accepted to formalize the offboarding within the MIP Framework.
 ```
 
 ## Sentence Summary

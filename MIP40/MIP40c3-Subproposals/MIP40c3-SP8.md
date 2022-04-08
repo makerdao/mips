@@ -8,7 +8,7 @@ Author(s): David Utrobin
 Contributors:
 Tags: core-unit, cu-com-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-03-12
+Date Proposed: 2021-03-12
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcZSQnc?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp8-modify-core-unit-budget-com-001-updated-06-29-21/7010

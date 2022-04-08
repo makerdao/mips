@@ -8,7 +8,7 @@ Author(s): Primož Kordež
 Contributors:
 Tags: core-unit, cu-risk-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-05-12
+Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcAkqid?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp13-modify-core-unit-budget-risk-001/8034

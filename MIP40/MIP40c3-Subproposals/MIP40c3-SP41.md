@@ -8,7 +8,7 @@ Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: core-unit, cu-is-001, budget, mkr-budget, active
 Status: Accepted
-Date Applied: 2021-10-06
+Date Proposed: 2021-10-06
 Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet#poll-detail

@@ -9,8 +9,8 @@ Author(s):
 Contributors:
 Tags: template
 Status:
-Date of Amendment Submission: <yyyy-mm-dd>
-Date of ratification: <yyyy-mm-dd>
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ```
 ## Specification
 

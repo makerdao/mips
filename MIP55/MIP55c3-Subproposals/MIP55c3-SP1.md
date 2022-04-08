@@ -8,7 +8,7 @@ Author(s): William Remor @williamr
 Reviewers: Juan Guillen @juan, Wouter Kampmann @wouter  
 Tags: rwa
 Status: RFC
-Date Applied: 2021-09-24
+Date Proposed: 2021-09-24
 Date Ratified: 
 Purpose : Funding request
 Amount Requested: DAI 45,154

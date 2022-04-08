@@ -6,9 +6,9 @@
 MIP40c3-SP#: 29
 Author(s): Payton Rose (@prose11)
 Contributors: @LongForWisdom
-Tags: core-unit, cu-gov-001, budget, dai-budget, active
+Tags: core-unit, cu-gov-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-08-11
+Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmVtkcqW?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp29-govalpha-core-unit-budget-q4-2021-to-q1-2022-gov-001/9799

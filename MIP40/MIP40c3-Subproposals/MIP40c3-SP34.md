@@ -8,7 +8,7 @@ Author(s): Tomek Mierzwa (@tmierzwa)
 Contributors:
 Tags: core-unit, cu-din-001, budget, active
 Status: Accepted
-Date Applied: 2021-09-07
+Date Proposed: 2021-09-07
 Date Ratified: 2021-10-25
 Ratification Poll URL: https://vote.makerdao.com/polling/QmR7fMc6?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp34-add-data-insights-core-unit-budget-din-001/10210

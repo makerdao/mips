@@ -8,7 +8,7 @@ Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
 Tags: core-unit, cu-gov-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-05-12
+Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmXqB41P?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp11-govalpha-core-unit-budget-gov-001/8002

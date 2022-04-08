@@ -8,7 +8,7 @@ Author(s): Vamsi Alluri @Vamsi
 Contributors: @juanjuan, @Wouter, @NikKunkel
 Tags: core-unit, fixed-rate, cu-deco-001, facilitator, active
 Status: Accepted
-Date Applied: 2021-09-08
+Date Proposed: 2021-09-08
 Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmZyjR4t)
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPPvUhN
