@@ -4,12 +4,12 @@
 
 ```
 MIP40c3-SP#: 66
-Author(s): @Pon Jerry
+Author(s): @Pon Jerry, @Leggevents
 Contributors: @hexonaut, @nadia
 Tags: core-unit, cu-events-001, budget, dai-budget
 Status: Formal Submission
 Date Proposed: 2022-03-09
-Date Ratified: 
+Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp66-events-core-unit-dai-budget-events-001/13777
 ```
 
@@ -178,22 +178,22 @@ The contingency acts as a safety buffer against any unknown or unexpected costs.
 
 ## Partnerships
 
-The Events CU plans to leverage partnerships with other protocols to offset the event costs.  Our goal for each event is to partner with other protocols to cost split.  As an example 50%-MakerDao, 50%-Partners 1, 25%-Partner 2.  MakerDao would always retain a 50% share minimum and have complete control over the creative direction and the event itself.
+The Events CU plans to leverage partnerships with other protocols to offset the event costs.  Our goal for each event is to partner with other protocols to cost split.  As an example 50%-MakerDao, 25%-Partner 1, 25%-Partner 2.  MakerDao would always retain a 50% share minimum and have complete control over the creative direction and the event itself.
 
 To demonstrate how this strategy applies to the requested budget, the following is a breakdown of how the budget would look if the team is successful at cost splitting at all the planned events at 50% MakerDao and 50% Partners.
 
 **Note the following is only for demonstration purposes and not the requested budget for the CU.  We feel this accurately highlights the likely spend scenario of this CU.  We have only included foreseen expenses so have not included the contingency**
 
-| Budgeted Item | Annually | 
-| -------- | -------- | 
+| Budgeted Item | Annually |
+| -------- | -------- |
 |FTE Compensation    | $265,000.00    |
 |Major Event 1 (50% share of requested budget)    | $55,000.00   |
-|Major Event 2 (1200-1400 attendees)    | $55,000.00   |
-|Major Event 3 (1200-1400 attendees)    | $55,000.00   | 
-|Minor Event 1 (300-400 attendees)    | $24,000.00   |
-|Minor Event 2 (300-400 attendees)    | $24,000.00   |
+|Major Event 2 (50% share of requested budget)    | $55,000.00   |
+|Major Event 3 (50% share of requested budget)    | $55,000.00   |
+|Minor Event 1 (50% share of requested budget)    | $24,000.00   |
+|Minor Event 2 (50% share of requested budget)    | $24,000.00   |
 |Visual/Design/Lighting Artist Retainer    | $50,000.00  |
-|Overhead & Operation Costs    | $40,000.00  | 
+|Overhead & Operation Costs    | $40,000.00  |
 |||
 |**Total**    | **$568,000.00**  |
 |||

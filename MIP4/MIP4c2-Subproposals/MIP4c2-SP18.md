@@ -28,4 +28,4 @@ Due to the expansion of the MakerDAO Core Units (CU) and the focus on crypto nat
 
 ### Amendment Pull Request
 
-- [Pull Request](https://github.com/makerdao/mips/pull/489)
+- [PR containing the amendment.](https://github.com/makerdao/mips/pull/489)

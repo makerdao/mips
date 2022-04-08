@@ -4,7 +4,7 @@
 
 ```
 MIP39c2-SP#: 32
-Author(s): @PonJerry
+Author(s): @PonJerry, @Leggevents
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
 Tags: core-unit, cu-events-001, proposal, mandate,
 Status: Formal Submission
@@ -12,10 +12,10 @@ Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
 ```
+
 ## Sentence Summary
 
 MIP39c2-SP32 adds the Events Core Unit (EVENTS-001) to coordinate and execute MakerDAO branded events at Crypto/DEV Conference locations.
-
 
 ## Paragraph Summary
 
@@ -48,7 +48,9 @@ Events
 ### Mission
 
 To provide the best MakerDAO branded event experience to the crypto & Maker community including industry professionals, influencers, and enthusiasts.
+
 ### Vision
+
 EVENTS-001 is a team of passionate creative professionals with extensive experience in event organization and a high level of technical experience in LED Lighting, Visual Installations/Animation, and branding.
 The team will leverage these skills to elevate the industry knowledge and awareness of MakerDAO and its products through a series of events held at various international locations.  
 
@@ -72,7 +74,9 @@ Branding visuals is a large focus of our strategy at these events.  Some example
 The events can also serve as a launch pad for new Maker products.  The Events CU can assist the promotion of products by adding the branding or incorporating the product launch into the theme.  During the event planning, we would work closely with any CU's which wish to take advantage of this to assist in the success of their product launch.
 
 ### Event Documentation
+
 #### Photos
+
 Event documentation plays a big part in contributing to the CU strategy. For each event, a photographer will be hired to photograph the night/attendees. The photos will be used for event recaps and future promotion on social media platforms. [An example of these photos can be found here, which were captured from the Maker ETH Denver event.](https://drive.google.com/drive/folders/102zcAv0b_i4op36UO0MSLWB80hGajIHa?usp=sharing)
 
 #### Videos
@@ -88,22 +92,24 @@ Thirty seconds recap 2: https://youtu.be/fpoWT5HqMP8
 ### ETH Denver Summary
 
 During the 2022 ETH Denver conference, the first MakerDAO branded event “DAIvinity” was trialed at The Church Nightclub to great fanfare.  The team planned and executed an event full of Maker branding including LED logos, digital Maker & DAI branded animations to the attendance of 1.000 people.  Additionally two internationally recognized DJs were curated for the night, [Miss Monique](https://www.youtube.com/channel/UClIIy-aQBXRi1OHupBcrjJw) & [Sean Tyas](https://en.wikipedia.org/wiki/Sean_Tyas).  Since the event, the buzz from the community has been unanimously lauding, with [Bankless even giving the event a formidable shout out](https://newsletter.banklesshq.com/p/8-things-you-missed-at-ethdenver-ab5?utm_source=url).
+
 ### Venue
+
 ETH Denver gave a great opportunity to host the MakerDAO event at the famous Church venue.  The venue is internationally acclaimed and recognized in the DJ community.
 
 
 ![img1](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img1.jpeg)
 
 ### LED Branding
+
 The event included strategically placed Maker and DAI LED logos throughout the venue.
 
 ![img2](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img2.jpeg)
 
 ![img3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img3.png)
 
-
-
 ### Visuals & LED Bracelets
+
 ![img4](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP32/img4.gif)
 
 The Church featured LED video screens throughout the entire venue, offering the team a great branding opportunity for MakerDAO.  At the DAIvinity event, the team hired and coordinated with a visual animator to create custom Maker & DAI branded animations as well as a library of more abstract sequences for the night.  
@@ -125,12 +131,12 @@ The major events are targeted to the largest attended conferences.  These have b
 
 *Note that these locations are only proposed and not final.  If CU’s agree that a major event should be moved to another conference then the Events CU will update accordingly.  CU’s will need to request a change of location with a minimum of 3 months in advance due to the logistical planning required for a major event.*
 
-### Minor Events
+### Partnerships
 
-The 2 minor events are planned in between the major events.  The Events team will consult closely with the Maker community and other Core Units to determine the most effective locations. Attendance to minor conferences is uncertain until 1 to 2 months before the conference so the Events team will have to adjust accordingly.  During the incubation of this Core Unit, ETH Amsterdam was identified as a minor event location.  The event is currently being planned and executed during the date range of April 20-24, 2022.  
-
+The Events CU plans to leverage partnerships with other protocols for these events.  The partnerships will allow for cross-promotion and cost offsetting of the CU budget.  From the cross-promotion aspect Maker will be able to tap into the partners' audience,  this will allow for broader exposure and interaction with a different audience Maker may draw by itself.  The partners for the event would be expected to cost split the event sub budgets with the Events CU.  The split ratio would be discussed before the event during the planning phase.  Maker would always retain a majority share to ensure the event is Maker focused.  Creative and operation control would always remain with the Events CU.  An example of the potential cost reduction impact to the CU budget is highlighted in the DAI budget MIP40c3-SP66 under the Partnerships section.
 
 ## Core Unit Team
+
 The Events CU team has been carefully curated to include expertise and skills to execute the ambitious vision of the MakerDAO events.  First and foremost is precision organization and execution of all aspects related to the events.  The Event Manager must be highly effective at communication and planning while remaining flexible to accommodate and resolve any unforeseen issues during the event execution.  The Event Manager will be the first point contact for event personnel and contractors.  This will ensure communication is consistent, clear and effective.
 
 The goal of the Events team is to be as vertically integrated as possible which is why the team has included a mechanical engineer role in the CU.  The engineer will be responsible for all technical aspects and coordination of visual elements, LED lighting and other event installations.  The engineer will additionally be responsible for the design and manufacturing of set dress, including LED lighting.   Safety analysis of rigging/installations would be performed by the engineer to ensure compliance with any local safety requirements or authorities.
@@ -139,18 +145,20 @@ The goal of the Events team is to be as vertically integrated as possible which 
 * 	Event Manager: John Legg - Forum: @Leggevents
 * 	Facilitator/Mechanical Engineer: Jon Perry - Forum: @PonJerry
 
-
 | Role | FTE |
 | -------- | -------- |
 | Event Manager     | 1    |
 | Facilitator/Mechanical Engineer     | 1    |
 
 ### Role Definitions
+
 #### Core Unit Facilitator
 * Communications with Governance and MakerDAO Community
 * Managing budget and strategy
 * Facilitate payment to CU members and contractors
+* 
 #### Event Manager
+
 * Manage planning, design, production, promotion and overall coordination within the CU's mandate
 * Coordinate with Maker community to determine event dates
 * Propose and coordinate event theme requirements to the CU's team and contractors
@@ -161,7 +169,9 @@ The goal of the Events team is to be as vertically integrated as possible which 
 * Coordinate with social media personal
 * Analyze the event’s success and prepare reports
 * The Event Manager will also share responsibility with the Mechanical Engineer as required
+
 #### Mechanical Designer/Engineer
+
 * 3D Design & manufacturing of LED light installations, logos and other visual elements
 * Build set dress as defined by Events team through means of woodworking, CNC machining/programming, electrical wiring
 * Wiring and programing of DMX lighting elements

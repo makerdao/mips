@@ -12,6 +12,7 @@ Date Proposed: 2022-03-09
 Date Ratified: yyyy-mm-dd
 Amount Requested: 50,000 DAI
 Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.
+Ratification Poll URL: https://v2.vote.makerdao.com/polling/Qmb9brx3#poll-detail
 ```
 
 ## Sentence Summary
@@ -70,7 +71,7 @@ Due to time constraints, 50,000 DAI is being requested through this SPF with the
 
 The multisig for the funds will be 2:3 with @juan/@hexonaut/@Nadia and will be set up after the successful on-chain vote, prior to the executive vote.
 
- 
+
 ## Special Purpose Fund Details
 
 ```
