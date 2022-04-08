@@ -149,7 +149,7 @@ Once an Interim Facilitator has been assigned to a Core Unit through the Fallbac
 
 #### Budget Implementations Transitions
 
-Most importantly, this change involves transitioning control of the Budget Implementations that need to continue to run smoothly to pay out Core Unit's Contributors properly. How this is done in practice depends on the particular Budget Implementation. For example, it could involve using a multisig authority to change control of the Budget Implementation directly. Or propose an executive vote to the Weekly Governance Cycle. Or, in very time-sensitive cases (such as active embezzlement, Facilitator missing), an urgent/emergency executive vote that changes the control of the Budget Implementation, or another appropriate solution that works with the specific Budget Implementations.
+Most importantly, this change involves transitioning control of the Budget Implementations that need to continue to run smoothly to pay out Core Unit's Contributors properly. How this is done in practice depends on the particular Budget Implementation. For example, it could involve using a multisig authority to change control of the Budget Implementation directly. Or propose an executive vote to the Weekly Governance Cycle. Or, in very time-sensitive cases (such as active embezzlement, Facilitator missing), an urgent/emergency executive vote that changes the control of the Budget Implementation, or another appropriate solution that works with the specific Budget Implementations. 
 
 #### Governance Powers
 
