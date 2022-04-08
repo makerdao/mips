@@ -45,9 +45,9 @@ Provides clarity on how the budget payouts are addressed from a practical perspe
 
 ## Motivation
 
-The Budget Framework MIP allows Governance to manage and prioritize Core Units in a standardized waythat promotes transparency and fairness. Minimzing overhead and potental for abuse in the Budget process.
-The budget system gives Facilitators the flexibility to modify their plans away from the initially submitted budget breakdown if conditions were to change. If it were decided they need to allocate money differently, this would be possible. But never by an aggregate amount exceeding that defined in the Core Unit's Budget Implementation code.
-This Framework can help Governance guide a given Core Unit's actions by voting for (or against) the attachment of multiple Budget modifications; each with a different, and progressively more specific, objective.
+The Budget Framework MIP allows Governance to manage and prioritize Core Units in a standardized way, promoting transparency and reducing Governance overhead and minimizing abuse and increase fairness in the budget process.
+The budget system gives Facilitators the flexibility to modify their plans away from the initially submitted budget breakdown if conditions were to change. If they need to allocate the money differently, this would be possible but never exceeding the aggregate amount defined by their Budget Implementation code.
+The Framework can help Governance guide a given Core Unit, as they could vote (or not) to attach multiple budgets to a Core Unit, each with a different, more specific objective.
 
 ## Specification / Proposal Details
 
