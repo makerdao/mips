@@ -7,9 +7,10 @@ MIP40c3-SP#: 66
 Author(s): @Pon Jerry
 Contributors: @hexonaut, @nadia
 Tags: core-unit, cu-events-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-03-09
 Date Ratified: 
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp66-events-core-unit-dai-budget-events-001/13777
 ```
  
 ## Sentence Summary

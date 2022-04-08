@@ -7,9 +7,10 @@ MIP39c2-SP#: 32
 Author(s): @PonJerry
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
 Tags: core-unit, cu-events-001, proposal, mandate,
-Status:RFC
+Status: Formal Submission
 Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
 ```
 ## Sentence Summary
 

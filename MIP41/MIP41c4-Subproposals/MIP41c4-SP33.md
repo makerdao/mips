@@ -7,9 +7,10 @@ MIP41c4-SP#: 33
 Author(s): @PonJerry
 Contributors:
 Tags: core-unit, cu-events-001, facilitator
-Status:RFC
+Status: Formal Submission
 Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp33-events-core-unit-facilitator-onboarding-jon-perry-events-001/13775
 ```
 
 ## Sentence Summary

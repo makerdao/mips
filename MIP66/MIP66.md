@@ -9,7 +9,7 @@ Author(s): [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:
 Contributors: [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:ashwin@akiva.capital), [Avtar Sehra](mailto:avtar@nivaura.com)
 Tags: pairwyse, fixed-rate, open-source, patent-non-assertion, formal-submission
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-03-02
 Date Ratified: <yyyy-mm-dd>
 Dependencies: <List of dependent MIPs>
