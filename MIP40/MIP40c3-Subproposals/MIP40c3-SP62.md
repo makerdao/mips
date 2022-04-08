@@ -1,13 +1,12 @@
 # MIP40c3-SP62: Modify Core Unit Budget, COM-001
 
-
 ## Preamble
 
 ```
 MIP40c3-SP#: 62
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, cu-com-001, budget, dai-budget, active
+Tags: core-unit, cu-com-001, budget, dai-budget
 Status: Formal Submission
 Date Proposed: 2022-03-02
 Date Ratified: xxx
