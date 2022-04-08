@@ -4,7 +4,7 @@
 
 ```
 MIP#: 69
-Title: L1 to L2 Fast Withdrawals
+Title: L2 to L1 Fast Withdrawals
 Author(s): Protocol Engineering Core Unit (PE-001)
 Type: Technical
 Status: RFC

@@ -8,7 +8,7 @@ Author(s): Payton Rose
 Contributors: @LongForWisdom, @juanjuan
 tags: core-unit, cu-gov-001, facilitator, active
 Status: Accepted
-Date Applied: 2021-05-11
+Date Proposed: 2021-05-11
 Date Ratified: 2021-06-28
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme5m5rR?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp12-govalpha-facilitator-onboarding/7994

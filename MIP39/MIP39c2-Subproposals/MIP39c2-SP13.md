@@ -8,7 +8,7 @@ Author(s): Niklas Kunkel
 Contributors:
 Tags: core-unit, cu-ora-001, mandate, active
 Status: Accepted
-Date Applied: 2021-05-12
+Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmNRGQwN?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp13-adding-oracles-core-unit/8048

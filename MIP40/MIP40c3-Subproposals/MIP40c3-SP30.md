@@ -8,7 +8,7 @@ Author(s): Robert Jordan @monkey.irish
 Contributors:
 Tags: core-unit, cu-ces-001, budget, mkr-budget, dai-budget
 Status: Accepted
-Date Applied: 2021-08-11
+Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbM8u7Q?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp30-modify-core-unit-budget-collateral-engineering-services-ces-001/9810

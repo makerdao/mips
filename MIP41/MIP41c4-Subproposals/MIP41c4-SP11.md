@@ -8,7 +8,7 @@ Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
 Tags: core-unit, cu-sh-001, facilitator, active
 Status: Accepted
-Date Applied: <2021-05-11>
+Date Proposed: <2021-05-11>
 Date Ratified: <2021-09-27>
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp11-shitpost-facilitator-onboarding-strategic-happiness-core-unit-sh-001/8008

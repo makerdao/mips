@@ -8,7 +8,7 @@ Author(s): @colrad, @urbanisierung, Tim Schuppener (@ultraschuppi)
 Contributors:
 Tags: core-unit, cu-skunk-001, budget, dai-budget, mkr-budget
 Status: Rejected
-Date Applied: 2021-09-01
+Date Proposed: 2021-09-01
 Date Ratified:
 Ratification Poll URL: https://vote.makerdao.com/polling/QmV44i6E?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp32-adding-makerlabs-core-unit-budget/10108

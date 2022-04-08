@@ -7,7 +7,7 @@ Author(s): @Pon Jerry
 Contributors: @hexonaut
 Tags: core-unit, cu-events-001, budget, mkr-budget
 Status:RFC
-Date Applied: 2022-03-09
+Date Proposed: 2022-03-09
 Date Ratified: 
 ```
 

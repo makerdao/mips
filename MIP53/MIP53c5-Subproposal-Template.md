@@ -7,7 +7,7 @@ Author(s):
 Contributors:
 Tags: template
 Status: Withdrawn
-Date Applied:
+Date Proposed:
 Date Ratified:
 ```
 

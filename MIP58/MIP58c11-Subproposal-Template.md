@@ -7,7 +7,7 @@ MIP58c11-SP#:
 Author(s):
 Contributors:
 Status: 
-Date Applied: <yyyy-mm-dd>
+Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
 ```
 

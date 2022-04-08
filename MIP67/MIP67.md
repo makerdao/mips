@@ -9,7 +9,7 @@ Author(s): @luca_pro, @williamr
 Contributors: @eumenes, @teej, @christiancdpetersen
 Tags: rfc, mips, rwf-001-cu, love-cu, process, collateral-onboarding
 Type: Process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-01-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
