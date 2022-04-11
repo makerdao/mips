@@ -10,7 +10,7 @@ Tags: process, core-unit-framework, mip-set, core-unit-framework-mipset
 Type: Process
 Status: Accepted
 Date Proposed: 2021-01-18
-Date Ratified: 2021-25-03
+Date Ratified: 2021-03-25
 Dependencies: MIP38, MIP39, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
@@ -23,11 +23,11 @@ Forum URL: https://forum.makerdao.com/t/mip40-budget-framework/6097
 
 ## Sentence Summary
 
-MIP40: Budget Framework contains a framework for managing budgets and modifying them in the DAO Primitives State MIP.
+MIP40: Budget Framework contains a framework for managing Budgets and modifying them in the DAO Primitives State MIP.
 
 ## Paragraph Summary
 
-MIP40: Budget Framework contains a framework for managing budgets and modifying them in the DAO Primitives State MIP. The Framework includes features to provide transparency and clarity for Governance when making decisions around budgets and a design that enables a high degree of flexibility in implementing payment structures for the Core Units.
+MIP40: Budget Framework contains a framework for managing budgets and modifying them in the DAO Primitives State MIP. The Framework includes features to provide transparency and clarity for Governance when making decisions. As well as a design that enables a high-degree of flexibility in implementing different pay structures for the Core Units.
 
 ## Component Summary
 
@@ -38,7 +38,7 @@ Gives an overview of the most critical characteristics of Budgets.
 Describes the components of a Core Unit Budget proposal.
 
 **MIP40c3: Adding/Modifying Core Unit Budget Process**
-Describes the process for adding a budget to a new Core Unit or modifying the Core Unit's existing budget.
+Describes the process for adding a Budget to a new Core Unit or modifying the Core Unit's existing Budget.
 
 **MIP40c4: Budget Implementation Details**
 Provides clarity on how the budget payouts are addressed from a practical perspective once approved.
@@ -55,26 +55,26 @@ The Framework can help Governance guide a given Core Unit, as they could vote (o
 
 Budgets are used to fund the work defined by the Core Units chosen by Maker Governance. A budget is attached to a Core Unit and is meant to be used only for that Core Unit.
 
-The Facilitators of each Core Unit administer core Unit budgets.
+The Facilitators of each Core Unit administer Core Unit Budgets.
 
 The Core Unit Facilitators must ensure that transparency and accountability exist as the budget is spent.
 
-If a Facilitator is offboarded from their Core Unit, quits, or goes missing, the budget will continue to be available to pay out according to its Budget Implementation to allow the Core Unit to continue with long-term operations as much as possible. See MIP41c6 for details on this process.
+If a Facilitator is offboarded from their Core Unit, quits, or goes missing, the budget will continue to be available to pay out according to its Budget Implementation. Allowing the Core Unit to continue with its long-term operations as much as possible. See MIP41c6 for details on this process.
 
 
 ### MIP40c2: Composition of a Budget
 
 Core Unit Budgets can have multiple entries. Each entry has both a Budget Breakdown and a Budget Implementation.
 
-Having multiple budget entries, each with its implementation and breakdown, enables more advanced compensation and funding structures to be created if desired.
+Having multiple budget entries, each with its Budget Implementation and Budget Breakdown, enables more advanced compensation and funding structures to be created by the Core Unit if desired.
 
-Once a budget is approved, the Core Unit's Facilitators can begin drawing payments to fund their Core Unit according to their Budget Implementation.
+Once a Budget is approved, the Core Unit's Facilitators can begin drawing payments to fund their Core Unit according to their Budget Implementation.
 
 #### Budget Breakdown
 
-The Budget Breakdown component consists of the Core Unit Facilitators' best guess breakdown of spending for their Core Unit during the budget period.
+The Budget Breakdown component consists of the Core Unit's Facilitators "best guess" estimate of the spending breakdown for their Core Unit during the budget period.
 
-The Budget Breakdown component is non-binding and is intended to encourage transparency and communication between the Core Unit Facilitators and Maker Governance. The breakdown allows Maker Governance to make a more informed decision when deciding whether to approve the budget.
+The Budget Breakdown component is non-binding and is intended to encourage transparency and communication between the Core Unit Facilitators and Maker Governance. The breakdown allows Maker Governance to make a more informed decision when deciding whether or not to approve a budget.
 
 #### Budget Implementation
 
@@ -92,8 +92,8 @@ Once a MIP40c3-SP subproposal passes, the Governance Facilitators or the MIP Edi
 This is a technical process component that can have on-chain effects that alter the Maker Protocol's state. When subproposals generated from this component reach the executive vote stage of the MIPs cycle, the executive vote must include a technical state change to authorize the budget implementations specified in the subproposal to draw funds from the Maker Protocol.
 
 The proposal parameters are:
-* Minimum feedback period: 1 month.
-* Minimum frozen period: 1 week.
+* Minimum Feedback Period: 1 Month.
+* Minimum Frozen Period: 1 Week.
 
 MIP40c3 subproposals must use the template located at [MIP40c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposal-Template.md)
 
@@ -101,11 +101,11 @@ MIP40c3 subproposals must use the template located at [MIP40c3-Subproposal-Templ
 
 ### MIP40c4: Budget Implementation Details
 
-Core Unit Budgets are paid out through Budget Implementations, which are smart contracts authorized by Maker Governance to draw funds from the Protocol. It can also be a manual (not smart contract-based) pre-approval by Governance.
+Core Unit Budgets are paid out through Budget Implementations, which are smart contracts authorized by Maker Governance to draw funds from the Protocol. Budgets can also be paid out manually (not smart-contract based) via preapproval by Governance.
 
-Facilitators can propose simple, manual or advanced Budget Implementations that will control their access to the Core Unit's budget.
+Facilitators can propose Simple, Manual, or Advanced Budget Implementations that will control their access to the Core Unit's Budget.
 
-Maker Governance can explicitly turn a budget implementation off.
+Maker Governance can explicitly turn a Budget Implementation off.
 
 #### Simple Budget Implementations
 
@@ -117,7 +117,7 @@ Simple Budget Implementations can be used for reliable base expenses, even if MK
 
 Manual Budget Implementations are discouraged but exist as a backup solution that can stand in if a Simple Budget Implementation isn't available for any given reason.
 
-Manual Budget Implementations aren't based on a smart contract but rather on Governance, giving a Facilitator the power to use the governance cycle to draw funds at the rate specified in the DAO Primitives State.
+Manual Budget Implementations aren't based on a smart contract but rather on Governance, giving a Facilitator the power to use the Governance Cycle to draw funds at the rate specified in the DAO Primitives State.
 
 Manual Budget Implementations should be replaced by smart contract-based solutions as soon as possible to reduce Governance overhead.
 
@@ -125,7 +125,7 @@ Manual Budget Implementations should be replaced by smart contract-based solutio
 
 Advanced Budget Implementations cover any mechanism beyond the Simple and Manual Implementations described above.
 
-Advanced Budget Implementations can be used for more innovative cases, such as incentive payments or unpredictable expenses. They can be implemented in various ways, such as relying on multi-sig access or dependent on system variables such as Protocol auctions, Dai supply or Stability Fees.
+Advanced Budget Implementations can be used for more innovative cases, such as incentive payments or unpredictable expenses. They can be implemented in various ways, such as relying on multi-sig access or dependent on system variables such as Protocol Auctions, Dai supply, or Stability Fees.
 
 Advanced Budget Implementations can also be used to hard-code payment streams to long-term contributors or other automated distribution mechanisms that bypass Core Unit Facilitators and send funds directly to contributors.
 
