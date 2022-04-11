@@ -1,7 +1,7 @@
 data:
-  - id: RATIFICATION_POLLS
-    title: Ratification Polls are up and running
-    description: Ratification Polls for the April Governance Cycle are now up and running until Monday, April 25. Please visit [the MakerDAO voting portal](https://vote.makerdao.com/polling) to vote.
-    timelock: 3600
-    type: RED
+    - id: RATIFICATION_POLLS
+      title: Ratification Polls are up and running
+      description: Ratification Polls for the April Governance Cycle are now up and running until Monday, April 25. Please visit [the MakerDAO voting portal](https://vote.makerdao.com/polling) to vote.
+      timelock: 3600
+      type: RED
     
