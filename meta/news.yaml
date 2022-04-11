@@ -1,5 +1,5 @@
 data:
-    - id: RATIFICATION_POLLS
+    - id: RATIFICATION-POLLS
       title: $title
       description: $description
       timelock: 3600
