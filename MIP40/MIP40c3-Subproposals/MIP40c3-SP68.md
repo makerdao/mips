@@ -7,7 +7,7 @@ MIP40c3-SP#: 68
 Author(s): Derek Flossman
 Contributors: Protocol Engineering Core Unit
 Tags: core-unit, cu-pe-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Proposed: 03/09/2022
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797
@@ -27,7 +27,7 @@ This subproposal is requesting a 12 month Budget of 7,590,000 DAI for the Protoc
 
 Protocol Engineering would like to secure an operating budget for it to deliver its mandate over the next 12 months.
 
-The [prior year's budget in review](https://forum.makerdao.com/t/pecu-2021-2022-financial-year-in-review/13793) gave a good illustration as to where Protocol Engineering under- or over-budgeted for the work we sought to accomplish, which has subsequently helped inform this document.
+The [prior year's budget in review](https://forum.makerdao.com/t/pecu-2021-2022-financial-year-in-review/13793) gave a good illustration as to where Protocol Engineering under- or over- budgeted for the work we sought to accomplish, which has subsequently helped inform this document.
 
 The following proposal is also in support of the forum post: [Protocol Engineering Core Unit Workstreams](https://forum.makerdao.com/t/protocol-engineering-core-unit-workstreams/13795). Our team stands behind this proposal as an optimal solution for scaling the Core Unit in a dynamic environment. We encourage readers to review that post in conjunction with the below budget request.
 

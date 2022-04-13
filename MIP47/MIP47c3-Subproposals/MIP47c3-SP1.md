@@ -3,12 +3,12 @@
 ## Preamble
 
 ```
-SP#: 1
+MIP47c3-SP#: 1
 Title: Dissolution of Content Production (MKT-001) Multi-Sig Request
 Author(s): @prose11
 Contributors:
 Tags: multi-sig
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-03-17
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991

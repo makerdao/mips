@@ -9,7 +9,7 @@ Author(s): @luca_pro, @williamr
 Contributors: @eumenes, @teej, @christiancdpetersen
 Tags: rfc, mips, rwf-001-cu, love-cu, process, collateral-onboarding
 Type: Process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-01-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
@@ -22,7 +22,7 @@ Forum URL: https://forum.makerdao.com/t/mip67-methodology-and-review-process-for
 - [Methodology for Review of MIP6 Structured Finance Transactions](https://forum.makerdao.com/t/methodology-for-review-of-mip6-structured-finance-transactions/12697)
 - [[Informal Poll] RWF Collateral Risk Level](https://forum.makerdao.com/t/informal-poll-rwf-collateral-risk-level/12254)
 - [SES Project Real-World Sandbox](https://forum.makerdao.com/t/real-world-sandbox-final-deliverable-for-consultation-round/11915)
-- [MIP67c3-Subproposal-Template.md]((https://github.com/makerdao/mips/blob/master/MIP67/MIP67c3-Subproposal-Template.md))
+- [MIP67c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP67/MIP67c3-Subproposal-Template.md)
 - [Video - Focus on #4: Methodology for Structured Finance Transactions](https://forum.makerdao.com/t/focus-on-4-mip6-review-methodology-for-structured-finance-transactions/12943)
 
 ## Sentence Summary
@@ -35,13 +35,13 @@ MIP67 intends to (1) formally approve the [Methodology for Review of MIP6 Struct
 
 ## Component Summary
 
-**[MIP67c1]: Proposal Submission Process**
+**MIP67c1: Proposal Submission Process**
 Defines the high-level process to submit structured finance transactions to structured finance teams.
 
-**[MIP67c2]: Methodology Amendment Process**
+**MIP67c2: Methodology Amendment Process**
 Defines the process to make amendments to the Methodology for Review of MIP6 Structured Finance Transactions.
 
-**[MIP67c3]: Methodology Amendment Template**
+**MIP67c3: Methodology Amendment Template**
 Defines a template to propose amendments to the Methodology for Review of MIP6 Structured Finance Transactions defined in MIP67c2.
 
 ## Motivation
@@ -60,7 +60,7 @@ The MIP has two distinct objectives:
 1. Formalise, through on-chain voting, the [Methodology](https://forum.makerdao.com/t/methodology-for-review-of-mip6-structured-finance-transactions/12697)
 1. Define the high-level process (the “Process”) that each Proposal should follow in order to receive a positive endorsement by relevant CU stakeholder groups.
 
-e.g. RWF CU (RWF-001), the currently SES-incubated Lending Oversight team (or “LOVE” - here represented by @luca_pro) or future CUs
+e.g. RWF CU (RWF-001), the currently SES-incubated Lending Oversight team (or “LOVE” - here represented by @luca_pro), or future CUs
 
 The relevant stakeholder CU teams commit, as part of this MIP, to do their best to facilitate the review of each Proposal based on the process outlined below. In doing so, however, the teams will necessarily have to prioritise those Proposals that have, either, a higher chance of compliance, or a higher positive potential impact for the protocol. This prioritisation effort will necessarily come with some level of discretion, that the teams will try to qualify in their recommendations.
 
@@ -76,6 +76,17 @@ In the spirit of the decentralised and resilient governance mechanisms central t
 
 In summary, the relevant stakeholder CU teams expect each Proposal to follow, at a minimum, a streamlined process that includes the following phases:
 1. Initial engagement with the relevant structured finance CU (e.g. RWF-001), providing the CU with a reasonably detailed Proposal (not necessarily formalised yet as a MIP or Signal Request) that conforms with the [Methodology](https://forum.makerdao.com/t/methodology-for-review-of-mip6-structured-finance-transactions/12697) and with the appropriate time to review its high-level pillars
+    * From a technical advisory perspective, the following information should also be shared:
+        * Is the asset tokenized, if so, which standard does it conform to, and on which blockchain infrastructure is it deployed?
+        * Can the total supply be updated? If so, how?
+        * Is the asset controlled by a central actor or group?
+        * Can balances be arbitrarily modified by a central actor or group?
+        * Does the asset have KYC requirements?
+        * Does price feeds or market data for the asset exist?
+        * How can the asset be sold in case of a liquidation?
+
+      For more details see [MIP6 Template amendment](https://forum.makerdao.com/t/mip6c3-sp2-modify-the-collateral-application-form/13787#list-of-changes-to-application-questions-5).
+
 1. Legal consultation on the proposed structure provided by a reputable external law firm supporting the relevant CU (or potentially a future Legal CU) as external counsel
 1. A public comprehensive assessment (commercial/ risk, technological, and legal) performed by the relevant stakeholder CUs e.g. RWF-001, the CES CU, and potentially a newly incubated Legal CU, resulting in a proposal that both (1) conforms with the Methodology and (2) is reasonably comparable to similar transactions in the asset class
 1. A public second opinion provided by relevant oversight teams e.g. LOVE or newly incubated CUs

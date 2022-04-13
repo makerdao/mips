@@ -21,7 +21,7 @@ MIP0c11-SP1 onboards Charles St.Louis as MIP Editor.
 ## Application Form
     
 - **Motivation**
-    - The Maker Improvement Proposals Framework requires a MIP Editor when the framework becomes ratified. Given that I am closest to the process and am driven towards making the Protocol self-sustainable, I am propsing myself to take on the MIP Editor role. As the MIP Editor, I will support and enforce the administrative and editorial aspects of the overall MIPs process and framework. For the full list of resposibilities, please reference [`MIP0c9: MIP Editor Role`](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c9-mip-editor-role).
+    - The Maker Improvement Proposals Framework requires a MIP Editor when the framework becomes ratified. Given that I am closest to the process and am driven towards making the Protocol self-sustainable, I am propsing myself to take on the MIP Editor role. As the MIP Editor, I will support and enforce the administrative and editorial aspects of the overall MIPs process and framework. For the full list of resposibilities, please reference [MIP0c9: MIP Editor Role](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c9-mip-editor-role).
     - Additioanlly, as one of the architects of the framework, I will actively work with the community to help sheppard incoming MIPs and work and communicate with Governance Facilitators on coordinating governance and executive votes in relation to MIPs and the monthly governance cycle.
     - Lastly, I would like to note that the expectation is that the MIPs Framework will start out with a MIP Editor from the Maker Foundation (myself) and that other MIP Editors will join later.
     

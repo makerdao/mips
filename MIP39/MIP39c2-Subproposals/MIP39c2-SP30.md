@@ -6,7 +6,7 @@
 MIP39c2-SP#: 30
 Author(s): David Utrobin
 Contributors:
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-02-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL:https://forum.makerdao.com/t/mip39c2-sp30-governance-communications-core-unit-com-001-mandate-refresh/13197
@@ -176,6 +176,7 @@ _Gives members of the media known points of access for engaging with MakerDAO._
 - Maintains and manages access to the Media Inquiries section of the forum.
 - Works with other Core Units to service inquiries.
 - Publishes press releases on behalf of MakerDAO.
+- Publishes collateral offboarding notices in compliance with MIP62.
 
 **Communication Platform Stewardship**
 _Leads a small team of community moderators, establishes guidelines and best practices for moderating, suggests improvements for user experience._
