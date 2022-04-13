@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-03-09
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp64-add-data-insights-core-unit-budget/13791
+Ratification Poll URL: https://vote.makerdao.com/polling/Qme3VaY4
 ```
 
 ## Sentence Summary
