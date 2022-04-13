@@ -1,5 +1,4 @@
-# MIP4c3SP3: Amend MIP64 to allow more flexibility in scope
-
+# MIP4c3-SP3: Amend MIP64 to allow more flexibility in scope
 
 ## Preamble
 
@@ -15,6 +14,7 @@ Date of ratification: yyyy-mm-dd
 Forum URL: https://forum.makerdao.com/t/mip4c3sp3-amend-mip64-to-allow-more-flexibility-in-scope/14200
 Ratification Poll URL: 
 ```
+
 ## Specification
 
 ### Motivation
