@@ -15,6 +15,7 @@ Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
 Forum URL: https://forum.makerdao.com/t/mip67-methodology-and-review-process-for-structured-finance-transactions/13737
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWt5fov
 ```
 
 ## References
