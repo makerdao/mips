@@ -10,6 +10,7 @@ Status: Formal Submission
 Date Applied: 2022-03-09
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp31-update-data-insights-core-unit-mandate/13790
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXEvrBB
 ```
 
 ## Sentence Summary
