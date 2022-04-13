@@ -14,6 +14,7 @@ Date Proposed: 2022-03-02
 Date Ratified: <yyyy-mm-dd>
 Dependencies: <List of dependent MIPs>
 Forum URL: https://forum.makerdao.com/t/mip66-pairwyse-licensure/13554
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdbNKMR
 ```
 
 ## **References**
