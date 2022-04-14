@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
 ```
 
 ## Sentence Summary
@@ -156,7 +157,7 @@ The goal of the Events team is to be as vertically integrated as possible which 
 * Communications with Governance and MakerDAO Community
 * Managing budget and strategy
 * Facilitate payment to CU members and contractors
-* 
+*
 #### Event Manager
 
 * Manage planning, design, production, promotion and overall coordination within the CU's mandate

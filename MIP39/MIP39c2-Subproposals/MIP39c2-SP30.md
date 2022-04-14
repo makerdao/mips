@@ -10,6 +10,7 @@ Status: Formal Submission
 Date Proposed: 2022-02-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL:https://forum.makerdao.com/t/mip39c2-sp30-governance-communications-core-unit-com-001-mandate-refresh/13197
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWCUEaV
 ```
 
 ## Sentence Summary

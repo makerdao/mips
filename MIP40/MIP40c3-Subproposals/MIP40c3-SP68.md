@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 03/09/2022
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWphKJY
 ```
 
 ## Sentence Summary

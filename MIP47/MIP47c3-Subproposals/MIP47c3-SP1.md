@@ -12,6 +12,7 @@ Status: Formal Submission
 Date Proposed: 2022-03-17
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-production-mkt-001-multi-sig-request/13991
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXhSC8x
 ```
 
 ## Specification
