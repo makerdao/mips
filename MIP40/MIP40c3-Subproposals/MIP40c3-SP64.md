@@ -6,10 +6,10 @@
 MIP40c3-SP#: 64
 Author(s): Tomek Mierzwa (@tmierzwa), Tadeo (@tadeo), Piotr (@piotr.kils)
 Contributors:
-Tags: core-unit, cu-din-001, budget
+Tags: core-unit, cu-din-001, budget, dai-budget
 Status: Formal Submission
 Date Proposed: 2022-03-09
-Date Ratified:
+Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp64-add-data-insights-core-unit-budget/13791
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme3VaY4
 ```
@@ -19,6 +19,7 @@ Ratification Poll URL: https://vote.makerdao.com/polling/Qme3VaY4
 This subproposal adds the budget for Data Insights Core Unit. It's a regular **monthly** budget of **90,250.00 DAI** from **May 2022 until April 2023**, included.
 
 ## Paragraph Summary
+
 MIP40c3-SP64 adds the budget for Data Insights Core Unit (DIN-001) to account for the [new mandate](https://forum.makerdao.com/t/mip39c2-sp31-update-data-insights-core-unit-mandate/13790) that expands on the initial mission to maintain the existing data assets and build new datasets to cover L2s, RWAs, and puts a special focus on the community.
 
 The main changes are the following:
@@ -67,10 +68,10 @@ We would like to highlight the following aspects:
 
 ### Roadmap
 
-The roadmap proposed below is a natural continuation to our [current roadmap](https://data.makerdao.network/roadmap).
+The roadmap proposed below is a natural continuation to our [current roadmap](https://data.makerdao.network/roadmap). 
 We want to highlight the importance that L2s and RWAs will have in our future.
 
-![roadmap](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP64/roadmap.png)
+![](upload://nN32avbMQRcdlhuWS9f9Ep6Uf59.png)
 
 
 We plan to adhere to the upcoming SES Ecosystem Performance initiative, making our work more accessible to delegates and the community. In addition, we are looking into new [tools](https://frill.co/) that would allow the community to engage and provide direct feedback.
@@ -103,9 +104,9 @@ The distribution of budget across these components is shown below:
 The total monthly budget asked for is **DAI 90,250.00** for the 12 months period from **May 2022 until April 2023**, included.
 
 ### Expansion Pool
-We want to be fully transparent but also very flexible to meet the future demands of the protocol. With that in mind, we want to request a dedicated pool of funds that will be used for a variety of purposes, all of them with the goal of increasing the value delivered to the protocol.
+We want to be fully transparent but also very flexible to meet the future demands of the protocol. With that in mind, we want to request a dedicated pool of funds that will be used for a variety of purposes, all of them with the goal of increasing the value delivered to the protocol. 
 
-These uses include hiring new team members, funding grants to community members, engaging in partnerships and using new tools and services.
+These uses include hiring new team members, funding grants to community members, engaging in partnerships and using new tools and services. 
 
 Our thinking in requesting such a pool of funds is that we want to avoid misappropriating allocated funds while acknowledging that our current plans can change in the future in the the best interest of the protocol.
 
@@ -177,14 +178,14 @@ This covers the maximum of a **3 year plan for 5.25 FTEs**.
 This budget implementation is a “Simple Budget Implementation” under [MIP40c4](https://mips.makerdao.com/mips/details/MIP40#simple-budget-implementations).
 
 * Core Unit wallet address: [0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F](https://etherscan.io/address/0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F)
-* Keyholders:
+* Keyholders: 
    * @tmierzwa - [0x5Fc4d6cF7777FF7A89268562959680dF6e6DD83D](https://etherscan.io/address/0x5Fc4d6cF7777FF7A89268562959680dF6e6DD83D)
    * @piotr.klis - [0xc6Ffa10CeFE1dA15f6Bc66428B1e73758D284394](https://etherscan.io/address/0xc6Ffa10CeFE1dA15f6Bc66428B1e73758D284394)
    * @tadeo - [0x89E14956C6fBB814B281B0A1598E11297713c6d0](https://etherscan.io/address/0x89E14956C6fBB814B281B0A1598E11297713c6d0)
 
 We are currently investigating the best way to implement additional wallet security measures like external multisig owners or an Auditor multisig.
 
-####  Transfers
+#### Transfers
 
 * unused Incorporation Budget (**10,000.00 DAI**) and other unused funds from existing monthly budget (**est. 45,000.00 DAI**) will be returned to the protocol not later than on 2022-05-10
 * the total of **1,083,000.00 DAI** will be streamed to 0x7327Aed0Ddf75391098e8753512D8aEc8D740a1F starting 2022-05-01 and ending 2023-04-30 at a rate of **90,250.00 DAI** per month
