@@ -1,0 +1,7 @@
+data:
+  - id: RATIFICATION-POLLS
+    title: $title
+    description: $description
+    timelock: 2 hours
+    type: RED
+    
