@@ -122,14 +122,14 @@ The smart contracts driving the Pairwyse protocol have been tested for productio
 
 Pairwyse has been built with extensive QA testing. In addition to an ongoing Security and Financial audits, we have built financial and protocol stress testing tools into our QA suite. These tools allow protocol users and developers to simulate the behavior of any Pairwyse fixed-rate loan to assess financial precision and behavior of smart contracts under a range of operational conditions.
 
-[!Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail1.png)
+![Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail1.png)
 [Video](https://drive.google.com/file/d/13dHRjEinAypnfhiidbI1TyPzj_ELInRF/view?usp=sharing)
 
 **Business Analysis**
 
 The Pairwyse protocol specifically solves the [impossible trinity](https://en.wikipedia.org/wiki/Impossible_trinity) for MakerDAO by creating a fixed-rate marketplace for borrowers and lenders without restricting Maker’s use of floating rates and market-driven capital flows to maintain the DAI peg and grow its supply.
 
-[Impossible Trinity](https://github.com/makerdao/mips/blob/master/MIP66/impossible-trinity.png)
+![Impossible Trinity](https://github.com/makerdao/mips/blob/master/MIP66/impossible-trinity.png)
 
 In addition to helping solve the impossible trinity for Maker, the Pairwyse P2P protocol also provides an effective independence layer, creating a buffer between Maker’s decentralized protocol and potentially-regulated lending and borrowing entities (e.g. registered broker-dealers).
 
@@ -144,13 +144,13 @@ By funnelling existing DAI holders back into a Maker-centric financing and inves
 
 Our business analysis continues to hold that DAI and Maker are in prime position to capture and scale transaction flow from legacy financial markets and centralized institutions. The keys for Maker for capturing opportunity are maintaining its decentralization and strong capital position in seamlessly scaling secondary marketplaces for DAI. As a matched-book lending protocol, Pairwyse readily enables Maker to strongly reinforce decentralization and grow its TVL and fee revenue without introducing disruptive volatiles in DAI supply, stability and oversight.
 
-[!Pairwyse_Whitepaper_Early_Preview](https://github.com/makerdao/mips/blob/master/MIP66/Pairwyse_Whitepaper_Early_Preview.png)
+![Pairwyse_Whitepaper_Early_Preview](https://github.com/makerdao/mips/blob/master/MIP66/Pairwyse_Whitepaper_Early_Preview.png)
 
 Our [whitepaper](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf) further describes the nuts and bolts on how Maker can capture opportunity using Pairwyse to invoke decentralized P2P marketplaces built atop Maker and DAI which leverage Pairwyse’s composable technology and fixed-rate financial design patterns.
 
 In addition, please see our last [AMA](https://www.youtube.com/watch?v=mjfMNKmHUhg), where we describe how a solution like Pairwyse can be used to grow institutional financing and investment on Maker.
 
-[!Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail2.png)
+![Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail2.png)
 
 Pairwyse IP and protocol have been designed to enable fluid integration with regulated broker-dealers. This will enable Maker business development units to scale across multiple regulatory jurisdictions and across multiple real-world asset segments. The protocol’s P2P design allows Maker and DAI to remain fully decentralized, giving MKR holders maximum flexibility on market-making strategies and implementations to grow TVL through fixed-rate products.
 
