@@ -122,7 +122,7 @@ The smart contracts driving the Pairwyse protocol have been tested for productio
 
 Pairwyse has been built with extensive QA testing. In addition to an ongoing Security and Financial audits, we have built financial and protocol stress testing tools into our QA suite. These tools allow protocol users and developers to simulate the behavior of any Pairwyse fixed-rate loan to assess financial precision and behavior of smart contracts under a range of operational conditions.
 
-![Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail1.png)
+![Rate Simulation Reconciliation Test](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail1.png)
 [Video](https://drive.google.com/file/d/13dHRjEinAypnfhiidbI1TyPzj_ELInRF/view?usp=sharing)
 
 **Business Analysis**
@@ -150,7 +150,7 @@ Our [whitepaper](https://github.com/akiva-capital-holdings/pairwyse-smart-contra
 
 In addition, please see our last [AMA](https://www.youtube.com/watch?v=mjfMNKmHUhg), where we describe how a solution like Pairwyse can be used to grow institutional financing and investment on Maker.
 
-![Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail2.png)
+![AMA](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail2.png)
 
 Pairwyse IP and protocol have been designed to enable fluid integration with regulated broker-dealers. This will enable Maker business development units to scale across multiple regulatory jurisdictions and across multiple real-world asset segments. The protocol’s P2P design allows Maker and DAI to remain fully decentralized, giving MKR holders maximum flexibility on market-making strategies and implementations to grow TVL through fixed-rate products.
 
