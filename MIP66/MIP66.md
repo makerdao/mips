@@ -17,7 +17,7 @@ Forum URL: https://forum.makerdao.com/t/mip66-pairwyse-licensure/13554
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdbNKMR
 ```
 
-## **References**
+## References
 
 * [Pairwyse.io](https://pairwyse.io/)
 * [Whitepaper](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf)
@@ -27,49 +27,50 @@ Ratification Poll URL: https://vote.makerdao.com/polling/QmdbNKMR
 * [Pairwyse Fixed-Rate IP](https://patentscope.wipo.int/search/en/detail.jsf?docId=JP328095640&_fid=JP328095640)
 * [Proposed Pairwyse Open Patent Pledge](https://docs.google.com/document/d/1Fz5TOBM3hQlsJKM6Sxy8hsGj5IA-iXzS/edit)
 
-## **Sentence Summary**
+## 
+## Sentence Summary
 
 The Pairwyse Foundation has implemented an out-of-box smart contract solution and deployed software products for provisioning fixed-rate DAI loans of arbitrary term-length via the Pairwyse protocol built atop Maker’s credit and deposit facilities.
 
-## **Paragraph Summary**
+##  Paragraph Summary
 
 Pairwyse is an active protocol and blueprint for creating bespoke fixed-rate DAI lending and investment Agreements on MakerDAO between borrowers and lenders. We wish to thank the Maker Community for its previous feedback concerning the negative impact of patents on open source projects and potential concentration risks posed by fixed-rate innovations currently incubating in the Maker ecosystem. In posting this MIP, we wish to directly address these shared concerns with a fresh proposal we feel is favorable for MakerDAO, its contributors, its users and all current and future DeFi innovators throughout the collective ecosystem.
 
-## **Component Summary**
+## Component Summary
 
-**MIP66c1 - Pairwyse Licensure**
+**MIP66c1: Pairwyse Licensure**
 
 Describes specific financial terms and summary of value to Maker.
 
-**MIP66c2 - Open Patent Non-Assertion Pledge**
+**MIP66c2: Open Patent Non-Assertion Pledge**
 
 Details our proposed pledge to Maker legally binding the Pairwyse Foundation and its affiliate partners to IP non-assertion and full open sourcing of Pairwyse.
 
-**MIP66c3 - Pairwyse Protocol Operations**
+**MIP66c3: Pairwyse Protocol Operations**
 
 Details commitments of technology resources and effort towards full operationalization of the Pairwyse protocol and Pairwyse decentralization under Maker stewardship.
 
-**MIP66c4 - Business Development for DAI Fixed-Rates on Maker**
+**MIP66c4: Business Development for DAI Fixed-Rates on Maker**
 
 Details commitments of business development resources and effort towards market development and early commitments for issuance and placement of DAI fixed-rate loans.
 
-**MIP66c5 - Scaling Fixed-Rates for New Collateral Assets**
+**MIP66c5: Scaling Fixed-Rates for New Collateral Assets**
 
 Details commitments to collaborative development with Maker core units and governance groups for scaling collateral vaults to new asset classes based on strong business cases.
 
-**MIP66c6 - Pairwyse Platform Optimizations**
+**MIP66c6: Pairwyse Platform Optimizations**
 
 Details commitments of technology resources and effort toward continual platform improvement, including optimizations based on independent smart contract audits.
 
-**MIP66c7 - Innovation Opportunities**
+**MIP66c7: Innovation Opportunities**
 
 Details commitments to support open innovation and entrepreneurial contributions to the Pairwyse protocol, including future value adds for the fixed-rate ecosystem.
 
-**MIP66c8 - References**
+**MIP66c8: References**
 
 Provides links to supplementary information
 
-## **Motivation**
+## ## Motivation
 
 We have been in discussions with the DAI Foundation, forum members and MKR holders on how best to build a robust ecosystem and economy around DAI fixed-rate products built on Maker protocol.
 
@@ -121,7 +122,7 @@ The smart contracts driving the Pairwyse protocol have been tested for productio
 
 Pairwyse has been built with extensive QA testing. In addition to an ongoing Security and Financial audits, we have built financial and protocol stress testing tools into our QA suite. These tools allow protocol users and developers to simulate the behavior of any Pairwyse fixed-rate loan to assess financial precision and behavior of smart contracts under a range of operational conditions.
 
-[![|340x191](upload://7hzDmoociB5Xw0Qv8mXzIFghdpc.png)](https://drive.google.com/file/d/13dHRjEinAypnfhiidbI1TyPzj_ELInRF/view?usp=sharing)
+[[![Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail1.png)](https://drive.google.com/file/d/13dHRjEinAypnfhiidbI1TyPzj_ELInRF/view?usp=sharing)
 
 **Business Analysis**
 
@@ -142,13 +143,13 @@ By funnelling existing DAI holders back into a Maker-centric financing and inves
 
 Our business analysis continues to hold that DAI and Maker are in prime position to capture and scale transaction flow from legacy financial markets and centralized institutions. The keys for Maker for capturing opportunity are maintaining its decentralization and strong capital position in seamlessly scaling secondary marketplaces for DAI. As a matched-book lending protocol, Pairwyse readily enables Maker to strongly reinforce decentralization and grow its TVL and fee revenue without introducing disruptive volatiles in DAI supply, stability and oversight.
 
-[![|300x260](upload://lJrS5HJU3qGEEJFRumShYBZYgT0.jpeg)](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf)
+[[!Pairwyse_Whitepaper_Early_Preview](https://github.com/makerdao/mips/blob/master/MIP66/Pairwyse_Whitepaper_Early_Preview.png)](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf)
 
 Our [whitepaper](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf) further describes the nuts and bolts on how Maker can capture opportunity using Pairwyse to invoke decentralized P2P marketplaces built atop Maker and DAI which leverage Pairwyse’s composable technology and fixed-rate financial design patterns.
 
 In addition, please see our last [AMA](https://www.youtube.com/watch?v=mjfMNKmHUhg), where we describe how a solution like Pairwyse can be used to grow institutional financing and investment on Maker.
 
-[![|346x193](upload://3dfhgz9Z8FMtxQWSqz0GKv049td.jpeg)](https://www.youtube.com/watch?v=mjfMNKmHUhg)
+[[![Video Thumbnail](https://github.com/makerdao/mips/blob/master/MIP66/video_thumbnail2.png)](https://www.youtube.com/watch?v=mjfMNKmHUhg)
 
 Pairwyse IP and protocol have been designed to enable fluid integration with regulated broker-dealers. This will enable Maker business development units to scale across multiple regulatory jurisdictions and across multiple real-world asset segments. The protocol’s P2P design allows Maker and DAI to remain fully decentralized, giving MKR holders maximum flexibility on market-making strategies and implementations to grow TVL through fixed-rate products.
 
@@ -166,13 +167,13 @@ As a consequence, to overcome these emerging ecosystem risks we have entered int
 
 Accordingly, our proposed licensing structure will specifically include an Open Patent Non-Assertion Pledge, which upon MKR holder approval of this proposal (MIP66), will legally bind the Pairwyse Foundation and its affiliate partner, Akiva Capital Holdings, Inc., to commit Pairwyse software and IP to full open source development, removing with it any IP-related barrier or friction to innovation by other open source projects. We describe in the next section below our licensing proposal and tentative IP pledge.
 
-## **Specification / Proposal Details**
+## ## Specification / Proposal Details
 
-**MIP66c1 - Pairwyse Licensure**
+### MIP66c1: Pairwyse Licensure
 
 For a one-time up-front payment of 4000 MKR plus 15% of CDP vault fee revenue transacted through Pairwyse software paid in DAI to the Pairwyse Foundation at ethereum wallet address 0xAF2CeABE7BE342171F3F27063165a16D7B8180c1 , MakerDAO along with its governing individuals and affiliated entities will have unlimited perpetual use of Pairwyse fixed-rate software, technologies, source code and design patterns along with integration guidance and expertise from the Pairwyse Foundation and its partners for the delivery of decentralized lending and investment products built over the Maker protocol.
 
-**MIP66c2 - Open Patent Non-Assertion Pledge**
+### MIP66c2: Open Patent Non-Assertion Pledge
 
 In addition, pending approval of this proposal (MIP66), the Pairwyse Foundation and its affiliate partner, Akiva Capital Holdings, Inc, will make a public Open Patent Non-Assertion Pledge (the “Pledge”) during the governance review period which will be legally-binding upon proposal acceptance by MKR holders.
 
@@ -186,7 +187,7 @@ In summary, our Patent Non-Assertion Pledge, activated upon approval of this pro
 
 We hope our pending Pledge, as part of this overall proposal, will resolve past concerns previously expressed by the Maker community around open innovation and concentration risk, including mitigation of centralization risks whether by patented invention or permissioned software. This will allow Pairwyse and MakerDAO, along with other innovators, to focus squarely on driving best value for DAI and the Maker protocol.
 
-**MIP66c3 - Pairwyse Protocol Operations**
+### MIP66c3: Pairwyse Protocol Operations
 
 Upon MIP66 approval, the Pairwyse Foundation will continue assuming responsibility for all technology operational implementation and costs for the current Pairwyse mainnet protocol in addition to anticipated new deployments in FY2022.
 
@@ -196,7 +197,7 @@ Alternatively, the open sourcing of Pairwyse will afford Maker (or anyone else) 
 
 That said, we are open to joint efforts and alternative operational proposals for decentralization, quality assurance and SLA guarantees for fixed-rate provisioning.
 
-**MIP66c4 - Business Development for DAI Fixed-Rates on Maker**
+### MIP66c4: Business Development for DAI Fixed-Rates on Maker
 
 Beyond technology ops, the Pairwyse Foundation is actively building a business pipeline for fixed-rate financing and investments on Maker. We have previously collaborated with Maker's Growth core unit and participated in Risk and Open Market committees. We look forward to continued cross-functional business development with Maker’s core units and governance groups.
 
@@ -208,7 +209,7 @@ To accelerate business development, the Pairwyse Foundation will:
 
 3. secure commitments from third party service providers (e.g. custodial wallets, risk monitoring services, protocol insurance providers) for integration with Pairwyse as institutional onboarding requirements and strong business cases dictate. In return, the Pairwyse Foundation and its affiliates will commit technical resourcing and effort toward integrating external wallet solutions with UI portals and backend services sponsored by the Pairwyse Foundation as supported by strong business cases. As risk monitoring needs evolve, we will act upon strong business evidence for integration of external risk services with Pairwyse’s backend automation infrastructure in order to provide institutional users maximum comfort in managing Pairwyse transactions on Maker.
 
-**MIP66c5 - Scaling Fixed-Rates for New Collateral Assets**
+### MIP66c5: Scaling Fixed-Rates for New Collateral Assets
 
 We expect certain platform optimizations will be business and organizational in nature, requiring collaborative solutions with existing Maker core units. We expect this will be the case in efforts to expand Maker's collateral vaults to new RWA types.
 
@@ -220,7 +221,7 @@ Additionally, we will consider contributing additional resources and effort towa
 
 Upon creation of new collateral vaults by Maker, the Pairwyse Foundation and its affiliates will ensure these are integrated with the Pairwyse smart contracts and all UI interfaces sponsored by the Pairwyse Foundation such that any vault owner will have options to transition from variable rates to fixed rates at fixed term lengths via Pairwyse.
 
-**MIP66c6 - Pairwyse Platform Optimizations**
+### MIP66c6: Pairwyse Platform Optimizations
 
 The Pairwyse Foundation and its affiliates will commit to continued technical optimizations of Pairwyse, including technical integrations with Maker protocol and its supporting infrastructure.
 
@@ -230,7 +231,7 @@ We will use independent auditors of high reputation in the Maker community (e.g.
 
 The results of these audits will be made publicly available on Github in addition to postings on the Maker Forum and UI portals sponsored by the Pairwyse Foundation. We are committed to providing users full technical transparency on the robustness of the Pairwyse protocol.
 
-**MIP66c7 - Innovation Opportunities**
+### MIP66c7: Innovation Opportunities
 
 We detailed in [our whitepaper](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf) a roadmap for future directions of Pairwyse development in support of a robust fixed-rate DAI marketplace over Maker. These include developing new Lender and Credit pool smart contracts and engineering transferability into Pairwyse fixed-rate smart contract agreements.
 
@@ -240,7 +241,7 @@ In summary, the Pairwyse Foundation's network of stakeholders are keen to build 
 
 By providing Maker a ready-made fixed-rate facility, we believe DAI can be positioned and grown as a strong stablecoin for global trade, financing and investment. We are eager to engage innovators within the Maker ecosystem on joint entrepreneurial opportunities benefiting growth of Maker’s emerging DAI fixed-rate ecosystem.
 
-**MIP66c8 - References**
+### MIP66c8: References
 
 * [Pairwyse.io](https://pairwyse.io/)
 * [Whitepaper](https://github.com/akiva-capital-holdings/pairwyse-smart-contracts/blob/master/doc/Pairwyse_Whitepaper_Early_Preview_Oct.6.2021.pdf)
