@@ -10,8 +10,8 @@ Contributors: @ultraschuppi
 Tags: governance, ppg
 Type: General
 Status: Accepted
-Date Proposed: 2021-02-03
-Date Ratified: 2021-25-03
+Date Proposed: 2021-03-02
+Date Ratified: 2021-03-25
 Dependencies: None
 Replaces: None
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail  
@@ -28,7 +28,7 @@ MIP46 proposes the formalization of Parameter Proposal Groups. These groups are 
 
 ## Paragraph Summary
 
-MIP46 proposes the formalization of Parameter Proposal Groups. These groups are tasked with evaluating information produced by contributors and domain teams and using this analysis to produce parameter change proposals for consideration by governance. Parameter Proposal Groups can form organically without a governance vote and are expected to consistently produce parameter adjustment proposals which may be included in the weekly governance cycle by the Governance Facilitator(s).
+MIP46 proposes the formalization of Parameter Proposal Groups. These groups are tasked with evaluating information produced by Contributors and Domain Teams and using this analysis to produce Parameter Change Proposals for consideration by governance. Parameter Proposal Groups can form organically without a governance vote and are expected to consistently produce Parameter Adjustment Proposals which may be included in the Weekly Governance Cycle by the Governance Facilitator(s).
 
 ## Component Summary
 
@@ -42,7 +42,7 @@ Details the requirements that a Parameter Proposal must meet to be valid for inc
 
 **MIP46c3: Parameter Proposal Process**
 
-Details the governance process for parameter proposals created by recognized Parameter Proposal Groups.
+Details the governance process for Parameter Proposals created by recognized Parameter Proposal Groups.
 
 ## Motivation
 
@@ -58,7 +58,7 @@ In order to avoid introducing further governance work, it is proposed that these
 
 ### MIP46c1: Parameter Proposal Group Requirements
 
-Each prospective Parameter Proposal Group must fulfill and maintain a set of requirements in order to be recognized by the Governance Facilitators as a Parameter Proposal Group. Each Parameter Proposal group must announce its creation in the forum and respond to each of the points below.
+Each prospective Parameter Proposal Group must fulfill and maintain a set of requirements in order to be recognized by the Governance Facilitators as a Parameter Proposal Group. Each Parameter Proposal Group must announce its creation in the forum and respond to each of the points below.
 
 **Objectives** - The Parameter Proposal Group must lay out what high objective or objectives they are trying to achieve through their proposals.
 
@@ -78,7 +78,7 @@ Each prospective Parameter Proposal Group must fulfill and maintain a set of req
 
 ### MIP46c2: Parameter Proposal Requirements
 
-Each parameter proposal must fulfill a set of requirements in order to be recognized by the Governance Facilitators as a valid proposal. These requirements are laid out here.
+Each Parameter Proposal must fulfill a set of requirements in order to be recognized by the Governance Facilitators as a valid proposal. These requirements are laid out here.
 
 **Communication** - Parameter Proposals must be posted publicly on the Maker Governance forum. 
 
@@ -90,10 +90,10 @@ Each parameter proposal must fulfill a set of requirements in order to be recogn
 
 ### MIP46c3: Parameter Proposal Process
 
-Parameter Proposals are first presented on the Maker Governance forum and are then entered into the weekly governance cycle by the Governance Facilitators. Where possible, Parameter Proposals should be made public on the first Monday of the month for inclusion into the weekly cycle in the second week of the month. 
+Parameter Proposals are first presented on the Maker Governance forum and are then entered into the Weekly Governance Cycle by the Governance Facilitators. Where possible, Parameter Proposals should be made public on the first Monday of the month for inclusion into the weekly cycle in the second week of the month. 
 
 Sufficient time must be given for discussion, and inclusion in the weekly cycle may be delayed by the Governance Facilitators if they feel more discussion is required.
 
-Proposed Parameter Changes will be bundled into a single on-chain poll for inclusion in the weekly cycle, and if the outcome is favorable, will proceed to that week's executive vote absent unforeseen circumstances.
+Proposed Parameter Changes will be bundled into a single on-chain poll for inclusion in the weekly cycle. If the outcome is favorable, it will proceed to that week's executive vote absent unforeseen circumstances.
 
 Urgent or emergency proposals from Parameter Proposal Groups should follow the existing guidelines for urgent or emergency proposals.  
