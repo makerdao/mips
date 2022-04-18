@@ -6,7 +6,7 @@
 MIP6c3-SP: 2
 Title: Subproposal for changing the collateral application form
 Author(s): @lollike, @monkey.irish
-Contributors: 
+Contributors:
 Tags: mip-amendment
 Status: Formal Submission
 Date Proposed: 2022-03-09

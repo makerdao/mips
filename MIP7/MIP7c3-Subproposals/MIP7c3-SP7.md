@@ -11,7 +11,7 @@ Tags: collateral-onboarding
 Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip7c3-sp7-ces-domain-team-onboarding-ces-001/13794
-Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
+Ratification Poll URL: https://vote.makerdao.com/polling/QmVAD1ZD
 ---
 Domain Role: Collateral Engineering Services Domain Team
 Proposed Applicant: Collateral Engineering Services (CES) Core Unit
