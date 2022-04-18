@@ -94,6 +94,6 @@ Parameter Proposals are first presented on the Maker Governance forum and are th
 
 Sufficient time must be given for discussion, and inclusion in the weekly cycle may be delayed by the Governance Facilitators if they feel more discussion is required.
 
-Proposed Parameter Changes will be bundled into a single on-chain poll for inclusion in the weekly cycle. If the outcome is favorable, it will proceed to that week's executive vote absent unforeseen circumstances.
+Proposed Parameter Changes will be bundled into a single on-chain poll for inclusion in the Weekly Governance Cycle. If the outcome is favorable, it will proceed to that week's executive vote absent unforeseen circumstances.
 
 Urgent or emergency proposals from Parameter Proposal Groups should follow the existing guidelines for urgent or emergency proposals.  
