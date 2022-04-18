@@ -20,15 +20,15 @@ Forum URL: https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624
 
 ## Sentence Summary
 
-A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are mandated actors or community members appointed by mandated actors.
+A Special Purpose Fund (SPF) is used to fulfill a narrow, specific, or temporary objective where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are Mandated Actors or community members appointed by Mandated Actors.
 
 ## Paragraph Summary
 
-A Special Purpose Fund (SPF) is used to fulfill a narrow, specific or temporary objective, where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are mandated actors or community members appointed by mandated actors.
+A Special Purpose Fund (SPF) is used to fulfill a narrow, specific, or temporary objective where approved funds are locked in escrow, releasable by a minimum of 2/3 signers, where at least 2 signers (called Comptrollers) are Mandated Actors or community members appointed by Mandated Actors.
 
 * Funding is only available in Dai.
 * A SPF must contain one Point of Contact (from the SPF receiver) and a minimum of two Comptrollers. Comptrollers execute payouts to final recipients based on the completion of milestones stated in the SPF Scope.
-* Any SPF request less than or equal to 50k Dai can go into the Weekly Cycle. Anything above 50K Dai must go through the Monthly Governance Cycle.
+* Any SPF request less than or equal to 50k Dai can go into the Weekly Governance Cycle. Anything above 50K Dai must go through the Monthly Governance Cycle.
     * The request (a MIP55c3 subproposal) must fulfill its Feedback Period and its Frozen Period before its submission into either cycle.
 
 ## Component Summary
@@ -54,17 +54,17 @@ Since then, community members have uncovered a need for a framework that is part
 
 This MIP can be used for situations like:
 
-* Protocol Audit Funding
-* Legal Reserves for the DAO
-* Gas Reserves for Oracles / Protocol Deployments
-* Funding a team that works independently of Governance
-* Funding DAO objectives with no existing core unit or Facilitator yet
+* Protocol Audit Funding.
+* Legal Reserves for the DAO.
+* Gas Reserves for Oracles / Protocol Deployments.
+* Funding a team that works independently of Governance.
+* Funding DAO objectives with no existing Core Unit or Facilitator.
 
 Special Purpose Funds should be used infrequently. This MIP should **NOT** be used for:
 
-* Grants
-* Teams with long term objectives that should be Core Units
-* Vesting or DAO Mandated actor / Contributor compensation
+* Grants.
+* Teams with long term objectives that should be Core Units.
+* Vesting or DAO Mandated Actor / Contributor compensation.
 
 The structure for Special Purpose Funds are specific to ensure minimum Governance overhead. Approved funds are locked in a multisig escrow, releasable by a minimum of 2/3 signers (a Point of Contact and at least 2 Comptrollers). The signers reduce future Governance overhead to a minimum and this provides flexibility for executing funds that need to be released at the time of completion, rather than waiting for a secondary Governance cycle to execute.
 
@@ -76,7 +76,7 @@ In order to be recognized as a Special Purpose Fund, proposals must have the fol
 
 * There must be a clear and public explanation of the purpose and scope of the Special Purpose Fund.
 * Must follow the multisig process outlined in MIP47: MakerDAO Multisignature Wallet Management. It must include a wallet address, official Point of Contact, and Comptroller signers must be publicly verified.
-* The Scope must be limited to either timeframe or specific deliverable (For example: The Protocol needs audits for the launch of LIQ.2.0. Funds are approved to pay auditors, Dai goes into escrow, and 2 Comptrollers release funds to the auditors once audits are complete).
+* The Scope must be limited by either timeframe or specific deliverable (For example: The Protocol needs audits for the launch of LIQ.2.0. Funds are approved to pay auditors, Dai goes into escrow, and 2 Comptrollers release funds to the auditors once audits are complete).
 * The SPF Scope work must be auditable by Comptrollers.
 
 ### MIP55c2: Special Purpose Fund Process
@@ -92,16 +92,16 @@ The process is as follows:
 
 **Roles: Point of Contact and Comptrollers**
 
-The SPF Comptrollers must ensure that transparency and accountability exist as the budget is spent. Comptrollers should communicate transparent accounting such as [(this Reporting Template)](https://docs.google.com/spreadsheets/d/1Bxb0f4K4db8bZzZSQ4NiOHLNv0cFVNeYTm77HoIlpMk/edit?usp=sharing). Comptrollers cannot be receivers of SPF funding. They execute payouts to final recipients based on the completion of milestones stated in the SPF Scope. Comptrollers should be mandated actors, but they may be community members appointed by mandated actors.
+The SPF Comptrollers must ensure that transparency and accountability exist as the budget is spent. Comptrollers should communicate transparent accounting such as [this Reporting Template](https://docs.google.com/spreadsheets/d/1Bxb0f4K4db8bZzZSQ4NiOHLNv0cFVNeYTm77HoIlpMk/edit?usp=sharing). Comptrollers cannot be receivers of SPF funding. They execute payouts to final recipients based on the completion of milestones stated in the SPF Scope. Comptrollers should be Mandated Actors, but they may be community members appointed by Mandated Actors.
 
-A SPF Point of Contact is the person representing the SPF receiver. The Point of Contact can be the final receiver or a representative appointed by the fund receiver. If a SPF Point of Contact disappears, quits, or is no longer valid, the Special Purpose Fund has 14 days to replace or find a replacement, otherwise the Special Purpose Fund proposal and its funding will no longer be valid.
+A SPF Point of Contact is the person representing the SPF receiver. The Point of Contact can be the final receiver or a representative appointed by the fund receiver. If a SPF Point of Contact disappears, quits, or is no longer valid, the Special Purpose Fund has 14 days to replace or find a replacement. Otherwise, the Special Purpose Fund proposal and its funding will no longer be valid.
 
 **Funding Considerations**
 
 There are several important considerations to take into account before transferring value out of the Maker Protocol.
 
 * Transfer of DAI from the SPF multisig to an external address that is not controlled by Maker Governance is a one-way operation.
-* Transfer of DAI from the protocol will take DAI from the surplus buffer if available. If funding a MIP55c3 subproposal would result in a FLOP auction, Governance Facilitator(s) will use established communication channels to ensure the community is informed.
+* Transfer of DAI from the protocol will take DAI from the Surplus Buffer if available. If funding a MIP55c3 subproposal would result in a FLOP auction, Governance Facilitator(s) will use established communication channels to ensure the community is informed.
 
 **Funding Implementation**
 
@@ -113,18 +113,18 @@ The initial funding implementation would use a simple funding implementation of 
 
 MIP55c3 subproposals must use the template located at **[MIP55c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposal-Template.md)** .
 
-This is a component that can have on-chain effects that alter the Maker Protocol's state. When subproposals are generated from this component, the vote must include a technical state change to authorize drawing funds from the Maker Protocol.
+This is a component that can have on-chain effects that alter the Maker Protocol's state. When subproposals are generated from this component, the vote must include a Technical State Change to authorize drawing funds from the Maker Protocol.
 
 **The proposal parameters**
 
-Requests of less than or equal to 50k Dai may go into the Weekly Cycle, provided the Feedback and Frozen periods have been fullfilled. Anything above 50k Dai must go through the Monthly Governance Cycle.
+Requests of less than or equal to 50k Dai may go into the Weekly Governance Cycle, provided the Feedback and Frozen Periods have been fullfilled. Anything above 50k Dai must go through the Monthly Governance Cycle.
 
 _Parameters for requests of less or equal to 50K Dai:_
 
-* Minimum feedback period: 2 weeks.
-* Minimum frozen period: 1 week.
+* Minimum Feedback Period: 2 Weeks.
+* Minimum Frozen Period: 1 Week.
 
 _Parameters for requests of above 50K Dai:_
 
-* Minimum feedback period: 4 weeks.
-* Minimum frozen period: 1 week.
+* Minimum Feedback Period: 4 Weeks.
+* Minimum Frozen Period: 1 Week.
