@@ -9,8 +9,8 @@ Author(s): @Allan_Pedersen
 Contributors:
 Tags:
 Type: Proposal
-Status: Formal Submission
-Date Proposed: <2022-02-09>
+Status: RFC
+Date Proposed: 2022-02-09
 Date Ratified: <yyyy-mm-dd>
 Dependencies: None
 Replaces: None
