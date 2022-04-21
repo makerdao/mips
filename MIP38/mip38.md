@@ -107,7 +107,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Facilitator
 
-- Sébastien Derivaux - [MIP41c4-SP1](https://mips.makerdao.com/mips/details/MIP41c4SP1)
+- William Remor - [MIP41c4SP27](https://mips.makerdao.com/mips/details/MIP41c4SP27)
 
 ---
 
@@ -204,28 +204,6 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Facilitator
 
 - Nadia Alvarez - [MIP41c4-SP4](https://mips.makerdao.com/mips/details/MIP41c4SP4)
-
----
-
-#### MakerDAO Shop (MDS-001)
-
-- **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store.
-- **Ratification Date for the Initial Proposal Set** - 2021-04-27
-
-##### Mandate
-
-- [MIP39c2-SP6](https://mips.makerdao.com/mips/details/MIP39c2SP6)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
-    - **Ratification Date** - 2021-04-27
-    - **Budget Amount** - 0 DAI (50/50 profit sharing)
-
-##### Facilitator
-
-- Coulter Mulligan - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
-- Mike Porcaro - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
 
 ---
 
@@ -484,7 +462,6 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
 - **Ratification Date for the Initial Proposal Set** - 2021-11-22
 
-
 ##### Mandate
 
 - [MIP39c2-SP24](https://mips.makerdao.com/mips/details/MIP39c2SP24)
@@ -526,6 +503,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 - Daniel Kremerov - [MIP41c4-SP26](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP26.md)
 
+---
+
 #### Strategic Finance (SF-001)
 
 - **Summary** - Strategic Finance Core Unit's mission is to provide financial reporting and analysis to assist the DAO in evaluating the financial health of the protocol to enable strategic decision making and allocate capital more effectively.
@@ -546,6 +525,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 ##### Facilitator
 
 - Mark Phillips (@Aes) - [MIP41c4-SP28](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP28.md)
+
+---
 
 #### TechOps (TECH-001)
 
@@ -596,3 +577,23 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - Seth Goldfarb - [MIP41c4-SP5](https://mips.makerdao.com/mips/details/MIP41c4SP5)
 
 ---
+
+#### MakerDAO Shop (MDS-001)
+
+- **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store.
+- **Ratification Date for the Initial Proposal Set** - 2021-04-27
+
+##### Mandate
+
+- [MIP39c2-SP6](https://mips.makerdao.com/mips/details/MIP39c2SP6)
+
+##### Budget
+
+- **Active Budget** - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
+    - **Ratification Date** - 2021-04-27
+    - **Budget Amount** - 0 DAI (50/50 profit sharing)
+
+##### Facilitator
+
+- Coulter Mulligan - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
+- Mike Porcaro - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
