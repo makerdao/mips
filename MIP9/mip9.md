@@ -40,10 +40,10 @@ Defines the community greenlight process and its interaction with the collateral
 Defines the possible outcomes from the community greenlight process.
 
 **MIP9c3: The Community Greenlight Requirements**
-Defines the responsibilities of the Governance Facilitators in the community greenlight process.
+Defines the responsibilities of the relevant Core Unit Facilitators in the community greenlight process.
 
-**MIP9c4: Community Greenlight Poll Template**
-Defines a governance poll template to be used in the on-chain Community Greenlight poll.
+**MIP9c4: Community Greenlight Poll Recommendations**
+Provides a recommendation for the on-chain Community Greenlight poll.
 
 ## Motivation
 
@@ -96,31 +96,12 @@ Community Greenlight poll scores provide a reasonable first approximation of whi
 
 - The Governance Facilitators are responsible for creating a Community Greenlight Poll for each valid potential collateral asset bi-monthly.
 - If a previously deferred potential collateral asset is included in the bi-monthly greenlight polls, a reason must be communicated to the community via the official forum before the greenlight poll occurs.
-- The Governance Facilitators are responsible for maintaining a list of collaterals based on the outcome of the individual Community Greenlight Polls. This list should include collateral types that have been both greenlit and deferred.
-- At the Governance Facilitators’ discretion, community greenlight polls may be deferred to a later date.
+- The Collateral Engineering Services Facilitator is responsible for maintaining a list of collaterals based on the outcome of the individual Community Greenlight Polls. This list should include collateral types that have been both greenlit and deferred.
 - At the Governance Facilitator’s discretion, community greenlight polls may be deferred to a later date.
 - If the Governance Facilitators opt to defer community greenlight polls, a reason must be communicated to the community via the official forum before the greenlight poll was scheduled to take place.
 
 ---
 
-### MIP9c4: Community Greenlight Poll Template
+### MIP9c4: Community Greenlight Poll Recommendations
 
-In this template, the asset ETH is used as an example collateral type.
-
-Additional informational material or reference links may be added to the poll content at the discretion of the Governance Facilitators.
-
-**Governance Poll Template:**
-
-**Poll Title**
-MIP9 Community Greenlight Poll: ETH (Ether)
-
-**Description**
-If greenlight votes exceed defer votes, this poll is to be taken as a signal to domain teams that MKR Token Holders have approved further domain work with the aim of adding ETH (Ether) as a collateral asset to the Maker Protocol.
-
-**Duration of Poll**
-Two weeks
-
-**Poll Options**
-
-- Yes (Greenlight)
-- No (Defer)
+Once an application has met the requirements for inclusion in an on-chain poll, as defined in MIP9c1, the Governance Facilitators will submit an on-chain poll to the voting portal. The overall structure of this poll will be at the discretion of the Governance Facilitators, but, at minimum, it must meet the poll requirements defined elsewhere in MIP9.
