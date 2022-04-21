@@ -43,7 +43,7 @@ Defines the possible outcomes from the community greenlight process.
 Defines the responsibilities of the relevant Core Unit Facilitators in the community greenlight process.
 
 **MIP9c4: Community Greenlight Poll Recommendations**
-Provides a recommendation for the on-chain Community Greenlight poll.
+Provides recommendations for the on-chain Community Greenlight poll.
 
 ## Motivation
 
