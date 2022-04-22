@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP4c2-SP19: MIP40 Amendment
+MIP4c2-SP#: 19
 MIP to be amended: MIP40
 Title: Budget Framework Replacement
 Author(s): @Aes, @adcv, @SebVentures
