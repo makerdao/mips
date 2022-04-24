@@ -17,6 +17,7 @@ Dependencies: MIP6
 Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip9-community-greenlight/1911
+Extra: This MIP has been amended. See [MIP4c2-SP3](https://mips.makerdao.com/mips/details/MIP4c2SP3), [MIP4c2-SP8](https://mips.makerdao.com/mips/details/MIP4c2SP8). The original version can be found [here](https://github.com/makerdao/mips/blob/ebc3cb4c3cb1b1381901c15cffbf062cd1f0d585/MIP9/mip9.md).
 ```
 
 ## References

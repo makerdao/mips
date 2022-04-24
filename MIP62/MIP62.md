@@ -16,6 +16,7 @@ Dependencies:
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip62-collateral-offboarding-process
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdwoZtA
+Extra: This MIP has been amended. See [MIP4c3-SP2](https://mips.makerdao.com/mips/details/MIP4c3SP2). The original version can be found [here](https://github.com/makerdao/mips/blob/9a50bb789a2c6bcba337ec86c097bf2a45d92841/MIP62/MIP62.md).
 ```
 
 ## References

@@ -13,6 +13,7 @@ Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip64-bug-bounty-program-for-makerdao-critical-infrastructure/12096
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWkPoVv
+Extra: This MIP has been amended. See [MIP4c3-SP1](https://mips.makerdao.com/mips/details/MIP4c3SP1), [MIP4c3-SP3](https://mips.makerdao.com/mips/details/MIP4c3SP3), [MIP4c2-SP17](https://mips.makerdao.com/mips/details/MIP4c2SP17). The original version can be found [here](https://github.com/makerdao/mips/blob/a7f9111eaf74aa32892893778bc54bcffbd55f61/MIP64/MIP64.md).
 ```
 
 ## Sentence Summary
