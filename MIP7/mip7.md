@@ -16,6 +16,7 @@ Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL: 
 Forum URL: https://forum.makerdao.com/t/mip7-onboarding-and-offboarding-domain-teams-for-collateral-onboarding/1909
+Extra: This MIP has been amended. See [MIP4c2-SP18](https://mips.makerdao.com/mips/details/MIP4c2SP18). The original version can be found [here](https://github.com/makerdao/mips/blob/c15afc813a5008eca2213ac0bb5eba42fbdf9403/MIP7/mip7.md).
 ```
 
 ## References

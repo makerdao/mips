@@ -8,9 +8,9 @@ MIP to be amended: MIP64
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: amendment
-Status: Formal Submission
+Status: Accepted
 Date of Amendment Submission: 2022-03-24
-Date of ratification: yyyy-mm-dd
+Date of ratification: 2022-04-21
 Forum URL: https://forum.makerdao.com/t/mip4c3sp3-amend-mip64-to-allow-more-flexibility-in-scope/14200
 Ratification Poll URL: 
 ```

@@ -16,6 +16,7 @@ Dependencies:
 Replaces: MIP5
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-november-2020-governance-cycle-bundle-november-23-2020?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip24-emergency-voting-system-replaces-mip-5/4009
+Extra: This MIP has been amended. See [MIP4c2-SP11](https://mips.makerdao.com/mips/details/MIP4c2SP11). The original version can be found [here](https://github.com/makerdao/mips/blob/d83fec9ddc9623a6f58ad5131e819ff46bd31695/MIP24/mip24.md).
 ```
 
 ## References
