@@ -54,6 +54,7 @@ The Maker Protocol requires a decentralized workforce in order to onboard new co
 
 ### MIP7c1: Domain Team Descriptions
 
+- **Collateral Engineering Services Teams** are responsible for managing the collateral onboarding and maintenance process and may include technical advisory services, collateral assessments, collateral process enhancements, and creating the technical work product independently or inconjunction with the Smart Contracts Teams for collateral onboarding proposals and maintenance activities.
 - **Oracle Teams** are responsible for designing oracle feed mechanisms for new collateral types, compelling the oracles to upgrade their nodes with new price feeds for new collateral types via MIP10, and creating the oracle work product for collateral onboarding.
 - **Smart Contracts Teams** are responsible for developing and deploying the collateral adapter for new collateral onboarding, and creating the technical work product for collateral onboarding proposals.
 - **Risk Teams** are responsible for creating the risk construct for a collateral onboarding proposal. As a part of the collateral on-boarding process, they also need to get a general model ratified on which they can base their risk construct.
