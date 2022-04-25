@@ -7,7 +7,7 @@ MIP#: 67
 Title: Methodology and Review Process for Structured Finance Transactions
 Author(s): @luca_pro, @williamr
 Contributors: @eumenes, @teej, @christiancdpetersen
-Tags: rfc, mips, rwf-001-cu, love-cu, process, collateral-onboarding
+Tags: mips, rwf-001-cu, love-cu, process, collateral-onboarding
 Type: Process
 Status: Accepted
 Date Proposed: 2022-01-07
