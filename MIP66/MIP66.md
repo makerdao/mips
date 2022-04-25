@@ -9,9 +9,9 @@ Author(s): [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:
 Contributors: [Akiva Dubrofsky](mailto:akiva@akiva.capital), [Ashwin Tumne](mailto:ashwin@akiva.capital), [Avtar Sehra](mailto:avtar@nivaura.com)
 Tags: pairwyse, fixed-rate, open-source, patent-non-assertion, formal-submission
 Type: General
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-03-02
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 Dependencies: <List of dependent MIPs>
 Forum URL: https://forum.makerdao.com/t/mip66-pairwyse-licensure/13554
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdbNKMR
