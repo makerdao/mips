@@ -95,7 +95,13 @@ Team Name: The name of the onboarded domain team.
 	- **Domain:** Risk
 	- **Date Added:** 2020-06-25 [Ratification Vote](https://mkrgov.science/executive/0x1d51ca29e35b6ce30167f634dd21376da1341d9b)
 
-**4. Legal Domain Teams:**
+**4. Collateral Engineering Services Domain Teams:**
+- **Team Name: CES-001**
+	- **Sub-proposal Number (MIP7c3-SP):** 7
+	- **Domain:** Collateral Engineering Services
+	- **Date Added:** 2022-04-25 [Ratification Poll](https://vote.makerdao.com/polling/QmVAD1ZD)
+
+**5. Legal Domain Teams:**
 
 ---
 ### MIP7c3: Domain Team Onboarding
