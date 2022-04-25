@@ -8,9 +8,9 @@ Title: Subproposal for changing the collateral application form
 Author(s): @lollike, @monkey.irish
 Contributors: 
 Tags: mip-amendment
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-03-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip6c3-sp2-modify-the-collateral-application-form/13787
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTGxRjL
 ```
