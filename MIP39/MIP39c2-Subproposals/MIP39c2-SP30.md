@@ -6,6 +6,7 @@
 MIP39c2-SP#: 30
 Author(s): David Utrobin
 Contributors:
+Tags: core-unit, cu-com-001, mandate, active
 Status: Accepted
 Date Proposed: 2022-02-11
 Date Ratified: 2022-04-25
