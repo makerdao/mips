@@ -1,19 +1,19 @@
-# MIP65: Project Clydesdale: Monetalis Arrangement I: Liquid Bond Strategy & Execution
-
+# MIP65: Clydesdale / Monetalis: Liquid Bond Strategy & Execution
 ## Preamble
 
 ```
 MIP#: 65
-Title: Project Clydesdale / Monetalis Arrangement I: Liquid Bond Strategy & Execution
+Title: Clydesdale / Monetalis: Liquid Bond Strategy & Execution
 Author(s): @Allan_Pedersen
 Contributors:
 Tags:
 Type: Proposal
-Status: Formal Submission
+Status: RFC
 Date Proposed: <2022-02-09>
 Date Ratified: <yyyy-mm-dd>
-Dependencies: None
+Dependencies: MIP21
 Replaces: None
+Forum  URL: https://forum.makerdao.com/t/mip65-project-clydesdale-monetalis-arrangement-i-liquid-bond-strategy-execution/13148
 ```
 
 ## References
@@ -25,97 +25,71 @@ Replaces: None
 
 ## Sentence Summary
 
-Arrange, coordinate, and execute a Liquid Bond Strategy to replace part of the current Maker USDC exposure.
+MIP65 will onboard and activate a RWA vault for the purpose of acquiring USDC via PSM and investing them in high quality liquid bond strategies held by a trust arranged and maintained by Monetalis.
 
 ## Paragraph Summary
 
-The MIP intends to accomplish the following over a short time frame:
-
-* Set up a starting Liquid Bond Strategy to replace part of the Maker USDC funds
-* Select a professional fund manager for the execution of the above strategy
-* Set up a Maker Execution and Governance Operating platform necessary for implementation
-* Implement and Deploy USDC [TBD]M
-* Devise a staged plan for further deployment
-
-#### *The progression through the above phases will be done with full community transparency, discussion, and approvals.*
+MIP65 onboards a RWA vault that will acquire USDC via the PSM and invest them in approved bond strategies. This MIP, importantly, also set out strict conditions for the setup of the underlying legal and governance structure and verification requirements.
 
 ## Component Summary
 
-[TBD]
+### MIP65c1: Legal Structure & Asset Strategy conditions of the collateral onboarding
+This component sets out the verification mechanism and conditions ensuring appropriate collateral is onboarded using an appropriate legal structure and governance framework using an appropriate technical solution.
+
+### MIP65c2: Technical conditions of the collateral onboarding
+This component contains the technical requirements for unambiguous technical execution of the collateral onboarding
 
 ## Motivation
 
-* USDC is a large single-asset exposure on Maker's balance sheet - and pays no yield.
+* USDC is a large single-asset exposure on Maker’s balance sheet - and pays no yield.
+* We believe that working with professional bond managers and starting a diversification strategy can, and should, be implemented with priority.
+* From the many discussions and proposals on the Maker forum on this topic, we believe there is solid consensus in the Maker Community on the necessity and desirability of this course of action.
+* As of today, substantive efforts and work have been undertaken on many fronts related to this type of situation within CU’s, the protocol, the Maker Community and Monetalis.
+* This MIP set out a clear path for combining these efforts and work output into an execution hereof.
 
-* We believe that working with professional bond managers and starting a diversification strategy can, and should, be implemented ASAP. Remaining appropriately liquid and secure, but with non-correlated risk exposure and generating yield.
+## Specification / Proposal Details
 
-* From the many discussions and proposals on the Maker forum on this topic, we believe there is solid consensus in the Maker Community on the necessity and desirability of this course of action. What is now needed is someone to put it into detail and practice.
+### MIP65c1: Legal structure & asset strategy conditions of the collateral onboarding
 
-* Arranging, coordinating, and executing the above, in our view, lies within the purview of the intended Arranger role - and in this case, within our particular skill-set. We intend to act as the community’s “tip of the spear” turning the above thoughts into facts - quickly and efficiently.
+**Legal structure and Governance**
+Monetalis will set up a legal trust structure, and governance framework, with the necessary contractual relationships and legal protections to make it appropriate to act as large scale RWA collateral for Maker.
 
-* A secondary motivation is to further clarify the Arranger role in practice.
+This includes, but is not limited to:
 
-## Specification / Proposal Details of Project Clydesdale
+* No ability by third parties or Monetalis to access the funds or change the terms of the legal structure
+* Maker Governance has complete ability to trigger a liquidation with a successful executive vote encoding an instruction to the trustee of the structure.
+* It should not be possible for a single third party to block the ability of Maker Governance to make decisions or modify the structure.
+* There must be no apparent weak links or edge cases that allow funds to get misappropriated or stuck.
+* An Asset Purchase and Allocation Restriction, ensuring only appropriate bond assets and strategies can be acquired by the structure
+* All surplus generated by the legal structure must be manually sent to the Maker surplus buffer every quarter.
+* A Monetalis fee of 0.15% of AuM deployed p.a. paid quarterly.
 
+This above established structure must set up a relationship with a regulated crypto broker, and an ETH address must be emitted that can be used to construct the smart contracts necessary to complete the next step of the onboarding process specified in MIP65c2.
 
-### Monetalis Role
+**Legal structure and governance appropriateness Verification**
+The Real World Finance Facilitator and the “in SES incubation” Facilitator of Legal and Transactions Services must, through a public forum post, provide a Verification of the legal and governance structure appropriateness for holding a large amount of low risk real world asset collateral for Maker.
 
-Before delving into the detail of the proposal, we need to clarify Monetalis role, so nobody gets the wrong idea:
+**Asset Purchase and Allocation Restriction Verification**
+The Strategic Finance Facilitator must, also through a public forum post, provide a Verification of the Asset Purchase and Allocation Restriction ensuring that only execution of bond strategies appropriate to use as large scale liquid RWA collateral can be acquired with assets provided to the legal structure by Maker.
 
-* We will act as a facilitator/coordinator/project manager. We will be the practical hands ensuring a clear and paced progress of the community sentiments and choices into a practical executed solution.
-* We are **NOT** setting the bond strategy, choosing the fund manager or the execution/governance platform. We will provide practical options for the community to review and choose from, and push it all towards an appropriate MKR vote.
-* We will, of course, coordinate with all relevant CUs during the process.
+**Technical Verfication**
+The Collateral Engineering Services Facilitator must, again through a public forum post, provide a Verification of the technical appropriateness of the MIP21 designed solution in accordance with the collateral onboarding process ("COB").
 
-We bridge the off-chain “Execution Gap” that sits between CUs analytical, review and recommendation powers and the Community/MKR Voting/decision-making powers.
+Should one such Verification not be forthcoming, for whatever reason, this MIP will not move forward in the COB.
 
-### The Solution for Execution
+### MIP65c2: Technical conditions of the collateral onboarding
 
-*for continued update -*  **Version 0.0  /  6/2/2022**
+The technical implementation must follow the MIP21 framework. Upon Collateral Engineering Services solution Verification in Mip65c1, the relevant smart contracts must be constructed and deployed. It should hard code the ETH Address emitted by the legal structure specified in MIP65c1, and follow the MIP21 framework.
 
-This section will be filled out as the process progresses, the various pieces of the solution appear, and community consensus around them is achieved.
+These smart contracts must only allow for the generation of Dai through a vault that is sent to the ETH address of the legal structure as its ultimate destination, and it must not be technically possible to send the Dai elsewhere, in accordance with MIP21.
 
-Here is a strawman solution - purely for example and reference:
+There must also not be any additional technical features or complexity that goes beyond the minimum necessary smart contracts and dummy constructs to enable the generation of Dai and its transfer to the ETH Address emitted by the legal structure.
 
-|Dimension|Choice|Documentation & Reviews|
-| --- | --- | --- |
-|Deployment Amount|USD [TBD]|-|
-|Fund Manager|X&X AM|-|
-|Fund Strategy|-|-|
-|Fund Agreement|-|-|
-|Execution Platform|-|-|
-|Execution Platform Agreements|-|-|
-|Third-party Agreements|-|-|
+The ability to initiate the generation of Dai from the vault and trigger their transfer to the ETH Address emitted by the legal structure is given to an Ethereum address controlled by Monetalis. This address must have no ability to access the funds]
 
-### The Train Schedule
+When the collateral onboarding process for MIP65 has progressed to step 7 in the COB, an executive vote must be created (or code must be bundled into a broader executive vote) that activates all permissions for the vault to be onboarded based on the smart contracts specified in MIP65c2.
 
-We have designed the process in overview as follows:
-
-![|train_schedule](https://github.com/makerdao/mips/blob/master/MIP65/train_schedule.png)
-
-The detailed plan can be found in this spreadsheet: [ProjectClydesdalev1](https://docs.google.com/spreadsheets/d/1yvwQ_NrJ5SiQmYHCw-9lMH7BQSoy4ZpeWaI4RIBg-Yc/edit?usp=sharing)
-
-### Reporting & Transparency
-
-This will be a transparent process. We will report on the project progress and the solution building on [this website](https://clydesdale.brick.do), for easy access. All relevant discussion subjects, reviews, etc will be posted on the forum under this MIP.
-
-### “Train on time” ?
-
-We would love to give the community tight timelines and a promise to get the train running on time. Unfortunately, as with all complex transactions, there is a multitude of third parties involved in the process, who are out of our control.
-
-We will certainly drive the process towards the presented train schedule. We will make it very clear in the progress monitoring who/what is holding back the schedule and for how long. We believe this is the best way to encourage getting the train on time in this particular execution environment.
-
-### Why Monetalis?
-
-We have the skills. Designing, driving, and executing complex, multi-party transactions is the day-to-day job of any private equity executive.
-
-We have designed the asset side of balance sheets for insurers in several countries, which were mainly bond strategies, and worked with external fund managers to co-design and execute these.
-
-After the MIP21 process with Monetalis SME wholesale lending platform, we are now quite confident about what are the issues around Maker off-chain execution platforms and how to solve them in a comfortable way.
-
-We know the CUs who can/should provide insights to the community through the process.
-
-Lastly, we hope we have shown the right long-term Maker ecosystem partner attitudes: being transparent and open, presenting thought-out solutions and ideas, trying to add value in community discussions, and seeking consensus and compromise solutions.
-
-### Budget/Compensation
-
-We have decided, as we are here breaking new ground, to go into this process and deploy resources without any specific agreement on compensation or budget. We are confident a fair solution can be found and agreed upon throughout the project.
+The vault must provide:
+* Debt ceiling of DAI 500 million
+* Stability fee of 0% (surplus is paid manually through the legal structure, as specified in MIP65c1)
+* All other parameters must be set to ensure they have no functional impact.
