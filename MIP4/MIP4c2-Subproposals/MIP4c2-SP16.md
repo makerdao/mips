@@ -1,5 +1,7 @@
 # MIP4c2-SP16: MIP55 Amendments
 
+## Preamble
+
 ```
 MIP4c2-SP#: 16
 MIP to be amended: MIP55c2/MIP55c3

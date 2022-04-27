@@ -6,10 +6,10 @@
 MIP7c3-SP#: 7
 Author(s): @monkey.irish
 Contributors:
-Status: Formal Submission
+Status: Accepted
 Tags: collateral-onboarding
 Date Proposed: 2022-03-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip7c3-sp7-ces-domain-team-onboarding-ces-001/13794
 Ratification Poll URL: https://vote.makerdao.com/polling/QmVAD1ZD
 ---

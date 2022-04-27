@@ -6,10 +6,10 @@
 MIP40c3-SP#: 68
 Author(s): Derek Flossman
 Contributors: Protocol Engineering Core Unit
-Tags: core-unit, cu-pe-001, budget, dai-budget
-Status: Formal Submission
-Date Proposed: 03/09/2022
-Date Ratified:
+Tags: core-unit, cu-pe-001, budget, dai-budget, active
+Status: Accepted
+Date Proposed: 2022-03-09
+Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWphKJY
 ```

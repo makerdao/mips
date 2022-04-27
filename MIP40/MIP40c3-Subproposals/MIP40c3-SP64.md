@@ -6,10 +6,10 @@
 MIP40c3-SP#: 64
 Author(s): Tomek Mierzwa (@tmierzwa), Tadeo (@tadeo), Piotr (@piotr.kils)
 Contributors:
-Tags: core-unit, cu-din-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-din-001, budget, dai-budget, mkr-budget, active
+Status: Accepted
 Date Proposed: 2022-03-09
-Date Ratified: 
+Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp64-add-data-insights-core-unit-budget/13791
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme3VaY4
 ```

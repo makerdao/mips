@@ -9,7 +9,7 @@ Contributors:
 Tags:
 Type: Proposal
 Status: RFC
-Date Proposed: <2022-02-09>
+Date Proposed: 2022-02-09
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP21
 Replaces: None

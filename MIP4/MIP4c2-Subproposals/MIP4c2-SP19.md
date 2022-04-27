@@ -5,7 +5,6 @@
 ```
 MIP4c2-SP#: 19
 MIP to be amended: MIP40
-Title: Budget Framework Replacement
 Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
 Tags: MIP40, budget
@@ -16,6 +15,7 @@ Dependencies: MIP0, MIP16
 Replaces: MIP40
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250
 ```
+
 ## Specification
 
 ### Motivation

@@ -6,10 +6,10 @@
 MIP39c2-SP#: 32
 Author(s): @PonJerry, @Leggevents
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
-Tags: core-unit, cu-events-001, proposal, mandate
-Status: Formal Submission
+Tags: core-unit, cu-events-001, proposal, mandate, accepted
+Status: Accepted
 Date Proposed: 2022-03-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
 ```

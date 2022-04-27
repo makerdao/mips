@@ -6,9 +6,10 @@
 MIP39c2-SP#: 30
 Author(s): David Utrobin
 Contributors:
-Status: Formal Submission
+Tags: core-unit, cu-com-001, mandate, active
+Status: Accepted
 Date Proposed: 2022-02-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-04-25
 Forum URL:https://forum.makerdao.com/t/mip39c2-sp30-governance-communications-core-unit-com-001-mandate-refresh/13197
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWCUEaV
 ```

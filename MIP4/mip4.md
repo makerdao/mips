@@ -17,6 +17,7 @@ Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip4-mip-amendment-and-removal-process/1906
+Extra: This MIP has been amended. See [MIP4c2-SP7](https://mips.makerdao.com/mips/details/MIP4c2SP7). The original version can be found [here](https://github.com/makerdao/mips/blob/5cabd4810ffca120355ae242161f99ba1dc8e7fc/MIP4/mip4.md).
   ```
 
 ## References

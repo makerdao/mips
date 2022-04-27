@@ -13,6 +13,7 @@ Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip64-bug-bounty-program-for-makerdao-critical-infrastructure/12096
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWkPoVv
+Extra: This MIP has been amended. See [MIP4c3-SP1](https://mips.makerdao.com/mips/details/MIP4c3SP1), [MIP4c3-SP3](https://mips.makerdao.com/mips/details/MIP4c3SP3), [MIP4c2-SP17](https://mips.makerdao.com/mips/details/MIP4c2SP17). The original version can be found [here](https://github.com/makerdao/mips/blob/a7f9111eaf74aa32892893778bc54bcffbd55f61/MIP64/MIP64.md).
 ```
 
 ## Sentence Summary
@@ -85,7 +86,7 @@ IS-001 may choose to adopt a new severity system if it deems it to be better for
 
 #### Accepted Impacts
 
-Only the following impacts would be considered as in-scope for the bug bounty program. All other bug reports of course may still be reported directly to the respective Core Units outside of the bug bounty program.
+As a starting point, only the following impacts would be considered as in-scope for the bug bounty program. However, the published bug bounty program is authoritative when there are differences. Modifications are at the discretion of IS-001 in concert with feedback from steward core units. All other bug reports, of course, may still be reported to the respective Core Units outside of the bug bounty program.
 
 #### Smart Contracts
 
