@@ -64,11 +64,11 @@ The intention of Monetalis to support Maker's aspiration along a broad number of
 
 The following legal structure will be used. It is a feedback adjusted version of the previous proposal. It continues to be a simple, plain vanilla, UK traditional securitization structure for this Asset class.
 
-![](upload://xfBhoyZZ2nYFekvmZlDgqgpf8lx.png)
+![structure1](https://github.com/makerdao/mips/blob/master/MIP68/structure1.png)
 
 This structure is functionally separated as follows and parameterized in the following sections.
 
-![](upload://9fHEcDjobhjwz3VkpHWvvYXIQ4O.png)
+![structure2](https://github.com/makerdao/mips/blob/master/MIP68/structure2.png)
 
 The final documents underpinning the proposed structure will be finally designed and agreed in collaboration with an external legal counsel appointed by Maker.
 
@@ -144,7 +144,7 @@ Our principal credit strategy and market remains from our original MIP6, but hav
 
 EXTERNAL REVIEWS/COMMENTARIES ARE ON THEIR WAY AND WILL BE PUT HERE AS THEY ARRIVE.
 
-Reed Smith / [Legal structure Review](https://drive.google.com/file/d/13UJyTAJzyW7fWju0xR1wKyUIpNGbxouj/view?usp=sharing)
+Reed Smith / [Legal structure Review](https://github.com/makerdao/mips/blob/master/MIP68/aggregatecommentary.png)
 
 **4. MONETALIS UPDATES**
 

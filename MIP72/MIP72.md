@@ -1,6 +1,6 @@
 # MIP72: Delegated Collateral Attachment - RWA Arranger Application - 6s Capital
 
-## Preamble 
+## Preamble
 
 ```
 MIP#: 72
@@ -52,17 +52,17 @@ Jurisdiction: United States & Canada
 * Parties
 * Term Sheet
 * Delegated Collateral Attachment Arranger Authorization - 6s Capital
-  * RWA Senior Lending Trust - Holding US Treasuries
-  * Trust sponsor (RWA International Ltd.)
-  * Covenants
-  * Underwriting processes and policies - Underlying Documents
-  * IT systems
-  * Auditor
-  * Legal Counsel
-  * Credit guidelines
-  * Lender/portfolio (credit) analysis
-  * Monitoring / Servicing
-  * Origination
+* RWA Senior Lending Trust - Holding US Treasuries
+* Trust sponsor (RWA International Ltd.)
+* Covenants
+* Underwriting processes and policies - Underlying Documents
+* IT systems
+* Auditor
+* Legal Counsel
+* Credit guidelines
+* Lender/portfolio (credit) analysis
+* Monitoring / Servicing
+* Origination
 * Existing Credit Agreement
 * Existing MIP21 and Vaults or New Application
 * Relevant Links / References
@@ -79,7 +79,7 @@ MIP72c5 - Restrictions
 MIP72c6 - Affirmative Covenants
 MIP72c7 - Negative Covenants
 MIP72c8 - Term
-MIP72c9 - Attester Role
+MIP72c9 - Reporting Agent Role
 MIP72c10 - Pricing
 MIP72c11 - Proposed Facility Size
 MIP72c12 - Pay-down Requirements
@@ -107,110 +107,104 @@ MIP72c.A.7 - RWA International Ltd. Advisory Committee
 
 MIP72c.A.8 - Modification of an Established Legitimate Party
 
-MIP72c.A.9 - Modification of the Attester for 6s Capital
+MIP72c.A.9 - Modification of the Reporting Agent for 6s Capital
 
 ---
 
 MIP Sub-Components:
 
 MIP72c1 - Purpose / Motivation / Objective
-
-What is the objective?
-
-See Below as well as the Application [Addendum](https://forum.makerdao.com/t/addendum-for-mip72-delegated-collateral-attachment-rwa-arranger-application-6s-capital/14481?u=mrabino1)
+* What is the objective?
+* See Below as well as the Application [Addendum](https://forum.makerdao.com/t/addendum-for-mip72-delegated-collateral-attachment-rwa-arranger-application-6s-capital/14481?u=mrabino1)
 
 MIP72c2 - Parties
-
-Who are the parties involved?
-
-See Term Sheet
+* Who are the parties involved?
+* See Term Sheet
 
 Roles (further defined herein):
-
 * Authorized Representative
 * Observer (new)
 * Trust Distribution Return Actor (new)
 * Advisory Committee (new)
 * Established Legitimate Party (new)
-* Attester (new)
+* Reporting Agent (new)
 
 MIP72c3 - Lending Scope / Collateral Description
-
-See Term Sheet - Real-world collateral to meet the [Clean Money initiative](https://forum.makerdao.com/t/the-case-for-clean-money/10684?u=mrabino1) with “bootstrapped” real-estate collateral
+* See Term Sheet - Real-world collateral to meet the [Clean Money initiative](https://forum.makerdao.com/t/the-case-for-clean-money/10684?u=mrabino1) with “bootstrapped” real-estate collateral
 
 MIP72c4 - Credit Diversification Management
-How will the arranger diversify the credit?
-See Term Sheet
+* How will the arranger diversify the credit?
+* See Term Sheet
 
 Target Portfolio Allocation
-See below
+* See below
 
 MIP72c5 - Restrictions
-The Arranger must state which lending constraints it will use, and how it will use them
+* The Arranger must state which lending constraints it will use, and how it will use them
 
 MIP72c6 - Affirmative Covenants
-What promises does the Party agree will happen?
-See below and Term Sheet
+* What promises does the Party agree will happen?
+* See below and Term Sheet
 
 MIP72c7 - Negative Covenants
-What promises does the Party agree will not happen?
-See below and Term Sheet
+* What promises does the Party agree will not happen?
+* See below and Term Sheet
 
 MIP72c8 - Term
-How long is the proposed engagement?
-See Term Sheet
+* How long is the proposed engagement?
+* See Term Sheet
 
-MIP72c9 - Attester Role
-Who will be in the role of an Attester?
-See Term Sheet
+MIP72c9 - Reporting Agent Role
+* Who will be in the role of an Reporting Agent?
+* See Term Sheet
 
 MIP72c10 - Pricing
-What is the proposed pricing?
-See Term Sheet
+* What is the proposed pricing?
+* See Term Sheet
 
 MIP72c11 - Proposed Facility Size
-What is the size of the proposed facility?
-See Term Sheet
+* What is the size of the proposed facility?
+* See Term Sheet
 
 MIP72c12 - Pay-down Requirements and Events of Default
-What are the paydown requirements?
-See Term Sheet
+* What are the paydown requirements?
+* See Term Sheet
 
 MIP72c13 - Treasury Management
-How / which treasury management services will be used?
-See below and Term Sheet
+* How / which treasury management services will be used?
+* See below and Term Sheet
 
 MIP72c14 - Governing Law
-Which Law shall govern the transaction?
-See Term Sheet
+* Which Law shall govern the transaction?
+* See Term Sheet
 
 MIP72c15 - What power does the DAO retain?
-What power does the DAO retain?
-See below
+* What power does the DAO retain?
+* See below
 
 MIP72c17 - Existing Vault or New Application
-Existing Vault - See below
+* Existing Vault - See below
 
 MIP72c18 - Miscellaneous
 
 1. Currency (if not USD, then outline currency hedge management)
+
 2. Underwriting processes and policies
-See below
+* See below
 
 3. IT systems
-See bellow
+* See bellow
 
 4. Auditor
-See below
+* See below
 
 5. Legal Counsel
-See below
+* See below
 
 6. Are you planning to operate as a non-bank lender or as an asset manager of pooled loans?
-See below - Non-bank operating lender
+* See below - Non-bank operating lender
 
 ---
-
 ## 6s Capital’s Motivation
 
 6s Capital, as a commercial lender, wishes to expand its lending operations and bring on new staff to cover the Clean Money Initiative and wants comfort that credit will be available for such lending activities. With a broader approved scope, 6s Capital can then focus on growing its lending operations within that scope, raising the needed institutional equity, running the operations, being in compliance with the Credit Agreements, and engaging with governance. [Crawl. Walk. Run. - Part 1](https://forum.makerdao.com/t/rwa-6s-2022-a-time-to-start-walking-part-1/12380?u=mrabino1) [Part 2](https://forum.makerdao.com/t/rwa-6s-2022-a-time-to-start-walking-part-2/12392?u=mrabino1) [Part 3](https://forum.makerdao.com/t/rwa-6s-2022-a-time-to-start-walking-part-3/12408?u=mrabino1) [Part 4](https://forum.makerdao.com/t/rwa-6s-2022-a-time-to-start-walking-part-4/12424?u=mrabino1).
@@ -235,7 +229,7 @@ RWA Senior Lending Trust, a Delaware Statutory Trust (“Trust”)
 
 Wilmington Savings Fund Society, FSB (“Trustee”) and (“Verification Agent”), an independent and regulated Trust Company
 
-RWA Company LLC shall serve in a reporting and DAO attesting role.
+RWA Company LLC shall serve in a reporting role.
 
 RWA International Ltd, a Cayman Islands exempt company (“Trust Sponsor”)
 
@@ -243,6 +237,8 @@ TBD, a new or existing United States or Canadian legal entity, including corpora
 ```
 
 ## Term Sheet
+
+## MIP72: Real World Assets - Delegated Collateral Attachment - Arranger Authorization #001 - 6s Capital
 
 
 ![001-6s _ MakerDAO - TS - Delegated Collateral Attachment|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page1.jpg)
@@ -261,8 +257,6 @@ TBD, a new or existing United States or Canadian legal entity, including corpora
 ![014-6s _ MakerDAO - TS - Delegated Collateral Attachment 14|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page14.png)
 
 
-## MIP72: Real World Assets - Delegated Collateral Attachment - Arranger Authorization #001 - 6s Capital
-
 The DAO instructs and authorizes RWA International Ltd. and Wilmington Savings Fund Society (“WSFS”), in its capacity as Trustee (the “Trustee”) of the RWA Senior Lending Trust, a Delaware Statutory Trust, as follows.
 
 The scope of the credit relationship between 6s Capital Partners LLC, a Delaware Series Limited Liability Company (“LendCo”) and the RWA Senior Lending Trust (“Trust”) shall be expanded as follows.
@@ -271,11 +265,9 @@ First, the Trustee may in accordance with Section 1.1.h of the [existing Trust A
 
 Second, each new credit agreement must include a legal enforceability opinion (similar to the opinions issued on 29 July 2021, for the existing Trust Agreement and Credit & Security Agreements) prior to closing issued by the Trust’s counsel. The DAO instructs and requires WSFS or LendCo to place a conformed (and redacted if confidentiality is needed) version of any newly executed credit agreements (with all exhibits) and their accompanying security agreements in the public domain (e.g. via the MakerDAO forum).
 
-The DAO will rely upon the Trustee and its counsel, to properly draft the legal documents, including necessary amendments to the existing Trust Agreement, new Trust Series supplements, new credit agreements, security agreements, opinions, and other closing documents to ensure that the collateral is properly secured and attached in favor of LendCo and by proxy the Trust in a manner commercially consistent with other similar transactions. Further, the DAO intends to utilize an Attester, RWA Company LLC as the first “Established Legitimate Party” as a feedback loop on document review (or a law firm engaged by them). The DAO instructs 6s Capital to integrate RWA Company LLC as the Established Legitimate Party as early as possible in the drafting process for any new transactions.
+The DAO will rely upon the Trustee and its counsel, to properly draft the legal documents, including necessary amendments to the existing Trust Agreement, new Trust Series supplements, new credit agreements, security agreements, opinions, and other closing documents to ensure that the collateral is properly secured and attached in favor of LendCo and by proxy the Trust in a manner commercially consistent with other similar transactions. Further, the DAO intends to contract RWA Company LLC, or another third party (e.g. North Lakes Legal) to engage a law firm to complete document review. This law firm will view the transaction as if they are representing the interests of MakerDAO. RWA Company LLC or the other third party will report feedback from this law firm to the community..
 
 Under no circumstance shall any material term of the credit agreement such as its required reporting or covenants be changed to be less in favor of the DAO than those stated in the existing [Credit Agreement dated 29 July, 2021, between LendCo and the Trust](https://forum.makerdao.com/t/6s-credit-agreement-conformed/9775?u=mrabino1) (unless the DAO specifically authorizes it). However, if a provision is not applicable to a particular credit agreement, it may be omitted.
-
-In addition, the DAO further instructs and authorizes RWA Company LLC (or its authorized and mutually approved successor) to observe and report the compliance to the DAO concerning the lending activities in a transparent manner such that risk assessments may be made along with independent scope verifications.
 
 Finally, the Trustee is instructed to exclusively accept additional authorizations, modifications to existing authorizations, or termination of an authorization via the sub-proposal related to third-party communication outlined herein.
 
@@ -314,7 +306,7 @@ The process to add / remove / replace the members of the Advisory Committee or t
 
 Based on the above and for the avoidance of any doubt, while @maarten is already in the Authorized Representative role and has already been approved and KYC verified at both the Cayman and WSFS levels, passing this MIP shall also have the effect of ratifying @maarten in the role for RWA International Ltd. as well as confirming the process in which Authorized Representatives may be replaced in the future.
 
-In this capacity @maarten has the obligation to perform in an honorable manner and conduct himself with his interaction with RWA International Ltd. with prudent business engagement. That said, he is only authorized for specific administrative tasks (aka no decision making), which do not include granting waivers or amending the Credit Agreements. Amending a Credit Agreement has been reserved and carved-out in the Trust Agreement to explicitly require the affirmative vote of MakerDAO. Further, Attesters or Established Legitimate Parties will directly interact with this Authorized Representative as an additional overlay.
+In this capacity @maarten has the obligation to perform in an honorable manner and conduct himself with his interaction with RWA International Ltd. with prudent business engagement. That said, he is only authorized for specific administrative tasks (aka no decision making), which do not include granting waivers or amending the Credit Agreements. Amending a Credit Agreement has been reserved and carved-out in the Trust Agreement to explicitly require the affirmative vote of MakerDAO. Further, Reporting Agents or Established Legitimate Parties will directly interact with this Authorized Representative as an additional overlay.
 
 6s Capital fully understands that this interaction can and should impact the debt ceiling for this facility (now and in the future) as compliance to agreements and the feedback thereof is an essential component of any engagement. Moreover, with community members and RWA Company LLC as an Observer at 6s Capital while also receiving information from the Trust Sponsor (and / or an Authorized Representative, @maarten or his replacement) the community has complete end-to-end compliance coverage / visibility.
 
@@ -562,20 +554,20 @@ Frozen Period: 2 weeks
 
 ---
 
-### MIP72c.A.9 - Modification of the Attester for 6s Capital
+### MIP72c.A.9 - Modification of the Reporting Agent for 6s Capital
 
-This sub proposal is to create the process around an Attester as well as the ability to add / remove / replace such individuals / legal entities from said role.
+This sub proposal is to create the process around an Reporting Agent as well as the ability to add / remove / replace such individuals / legal entities from said role.
 
-The initial party to be named as the Attester for 6s Capital (and all legal infrastructure between 6s and the DAO) shall be RWA Company LLC.
+The initial party to be named as the Reporting Agent for 6s Capital (and all legal infrastructure between 6s and the DAO) shall be RWA Company LLC.
 
-There is no limit to the number of Attesters.
+There is no limit to the number of Reporting Agents.
 
-Process to add / remove / replace the Attester for 6s Capital
+Process to add / remove / replace the Reporting Agent for 6s Capital
 
-* First, 6s Capital brings forth a new candidate to add / remove / replace the existing Attester, as the case may be
+* First, 6s Capital brings forth a new candidate to add / remove / replace the existing Reporting Agent, as the case may be
 * Second, that party must be ratified by the affirmative vote of MakerDAO
 
-For the avoidance of doubt, an Attester may resign at any time for any reason without the consent of MakerDAO.
+For the avoidance of doubt, an Reporting Agent may resign at any time for any reason without the consent of MakerDAO.
 
 Required components when seeking the ratification of MakerDAO:
 
