@@ -71,6 +71,10 @@ data:
             name: 'DUX-001: Development and UX'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-dux-001)&_Archive=$AND(NOT(%23active),%23cu-dux-001)
+          - id: events-001
+            name: 'EVENTS-001: Events'
+            href: >-
+                https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-events-001)&_Archive=$AND(NOT(%23active),%23cu-events-001)
           - id: gov-001
             name: 'GOV-001: Governance'
             href: >-
