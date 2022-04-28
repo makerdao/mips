@@ -7,12 +7,11 @@ Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
 Tags: MIP40, budget
 Status: RFC
-Date Applied: 2022-03-xx
+Date Applied: 2022-03-27
 Date Ratified: 
 Dependencies: MIP0, MIP16
 Replaces: MIP40
 ```
-
 ## Sentence Summary
 
 MIP40: Budget Framework contains a framework for managing budgets and modifying them in the DAO Primitives State MIP.
@@ -23,13 +22,17 @@ MIP40: Budget Framework contains a framework for managing budgets and modifying 
 
 ## Component Summary
 
-**MIP40c1: Budget Framework** Gives an overview of the most critical characteristics of Budgets.
+**MIP40c1: Budget Framework**
+Gives an overview of the most critical characteristics of Budgets.
 
-**MIP40c2: Composition of a Budget** Describes the components of a Core Unit Budget proposal.
+**MIP40c2: Composition of a Budget**
+Describes the components of a Core Unit Budget proposal.
 
-**MIP40c3: Adding/Modifying Core Unit Budget Process** Describes the process for adding a budget to a new Core Unit or modifying the Core Unit's existing budget.
+**MIP40c3: Adding/Modifying Core Unit Budget Process**
+Describes the process for adding a budget to a new Core Unit or modifying the Core Unit's existing budget.
 
-**MIP40c4: Budget Implementation Details** Provides clarity on how the budget payouts are addressed from a practical perspective once approved.
+**MIP40c4: Budget Implementation Details**
+Provides clarity on how the budget payouts are addressed from a practical perspective once approved.
 
 ## Motivation
 
@@ -43,7 +46,7 @@ Budgets are used to fund the work defined by the Core Units chosen by Maker Gove
 
 The Facilitators of each Core Unit administer core Unit budgets.
 
-Once a budget has been approved, Facilitators will be encouraged to file correctly tagged expense reports to the appropriate subsection of the governance forums. Actual expenses should be reported on a monthly basis, following reporting recommendations outlined by SF and SES. 
+Once a budget has been approved, Facilitators will be encouraged to file correctly tagged expense reports to the appropriate subsection of the governance forums. Actual expenses should be reported on a monthly basis, following reporting recommendations outlined by SF-001 and SES-001. 
 
 Facilitators are further encouraged to leverage internal and external tools to improve communication with MKR holders and to dynamically update reporting standards according to evolving DAO needs.
 
@@ -56,6 +59,7 @@ Budget Proposal requests must be submitted during a Budget Submission Window. Ne
 Core Unit Budgets can have multiple entries. Having multiple budget entries, each with its implementation and breakdown, enables more advanced compensation and funding structures to be created if desired. Each entry must at least include each of the below elements: 
 
 #### Budget Term
+
 - Start Date is no later than 3mos after the formal submission date
 - End Date is no later than 12mos after the Start Date
 
@@ -67,17 +71,19 @@ Core Unit Budgets can have multiple entries. Having multiple budget entries, eac
 - Provide a timeline for specific deliverables over the course of the Budget Term
 
 #### Reporting Transparency
+
 - List expenses by type, per the [Chart of Accounts](https://docs.google.com/spreadsheets/d/1qB1MIPCkZfdkuHSNk1udhscvTjg-mIBo/edit#gid=1506071077) and [Core Unit Operating Expense Budget Template](https://docs.google.com/spreadsheets/d/1dyrRelt5X5kD8CyRd6inyKXZV9PwF4RExPLgK3PQIRE/edit?usp=sharing)
 - Also describe how much of the budget is to be utilized towards 'on-going' fixed services, and how much is applied to one-time type services/events (planned/unplanned/contingency)
 - Disclose full-time equivalent headcount, by month
 
 #### Contingency Planning
-- Explain how this Core Unit could operate if the approved Budget Proposal was operating during a Bear/Superbear context: 10%/20% lower
+- Explain how this Core Unit could guarantee minimally viable business continuity if the approved Budget Proposal was operating during a Bear/Superbear context: 10%/20% lower
     - Facilitators should formulate operational budgets capable of operating at lower funding levels
     - Facilitators are encouraged to transparently communicate with collaborators regarding potential impact on compensation during downturns
 - Explain how this Core Unit could operate if the approved Budget Proposal were operating during a Bull context: With corresponding roadmap oriented around stretch targets 
 
 #### Unwinding and Defunding
+
 - Define how the Core Unit will be wound down in the event of a Governance vote to defund it, with accompanying rationale (period, use of funds, return of funds)
     - Describe what costs will be paid during this period and what costs will not be paid for, including but not limited to:
         - Finishing current initiatives. 
@@ -114,20 +120,26 @@ Once a MIP40c3-SP subproposal passes, the Governance Facilitators or the MIP Edi
 
 This is a technical process component that can have on-chain effects that alter the Maker Protocol's state. When subproposals generated from this component reach the executive vote stage of the MIPs cycle, the executive vote must include a technical state change to authorize the budget implementations specified in the subproposal to draw funds from the Maker Protocol.
 
-The proposal parameters are:
+#### Proposal Parameters
 
-- **Minimum feedback period**: 1 month.
-- **Minimum frozen period**: 1 week.
-- Ratification Polls for MIP40c3 subproposals involving a Core Unit Budget Modification must use a ranked-choice voting system with three options
-    - Approve existing budget only (Business as usual)
-    - Approve increased budget (Budget increase >10%)
-    - Reject budget
+- **Minimum Feedback Period**: 1 Month.
+- **Minimum Frozen Period**: 1 Week.
+- Ratification Polls for MIP40c3 subproposals involving a Core Unit Budget Modification will have different requirements to MIP51c2. Instead of binary voting, they must use ranked-choice voting, with the options as follows:
+    - A: Approve existing budget only (Business as usual)
+    - B: Approve increased budget
+    - C: Reject budget
+    - D: Abstain
+
+In order for this Ratification Poll to conclude successfully and the contained proposal(s) move to Accepted status, each of the following conditions must be true:
+
+* `A` or `B` vote-weight must exceed `C` vote-weight when the poll closes.
+* Winning vote-weight must exceed the `Minimum Positive Participation` value of 10,000 MKR when the poll closes.
 
 MIP40c3 subproposals must use the template located at [MIP40c3-Subproposal-Template](https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250/3).
 
 ### MIP40c4: Budget Implementation Details
 
-Once a Budget Proposal is approved, the Core Unit's Facilitators can begin drawing payments to fund their Core Unit according to their Budget Implementation. The Budget Implementation defines when and how the Core Unit Facilitators will receive the funds that make up their budget.
+Once a Budget Proposal is approved, the Core Unit's Facilitators can begin drawing payments to fund their Core Unit according to their Budget Implementation. The Budget Implementation defines when and how the Core Unit Facilitators will receive the funds that make up their budget. This budget implementation standard to be used is available on [this](https://forum.makerdao.com/t/core-unit-budget-implementation-standardization/10758) forum post. Variations from this standard must be explained.
 
 The Budget Implementation is binding. It should be understood to directly authorize the proposed funds to be drawn from the funding source (either the Maker Protocol or a treasury contract controlled by Maker Governance).
 
@@ -135,7 +147,7 @@ Core Unit Budgets are paid out through Budget Implementations, which are smart c
 
 Maker Governance can explicitly turn a budget implementation off.
 
-Budget Implementations create a scheduled rate of funds taken from the Protocol and given directly to the Core Unit's Facilitators.
+Budget Implementations create a scheduled rate or transfer of funds taken from the Protocol and given directly to the Core Unit's Facilitators.
 
 Advanced Budget Implementations can be used for more innovative cases, such as incentive payments or unpredictable expenses. They can be implemented in various ways, such as relying on multi-sig access or dependent on system variables such as Protocol auctions, Dai supply or Stability Fees.
 
@@ -146,7 +158,7 @@ The Budget Implementation could draw funds from the Protocol in various ways, de
 Printing MKR through this MIP is only allowed if the MKR is to be distributed with a programmed time-lock of at least 12 months. Budget Implementations that don't verifiably distribute MKR with at least a 12-month time lock cannot be proposed through this MIP.
 
 #### Return of Funds
-Every three months starting September 30th, 2022 Core Units will be required to return all funds in excess of three months of budget, defined as the most recent three months budget proceeding the return fund date (e.g. for September 30th deadline, July, August, and September budgets will be used).
+Every three months starting September 30th, 2022 Core Units will be required to return all funds in excess of three months of budget, defined as the most recent three months budget proceeding the return fund date (e.g. for September 30th deadline, July, August, and September budgets will be used). Exempt are funds destined for any outstanding payments for specific projects that the budget was originally approved for.
 
 *Calculation Example:*
 Core Unit A's budget is 100,000 Dai per month for 12 months.
