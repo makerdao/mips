@@ -6,7 +6,7 @@
 MIP39c2-SP#: 32
 Author(s): @PonJerry, @Leggevents
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
-Tags: core-unit, cu-events-001, proposal, mandate, accepted
+Tags: core-unit, cu-events-001, proposal, mandate, active
 Status: Accepted
 Date Proposed: 2022-03-09
 Date Ratified: 2022-04-25
