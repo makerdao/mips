@@ -6,7 +6,7 @@ Author(s): @tadeo
 Contributors:
 Tags: core-unit, din-001, facilitator
 Status: RFC
-Date Applied: 2022-05-03
+Date Proposed: 2022-05-03
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp35-facilitator-onboarding-for-din-001/14948
 ```
