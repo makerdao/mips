@@ -122,13 +122,13 @@ I'm including budget revisions based on recent community feedback on spending an
 
 #### Swag Airdrops
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/swag_airdrops.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/swag_airdrops.png)
 
 *Designed, packaged, and shipped with love <3*
 
 **Twitter Posts**
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/twitter_posts.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/twitter_posts.png)
 
 **Some Recipients:**
 - DeFi Saver Team
@@ -143,18 +143,18 @@ I'm including budget revisions based on recent community feedback on spending an
     
 #### ETH Denver | DAIVinity
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/daivinity.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/daivinity.png)
 
 > ["Maker is cool again!"](https://twitter.com/degenwizard/status/1498747858031415301?s=20&t=EQwqRB_C4O37MO-L-ZSOIg)
 > \- David Hoffman, Bankless
 
 #### Beanies!
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/beanies.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/beanies.png)
 
 #### Memes : )
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/memes.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/memes.png)
 [**Frens having fun with Dai :)**](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/67552884404108052006095399007888694400526049665834063109564037653612113952769) | **AAVE <> MakerDAO D3M by Pepecasso**
 **Featured In:** [The Defiant: MakerDAO’s Update is a Pure Expression of DeFi 2.0](https://thedefiant.io/makerdao-mkt-aave-defi-2-0/) 
 
@@ -176,7 +176,7 @@ I'm including budget revisions based on recent community feedback on spending an
     - Recently, they added "Powered by Maker" to their landing page.
     - The GNS founders are also seeking to integrate with our lending.
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/gtrade.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP67/gtrade.png)
 
 ---
 
