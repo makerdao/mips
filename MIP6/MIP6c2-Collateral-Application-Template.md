@@ -44,3 +44,15 @@
 26.  Does the token have whitelist or blacklist functions? If so, what is the process for utilization and what stakeholders are involved?
 27.  Can the token implementation be upgraded/changed? If so, what is the process and what stakeholders are involved?
 28.  Does the token contain rebasing logic?
+
+
+The following questions apply to **RWA** collateral onboarding applications **only**:
+
+29. Provide (a) proposed legal structure for transaction, including: type of legal entities, (offshore/onshore, form (trust, corporate, other)) and jurisdiction(s) of legal entities, and (b) likely funds flow (DAI => Fiat => DAI).
+30. Provide details on the organizational structure of the interested party, beneficial ownership, governance/control, key personnel, capital/funding resources and past financial performance.
+31. Provide detailed summary of the proposed economic terms of the transaction, including, without limitation: commitment term, principal amount, interest rate, frequency of principal and interest payments, disbursement schedule, equity amount, funding ratios (equity/debt pro rata, equity first, etc.), collateral security, coverage ratios, currency (if not DAI) and other material terms. The quality of the proposed economic terms will be a consideration for the prioritization process.
+32. Identify in reasonable detail the risks associated with this collateral application and the underlying asset(s) and proposed mitigants (if any). The risk summary should address, without limitation and to the extent relevant: market risks, commercial risks (e.g., diversification, credit, etc.), interest rate risks, legal and regulatory risks, general industry risks, competition, etc.
+33. Outline the applicant’s underwriting guidelines/policies, origination strategy (marketing, sales, channels), servicing strategy (charge-offs, collections), and historical asset performance.
+34. Outline the applicant’s risk monitoring and operations guidelines/policies (e.g., charge-offs, collection, recovery provisions, data collection and technology, etc).
+35. Describe the regulatory regime applicable to the underlying asset (if any) and the applicant’s legal and compliance program relating thereto.
+36. Identify any 3rd party persons likely to be relied upon by applicant to implement the transaction (legal, accounting, servicers, trustees, etc.).
