@@ -33,7 +33,7 @@
 19.  (Optional) Has your project obtained any legal opinions or memoranda regarding the regulatory standing of the token or an explanation of the same from the perspective of any jurisdiction? If so, those materials should be provided for community review.
 20.  (Optional) Describe whether there are any regulatory registrations for the token and provide related documentation (including an explanation of any past or existing interactions with any regulatory authorities, regardless of jurisdiction), if applicable.
 21.  Is issuance of the asset decentralized (trustless) or centralized (trusted)?
-		21.a. If centralized/trusted: by which legal entity, type of entity and jurisdiction?
+21.a. If centralized/trusted: by which legal entity, type of entity and jurisdiction?
 
 **Technical Questions**
 
