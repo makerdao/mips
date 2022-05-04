@@ -37,11 +37,9 @@ MIP65 onboards a RWA vault that will acquire USDC via the PSM and invest them in
 ## Component Summary
 
 **MIP65c1: Legal Structure & Asset Strategy Conditions of the Collateral Onboarding**
-
 This component sets out the verification mechanism and conditions ensuring appropriate collateral is onboarded using an appropriate legal structure and governance framework using an appropriate technical solution.
 
 **MIP65c2: Technical Conditions of the Collateral Onboarding**
-
 This component contains the technical requirements for unambiguous technical execution of the collateral onboarding
 
 ## Motivation
