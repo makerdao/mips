@@ -23,8 +23,8 @@ Forum  URL: https://forum.makerdao.com/t/mip65-project-clydesdale-monetalis-arra
 * https://forum.makerdao.com/t/alm-framework-for-makerdao/12994
 * https://forum.makerdao.com/t/mip6-collateral-onboarding-application-stable-us-treasury-securities-up-to-12-months-duration/12503
 * https://forum.makerdao.com/t/mip13c3-sp12-declaration-of-intent-invest-in-short-term-bonds/13084
-* https://forum.makerdao.com/t/mip68-monetalis-lusitano/13789?u=allan_pedersen
-* https://forum.makerdao.com/t/monetalis-evolution/14811?u=allan_pedersen
+* https://forum.makerdao.com/t/mip68-monetalis-lusitano/13789
+* https://forum.makerdao.com/t/monetalis-evolution/14811
 
 ## Sentence Summary
 
