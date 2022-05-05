@@ -87,7 +87,7 @@ It is important to note that due to the frequency of such changes, the Weekly Cy
 
 **Wednesday, week 2**
 
-- The Governance Facilitators will add the Executive Vote to the voting portal and communicate this to the MakerDAO Community.
+- The Governance Facilitators will add the Executive Vote to the voting portal and communicate this to the MakerDAO Community. The Weekly Executive vote has an expiration of thirty days.
 
 ### Overview of the Weekly Governance Cycle
 
