@@ -91,7 +91,7 @@ It is important to note that due to the frequency of such changes, the Weekly Cy
 
 ### Overview of the Weekly Governance Cycle
 
-![weekly_monthly-gov](https://github.com/patrick-j-govalpha/mips/blob/mip16-amendment/MIP16/weekly-governance-cycle.png)
+![weekly_monthly-gov](https://github.com/patrick-j-govalpha/mips/blob/mip16-amendment/MIP16/weekly_governance_cycle.png)
 
 **Important Notes:**
 
