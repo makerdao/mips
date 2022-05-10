@@ -1,12 +1,12 @@
-# MIP68: Monetalis Vault V2
+# MIP68: Monetalis Lusitano: UK Green Economy SME Wholesale Lending
 
 ## Preamble
 
 ```
 MIP#: 68
-Title: Monetalis Vault V2
-Author(s): @Allan_Pedersen
-Contributors:
+Title: Monetalis Lusitano: UK Green Economy SME Wholesale Lending
+Author(s): @Allan_Pedersen 
+Contributors: @Wrongcomma @Julian_Frede 
 Type: Technical
 Status: Formal Submission
 Date Proposed: 2022-09-03
@@ -16,11 +16,14 @@ Replaces: n/a
 Forum URL: https://forum.makerdao.com/t/mip68-monetalis-vault-v2/13789
 Ratification Poll URL: https://vote.makerdao.com/polling/QmS7UyQT
 ```
+
 ## References
 
 * [Monetalis MIP6](https://forum.makerdao.com/t/mip6-collateral-onboarding-application-monetalis-wholesale-green-economy-senior-secure-sme-funding/11223?u=allan_pedersen)
 * [Greenlight Vote](https://vote.makerdao.com/polling/QmS52AtS?network=mainnet#poll-detail)
 * [RWF Risk Eval](https://forum.makerdao.com/t/monetalis-mip6-collateral-onboarding-risk-evaluation/13658)
+* [MIP65: Monetalis Clydesdale](https://forum.makerdao.com/t/mip65-clydesdale-monetalis-liquid-bond-strategy-execution/13148?u=allan_pedersen) 
+* [Monetalis Evolution](https://forum.makerdao.com/t/monetalis-evolution/14811?u=allan_pedersen)
 
 ## Sentence Summary
 
@@ -28,56 +31,61 @@ MIP68 is a self-contained collateral onboarding MIP that will onboard and activa
 
 ## Paragraph Summary
 
-MIP68 onboards a RWA Vault backed by the assets of a trust arranged by Monetalis. It brings about a RWA structure that can onboard a specific Green Economy SME lending strategy in the UK, but designed to be flexible enough to start as platform for Arranging and executing other lending collateral strategies efficiently.
+MIP68 onboards a RWA Vault backed by the assets of a trust arranged by Monetalis. It brings about a RWA structure that can onboard a specific Green Economy SME lending strategy in the UK, but designed to be flexible enough to start as platform for adding other underwriting teams and executing other lending collateral strategies efficiently. And share structure oversight and design features with [MIP65](https://forum.makerdao.com/t/mip65-clydesdale-monetalis-liquid-bond-strategy-execution/13148). 
 
 ## Component Summary
 
-**MIP68c1: Specification of the proposed structure and contemplated collateral assets**
+**MIP68c1: Specification of the Proposed Structure and Contemplated Collateral Assets**
 This component describes the details of the structure that Monetalis proposes to onboard as collateral, and the details of the collateral Monetalis will acquire.
 
-**MIP68c2: Vault Financial terms and parameters**
+**MIP68c2: Vault Financial Terms and Parameters**
 This component outlines the key financial terms of the vault and legal structure hereof.
 
 **MIP68c3: Technical Details**
-This component contains the data and instructions necessary for the unambigous technical execution of the collateral onboarding
+This component contains the data and instructions necessary for the unambigous technical execution of the collateral onboarding.
 
-**MIP68c4: Debt Ceiling gradual increase mechanism**
-This component describes an automatic process that increases the debt ceiling of the vault further once the first portion of debt has been used.
+**MIP68c4: Debt Ceiling Gradual Increase Mechanism**
+This component describes an automatic process that increases the Debt Ceiling of the vault further once the first portion of debt has been used.
 
 ## Motivation
 
-Monetalis submitted a MIP6 proposal late October 2021 and received a positive Greenlight vote in late November 2021.
+Monetalis submitted a MIP6 proposal late October 2021 and received a positive Greenlight vote in late November 2021. 
 
-Based upon recently received feedback, work done within Monetalis in this period and thinking around the Arranger model, our vault proposal has been redesigned to what is proposed under this MIP.
+Based upon recently received feedback, work done within Monetalis in this period our vault proposal has been redesigned to what is proposed under this MIP.
 
 The intention of Monetalis to support Maker's aspiration along a broad number of dimensions remains:
 
-* Help the continued professionalization of RWA operations and integration between TradFi/Maker
-* Contribute to scalable growth of diversified, high-quality RWA collateral
-* Operationalize the Clean Money vision
-* Operationalize the Arranger Model
+* Help the continued professionalization of RWA operations and integration between TradFi/Maker.
+* Contribute to scalable growth of diversified, high-quality RWA collateral.
+* Operationalize the Clean Money vision.
+* Operationalize an entrepreneurial underwriting team Model.
+* Create and operationalise a high-quality on-chain/off-chain TradFi/DeFi integration point.
+
+The proposal should be seen as connected with [MIP65](https://forum.makerdao.com/t/mip65-clydesdale-monetalis-liquid-bond-strategy-execution/13148) in accordance the strategy outlined in [Monetalis Evolution](https://forum.makerdao.com/t/monetalis-evolution/14811)
 
 ## Specification / Proposal Details
 
-### MIP68c1: Specification of the proposed structure and contemplated collateral asset
+### MIP68c1: Specification of the Proposed Structure and Contemplated Collateral Assets
 
 #### Structure
 
-The following legal structure will be used. It is a feedback adjusted version of the previous proposal. It continues to be a simple, plain vanilla, UK traditional securitization structure for this Asset class.
+The following legal structure will be used. It is a feedback adjusted version of the previous proposal. It continues to be a simple, plain vanilla, UK traditional securitization structure for this Asset class. 
 
-![structure1](https://github.com/makerdao/mips/blob/master/MIP68/structure1.png)
+![](https://github.com/makerdao/mips/blob/master/MIP68/legal_structure0.png)
 
 This structure is functionally separated as follows and parameterized in the following sections.
 
-![structure2](https://github.com/makerdao/mips/blob/master/MIP68/structure2.png)
+![](https://github.com/makerdao/mips/blob/master/MIP68/legal_structure1.png)
 
 The final documents underpinning the proposed structure will be finally designed and agreed in collaboration with an external legal counsel appointed by Maker.
 
-**Arranging Alpha Structure**
-This structure, beyond allowing Monetalis to start our Green Economy SME wholesale Lending business, is flexible enough to start Monetalis doing Arranging in practice:
-* We can sponsor/incubate new, potentially more innovative, underwriting teams focused on Maker relevant lending segments. These could be implement simply via signalled changes to Strategic Credit Guidelines and, potentially, Vault increases - a capability easily extendable to include the EU market.
-* We can reuse/clone our TradFi/Maker integration point (BVI trust/trustees/Governance package/Bank/Auditor/Accountant etc) to support execution efforts such as Project Clydesdale (executing liquid Bond strategy) and other potential arranged collateral.
-* Over time, with multiple collateral types and situations tested against this structure - and continued improvements of the structure - components/processes that can beneficially be moved on-chain will naturally reveal themselves and be executed upon.
+**Structure**
+
+This structure, beyond allowing Monetalis to start our Green Economy SME wholesale Lending business, is flexible enough to allow Monetalis to scale in a number of ways in practice:
+
+* We can sponsor/incubate new, more innovative, underwriting teams focused on Maker relevant lending segments. These could be implement simply via signalled changes to Strategic Credit Guidelines and, potentially, Vault increases - a capability easily extendable to include the EU market.
+* We can reuse/clone our TradFi/Maker integration point (BVI trust/trustees/Governance package/Bank/Auditor/Accountant etc) to support execution efforts such [MIP65 Clydesdale](https://forum.makerdao.com/t/mip65-clydesdale-monetalis-liquid-bond-strategy-execution/13148) and other potential arranged collateral.
+* Over time, with multiple collateral types and situations tested against this structure ---and continued improvements of the structure---, components/processes that can beneficially be moved on-chain will naturally reveal themselves and be executed upon.
 
 #### Collateral Assets
 
@@ -88,7 +96,7 @@ This structure, beyond allowing Monetalis to start our Green Economy SME wholesa
 | Instrument | Bond issued by independent orphan UK SPV (Monetalis Green Growth Limited - “MGG”) conforming to market standards for private securitisations in the UK. |
 | Financial Terms | USD denominated<br>Fixed 2% interest p.a.<br>Annual Profit-share: 80% |
 | Repayment | Interest paid monthly (retained until listing) <br>Profit-share paid annually <br> Principal paid at liquidation or end of term |
-| Duration | 50 years |
+| Duration | 10 years |
 | Liquidation/termination | On-demand |
 | Service Fee | Fixed 1% p.a.<br>Annual Profit-share: 20% |
 | Servicer Co-funding | 90% of managements profit-share is reinvested on par until this equates to 1% of the principal funding provided by the BVI Trust |
@@ -108,7 +116,7 @@ This structure, beyond allowing Monetalis to start our Green Economy SME wholesa
 | Opinions | English law opinions on enforceability of Bond documents and Trust documents<br>UK tax opinion<br>English capacity opinion on UK SPV and Servicer<br>BVI capacity opinion on BVI trustee |
 | Market Listing|Pursue technical listing to be accomplished within 12 months  |
 
-**Key parties:**
+**Key parties:** 
 
 * [Mulvaney](https://mulvaney.co/)
 * [Monetalis](https://monetalis.io/)
@@ -121,38 +129,108 @@ The funding provided under the Bond is **strictly constrained by the Strategic C
 
 This Bond constructs, under current UK and BVI, a situation of zero withholding tax on the PIK interest at the outset. Over this year we will complete a listing of the Bond, at which point all payments from the Bond will be on a **zero withholding tax basis**, in line with UK securitization standards for non-UK institutional investors. This means interest will accrue in the Bond until the above listing is accomplished and monthly interest payments can resume.
 
-In calculation of collateral value, defaults are deducted. Defaulted receivables are defined as follows:
+In calculation of collateral value, defaults are deducted. Defaulted receivables are defined as follows: 
+
 >“...any Receivable which becomes 90 days or more overdue from its original due date; and in respect of which the related Debtor is in liquidation, administration, receivership or bankruptcy (or analogous proceedings), or legal proceedings have been commenced for its recovery or which have been written off as uncollectible in accordance with the Credit and Collection Policies….”
 
 The Attestor/Attestor Committee appointed in MGB will have **information and Audit rights** on the Bond instrument.
 
-The Credit Committee, which approves all credit taken on to the Bond, will require a unanimous yes for an approval. Three persons will be on this Committee, one of which will be an independent industry party. MGB (i.e. the Attestor) will have the **right to approve/reject this independent credit committee member** as he/she is proposed by Monetalis.
+The Credit Committee, which approves all credit taken on to the Bond, will require a unanimous yes for an approval. Three persons will be on this Committee, one of which will be an independent industry party. MGB (i.e., the Attestor) will have the **right to approve/reject this independent credit committee member** as he/she is proposed by Monetalis.
 
+**2. STRATEGIC CREDIT GUIDELINES & DEPLOYMENT PATTERN FOR COLLATERAL**
 
-**2. STRATEGIC CREDIT GUIDELINES FOR COLLATERAL**
-Our principal credit strategy and market remains from our original MIP6, but have adjusted our guidelines slightly except for Green Economy. We now expect 100% of lenders to participate in our Green Economy Program that is explained [here](https://forum.makerdao.com/t/mip6-collateral-onboarding-application-monetalis-wholesale-green-economy-senior-secure-sme-funding/11223/27?u=allan_pedersen)
+**2a. Strategic Credit Guidelines**
+Our principal credit strategy and market remains from our original MIP6, but have adjusted our guidelines slightly to better fit with Maker requirements and feedback. We now expect 100% of lenders to participate in our Green Economy Program that is explained [here](https://forum.makerdao.com/t/mip6-collateral-onboarding-application-monetalis-wholesale-green-economy-senior-secure-sme-funding/11223/27)
 
-
-| Gross Return Target |4% - 5% |
+|Dimension|Requirement|
 |---|---|
+| Gross Return Target |4% - 5% |
 | Risk | Seek lowest possible risk profile to accomplish return target. <br>Key requirements:<br>- Senior positions only<br>- Funding max 85% of End-Loan Amount<br>- All End-loans secured by underlying security/asset<br>- Clear and proven liquidation of security/asset must exist<br>- Max Loan-to-Value of security/asset of End-loan 85%<br>- E(loss) of any lender portfolio  < 1%<br>- Only Lenders with proven portfolios, management and operations with commensurate long-term results (i.e. E(loss) <1% loss achieved consistently)<br>- Keep standard conservative industry exclusion list |
 | Duration | - Min 50% of portfolio with less than 24 months of duration. <br>- Max duration on loan of 48 months. |
 | Green Economy | Only work with Lenders willing to participate in our Green Economy Program (100% participation). |
-| Diversification (UK only) |- Max 40% of a lenders portfolio for loans over 24 months<br>- Max 30% of total Vault allocation per lender portfolio (calculated with DAI 100M as total Vault Allocation)<br>- Max 60% Average portfolio maturity for refinance<br>- Max allocation per Asset Class: Clean Transportation Assets: 40%, Property-backed, non-amortizing: only less than 12 months and only for renewal: 15%, Property-backed, amortizing: 25%, Equipment and others: 20%, Soft assets: 5%, Others: 10%<br>- Max allocation per geography: 15% Wales, 90% England<br>- Max 20% allocation per allowed industry for non-specialised lenders |
+| Diversification (UK only) |- Max 40% of a lenders portfolio for loans over 24 months<br>- Max 30% of total Vault allocation per lender portfolio <br>- Max 60% Average portfolio maturity for refinance<br>- Max allocation per Asset Class: Clean Transportation Assets: 40%, Property-backed, non-amortizing: only less than 18 months: 15%, Property-backed, amortizing: 40%, Equipment and others: 30%, Soft assets: 5%, Others: 10%<br>- Max allocation per geography: 15% Wales, 90% England<br>- Max 20% allocation per allowed industry for non-specialised lenders |
+
+**2b. Deployment Pattern**
+To eliminate ramp-up risks, we will employ the following capital deployment pattern:
+
+|Capital Deployment | Requirement|
+|---|---|
+| - 50M| Only refinance existing, performing portfolios with 50% or less left of duration and meeting the requirements of the Strategic Credit Guidelines. |
+|50M -100M| Further refinancing of existing, performing portfolios and add Super Senior facilites with relevant. performing UK Credit funds and Banks with portfolio's meeting the requirements of the Strategic Credit Guidelines.|
 
 
 **3. EXTERNAL REVIEWS & COMMENTARIES ON CREDIT, MARKET & MONETALIS OPERATIONS**
+![](https://github.com/makerdao/mips/blob/master/MIP68/aggregate_commentary.png)
 
-EXTERNAL REVIEWS/COMMENTARIES ARE ON THEIR WAY AND WILL BE PUT HERE AS THEY ARRIVE.
+**[Monetalis Aggregate Commentary on RWF Credit Review](https://drive.google.com/file/d/1ql6NXi1CPVAlb52VLFee6ZiV7ZjNMYv4/view?usp=sharing)**
+Aggregated Commentary by the **Monetalis Team** 
 
-Reed Smith / [Legal structure Review](https://github.com/makerdao/mips/blob/master/MIP68/aggregatecommentary.png)
+--
+**[Instrument Review & Experiences](https://drive.google.com/file/d/1koJEv7rYknQljT6oxTE54K3UARjxlp7f/view?usp=sharing)**
+by **Andrew Maskill**, Partner: Asset Finance & Leasing, Addleshaw Goddard
 
-**4. MONETALIS UPDATES**
+*From AG website:* Andrew specialises in advising on a variety of asset finance and leasing matters including operating and finance leasing, receivables finance, vendor finance, buying and selling lease books and structuring and tax issues. Andrew advises a variety of lessors and lessees including Bank of America, Natwest, BNP Paribas, Hitachi Capital, Close Brothers Investec Asset Finance, , SG Equipment Finance, and SMBC
 
-A NUMBER OF THESE ARE ON THEIR WAY AND WILL BE PUT HERE WHEN READY.
+--
+**[Business Review](https://drive.google.com/file/d/1RERgryN40zwyNYtM5tPxfC0p2aWUk9VN/view?usp=sharing)** 
+by  **George S. Ashworth**, Independent Expert
+Worked in this industry for over 40 years, of which over 20 in board level roles.
+Recent roles:
+* Managing Director of Santander Asset Finance plc,
+* Managing Director of ABN AMRO Leasing UK Ltd,
+* Managing Director of Aldermore Bank Asset Finance,
+* Operations Director of Lombard / Royal Bank of Scotland.
 
+Served as:
+* Chairman of Asset Finance Board (UK Finance & Leasing Association)
+* Board Member of Leaseurope in Brussels
+* Chair the Aberystwyth University (AU) Risk & Assurance Committee and Chair of AU Investments Committee.
 
-### MIP68c2: Vault Financial terms and parameters
+--
+**[Business and Credit Audit](https://drive.google.com/file/d/1X9WZYtct0tmnyzeo32neMmt4knS5cdwd/view?usp=sharing)**
+by **Athol Abraham**, Independent Credit Auditor
+Recent roles:
+* Senior Management, Risk and Compliance, Vive Bank 
+* VP of Risk & Compliance, LendInvest Group
+* Head of Group Risk & Compliance, Amicus Group
+* Head of Risk & Compliance, D&D UK & Canada
+* Head of Risk & Compliance, ING
+* Head of Lending Operations, Singer & Friedlander Bank
+* Head of Operations, Gerling/Atradius
+
+Today Independent Advisor: 
+* Provide Advisory to banks and wholesale funders on SME lending, asset finance,
+consumer finance etc
+* Provide Audits to wholesale funders and banks on lending portfolios and
+lenders for acquisition and facility underwriting
+* Write/remediate credit policies for lenders at the request of funders
+*  FCA applications (bank and lending), manage FCA interventions, including
+audits, remediations and VREQ’s
+
+Recent Client List: UK Lending
+Goldman Sachs / Merchant Money / Tandem Bank / Nucleus / Carrick Asset Finance / Money Advice & Pensions Service / Pollen Street Capital / Walbrook Asset Finance / FlyNowPaylater /  Bank of London / UK Agricultural Finance / Shawbrook Bank / Quilam Capital / Twinco Capital
+
+--
+**[Industry Experience](https://drive.google.com/file/d/1Z6Alg__3zpKy727G1-MRXjJNmF8_8Jss/view?usp=sharing)** & **[Legal structure Review](https://drive.google.com/file/d/13UJyTAJzyW7fWju0xR1wKyUIpNGbxouj/view?usp=sharing)** 
+by **Nick Stainthorpe**, Partner, Reed Smith
+
+*From RS Website:* Nick is a finance partner who advises clients on a wide range of structured financings and derivatives. He has significant experience in the following areas:
+* Securitisation and warehousing
+* Receivables finance and supply chain finance
+* Collateralised financing and risk transfer trades
+* Financing of specialty finance and fintech platforms
+* Preferred equity and junior debt financing of real estate businesses
+* Loan portfolio sales
+* FX, rates, equity, credit and commodity derivatives
+* Repo and stock lending
+* Margin loans, collars and other financings of listed equities
+* Fund finance including subscription line facilities, GP support facilities and NAV facilities
+* Emerging markets
+* Islamic finance
+
+He participates actively in industry bodies and speaks regularly at events on matters such as the implications of regulation on the finance sector and specialty finance. He hosts the Alternative Finance Investor Roadshow, which is a leading forum for the non-bank finance sector. Nick is listed as a “Leading Lawyer” by Legal 500 UK 2020 and states that “Nick Stainthorpe consistently excels. He has a strong commercial focus and a thorough understanding of both the law and complex transactional processes. He builds strong client relationships through a very open, two-way communication process.” Legal 500 UK 2019 states that Nick “has very broad experience, is approachable and finds creative solutions to any problems while balancing legal risks”.
+
+### MIP68c2: Vault Financial Terms and Parameters
 
 The yield, i.e., interest and profit-share, of the collateral is paid directly to the buffer by the following BVI trust.
 
@@ -181,20 +259,21 @@ The “Maker Off-chain Governance Package” (instructions to Trustee, Attestor/
 ### MIP68c3: Technical Details
 This Vault is implemented using the MIP21 standard with the following parameters at launch
 
-Collateral Adapter address: [xyz]
-
-Conduit address: [xyz]
-
-Initial Debt Ceiling: 50 million
-
-Stability Fee: 0% (Yield is paid manually to the buffer directly by the trust)
+* Collateral Adapter address: [xyz]
+* Conduit address: [xyz]
+* Initial Debt Ceiling: 50 million
+* Stability Fee: 0% (Yield is paid manually to the buffer directly by the trust)
 
 All other risk parameters are not applicable.
 
-### MIP68c4: Debt Ceiling gradual increase mechanism
+### MIP68c4: Debt Ceiling Gradual Increase Mechanism
 
 This MIP includes a mechanism for increasing the Debt Ceiling further to improve scale and throughput of the onboarding process, while reducing risk.
 
-Once the MIP68 vault has surpassed 40 million debt and maintained at least 40 million in outstanding debt for 30 consecutive days, a Debt Ceiling raise to 100 million is included in the next executive votes until it is executed.
+Once the MIP68 vault has surpassed 40 million debt and maintained at least 40 million in outstanding debt for 30 consecutive days, a Debt Ceiling raise to 100 million is included in the next executive votes until it is executed. 
 
 This mechanism can be deactivated to prevent the automatic increase of the debt ceiling. Deactivation occurs if a valid signal request that specifically mentions deactivating MIP68c4 passes the on-chain poll stage.
+
+At least 2 weeks in advance of the executive vote to increase the debt-ceiling, Monetalis will file on the forum an Independent Credit Audit of the Monetalis business. 
+
+Also, at least 2 weeks in advance of the executive vote to increase the debt-ceiling, Monetalis will file a report on the forum clarifying how professional/institutional capital have been/will be included in Monetalis issued non-bank lender facilities on a retro- and prospective basis.

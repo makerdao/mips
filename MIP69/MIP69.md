@@ -1,10 +1,10 @@
-# MIP69: L2 to L1 Fast Withdrawals
+# MIP69: L2-to-L1 Fast Withdrawals
 
 ## Preamble
 
 ```
 MIP#: 69
-Title: L2 to L1 Fast Withdrawals
+Title: L2-to-L1 Fast Withdrawals
 Author(s): Protocol Engineering Core Unit (PE-001)
 Type: Technical
 Status: Formal Submission
@@ -28,7 +28,7 @@ This MIP formalises technical work completed to deliver Fast Withdrawals on Laye
 
 Teleporting DAI from L2 to L1 is known as a “Fast Withdrawal”. To complete a fast withdrawal, DAI is burnt on L2, minted on L1, and sent to the user as soon as the L2 transaction is confirmed.
 
-This MIP focuses on the above L2 to L1 transaction. L2 to L2 transactions will be defined in a future MIP when the full Wormhole functionality is ready to be launched.
+This MIP focuses on the above L2-to-L1 transaction. L2-to-L2 transactions will be defined in a future MIP when the full Wormhole functionality is ready to be launched.
 
 ## Component Summary
 

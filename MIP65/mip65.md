@@ -1,9 +1,10 @@
-# MIP65: Clydesdale / Monetalis: Liquid Bond Strategy & Execution
+# MIP65: Monetalis Clydesdale: Liquid Bond Strategy & Execution
+
 ## Preamble
 
 ```
 MIP#: 65
-Title: Clydesdale / Monetalis: Liquid Bond Strategy & Execution
+Title: Monetalis Clydesdale: Liquid Bond Strategy & Execution
 Author(s): @Allan_Pedersen
 Contributors:
 Tags:
@@ -23,6 +24,8 @@ Ratification Poll URL:https://vote.makerdao.com/polling/QmXHM6us#poll-detail
 * https://forum.makerdao.com/t/alm-framework-for-makerdao/12994
 * https://forum.makerdao.com/t/mip6-collateral-onboarding-application-stable-us-treasury-securities-up-to-12-months-duration/12503
 * https://forum.makerdao.com/t/mip13c3-sp12-declaration-of-intent-invest-in-short-term-bonds/13084
+* https://forum.makerdao.com/t/mip68-monetalis-lusitano/13789
+* https://forum.makerdao.com/t/monetalis-evolution/14811
 
 ## Sentence Summary
 
@@ -30,14 +33,14 @@ MIP65 will onboard and activate a RWA vault for the purpose of acquiring USDC vi
 
 ## Paragraph Summary
 
-MIP65 onboards a RWA vault that will acquire USDC via the PSM and invest them in approved bond strategies. This MIP, importantly, also set out strict conditions for the setup of the underlying legal and governance structure and verification requirements.
+MIP65 onboards a RWA vault that will acquire USDC via the PSM and invest them in approved bond strategies. This MIP, importantly, also set out strict conditions for the setup of the underlying legal and governance structure and verification requirements. The proposal should be seen as connected with [MIP68](https://forum.makerdao.com/t/mip68-monetalis-vault-v2/13789) in accordance the strategy outlined in [Monetalis Evolution](https://forum.makerdao.com/t/monetalis-evolution/14811)
 
 ## Component Summary
 
-### MIP65c1: Legal Structure & Asset Strategy conditions of the collateral onboarding
+**MIP65c1: Legal Structure & Asset Strategy Conditions of the Collateral Onboarding**
 This component sets out the verification mechanism and conditions ensuring appropriate collateral is onboarded using an appropriate legal structure and governance framework using an appropriate technical solution.
 
-### MIP65c2: Technical conditions of the collateral onboarding
+**MIP65c2: Technical Conditions of the Collateral Onboarding**
 This component contains the technical requirements for unambiguous technical execution of the collateral onboarding
 
 ## Motivation
@@ -50,9 +53,10 @@ This component contains the technical requirements for unambiguous technical exe
 
 ## Specification / Proposal Details
 
-### MIP65c1: Legal structure & asset strategy conditions of the collateral onboarding
+### MIP65c1: Legal Structure & Asset Strategy Conditions of the Collateral Onboarding
 
 **Legal structure and Governance**
+
 Monetalis will set up a legal trust structure, and governance framework, with the necessary contractual relationships and legal protections to make it appropriate to act as large scale RWA collateral for Maker.
 
 This includes, but is not limited to:
@@ -67,30 +71,34 @@ This includes, but is not limited to:
 
 This above established structure must set up a relationship with a regulated crypto broker, and an ETH address must be emitted that can be used to construct the smart contracts necessary to complete the next step of the onboarding process specified in MIP65c2.
 
-**Legal structure and governance appropriateness Verification**
+**Legal Structure and Governance Appropriateness Verification**
+
 The Real World Finance Facilitator and the “in SES incubation” Facilitator of Legal and Transactions Services must, through a public forum post, provide a Verification of the legal and governance structure appropriateness for holding a large amount of low risk real world asset collateral for Maker.
 
 **Asset Purchase and Allocation Restriction Verification**
+
 The Strategic Finance Facilitator must, also through a public forum post, provide a Verification of the Asset Purchase and Allocation Restriction ensuring that only execution of bond strategies appropriate to use as large scale liquid RWA collateral can be acquired with assets provided to the legal structure by Maker.
 
 **Technical Verfication**
-The Collateral Engineering Services Facilitator must, again through a public forum post, provide a Verification of the technical appropriateness of the MIP21 designed solution in accordance with the collateral onboarding process ("COB").
+
+The Collateral Engineering Services Facilitator must, again through a public forum post, provide a Verification of the technical appropriateness of the MIP21 designed solution in accordance with the Collateral Onboarding process ("COB"). 
 
 Should one such Verification not be forthcoming, for whatever reason, this MIP will not move forward in the COB.
 
-### MIP65c2: Technical conditions of the collateral onboarding
+### MIP65c2: Technical Conditions of the Collateral Onboarding
 
-The technical implementation must follow the MIP21 framework. Upon Collateral Engineering Services solution Verification in Mip65c1, the relevant smart contracts must be constructed and deployed. It should hard code the ETH Address emitted by the legal structure specified in MIP65c1, and follow the MIP21 framework.
+The technical implementation must follow the MIP21 framework. Upon Collateral Engineering Services solution Verification in MIP65c1, the relevant smart contracts must be constructed and deployed. It should hardcode the ETH Address emitted by the legal structure specified in MIP65c1, and follow the MIP21 framework. 
 
 These smart contracts must only allow for the generation of Dai through a vault that is sent to the ETH address of the legal structure as its ultimate destination, and it must not be technically possible to send the Dai elsewhere, in accordance with MIP21.
 
 There must also not be any additional technical features or complexity that goes beyond the minimum necessary smart contracts and dummy constructs to enable the generation of Dai and its transfer to the ETH Address emitted by the legal structure.
 
-The ability to initiate the generation of Dai from the vault and trigger their transfer to the ETH Address emitted by the legal structure is given to an Ethereum address controlled by Monetalis. This address must have no ability to access the funds]
+The ability to initiate the generation of Dai from the vault and trigger their transfer to the ETH Address emitted by the legal structure is given to an Ethereum address controlled by Monetalis. This address must have no ability to access the funds.
 
 When the collateral onboarding process for MIP65 has progressed to step 7 in the COB, an executive vote must be created (or code must be bundled into a broader executive vote) that activates all permissions for the vault to be onboarded based on the smart contracts specified in MIP65c2.
 
 The vault must provide:
-* Debt ceiling of DAI 500 million
-* Stability fee of 0% (surplus is paid manually through the legal structure, as specified in MIP65c1)
+
+* Debt Ceiling of DAI 500 million.
+* Stability Fee of 0% (surplus is paid manually through the legal structure, as specified in MIP65c1.)
 * All other parameters must be set to ensure they have no functional impact.
