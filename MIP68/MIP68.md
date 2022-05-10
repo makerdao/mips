@@ -14,6 +14,7 @@ Date Ratified: n/a
 Dependencies: n/a
 Replaces: n/a
 Forum URL: https://forum.makerdao.com/t/mip68-monetalis-vault-v2/13789
+Ratification Poll URL: https://vote.makerdao.com/polling/QmS7UyQT
 ```
 
 ## References

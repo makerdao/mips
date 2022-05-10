@@ -9,12 +9,13 @@ Title: Budget Framework Replacement
 Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
 Tags: MIP40, budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-03-27
 Date Ratified: 
 Dependencies: MIP0, MIP16
 Replaces: MIP40, MIP40c3 subproposal template
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXVjbWG
 ```
 ## Specification
 
