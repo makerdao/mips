@@ -8,12 +8,13 @@ Title: Monetalis Vault V2
 Author(s): @Allan_Pedersen
 Contributors:
 Type: Technical
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-09-03
 Date Ratified: n/a
 Dependencies: n/a
 Replaces: n/a
 Forum URL: https://forum.makerdao.com/t/mip68-monetalis-vault-v2/13789
+Ratification Poll URL: https://vote.makerdao.com/polling/QmS7UyQT
 ```
 ## References
 

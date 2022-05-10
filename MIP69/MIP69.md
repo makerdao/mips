@@ -7,10 +7,11 @@ MIP#: 69
 Title: L2 to L1 Fast Withdrawals
 Author(s): Protocol Engineering Core Unit (PE-001)
 Type: Technical
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-03-17
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip69-l2-to-l1-fast-withdrawals/14041
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWZvSpa
 ```
 
 ## References

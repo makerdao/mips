@@ -7,10 +7,11 @@ MIP40c3-SP#: 67
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @kat
 tags: core-unit, cu-sh-001, budget, mkr-budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-03-09
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805
+Ratification Poll URL: https://vote.makerdao.com/polling/QmQkxx16
 ```
 
 ## Sentence Summary
