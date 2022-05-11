@@ -12,6 +12,7 @@ Status: Accepted
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Last Amended: 2021-04-29
+Retrospection Date: n/a
 Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
@@ -72,6 +73,12 @@ MIP0 defines the *Maker Improvement Proposals (MIPs) Framework* for all subseque
 
 **MIP0c13: MIP Set Management**  
 *Defines procedures for managing MIP Sets.*  
+
+**MIP0c14: Retrospection Process**
+*Describes the MIP retrospection process.*
+
+**MIP0c15: Retrospection Report**
+*A process component which defines a method and template for the Retrospection Report.*
 
 ## Motivation
 
@@ -147,6 +154,8 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 7. **Monthly Governance Cycle**: At this point, the proposal enters the [Monthly Governance Cycle](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md).
 
 8. **Accepted/Rejected:** The MIP is voted on. If it passes, it is officially accepted and is given the `Accepted` status. If not, the MIP is rejected.
+
+9. **Retrospection:** All `Accepted` MIPs besides MIP0 have a Retrospection Date. If no date is listed then the Retrospection Date is implicitly one year after the MIP was `Accepted` for General MIPs and two years for Technical MIPs. The retrospection process is described in MIP0c14.
 
 #### Resubmission
 
@@ -344,3 +353,24 @@ MIP Sets are usually introduced as such by MIP Authors, but if MIP Editors find 
 #### Additional Considerations
 
 Because of their interdependent nature, MIP Sets can only be voted as a block, as any partial passing would result in the onboarding of inconsistent, incomplete, or nonsensical MIPs. By the same token, special care must be taken when modifying or removing MIPs within a MIP Set.
+
+---
+
+### MIP0c14: Retrospection Process
+
+Bureaucracy tends to grow without active pruning. The goal of the Retrospection Process is to surface a process to help prune unused or low-utility MIPs. Once a MIP's Retrospection Date has passed, it becomes subject to the Retrospection Process.
+
+There are two cases: either the Retrospection Date will be pushed into the future or the MIP will be removed (see MIP0c15). If the Retrospection Date is to be updated then the next Retrospection Date should be set by the Retrospection Report author in consultation with Governance Facilitators to minimize governance overhead. All MIPs within a MIP Set are reviewed together.
+
+---
+
+### MIP0c15: Retrospection Report
+
+To update the Retrospection Date, use a MIP0c15 subproposal based on the template located at **[MIP0c15-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c15-Subproposal-Template.md)**. A MIP0c15 is simply accepted and requires no on-chain vote.
+
+Otherwise, if the conclusion is that the MIP should be removed then create a MIP4c4 subproposal based on the template located at **[MIP4c4-Subproposal-Template.md](MIP4c4-Subproposal-Template.md)** with the following parameters:
+
+- **Default Feedback Period**: 1 week
+- **Frozen Period**: 1 month
+- **Governance Cycle**: Monthly
+- **Other Requirements**: None.

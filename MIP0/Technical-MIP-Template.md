@@ -11,6 +11,7 @@ Type: MIP Type
 Status: <Assigned by MIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
+Retrospection Date: <yyyy-mm-dd>
 Dependencies: <List of dependent MIPs>
 Replaces: <List of MIP it is replacing>
 License: <added by MIP Author>
