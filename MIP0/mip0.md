@@ -358,7 +358,7 @@ Because of their interdependent nature, MIP Sets can only be voted as a block, a
 
 ### MIP0c14: Retrospection Process
 
-Bureaucracy tends to grow without active pruning. The goal of the Retrospection Process is to surface a process to help prune unused or low-utility MIPs. Once a MIP's Retrospection Date has passed, it becomes subject to the Retrospection Process.
+Bureaucracy tends to grow without active pruning. The goal of the Retrospection Process is to surface a process to help prune unused or low-utility MIPs. This process also helps introduce and familiarize the broader community with MIPs that continue to be used. Once a MIP's Retrospection Date has passed, it becomes subject to the Retrospection Process.
 
 There are two cases: either the Retrospection Date will be pushed into the future or the MIP will be removed (see MIP0c15). If the Retrospection Date is to be updated then the next Retrospection Date should be set by the Retrospection Report author in consultation with Governance Facilitators to minimize governance overhead. All MIPs within a MIP Set are reviewed together.
 
