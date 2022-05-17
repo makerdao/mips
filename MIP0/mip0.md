@@ -368,7 +368,7 @@ There are two cases: either the Retrospection Date will be pushed into the futur
 
 To update the Retrospection Date, use a MIP0c15 subproposal based on the template located at **[MIP0c15-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c15-Subproposal-Template.md)**. A MIP0c15 is simply accepted and requires no on-chain vote.
 
-Otherwise, if the conclusion is that the MIP should be removed then create a MIP4c4 subproposal based on the template located at **[MIP4c4-Subproposal-Template.md](MIP4c4-Subproposal-Template.md)** with the following parameters:
+Otherwise, if the conclusion is that the MIP should be removed then create a MIP4c4 subproposal based on the template located at **[MIP4c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c4-Subproposal-Template.md)** with the following parameters:
 
 - **Default Feedback Period**: 1 week
 - **Frozen Period**: 1 month
