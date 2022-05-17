@@ -358,15 +358,17 @@ Because of their interdependent nature, MIP Sets can only be voted as a block, a
 
 ### MIP0c14: Retrospection Process
 
-Bureaucracy tends to grow without active pruning. The goal of the Retrospection Process is to surface a process to help prune unused or low-utility MIPs. This process also helps introduce and familiarize the broader community with MIPs that continue to be used. Once a MIP's Retrospection Date has passed, it becomes subject to the Retrospection Process.
+Bureaucracy tends to grow without active pruning. The goal of the Retrospection Process is to surface a process to help prune unused or low-utility MIPs. This process also helps introduce and familiarize the broader community with MIPs that continue to be used. For popular and successful MIPs, a retrospective could take the form of a festive celebration in meat space. Once a MIP's Retrospection Date has passed, it becomes subject to the Retrospection Process.
 
-There are two cases: either the Retrospection Date will be pushed into the future or the MIP will be removed (see MIP0c15). If the Retrospection Date is to be updated then the next Retrospection Date should be set by the Retrospection Report author in consultation with Governance Facilitators to minimize governance overhead. All MIPs within a MIP Set are reviewed together.
+There are two cases: either the Retrospection Date will be pushed into the future---potentially with an amendment---or the MIP will be removed (see MIP0c15). If the Retrospection Date is to be updated then the next Retrospection Date should be set by the Retrospection Report author in consultation with Governance Facilitators to minimize governance overhead. All MIPs within a MIP Set are reviewed together.
 
 ---
 
 ### MIP0c15: Retrospection Report
 
-To update the Retrospection Date, use a MIP0c15 subproposal based on the template located at **[MIP0c15-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c15-Subproposal-Template.md)**. A MIP0c15 is simply accepted and requires no on-chain vote.
+To update the Retrospection Date without amendment, use a MIP0c15 subproposal based on the template located at **[MIP0c15-Subproposal-Template.md](MIP0c15-Subproposal-Template.md)**. After a **Feedback Period** of 1 month and there are no concurrent competing actions (i.e. amendment or removal), a MIP0c15 is simply accepted. No on-chain vote is required.
+
+To update the Retrospection Date with amendment, use the MIP4c2 process. The **[MIP4c2-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposal-Template.md)** can be combined with the **[MIP0c15-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c15-Subproposal-Template.md)**. The combined proposal follows the usual MIP4c2 governance process. Although the MIP4c2 process is available at any time regardless of the Retrospection Date, the community is encouraged to celebrate the retrospective with an amendment that makes the MIP align more closely with Core Principles (see MIP0c2).
 
 Otherwise, if the conclusion is that the MIP should be removed then create a MIP4c4 subproposal based on the template located at **[MIP4c4-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c4-Subproposal-Template.md)** with the following parameters:
 
