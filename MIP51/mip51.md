@@ -24,11 +24,11 @@ N/A
 
 ## Sentence Summary
 
-MIP51 defines a monthly Governance Cycle that provides a predictable framework for Maker governance decisions.
+MIP51 defines a Monthly Governance Cycle that provides a predictable framework for Maker Governance decisions.
 
 ## Paragraph Summary
 
-MIP51 defines a monthly Governance Cycle that provides a predictable framework for Maker governance decisions. It replaces the existing [Monthly Governance Cycle (MIP3)](https://github.com/makerdao/mips/tree/master/MIP3). This new Governance Cycle aims to provide a more efficient and accessible framework for Maker Governance decisions.
+MIP51 defines a Monthly Governance Cycle that provides a predictable framework for Maker Governance decisions. It replaces the existing [Monthly Governance Cycle (MIP3)](https://github.com/makerdao/mips/tree/master/MIP3). This new Governance Cycle aims to provide a more efficient and accessible framework for Maker Governance decisions.
 
 ## Component Summary
 
@@ -46,21 +46,21 @@ Defines the process for modifying the Minimum Positive Participation required fo
 
 **MIP51c4: Calendar Exceptions** 
 
-Defines exceptions to the monthly governance cycle due to holidays.
+Defines exceptions to the Monthly Governance Cycle due to holidays.
 
 
 
 ## Motivation
 
-The new Monthly Governance Cycle has several goals versus the previous monthly governance cycle defined in MIP3.
+The new Monthly Governance Cycle has several goals versus the previous Monthly Governance Cycle defined in MIP3.
 
 First, it aims to reduce the cost of participation for governance by reducing the number of votes that take place for each monthly cycle. Many participants expressed frustration over the number of votes required in each cycle, and many simply remained confused as to why multiple votes were required each month.
 
-Second, it aims to increase protocol security by ensuring that only one executive vote is required per week under normal circumstances. It has been observed that the amount of MKR on the hat suffers during weeks where we have multiple executive votes, and this has caused some concern among the Smart Contracts Team.
+Second, it aims to increase protocol security by ensuring that only one Executive Vote is required per week under normal circumstances. It has been observed that the amount of MKR on the hat suffers during weeks where we have multiple Executive Votes, and this has caused some concern among the Smart Contracts Team.
 
-Third, it aims to remove the possibility of a monthly governance executive failing due to a lack of participation combined with a 4-day executive proposal expiry. This could be a significant setback for the DAO. Additionally, the difficulty in determining if the executive failed due to lack of participation or opposition would complicate the steps taken after that eventuality. 
+Third, it aims to remove the possibility of a monthly governance executive failing due to a lack of participation combined with a 4-day Executive Proposal expiry. This could be a significant setback for the DAO. Additionally, the difficulty in determining if the Executive failed due to lack of participation or opposition would complicate the steps taken after that eventuality. 
 
-The proposed monthly governance cycle should resolve these issues and allow the monthly governance cycle to proceed more efficiently, with less of a security risk, and with additional participation.
+The proposed Monthly Governance Cycle should resolve these issues and allow the Monthly Governance Cycle to proceed more efficiently, with less of a security risk, and with additional participation.
 
 Additionally, the new Monthly Governance Cycle is less complex and hopefully more clear than the previous version.
 
@@ -68,11 +68,11 @@ Additionally, the new Monthly Governance Cycle is less complex and hopefully mor
 
 ### MIP51c1: Governance Cycle Breakdown
 
-The first Monday of each calendar month marks the beginning of the monthly governance cycle.
+The first Monday of each calendar month marks the beginning of the Monthly Governance Cycle.
 
 Proposals submitted into the Monthly Governance Cycle must follow the guidelines defined in [MIP0](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md).
 
-*Time is inclusive and based on UTC (Coordinated Universal Time) and the Gregorian calendar*
+*Time is inclusive and based on UTC (Coordinated Universal Time) and the Gregorian Calendar*.
 
 **Week 1, Monday**
 -   MIP Authors move their proposals to **Formal Submission** (Phase 5 described in [MIP0c3](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c3-the-mip-lifecycle)). This phase lasts for 3 days.
@@ -87,14 +87,14 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
     - In the event the Governance Facilitators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
 
 **Week 2, Monday**
--   The Governance facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
--   Ratification Polls are published to the [community GitHub](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [voting portal](https://vote.makerdao.com/).
+-   The Governance Facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
+-   Ratification Polls are published to the [community GitHub](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [Voting Portal](https://vote.makerdao.com/).
 
 **Week 4, Monday**
--   The Ratification polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the MIP Editors.
+-   The Ratification Polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the MIP Editors.
 
 **Week 4, Thursday**
-- The Governance Facilitators do a **Governance Cycle Review** as part of the weekly Governance and Risk meeting in which they summarize and discuss the Governance Cycle with the community.
+- The Governance Facilitators do a **Governance Cycle Review** as part of the Weekly Governance and Risk meeting in which they summarize and discuss the Governance Cycle with the community.
 - The Governance Facilitators also discuss the upcoming governance cycle and potential submissions with the community.
 
 ### Governance Cycle Overview
@@ -104,14 +104,14 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 
 ### MIP51c2: Ratification Poll
 
-Ratification Polls under the monthly governance cycle must meet these requirements:
-* **Duration:** 2 weeks
-* **Minimum Positive Participation:** 10,000 MKR
-* **Type:** Binary poll (yes/no/abstain)
+Ratification Polls under the Monthly Governance Cycle must meet these requirements:
+* **Duration:** 2 Weeks.
+* **Minimum Positive Participation:** 10,000 MKR.
+* **Type:** Binary Poll (yes/no/abstain).
 
-Ratification Polls under the monthly governance cycle must contain:
+Ratification Polls under the Monthly Governance Cycle must contain:
 * Links to a *specific version* of a single proposal or set of related proposals (MIP Set) within the official MIPs GitHub.
-* The Sentence and Paragraph summaries of each included proposal.
+* The Sentence and Paragraph Summaries of each included proposal.
 
 In order for a Ratification Poll to conclude successfully and the contained proposal(s) move to Accepted status, each of the following conditions must be true:
 * `Yes` vote-weight must exceed `No` vote-weight when the poll closes.
@@ -121,9 +121,9 @@ In order for a Ratification Poll to conclude successfully and the contained prop
 
 ### MIP51c3: Minimum Positive Participation Changes
 
-The Minimum Positive Participation value defined in MIP51c2 may be modified via a successful polling vote under the weekly governance cycle (MIP16).
+The Minimum Positive Participation value defined in MIP51c2 may be modified via a successful Polling Vote under the Weekly Governance Cycle (MIP16).
 
-If such a vote is successful, the MIP Editors will update MIP51c2 and the change will come into effect in the _following_ monthly governance cycle.
+If such a vote is successful, the MIP Editors will update MIP51c2 and the change will come into effect in the _following_ Monthly Governance Cycle.
 
 The Minimum Positive Participation value may not be changed for Ratification Polls that are in progress under any circumstances.
 
@@ -131,6 +131,6 @@ The Minimum Positive Participation value may not be changed for Ratification Pol
 
 ### MIP51c4: Calendar Exceptions
 
-Due to the multitude of cultural and religious holidays occurring in and around the month of December, there will be no monthly governance cycle in the December of each year.
+Due to the multitude of cultural and religious holidays occurring in and around the month of December, there will be no Monthly Governance Cycle in the December of each year.
 
 ---
