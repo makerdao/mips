@@ -12,7 +12,7 @@ Status: Accepted
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Last Amended: 2021-04-29
-Retrospection Date: n/a
+Retrospection Date: 2024-01-01
 Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
@@ -155,7 +155,7 @@ The MIP Framework serves to empower each off-chain and on-chain Governance parti
 
 8. **Accepted/Rejected:** The MIP is voted on. If it passes, it is officially accepted and is given the `Accepted` status. If not, the MIP is rejected.
 
-9. **Retrospection:** All `Accepted` MIPs besides MIP0 have a Retrospection Date. If no date is listed then the Retrospection Date is implicitly one year after the MIP was `Accepted` for General MIPs and two years for Technical MIPs. The retrospection process is described in MIP0c14.
+9. **Retrospection:** All `Accepted` MIPs have a Retrospection Date. If no date is listed then the Retrospection Date is implicitly one year after the MIP was `Accepted` for General MIPs and two years for Technical MIPs. The retrospection process is described in MIP0c14.
 
 #### Resubmission
 
