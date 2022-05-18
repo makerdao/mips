@@ -21,7 +21,7 @@ Ratification Poll URL:
 ## References
 
 * [DssKiln - a permissionless token purchasing tool](https://forum.makerdao.com/t/dsskiln-a-permissionless-token-purchasing-tool/14943); a forum post introducing the module.
-* [MIP74c1-Subproposal-Template](https://docs.google.com/document/d/19txXSU-_ZnqxrW0PambAhkvfAgS--SUiL7xHR3FDJ_E/edit?usp=sharing).
+* [MIP74c1-Subproposal-Template]([https://docs.google.com/document/d/19txXSU-_ZnqxrW0PambAhkvfAgS--SUiL7xHR3FDJ_E/edit?usp=sharing](https://github.com/makerdao/mips/blob/master/MIP74/MIP74c1-Subproposal-Template.md).
 
 ## Sentence Summary
 
@@ -65,7 +65,7 @@ Confirms that DssKiln will be professionally audited prior to production use.
 
 ### MIP74c1: Adding & Modifying a Permissionless Open Market Operation
 
-MIP74c1 subproposals must use the template located at [MIP74c1-Subproposal-Template](https://docs.google.com/document/d/19txXSU-_ZnqxrW0PambAhkvfAgS--SUiL7xHR3FDJ_E/edit?usp=sharing).
+MIP74c1 subproposals must use the template located at [MIP74c1-Subproposal-Template](https://github.com/makerdao/mips/blob/master/MIP74/MIP74c1-Subproposal-Template.md).
 
 This section of the MIP can have large consequences on the protocol's solvency, reserves and its financial resistance. A successful subproposal under this component will result in a technical state change to action and the proposal being included in an executive proposal within 1 month, absent any external factors.
 
