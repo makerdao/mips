@@ -33,23 +33,18 @@ MIP75 proposes the formalization of Task Forces. These groups are designed to di
 ## Component Summary
 
 **MIP75c1: Task Force Requirements**
-
 Task Force compliance guidelines .
 
 **MIP75c2: Onboard Task Force**
-
 Task Force submission template.
 
 **MIP75c3: Task Forces List**
-
 List of active Task Forces.
 
 **MIP75c4: Offboard Task Force**
-
 Task Force dissolution template.
 
 **MIP75c5: Request for Additional Funds**
-
 Task Force request for additional funds template.
 
 ## Motivation
@@ -68,7 +63,7 @@ The formal difference between the expedited and regular processes is that the pu
 
 Here is an example of the difference with an expedited process:
 
-![|624x365](upload://gjGi98O6hKh3vz6JLGEVKhL56DY.png)
+![](https://github.com/makerdao/mips/blob/master/MIP75/expedited_process.png)
 
 Most proposals should still go through the regular public process, but this new expedited process will allow us to reach consensus in advance of the vote for proposals being submitted by trusted members of the community.
 
@@ -86,13 +81,12 @@ This subproposal onboards a new Task Force.
 
 The parameters for MIP75c2 subproposals are:
 
-Feedback Period: 3 weeks
-
-Frozen Period: 1 week
+* **Feedback Period**: 3 Weeks.
+* **Frozen Period**: 1 Week.
 
 Outcome: Task Force is either onboarded successfully or is rejected. If onboarded, a one-time payment of the requested initial funding is sent to the multi-sig.
 
-MIP75c2 subproposals must use the MIP75c2-Subproposal-Template template.
+MIP75c2 subproposals must use the [MIP75c2-Subproposal-Template template](https://github.com/makerdao/mips/blob/master/MIP75/MIP75c2-Subproposal-Template.md).
 
 Ratification Polls for MIP75c2 subproposals involving a Task Force Onboarding will require using ranked-choice voting, with the options as follows:
 
@@ -105,41 +99,6 @@ In order for this Ratification Poll to conclude successfully and the contained p
 
 * A or B vote-weight must exceed C vote-weight when the poll closes.
 * Winning vote-weight must exceed the Minimum Positive Participation value of 10,000 MKR when the poll closes.
-
-======= TEMPLATE =======
-
-# MIP75c2-SP123: Onboard Task Force
-
-## Preamble
-
-```
-MIP75c2-SP#: 123
-Title: Onboard Task Force - NAME OF TASK FORCE
-Author(s): Name (@handle)
-Contributors:
-Tags: task-force
-Status: RFC
-Date Proposed: YYYY-MM-DD
-Date Ratified: N/A
-Forum URL:
-Ratification Poll URL:
-```
-
-## Specification
-
-- **Name**: NAME OF TASK FORCE
-- **Members**:
-
-Member Name (@handle) - Description of Role
-
-- **Requested Initial Funding**: FUNDING AMOUNT IN DAI
-- **Multi-sig Address (m-of-n)**: MULTISIG ADDRESS
-
-## Description
-
-Free-form description of the Task Force. Should include vision, goals, strategy, etc.
-
-======= END TEMPLATE =======
 
 ### MIP75c3: Task Forces List
 
@@ -158,66 +117,11 @@ Any community member can begin an offboarding process.
 
 The parameters for MIP75c4 subproposals are:
 
-- **Feedback Period**: 3 weeks
-
-- **Frozen Period**: 1 week
+- **Feedback Period**: 3 Weeks.
+- **Frozen Period**: 1 Week.
 
 **Outcome**: Task Force is either offboarded successfully or they continue as-is. If offboarded, any outstanding unspent funding must be returned to the DAO at the earliest convenience.
-
-======= TEMPLATE =======
-
-```
-MIP75c4-SP#: 123
-Title: Offboard Task Force - NAME OF TASK FORCE
-Author(s): Name (@handle)
-Contributors:
-Tags: task-force
-Status: RFC
-Date Proposed: YYYY-MM-DD
-Date Ratified: N/A
-Forum URL:
-Ratification Poll URL:
-```
-
-## Specification
-
-- **Name**: NAME OF TASK FORCE
-- **Target SP #**: # of the Onboarding Proposal to Offboard
-
-## Description
-
-Free-form description of why this Task Force should be offboarded.
-
-======= END TEMPLATE =======
 
 ### MIP75c5: Request for Additional Funds
 
 Any Task Force member may begin a request for additional funds for their own group.
-
-======= TEMPLATE =======
-
-```
-MIP75c5-SP#: 123
-Title: Request for Additional Funds - NAME OF TASK FORCE
-Author(s): Name (@handle)
-Contributors:
-Tags: task-force
-Status: RFC
-Date Proposed: YYYY-MM-DD
-Date Ratified: N/A
-Forum URL:
-Ratification Poll URL:
-```
-
-## Specification
-
-- **Name**: NAME OF TASK FORCE
-- **Target SP #**: # of the Onboarding Proposal to Offboard
-- **Requested Initial Funding**: FUNDING AMOUNT IN DAI
-- **Multi-sig Address (m-of-n)**: MULTISIG ADDRESS
-
-## Description
-
-Free-form description of why this Task Force needs more funds.
-
-======= END TEMPLATE =======  

@@ -1,11 +1,10 @@
 # MIP75c2: Onboard Task Force Template
 
-# MIP75c2-SP123:
 
 ## Preamble
 
 ```
-MIP75c2-SP#: 123
+MIP75c2-SP#:
 Title: Onboard Task Force - NAME OF TASK FORCE
 Author(s): Name (@handle)
 Contributors:
@@ -30,5 +29,3 @@ Member Name (@handle) - Description of Role
 ## Description
 
 Free-form description of the Task Force. Should include vision, goals, strategy, etc.
-
-======= END TEMPLATE =======

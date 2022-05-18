@@ -39,7 +39,7 @@ The Growth Task Force aims to grow the Maker ecosystem as fast as possible. It i
 
 Our focus is on practical solutions to achieve the objectives listed below as quickly as possible. Perfection is the enemy of progress. We aim to find solutions that work first and backfill decentralization / resilience later.
 
-### Short Term Objectives
+### Short-Term Objectives
 
 1. Capital raise to solve cash flow problems and increase surplus buffer to improve risk tolerance. This may be done through a combination of equity and debt instruments.
 2. Multi-chain expansion to grow our user base with a focus on meeting retail users where they are/going to be. This includes boosting DAI liquidity on as many chains as possible.
@@ -47,7 +47,7 @@ Our focus is on practical solutions to achieve the objectives listed below as qu
 4. Start earning interest on the stablecoin supply with short-term treasuries and other low-risk strategies.
 5. A focus on enabling the DAO to hire and retain talent via initiatives such as conference and hackathon sponsorships.
 
-### Long Term Objectives
+### Long-Term Objectives
 
 1. Grow the interest-bearing DAI supply such that we can re-activate the Dai Savings Rate.
 2. Marketing DAI as the sustainable stablecoin that gives you an implicit savings rate.
