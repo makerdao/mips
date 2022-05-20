@@ -149,11 +149,12 @@ If a Core Unit has no active Facilitators as a result of involuntary offboarding
 
 #### The Fallback Decision Process
 
-For the first fallback vote, a ranked choice vote from a list of volunteer Interim Facilitators and current active Facilitators is put up for one week. A simple majority vote on one candidate designates the Interim Facilitator. Should the first fallback vote fail, then the same list is put to all currently active Facilitators who choose to vote on a shorter time frame. 48 hours is recommended.
+For the first fallback vote, a ranked choice vote from a list of volunteer Interim Facilitators and current active Facilitators is put up for one week. The winner is the Interim Facilitator. In the case of a tie, the winner is selected by coin toss of an American 1964 silver quarter (or an otherwise fair coin). If the vote fails because nobody voted then all Facilitators shall endeavour to meet in person on Awashima Island, sit in a circle in a comfortable grassy field, and together commit ritual suicide (切腹).
 
-Regardless of which vote succeeds, the Interim Facilitator is approved on a short cycle and instantly assigned to that Core Unit.
+The Interim Facilitator, once approved on a short cycle, is assigned to that Core Unit.
 
-If a confirmed candidate rejects the role, a member of a Governance Core Unit should be appointed to fulfill the responsibilities of the Interim Facilitator.
+If the candidate refuses the role, a member of a Governance Core Unit shall be appointed to fulfill the responsibilities of the Interim Facilitator.
+
 #### Governance Powers
 
 The Interim Facilitator may also need to use Governance Powers of the Core Unit to keep existing operational processes running smoothly during the interim period.
