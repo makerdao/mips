@@ -99,7 +99,10 @@ The parameters for MIP39c2 subproposals are:
 - **Minimum Feedback Period**: 1 month.
 - **Minimum Frozen Period**: 1 week.
 - **Governance Cycle**: Monthly.
-ing Core Units (Process Component)
+
+MIP39c2 subproposals must use the template located at [MIP39c2-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposal-Template.md).
+
+### MIP39c3: Offboarding Core Units (Process Component)
 
 Core Units can be offboarded from MakerDAO by utilizing MIP39c3 subproposals. The ratification of a MIP39c3 subproposal triggers the following sequence of events:
 
