@@ -8,7 +8,7 @@ Title: Monetalis Lusitano: UK Green Economy SME Wholesale Lending
 Author(s): @Allan_Pedersen 
 Contributors: @Wrongcomma @Julian_Frede 
 Type: Technical
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-09-03
 Date Ratified: n/a
 Dependencies: n/a
