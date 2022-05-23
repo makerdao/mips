@@ -1,5 +1,7 @@
 # MIP40: Budget Process Framework
 
+## Preamble
+
 ```
 MIP# 40
 Title: Budget Framework (Replaced with MIP4c2-SP19)
@@ -7,7 +9,7 @@ Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
 Tags: MIP40, budget
 Status: RFC
-Date Applied: 2022-03-27
+Date Proposed: 2022-03-27
 Date Ratified: 
 Dependencies: MIP0, MIP16
 Replaces: MIP40
