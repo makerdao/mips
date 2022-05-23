@@ -4,7 +4,7 @@
 
 ```
 MIP# 40
-Title: Budget Framework (Replaced with MIP4c2-SP19)
+Title: Budget Framework
 Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
 Tags: MIP40, budget
@@ -13,6 +13,7 @@ Date Proposed: 2022-03-27
 Date Ratified: 
 Dependencies: MIP0, MIP16
 Replaces: MIP40
+Extra: This MIP has been amended. See [MIP4c2-SP19](https://mips.makerdao.com/mips/details/MIP4c2SP19). The original version can be found [here](https://github.com/makerdao/mips/blob/7fdb552680486bbd84dfd84b64980e0999249043/MIP40/mip40.md).
 ```
 ## Sentence Summary
 
