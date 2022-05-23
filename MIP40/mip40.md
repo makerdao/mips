@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP# 40
+MIP#: 40
 Title: Budget Framework
 Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
