@@ -139,7 +139,7 @@ In order for this Ratification Poll to conclude successfully and the contained p
 * `A` or `B` vote-weight must exceed `C` vote-weight when the poll closes.
 * Winning vote-weight must exceed the `Minimum Positive Participation` value of 10,000 MKR when the poll closes.
 
-MIP40c3 subproposals must use the template located at [MIP40c3-Subproposal-Template](https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250/3).
+MIP40c3 subproposals must use the template located at [MIP40c3-Subproposal-Template](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposal-Template.md).
 
 ### MIP40c4: Budget Implementation Details
 
