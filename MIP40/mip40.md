@@ -48,7 +48,7 @@ The Budget Framework MIP allows Governance to manage Budget Proposal requests fo
 
 Budgets are used to fund the work defined by the Core Units chosen by Maker Governance. A budget is attached to a Core Unit and is meant to be used only for that Core Unit.
 
-The Facilitators of each Core Unit administer core Unit budgets.
+The Facilitators of each Core Unit administer Core Unit budgets.
 
 Once a budget has been approved, Facilitators will be encouraged to file correctly tagged expense reports to the appropriate subsection of the governance forums. Actual expenses should be reported on a monthly basis, following reporting recommendations outlined by SF-001 and SES-001. 
 
@@ -103,7 +103,7 @@ Core Unit Budgets can have multiple entries. Having multiple budget entries, eac
 
 #### Considerations for Budget Modifications
 
-- If an already approved Core Unit is requesting a >10%[TBD] increase in budget, the new budget proposal must include:
+- If an already approved Core Unit is requesting a >10% increase in budget, the new budget proposal must include:
     - Variance analysis by expense type comparing proposed vs existing budget, including spend and headcount
     - Variances of >10% require disclosure of driver(s)
 - Detailed business case to justify the increase in investment
