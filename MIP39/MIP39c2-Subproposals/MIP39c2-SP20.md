@@ -8,7 +8,7 @@ Author(s): Robert Jordan (@monkey.irish)
 Contributors:
 Tags: core-unit, cu-ces-001, mandate, active
 Status: Accepted
-Date Applied: 2021-08-11
+Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbM8u7Q?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp20-adding-collateral-engineering-services-core-unit-ces-001/9809

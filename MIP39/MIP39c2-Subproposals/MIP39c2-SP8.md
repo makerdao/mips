@@ -6,9 +6,9 @@
 MIP39c2-SP#: 8
 Author(s): David Utrobin
 Contributors: Tim Black
-Tags: core-unit, cu-com-001, mandate, active
+Tags: core-unit, cu-com-001, mandate
 Status: Accepted
-Date Applied: 2021-03-12
+Date Proposed: 2021-03-12
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcZSQnc?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp8-governance-communications-core-unit-com-001-updated-5-26-21/7009
@@ -195,7 +195,7 @@ _Aggregate and Simplify. Stakeholders need to be kept informed._
 
 This team works on a variety of projects and is fully remote. This means that as a team we embrace the concept of agile workflows, pair and group working sessions, mutual accountability, and getting things done. As part of our day-to-day, we:
 
-* Consider how each of our projects can be improved and iterated on. 
+* Consider how each of our projects can be improved and iterated on.
 * Maintain an open culture for discussion, collaboration, and learning.
 * Are unafraid to voice concerns or give constructive feedback.
 * Embrace a shared decision-making methodology to avoid getting stuck as a team.

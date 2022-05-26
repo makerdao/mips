@@ -68,9 +68,9 @@ For a more detailed breakdown of the procedure, please read [MIP0c3](https://mip
 
 Remember that MIP Editors are there to clarify the process and help you. Don't hesitate to reach out if you need assistance!
 
-| MIP Editor | Rocket Chat | GitHub | Forum |
+| MIP Editor | Discord | GitHub | Forum |
 |-|-|-|-|
-| **Pablo** | [@blimpa](https://chat.makerdao.com/) | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
+| **Pablo** | blimpa#5322 | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
 
 ## Helpful Resources 
 

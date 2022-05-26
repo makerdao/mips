@@ -6,11 +6,12 @@
 MIP40c3-SP#: 48
 Author(s): Mark Phillips (@Aes)
 Contributors:
-Tags: core-unit, cu-sf-001, budget, mkr-budget
-Status: Formal Submission
-Date Applied: 2021-12-07
-Date Ratified:
+Tags: core-unit, cu-sf-001, budget, mkr-budget, active
+Status: Accepted
+Date Proposed: 2021-12-07
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp48-strategic-finance-unit-mkr-compensation-sf-001/12060
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt
 ```
 
 ## Sentence Summary
@@ -36,7 +37,7 @@ We used [“Alternative MKR Compensation Guidelines”](https://forum.makerdao.c
 | Property | 	Value |
 |----------|----------|
 |MKR/USD lock-in Price (New)|Trailing 2-month average|
-|MKR/USD lock-in Price (OG)|MKR = $2,605 (10/1/21 - 12/1/21)| 
+|MKR/USD lock-in Price (OG)|MKR = $2,605 (10/1/21 - 12/1/21)|
 |Vesting Period|3 years|
 |Cliff Vest|	12 months|
 |Vesting Schedule|After the cliff has expired, the quarterly MKR amount vests every 3 months and is distributed on July/Oct/Jan/Apr 1st, depending on each individual full-time onboarding|
@@ -92,7 +93,7 @@ On average, the team MKR vesting schedule yields 80 MKR per FTE per year, or 320
 
 ## Payment Implementation
 
-The Strategic Finance Core Unit will leverage DssVest with individual contributor vesting schedules. MKR payment for DSSVest #1 & #2 will be for the time the SF-001 contributors were in RWF-001. New hire MKR will be allocated from the 84,000.1 MKR treasury controlled by MakerDAO. Vesting schedule will be posted monthly for transparency. Unallocated MKR will be returned to the DAO. 
+The Strategic Finance Core Unit will leverage DssVest with individual contributor vesting schedules. MKR payment for DSSVest #1 & #2 will be for the time the SF-001 contributors were in RWF-001. New hire MKR will be allocated from the 84,000.1 MKR treasury controlled by MakerDAO. Vesting schedule will be posted monthly for transparency. Unallocated MKR will be returned to the DAO.
 
 Two DSSVest implementation will be created immediately after the approval of this MIP:
 

@@ -7,8 +7,8 @@ MIP55c3-SP#: 2
 Author(s): James McCall
 Contributors:LexDAO and RealDAO
 Tags: RWA, spf
-Status: RFC
-Date Applied: 2021-11-23
+Status: Withdrawn
+Date Proposed: 2021-11-23
 Date Ratified: yyyy-mm-dd
 Amount Requested: 50,000 DAI
 Recipient Address: LexDAO Resolver - 0x5B620676E28693fC14876b035b08CbB1B657dF38
@@ -89,6 +89,6 @@ Official Contact or Group Name: LexDAO and RealDAO
 Contact Email/Handle: jamesmccall@lexdao.coop/@mccallios
 Date Added: 2021-11-23
 Total Amount: 50,000 Dai
-Wallet Address: [0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09](https://gnosis-safe.io/app/#/safes/0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09/balances)
+Wallet Address: [0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09](https://gnosis-safe.io/app/eth:0x9e1585d9CA64243CE43D42f7dD7333190F66Ca09/balances)
 Comptroller signers: @sebventures, ?, ?
 ```

@@ -6,13 +6,18 @@
 MIP40c3-SP#: 42
 Author(s): @travinimmunefi
 Contributors: @psychonaut
-Tags: core-unit, cu-is-001, budget, dai-budget, active
+Tags: core-unit, cu-is-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-10-06
+Date Proposed: 2021-10-06
 Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet  
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp42-adding-immunefi-security-core-unit-budget-is-001/10813/11
+Extra: This subproposal has been amended. See [MIP4c2-SP17](https://mips.makerdao.com/mips/details/MIP4c3SP17). The original version can be found [here](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md).
 ```
+
+## References
+
+- [Bug Bounty Program](https://mips.makerdao.com/mips/details/MIP64)
 
 ## Sentence Summary
 
@@ -75,7 +80,7 @@ Therefore, a vote to ratify this MIP means MKR holders make a commitment to:
 
 ##### Dai Expenditure
 
-We will be asking for a Total Budget Cap spanning 12-months, the amount of which is currently $634,972.45.
+We will be asking for a Total Budget Cap spanning 12-months, the amount of which is currently $562,005.
 
 The budget cap will differ from the actual expenses of the core unit. The cap refers to the maximum that the core unit can request for operating and it includes room for unforeseen circumstances.
 
@@ -103,13 +108,13 @@ The budget cap will differ from the actual expenses of the core unit. The cap re
 
 The initial seed transaction covers the contingency buffers for the core unit:
 
-* Three months of regular expenses: $122,187.50
+* Three months of regular expenses: $470,639.8
 * The yearly and one-time costs included in the budget: $2,530 + $70,725 = $73,255
-* Total for three months of runway: $122,187.50 + $73,255 = $195,442.50
+* Total for three months of runway: $470,639.8 + $73,255 = $543,894.8
 
-The streaming transaction covers ongoing activity for the core unit:
+The streaming transaction covers ongoing activity for the core unit. The budget for the bug bounty payout was zero for the first three months:
 
-* Total remaining costs for 12 months: $122,187.50 x 3 = $366,562.50
+* Total remaining costs for 12 months: $470,639.8 x 3 - $345,000 = $1,066,919.4
 
 #### Transactions
 
@@ -117,31 +122,37 @@ The streaming transaction covers ongoing activity for the core unit:
 
 A total of 366,562.5 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2021-12-01 and ending 2022-08-01
 
+348,452.3 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2022-03-01
+
+A total of 700,356.9 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2022-03-01 and ending 2022-08-01
+
 ### Budget Breakdown
 
 | Summary | Monthly Cost | Quarterly|
 |------ | :--------: | :------:|
-|Facilitator | $2,083.33 | $6,250|
+|Facilitator        | $2,084  | $6,252|
 |Deputy Facilitator | $10,000 | $30,000|
-|Immunefi | $10,000 | $30,000|
-|ChainSecurity | $10,000 | $30,000|
-|DeFi Safety | n/a | $10,000|
-|Total | $32,083.33| $106,250|
-|+ Contigency Buffer (15%) | $36,895.83 | $122,187.50|
+|Immunefi           | $10,000 | $30,000|
+|ChainSecurity      | $10,000 | $30,000|
+|DeFi Safety        | n/a     | $10,000|
+|Gas fees           | $1,000  | $3,000|
+|Bug bounty payouts | $100,000 | $300,000 |
+|Total              | $133,084 | $409,252|
+|+ Contigency Buffer (15%) | $153,046.6 | $470,639.8 |
 
 #### Yearly Expenses
-| Item | Cost | 
-|------ | :--------: | 
-|Company Setup (1st year) | $2,200 
+| Item | Cost |
+|------ | :--------: |
+|Company Setup (1st year) | $2,200
 |Total | $2,200 |
 |+ Contigency Buffer (15%) | $2,530 |
 
 #### One-time Expenses - Software and Infrastructure
 
-| Item | Cost | 
-|------ | :--------: | 
+| Item | Cost |
+|------ | :--------: |
 |Hardware and Software Expenses | $7,500
-|ChaosLabs | $54,000 
+|ChaosLabs | $54,000
 |Total | $61,500 |
 |+ Contigency Buffer (15%) | $70,725 |
 
@@ -199,11 +210,15 @@ About $7,500 of these expenses will include, but will not be strictly limited to
 
 Some software may be charged to the Core Unit on a monthly basis, but this one-time budget request has accounted for potential monthly expenses. As the identification of critical infrastructure and other operations have not yet commenced, we are currently unable to accurately go over what this will cover. All spending, however, will be documented and reported accordingly within reason.
 
-The remaining expense of $54,000 is allocated for the software and infrastructure provided by [ChaosLabs](https://chaoslabs.xyz/) to provide a better testing experience for the bug bounty hunters spending time on the planned MakerDAO bug bounty program. This is, however, a consumable amount based on the number of hackers that would be permitted to use the software and infrastructure, as well as the extent that they use it. The Immunefi Security CU will use its discretion to approve or reject bug bounty hunters from accessing the software, with the proper process to be further outlined in the future Bug Bounty Program Subproposal. However, participating in the bug bounty program will not necessitate the use of the software and infrastructure. 
+The remaining expense of $54,000 is allocated for the software and infrastructure provided by [ChaosLabs](https://chaoslabs.xyz/) to provide a better testing experience for the bug bounty hunters spending time on the planned MakerDAO bug bounty program. This is, however, a consumable amount based on the number of hackers that would be permitted to use the software and infrastructure, as well as the extent that they use it. The Immunefi Security CU will use its discretion to approve or reject bug bounty hunters from accessing the software, with the proper process to be further outlined in the future Bug Bounty Program Subproposal. However, participating in the bug bounty program will not necessitate the use of the software and infrastructure.
 
 #### Company Setup
 
 Fees include all legal and administrative expenses for the creation and maintenance of the Immunefi Security Core Unit entity as a limited liability company for one year.
+
+#### Bug Bounty Payouts
+
+Bug bounties that are judged by the Core Unit to be small and within the remaining monthly budget will be sent using the small payment process as described in the Bug Bounty Program MIP. The Immunefi performance fees for the associated bug bounties will be aggregated together and sent as part of the monthly payment to Immunefi for professional services.
 
 ### Monthly Budget Statement
 

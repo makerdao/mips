@@ -4,7 +4,7 @@
 
 ```
 MIP#: 1
-Title: Governance Paradigms
+Title: Maker Governance Paradigms
 Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Tags: process, governance, mip-set, core-governance-mipset

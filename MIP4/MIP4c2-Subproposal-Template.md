@@ -8,8 +8,9 @@ MIP to be amended: <MIP#>
 Author(s):
 Contributors:
 Tags: template
-Date of Amendment Submission: <yyyy-mm-dd>
-Date of ratification: <yyyy-mm-dd>
+Status:
+Date Proposed: <yyyy-mm-dd>
+Date Ratified: <yyyy-mm-dd>
 ```
 ## Specification
 

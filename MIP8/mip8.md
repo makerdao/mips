@@ -17,6 +17,7 @@ Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip8-domain-greenlight/1910
+Extra: This MIP has been amended. See [MIP4c2-SP8](https://mips.makerdao.com/mips/details/MIP4c2SP8). The original version can be found [here](https://github.com/makerdao/mips/blob/a563ad964feb56e1da47f372b3df729cf1112108/MIP8/mip8.md).
 ```
 
 ## References

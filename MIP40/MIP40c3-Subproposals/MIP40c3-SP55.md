@@ -6,11 +6,12 @@
 MIP40c3-SP#: 55
 Author(s): @wouter, @juanjuan
 Contributors: @Retro
-Tags: core-unit, cu-ses-001, budget, dai-budget, 
-Status: Formal Submission
-Date Applied: 2021-12-08
-Date Ratified: yyyy-mm-dd
+Tags: core-unit, cu-ses-001, budget, dai-budget, active 
+Status: Accepted
+Date Proposed: 2021-12-08
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp55-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/12097
+Ratification Poll URL: https://vote.makerdao.com/polling/QmQrVVgi
 ```
 
 ## Sentence Summary

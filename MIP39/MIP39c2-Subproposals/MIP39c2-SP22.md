@@ -6,9 +6,9 @@
 MIP39c2-SP#: 22
 Author(s): Tomek Mierzwa (@tmierzwa)
 Contributors: Piotr Klis (@pklis)
-Tags: core-unit, cu-din-001, mandate, active
+Tags: core-unit, cu-din-001, mandate
 Status: Accepted
-Date Applied: 2021-09-07
+Date Proposed: 2021-09-07
 Date Ratified: 2021-10-25
 Ratification Poll URL: https://vote.makerdao.com/polling/QmR7fMc6?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp22-adding-data-insights-core-unit-din-001/10208

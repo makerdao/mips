@@ -9,12 +9,14 @@ Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium, @LongForWisdom, @monkey.irish, @lollike, @DavidUtro
 Tags: living
 Type: process
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2021-12-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-01-24
 Dependencies:
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip62-collateral-offboarding-process
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdwoZtA
+Extra: This MIP has been amended. See [MIP4c3-SP2](https://mips.makerdao.com/mips/details/MIP4c3SP2). The original version can be found [here](https://github.com/makerdao/mips/blob/9a50bb789a2c6bcba337ec86c097bf2a45d92841/MIP62/MIP62.md).
 ```
 
 ## References
@@ -85,11 +87,6 @@ GovComms (COM-001) publishes the associated notices to:
 - The MakerDAO Official Discord’s Announcement channel.
 - The official MakerDAO subreddit.
 
-Content Production (MKT-001) publishes the associated notices to:
-
-- Official MakerDAO Blogs
-- Owned MakerDAO Twitter Accounts
-
 Partner Relationship Leads from relevant Core Units reach out to:
 
 - Affected collateral partners (e.g., Aave)
@@ -105,11 +102,11 @@ These channels, the order in which they are to be used for these communications,
 
 #### Addition of Communication Channels
 
-New communication channels and media assets may be added to those listed under MIP62c2 without the requirement for governance vote by a joint public statement on the MakerDAO Forum to that effect by any two Core Unit facilitators, or by public statement on the MakerDAO Forum by a facilitator of GovComms (COM-001) or Content Production (MKT-001). Public statements should tag or otherwise directly notify @GovAlpha-Core-Unit. 
+New communication channels and media assets may be added to those listed under MIP62c2 without the requirement for governance vote by a joint public statement on the MakerDAO Forum to that effect by any two Core Unit facilitators, or by public statement on the MakerDAO Forum by a facilitator of GovComms (COM-001). Public statements should tag or otherwise directly notify @GovAlpha-Core-Unit.
 
 #### Removal of Communication Channels
 
-Removal of a communication channel or media asset in MIP62c2 may be effected without the requirement for governance vote by a joint public statement on the MakerDAO Forum by any two Core Unit facilitators. Public statements should tag or otherwise directly notify @GovAlpha-Core-Unit. 
+Removal of a communication channel or media asset in MIP62c2 may be effected without the requirement for governance vote by a joint public statement on the MakerDAO Forum by any two Core Unit facilitators. Public statements should tag or otherwise directly notify @GovAlpha-Core-Unit.
 
 #### Modification of Existing Communication Channels
 

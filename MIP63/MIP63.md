@@ -8,14 +8,15 @@ Title: Maker Keeper Network
 Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
-Tags: technical, process, liquidations
-Status: Formal Submission
+Tags: technical, process, liquidations, living
+Status: Accepted
 Date Proposed: 2021-12-08
-Date Ratified: n/a
+Date Ratified: 2022-01-24
 Dependencies: n/a
 Replaces: n/a
 License: AGPL3+
 Forum URL: https://forum.makerdao.com/t/mip63-maker-keeper-network
+Ratification Poll URL: https://vote.makerdao.com/polling/QmQqFpjv
 ```
 
 ## References
@@ -113,7 +114,32 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 
 #### Keeper Network List
 
-<Placeholder>
+Network Name: TechOps
+- Short Name: MAKER
+- Budget: 0 DAI/Day
+- Buffer Min: N/A
+- Buffer Max: N/A
+- Address: N/A
+- Date Added: [2022-2-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP1.md)
+
+Network Name: Keep3r Network
+- Short Name: KEEP3R
+- Budget: 0 DAI/Day
+- Buffer Min: N/A
+- Buffer Max: N/A
+- Chain: All
+- Address: N/A
+- Date Added: [2022-3-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP2.md)
+
+Network Name: Gelato Network
+- Short Name: GELATO
+- Website: https://app.gelato.network/
+- Budget: 1,000 DAI / day
+- Buffer Min: 4,000 DAI
+- Buffer Max: 20,000 DAI
+- Chain: All
+- Address: 0x926c21602fec84d6d0fa6450b40edba595b5c6e4
+- Date Added: [2022-3-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP3.md)
 
 ### MIP63c6: Offboard Keeper Network
 

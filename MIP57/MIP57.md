@@ -9,7 +9,7 @@ Author(s): Gregory Di Prisco (@g_dip)
 Contributors: @mrabino1, @williamr, @Viktor_Viktorov1 
 Tags: living
 Type: General
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2021-07-09
 Date Ratified: n/a
 Dependencies: n/a

@@ -17,6 +17,7 @@ Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip6-collateral-onboarding-form-forum-template/1908
+Extra: This MIP has been amended. See [MIP4c2-SP1](https://mips.makerdao.com/mips/details/MIP4c2SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/977f0fbf2943252659145156ddae7e657246ecac/MIP6/mip6.md).
 ```
 
 ## References

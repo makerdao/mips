@@ -6,9 +6,9 @@
 MIP40c3-SP#: 40
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, cu-com-001, budget, dai-budget, active
+Tags: core-unit, cu-com-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-10-05
+Date Proposed: 2021-10-05
 Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmUGBMLz?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp40-modify-core-unit-budget-com-001/10756

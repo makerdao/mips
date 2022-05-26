@@ -6,10 +6,10 @@
 MIP41c4-SP: #31
 Author(s): @simonkp
 Contributors: N/A
-Tags: core-unit, cu-tech-001, facilitator
-Status: Formal Submission
-Date Applied: 2021-12-08
-Date Ratified: <yyyy-mm-dd>
+Tags: core-unit, cu-tech-001, facilitator, active
+Status: Accepted
+Date Proposed: 2021-12-08
+Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp31-techops-core-unit-facilitator-onboarding-simon-kelada-polupanov/12073
 ```
 

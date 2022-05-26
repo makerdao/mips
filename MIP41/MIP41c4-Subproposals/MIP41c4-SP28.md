@@ -6,10 +6,12 @@
 MIP41c4-SP#:28
 Author(s): Mark Phillips (@Aes)
 Contributors:
-Tags: core-unit, cu-sf-001, facilitator
-Status: Formal Submission 
-Date Applied: 2021-12-01
-Date Ratified: YYYY-MM-DD
+Tags: core-unit, cu-sf-001, facilitator, active
+Status: Accepted
+Date Proposed: 2021-12-01
+Date Ratified: 2022-01-24
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp28-facilitator-onboarding-strategic-finance-sf-001/11939
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZn66qt
 ```
 
 ## Sentence Summary
@@ -32,7 +34,7 @@ Strategic Finance
 
 ## Motivation
 
-I entered the crypto scene in 2013 after hearing of Bitcoin's meteoric rise in the business media. I quickly fell down the rabbit hole after reading the Bitcoin whitepaper and later learning about Ethereum and smart contracts in 2017. What once was considered a speculative novelty for Internet nerds has since grown into a multi-trillion-dollar asset class. 
+I entered the crypto scene in 2013 after hearing of Bitcoin's meteoric rise in the business media. I quickly fell down the rabbit hole after reading the Bitcoin whitepaper and later learning about Ethereum and smart contracts in 2017. What once was considered a speculative novelty for Internet nerds has since grown into a multi-trillion-dollar asset class.
 
 Despite the growth and native transparency of the blockchain, it is still extremely difficult for the average user to understand what's happening on-chain---leading to the infamous "shadowy super coder" quote from US Senator Elizabeth Warren. As the number of crypto assets exploded over time, so too have new and innovative tokenomics. This has made it even more difficult for the average stakeholder to understand what drives value and the price of a particular token. After listening to a16z podcasts and hearing of their investment in MKR, I started to research and learn about the project, eventually finding my way to the MakerDAO forums.
 
