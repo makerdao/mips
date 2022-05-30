@@ -82,7 +82,7 @@ Although this MIP represents the first official piece of communication for LOVE-
 
 **Initiative 2.** This MIP identifies a multi-tiered organisational set-up that could support the onboarding, monitoring, and managing process of structured collaterals, as outlined in a stylised way in the chart below.
 
-![](https://github.com/makerdao/mips/tree/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP33/diagram0.png)
+![](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP33/diagram0.png)
 
 LOVE-001 will be instrumental within such a framework as it will, beyond codifying and continuously updating the collateral onboarding process:
 
@@ -98,7 +98,7 @@ LOVE-001 will be instrumental within such a framework as it will, beyond codifyi
 
 During the early days of the initiative, the extra layer of oversight will act simply as another set of eyes, empowering token holders and delegates with a second opinion on proposals. With the scaling up of activities, however, LOVE-001 (and hopefully LOVE-002, 003, etc.) will become a crucial actor in suggesting that best practice and healthy risk management distribution are improved throughout the community. The chart below exemplifies how the CU could interact with the rest of the ecosystem during a collateral application process.
 
-![](https://github.com/makerdao/mips/tree/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP33/diagram1.png)
+![](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/supporting_materials/MIP39c2-SP33/diagram1.png)
 
 In the future it is not impossible for some or most of those analysis functions to be decentralised to parties that are external to the DAO. Such external underwriters might stake MKR tokens as guarantee, or first-loss capital, in support of their official endorsement of a credit application. Although the decision-making power will remain in the hands of MKR holders, the consultative underwriting process could also be pushed outside. We believe that MakerDAO, through LOVE-001, should play an active part in shaping this decentralisation process.
 
