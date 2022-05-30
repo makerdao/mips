@@ -21,59 +21,59 @@ This subproposal defines the MKR compensation plan for the Lending Oversight Cor
 
 The Lending Oversight Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Budget structure [discussed here](https://forum.makerdao.com/t/pre-mip-discussion-an-alternative-mkr-compensation-plan/8000). This is a 3-year vesting plan with 1-year cliff vest.
 
-Any member of the Core Unit (currently we are under discussion to finalise the onboarding of 1 senior contributor) will take the start of the Feedback Period of this MIP (May 11, 2022) as the start date for the vesting schedule, exception made for the Facilitator who will take as start date the beginning of SES's incubation period (January 1, 2022).
+The LOVE Core Unit Facilitator has been working under the incubation program of SES since January 1 of 2022. The Facilitator of this Core Unit will take that as the start date for their vesting schedule. One Core Unit contributor is expected to be hired during the formal submission, and voting phase of this MIP. They will use the start of the Feedback Period of this MIP (May 8, 2022) as the start date for their vesting schedule. 
 
 ## Parameters
 
 |Property|Value|
 |--|--|
-|MKR/USD Lock-in Price (New)|$2,192|
-|MKR Price Floor|-30% ($1,534)|
+|MKR/USD Lock-in Price (1-Jan-22)<br>MKR/USD Lock-in Price (8-May-22)|$2,832<br>$2,192|
+|MKR Price Floor (1-Jan-22)<br>MKR Price Floor (8-May-2022)|-30%($1,982)<br>-30% ($1,534)|
 |Vesting Period|3 years|
 |Cliff Vest|1 year|
 |Vesting Schedule|After cliff has expired, biannual MKR vesting|
 |Vesting Interval|6 months|
 |Manual Repricing|yes|
 |Auto-Renewal|yes|
-|MKR Expenditure Cap (Annual)|517.31 MKR|
-|MKR Expenditure Cap (Total 3-Year)|1,551.93 MKR|
+|MKR Expenditure Cap (Annual)|430.76 MKR|
+|MKR Expenditure Cap (Total 3-Year)|1,292.28 MKR|
 
 The **MKR Expenditure Cap** included in the table above covers the total vesting schedule of 3 years for the projected **4.0 FTEs**, including raises and repricing.
 
 ## Current Estimated MKR Expenditure
 
-The **Estimated MKR Expenditure** is our best guess of how much MKR will be used with the current team configuration with **2.0 FTEs** — with the highest seniority. This would result in the vesting schedule below:
+The **Estimated MKR Expenditure** is our best guess of how much MKR will be used with the current team configuration with **2.0 FTEs** - with the highest seniority. This would result in the vesting schedule below:
 
 |Vesting Date|MKR Amount|
 |--|--|
-|H1 2023|274.44|
-|H2 2023|137.23|
-|H1 2024|137.23|
-|H2 2024|137.23|
-|H1 2025|137.23|
-|**Total**|**823.33**|
+|H1 2023|221.95|
+|H2 2023|110.97|
+|H1 2024|110.97|
+|H2 2024|110.97|
+|H1 2025|110.97|
+|**Total**|**665.84**|
 
-- On average, this would yield **137.22 MKR** per FTE per year.
-- Any changes to these amounts will be reported in our Monthly Budget Statements (link to be provided) and reviewed by the budget auditors.
+- On average, this would yield **110.97 MKR** per FTE per year; this level is skewed by the elevated seniority of the current members - with the CU at full-capacity, average MKRs per head would amount to 63.47
+- Any changes to these amounts will be reported in our [Monthly Budget Statements](https://github.com/MakerDAO-LOVE-001/transparency-reporting) and reviewed by the budget auditors.
 
 Reasons why the Actual MKR Expenditure could rise closer to the MKR Expenditure Cap:
 
-- New hires.
-- A compensation raise for a member of the team.
-- Repricing (and resetting) the program, in the case of bear market.
+- New hires
+- A compensation raise for a member of the team
+- Repricing (and resetting) the program, in the case of bear market
 - Price floor: -30%. If any Contributor chose to reprice their program, they could do it at a maximum of -30% from the set MKR price.
 
 ## Budget Implementation
 
 This payment implementation is based on the [SES MKR budget proposal](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043).
 
-- Payment of the MKR tokens will follow the same flow as described in the original [LOVE-001 MIP40c3-SP71 DAI budget](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget/15103?u=luca_pro).
+- Payment of the MKR tokens will follow the same flow as described in the original [LOVE MIP40c3-SP71 DAI budget](https://forum.makerdao.com/t/mip40c3-spxx-lending-oversight-core-unit-dai-budget/15103?u=luca_pro).
 
 ![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP72/diagram.png)
 
-- As defined above and in [MIP40c3-SP71](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget/15103?u=luca_pro), the Monthly Budget Statement (link to be included) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
+- As defined above and in [MIP40c3-SP71](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP71.md), the Monthly Budget Statement will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
-  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `LOVE-001 Auditors Wallet`, which then acts as an escrow wallet.
+  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `LOVE Auditors Wallet`, which then acts as an escrow wallet.
   - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `LOVE-001 Auditors Wallet` to the `LOVE-001 Operational Wallet`.
   - When the MKR has vested, it is paid out to the contributor, either directly or through an intermediate payment processor.
 - Any excess MKR in the `LOVE-001 Auditors Wallet` or the `LOVE-001 Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
