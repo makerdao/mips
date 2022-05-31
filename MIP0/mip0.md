@@ -1,6 +1,6 @@
 # MIP0: The Maker Improvement Proposal Framework
 
-## Preamble
+##reamble
 
 ```
 MIP#: 0
