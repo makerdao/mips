@@ -7,9 +7,9 @@ MIP55c3-SP#: 3
 Author(s): Jon Perry
 Contributors: @PonJerry, @hexonaut, @Saint.Burban, @juan, @Nadia
 Tags: spf
-Status: RFC
+Status: Accepted
 Date Proposed: 2022-03-09
-Date Ratified: yyyy-mm-dd
+Date Ratified: 2022-03-31
 Amount Requested: 50,000 DAI
 Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.
 Ratification Poll URL: https://v2.vote.makerdao.com/polling/Qmb9brx3#poll-detail
