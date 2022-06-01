@@ -8,9 +8,9 @@ MIP to be amended: MIP7, MIP7c1
 Author(s): @monkey.irish
 Contributors:
 Tags: mip-amendment
-Status: Formal Submission
+Status: Accepted
 Date of Amendment Submission: 2022-03-09
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp18-mip7-amendments/13788
 Ratification Poll URL: https://vote.makerdao.com/polling/QmVAD1ZD
 ```
