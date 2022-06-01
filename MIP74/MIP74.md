@@ -97,7 +97,7 @@ Any permissionless open market operation which is implemented can be shutdown by
     * (i) PECU: Input on audit requirements and estimated cost (monetary and workforce related). Input on recommended destination market or similar
     * (ii) Risk CU: Input on general and strategy specific parameters, input on recommended destination market or similar.
 
-MIP74c4: DssKiln For Actioning Permissionless Open Market Operations
+### MIP74c4: DssKiln For Actioning Permissionless Open Market Operations
 
 DssKiln is a permissionless token-purchasing and disposition module for protocols that need to permissionlessly participate in open market activities.
 
@@ -127,7 +127,7 @@ Note that this operation requires a token to have a `burn()` function, therefore
 
 ### MIP74c6: DssKiln Audit
 
-DssKiln will be formally audited before implementation. The audit will be financed with the surplus buffer and facilitated by PECU. The probable next technical steps are: (i) an internal PECU team review based on updated use cases and (ii) an external contract audit. These can be done in parallel.
+DssKiln will be formally audited before implementation. The audit will be financed and facilitated by PECU and their existing budget. The probable next technical steps are: (i) an internal PECU team review based on updated use cases and (ii) an external contract audit. These can be done in parallel.
 
 ## Resources
 
@@ -151,6 +151,8 @@ Amount Requested on Annual Basis and Total per Duration:
 ```
 
 ## Sentence Summary
+
+## Paragraph Summary
 
 ## Motivation
 

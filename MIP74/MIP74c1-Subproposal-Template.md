@@ -17,6 +17,8 @@ Amount Requested on Annual Basis and Total per Duration:
 
 ## Sentence Summary
 
+## Paragraph Summary
+
 ## Motivation
 
 Why are you proposing this DssKiln Permissionless open market operation, and what it aims to achieve?
