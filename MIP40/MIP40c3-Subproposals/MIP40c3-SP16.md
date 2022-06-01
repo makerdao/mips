@@ -6,10 +6,10 @@
 MIP40c3-SP#: 16
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
-tags: core-unit, cu-sh-001, budget, dai-budget, mkr-budget, active
+tags: core-unit, cu-sh-001, budget, dai-budget, mkr-budget
 Status: Accepted
 Date Proposed: 2021-05-11
-Date Ratified: 2021-09-27  
+Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp16-the-strategic-happiness-core-unit-budget-sh-001/8007
 ```

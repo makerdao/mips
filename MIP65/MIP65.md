@@ -9,9 +9,9 @@ Author(s): @Allan_Pedersen
 Contributors:
 Tags:
 Type: Proposal
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-02-09
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-05-25
 Dependencies: MIP21
 Replaces: None
 Forum  URL: https://forum.makerdao.com/t/mip65-project-clydesdale-monetalis-arrangement-i-liquid-bond-strategy-execution/13148

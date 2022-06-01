@@ -25,13 +25,13 @@ MIP40c3-SP70 requests a 12-month budget of 5,085,157.11 DAI for the Growth Core 
 
 ## Motivation
 
-Growth CU is requesting a 5,085,157.11 DAI budget allocation to deliver its mandate over the next 12 months (i.e., from July 2022 to June 2023). This budget will support the Growth team (i.e., initiatives to develop the MakerDAO ecosystem with new and existing partners) and the Brand team (i.e., new incubated team within Growth CU and a set of tier-one providers to build a solid, reputable, and consistent brand for MakerDAO and engage strongly with the audience).
+Growth CU is requesting a 5,085,157.11 DAI budget allocation to deliver its mandate over the next 12 months (i.e., from July 2022 to June 2023). This budget will support the Growth team (i.e., initiatives to develop the MakerDAO ecosystem with new and existing partners) and the Brand team (i.e., a new incubated team within Growth CU and a set of tier-one providers to build a solid, reputable, and consistent brand for MakerDAO and engage strongly with the audience).
 
 As we explained in the post “[The Maker Brand Team](https://forum.makerdao.com/t/the-maker-brand-team/14442)”, we want to incubate the Brand team inside the Growth CU to support team building and process implementations, until the team is ready to become an independent CU.
 
 Since May 2021, we closed 141 integration with partners around the world, we helped with the onboarding process of stETH, MATIC, PSM-GUSD, PSM-USDP, generating more than 673M DAI and about 3.8M DAI in annual fees, and worked with other CUs on the ideation of an institutional product, that allowed us to maintain one-to-one conversations with companies that generated more than 1.2B DAI and about 29M DAI in annual fees.
 
-With both teams, Growth and Brand, we will continue to help the protocol to increase the supply and demand of DAI. The expansion of the Growth team will allow us to generate more opportunities inside the multichain ecosystem, bring more partners as collateral, increase the number of whales opening a vault and create more Dai usages. And by having the Brand team, we will be able to build a strong MakerDAO’s brand and extend its influence in DeFi and beyond. For more details on our focus and objectives for this year, please refer to the [GrowthCU Last year in review post](https://forum.makerdao.com/t/growthcu-last-year-in-review-and-high-level-plan-for-next-year/15100).
+With both teams, Growth and Brand, we will continue to help the protocol increase the supply and demand of DAI. The expansion of the Growth team will allow us to generate more opportunities inside the multichain ecosystem, bring more partners as collateral, increase the number of whales opening a vault and create more Dai usages. And by having the Brand team, we will be able to build a strong MakerDAO brand and extend its influence in DeFi and beyond. For more details on our focus and objectives for this year, please refer to the [GrowthCU Last year in review post](https://forum.makerdao.com/t/growthcu-last-year-in-review-and-high-level-plan-for-next-year/15100).
 
 ## Core Unit ID
 
@@ -39,7 +39,7 @@ Growth (GRO-001)
 
 ## List of Budget Implementations
 
-As Growth CU expenses are broken down into fixed and variable costs, we suggest 2 budget streams:
+As Growth CU expenses are broken down into fixed and variable costs, we suggest two budget streams:
 
 * Fixed monthly expenses of 311,092.16 DAI - constituted of personnel, marketing, and admin expenditures:
     * A total of  3,733,105.87 DAI will be streamed to 0x7800C137A645c07132886539217ce192b9F0528e starting 2022-7-1 and ending 2023-6-30.
@@ -92,19 +92,19 @@ The size of the Growth CU team increased from 5.5 FTE in June 2021 to 9.75 FTE i
 #### Admin Expenses (5% of total budget)
 
 * **Fees:** This covers gas and OTC fees.
-* **Professional Services:** Currently, we are working with two legal firms and one accounting agency. The budget increase is for additional hours to work on legal agreements with partners, as this year we want to establish a process where commitments with any Tier-1 partner are accompanied with a legal contract. It also increased because of the work with branding agencies that will support the Brand team.
-* **Software Expenses:** To cover the usage of GSuite, Notion, Zendesk, Docusign, Nansen.
+* **Professional Services:** Currently, we are working with two legal firms and one accounting agency. The budget increase is for additional hours to work on legal agreements with partners. This year, we want to establish a process where a legal contract accompanies commitments with any Tier-1 partner. It also increased because of the work with branding agencies that will support the Brand team.
+* **Software Expenses:** To cover the usage of GSuite, Notion, Zendesk, Docusign, and Nansen.
 
 #### Buffer
 
-* The buffer will help us support any contingency that may occur during the year. The existing buffer holds $350k, and we are not seeking to extend this balance, it will continue as it is.
+* The buffer will help us support any contingency that may occur during the year. The existing buffer holds $350k, and we are not seeking to extend this balance. It will continue as it is.
 
 ### Contingency Planning - Scenarios
 
-* **Bear/Superbear:** In case the DAO seeks to cut expenses in a bear or superbear market, GrowthCU would reduce expenses for non-business-critical activities: e.g., travel, sponsorships, and marketing activations.
+* **Bear/Superbear:** If the DAO seeks to cut expenses in a bear or superbear market, GrowthCU will reduce expenses for non-business-critical activities: e.g., travel, sponsorships, and marketing activations.
 
 * **Bull:** In a bull market, we would increase our Branding efforts by sponsoring more mainstream events and Maker’s appearance in the media.
 
 ### Unwinding and Defunding
 
-If GrowthCU is defunded, all current work will be halted to focus on wrapping up existing initiatives, creating documentation of existing processes, transitioning all Maker assets, archiving all information about partners, and the rescission of any active activity contract we may have. Any funds not already allocated (such as personnel fees and active agreements) at offboarding will be returned to the DAO through DSSBlow. We may need to use the buffer for the cancellation of the active contracts and the unwinding of the company. All unvested MKR would be returned to the DAO as of the end date.
+If Growth CU is defunded, all current work will be halted to focus on wrapping up existing initiatives, creating documentation of existing processes, transitioning all Maker assets, archiving all information about partners, and the rescission of any active activity contract we may have. Any funds not already allocated (such as personnel fees and active agreements) at offboarding will be returned to the DAO through DSSBlow. We may need to use the buffer to cancel the active contracts and the unwinding of the company. All unvested MKR would be returned to the DAO as of the end date.
