@@ -1,9 +1,9 @@
-# MIP75c4: Offboard Task Force Subproposal Template
+# MIP75c5: Offboard Task Force Subproposal Template
 
 ## Preamble
 
 ```
-MIP75c4-SP#: 123
+MIP75c5-SP#:
 Title: Offboard Task Force - NAME OF TASK FORCE
 Author(s): Name (@handle)
 Contributors:
@@ -17,8 +17,8 @@ Ratification Poll URL:
 
 ## Specification
 
-Name: NAME OF TASK FORCE
-Target SP #: # of the Onboarding Proposal to Offboard
+- **Name**: NAME OF TASK FORCE
+- **Target SP #**: # of the Onboarding Proposal to Offboard
 
 ## Description
 
