@@ -1,5 +1,4 @@
-# MIP75c2: Onboard Task Force Template
-
+# MIP75c3-SP: Onboard Task Force
 
 ## Preamble
 
@@ -26,6 +25,6 @@ Member Name (@handle) - Description of Role
 - **Requested Initial Funding**: FUNDING AMOUNT IN DAI
 - **Multi-sig Address (m-of-n)**: MULTISIG ADDRESS
 
-## Description
+## Mandate
 
 Free-form description of the Task Force. Should include vision, goals, strategy, etc.
