@@ -1,11 +1,10 @@
-# MIP75c2: Onboard Task Force Template
-
+# MIP75c6: Request for Additional Funds Subproposal Template
 
 ## Preamble
 
 ```
-MIP75c2-SP#:
-Title: Onboard Task Force - NAME OF TASK FORCE
+MIP75c6-SP#:
+Title: Request for Additional Funds - NAME OF TASK FORCE
 Author(s): Name (@handle)
 Contributors:
 Tags: task-force
@@ -13,19 +12,16 @@ Status: RFC
 Date Proposed: YYYY-MM-DD
 Date Ratified: N/A
 Forum URL:
-Ratification Poll URL:
+Ratification Poll URL: 
 ```
 
 ## Specification
 
 - **Name**: NAME OF TASK FORCE
-- **Members**:
-
-Member Name (@handle) - Description of Role
-
+- **Target SP #**: # of the Onboarding Proposal to Offboard
 - **Requested Initial Funding**: FUNDING AMOUNT IN DAI
 - **Multi-sig Address (m-of-n)**: MULTISIG ADDRESS
 
 ## Description
 
-Free-form description of the Task Force. Should include vision, goals, strategy, etc.
+Free-form description of why this Task Force needs more funds.

@@ -16,6 +16,8 @@ Recipient Address:
 
 ## Sentence Summary
 
+## Paragraph Summary
+
 ## Motivation
 
 * Why are you proposing this Special Purpose Fund?

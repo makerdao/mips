@@ -399,12 +399,12 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Budget
 
-- **Active Budget** - [MIP40c3-SP16](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP16.md)
-    - **Ratification Date** - 2021-09-27
-    - **Budget Amount** - 58,000 Dai from Oct 2021 to Dec 2021 + 106,500 Dai (initial payment)
+- **Active Budget** - [MIP40c3-SP67](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md)
+    - **Ratification Date** - 2021-05-23
+    - **Budget Amount** - 540,000 DAI from June 1, 2022 to March 15, 2023 + 230,000 DAI (initial payment)
     - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP16 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP16.md#quarterly-budget-implementation)
-- **MKR Vesting** - [MIP40c3-SP16](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP16.md)
+    - **Budget Breakdown** - [MIP40c3-SP67 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md#budget-breakdown)
+- **MKR Vesting** - [MIP40c3-SP67 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md#mkr-vesting)
 
 ##### Facilitator
 
