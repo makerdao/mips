@@ -43,9 +43,9 @@ reserved:
   Paragraph Summary: Resumen Largo
   Component Summary: Índice de Componentes
 news:
-  description1: "Descrición uno."
-  description2: "Descrición dos"
-  description3: "Descrición tres"
+  description1: "Descripción uno."
+  description2: "Descripción dos"
+  description3: "Descripción tres"
   link1: "https://mips.makerdao.com/mips/details/MIP0"
   linkforum1: "https://forum.makerdao.com/t/mip0-the-maker-improvement-proposal-framework/1902"
   linkmd1: "https://github.com/DSpotDevelopers/mips/blob/master/MIP0/General-MIP-Template.md"
