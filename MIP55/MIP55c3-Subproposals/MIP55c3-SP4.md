@@ -5,18 +5,20 @@
 ```
 MIP55c3-SP#: 4
 Author(s): @SebVentures, @Aes, @adcv
-Contributors: @luca_pro @juanbug
-Tags: spf
-Status: RFC
+Contributors: @luca_pro, @MakerMan @juanbug
+Tags:
+Status: Formal Submission
 Date Proposed: 2022-04-15
-Date Ratified: 
+Date Ratified:
 Amount Requested: 10M DAI
 Recipient Address: TBD
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp4-adding-a-special-purpose-fund-makershire-hathaway/14643
+Ratification Poll URL:
 ```
 
 ## Sentence Summary
 
-The Makershire Hathaway Special Purpose Fund will be a 10M pool managed by Strategic Finance CU under the supervision of Risk CU and prospective Lending Oversight CU to experiment with various yield generation strategies and support DAI liquidity/utility. 
+The Makershire Hathaway SPF will be a 10M pool managed by the SF CU under the supervision of Risk CU and prospective LOVE CU to experiment with various yield generation strategies and support DAI liquidity/utility.
 
 ## Motivation
 
@@ -30,7 +32,7 @@ Makershire Hathaway
 
 ## Scope & Work Credentials
 
-### Scope 
+### Scope
 
 * Invest protocol capital to improve DAI liquidity, utility, and diversify our revenue streams
 * Improve DAI liquidity/utility. For example:
@@ -75,5 +77,5 @@ Multisignature Wallet Management: Owned by MakerDAO following MIP47c1 applicatio
 Date Added: 2022-04-15
 Total Amount: 10M DAI
 Wallet Address: TBD
-Comptroller signers (4/7 multisig): @hexonaut, @Aes, @SebVentures, @Primoz, @luca_pro, @ultraschuppi, @MakerMan
+Comptroller signers (5/7 multisig): @hexonaut, @Aes, @SebVentures, @Primoz, @luca_pro, @ultraschuppi, @MakerMan
 ```
