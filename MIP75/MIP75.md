@@ -88,16 +88,16 @@ This process component is utilized to onboard a new Task Force which goes throug
 
 #### Subproposal Template
 
-MIP75c2 subproposals must use the MIP75c2-Subproposal-Template template.
+MIP75c3 subproposals must use the [MIP75c3-Subproposal-Template template](https://github.com/makerdao/mips/blob/master/MIP75/MIP75c3-Subproposal-Template.md).
 
 #### Subproposal Parameters
 
-The parameters for MIP75c2 subproposals are:
+The parameters for MIP75c3 subproposals are:
 
 - **Feedback Period**: 3 weeks.
 - **Frozen Period**: 1 week.
 
-Ratification Polls for MIP75c2 subproposals involving a Task Force Onboarding will require using ranked-choice voting, with the options as follows:
+Ratification Polls for MIP75c3 subproposals involving a Task Force Onboarding will require using ranked-choice voting, with the options as follows:
 
 * A: Approve Task Force and associated delegated authority to spend funds
 * B: Approve Task Force without associated delegated authority to spend funds
@@ -130,7 +130,7 @@ This process component is utilized to offboard Task Forces. Any community member
 
 #### Subproposal Template
 
-MIP75c5 subproposals must use the MIP75c5-Subproposal-Template template.
+MIP75c5 subproposals must use the [MIP75c5-Subproposal-Template template](https://github.com/makerdao/mips/blob/master/MIP75/MIP75c5-Subproposal-Template.md).
 
 #### Subproposal Parameters
 
@@ -151,7 +151,7 @@ This process component is utilized by Task Forces to request additional funds. A
 
 #### Subproposal Template
 
-MIP75c6 subproposals must use the MIP75c6-Subproposal-Template template.
+MIP75c6 subproposals must use the [MIP75c6-Subproposal-Template template](https://github.com/makerdao/mips/blob/master/MIP75/MIP75c6-Subproposal-Template.md).
 
 #### Subproposal Parameters
 

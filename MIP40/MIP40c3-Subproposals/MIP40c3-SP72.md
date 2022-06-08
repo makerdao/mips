@@ -65,9 +65,9 @@ Reasons why the Actual MKR Expenditure could rise closer to the MKR Expenditure 
 
 ## Budget Implementation
 
-This payment implementation is based on the [SES MKR budget proposal](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043).
+This payment implementation is based on the [SES MKR budget proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP17.md).
 
-- Payment of the MKR tokens will follow the same flow as described in the original [LOVE MIP40c3-SP71 DAI budget](https://forum.makerdao.com/t/mip40c3-spxx-lending-oversight-core-unit-dai-budget/15103?u=luca_pro).
+- Payment of the MKR tokens will follow the same flow as described in the original [LOVE MIP40c3-SP71 DAI budget]https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP71.md).
 
 ![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP72/diagram.png)
 
@@ -82,12 +82,4 @@ This payment implementation makes no assumptions about the origin of the MKR. It
 
 The MKR that’s held by the `LOVE-001 Auditors Wallet` and the `LOVE-001 Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
-LOVE-001 may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
-
----
-
-## Related Documents
-
-- [Lending Oversight Core Unit Mandate](https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098?u=luca_pro)
-- [Lending Oversight Core Unit DAI Budget](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget/15103?u=luca_pro)
-- [Lending Oversight Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp36-facilitator-onboarding-lending-oversight-core-unit/15105?u=luca_pro)
+LOVE-001 may consider alternative payment flows compliant with [DssVest](https://github.com/makerdao/mips/blob/master/MIP54/MIP54.md) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.

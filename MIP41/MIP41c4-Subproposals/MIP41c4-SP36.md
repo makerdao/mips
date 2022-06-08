@@ -68,11 +68,3 @@ LOVE-001
 * The team will remain available to support all other CUs, and loyal to a professional yet entrepreneurial mindset in order to keep a focus on both quality and speed of execution
 * Education and communication are the core pillars of a sustainable development, for this reason the team will remain available to offer guidance to anyone and receive criticism from anyone via all communication channels.
 * Best practices identified will be shared within the CU, as well as the wider community whenever relevant.
-
----
-
-## Related Documents
-
-- [Lending Oversight Core Unit Mandate](https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098/2)
-- [Lending Oversight Core Unit DAI Budget](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget/15103)
-- [Lending Oversight Core Unit MKR Budget](https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget-love-001/15104)
