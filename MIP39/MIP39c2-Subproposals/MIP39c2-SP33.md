@@ -7,7 +7,7 @@ MIP39c2-SP#: 33
 Author(s): @luca_pro
 Contributors: @wouter, @Juan, @Retro
 Tags: core-unit, cu-love-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-05-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098
@@ -31,7 +31,7 @@ As the minter and guardian of DAI, DeFi's leading truly decentralised stablecoin
 
 In the future, it is not impossible for many of those activities to be abstracted and decentralised outside of the boundaries of the DAO. LOVE-001 wants to help MakerDAO take a leading role in steering the evolution of the industry. The future is not ours to predict, but ours to build together.
 
-The creation of additional checks and balances, the facilitation of high-quality working practices, as well as the attraction of experienced talent from several fields of traditional and innovative finance, will be invaluable for the DAO during the next phase of its evolution. LOVE-001 aims at becoming one of those centres of excellence and a source of innovation, with a focus on so-called structured finance activities, by overseeing and supporting all actors involved while improving communication practices and internal processes. 
+The creation of additional checks and balances, the facilitation of high-quality working practices, as well as the attraction of experienced talent from several fields of traditional and innovative finance, will be invaluable for the DAO during the next phase of its evolution. LOVE-001 aims at becoming one of those centres of excellence and a source of innovation, with a focus on so-called structured finance activities, by overseeing and supporting all actors involved while improving communication practices and internal processes.
 
 There haven't been more exciting times to join the decentralised finance revolution.
 
@@ -41,7 +41,7 @@ LOVE-001
 
 ### Core Unit Name
 
-The Lending Oversight Core Unit 
+The Lending Oversight Core Unit
 
 ### Core Unit Mandate
 
@@ -68,7 +68,7 @@ Onboarding use cases that aren’t yet (fully) part of the world of smart contra
 * **Initiative 3: Act as a second line of defence** within the DAO for the onboarding, monitoring, and management of those assets.
 * **Initiative 4: Educate and communicate** with other CUs and the broader community.
 
-We believe that such a Strategy would immediately address some of the challenges that the DAO is currently facing by improving the quality of the discourse with all counterparties, as well as grow work efficiency and throughput. 
+We believe that such a Strategy would immediately address some of the challenges that the DAO is currently facing by improving the quality of the discourse with all counterparties, as well as grow work efficiency and throughput.
 
 **Initiative 1.** As part of its duties, LOVE-001 will maintain a high-level framework. Such a framework intends to document:
 
@@ -135,3 +135,11 @@ LOVE-001's team will evolve in synch, as described in the table below.
 | 1 - Bootstrap    | 2         | F + Lending Analysts (LA)                   |
 | 2 - Establish    | 3         | F + Senior Lending Analyst (SLA) + LA       |
 | 3 - Decentralise | 4         | F + SLA + 2 LAs                             |
+
+---
+
+## Related Documents
+
+- [Lending Oversight Core Unit Dai Budget](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget/15103)
+- [Lending Oversight Core Unit MKR Budget](https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget/15104)
+- [Lending Oversight Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp36-facilitator-onboarding-lending-oversight-core-unit/15105)

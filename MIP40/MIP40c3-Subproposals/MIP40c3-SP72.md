@@ -7,7 +7,7 @@ MIP40c3-SP#: 72
 Author(s): @luca_pro
 Contributors: @wouter, @Juan, @Retro
 Tags: core-unit, cu-love-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-05-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget/15104
@@ -19,9 +19,9 @@ This subproposal defines the MKR compensation plan for the Lending Oversight Cor
 
 ## Paragraph Summary
 
-The Lending Oversight Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Budget structure [discussed here](https://forum.makerdao.com/t/pre-mip-discussion-an-alternative-mkr-compensation-plan/8000). This is a 3-year vesting plan with 1-year cliff vest.
+The Lending Oversight Core Unit supports the Sustainable Ecosystem Scaling Core Unit (SES-001) MKR Budget structure [discussed here](https://forum.makerdao.com/t/pre-mip-discussion-an-alternative-mkr-compensation-plan/8000). This is a 3-year vesting plan with 1-year cliff vest. Overall, this proposal would commit a maximum of 1,292.28 MKR to LOVE-001 contributors, covering MKR compensation for the Core Unit from its inception. This is approximately 63.47 MKR/ FTE/ year. Contributors **do not** forfeit their vesting upon leaving LOVE, providing that their departure is a smooth transition and there have been no serious ethical breaches.
 
-The LOVE Core Unit Facilitator has been working under the incubation program of SES since January 1 of 2022. The Facilitator of this Core Unit will take that as the start date for their vesting schedule. One Core Unit contributor is expected to be hired during the formal submission, and voting phase of this MIP. They will use the start of the Feedback Period of this MIP (May 8, 2022) as the start date for their vesting schedule. 
+The LOVE Core Unit Facilitator has been working under the incubation program of SES since January 1 of 2022. The Facilitator of this Core Unit will take that as the start date for their vesting schedule. One Core Unit contributor is expected to be hired during the formal submission, and voting phase of this MIP. They will use the start of the Feedback Period of this MIP (May 8, 2022) as the start date for their vesting schedule.
 
 ## Parameters
 
@@ -73,7 +73,7 @@ This payment implementation is based on the [SES MKR budget proposal](https://fo
 
 - As defined above and in [MIP40c3-SP71](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP71.md), the Monthly Budget Statement will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.
 - To keep the risk acceptable for Maker governance as well as for the team, the MKR is moved from the protocol to the contributors in stages:
-  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `LOVE Auditors Wallet`, which then acts as an escrow wallet.
+  - Following the MKR vesting schedule, any MKR that is vesting in 6 months or less, will be included in the top-up transaction which is added to the executive vote. This will move the MKR from the protocol to the `LOVE-001 Auditors Wallet`, which then acts as an escrow wallet.
   - Following the MKR vesting schedule, after review and approval by the auditors, any MKR that is vesting in 3 months or less, will be included in the monthly top-up transaction that moves funds from the `LOVE-001 Auditors Wallet` to the `LOVE-001 Operational Wallet`.
   - When the MKR has vested, it is paid out to the contributor, either directly or through an intermediate payment processor.
 - Any excess MKR in the `LOVE-001 Auditors Wallet` or the `LOVE-001 Operational Wallet` will be returned to the protocol, following the monthly payment transactions.
@@ -83,3 +83,11 @@ This payment implementation makes no assumptions about the origin of the MKR. It
 The MKR that’s held by the `LOVE-001 Auditors Wallet` and the `LOVE-001 Operational Wallet` will not be used for voting, signaling, or any other type of governance participation. It will remain in the wallets untouched until it moves to the next step in the process.
 
 LOVE-001 may consider alternative payment flows compliant with [DssVest](https://forum.makerdao.com/t/mip-54-dssvest/8025) if the standardized flow is compatible with the vesting schedule and that the risk is deemed acceptable by the team.
+
+---
+
+## Related Documents
+
+- [Lending Oversight Core Unit Mandate](https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098?u=luca_pro)
+- [Lending Oversight Core Unit DAI Budget](https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget/15103?u=luca_pro)
+- [Lending Oversight Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp36-facilitator-onboarding-lending-oversight-core-unit/15105?u=luca_pro)
