@@ -34,7 +34,7 @@ LOVE-001
 
 ### Budget Implementation
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP71/paymentFlow.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP71/paymentFlow.png)
 
 The budget implementation will follow standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance.
 
@@ -142,7 +142,7 @@ This amount is intended to support the CU when at its maximum capacity of 4-5 FT
 
 The ramp up of the core unit will be managed with the maximum prudence, and therefore it is expected that Lending Oversight Core Unit could ultimately spend less than what anticipated. Should the Lending Oversight Core Unit be discontinued, all unused funds will be returned to the Maker Protocol.
 
-![](https://github.com/makerdao/mips/tree/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP71/table.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP71/table.png)
 
 #### Budget Details
 
