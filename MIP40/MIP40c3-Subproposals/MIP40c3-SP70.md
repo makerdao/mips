@@ -69,7 +69,7 @@ As Growth CU expenses are broken down into fixed and variable costs, we suggest 
 
 The following table shows the proposed budget for July 2022 - June 2023:
 
-![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP70/table.jpeg)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP70/table1.jpeg)
 
 For details on the actual budget, please refer to the [GrowthCU Last Year in Review post](https://forum.makerdao.com/t/growthcu-last-year-in-review-and-high-level-plan-for-next-year/15100).
 
@@ -134,7 +134,7 @@ As Growth CU expenses are broken down into fixed and variable costs, we suggest 
 
 The following table shows the proposed budget for July 2022 - June 2023:
 
-![|624x633](upload://mClXkLcx6mdhjGoYBvqWaJEFnJk.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP70/table2.png)
 
 #### New Budget Details
 
