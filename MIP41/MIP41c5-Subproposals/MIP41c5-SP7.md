@@ -7,9 +7,9 @@ MIP41c5-SP#: 7
 Author(s): @LongForWisdom
 Contributors:
 Tags: core unit, cu-gov-001, facilitator, personnel-xboarding
-Status:
-Date Proposed: <yyyy-mm-dd>
-Date Ratified: <yyyy-mm-dd>
+Status: Accepted
+Date Proposed: 2022-06-03
+Date Ratified: 2022-06-03
 ```
 
 ## Sentence Summary
