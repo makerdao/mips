@@ -22,6 +22,7 @@ MIP40c3-SP69 modifies the budget for Core Unit SF-001: Strategic Finance. It con
 
 - Total Budget Cap: The hard limit voted on by Governance.
 - Breakdown of Team for the budget period.
+- Requested monthly is 108.5K vs 82.4K in the prior budget, a 32% increase.
 
 ## Specification
 
@@ -62,15 +63,15 @@ A continuous funding model similar to those proposed by RISK-001, SES-001, and D
 This budget implementation uses the DssVest. This can be changed if needed to any method achieving similar objectives.
 The vesting budget will be in place from July 2022 to July 2023 included. It will be renewed each year.
 
-- DAI per month: 117,515.
+- DAI per month: 108,515.
 - The destination wallet is: 0xf737C76D2B358619f7ef696cf3F94548fEcec379 - SF Core Unit Multisig.
-- A total of 1,410,185 DAI will be streamed to 0xf737C76D2B358619f7ef696cf3F94548fEcec379 address starting date 7/1/22 and ending date 7/1/23.
+- A total of 1,302,185 DAI will be streamed to 0xf737C76D2B358619f7ef696cf3F94548fEcec379 address starting date 7/1/22 and ending date 7/1/23.
 
 ### Budget Breakdown
 
 #### DAI Expenditure
 
-We're asking for a monthly budget of 117,515 DAI.
+We're asking for a monthly budget of 108,515 DAI.
 
 The budget cap differs from the actual expenses of the Core Unit. The cap refers to the maximum that the Core Unit can request for operating, and it includes room for unforeseen circumstances.
 
@@ -84,14 +85,14 @@ The budget cap differs from the actual expenses of the Core Unit. The cap refers
 
 ||February|March|April|May|June|July|August|September|October|November|December|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|FTEs|2.2|3.6|4.3|4.3|6.2|6|6|5.75|6.75|6.75|6.75|
+|FTEs|2.2|3.6|4.3|4.3|6.2|6|6|4.75|4.75|4.75|5.75|
 
 
 #### 2023 FTEs - Forecast by Month
 
 ||January|February|March|April|May|June|
 |---|---|---|---|---|---|---|
-|FTEs|6.75|6.75|6.75|6.75|6.75|6.75|
+|FTEs|5.75|5.75|6.75|6.75|6.75|6.75|
 
 ### Budget Term
 
@@ -182,7 +183,7 @@ Sr Financial Analyst - TBD
 Lead Accountant - TBD
 
 Temporary/part-time team members include:
-1 MBA Intern
+1 MBA Intern @pipko
 1 Undergraduate Intern @Juanbug
 
 

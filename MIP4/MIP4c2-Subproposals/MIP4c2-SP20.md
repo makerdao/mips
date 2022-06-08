@@ -8,7 +8,7 @@ MIP to be amended: MIP16
 Author(s): @Patrick_J
 Contributors: @LongForWisdom, @prose11, @Derek
 Tags: mip-amendment, governance, process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-05-05
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp20-mip16-amendments/14980
