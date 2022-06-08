@@ -1,11 +1,11 @@
 # MIP41c4-SP35: Facilitator Onboarding (DIN-001)
 
 ```
- MIP41c4-SP#: 35
+MIP41c4-SP#: 35
 Author(s): @tadeo
 Contributors:
 Tags: core-unit, din-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-05-03
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp35-facilitator-onboarding-for-din-001/14948
