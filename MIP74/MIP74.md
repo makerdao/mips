@@ -9,7 +9,7 @@ Author(s): Marko Štemberger (@rema)
 Contributors: LFW (@LongForWidsom), Sean Taylor (@Sean), Payton Rose (@prose11), Derek (@derek), Brian L. McMichael (@brianmcmichael)
 Tags: governance
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-05-11
 Date Ratified: N/A
 Dependencies: None
