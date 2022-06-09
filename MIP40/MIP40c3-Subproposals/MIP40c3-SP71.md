@@ -163,11 +163,3 @@ Admin expenses represent c. 5% of the total cost base, and are constituted by al
 The Professional Services budget covers potential consultancy and auditing costs. Although these will be kept to a minimum, a need for these may arise as the Lending Oversight CU is expected to oversee other units in their duties, with a particular focus on any activity that generates an exposure to off-chain legal and credit risk.
 
 The remaining 13% of the total cost base is constituted by a non-specified customary contingency buffer, that is expected to be returned to the protocol at the end of each month if it is not utilized according to the budget implementation above.
-
----
-
-## Related Documents
-
-- [Lending Oversight Core Unit Mandate](https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098/2)
-- [Lending Oversight Core Unit MKR Budget](https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget-love-001/15104)
-- [Lending Oversight Core Unit Facilitator Onboarding](https://forum.makerdao.com/t/mip41c4-sp36-facilitator-onboarding-lending-oversight-core-unit/15105?u=luca_pro)
