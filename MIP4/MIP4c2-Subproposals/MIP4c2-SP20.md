@@ -38,6 +38,3 @@ This subproposal amends the Weekly Governance Cycle Breakdown defined in MIP16c2
 ### Relevant Information
 
 - [Governance Cadence Improvement](https://forum.makerdao.com/t/governance-cadence-improvement/14972)
-
----
-@MIP-Editors
