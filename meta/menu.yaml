@@ -20,7 +20,7 @@ data:
         children:
           - id: rfc
             name: $rfc
-            href: 'https://mips.makerdao.com/mips/list?customViewName=RFC%20Status:%20Proposals%20Requesting%20Comments&search=$@RFC&hideParents=false&orderBy=Number&orderDirection=DESC'
+            href: '/mips/list?customViewName=RFC%20Status:%20Proposals%20Requesting%20Comments&search=$@RFC&hideParents=false&orderBy=Number&orderDirection=DESC'
           - id: fs
             name: $fs
             href: 'https://mips.makerdao.com/mips/list?customViewName=Formal%20Submission%20Status:%20Proposals%20formally%20submitted%20for%20voting&search=$@Formal%20Submission&hideParents=false&orderBy=Number&orderDirection=DESC'
