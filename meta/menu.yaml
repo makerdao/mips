@@ -11,7 +11,7 @@ data:
         href: '/mips/details/MIP0'
       - id: mip51
         name: $mip51
-        href: 'https://mips.makerdao.com/mips/details/MIP51'
+        href: '/mips/details/MIP51'
   - id: views
     name: $views
     children:
