@@ -8,7 +8,7 @@ data:
           https://github.com/makerdao/mips/blob/master/meta/primer_for_authors/primer_for_authors.md
       - id: mip0
         name: $mip0
-        href: '/mips/details/MIP0'
+        href: 'http://www.google.com/mips/details/MIP0'
       - id: mip51
         name: $mip51
         href: 'https://mips.makerdao.com/mips/details/MIP51'
