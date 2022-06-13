@@ -52,9 +52,9 @@ With both teams, Growth and Brand, we will continue to help the protocol increas
 
 Growth (GRO-001)
 
-# Option BaseGrowth.
+## Option BaseGrowth.
 
-## List of Budget Implementations
+### List of Budget Implementations
 
 As Growth CU expenses are broken down into fixed and variable costs, we suggest two budget streams:
 
@@ -65,7 +65,7 @@ As Growth CU expenses are broken down into fixed and variable costs, we suggest 
     * A total of 676,025.62 DAI will be transferred to 0x7800C137A645c07132886539217ce192b9F0528e on 2022-7-1 (or as soon as the following executive allows).
     * A total of 676,025.62 DAI will be transferred to 0x7800C137A645c07132886539217ce192b9F0528e on 2023-1-1 (or as soon as the following executive allows).
 
-## List of Budget Breakdowns
+### List of Budget Breakdowns
 
 The following table shows the proposed budget for July 2022 - June 2023:
 
@@ -73,13 +73,13 @@ The following table shows the proposed budget for July 2022 - June 2023:
 
 For details on the actual budget, please refer to the [GrowthCU Last Year in Review post](https://forum.makerdao.com/t/growthcu-last-year-in-review-and-high-level-plan-for-next-year/15100).
 
-### New Budget Details
+#### New Budget Details
 
 The current budget considers actuals from July 2021 to April 2022 and forecasts May and June 2022. As the estimates may be incorrect, any funds remaining in the Growth multisig in June 2022 will be returned to the protocol in the first month of our new term (i.e., July 2022).
 
 Below you will find further details on the above cost items.
 
-#### Personnel Expenses (48% of total budget)
+##### Personnel Expenses (48% of total budget)
 
 This item includes personnel fees for the Growth and Brand teams and bonuses for the BDs.
 
@@ -89,12 +89,12 @@ The size of the Growth CU team increased from 5.5 FTE in June 2021 to 9.75 FTE i
 
 * Brand team (from 2.5 to 5.5 FTE): the Brand team will build a team of experienced members in Branding and Product Marketing (cf. [The Maker Brand Team](https://forum.makerdao.com/t/the-maker-brand-team/14442) post for more details).
 
-#### Partner Expenses (16% of total budget)
+##### Partner Expenses (16% of total budget)
 
 * Marketing activations: Budget to execute collaboration with Maker partners, including marketing campaigns, educational content, or grants to help partners build products. This also includes small events with partners during conferences.
 * Loans: In some cases, depending on the relevance of the partnership, we use 0% loans to help our partners bootstrap their Maker integration.
 
-#### Marketing Expenses (27% of total budget)
+##### Marketing Expenses (27% of total budget)
 
 **Growth team:**
 * The Marketing expenses budget line is to cover sponsorships for certain relevant events such as Hack Money and Mainnet, and media outlets such as Bankless.
@@ -103,21 +103,21 @@ The size of the Growth CU team increased from 5.5 FTE in June 2021 to 9.75 FTE i
 * Hire Tier-1 global agencies specialized in crypto (to reach media outlets in the crypto world) and with mainstream access (for relevant news and RWA success stories). These agencies will help us create and distribute articles, webinars, media appearances, and podcasts.
 * We will be using service providers to create written content, images, and videos that will serve as assets to include in the communications through different channels, including Twitter.
 
-#### Travel Expenses (4% of total budget)
+##### Travel Expenses (4% of total budget)
 
 * To cover all expenses for travels to events (when relevant) and the offsite. The cost per FTE is expected at $12.397.
 
-#### Admin Expenses (5% of total budget)
+##### Admin Expenses (5% of total budget)
 
 * **Fees:** This covers gas and OTC fees.
 * **Professional Services:** Currently, we are working with two legal firms and one accounting agency. The budget increase is for additional hours to work on legal agreements with partners. This year, we want to establish a process where a legal contract accompanies commitments with any Tier-1 partner. It also increased because of the work with branding agencies that will support the Brand team.
 * **Software Expenses:** To cover the usage of GSuite, Notion, Zendesk, Docusign, and Nansen.
 
-#### Buffer
+##### Buffer
 
 * The buffer will help us support any contingency that may occur during the year. The existing buffer holds $350k, and we are not seeking to extend this balance. It will continue as it is.
 
-# Option BearMarket.
+## Option BearMarket.
 
 ### List of Budget Implementations
 
@@ -155,19 +155,19 @@ The size of the Growth CU team increased from 5.5 FTE in June 2021 to 9.75 FTE i
 ##### Partner Expenses (19% of total budget)
 * Same as Option BaseGrowth
 
-#### Marketing Expenses (32% of total budget)
+##### Marketing Expenses (32% of total budget)
 * Same as Option BaseGrowth
 
-#### Travel Expenses (3% of total budget)
+##### Travel Expenses (3% of total budget)
 * Same as Option BaseGrowth updated with the FTE of Option BearMarket
 
-#### Admin Expenses (7% of total budget)
+##### Admin Expenses (7% of total budget)
 * Same as Option BaseGrowth
 
-#### Buffer
+##### Buffer
 * Same as Option BaseGrowth
 
-### Increasing Value to Maker Token Holders
+#### Increasing Value to Maker Token Holders
 
 The Growth CU seeks to drive value to the protocol through:
 
