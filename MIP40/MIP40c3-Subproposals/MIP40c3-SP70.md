@@ -13,6 +13,7 @@ Date Ratified:
 Budget Start Date: 2022-07-01
 Budget End Date: 2023-06-30
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp70-modify-growth-core-unit-budget-gro-001/15102
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdMkg2N
 ```
 
 ## Sentence Summary

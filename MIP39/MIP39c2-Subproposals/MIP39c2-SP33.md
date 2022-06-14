@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-05-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWYajMq
 ```
 
 ## Sentence Summary

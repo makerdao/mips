@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-05-03
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp35-facilitator-onboarding-for-din-001/14948
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWhsLCU
 ```
 
 ## Sentence Summary

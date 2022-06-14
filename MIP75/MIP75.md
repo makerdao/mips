@@ -16,6 +16,7 @@ Dependencies: None
 Replaces: None
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip75-task-forces/15093
+Ratification Poll URL:https://vote.makerdao.com/polling/QmTRtpp3
 ```
 
 ## References

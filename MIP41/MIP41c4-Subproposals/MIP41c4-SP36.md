@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-05-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp36-facilitator-onboarding-lending-oversight-core-unit/15105
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWYajMq
 ```
 
 ## Sentence Summary

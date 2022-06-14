@@ -11,6 +11,7 @@ Date Ratified: TBD
 Budget Start Date: 2022-7-1
 Budget End Date: 2023-7-1
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp69-modify-core-unit-budget-strategic-finance-sf-001/15090
+Ratification Poll URL: https://vote.makerdao.com/polling/QmVMc78Z
 ```
 ## Sentence Summary
 

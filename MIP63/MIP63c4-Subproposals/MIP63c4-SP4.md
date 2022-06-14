@@ -13,6 +13,7 @@ Date Proposed: 2022-03-30
 Date Ratified:
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-keeper-network/14321
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXbgVGz
 ```
 
 ## Specification

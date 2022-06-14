@@ -13,6 +13,7 @@ Date Ratified:
 Amount Requested: 10M DAI
 Recipient Address: TBD
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp4-adding-a-special-purpose-fund-makershire-hathaway/14643
+Ratification Poll URL: https://vote.makerdao.com/polling/QmZjU2pG
 ```
 
 ## Sentence Summary

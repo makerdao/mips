@@ -15,7 +15,7 @@ Date Ratified: N/A
 Dependencies: None
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip74-permissionless-open-market-operations/15095
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmaivXCv
 ```
 
 ## References

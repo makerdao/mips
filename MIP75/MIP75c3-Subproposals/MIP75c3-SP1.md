@@ -13,6 +13,7 @@ Date Proposed: 2022-05-01
 Date Ratified: N/A
 Ratification Poll URL: N/A
 Forum URL: https://forum.makerdao.com/t/mip75c3-sp1-onboard-task-force-growth-task-force/15094
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmbs5Kx5
 ```
 
 ## Specification

@@ -12,6 +12,7 @@ Status: Formal Submission
 Date Proposed: 2022-05-05
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp20-mip16-amendments/14980
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmerh2xJ
 ```
 
 ## Specification

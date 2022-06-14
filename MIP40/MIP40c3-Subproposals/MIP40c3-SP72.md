@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-05-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget/15104
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWYajMq
 ```
 
 ## Sentence Summary
