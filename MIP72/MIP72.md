@@ -241,19 +241,19 @@ TBD, a new or existing United States or Canadian legal entity, including corpora
 ## MIP72: Real World Assets - Delegated Collateral Attachment - Arranger Authorization #001 - 6s Capital
 
 
-![001-6s _ MakerDAO - TS - Delegated Collateral Attachment|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page1.jpg)
-![002-6s _ MakerDAO - TS - Delegated Collateral Attachment 2|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page2.jpg)
-![003-6s _ MakerDAO - TS - Delegated Collateral Attachment 3|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page3.jpg)
-![004-6s _ MakerDAO - TS - Delegated Collateral Attachment 4|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page4.jpg)
-![005-6s _ MakerDAO - TS - Delegated Collateral Attachment 5|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page5.jpg)
-![006-6s _ MakerDAO - TS - Delegated Collateral Attachment 6|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page6.jpg)
-![007-6s _ MakerDAO - TS - Delegated Collateral Attachment 7|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page7.jpg)
-![008-6s _ MakerDAO - TS - Delegated Collateral Attachment 8|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page8.jpg)
+![001-6s _ MakerDAO - TS - Delegated Collateral Attachment|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page1.jpeg)
+![002-6s _ MakerDAO - TS - Delegated Collateral Attachment 2|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page2.jpeg)
+![003-6s _ MakerDAO - TS - Delegated Collateral Attachment 3|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page3.jpeg)
+![004-6s _ MakerDAO - TS - Delegated Collateral Attachment 4|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page4.jpeg)
+![005-6s _ MakerDAO - TS - Delegated Collateral Attachment 5|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page5.jpeg)
+![006-6s _ MakerDAO - TS - Delegated Collateral Attachment 6|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page6.jpeg)
+![007-6s _ MakerDAO - TS - Delegated Collateral Attachment 7|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page7.jpeg)
+![008-6s _ MakerDAO - TS - Delegated Collateral Attachment 8|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page8.jpeg)
 ![009-6s _ MakerDAO - TS - Delegated Collateral Attachment 9|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page9.png)
 ![010-6s _ MakerDAO - TS - Delegated Collateral Attachment 10|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page10.jpeg)
-![011-6s _ MakerDAO - TS - Delegated Collateral Attachment 11|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page11.jpg)
-![012-6s _ MakerDAO - TS - Delegated Collateral Attachment 12|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page12.jpg)
-![013-6s _ MakerDAO - TS - Delegated Collateral Attachment 13|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page13.jpg)
+![011-6s _ MakerDAO - TS - Delegated Collateral Attachment 11|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page11.jpeg)
+![012-6s _ MakerDAO - TS - Delegated Collateral Attachment 12|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page12.jpeg)
+![013-6s _ MakerDAO - TS - Delegated Collateral Attachment 13|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page13.jpeg)
 ![014-6s _ MakerDAO - TS - Delegated Collateral Attachment 14|690x533](https://github.com/makerdao/mips/blob/master/MIP72/Page14.png)
 
 
