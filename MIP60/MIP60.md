@@ -87,7 +87,7 @@ MIP60 assumes that there are sufficient Core Unit Facilitators to meet the trans
 
 ### MIP60c2: Intangible Asset Records
 
-The canonical Intangible Asset records will be maintained in the [interim-asset-records](link) github repository. The records will be stored in an appropriate open-source file format. It is the responsibility of the Asset Owner to ensure that changes to the canonical Intangible Asset record for an owned asset are accompanied by a relevant and specific commit-message explaining why the change took place.
+The canonical Intangible Asset records will be maintained in the [Dai Foundation Asset Registry](https://github.com/makerdao/asset-registry) GitHub repository. The records will be stored in an appropriate open-source file format. It is the responsibility of the Asset Owner to ensure that changes to the canonical Intangible Asset record for an owned asset are accompanied by a relevant and specific commit-message explaining why the change took place.
 
 For convenience, a publicly accessible Google Sheet will be maintained in parallel to the canonical records. The canonical records will be maintained for each asset by the Asset Owner or an agent employed on their behalf.
 
