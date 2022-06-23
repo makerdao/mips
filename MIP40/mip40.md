@@ -76,7 +76,7 @@ Core Unit Budgets can have multiple entries. Having multiple budget entries, eac
 
 #### Reporting Transparency
 
-- List expenses by type, per the [Chart of Accounts](https://docs.google.com/spreadsheets/d/1qB1MIPCkZfdkuHSNk1udhscvTjg-mIBo/edit#gid=1506071077) and [Core Unit Operating Expense Budget Template](https://docs.google.com/spreadsheets/d/1dyrRelt5X5kD8CyRd6inyKXZV9PwF4RExPLgK3PQIRE/edit?usp=sharing)
+- List expenses by type, per the [Core Unit Operating Expense Budget Template](https://docs.google.com/spreadsheets/d/1dyrRelt5X5kD8CyRd6inyKXZV9PwF4RExPLgK3PQIRE/edit?usp=sharing)
 - Also describe how much of the budget is to be utilized towards 'on-going' fixed services, and how much is applied to one-time type services/events (planned/unplanned/contingency)
 - Disclose full-time equivalent headcount, by month
 
