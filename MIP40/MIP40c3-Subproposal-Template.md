@@ -49,7 +49,7 @@ Budget End Date: <yyyy-mm-dd>
 - This element must contain a detailed Budget Breakdown for each of the Budget Implementations in the element above. Budget Breakdowns aren't binding, but should provide as much clarity as possible to governance about how the monthly amount or other circumstances for payouts where determined, and what the current plan for their use is.
 
 ### Reporting Transparency
-*List of expenses by type, per the [Chart of Accounts](https://docs.google.com/spreadsheets/d/1qB1MIPCkZfdkuHSNk1udhscvTjg-mIBo/edit#gid=1506071077) and [Core Unit Operating Expense Budget Template](https://docs.google.com/spreadsheets/d/1dyrRelt5X5kD8CyRd6inyKXZV9PwF4RExPLgK3PQIRE/)*
+*List of expenses by type, per the [Core Unit Operating Expense Budget Template](https://docs.google.com/spreadsheets/d/1dyrRelt5X5kD8CyRd6inyKXZV9PwF4RExPLgK3PQIRE/)*
 
 | Expense Category | Total Budget Term | Monthly Equivalent | Monthly Expense Annualized (x12) |
 | -------- | --------: | --------: | --------: |
