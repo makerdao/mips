@@ -7,10 +7,11 @@ MIP40c3-SP#: 72
 Author(s): @luca_pro
 Contributors: @wouter, @Juan, @Retro
 Tags: core-unit, cu-love-001, budget, mkr-budget
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-05-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-06-27
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp72-lending-oversight-core-unit-mkr-budget/15104
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWYajMq
 ```
 
 ## Sentence Summary
