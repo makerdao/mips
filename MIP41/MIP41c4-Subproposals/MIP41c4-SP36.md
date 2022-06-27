@@ -7,10 +7,11 @@ MIP41c4-SP#: 36
 Author(s): @luca_pro
 Contributors: @wouter, @Juan, @Retro
 Tags: core-unit, cu-love-001, facilitator
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-05-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-06-27
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp36-facilitator-onboarding-lending-oversight-core-unit/15105
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWYajMq
 ```
 
 ## Sentence Summary
