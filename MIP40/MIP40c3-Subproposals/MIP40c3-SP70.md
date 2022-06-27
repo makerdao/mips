@@ -7,12 +7,14 @@ MIP40c3-SP#: 70
 Author(s): @Nadia
 Contributors: @Growth-Core-Unit
 Tags: core-unit, cu-gro-001, budget, dai-budget
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2022-05-11
-Date Ratified:
+Date Ratified: 2022-06-27
 Budget Start Date: 2022-07-01
 Budget End Date: 2023-06-30
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp70-modify-growth-core-unit-budget-gro-001/15102
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdMkg2N
+Extra: Winning Ratification Poll option was [BearMarket](https://github.com/makerdao/mips/edit/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP70.md#option-bearmarket).
 ```
 
 ## Sentence Summary
