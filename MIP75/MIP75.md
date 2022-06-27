@@ -9,12 +9,12 @@ Author(s): Sam MacPherson (@hexonaut)
 Contributors: Adrian (@adcv), Sébastien Derivaux (@SebVentures), TJ Ragsdale (@teej), Luca Prosperi (@luca_pro)
 Tags: governance
 Type: General
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-05-11
-Date Ratified: N/A
+Date Ratified: 2022-06-27
 Dependencies: None
 Replaces: None
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTRtpp3
 Forum URL: https://forum.makerdao.com/t/mip75-task-forces/15093
 ```
 
