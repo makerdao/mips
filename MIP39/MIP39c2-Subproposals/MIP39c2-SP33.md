@@ -7,10 +7,11 @@ MIP39c2-SP#: 33
 Author(s): @luca_pro
 Contributors: @wouter, @Juan, @Retro
 Tags: core-unit, cu-love-001, mandate
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-05-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-06-27
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp33-adding-lending-oversight-core-unit-love-001/15098
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWYajMq
 ```
 
 ## Sentence Summary
