@@ -65,24 +65,38 @@ It is important to note that due to the frequency of such changes, the Weekly Cy
 ### MIP16c2: Weekly Governance Cycle Breakdown
 
 
-**Monday**
+**Monday, week 1**
 
 - Every Monday, the weekly cycle begins and includes standard recurring decisions proposed in the form of a weekly poll. The poll will run for three days ending Thursday before the Governance and Risk Call.
 
-**Thursday**
+**Thursday, week 1**
 
 - The weekly poll results will be reviewed on the Governance and Risk Call.
 
-**Friday**
+**Friday, week 1**
 
-- Every Friday, given the Monday Weekly Governance Poll passes, the weekly polls are put up for an Executive Vote. The Weekly Executive vote has an expiration of one week.
+- The Governance Facilitators will confirm the Executive Vote contents and deliver the spell copy to the Protocol Engineering Core Unit. The Protocol Engineering Core Unit will prepare and review a spell on the Goerli testnet.
+
+**Monday, week 2**
+
+- The Protocol Engineering Core Unit will deploy the Goerli spell and begin writing the mainnet spell.
+
+**Tuesday, week 2**
+
+- The Protocol Engineering Core Unit will deploy the mainnet spell.
+
+**Wednesday, week 2**
+
+- The Governance Facilitators will add the Executive Vote to the voting portal and communicate this to the MakerDAO Community. The Weekly Executive Vote has an expiration of thirty days.
 
 ### Overview of the Weekly Governance Cycle
 
-![weekly_monthly-gov](https://github.com/makerdao/mips/blob/master/MIP16/weekly_governance_cycle.png)
+![weekly_monthly-gov](https://github.com/patrick-j-govalpha/mips/blob/mip16-amendment/MIP16/weekly_governance_cycle.png)
 
 **Important Notes:**
 
+- As the Weekly Governance Cycle runs from Monday until the following Wednesday, there will in effect be two concurrent Weekly Governance Cycles from Monday to Wednesday each week.
+- If there are no substantive changes due to be made to the Maker Protocol, the Governance Facilitators, in conjunction with the Protocol Engineering Core Unit, may opt not to publish an Executive Vote. This decision should be announced and justified on the Maker Forum.
 - If a non-standard weekly poll ("signal request") has been proposed, it will also be put in the weekly poll. To create a non-standard weekly poll requires an urgent and apparent reason from a timing perspective to justify it. It is important to note that a non-standard weekly poll cannot be used for long-term decisions and requires consensus from the Governance Facilitators before it can be accepted and published.
 
 ---
