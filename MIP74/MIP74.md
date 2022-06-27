@@ -9,13 +9,13 @@ Author(s): Marko Štemberger (@rema)
 Contributors: LFW (@LongForWidsom), Sean Taylor (@Sean), Payton Rose (@prose11), Derek (@derek), Brian L. McMichael (@brianmcmichael)
 Tags: governance
 Type: General
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-05-11
-Date Ratified: N/A
+Date Ratified: 2022-06-27
 Dependencies: None
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip74-permissionless-open-market-operations/15095
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmaivXCv
 ```
 
 ## References
