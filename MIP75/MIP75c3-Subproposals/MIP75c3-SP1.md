@@ -8,9 +8,9 @@ Title: Onboard Task Force - Growth Task Force
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: task-force growth-task-force
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-05-01
-Date Ratified: N/A
+Date Ratified: 2022-06-27
 Ratification Poll URL: N/A
 Forum URL: https://forum.makerdao.com/t/mip75c3-sp1-onboard-task-force-growth-task-force/15094
 ```
