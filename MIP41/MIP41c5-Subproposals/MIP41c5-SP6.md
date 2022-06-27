@@ -8,9 +8,9 @@ Author(s): @tmierzwa
 Contributors:
 Tags: core unit, cu-din-001, facilitator, personnel-xboarding
 Extra: voluntary offboarding
-Status: RFC
+Status: Accepted
 Date Proposed: 2022-05-03
-Date Ratified:
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp6-facilitator-offboarding-din-001/14946
 ```
 
