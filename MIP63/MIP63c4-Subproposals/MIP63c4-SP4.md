@@ -8,10 +8,10 @@ Title: Onboard/Amend Keeper Network - Keep3r Network
 Author(s): 0xPEPO (@0xPEPO)
 Contributors:
 Tags: keeper-network
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-03-30
-Date Ratified:
-Ratification Poll URL:
+Date Ratified: 2022-06-27
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXbgVGz
 Forum URL: https://forum.makerdao.com/t/mip63c4-sp4-onboard-amend-keeper-network/14321
 ```
 
