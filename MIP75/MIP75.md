@@ -11,7 +11,7 @@ Tags: governance
 Type: General
 Status: Rejected
 Date Proposed: 2022-05-11
-Date Ratified: 2022-06-27
+Date Ratified: N/A
 Dependencies: None
 Replaces: None
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTRtpp3
