@@ -9,7 +9,7 @@ Contributors: @luca_pro, @MakerMan @juanbug
 Tags: spf
 Status: Rejected
 Date Proposed: 2022-04-15
-Date Ratified: 2022-06-27
+Date Ratified: N/A
 Amount Requested: 10M DAI
 Recipient Address: TBD
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp4-adding-a-special-purpose-fund-makershire-hathaway/14643
