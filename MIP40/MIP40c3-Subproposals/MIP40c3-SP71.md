@@ -9,7 +9,7 @@ Contributors: @wouter, @Juan, @Retro
 Tags: core-unit, cu-love-001, budget, dai-budget
 Status: Rejected
 Date Proposed: 2022-05-11
-Date Ratified: 2022-06-27
+Date Ratified: N/A
 Forum URL:https://forum.makerdao.com/t/mip40c3-sp71-lending-oversight-core-unit-dai-budget-love-001/15103
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWYajMq
 ```
