@@ -6,13 +6,15 @@
 MIP40c3-SP#: 69
 Author(s): @Aes
 Contributors: @SebVentures @adcv
-Tags: core-unit, cu-sf-001, budget, dai-budget
-Status: RFC
+Tags: core-unit, cu-sf-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2022-05-10
-Date Ratified: TBD
+Date Ratified: 2022-06-27
 Budget Start Date: 2022-7-1
 Budget End Date: 2023-7-1
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp69-modify-core-unit-budget-strategic-finance-sf-001/15090
+Ratification Poll URL: https://vote.makerdao.com/polling/QmVMc78Z
+Extra: Winning Ratification Poll option was _Approve existing budget only (business as usual)_.
 ```
 ## Sentence Summary
 
