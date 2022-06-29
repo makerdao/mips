@@ -9,7 +9,7 @@ Contributors:
 Tags: core-unit, cu-is-001, facilitator
 Status: Rejected
 Date Proposed: 2022-04-13
-Date Ratified: 2022-06-27
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp34-immunefi-security-core-unit-facilitator-onboarding-is-001/14610
 Ratification Poll URL: https://vote.makerdao.com/polling/QmaR6q4L
 ```
