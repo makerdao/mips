@@ -277,7 +277,7 @@ As the RWA Senior Lending Trust already holds USD in cash and other collateral u
 
 Further, an affiliate of the Trustee may custody such U.S. Treasuries (or other future assets at the direction of the DAO) or Trustee may engage one or more Qualified Custodian(s) (as such term is defined by U.S. federal securities laws) to custody such U.S. Treasuries. The Trustee on behalf of the Trust may pay customary custody, trading, and advisory fees approved by the Trustee. As “downstream” 6s Capital Partners LLC transactions close, the RIA for the RWA Senior Lending Trust shall then be instructed to exchange those US Treasuries for US Dollars to provide the capital pursuant to the Credit Agreement(s), or the reverse as the case may be.
 
-![|624x320](https://github.com/makerdao/mips/blob/master/MIP72/Ex1.jpg)
+![|624x320](https://github.com/makerdao/mips/blob/master/MIP72/Ex1.jpeg)
 
 ### Trust Sponsor (RWA International Ltd.)
 
