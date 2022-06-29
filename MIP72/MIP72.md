@@ -529,7 +529,7 @@ Required components when seeking the ratification of MakerDAO:
 
 ---
 
-MIP72c.A.8: Modification of an Established Legitimate Party
+### MIP72c.A.8: Modification of an Established Legitimate Party
 
 This sub proposal is to create the process around an Established Legitimate Party as well as the ability to add / remove / replace such individuals / legal entities from said role.
 
