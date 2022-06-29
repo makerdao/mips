@@ -1,6 +1,7 @@
-# MIP38: DAO Primitives State
+ # MIP38: DAO Primitives State
 
 ## Preamble
+
 ```
 MIP#: 38
 Title: DAO Primitives State
@@ -197,11 +198,11 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Budget
 
-- **Active Budget** - [MIP40c3-SP37](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP37.md)
-    - **Ratification Date** - 2021-10-25
-    - **Budget Amount** - 2,208,484 DAI / eight months
+- **Active Budget** - [MIP40c3-SP70](https://github.com/makerdao/mips/blob/34cce188049e6d6d1adcfcaf0c4fde1c6e4f7085/MIP40/MIP40c3-Subproposals/MIP40c3-SP70.md)
+    - **Ratification Date** - 2022-06-27
+    - **Budget Amount** - 4,210,261.40 DAI / twelve months
 	- **Budget Implementation** - Simple via dssvest
-	- **Budget Breakdown** - [MIP40c3-SP37 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP37.md#combined-november-december-2021-and-h1-2022-budget---november-2021-to-june-2022)
+	- **Budget Breakdown** - [MIP40c3-SP70 internal anchor link](https://github.com/makerdao/mips/blob/34cce188049e6d6d1adcfcaf0c4fde1c6e4f7085/MIP40/MIP40c3-Subproposals/MIP40c3-SP70.md#list-of-budget-breakdowns-1)
 - **MKR Vesting** - [MIP40c3-SP23](https://mips.makerdao.com/mips/details/MIP40c3SP23)
 
 ##### Facilitator
@@ -434,7 +435,7 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Facilitator
 
-- Tomek Mierzwa - [MIP41c4-SP23](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP23.md)
+- Tadeo - [MIP41c4-SP35](https://github.com/makerdao/mips/blob/938fcf82d93b708efe850d4e3fa942e3b8440fbc/MIP41/MIP41c4-Subproposals/MIP41c4-SP35.md)
 
 ---
 
@@ -525,10 +526,10 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Budget
 
-- **Active Budget** - [MIP40c3-SP46](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP46.md)
-    - **Budget Amount** - A total of 494,502 Dai will be streamed to 0xf737C76D2B358619f7ef696cf3F94548fEcec379 (SF Core Unit Multisig) starting 02/01/22 and ending 07/31/22 at a rate of 82,417 Dai per month.
-    - **Budget Implementation** - Simple via dssvest - [MIP40c3SP46 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP46.md#budget-implementation)
-    - **Budget Breakdown** - [MIP40c3-SP46 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP46.md#budget-breakdown)
+- **Active Budget** - [MIP40c3-SP69](https://github.com/makerdao/mips/blob/24779f52630df945595594759e4cb4b757f4c177/MIP40/MIP40c3-Subproposals/MIP40c3-SP69.md)
+    - **Budget Amount** - A total of 1.302,185 Dai will be streamed to 0xf737C76D2B358619f7ef696cf3F94548fEcec379 (SF Core Unit Multisig) starting 07/01/22 and ending 07/01/23 at a rate of 108,515 Dai per month.
+    - **Budget Implementation** - Simple via dssvest - [MIP40c3SP69 internal anchor link](https://github.com/makerdao/mips/blob/24779f52630df945595594759e4cb4b757f4c177/MIP40/MIP40c3-Subproposals/MIP40c3-SP69.md#budget-implementation)
+    - **Budget Breakdown** - [MIP40c3-SP69 internal anchor link](https://github.com/makerdao/mips/blob/24779f52630df945595594759e4cb4b757f4c177/MIP40/MIP40c3-Subproposals/MIP40c3-SP69.md#budget-breakdown)
 - **MKR Vesting** - [MIP40c3-SP48](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP48.md)
 
 ##### Facilitator
@@ -628,5 +629,4 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 - Coulter Mulligan - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
 - Mike Porcaro - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
 
----
 ---
