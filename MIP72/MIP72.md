@@ -498,7 +498,7 @@ Process to add / remove / replace an Arranger Authorization for 6s Capital, as e
 
 ---
 
-MIP72c.A.7: RWA International Ltd. Advisory Committee
+### MIP72c.A.7: RWA International Ltd. Advisory Committee
 
 This subproposal is to create a MakerDAO-approved RWA International Ltd. advisory committee (and ratify such creation) as well as the ability to add / remove / replace such individuals / legal entities ("Committee Participants") from said committee. The Committee Participants shall not be an operational part of RWA International Ltd., and nothing contained herein shall be viewed or intended to inhibit or interfere with the independent control the Directors of RWA International Ltd shall always retain.
 
