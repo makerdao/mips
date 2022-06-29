@@ -581,7 +581,7 @@ Required components when seeking the ratification of MakerDAO:
 
 ---
 
-![|624x351](upload://osZlxSDWKISckXJ4y3UuXmgn5q4.jpeg)
+![|Key Takeaways](https://github.com/makerdao/mips/blob/master/MIP72/MIP72keytakeaways.jpeg)
 
 ## Relevant Links / References
 
