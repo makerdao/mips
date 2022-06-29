@@ -383,8 +383,8 @@ Please see the [6s Capital & RWA Senior Lending Trust document set](https://foru
 If a trustee and / or an investment advisor (or any generic third-party) is being used, this must exclusively be used as a part of the weekly governance cycle (followed by an executive vote) to allow for written communication / instruction that represents the “affirmative vote of MakerDAO” that is specifically applicable to this parent MIP that is for just this one Arranger, 6s Capital (and the legal infrastructure between it and the DAO).
 
 #### MIP72c1.A.1 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -405,8 +405,8 @@ Required components when seeking the ratification of MakerDAO:
 * Additional disclosures, specifically including conflicts of interest (control / economics / other) with any aspect or party of this application
 
 #### MIP72c.A.2 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -432,8 +432,8 @@ Required components when seeking the ratification of MakerDAO:
 * Additional disclosures, specifically including conflicts of interest (control / economics / other) with any aspect or party of this application
 
 #### MIP72c1.A.3 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -457,8 +457,8 @@ Required components when seeking the ratification of MakerDAO:
 * Confidentiality agreement in place
 
 #### MIP72c.A.4 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -480,8 +480,8 @@ Required components when seeking the ratification of MakerDAO:
 * Additional disclosures, specifically including conflicts of interest (control / economics / other) with any aspect or party of this application
 
 #### MIP72c.A.5 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -493,8 +493,8 @@ Process to add / remove / replace an Arranger Authorization for 6s Capital, as e
 * The community must ratified the Authorization by the affirmative vote of MakerDAO to be implemented
 
 #### MIP72c.A.6 sub-proposal has the following parameters:
-Feedback Period: 4 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 4 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -524,8 +524,8 @@ Required components when seeking the ratification of MakerDAO:
 * Additional disclosures, specifically including conflicts of interest (control / economics / other) with any aspect or party of this application
 
 #### MIP72c.A.7 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -549,8 +549,8 @@ Required components when seeking the ratification of MakerDAO:
 * Additional disclosures, specifically including conflicts of interest (control / economics / other) with any aspect or party of this application
 
 #### MIP72c.A.8 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
@@ -576,8 +576,8 @@ Required components when seeking the ratification of MakerDAO:
 * Additional disclosures, specifically including conflicts of interest (control / economics / other) with any aspect or party of this application
 
 #### MIP72c.A.9 sub-proposal has the following parameters:
-Feedback Period: 2 weeks
-Frozen Period: 2 weeks
+- **Feedback Period:** 2 weeks
+- **Frozen Period:** 2 weeks
 
 ---
 
