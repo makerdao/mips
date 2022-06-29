@@ -10,8 +10,8 @@ Contributors:
 Tags: task-force growth-task-force
 Status: Rejected
 Date Proposed: 2022-05-01
-Date Ratified: 2022-06-27
-Ratification Poll URL: N/A
+Date Ratified: N/A
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmbs5Kx5#vote-breakdown
 Forum URL: https://forum.makerdao.com/t/mip75c3-sp1-onboard-task-force-growth-task-force/15094
 ```
 
