@@ -441,7 +441,7 @@ Required components when seeking the ratification of MakerDAO:
 
 Process to add / remove / replace an Observer at 6s Capital.
 
-* First, MakerDAO forth a new candidate to add / remove / replace an Observer, as the case may be via the affirmative vote of MakerDAO
+* First, MakerDAO brings forth a new candidate to add / remove / replace an Observer, as the case may be via the affirmative vote of MakerDAO
 * Second, in the case of a new party, that party must be approved by 6s Capital
 * The candidate must have a confidentiality agreement in place between the candidate and 6s Capital
 
