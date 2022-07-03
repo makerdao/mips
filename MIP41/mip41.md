@@ -120,6 +120,10 @@ This process component allows Governance to offboard a Facilitator.
 
 Depending on the Core Unit's Budget Implementations, this Subproposal may include a technical state change to remove control of the Budget Implementations from the offboarded Facilitator.
 
+For the offboarding proposal to be valid, proposers must transfer 1 MKR to the pause proxy (0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB) from an EOA and sign a message with that same EOA saying `@XXXX is offboarding @YYYY. <LINK TO FORUM POST>` where @XXXX is the proposer and @YYYY is the facilitator to be offboarded. The link to the forum will be the link to the offboarding proposal. Signed messages can be made with the Etherscan tool: https://etherscan.io/verifiedSignatures
+
+This 1 MKR stake will be transferred back to the proposer upon successful offboarding at the next available executive. If the proposal fails then the 1 MKR is forfeit from the proposer and left in the control of governance.
+
 The proposal parameters are:
 * Minimum feedback period: 1 month
 * Minimum frozen period: 1 week

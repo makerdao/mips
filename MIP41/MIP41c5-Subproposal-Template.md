@@ -22,6 +22,11 @@ Date Ratified: <yyyy-mm-dd>
 
 - Why are you proposing to offboard this Facilitator?
 
+### MKR Stake
+
+- Please post the transaction ID on Ethereum where you have sent 1 MKR to the pause proxy. (0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB)
+- Please post the message of the form "@XXXX is offboarding @YYYY. <LINK TO FORUM POST>" along with the associated signature from the EOA.
+
 ### Core Unit ID
 
 - Please specify the Core Unit ID.
