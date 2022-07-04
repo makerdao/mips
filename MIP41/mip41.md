@@ -124,6 +124,10 @@ For the offboarding proposal to be valid, proposers must transfer 1 MKR to the p
 
 This 1 MKR stake will be transferred back to the proposer upon successful offboarding at the next available executive. If the proposal fails then the 1 MKR is forfeit from the proposer and left in the control of governance.
 
+Alternatively, the proposer can run a signal request which upon success allows an offboarding proposal to proceed without a 1 MKR requirement. The signal request must be specific to the facilitator that will later be offboarded with this MIP41c5.
+
+Facilitators are free to offboard themselves voluntarily with no requirements or vote.
+
 The proposal parameters are:
 * Minimum feedback period: 1 month
 * Minimum frozen period: 1 week
