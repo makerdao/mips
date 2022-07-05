@@ -6,7 +6,7 @@
 MIP40c3-SP#: 46
 Author(s): @Aes 
 Contributors: @SebVentures
-Tags: core-unit, cu-sf-001, budget, dai-budget, active
+Tags: core-unit, cu-sf-001, budget, dai-budget
 Status: Accepted
 Date Proposed: 2021-12-01
 Date Ratified: 2022-01-24
