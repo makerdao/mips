@@ -7,8 +7,8 @@ MIP41c4-SP#: 37
 Author(s): @Patrick_J
 Contributors:
 Tags: core-unit, cu-gov-001, facilitator
-Status: RFC
-Date Proposed: <2022-05-20>
+Status: Formal Submission
+Date Proposed: 2022-05-20
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp37-governance-facilitator-onboarding/15284
 ```
