@@ -157,7 +157,6 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Facilitator(s)
 
-- LongForWisdom - [MIP41c4-SP3](https://mips.makerdao.com/mips/details/MIP41c4SP3)
 - Payton Rose - [MIP41c4-SP12](https://mips.makerdao.com/mips/details/MIP41c4SP12)
 
 ---
