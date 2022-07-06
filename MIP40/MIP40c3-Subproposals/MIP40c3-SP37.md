@@ -6,7 +6,7 @@
 MIP40c3-SP#: 37
 Author(s): @Nadia
 Contributors:
-Tags: core-unit, cu-gro-001, budget, dai-budget, active
+Tags: core-unit, cu-gro-001, budget, dai-budget
 Status: Accepted
 Date Proposed: 2021-09-08
 Date Ratified: 2021-10-25
