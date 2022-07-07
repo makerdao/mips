@@ -16,7 +16,7 @@ Dependencies:
 Replaces: n/a
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-monthly-governance-cycle-bundle-increase-the-eth-a-debt-ceiling?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
-Extra: This MIP has been amended. See [MIP4c2-SP20](https://mips.makerdao.com/mips/details/MIP4c2SP20). The original version can be found [here](https://github.com/makerdao/mips/blob/a42a0d21dc9929d222d31ac16300637cd403085f/MIP16/mip16.md).
+Extra: This MIP has been amended. See [MIP4c2-SP12](https://mips.makerdao.com/mips/details/MIP4c2SP12) and [MIP4c2-SP20](https://mips.makerdao.com/mips/details/MIP4c2SP20). The original version can be found [here](https://github.com/makerdao/mips/blob/a42a0d21dc9929d222d31ac16300637cd403085f/MIP16/mip16.md).
 ```
 
 ## References
