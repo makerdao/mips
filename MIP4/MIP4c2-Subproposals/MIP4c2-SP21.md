@@ -9,7 +9,7 @@ Author(s): @psychonaut
 Contributors:
 Tags: 
 Status: RFC
-Date Proposed: <2022-05-12>
+Date Proposed: 2022-05-12
 Date Ratified: <yyyy-mm-dd>
 Forum Post URL: https://forum.makerdao.com/t/mip4c2-sp21-add-retrospection-process-to-prune-unused-mips/15142
 ```
