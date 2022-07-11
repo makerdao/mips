@@ -5,25 +5,25 @@
 ```
 MIP: 76
 Author(s):  @Aes, @adcv, @SebVentures, @juanbug
-Contributors: @luca_pro, @MakerMan 
+Contributors: @luca_pro, @MakerMan
 Tags:
 Status: RFC
 Date Proposed: 2022-07-06
 Date Ratified: N/A
 Amount Requested: 10M DAI
 Recipient Address: DS-Pause Proxy
-Forum URL:
+Forum URL: https://forum.makerdao.com/t/mip76-makershire-redux/16400
 ```
 
 ## Sentence Summary
-Makershire Redux will be a 10M pool allocated across Liquidity Pools to support DAI liquidity/utility and earn yield. 
+Makershire Redux will be a 10M pool allocated across Liquidity Pools to support DAI liquidity/utility and earn yield.
 
 ## Motivation
-The Maker Protocol holds approximately $5.2B in stablecoins effectively earning zero yield. There are multiple efforts underway (off-chain and on-chain short-term bonds) to invest the majority of stablecoin exposure. 
+The Maker Protocol holds approximately $5.2B in stablecoins effectively earning zero yield. There are multiple efforts underway (off-chain and on-chain short-term bonds) to invest the majority of stablecoin exposure.
 
 Our aim is to begin generating yield on balance sheet assets and support DAI liquidity/utility, creating a new revenue stream for the protocol. We believe the future of finance and treasury management is on-chain and that now is the time to start formally researching, investigating, and implementing DeFi-native yield-generation strategies. Once we have the engineering bandwidth and performed the necessary level of due diligence, we will propose a method to quantify the desired level of exposure and an automation solution (i.e. D3M for Stable LPs, DSSKiln & G-UNI, etc).
 
-## Scope 
+## Scope
 
 Invest protocol capital to support DAI liquidity, utility, and diversify MakerDAO revenue streams.
 
@@ -70,7 +70,7 @@ After discussing how this pool could be managed with @PECU, it was confirmed tha
 
 ### SPF Allocation
 
-The two options for providing liquidty are stable LPs and volatile LPs. After feedback from various community members, we are proposing the below two options as initial allocations that can be adjusted, if necessary, based on further community input. 
+The two options for providing liquidty are stable LPs and volatile LPs. After feedback from various community members, we are proposing the below two options as initial allocations that can be adjusted, if necessary, based on further community input.
 
 ### Stable LP Allocation as of 7.1.22
 
@@ -90,7 +90,7 @@ Yields estimated using Uniswap, yield aggregators (i.e. Coindix), and various Du
 - Lower yields and de minimis risk of impermanent loss
 - Less liquidity pools to choose from
 
-**Stable & Volatile:** 
+**Stable & Volatile:**
 - Yield more correlated to market conditions
 - Higher yields than Stable Only in a sideways or upward market. Will underperform in a downward trending market
 - More liquidity pools to choose from
