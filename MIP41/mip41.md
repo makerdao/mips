@@ -114,7 +114,7 @@ MIP41c4 subproposals must use the template located at [MIP41c4-Subproposal-Templ
 
 This process component allows Governance to offboard a Facilitator.
 
-If a Core Unit is being offboarded, the Facilitator immediately loses all special powers listed on MIP41c2/ MIP41c3.
+If a vote for Core Unit offboarding passes, the Facilitator immediately loses all special powers listed on MIP41c2/ MIP41c3.
 
 The Facilitator becomes a *Retiring* Facilitator in charge of executing the unwinding process for the offboarding Core Unit (described on MIP39c3). If the Retiring Facilitator fails to execute the unwinding plan, an *Interim* Facilitator - further defined in MIP41c6 - will take over these responsibilities.
 
@@ -137,11 +137,11 @@ MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Templ
 
 #### Interim Facilitators
 
-Whenever a Core Unit finds itself with no Facilitator, an Interim Facilitator is needed to fill any gaps. The process to chose the Interim Facilitator is called "The Fallback Decision Process" and it is detailed below.
+Whenever a Core Unit finds itself with no Facilitator, an Interim Facilitator is needed to fill any gaps. The process to chose the Interim Facilitator is called "The Fallback Decision Process" and it is detailed in the heading below. However an interim facilitator is selected, Interim facilitators should clearly state their intended time of service. A two month minimum is recommended, with the option to renew.
 
 If a Retiring Facilitator is willing, they may nominate an Interim Facilitator. Subject to the nominated Interim Facilitator's acceptance, they are ratified as the new Facilitator by a simple majority vote of all active facilitators.
 
-In the event of a Core Unit offboarding, if the Retiring Facilitator is uncooperative, the Interim Facilitator will be in charge of overseeing/executing the unwinding process. In the event of a Facilitator offboarding, they will be in charge of ensuring the functional continuity of the Core Unit until a new permanent Facilitator is ratified. Interim facilitators should clearly state their intented time of service.
+In the event of a Core Unit offboarding, if the Retiring Facilitator is uncooperative, the Interim Facilitator will be in charge of overseeing/executing the unwinding process. In the event of a Facilitator offboarding, they will be in charge of ensuring the functional continuity of the Core Unit until a new permanent Facilitator is ratified.
 
 The incentive to volunteer as an Interim Facilitator is the compensation tied to a Core Unit unwinding plan. In the event of a missing, failed succession, or headless core unit, the incentive to volunteer as an Interim Facilitator is a transfer of the former Facilitator's compensation for an interim timeline.
 
@@ -149,12 +149,12 @@ If a Core Unit has no active Facilitators as a result of involuntary offboarding
 
 #### The Fallback Decision Process
 
-To move quickly, the fallback desicion process should be conducted offchain. For the first fallback vote, a list of volunteer Interim Facilitators and current active Facilitators is put up for one week. A simple majority vote on one candidate designates the Interim Facilitator. Should the first fallback vote underperform, then the same list is put to all currently active Facilitators, who choose to vote, on a shorter time frame. 48 hours is recommended.
+In the absence of interim facilitator selection or appointment, the fallback decision process determines an interim facilitator. An instant runoff vote is the recommended process. To move quickly, the vote should be conducted offchain with minimum quorum and results publicly accessible . For the first fallback vote, a list of volunteer Interim Facilitators and current active Facilitators is put up for one week. If a candidate has more than half of the vote based on first-choices that candidate wins and becomes the Interim Facilitator. Should the first fallback vote fail quorum, then the same list is put to all currently active Facilitators, who choose to vote, on a shorter time frame. 48 hours is recommended.
 
 Regardless of which vote succeeds, the Interim Facilitator is approved on a short cycle and instantly assigned to that Core Unit.
 The Interim Facilitator, once approved on a short cycle, is assigned to that Core Unit.
 
-If the candidate refuses the role, a member of a Governance Core Unit shall be appointed to fulfill the responsibilities of the Interim Facilitator.
+If the nominated candidate refuses the role, the fallback vote cycle repeats.
 
 #### Governance Powers
 

@@ -62,7 +62,7 @@ Mandates are self-imposed declarations that define the work scope and responsibi
 
 In the interest of being flexible, relatively broad and open-ended Mandates are to be preferred over granular Mandates. In the interest of promoting redundancy, parallelization, and decentralization within the DAO, Mandates can overlap across Core Units.
 
-Mandates are one of the three fundamental entities that define a Core Unit along with Budgets and Facilitators. The interaction among these entities is lay out in MIP38.
+Mandates are one of the three fundamental entities that define a Core Unit along with Budgets and Facilitators. The interaction among these entities is detailed in MIP38.
 
 ### MIP39c2: Adding/Modifying Core Units
 
