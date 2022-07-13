@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-05-20
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp37-governance-facilitator-onboarding/15284
+Ratification Poll URL: https://vote.makerdao.com/polling/QmY3xqFQ
 ```
 
 ## Sentence Summary
