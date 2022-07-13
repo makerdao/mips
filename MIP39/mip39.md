@@ -125,7 +125,7 @@ Legacy budgets do not include unwinding plans. A broad, default plan and a compe
 - Settling outstanding debts both to contributors and external actors/services.
 - Returning unused funds.
 
-Unwinding compensation will transfer to the Retiring/Interim Facilitator upon completion. The compensation is set to be 33% of the annual salary of the Facilitator of the Core Unit that is being offboarded, as per its latest ratified budget.
+Unwinding compensation will transfer to the Retiring/Interim Facilitator upon completion. The compensation is set to be 33% of the annual salary of the Facilitator of the Core Unit that is being offboarded, as per its latest ratified budget. If the Core Unit budget is not public or cannot be accessed, a fallback budget is recommended. Compensation parameters could be set to Full-time, moderate facilitator experience, using a recent transparent budget as a reference.
 
 #### Permissions
 
