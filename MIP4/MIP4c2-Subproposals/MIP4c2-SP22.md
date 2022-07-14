@@ -12,6 +12,7 @@ Status: Withdrawn
 Date Proposed: 2022-07-03
 Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp22-mip41-facilitator-offboarding-amendment/16297
+Extra: This proposal has been withdrawn by its author
 ```
 
 ## Specification
@@ -31,5 +32,3 @@ This MIP4c2 subproposal revises [MIP41](https://mips.makerdao.com/mips/details/M
 ### Amendment Pull Request
 
 https://github.com/makerdao/mips/pull/603
-
-### Relevant Information
