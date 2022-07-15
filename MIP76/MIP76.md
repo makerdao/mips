@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP: 76
+MIP#: 76
 Author(s):  @Aes, @adcv, @SebVentures, @juanbug
 Contributors: @luca_pro, @MakerMan
 Tags:
