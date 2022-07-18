@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-05-20
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp37-governance-facilitator-onboarding/15284
+Ratification Poll URL: https://vote.makerdao.com/polling/QmY3xqFQ
 ```
 
 ## Sentence Summary
@@ -115,7 +116,3 @@ The following is a list of potentially relevant conflicts of interest.
 - From a governance perspective, I do not participate in any other DAOs or organisations that would represent a conflict of interest. However, I am a Rocketpool Node Operator and, consequently, own and stake RPL. I do not participate in Rocketpool DAO activities.
 - I currently utilise ETH and G-UNI vaults.
 - I am an MKR token holder.
-
----
-
-cc: @GovAlpha-Core-Unit @MIP-Editors
