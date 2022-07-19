@@ -119,7 +119,7 @@ As the Oracle Protocol evolves, audits are an indispensable part of the QA proce
 
 **Marketing**
 
-The marketing budget is for building a brand around the Oracle Protocol. As we won’t have an in-house designer initially, some of the budget will be used to outsource design work. Conference sponsorships, ad campaigns with selected partners, and user incentives, also fall under this umbrella.
+The marketing budget is for building a brand around the Oracle Protocol. As we won’t have an in-house designer initially, some of the budget will be used to outsource design work. Conference sponsorships, ad campaigns with select partners, and user incentives, also fall under this umbrella.
 
 **Training**
 Training is a critical component for a healthy Core Unit. This includes hard (technical) and soft skill training for individual contributors as well as executive training for management.
