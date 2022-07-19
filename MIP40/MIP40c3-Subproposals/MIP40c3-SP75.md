@@ -17,7 +17,7 @@ Forum URL: https://forum.makerdao.com/t/mip40c3-sp75-modify-oracles-core-unit-bu
 
 ## Sentence Summary
 
-MIP40c3-SP75 renews the Oracle Core Unit ORA-001 budget from July 1 2022 through June 30 2023. 
+MIP40c3-SP75 renews the Oracle Core Unit ORA-001 budget from July 1 2022 through June 30 2023.
 
 ## Paragraph Summary
 
@@ -49,7 +49,7 @@ The budget implementation utilizes DssVest to continuously vest the budget in a 
 
 #### Budget Cost-Cutting
 
-The Oracle Core Unit recognises the active discussions being had in the community around cutting costs. Therefore, the Oracle Core Unit is proactively reducing its budget by 10%. 
+The Oracle Core Unit recognises the active discussions being had in the community around cutting costs. Therefore, the Oracle Core Unit is proactively reducing its budget by 10%.
 
 There are however several parallel initiatives in the community for slashing Core Unit budgets. It is unclear at this point in time whether these cuts will target specific Core Units, specific initiatives, or just a universal haircut across all Core Units. The Oracle Core Unit needs to balance being a good citizen and proactively reducing its budget with the real risk that further cost cutting initiatives could place it in ‘double jeopardy’. **Therefore, the Oracle Core Unit is adding the clause to this budget renewal that, should the proposed reduced budget be approved, the Oracle Core Unit will be exempt from further budget reductions for 12 months. Should voters find that compromise unfavourable, they are able to vote for the previous year’s budget and reduce it through the DAO-wide cost-cutting initiatives which are underway.**
 
@@ -97,9 +97,9 @@ These are acquisition costs for onboarding talent to the Core Unit. This include
 
 This applies to transportation, lodging, nourishment, professional venues such as conference rooms, team activities, and conference passes.
 
-Frequent team offsites are critical for remote organisations as they foster interpersonal relationships and generate alignment and trust. These are vital qualities in a companies culture that improve collaboration, productivity, and retention. They also have a habit of teasing out critical discussions and knowledge sharing via informal and impromptu conversations.
+Frequent team offsites are critical for remote organisations as they foster interpersonal relationships and generate alignment and trust. These are vital qualities in a company's culture that improve collaboration, productivity, and retention. They also have a habit of teasing out critical discussions and knowledge sharing via informal and impromptu conversations.
 
-Conferences are hot spots for interfacing with partners and clients in a much more personal (read "effective") manner. They also are ideal for scouting potential new talent as well as staying on top of industry developments, trends, and competition. Speaking at these events, participating in panels, and hosting workshops are also ideal methods to reinforce Maker’s reputation as a thought leader 
+Conferences are hot spots for interfacing with partners and clients in a much more personal (read "effective") manner. They also are ideal for scouting potential new talent as well as staying on top of industry developments, trends, and competition. Speaking at these events, participating in panels, and hosting workshops are also ideal methods to reinforce Maker’s reputation as a thought leader.
 
 **Feed Stipends**
 
@@ -119,7 +119,7 @@ As the Oracle Protocol evolves, audits are an indispensable part of the QA proce
 
 **Marketing**
 
-The marketing budget is for building a brand around the Oracle Protocol. As we won’t have an in-house designer initially, some of the budget will be used to outsource design work. Conference sponsorships, ad campaigns with select partners, and user incentives also fall under this umbrella.
+The marketing budget is for building a brand around the Oracle Protocol. As we won’t have an in-house designer initially, some of the budget will be used to outsource design work. Conference sponsorships, ad campaigns with select partners, and user incentives, also fall under this umbrella.
 
 **Training**
 Training is a critical component for a healthy Core Unit. This includes hard (technical) and soft skill training for individual contributors as well as executive training for management.
@@ -128,7 +128,7 @@ Training is a critical component for a healthy Core Unit. This includes hard (te
 
 **Hardware Expense**
 
-Hardware expenses pay for servers which run testing and staging environments, as well as monitoring for testing and production systems.
+Hardware expenses pay for servers that run testing and staging environments, as well as monitoring for testing and production systems.
 
 **Software Expense**
 
@@ -142,7 +142,7 @@ Software expenses encompass quite a broad range of services. These include:
 
 **Deployment Costs**
 
-Deployment costs are used for smart contract deployment and configuration, as well as multi-sig administration.
+Deployment costs are used for smart contract deployment and configuration, as well as multisig administration.
 
 ### Increasing Value to Maker Tokenholders
 
@@ -150,15 +150,15 @@ Deployment costs are used for smart contract deployment and configuration, as we
 
 By expanding the responsibility of the Feeds to not just poll prices but monitor other blockchains, the Maker Oracles are able to power the consensus engine for the Maker Teleport initiative. This will enable Dai Fast-Withdrawals between Ethereum and L2 chains such as Optimism, Arbitrum, and StarkNet. This is the first step to expanding Dai’s hegemony across all chains.
 
-Furthermore, the Oracle Core Unit is building out L2 Oracles which will be critical infrastructure for the deployment of the Maker Protocol on other chains.
+Furthermore, the Oracle Core Unit is building out L2 Oracles, which will be critical infrastructure for the deployment of the Maker Protocol on other chains.
 
 **Increase Protocol Security**
 
 One of the Oracle Core Unit’s main responsibilities is to protect the Maker Protocol from Oracle attacks. Oracle attacks are primarily an existential threat to the protocol as they enable the attacker to mint unbacked Dai, leading to losses for the protocol and, in the worst case, insolvency. They can also cause the protocol to liquidate its entire crypto collateral portfolio, which could cause a liquidity crisis and realize losses for both Vault owners, Dai holders, and the Maker protocol.
 
-Therefore, it is imperative that the Oracle Core Unit spends a significant amount of its resources on bolstering its security. This is done in a defense by layers approach. New high quality Feeds are added to increase the quality and size of the validator set. Oracle Data Models are routinely refactored to more accurately profile the liquidity properties of their reference asset. Oracle stack components and infrastructure are constantly being rearchitected to patch bugs, simplify code, and remove external dependencies. Minor releases are extensively tested with end-to-end testing in advanced staging environments which simulate real world conditions. Major releases are audited by both internal and external parties for quality and safety.
+Therefore, it is imperative that the Oracle Core Unit spends a significant amount of its resources on bolstering its security. This is done in a defense by layers approach. New high-quality Feeds are added to increase the quality and size of the validator set. Oracle Data Models are routinely refactored to more accurately profile the liquidity properties of their reference asset. Oracle stack components and infrastructure are constantly being rearchitected to patch bugs, simplify code, and remove external dependencies. Minor releases are extensively tested with end-to-end testing in advanced staging environments which simulate real world conditions. Major releases are audited by both internal and external parties for quality and safety.
 
-This is an area where no news is good news and the Oracle Core Unit’s track record speaks for itself. 
+This is an area where no news is good news, and the Oracle Core Unit’s track record speaks for itself.
 
 **Optimize Oracle expenditures**
 
@@ -176,7 +176,7 @@ Past and current initiatives:
 - Oracle Security Module rearchitecture (OSMv2).
 - MegaPoker ‘smart-poke’.
 - L2 optimized Oracle smart contracts (calldata compression).
-  
+
 **Oracle as a Service (OaaS) business**
 
 The Oracle Core Unit is building an Oracle as a Service product to create an Oracle business on behalf of the DAO. This Oracle business will bolster the reputation of MakerDAO as a secure and reliable high-value service provider, help subsidize the costs incurred by Oracles, and potentially generate profit. Oracles as a service can also be used as leverage for partnerships and integrations. For example, MakerDAO may be more willing to lend Dai to a secondary lender if they utilize Maker Oracles as it minimizes MakerDAO’s risk exposure to external Oracle providers.
@@ -229,7 +229,7 @@ The Oracle Core Unit made the deliberate decision to pause hiring during the pea
 
 #### Headcount Strategy
 
-The expansion with open roles is meant to professionalize the Oracle Core Unit. Currently the Oracle Core Unit has strong specialised engineering talent. This engineering core needs to be supplemented with key skills to create supporting products and infrastructure that reinforce the transparency, accessibility, reliability, and marketability of the Oracle service. 
+The expansion with open roles is meant to professionalize the Oracle Core Unit. Currently the Oracle Core Unit has strong specialised engineering talent. This engineering core needs to be supplemented with key skills to create supporting products and infrastructure that reinforce the transparency, accessibility, reliability, and marketability of the Oracle service.
 
 **Operations Manager**
 
@@ -294,14 +294,14 @@ The Oracle Core Unit uses a linear interpolation model which utilizes contributo
 
 *MKR amounts can change if a contributor's lock-in is reset via manual repricing. Resets will be reported to the DAO on a quarterly basis.
 
-### Multi-Sig Management
+### Multisig Management
 
-The Oracle Core Unit has four Multisig wallets.
+The Oracle Core Unit has four multisig wallets.
 
-1. [Oracle Core Unit Operations Multisig](https://gnosis-safe.io/app/eth:0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf/balances)
-2. [Oracle Core Unit Emergency Multisig](https://gnosis-safe.io/app/eth:0x53CCAA8E3beF14254041500aCC3f1D4edb5B6D24/balances)
-3. [Oracle Core Unit Gas Multisig](https://gnosis-safe.io/app/eth:0x2B6180b413511ce6e3DA967Ec503b2Cc19B78Db6/balances)
-4. [Oracle Core Unit Gas Emergency Multisig](https://gnosis-safe.io/app/eth:0x1A5B692029b157df517b7d21a32c8490b8692b0f/balances)
+1. [Oracle Core Unit Operations multisig](https://gnosis-safe.io/app/eth:0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf/balances)
+2. [Oracle Core Unit Emergency multisig](https://gnosis-safe.io/app/eth:0x53CCAA8E3beF14254041500aCC3f1D4edb5B6D24/balances)
+3. [Oracle Core Unit Gas multisig](https://gnosis-safe.io/app/eth:0x2B6180b413511ce6e3DA967Ec503b2Cc19B78Db6/balances)
+4. [Oracle Core Unit Gas Emergency multisig](https://gnosis-safe.io/app/eth:0x1A5B692029b157df517b7d21a32c8490b8692b0f/balances)
 
 **Oracle Core Unit Operations Multsig**
 
@@ -312,7 +312,7 @@ Signers = 3
 Quorum = 2
 
 Signers:
-Nik - Oracle Core Unit Faciliator - @NikKunkel
+Nik - Oracle Core Unit Facilitator - @NikKunkel
 0xB4CFf22c0d5a015460Fd503a9328Bf00a24f686c
 
 Marc-Andre - Oracle Core Unit Engineering Lead - @marcandu
@@ -330,7 +330,7 @@ Unclaimed vested funds from previous budget: 2,216,771 (DAI)
 
 **Oracle Core Unit Emergency Multisig**
 
-This multisig has funding designated exclusively for emergencies. While unforeseen events can occur which broaden the scope of what entails an emergency, the scope is intended to be narrow. 
+This multisig has funding designated exclusively for emergencies. While unforeseen events that broaden the scope of what entails an emergency can occur, the scope is intended to be narrow.
 
 1. The protocol undergoes emergency shutdown and needs to be redeployed and bootstrapped.
 2. A hacker manages to attack the protocol potentially resulting in a loss of assets or mass printing of unbacked Dai.
@@ -341,22 +341,22 @@ Signers = 7
 Quorum = 4
 
 Signers:
-Nik - Oracle Core Unit Faciliator - @NikKunkel
+Nik - Oracle Core Unit Facilitator - @NikKunkel
 0xB4CFf22c0d5a015460Fd503a9328Bf00a24f686c
 
-Primoz - Risk Core Unit Faciliator - @Primoz
+Primoz - Risk Core Unit Facilitator - @Primoz
 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c
 
 Derek - Protocol Engineering Core Unit Facilitator - @Derek
 0xe3a76328edE8Fd61d5fA7840b878Dd69cdfD67d8
 
-LongForWisdom - Gov Alpha Core Unit Facilitator - @LongForWisdom
+LongForWisdom - GovAlpha Core Unit Contributor - @LongForWisdom
 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69
 
 Nadia - Growth Core Unit Facilitator - @Nadia
 0xc8E6c287F6c127AFE5e4CB30bC440607b44c35f8
 
-SebVentures - Real World Finance Core Unit Facilitator - @SebVentures
+SebVentures - Strategic Finance Core Unit Contributor - @SebVentures
 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b
 
 Juan - Sustainable Ecosystem Scaling Core Unit Facilitator - @juan
@@ -367,15 +367,15 @@ Current Balance: $800,000 (DAI)
 
 **Oracle Core Unit Gas Multisig**
 
-This multisig is used exclusively for holding funds designated for Oracle gas expenditures. These costs are variable as gas prices fluctuate on blockchain networks (Ethereum, Optimism, Arbitrum, StarkNet, etc.) and as the number of deployed Oracles increases over time. Gas costs are typically forecast and renewed by the Maker Protocol every three months. Gas prices are unpredictably volatile and funding drawdown can occur rapidly. The Bored Ape Yacht Club APE land sale caused gas prices to temporarily spike as high as 5000 gwei more than 200x the average over the previous month. For this reason, funds budgeted for Oracle gas costs are issued by governance as a lump-sum payment rather than vesting over time. 
+This multisig is used exclusively for holding funds designated for Oracle gas expenditures. These costs are variable as gas prices fluctuate on blockchain networks (Ethereum, Optimism, Arbitrum, StarkNet, etc.) and as the number of deployed Oracles increases over time. Gas costs are typically forecast and renewed by the Maker Protocol every three months. Gas prices are unpredictably volatile and funding drawdown can occur rapidly. The Bored Ape Yacht Club APE land sale caused gas prices to temporarily spike as high as 5000 gwei more than 200x the average over the previous month. For this reason, funds budgeted for Oracle gas costs are issued by governance as a lump-sum payment rather than vesting over time.
 
 A variety of factors have led to an exponential reduction in Oracle gas price expenditures relative to initial projections. These include:
 
-1. gas cost optimizations by the Oracle Core Unit
-2. collateral offboarding by Maker Governance
-3. Ethereum gas base fee reduction 
+1. Gas cost optimizations by the Oracle Core Unit
+2. Collateral offboarding by Maker Governance
+3. Ethereum gas base fee reduction
 
-The remainder of funds initially allocated by the DAO to cover Oracle gas costs for 3 months at current expenditure rates should now cover the next ~2.5 years. If the base fee were to trend higher, that 1.5 year runway would reduce significantly.
+The remainder of funds initially allocated by the DAO to cover Oracle gas costs for 3 months at current expenditure rates, should now cover the next ~2.5 years. If the base fee were to trend higher, that 1.5 year runway would reduce significantly.
 
 ```
 Signers = 6
@@ -407,8 +407,8 @@ Current Balance: $1,966,214.12 (DAI), 201.26 ETH
 
 These funds are allocated for an emergency scenario where either:
 
-1. the funds in the primary Oracle Core Unit Gas Multisig have been expended
-2. the fund in the primary Oracle Core Unit Gas Multisig are unaccessible due to signers being “on a plane, on vacation, asleep, off-the-grid, bus factor, or generally unavailable.
+1. The funds in the primary Oracle Core Unit Gas Multisig have been expended
+2. The fund in the primary Oracle Core Unit Gas Multisig are unaccessible due to signers being “on a plane, on vacation, asleep, off-the-grid, bus factor, or generally unavailable.
 
 The emergency multisig has a lower signing threshold than the primary gas multisig in order to ensure that funds can be withdrawn on short notice in the event that quorum cannot be achieved in the primary.
 
@@ -456,20 +456,12 @@ Oracle Core Unit contributor MKR vesting will be accelerated to the nearest 6-mo
 
 As specified in [MIP4c2-SP19 (’Budget Process Amendment’)]([https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250](https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250)), once every three months, all funds held in the Oracle Core Unit Operations Multisig in excess of three months worth of budget will be returned to the DAO (minus outstanding liabilities). Three months of budget being defined as 1/4 of the allotted annual budget rather than relative to the previous three months actual expenditures.
 
-Note that this exclusively applies to the Operational Multi-Sig. Fund management of the Emergency, Gas, and Gas Emergency multisigs are distinctly exempt and will be handled on a case by case basis.
+Note that this exclusively applies to the Operational multisig. Fund management of the Emergency, Gas, and Gas Emergency multisigs are distinctly exempt and will be handled on a case by case basis.
 
+## ### Proposal Parameters
 
-## Proposal Parameters
-
-- **Minimum Feedback Period**: 1 Month.
-- **Minimum Frozen Period**: 1 Week.
-- Ratification Polls for MIP40c3 subproposals involving a Core Unit Budget Modification will have different requirements to MIP51c2. Instead of binary voting, they must use ranked-choice voting, with the options as follows:
-  - A: Approve existing budget (2021-2022) (Business as usual)
-  - B: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months)
-  - C: Reject budget
-  - D: Abstain
-
-In order for this Ratification Poll to conclude successfully and the contained proposal(s) move to Accepted status, each of the following conditions must be true:
-
-- `A` or `B` vote-weight must exceed `C` vote-weight when the poll closes.
-- Winning vote-weight must exceed the `Minimum Positive Participation` value of 10,000 MKR when the poll closes.
+This MIP40c3 subproposal provides the following options, fully described above, for ranked-choice voting:
+- A: Approve existing budget (2021-2022) (Business as usual)
+- B: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months)
+- C: Reject budget
+- D: Abstain
