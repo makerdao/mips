@@ -157,7 +157,8 @@ This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40,
 
 ##### Facilitator(s)
 
-- Payton Rose - [MIP41c4-SP12](https://mips.makerdao.com/mips/details/MIP41c4SP12)
+- Payton Rose - [MIP41c4-SP12](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP12.md)
+- Patrick_J - [MIP41c4-SP37](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP37.md)
 
 ---
 
