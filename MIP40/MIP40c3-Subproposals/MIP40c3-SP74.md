@@ -272,3 +272,13 @@ When including reserves, we would postpone requesting reserves buildup for the b
 ### Unwinding and Defunding
 
 Dai Foundation is bound by its [mandate](https://drive.google.com/file/d/14S-VIKsLtWq9xdVguaIZgNqtXcTkO3Bq/view?usp=sharing) and set to operate in perpetuity. We have thus no unwinding scenario. Should Maker Governance decide not to fund DAIF-001, then Dai Foundation will do its best to provide the MakerDAO community with access to its intangible assets based on a blend of the actual users covering the expenses and a limited draw on the reserves until funding issues are resolved.
+
+### Proposal Parameters
+
+This MIP40c3 subproposal provides the following options, fully described above, for ranked-choice voting:
+
+A: Base Case
+B: Bear Scenario
+C: Super Bear Scenario
+D: Reject Budget
+E: Abstain
