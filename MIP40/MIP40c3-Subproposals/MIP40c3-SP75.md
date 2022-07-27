@@ -454,11 +454,11 @@ Oracle Core Unit contributor MKR vesting will be accelerated to the nearest 6-mo
 
 ### Return of Excess Funds
 
-As specified in [MIP4c2-SP19 (’Budget Process Amendment’)]([https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250](https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250)), once every three months, all funds held in the Oracle Core Unit Operations Multisig in excess of three months worth of budget will be returned to the DAO (minus outstanding liabilities). Three months of budget being defined as 1/4 of the allotted annual budget rather than relative to the previous three months actual expenditures.
+As specified in [MIP4c2-SP19 (’Budget Process Amendment’)](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP19.md), once every three months, all funds held in the Oracle Core Unit Operations Multisig in excess of three months worth of budget will be returned to the DAO (minus outstanding liabilities). Three months of budget being defined as 1/4 of the allotted annual budget rather than relative to the previous three months actual expenditures.
 
 Note that this exclusively applies to the Operational multisig. Fund management of the Emergency, Gas, and Gas Emergency multisigs are distinctly exempt and will be handled on a case by case basis.
 
-## ### Proposal Parameters
+### Proposal Parameters
 
 This MIP40c3 subproposal provides the following options, fully described above, for ranked-choice voting:
 - A: Approve existing budget (2021-2022) (Business as usual)
