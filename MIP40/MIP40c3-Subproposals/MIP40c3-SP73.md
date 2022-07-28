@@ -38,14 +38,20 @@ EVENTS-001
 
 On this proposal’s approval:
 
-No more Dai will be transferred for the use of this Core Unit, either through streaming or through direct payments.
+No more Dai will be transferred for the use of this Core Unit, either through streaming or through direct payments. This does not apply to any disbursement included in the Golden Parachute section.
 
 ### Golden Parachute
 
-The suggested offboarding compensation (excluding spend on more events) from this CU was:
+#### Breakdown
+
+The suggested offboarding compensation (excluding spend on more events) from this Core Unit was the following:
 
 |Item|Cost|
-|---|---|
+| --- | --- |
 |Legal & Accounting|$15,000|
 |Saleries and Compensation|$88,336|
 |Total|$103,336|
+
+#### Implementation
+
+Upon the approval of this offboarding subproposal, a transfer will be made of 103,336 DAI to a wallet or wallets publicly communicated to GovAlpha by the Facilitator, @PonJerry
