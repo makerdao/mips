@@ -35,27 +35,21 @@ MIP78 defines the Maker Protocol's process to award DAI compensation to Recogniz
 ## Component Summary
 
 **MIP78c1: Definitions**
-
 MIP78c1 defines key terms.
 
 **MIP78c2: Compensation Formula and Initial Parameters**
-
 MIP78c2 defines the formula for calculating Recognized Delegate DAI compensation.
 
 **MIP78c3: Initial Parameters**
-
-Defines the initial parameters that will be applied if this MIP is ratified.
+MIP78c3 defines the initial parameters that will be applied if this MIP is ratified.
 
 **MIP78c4: Compensation Process and Distribution**
-
-MIP78c3 describes the process for executing payments to Recognized Delegates.
+MIP78c4 describes the process for executing payments to Recognized Delegates.
 
 **MIP78c5: Accommodation for Delegate Contract Migration**
-
 MIP78c5 outlines how the process of Recognized Delegate DAI compensation will change during the contract migration period.
 
 **MIP78c6: Modification of Parameters**
-
 MIP78c6 is a process component describing changes to the DAI compensation parameters for Recognized Delegates.
 
 ## Motivation
@@ -88,7 +82,7 @@ Similarly, if only participation is measured, a Recognized Delegate could simply
 - The compensation formula should discourage zero-sum thinking among Recognized Delegates. One Recognized Delegate's compensation should be as independent as possible from another Recognized Delegate's compensation. This would not be achievable with a shared pool system.
 - Compensation should be positively skewed toward Recognized Delegates with smaller MKR weight to encourage recruitment of new Recognized Delegates, allowing them to be bootstrapped into the system.
 - There should be a cap on the maximum DAI compensation per delegate to prevent excessive compensation from being paid to Recognized Delegates. This threshold should be high enough to incentivize Recognized Delegates to actively seek out MKR holders to delegate to them, rather than relying on attracting a moderate amount of delegated MKR. The cap may also be important for MKR delegators who wish to delegate but do not want to increase the total Recognized Delegate compensation. If delegating always increases the total Recognized Delegate compensation, then potential delegators might hesitate to delegate.
-- Recognized Delegates who can attract large amounts of delegated MKR should receive enough compensation that they have the option to hire an assistant(s). This will allow them to keep abreast of Governance Proposals in the Maker Protocol, given that they have the highest MKR voting weight.
+- Recognized Delegates who can attract large amounts of delegated MKR should receive enough compensation that they have the option to hire an assistant(s). This will allow them to keep abreast of Governance Proposals in the Maker Protocol, which is critical given that they have the highest MKR voting weight.
 - The system should allow for and appropriately compensate Recognized Delegates acting as part of a team or group, and not just be geared toward single individuals.
 - There should be an overall cap on the amount of DAI that can be paid out to Recognized Delegates to protect the DAO and MKR holders from excessive expense.
 
@@ -103,8 +97,8 @@ This MIP Set splits the content of MIP61 between two separate MIPs, includes mar
 * **Recognized Delegate:** Any delegate that meets the requirements defined in [MIP77c2](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905/1#mipxxc2-becoming-a-recognized-delegate-15).
 * **Max Compensated MKR (MKR<sub>MAX</sub>):** The maximum amount of delegated MKR for which a Recognized Delegate will be compensated. MKR delegated above this amount will not increase DAI compensation.
 * **Concentration (C\):** The concentration of compensation towards larger Recognized Delegates.
-* **Max Compensation (DAI<sub>MAX</sub>):** The maximum amount of DAI compensation which a Recognized Delegate can recieve for a given month.
-* **Minimum Performance Threshold (PERF<sub>MIN</sub>):** The theshold of permformance below which Recognized Delegates are not at all compensated.
+* **Max Compensation (DAI<sub>MAX</sub>):** The maximum amount of DAI compensation which a Recognized Delegate can receive for a given month.
+* **Minimum Performance Threshold (PERF<sub>MIN</sub>):** The theshold of performance below which Recognized Delegates are not at all compensated.
 * **Good Performance Threshold (PERF<sub>GOOD</sub>):** The theshold of performance below which Recognized Delegates are not fully compensated.
 * **Minimum Performance Multiplier (PERF<sub>MULT</sub>):** The minimum multiplier that applies to Recognized Delegates when they drop below the good performance threshold.
 * **Delegated MKR (MKR<sub>DEL</sub>):** The amount of MKR delegated to the Recognized Delegate.
@@ -118,7 +112,7 @@ This MIP Set splits the content of MIP61 between two separate MIPs, includes mar
 
 To calculate how much MKR was delegated to a Recognized Delegate over a month, a daily snapshot of MKR delegated to each Recognized Delegate will be taken. Then, the Governance Facilitators will take the mean average for each Recognized Delegate over the month. MKR values above the Max Compensated MKR (MKR<sub>MAX</sub>) will not be included in this calculation.
 
-The performance thresholds listed refer to the Recognized Delegate metrics defined in [MIP77c5](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905#mipxxc5-recognized-delegate-metrics-25). The metrics used for calculating Recognized Delegate compensation reference the most recent three-month period, and the lower of the two metrics over this period is used. So, if over the last three-months a Recognized Delegate has a Participation metric of 80% and a Communication metric of 90%, 80% will be the value used.
+The performance thresholds listed refer to the Recognized Delegate metrics defined in [MIP77c5](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905#mipxxc5-recognized-delegate-metrics-25). The metrics used for calculating Recognized Delegate compensation reference the most recent three-month period, and the lower of the two metrics over this period is used. So, if over the last three months a Recognized Delegate has a Participation metric of 80% and a Communication metric of 90%, 80% will be the value used.
 
 A Performance Multiplier is applied to Recognized Delegate's DAI compensation. The following principles are used based on their lowest metric:
 
@@ -127,7 +121,7 @@ A Performance Multiplier is applied to Recognized Delegate's DAI compensation. T
 
 This is demonstrated in the following graph:
 
-![](upload://uE6Jas8DBE35INWyHN6vu5IiI7V.png)
+![](https://github.com/makerdao/mips/blob/master/MIP78/mod_vs_low.png)
 
 The following formula calculates a Recognized Delegate's entitlement to compensation.
 
@@ -135,7 +129,7 @@ $DAI_{COMP} = DAI_{MAX}*min(1, {(MKR_{DEL})^C \over (MKR_{MAX})^C}) * Performanc
 
 #### Maximum Total Payout
 
-It the sum of DAI<sub>COMP</sub> for all Recognized Delegates exceeds the Max Total Payout (TOTAL<sub>MAX</sub>) parameter then the Payout Reduction (DAI<sub>CUT</sub>) multiplier will be applied at a flat-rate across all Recognized Delegates.
+It the sum of DAI<sub>COMP</sub> for all Recognized Delegates exceeds the Max Total Payout (TOTAL<sub>MAX</sub>) parameter, then the Payout Reduction (DAI<sub>CUT</sub>) multiplier will be applied at a flat-rate across all Recognized Delegates.
 
 The formula to calculate DAI<sub>CUT</sub> is as follows:
 
@@ -177,7 +171,7 @@ These parameter changes have the following effects compared to the parameters in
 * The inflection point where a Recognized Delegate earns more under MIP78 compared to MIP61 is 4,733 delegated MKR.
 
 The changes can be seen in the following graph:
-![](upload://chl7zuAFiBKOXl1oZdel2oepFN7.png)
+![](https://github.com/makerdao/mips/blob/master/MIP78/formula.png)
 
 The following table demonstrates the changes in compensation amounts that a group of hypothetical Recognized Delegates would experience between the two MIPs. For simplicity, assume that all Recognized Delegates in this example have both metrics above 90%:
 
@@ -203,16 +197,15 @@ The Governance Facilitators are responsible for calculating Recognized Delegate 
 
 Compensation for Recognized Delegates will be distributed by Executive Vote. These Executive Votes will take place quarterly, in January, April, July, and October.
 
-Executive Votes containing Recognized Delegate DAI compensation are not permitted to include any other changes to the Maker Protocol. This is to prevent a conflict of interest where Recognized Delegates are incentivized to support an Executive Vote they would otherwise have opposed. An exception is setting up MKR Vesting streams to Recognized Delegates as defined in [MIP78: Recognized Delegate MKR Compensation](https://forum.makerdao.com/t/mipzz-recognized-delegate-mkr-compensation/16907), which may be bundled with Recognized Delegate DAI compensation.
+Executive Votes containing Recognized Delegate DAI compensation are not permitted to include any other changes to the Maker Protocol. This is to prevent a conflict of interest where Recognized Delegates are incentivized to support an Executive Vote they would otherwise have opposed. An exception is setting up MKR Vesting streams to Recognized Delegates as defined in [MIP79: Recognized Delegate MKR Compensation](https://forum.makerdao.com/t/mipzz-recognized-delegate-mkr-compensation/16907), which may be bundled with Recognized Delegate DAI compensation.
 
 As with any other distribution of funds through the Executive Vote process, Recognized Delegates should confirm the amount of compensation being paid and the receiving address with the Governance Facilitators in the week leading up to the Executive Vote. If a Recognized Delegate cannot do this, that Recognized Delegate's compensation will not be included in the next Executive Vote and instead will be included in a future Executive Vote at a mutually agreeable time. These catch-up payments may be bundled with other proposals.
-
 
 ### MIP78c5: Accommodation for Delegate Contract Migration
 
 When a Recognized Delegate intends to migrate from one delegate contract to another the following points should be considered:
 * The associated entity should inform the Community the effective migration date no fewer than seven days before and which contracts are affected.
-* The new delegate contract cannot already be involved in a migration (e.g. two delegates merging into one). 
+* The new delegate contract cannot already be involved in a migration (e.g., two delegates merging into one). 
 * During a 30-day interim period, the old and new delegate contracts are regarded for compensation as referring to the same entity. 
 * Compensation is calculated using stats from the old and new contracts. For example, MKR weight will be obtained by the sum of the MKR weight of the old and new contracts. Participation and communication stats will be calculated across both delegate contracts.
 
