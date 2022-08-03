@@ -7,7 +7,7 @@ MIP40c3-SP#: 74
 Author(s): @sorenpeter
 Contributors:
 Tags: core-unit, daif-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-07-06
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2022-09-01

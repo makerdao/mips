@@ -6,8 +6,8 @@
 MIP40c3-SP#: 75
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
-Tags: core-unit, cu-ora-001, budget
-Status: RFC
+Tags: core-unit, cu-ora-001, budget, dai-budget, mkr-budget
+Status: Formal Submission
 Date Applied: 2022-07-06
 Date Ratified: n/a
 Budget Start Date: 2022-07-01
