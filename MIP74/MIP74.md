@@ -7,7 +7,7 @@ MIP#: 74
 Title: Permissionless Open Market Operations
 Author(s): Marko Štemberger (@rema)
 Contributors: LFW (@LongForWidsom), Sean Taylor (@Sean), Payton Rose (@prose11), Derek (@derek), Brian L. McMichael (@brianmcmichael)
-Tags: governance
+Tags: Governance
 Type: General
 Status: Accepted
 Date Proposed: 2022-05-11
@@ -25,11 +25,11 @@ Ratification Poll URL: https://vote.makerdao.com/polling/QmaivXCv
 
 ## Sentence Summary
 
-MIP74 defines the process used to agree and action permissionless open market operations with funds controlled by MakerDAO.
+MIP74 defines the process used to agree and action Permissionless Open Market Operations with funds controlled by MakerDAO.
 
 ## Paragraph Summary
 
-MIP74 defines the process that will be used to agree and take action on a number of permissionless open market operations with funds controlled by MakerDAO. The MIP proposes the utilization of the DssKiln module in order to make permissionless open market operations over a predetermined time period. The DssKiln module can be used for but is not limited to: (i) altering asset allocations of the surplus buffer, (ii) DAO treasury management, and/or (iii) management of possible future funds controlled by Core Units or other bodies of MakerDAO. For example, the DssKiln is able to perform certain actions that the Maker community has previously proposed and discussed, including an alternative mechanism for MKR burning, and/or purchasing ETH with DAI from the surplus buffer.
+MIP74 defines the process that will be used to agree and take action on a number of Permissionless Open Market Operations with funds controlled by MakerDAO. The MIP proposes the utilization of the DssKiln module in order to make Permissionless Open Market Operations over a predetermined time period. The DssKiln module can be used for but is not limited to: (i) altering asset allocations of the surplus buffer, (ii) DAO treasury management, and/or (iii) management of possible future funds controlled by Core Units or other bodies of MakerDAO. For example, the DssKiln is able to perform certain actions that the Maker community has previously proposed and discussed. Including an alternative mechanism for MKR burning, and/or purchasing ETH with DAI from the surplus buffer.
 
 ## Motivation
 
@@ -39,11 +39,11 @@ The Maker community has had several ideas and discussions regarding potential as
 
 **MIP74c1: Adding & Modifying a Permissionless Open Market Operation**
 
-Defines the governance process for altering existing permissionless open market operations and proposing new open market operations.
+Defines the Governance process for altering existing Permissionless Open Market Operations and proposing new Open Market Operations.
 
 **MIP74c2: Urgent Cancellation of a Permissionless Open Market Operation**
 
-Defines the processes for cancelling an existing permissionless open market operation quickly.
+Defines the processes for cancelling an existing Permissionless Open Market Operation quickly.
 
 **MIP74c3: Input by Bodies of MakerDAO Organizational Structure and Possible Limitations**
 
@@ -67,35 +67,35 @@ Confirms that DssKiln will be professionally audited prior to production use.
 
 MIP74c1 subproposals must use the template located at [MIP74c1-Subproposal-Template](https://github.com/makerdao/mips/blob/master/MIP74/MIP74c1-Subproposal-Template.md).
 
-This section of the MIP can have large consequences on the protocol's solvency, reserves and its financial resistance. A successful subproposal under this component will result in a technical state change to action and the proposal being included in an executive proposal within 1 month, absent any external factors.
+This section of the MIP can have large consequences on the protocol's solvency, reserves, and its financial resistance. A successful subproposal under this component will result in a technical state change to action and the proposal being included in an Executive Proposal within 1 month, absent any external factors.
 
 #### The proposal parameters
 
-New permissionless open market operation which amounts to less than 3M DAI (or USD equivalent value) on annual basis or total per duration of strategy at the time of proposal may go into the Weekly Governance Cycle, provided the Feedback and Frozen Periods have been fulfilled. Anything above 3M DAI (or USD equivalent) on an annual basis or total per duration of strategy at the time of proposal must go through the Monthly Governance Cycle.
+New Permissionless Open Market Operation which amounts to less than 3M DAI (or USD equivalent value) on annual basis, or total per duration of the strategy at the time of proposal may go into the Weekly Governance Cycle, provided the Feedback and Frozen Periods have been fulfilled. Anything above 3M DAI (or USD equivalent) on an annual basis or total per duration of strategy at the time of proposal must go through the Monthly Governance Cycle.
 
-Parameters for permissionless open market operation with less or equal to 3M DAI (or USD equivalent value) at the time of proposal on annual basis or total per duration of operation proposal:
+Parameters for Permissionless Open Market Operations with less or equal to 3M DAI (or USD equivalent value) at the time of proposal on annual basis or total per duration of operation proposal:
 
-* **Minimum Feedback Period:** 2 weeks.
-* **Minimum Frozen Period:** 1 week.
+* **Minimum Feedback Period:** 2 Weeks.
+* **Minimum Frozen Period:** 1 Week.
 
-Parameters for permissionless open market operation with above 3M DAI (or USD equivalent value) at the time of proposal on annual basis or total per duration of operation proposal:
+Parameters for Permissionless Open Market Operations with above 3M DAI (or USD equivalent value) at the time of proposal on annual basis or total per duration of operation proposal:
 
-* **Minimum Feedback Period:** 4 weeks.
-* **Minimum Frozen Period:** 1 week.
+* **Minimum Feedback Period:** 4 Weeks.
+* **Minimum Frozen Period:** 1 Week.
 
 ### MIP74c2: Urgent Cancellation of a Permissionless Open Market Operation
 
-Any permissionless open market operation which is implemented can be shutdown by a:
+Any Permissionless Open Market Operation which is implemented can be shutdown by a:
 
-* (i) Signal Request process which must last for equal or no less than 1 week and,
-* (ii) Shutdown Process which does not require a Signal Request can be initiated by Facilitators of relevant Core Units. It is recommended, but not limited to, that Facilitators propose the shutdown to the on-chain poll and propose the immediate shutdown directly via executive vote only in the case of an emergency which is time-sensitive.
+* (i) Signal Request process which must last for atleast or no less than 1 week and,
+* (ii) Shutdown Process which do not require a Signal Request can be initiated by Facilitators of relevant Core Units. It is recommended, but not limited to, that Facilitators propose the shutdown to the on-chain poll and propose the immediate shutdown directly via Executive Vote only in the case of an emergency which is time-sensitive.
 
 ### MIP74c3: Input by Bodies of MakerDAO Organizational Structure and Possible Limitations
 
 * Relevant bodies of MakerDAO are strongly recommended to provide input on MIP74c1 subproposals prior to formal submission.
 * Expected bodies input which might be required and their potential tasks:
-    * (i) PECU: Input on audit requirements and estimated cost (monetary and workforce related). Input on recommended destination market or similar
-    * (ii) Risk CU: Input on general and strategy specific parameters, input on recommended destination market or similar.
+    * (i) PECU: Input on audit requirements and estimated cost (monetary and workforce related). Input on the recommended destination market or similar.
+    * (ii) Risk CU: Input on general and strategy specific parameters. Input on recommended destination market or similar.
 
 ### MIP74c4: DssKiln For Actioning Permissionless Open Market Operations
 
@@ -103,22 +103,22 @@ DssKiln is a permissionless token-purchasing and disposition module for protocol
 
 The following parameters are available for definition in DssKiln by Governance:
 
-* `sell`: the token to be deposited into DssKiln and sold.
-* `buy`: the token to be bought in exchange for the sold token.
-* `hop`: duration specified in seconds. It represents a minimum number of seconds that must pass before the `lot` can be sold.
-* `lot`: the maximum quantity of tokens to be sold per hop.
+* `sell`: The token to be deposited into DssKiln and sold.
+* `buy`: The token to be bought in exchange for the sold token.
+* `hop`: Duration specified in seconds. It represents a minimum number of seconds that must pass before the `lot` can be sold.
+* `lot`: The maximum quantity of tokens to be sold per hop.
 
 ### MIP74c5: DssKiln Examples
 
-DssKiln can be implemented to interact with various on-chain markets. The specific operation which the DssKiln module is designed to perform is called a “permissionless open market operation”. Each permissionless open market operation implementation, depending on which contracts it interacts with, requires operation specific parameters which are defined at contract creation.
+DssKiln can be implemented to interact with various on-chain markets. The specific operation which the DssKiln module is designed to perform is called a “Permissionless Open Market Operation”. Each Permissionless Open Market Operation implementation, depending on which contracts it interacts with, requires operation specific parameters which are defined at contract creation.
 
-The following are example parameters specific to `DssKilnUNIV3SaveStrategy`. Other operations may require a different set of parameters;
+The following are example parameters specific to `DssKilnUNIV3SaveStrategy`. Other operations may require a different set of parameters:
 
 * `uniV3Router`: The address of the current Uniswap V3 router.
 * `fee`: The UniswapV3 fee pool DssKiln Strategy will participate in.
 * `receiver`: The destination address for the purchased token.
 
-The following are example parameters specific to `DssKilnUNIV3BurnStrategy`. Other operations may require a different set of parameters;
+The following are example parameters specific to `DssKilnUNIV3BurnStrategy`. Other operations may require a different set of parameters:
 
 * `uniV3Router`: The address of the current Uniswap V3 router.
 * `fee`: The UniswapV3 fee pool DssKiln Strategy will participate in.
