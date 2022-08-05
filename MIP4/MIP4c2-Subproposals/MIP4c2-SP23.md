@@ -8,7 +8,7 @@ MIP to be amended: MIP50
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: MIP41, facilitator
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-07-06
 Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp23-mip50-direct-deposit-module-amendment/16387
