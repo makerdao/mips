@@ -277,8 +277,8 @@ Dai Foundation is bound by its [mandate](https://drive.google.com/file/d/14S-VIK
 
 This MIP40c3 subproposal provides the following options, fully described above, for ranked-choice voting:
 
-A: Base Case
-B: Bear Scenario
-C: Super Bear Scenario
-D: Reject Budget
-E: Abstain
+A: Abstain
+B: Base Case
+C: Bear Scenario
+D: Super Bear Scenario
+E: Reject Budget
