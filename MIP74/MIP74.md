@@ -7,7 +7,7 @@ MIP#: 74
 Title: Permissionless Open Market Operations
 Author(s): Marko Štemberger (@rema)
 Contributors: LFW (@LongForWidsom), Sean Taylor (@Sean), Payton Rose (@prose11), Derek (@derek), Brian L. McMichael (@brianmcmichael)
-Tags: Governance
+Tags: governance
 Type: General
 Status: Accepted
 Date Proposed: 2022-05-11
@@ -85,17 +85,17 @@ Parameters for Permissionless Open Market Operations with above 3M DAI (or USD e
 
 ### MIP74c2: Urgent Cancellation of a Permissionless Open Market Operation
 
-Any Permissionless Open Market Operation which is implemented can be shutdown by a:
+Any Permissionless Open Market Operation which is implemented can be shutdown by:
 
-* (i) Signal Request process which must last for atleast or no less than 1 week and,
-* (ii) Shutdown Process which do not require a Signal Request can be initiated by Facilitators of relevant Core Units. It is recommended, but not limited to, that Facilitators propose the shutdown to the on-chain poll and propose the immediate shutdown directly via Executive Vote only in the case of an emergency which is time-sensitive.
+* (i) a Signal Request process which must last at least 1 week and,
+* (ii) a shutdown process which does not require a Signal Request can be initiated by Facilitators of relevant Core Units. It is recommended, but not limited to, that Facilitators propose the shutdown to the on-chain poll and propose the immediate shutdown directly via Executive Vote only in the case of an emergency which is time-sensitive.
 
 ### MIP74c3: Input by Bodies of MakerDAO Organizational Structure and Possible Limitations
 
 * Relevant bodies of MakerDAO are strongly recommended to provide input on MIP74c1 subproposals prior to formal submission.
 * Expected bodies input which might be required and their potential tasks:
-    * (i) PECU: Input on audit requirements and estimated cost (monetary and workforce related). Input on the recommended destination market or similar.
-    * (ii) Risk CU: Input on general and strategy specific parameters. Input on recommended destination market or similar.
+    * (i) Protocol Engineering Core Unit (PE-001): Input on audit requirements and estimated cost (monetary and workforce related); input on the recommended destination market or similar.
+    * (ii) Risk Core Unit (RISK-001): Input on general and strategy specific parameters; input on recommended destination market or similar.
 
 ### MIP74c4: DssKiln For Actioning Permissionless Open Market Operations
 
