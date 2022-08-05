@@ -7,7 +7,7 @@ MIP41c5-SP#: 8
 Author(s): @Ippy
 Contributors:
 Tags: core-unit, events-001, cu-offboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-06-22
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip41c5-spxx-facilitator-offboarding-for-events-001/15992

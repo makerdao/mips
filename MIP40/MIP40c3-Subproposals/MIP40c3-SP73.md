@@ -7,7 +7,7 @@ MIP40c3-SP#: 73
 Author(s): @Ippy
 Contributors:
 Tags: core-unit, events-001, dai-budget, cu-offboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-06-22
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-spxx-modify-core-unit-budget-for-events-001/15991
@@ -46,11 +46,11 @@ No more Dai will be transferred for the use of this Core Unit, either through st
 
 The suggested offboarding compensation (excluding spend on more events) from this Core Unit was the following:
 
-|Item|Cost|
-| --- | --- |
-|Legal & Accounting|$15,000|
-|Saleries and Compensation|$88,336|
-|Total|$103,336|
+| Item                      | Cost     |
+| ------------------------- | -------- |
+| Legal & Accounting        | $15,000  |
+| Saleries and Compensation | $88,336  |
+| Total                     | $103,336 |
 
 #### Implementation
 
