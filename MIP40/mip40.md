@@ -7,7 +7,7 @@ MIP#: 40
 Title: Budget Framework
 Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
-Tags: MIP40, budget
+Tags: core-unit-framework, mip-set, core-unit-framework-mipset, budget-framework
 Status: Accepted
 Date Proposed: 2022-03-27
 Date Ratified: 2022-05-23
