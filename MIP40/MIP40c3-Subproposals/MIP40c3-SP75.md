@@ -461,7 +461,7 @@ Note that this exclusively applies to the Operational multisig. Fund management 
 ### Proposal Parameters
 
 This MIP40c3 subproposal provides the following options, fully described above, for ranked-choice voting:
-- A: Approve existing budget (2021-2022) (Business as usual)
-- B: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months)
-- C: Reject budget
-- D: Abstain
+- A: Abstain
+- B: Approve existing budget (2021-2022) (Business as usual)
+- C: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months)
+- D: Reject budget
