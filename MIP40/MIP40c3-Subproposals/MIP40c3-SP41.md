@@ -13,6 +13,7 @@ Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/2
+Extra: Manual repricing has been triggered via [this forum post](https://forum.makerdao.com/t/mip40c3-sp41-immunefi-security-core-unit-mkr-budget-is-001/10814/3).
 ```
 
 ## Sentence Summary
