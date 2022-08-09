@@ -11,7 +11,7 @@ Status: Formal Submission
 Date Applied: 2022-06-22
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-spxx-modify-core-unit-budget-for-events-001/15991
-Ratification Poll URL: 
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTNaLnY
 ```
 
 ## Sentence Summary
