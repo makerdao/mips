@@ -11,6 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-07-06
 Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip76-makershire-redux/16400
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTYQskE
 ```
 
 ## Sentence Summary
