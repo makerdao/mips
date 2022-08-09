@@ -12,6 +12,7 @@ Status: Formal Submission
 Date of Amendment Submission: 2022-01-28
 Date of ratification: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/new-mip4c2-sp15-core-unit-offboarding-process-amendments/15291
+Ratification Poll URL: https://vote.makerdao.com/polling/QmbBh8t4
 ```
 
 ## Specification
