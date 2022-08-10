@@ -13,6 +13,7 @@ Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2022-09-01
 Budget End Date: 2023-08-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp74-modify-dai-foundation-core-unit-budget-daif-001/16379
+Ratification Poll URL: https://vote.makerdao.com/polling/QmQJ9hYq#vote-breakdown
 ```
 
 ## Sentence Summary
