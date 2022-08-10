@@ -11,7 +11,7 @@ Status: Formal Submission
 Date Applied: 2022-06-22
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip41c5-spxx-facilitator-offboarding-for-events-001/15992
-Ratification Poll URL: 
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTNaLnY#vote-breakdown
 ```
 
 ## Sentence Summary
