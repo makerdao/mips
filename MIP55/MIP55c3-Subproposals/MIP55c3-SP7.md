@@ -13,6 +13,7 @@ Date Ratified: (yyyy-mm-dd)
 Amount Requested: 81,000 DAI
 Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.
 ```
+
 ## Sentence Summary
 
 This subproposal aims to allocate 81,000 DAI to the Ambassador Program.
@@ -49,13 +50,13 @@ The Ambassadors has also been translating essential parts of the Protocol docume
 
 The Maker Operational Manual is an ongoing project by GovAlpha. New pages are translated and old ones are subject to revision periodically. [Here's the official announcement of the Maker Operational Manual in Spanish](https://forum.makerdao.com/t/manual-operacional-de-maker-en-espanol/13173) to the community.
 
-![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/mom.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/mom.png)
 
 #### MakerDOCs
 
 The MakerDOCs documents have been translated in a titanic quest from the Ambassador Program. With some gaps to fill, 95% of the DOCS has been fully translated and uploaded for the community. You can check the [announcement of the MakerDOCs in Spanish](https://forum.makerdao.com/t/makerdocs-en-espanol/17132?u=joserjimz) in the LATAM part of the Forum.
 
-![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/makerdocs.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/makerdocs.png)
 
 ### Ambassadors Setting Foot on Twitter
 In addition, the Ambassador Program has been working on positioning the Maker brand for Spanish-speaking audiences through the [official account on Twitter](https://twitter.com/MakerDAO_Lat) in Spanish. It has been publishing content about: 
@@ -69,21 +70,21 @@ In addition, the Ambassador Program has been working on positioning the Maker br
 
 | Month | Metrics | Twitter Analytics |
 |---|---|---|
-| August 01 - 07 | Tweets: 64. Impressions: 20,300. Views: 2,265. Mentions: 07. New Followers: 16. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-aug0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-aug1.png) |
-| July | Tweets: 188 Impressions: 25,900. Views: 7,464. Mentions: 46. New Followers: 40. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-jul0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-jul1.png) |
-| June | Tweets: 272. Impressions: 62,800. Views: 17,600. Mentions: 130. New Followers: 223. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-jun0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-jun1.png) |
-| May | Tweets: 286. Impressions: 64,000. Views: 15,900. Mentions: 84. New Followers: 248 | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-may0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-may1.png) |
-| April | Tweets: 185. Impressions: 219,000. Views: 15,500. Mentions: 121. New Followers: 395. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-apr0.png)     ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-apr1.png) |
-| March | Tweets: 169. Impressions: 27,000. Views: 16,000. Mentions: 69. New Followers: 146 | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/tw-mar1.png) |                                                             
+| August 01 - 07 | Tweets: 64. Impressions: 20,300. Views: 2,265. Mentions: 07. New Followers: 16. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-aug0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-aug1.png) |
+| July | Tweets: 188 Impressions: 25,900. Views: 7,464. Mentions: 46. New Followers: 40. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-jul0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-jul1.png) |
+| June | Tweets: 272. Impressions: 62,800. Views: 17,600. Mentions: 130. New Followers: 223. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-jun0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-jun1.png) |
+| May | Tweets: 286. Impressions: 64,000. Views: 15,900. Mentions: 84. New Followers: 248 | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-may0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-may1.png) |
+| April | Tweets: 185. Impressions: 219,000. Views: 15,500. Mentions: 121. New Followers: 395. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-apr0.png)     ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-apr1.png) |
+| March | Tweets: 169. Impressions: 27,000. Views: 16,000. Mentions: 69. New Followers: 146 | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-mar1.png) |                                                             
 **Note: Thanks to @tobal and his work with the official [MakerDAO](https://twitter.com/MakerDAO) account and the [MakerGrowth](https://twitter.com/MakerGrowth) account.** 
 
 ## Increased Activity of the LATAM Community
 
 The presence of the community in the forum has been noticeable, and more discussions have been presented in Spanish. While participating fully in the forum involves a particular learning curve for new users, several have contributed a lot to the forum. 
 
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/sc11.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/sc10.png) |  |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/sc11.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/sc10.png) |  |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/sc9.png)  | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/sc11.png) |  |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/sc9.png)  | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/sc11.png) |  |
 
 ### 2022 So Far...
 
@@ -91,10 +92,10 @@ Since the Ambassador Program started, we have seen a significant increase in the
 
 **For the following information, the selected interval was: January 1, 2022 to August 9, 2022  — Source: [MakerDAO SourceCred Stats](https://observablehq.com/@hernandoagf/makerdao-sourcecred-stats)**
 
-![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/toptopics.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/toptopics.png)
 <sup>(2 Latam posts on Top 10 Topics by Cred Generated, including #1)</sup>
 
-![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/topcredearners.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/topcredearners.png)
 <sup>(3 Latam members on Top 10 Cred Earners)</sup>
 
 ## Meetups & Social Gatherings
@@ -105,25 +106,25 @@ To generate and consolidate communities around Maker, the Program has been parti
 
 |  |  |  |
 |---|---|---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/defiant0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/defiant1.png) |  |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/defiant0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/defiant1.png) |  |
 
 ### De-Fi LATAM Telegram - MakerDAO  
 
 |  |  |  |  |
 |---|---|---|---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/defi-latam0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/defi-latam1.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/defi-latam2.png) |  |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/defi-latam0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/defi-latam1.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/defi-latam2.png) |  |
 
 ### Revelation Hackathon
 
 |  |  |
 |---|---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/revelation0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/revelation1.png) |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/revelation0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/revelation1.png) |
 
 ### Ethereum Caracas
 
 |  |  |
 |---|---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/caracas0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/caracas1.png) |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/caracas0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/caracas1.png) |
 
 ## Twitter Spaces
 
@@ -131,19 +132,19 @@ To generate and consolidate communities around Maker, the Program has been parti
 
 |  |  |  |  |
 |---|---|---|---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/prode0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/prode1.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/prode2.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/prode3.png) |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/prode0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/prode1.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/prode2.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/prode3.png) |
 
 ### ExploranDAO #1 - MakerDAO
 
 |  |  |  |
 |---|---|---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/explorandao0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/explorandao1.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/explorandao2.png) |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/explorandao0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/explorandao1.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/explorandao2.png) |
 
 ### MakerDAO - LATAM
 
 |  |  |
 |---|---|
-| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/latam0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting-materials/MIP55c3-SP7/latam1.png) |
+| ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/latam0.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/latam1.png) |
 
 ## Growing a Healthy Community
 
