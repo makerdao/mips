@@ -20,7 +20,7 @@ The services provided by Strategic Happiness do not require a Core Unit, which r
 
 ## Motivation
 
-See the [sister subproposal ](https://forum.makerdao.com/t/mip40c3-spxx-modify-strategic-happiness-core-unit-budget-sh-001/16438) to remove the budget from this Core Unit. These services are an unneccesarily high cost in a bear market and can more nimbly and cheaply be carried out without a Core Unit structure. Severance is included in the budget offboarding sub proposal for both contributors.
+See the [sister subproposal ](https://forum.makerdao.com/t/mip40c3-spxx-modify-strategic-happiness-core-unit-budget-sh-001/16438) to remove the budget from this Core Unit. These services are an unnecessarily high cost in a bear market and can more nimbly and cheaply be carried out without a Core Unit structure. Severance is included in the budget offboarding subproposal for both contributors.
 
 ## Core Unit ID
 

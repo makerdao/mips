@@ -14,6 +14,7 @@ Date Proposed: 2022-07-29
 Date Ratified: <yyyy-mm-dd>
 Dependencies: <List of dependent MIPs>
 Replaces: MIP61
+Forum URL: https://forum.makerdao.com/t/mip77-delegates-in-the-maker-protocol/16905
 ```
 
 ## Note
@@ -41,13 +42,13 @@ MIP77 provides a base definition of the role of delegates within the Maker Proto
 
 ## Component Summary
 
-**MIP77c1: Definitions** 
+**MIP77c1: Definitions**
 MIP77c1 defines key terms relating to delegation.
 
-**MIP77c2: Becoming a Recognized Delegate** 
+**MIP77c2: Becoming a Recognized Delegate**
 MIP77c2 outlines how a delegate may become a Recognized Delegate.
 
-**MIP77c3: Recognized Delegate Code of Conduct** 
+**MIP77c3: Recognized Delegate Code of Conduct**
 MIP77c3 specifies the Recognized Delegate Code of Conduct.
 
 **MIP77c4: Recognized Delegate Roles and Responsibilities**
@@ -78,7 +79,7 @@ MIP77 acts as a foundational MIP upon which additional MIPs may interface to fur
 
 **Delegator:** Any MKR holder that has delegated MKR token voting power to a delegate.
 
-**Delegate Contract:** A smart contract that can be created permisionlessly to allow MKR holders to delegate the voting power of their tokens to the contract owner, the delegate. The delegate can only use these tokens to vote; they cannot be transferred. This means they cannot be used to trigger Emergency Shutdown via the Emergency Shutdown Module.
+**Delegate Contract:** A smart contract that can be created permissionlessly to allow MKR holders to delegate the voting power of their tokens to the contract owner, the delegate. The delegate can only use these tokens to vote; they cannot be transferred. This means they cannot be used to trigger Emergency Shutdown via the Emergency Shutdown Module.
 
 **Recognized Delegate:** Any delegate that meets the criteria defined in MIP77c2, as determined by a majority of Governance Facilitators. These delegates may associate a name with their delegate contract and will be listed prominently in the UI.
 
@@ -163,11 +164,11 @@ The participation metric is a percentage of all on-chain polls and executive pro
 
 For example, a score of 100% would mean that a Delegate has voted in all possible polls and Executive Votes since they started their role as a Recognized Delegate.
 
-It is expected that Recognized Delegates vote on Executive Proposals, or voice their explicit opposition, within 72 hours of them being posted to the voting portal.
+It is expected that Recognized Delegates vote on Executive Proposals, or voice their explicit opposition, within 72 hours of them being posted to the voting portal. Due to the security and operational issues surrounding Executive Votes, these votes are weighted by a factor of five when calculating the participation metric.
 
-Failing to vote on an Executive Vote may occur in an emergency or when a Recognized Delegate disagrees fundamentally with the contents. Failing to vote for an Executive Vote does not count against Recognized Delegates for participation tracking if they can provide sound reasoning for their abstention, as assessed by the Governance Facilitators. 
+Failing to vote on an Executive Vote may occur in an emergency or when a Recognized Delegate disagrees fundamentally with the contents. Failing to vote for an Executive Vote does not count against Recognized Delegates for participation tracking if they can provide sound reasoning for their abstention, as assessed by the Governance Facilitators.
 
-The outcome of an Executive Vote will have no bearing on participation tracking for that Executive Vote. 
+The outcome of an Executive Vote will have no bearing on participation tracking for that Executive Vote.
 
 However, the Governance Facilitators strongly recommend that Recognized Delegates and delegators consider the security and operational risks that opposing an Executive Vote poses to the Maker Protocol.
 
@@ -179,7 +180,7 @@ The communication metric is  expressed as a percentage and contains two componen
 
 Recognized Delegates are rewarded with a higher score for providing the reasoning behind their voting decisions. For example, if a Recognized Delegate communicates a vote without reasoning, they receive a score of 50% for that vote. On the other hand, if they communicate their vote with reasoning, they receive a score of 100%. An overall score is calculated by taking the mean average for all votes.
 
-For example, a score of 100% would mean a Recognized Delegate communicated all of their voting decisions AND gave reasons for reaching these decisions. On the other hand, a score of 50% would indicate that a Recognized Delegate conveyed their choices but did not provide any reasoning for these decisions. A score of 75% might suggest a Recognized Delegate had communicated reasoning approximately half of the time but always communicated how they voted.
+For example, a score of 100% would mean a Recognized Delegate communicated all of their voting decisions AND gave reasons for reaching these decisions. On the other hand, a score of 50% would indicate that a Recognized Delegate conveyed their choices but did not provide any reasoning for these decisions. A score of 75% might suggest a Recognized Delegate had communicated reasoning approximately half of the time but always communicated how they voted. Due to the security and operational issues surrounding Executive Votes, these votes are weighted by a factor of five when calculating the communication metric.
 
 Recognized Delegates are expected to communicate their vote **within seven days** of a Governance Poll concluding, or from the execution of an Executive Vote. The exception to this is when a Recognized Delegate is opposing an Executive Vote (see the discussion above regarding the participation metric).
 

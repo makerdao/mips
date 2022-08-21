@@ -14,6 +14,8 @@ Date Proposed: 2022-07-29
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP77, MIP78
 Replaces: N/A
+Forum URL: https://forum.makerdao.com/t/mip79-recognized-delegate-mkr-compensation/16907
+Ratification Poll URL:
 ```
 
 ## Note
@@ -73,13 +75,13 @@ This process will repeat every six months that the Recognized Delegate is active
 
 #### Examples
 
-Delegate A has completed six months as a Recognized Delegate. During this time, they received 50,000 DAI compensation for their work. In addition, the 12-month rolling average price of MKR for this period is 1,000 DAI. Consequently, Delegate A qualifies for 50 MKR to be vested to them.
+Delegate A has completed six months as a Recognized Delegate. During this time, they received 50,000 DAI compensation for their work. In addition, the 12-month rolling average price of MKR for this period is 1,000 DAI. Consequently, Delegate A qualifies for 50 MKR to be streamed to them using DssVest.
 
-After another six months, Delegate A has received an additional 62,500 DAI as compensation, and the MKR token 12-month rolling average price in DAI is now 2,000 DAI. Therefore, delegate A will receive 31.25 MKR for this period.
+After another six months, Delegate A has received an additional 62,500 DAI as compensation, and the MKR token 12-month rolling average price in DAI is now 2,000 DAI. Therefore, delegate A qualifies for  31.25 MKR to be streamed to them using DssVest for this period.
 
-After three months, Delegate A decides they no longer wish to be a Recognized Delegate and follows the process described in [MIP77c7](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905/3#mipxxc7-recognized-delegate-resignation-30). They will receive MKR based on the DAI they earned in these three months.
+After three months, Delegate A decides they no longer wish to be a Recognized Delegate and follows the process described in [MIP77c7](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905/3#mipxxc7-recognized-delegate-resignation-30). They will receive MKR streamed to them using DssVest based on the DAI they earned in these three months.
 
-Delegate B has completed four months as a Recognized Delegate before stepping down. As they did not complete the minimum six months as a Recognized Delegate, they will not receive any vested MKR.
+Delegate B has completed four months as a Recognized Delegate before stepping down. As they did not complete the minimum six months as a Recognized Delegate, they do not qualify for any vested MKR.
 
 ### MIP79c3: MKR Distribution Process
 
