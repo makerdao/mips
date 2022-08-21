@@ -76,3 +76,10 @@ For the calendar year 2023, RWF-0x will prepare an updated staffing plan and ass
 For the remainder of 2022, the MKR compensation proposed in the ratified [MIP40c3-SP38](https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447) will remain in place for the remainder of 2022 and to cover MKR vested in 2022. This will apply to @christiancdpetersen, @eumenes, and @teej.
 
 RWF-0x will propose a new MKR compensation schedule as part of the 2023 budget cycle.
+
+---
+
+## Related Documents
+
+- [MIP39c2-SP34: Creating RWF-0x from a Split of RWF-001](https://forum.makerdao.com/t/mip39c2-sp-creating-rwf0x-from-a-split-of-rwf-001/16967/1)
+- [MIP41c4-SP39: RWF-0x Core Unit Facilitator](https://forum.makerdao.com/t/mip41c4-sp-rwf-0x-core-unit-facilitator-onboarding/16969)

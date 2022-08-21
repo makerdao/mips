@@ -9,9 +9,11 @@ Contributors:
 Tags: spf
 Status: RFC
 Date Proposed: 2022-08-10
-Date Ratified: 
+Date Ratified:
 Amount Requested: 50,000 DAI
 Recipient Address: TBD
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp6-legal-domain-work-on-greenlit-collateral-bibta-special-purpose-fund/17166
+Ratification Poll URL:
 ```
 
 ## Sentence Summary
@@ -23,7 +25,7 @@ SPF to request 50k DAI advance for legal expenses relating to domain work in the
 
 ## Motivation
 
-SPF to request 50k DAI advance for legal expenses relating to domain work in the context of the greenlit bIBTA application. 
+SPF to request 50k DAI advance for legal expenses relating to domain work in the context of the greenlit bIBTA application.
 
 The domain strategy for this collateral type is to evaluate the legal ramifications of onboarding a bIBTA vault. If the legal review is favorable, technical work can continue. If the legal review is unfavorable, it follows to avoid further investment and recommend deprioritizing.
 
@@ -69,5 +71,5 @@ Contact Email/Handle: TBU during RFC
 Date Added: 2022-08-10
 Total Amount: 50,000 In Dai.
 Wallet Address: TBU during RFC Public wallet address of Multi-Sig.
-Comptroller signers: TBU during RFC
+Comptroller signers: @Aes, @prose11
 ```

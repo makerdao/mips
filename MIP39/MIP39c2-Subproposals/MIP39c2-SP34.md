@@ -106,3 +106,10 @@ As such, if RWF-0x is for any reason, not approved, RWF-001 will continue to ope
 During the interim period, @christiancdpetersen will support the implementation of Monetalis MIP65 and other strategic finance initiatives greenlit and/or approved by Maker token holders and be compensated through RWF-001. RWF-0x will assume such amounts as a deduction from its budget when the actual budget split occurs. @christiancdpetersen will maintain detailed time and other records to evidence such amounts.
 
 After the formal split into RWF-001 and RWF-0x, @christiancdpetersen will provide support to the Strategic Finance Core Unit (SF-001) on various initiatives brought to the Maker token holders by SF-001. For such work, @christiancdpetersen’s time and any third-party legal expenses will be paid from the RWF-0x budget.
+
+---
+
+## Related Documents
+
+- [MIP40c3-SP78: RWF-0x Budget Proposal through 2022](https://forum.makerdao.com/t/mip40c3-sp-rwf-0x-budget-proposal-through-2022/16968)
+- [MIP41c4-SP39: RWF-0x Core Unit Facilitator](https://forum.makerdao.com/t/mip41c4-sp-rwf-0x-core-unit-facilitator-onboarding/16969)

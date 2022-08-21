@@ -9,9 +9,11 @@ Contributors:
 Tags: spf
 Status: RFC
 Date Proposed: 2022-08-16
-Date Ratified: 
+Date Ratified:
 Amount Requested: 30,000 DAI
 Recipient Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280
+Ratification Poll URL:
 ```
 
 ## Sentence Summary
@@ -27,7 +29,7 @@ This SPF reimburses the Strategic Finance Core Unit (SF-001) team for advancing 
 
 MIP65 was approved by the Maker community but has been stalled for some weeks due to the lack of work on the legal front.
 
-@christiancdpetersen accepted to work on it, but so far funding isn't secured despite best attempts of CES. 
+@christiancdpetersen accepted to work on it, but so far funding isn't secured despite best attempts of CES.
 
 SF-001 has decided to advance the funds and is asking for reimbursement to pay for regular order of business.
 
@@ -44,7 +46,7 @@ Legal Work on MIP65 Special Purpose Fund
     * Review of the agreement between entities and services providers.
     * Writeup of a Legal Structure and Governance Appropriateness Verification.
     * Other open legal review questions identified along the way.
-* The deliverable will be a Legal Structure and Governance Appropriateness Verification to be ratified by a RWF facilitator according to MIP65.
+* The deliverable will be a Legal Structure and Governance Appropriateness Verification to be ratified by a RWF Facilitator according to MIP65.
 * @christiancdpetersen is the brain behind the RWA Foundation and knows MakerDAO governances needs quite well. There is no one better suited for this task.
 
 ### Funding Breakdown
