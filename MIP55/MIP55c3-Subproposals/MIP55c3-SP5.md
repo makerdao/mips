@@ -7,11 +7,12 @@ MIP55c3-SP#: 5
 Author(s): @ACREinvest 
 Contributors:
 Tags: spf, meta-governance
-Status: RFC
+Status: Withdrawn
 Date Applied: 2022-06-22
-Date Ratified: yyyy-mm-dd
+Date Ratified: N/A
 Amount Requested: 525,000 DAI
 Recipient Address: TBD
+Extra: This proposal has been [withdrawn by its author](https://forum.makerdao.com/t/mip55c3-sp5-interim-chief-legal-officer/15981/118)
 ```
 
 ## Sentence Summary
