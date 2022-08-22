@@ -9,10 +9,11 @@ Author(s): @travinimmunefi
 Contributors: @psychonaut
 Tags: cu-is-001, bug-bounty
 Status: Accepted
-Date Applied: 2021-12-08
+Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip64-bug-bounty-program-for-makerdao-critical-infrastructure/12096
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWkPoVv
+Extra: This MIP has been amended. See [MIP4c3-SP1](https://mips.makerdao.com/mips/details/MIP4c3SP1), [MIP4c3-SP3](https://mips.makerdao.com/mips/details/MIP4c3SP3), [MIP4c2-SP17](https://mips.makerdao.com/mips/details/MIP4c2SP17). The original version can be found [here](https://github.com/makerdao/mips/blob/a7f9111eaf74aa32892893778bc54bcffbd55f61/MIP64/MIP64.md).
 ```
 
 ## Sentence Summary
@@ -21,7 +22,7 @@ MIP64 establishes the bug bounty program for critical infrastructure of MakerDAO
 
 ## Paragraph Summary
 
-MIP64 is part of the ongoing fulfillment of one of the mandates of the Immunefi Security Core Unit (IS-001). The part which it fulfills is “Bug Bounty Program”, where IS-001 will orient its growing community of security researchers on the Immunefi bug bounty platform towards the Maker ecosystem. The program will attract whitehat hackers who find vulnerabilities and responsibly disclose them, so they are fixed before they can be exploited. Additionally, this provides an incentivized opportunity for disclosure of vulnerabilities instead of exploitation for blackhat hackers.
+The Bug Bounty Program is part of the ongoing fulfillment of one of the mandates of the Immunefi Security Core Unit (IS-001). IS-001 will orient its growing community of security researchers on the Immunefi bug bounty platform towards the Maker ecosystem. The program will attract whitehat hackers who find vulnerabilities and responsibly disclose them, so they are fixed before they can be exploited. Additionally, this provides an incentivized opportunity for disclosure of vulnerabilities instead of exploitation for blackhat hackers.
 
 ## Component Summary
 
@@ -85,7 +86,7 @@ IS-001 may choose to adopt a new severity system if it deems it to be better for
 
 #### Accepted Impacts
 
-Only the following impacts would be considered as in-scope for the bug bounty program. All other bug reports of course may still be reported directly to the respective Core Units outside of the bug bounty program.
+As a starting point, only the following impacts would be considered as in-scope for the bug bounty program. However, the published bug bounty program is authoritative when there are differences. Modifications are at the discretion of IS-001 in concert with feedback from steward core units. All other bug reports, of course, may still be reported to the respective Core Units outside of the bug bounty program.
 
 #### Smart Contracts
 
@@ -176,7 +177,7 @@ High smart contract vulnerabilities will be further capped at up to 100% of the 
 |Medium|USD 2,500|
 |Low|USD 1,000|
 
-Critical website and application bug reports will be rewarded with USD 100,000 only if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote. All other impacts that would be classified as Critical would be rewarded no more than USD 50,000.
+Critical website and application bug reports will be rewarded with USD 100,000 only if the impact leads to a direct loss in funds or a manipulation of the votes or the voting result, as well as the modification of its display leading to a misrepresentation of the result or vote. All other impacts that would be classified as Critical would be rewarded USD 50,000.
 
 
 ### MIP64c4: Rules and Eligibility
@@ -216,13 +217,13 @@ The steward Core Unit receives a credible bug report and determines whether ther
 
 The payment process is triggered once the steward Core Unit approves the bug report as valid, as IS-001 and ChainSecurity, if relevant, have already signed off on the bug report by that time. A fix does not necessarily need to be implemented before the payment is released. However, payment may be delayed if the announcement of a payout draws unwanted attention to the existence of a vulnerability.
 
-All payments are paid out in DAI, assuming a full 1:1 ratio with the USD. However, if the price of DAI deviates from the USD value by more than 1%, the amount of DAI will be adjusted. All payments are made directly by executive spell proposed by IS-001 in accordance with the [executive vote implementation process](https://docs.google.com/spreadsheets/d/1w_z5WpqxzwreCcaveB2Ye1PP5B8QAHDglzyxKHG3CHw/) with no middleman involved to hold funds. Thus, the transfer is made directly to the bug bounty hunter. If any transfer results in exhaustion of the surplus buffer, then flop auctions will recapitalize the system. Therefore, no upfront budget allocation is required for this MIP.
+All payments are paid out in DAI, assuming a full 1:1 ratio with the USD. However, if the price of DAI deviates from the USD value by more than 1%, the amount of DAI will be adjusted. There are two pathways for payment. For small payments, IS-001 will send the bug bounty payment from the Core Unit's operational wallet. For large payments, DAI will be sent directly by executive spell in accordance with the [executive vote implementation process](https://docs.google.com/spreadsheets/d/1w_z5WpqxzwreCcaveB2Ye1PP5B8QAHDglzyxKHG3CHw/) with no middleman involved to hold funds. Thus, the transfer is made directly to the bug bounty hunter. If any transfer results in exhaustion of the surplus buffer, then flop auctions will recapitalize the system. Therefore, no upfront budget allocation is required for this MIP. IS-001 will decide whether to use the small or large payment process.
 
-In order to keep the amount of executive spells to be created to a manageable level, all verified bug reports eligible for a reward in one calendar month will be bundled into one executive spell in the first week of the next calendar month. Further exploration to optimize the payout process will be done by IS-001 in order to make the bug bounty program more attractive to bug bounty hunters and to reduce operational overhead in terms of payouts relevant to the size of the payout. Additionally, the format of the executive spell proposal will be the same with [MIP14c2](https://github.com/makerdao/mips/blob/master/MIP14/MIP14c2-Subproposal-Template.md) in order to maintain clarity and uniformity.
+In order to keep the amount of executive spells to be created to a manageable level, all verified bug reports eligible for a reward in one calendar month will be bundled into one executive spell in the first week of the next calendar month. The format of the executive spell proposal will be the same with [MIP14c2](https://github.com/makerdao/mips/blob/master/MIP14/MIP14c2-Subproposal-Template.md) in order to maintain clarity and uniformity.
 
 For bug bounty rewards over USD 1,000,000, after the first million is paid out, the remaining amount is paid out over time with up to USD 1,000,000 per consecutive month until the determined amount for payout is reached.
 
-As its standard fee, Immunefi will charge the DAO a performance fee based on the reward paid out to the bug bounty hunter, charged on top of the reward. Per vulnerability, the first USD 5m paid out would be charged with the standard 10% fee. Any amount over USD 5m paid out will be charged with a discounted 8% fee. For example, a bug report that pays out USD 9m would have a fee of USD 5m * 10%, which would be USD 500k, added to USD 4m * 8%, which would be USD 320k, resulting in a net fee of USD 820k. Immunefi will charge no onboarding or maintenance fees. The first payment to the bounty hunter and Immunefi will be sent in the same executive spell. In the event that the Immunefi fee is over USD 500,000, the first USD 500,000 will be paid in the same process with the bug bounty hunter and the remaining will be paid out in the next month.
+As its standard fee, Immunefi will charge the DAO a performance fee based on the reward paid out to the bug bounty hunter, charged on top of the reward. Per vulnerability, the first USD 5m paid out would be charged with the standard 10% fee. Any amount over USD 5m paid out will be charged with a discounted 8% fee. For example, a bug report that pays out USD 9m would have a fee of USD 5m * 10%, which would be USD 500k, added to USD 4m * 8%, which would be USD 320k, resulting in a net fee of USD 820k. Immunefi will charge no onboarding or maintenance fees. For bounties that were paid using the small payment process, Immunefi fees will be aggregated together and sent as part of the monthly payment for professional services. For bounties that were paid using the large payment process, the first payment to the bounty hunter and Immunefi will be sent in the same executive spell. In the event that the Immunefi fee is over USD 500,000, the first USD 500,000 will be paid in the same process with the bug bounty hunter and the remaining will be paid out in the next month.
 
 ### MIP64c6: Postmortems and Fixing of Bugs
 

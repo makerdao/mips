@@ -6,9 +6,9 @@
 MIP40c3-SP#: 24
 Author(s): @sorenpeter 
 Contributors: @juanjuan
-Tags: dai-foundation, core-unit, cu-daif-001, budget, dai-budget, active
+Tags: dai-foundation, core-unit, cu-daif-001, budget, dai-budget
 Status: Accepted
-Date Applied: 2021-07-07
+Date Proposed: 2021-07-07
 Date Ratified: 2021-08-23
 Ratification Poll URL: https://vote.makerdao.com/polling/QmVZ2rcG?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp24-modify-dai-foundation-core-unit-budget/9238

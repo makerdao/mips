@@ -8,9 +8,11 @@ MIP to be amended: MIP39, MIP40, MIP41
 Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium, @psychonaut. @longforwisdom, @juan, @davidutro, @seth, @twblack88, @sebventures, @MadShills
 Tags: mip-amendment
-Status: RFC
+Status: Accepted
 Date of Amendment Submission: 2022-01-28
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2022-08-22
+Forum URL: https://forum.makerdao.com/t/new-mip4c2-sp15-core-unit-offboarding-process-amendments/15291
+Ratification Poll URL: https://vote.makerdao.com/polling/QmbBh8t4
 ```
 
 ## Specification

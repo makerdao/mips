@@ -8,7 +8,7 @@ Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
 Tags: core-unit, cu-gro-001, active, mandate
 Status: Accepted
-Date Applied: 2021-02-24
+Date Proposed: 2021-02-24
 Date Ratified: 2021-04-27
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp4-growth-core-unit-gro-001/6715

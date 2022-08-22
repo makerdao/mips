@@ -8,9 +8,10 @@ Author(s): @bainpmsdf
 Contributors:
 Tags: core unit, cu-dux-001, facilitator, personnel-xboarding
 Status: Accepted
-Date Applied: 2022-01-11
+Date Proposed: 2022-01-11
 Date Ratified: 2022-02-28
-Extra: Voluntary offboarding. Ratification date was set to the date the successor was voted in via MIP41c4-SP32
+Forum URL: https://forum.makerdao.com/t/mip41c5-sp4-facilitator-offboarding-from-dux-001-philip-bain/12558
+Extra: Given that Philip Bain [stepped down as Facilitator voluntarily](https://forum.makerdao.com/t/mip41c5-sp4-facilitator-offboarding-from-dux-001-philip-bain/12558), this subproposal was not voted on. Its ratification date was set to the date his successor was [voted in via MIP41c4-SP32](https://vote.makerdao.com/polling/QmR3DeK2).
 ```
 
 ## Sentence Summary

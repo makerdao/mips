@@ -11,7 +11,7 @@ Tags: process, governance, smart-contracts, living
 Type: Process
 Status: Accepted
 Date Proposed: 2020-05-21
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2020-09-18
 Dependencies:
 Replaces:
 Ratification Poll URL:

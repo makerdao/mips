@@ -8,7 +8,7 @@ Author(s): @mitchell_amazix
 Contributors: N/A
 tags: core-unit, cu-amzx-001, dai-budget
 Status: Rejected
-Date Applied: 2021-06-09
+Date Proposed: 2021-06-09
 Date Ratified: 
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme3ABdc?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp20-adding-budget-to-amazix-marketing-core-unit-amzx-001/8649

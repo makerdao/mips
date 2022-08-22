@@ -8,10 +8,11 @@ Author(s): @danik
 Contributors: @BracketJohn, @lukass, @builderman, @wouter, @juan, @Petru_Catana, @lollike, @Njoku_Emmanuel
 Tags: core-unit, cu-sas-001, budget, mkr-budget, active
 Status: Accepted
-Date Applied: 2021-10-06
+Date Proposed: 2021-10-06
 Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPnAkS4
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp44-adding-sidestream-auction-services-core-unit-mkr-budget-sas-001/10802/2
+Extra: Manual repricing has been triggered via [this forum post](https://forum.makerdao.com/t/mip40c3-sp44-adding-sidestream-auction-services-core-unit-mkr-budget-sas-001/10802/7) that details the new parameters.
 ```
 
 ## Sentence Summary

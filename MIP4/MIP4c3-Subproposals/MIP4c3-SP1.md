@@ -7,10 +7,12 @@ MIP4c3-SP#: 1
 MIP to be amended: MIP64
 Author(s): @psychonaut
 Contributors: @travinimmunefi
-Tags:
-Status: RFC
-Date of Amendment Submission: <2022-02-24>
-Date of ratification: <yyyy-mm-dd>
+Tags: amendment
+Status: Accepted
+Date of Amendment Submission: 2022-02-24
+Date of ratification: 2022-03-16
+Forum URL: https://forum.makerdao.com/t/mip4c3-sp1-amend-mip64-to-clarify-critical-web-bounty-amount/13439
+Ratification Poll URL: https://vote.makerdao.com/polling/QmQD5PDm#poll-detail
 ```
 ## Specification
 

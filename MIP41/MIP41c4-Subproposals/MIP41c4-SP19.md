@@ -1,4 +1,4 @@
- 
+
 # MIP41c4-SP19: Facilitator Onboarding, Development and User Experience Core Unit
 
 ## Preamble
@@ -9,7 +9,7 @@ Author(s): Philip Bain
 Contributors:
 Tags: core-unit, cu-dux-001, facilitator
 Status: Accepted
-Date Applied: 2021-08-11
+Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp19-facilitator-onboarding-development-and-ux-core-unit-dux-001/9779

@@ -6,9 +6,9 @@
 MIP40c3-SP#: 7
 Author(s): Smart Contract Domain Team
 Contributors: N/A
-Tags: smart-contracts, core-unit, cu-pe-001, budget, dai-budget, mkr-budget, active
+Tags: smart-contracts, core-unit, cu-pe-001, budget, dai-budget, mkr-budget
 Status: Accepted
-Date Applied: 2021-03-03
+Date Proposed: 2021-03-03
 Date Ratified: 2021-04-27
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-april-2021-governance-cycle-april-26-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp7-modify-protocol-engineering-core-unit-budget/6832
@@ -158,7 +158,7 @@ Detail:
 * At the conclusion of the year, the lump sum will remain in the multisig for the following year and may be increased at that point in time due to team growth or the desire for an increased runway.
 
 ### Smart Contract Implementation
-Protocol Engineering Core Unit Multisig: 
+Protocol Engineering Core Unit Multisig:
 `0xe2c16c308b843eD02B09156388Cb240cEd58C01c`
 - Implementation: Initial distribution to the Core Unit multisig will be manual until the Keg is in place.
 - Ownership: This multisig will be anonymous individuals selected by the Protocol Engineering Team.
@@ -183,4 +183,3 @@ Protocol Engineering Continuous Operation Multisig: `0x83e36aAA1c7b99E2D3d07789F
 `Cmooney (Protocol Engineering): 0xEeF3026eF864C9398c008195E65d16D9cb42a512`
 
 For transparency: I had previously identified keyholders as CU multisigs (namely: Protocol Engineering, the Interim DAO Multisig and the Growth CU), however due to complexity of using nested multisigs, I updated this to individuals.
-

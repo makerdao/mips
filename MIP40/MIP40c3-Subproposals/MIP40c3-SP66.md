@@ -4,14 +4,16 @@
 
 ```
 MIP40c3-SP#: 66
-Author(s): @Pon Jerry
+Author(s): @Pon Jerry, @Leggevents
 Contributors: @hexonaut, @nadia
-Tags: core-unit, cu-events-001, budget, dai-budget
-Status: RFC
-Date Applied: 2022-03-09
-Date Ratified: 
+Tags: core-unit, cu-events-001, budget, dai-budget, active
+Status: Accepted
+Date Proposed: 2022-03-09
+Date Ratified: 2022-04-25
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp66-events-core-unit-dai-budget-events-001/13777
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
 ```
- 
+
 ## Sentence Summary
 
 MIP40c3-SP66 adds the DAI budget for the Core Unit EVENTS-001: Events. The Events CU will plan and execute MakerDAO branded events within it's specified mandate.
@@ -62,7 +64,7 @@ At the end of the calendar year, all unused funds will be returned to the Maker 
 
 | Budgeted Item | Annually | Quarterly | Monthly |
 | -------- | -------- | -------- | -------- |
-|FTE Compensation    | $265,000.00    | $66,250.00    | $22,083.33 
+|FTE Compensation    | $265,000.00    | $66,250.00    | $22,083.33
 |Major Event 1 (1200-1400 attendees)    | $110,000.00   | $27,500.00    | $9,166.67
 |Major Event 2 (1200-1400 attendees)    | $110,000.00   | $27,500.00    | $9,166.67
 |Major Event 3 (1200-1400 attendees)    | $110,000.00   | $27,500.00    | $9,166.67
@@ -78,7 +80,7 @@ At the end of the calendar year, all unused funds will be returned to the Maker 
 |**Total w/ Contingency**|**$898,150.00**|**$224,537.50**|**$74,845.83**|
 
 
- 
+
 The structure below presents a prospective team structure built around the mission of providing event management to the MakerDAO Ecosystem.
 
 | Role | People |
@@ -96,12 +98,12 @@ The total people cost includes compensation and other people costs such as benef
 ### Major Events
 
 As the largest budgeted event item, the major events are to be held at major ETH conferences.  A major event aims to cater to 1200 to 1400 attendees.   Major events will introduce new themes, branded set dress and visuals to maintain a uniqueness from each other. Included in the major event sub budget are the following;
- 
+
 * Travel & food expenses related to FTEs
 * Travel & food expenses for event contractors
 * Wages of event contractors
 * Event set dress
-* 2 International artists including any related costs for management fees, artist fees, travel costs, food costs and any other contractual obligations 
+* 2 International artists including any related costs for management fees, artist fees, travel costs, food costs and any other contractual obligations
 * Ground transportation cost for FTEs, contractors & artists
 * Event venue rental
 * Event open bar costs including overages
@@ -110,13 +112,13 @@ As the largest budgeted event item, the major events are to be held at major ETH
 * Shipping of set dress
 * Shipping and procurement of event-related tools and equipment
 * Event photographer
-* Event videographer (outputs to be 1x one minute clip and 2x 30 second clips of event recap) 
+* Event videographer (outputs to be 1x one minute clip and 2x 30 second clips of event recap)
 * Event security
 * Rigging & engineering approvals
 * The following is a major event budget framework derived from the ETH Denver Maker event;
 
-| Category | Amount (DAI) | 
-| -------- | -------- | 
+| Category | Amount (DAI) |
+| -------- | -------- |
 | Travel (2 FTE's & 3 Contractors)     | $9,600.00     |
 | Accommodations/Food (2 FTE's & 3 Contractors)     | $10,900.00     |
 | Set Dress (Venue Branding, LED Logos/Installations, DJ Equitment Rental, Lighting Rental, New Visual 3D & 2D Stock, Visual Renderfarm, Plugins/Software)    | $18,000.00     |
@@ -132,7 +134,7 @@ Minor events are to be held at major or minor ETH conferences.   A minor event a
 * Travel & food expenses related to FTEs
 * Travel & food expenses for event contractors
 * Wages of event contractors
-* 1 local artist including any related costs for management fees, artist's fees, event day ground travel, event day food costs and any other contractual obligations 
+* 1 local artist including any related costs for management fees, artist's fees, event day ground travel, event day food costs and any other contractual obligations
     *Artist optional depending on event theme and setup*
 * Ground transportation cost for FTEs, contractors & artists
 * Event venue rental
@@ -143,11 +145,11 @@ Minor events are to be held at major or minor ETH conferences.   A minor event a
 * Shipping event-related tools and equipment
 * Event photographer
 * Event security
- 
+
 The following is a minor event budget framework derived from the ETH Amsterdam Maker event;
 
-| Category | Amount (DAI) | 
-| -------- | -------- | 
+| Category | Amount (DAI) |
+| -------- | -------- |
 | Travel (2 FTE's & 2 Contractors)     | $6,500.00     |
 | Accommodations/Food (2 FTE's & 2 Contractors)     | $6,000.00    |
 | Set Dress (Venue Branding, DJ Equitment Rental, Lighting Rental, Visual Renderfarm, Plugins/Software)     | $6,000.00    |
@@ -157,7 +159,7 @@ The following is a minor event budget framework derived from the ETH Amsterdam M
 |Misc (Shipping, COVID Tests, Onsite Tools/Equipment, Overhead, Contingency|$9,300.00
 |**Total**|**$48,000.00**
 
- 
+
 ### Visual/Design/Lighting Artist Retainer
 
 Major events will include new visual and lighting elements.  To facilitate the consistency of high-quality visual & lighting elements across all major events, the Events CU budget has included a retainer for a contract visual animator.  The goal is to provide the visual artist with a retainer so the commitment is locked into the entire series of major events for the fiscal year.  By doing so, the CU can ensure quality, consistency and delivery of visual elements for major events.  
@@ -165,7 +167,7 @@ Major events will include new visual and lighting elements.  To facilitate the c
 The retainer has been calculated based on a daily rate of $555 provided by industry professionals with an estimated workload of 30 days per major event.
 
 ### Overhead and Operational cost
-* Overhead and operation costs are include the following; 
+* Overhead and operation costs are include the following;
 * Rental for workshop for set dress, lighting and visual building and testing
 * Financial & accounting fees
 * Social media & promotional digital content costs
@@ -174,3 +176,27 @@ The retainer has been calculated based on a daily rate of $555 provided by indus
 
 ### Contingency
 The contingency acts as a safety buffer against any unknown or unexpected costs.  The contingency was calculated to be 15% of the entire budget.  Any unused funds would be returned to the Maker protocol.
+
+## Partnerships
+
+The Events CU plans to leverage partnerships with other protocols to offset the event costs.  Our goal for each event is to partner with other protocols to cost split.  As an example 50%-MakerDao, 25%-Partner 1, 25%-Partner 2.  MakerDao would always retain a 50% share minimum and have complete control over the creative direction and the event itself.
+
+To demonstrate how this strategy applies to the requested budget, the following is a breakdown of how the budget would look if the team is successful at cost splitting at all the planned events at 50% MakerDao and 50% Partners.
+
+**Note the following is only for demonstration purposes and not the requested budget for the CU.  We feel this accurately highlights the likely spend scenario of this CU.  We have only included foreseen expenses so have not included the contingency**
+
+| Budgeted Item | Annually |
+| -------- | -------- |
+|FTE Compensation    | $265,000.00    |
+|Major Event 1 (50% share of requested budget)    | $55,000.00   |
+|Major Event 2 (50% share of requested budget)    | $55,000.00   |
+|Major Event 3 (50% share of requested budget)    | $55,000.00   |
+|Minor Event 1 (50% share of requested budget)    | $24,000.00   |
+|Minor Event 2 (50% share of requested budget)    | $24,000.00   |
+|Visual/Design/Lighting Artist Retainer    | $50,000.00  |
+|Overhead & Operation Costs    | $40,000.00  |
+|||
+|**Total**    | **$568,000.00**  |
+|||
+
+Under this strategy, the sum of **$330,150.00** from the requested budget would be returned to the DAO.

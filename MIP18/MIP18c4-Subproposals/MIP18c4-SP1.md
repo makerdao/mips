@@ -8,7 +8,7 @@ Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: n/a
 Status: Accepted
 Date of Submission: 2020-07-07
-Date of Ratification: 2020-07-28
+Date Ratified: 2020-07-28
 ```
 ## Sentence Summary
 

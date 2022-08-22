@@ -6,9 +6,10 @@ MIP40c3-SP#: 65
 Author(s): @Pon Jerry
 Contributors: @hexonaut
 Tags: core-unit, cu-events-001, budget, mkr-budget
-Status:RFC
-Date Applied: 2022-03-09
-Date Ratified: 
+Status: Withdrawn
+Date Proposed: 2022-03-09
+Date Ratified:
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp65-events-core-unit-mkr-budget-events-001/13776
 ```
 
 ## Sentence Summary
@@ -42,8 +43,8 @@ The Estimated MKR Expenditure has been calculated using the formula given in the
 
 
 | Vesting Date | MKR Amount |
-| -------- | -------- | 
-| March 9, 2023     | 40.6    | 
+| -------- | -------- |
+| March 9, 2023     | 40.6    |
 |Sept 9, 2023| 20.3|
 |March 9, 2024|20.3|
 |Sept 9, 2024|20.3|

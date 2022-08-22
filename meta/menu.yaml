@@ -71,6 +71,10 @@ data:
             name: 'DUX-001: Development and UX'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-dux-001)&_Archive=$AND(NOT(%23active),%23cu-dux-001)
+          - id: events-001
+            name: 'EVENTS-001: Events'
+            href: >-
+                https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-events-001)&_Archive=$AND(NOT(%23active),%23cu-events-001)
           - id: gov-001
             name: 'GOV-001: Governance'
             href: >-
@@ -83,10 +87,6 @@ data:
             name: 'IS-001: Immunefi Security'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Immunefi%20Security%20Core%20Unit%20(IS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-is-001)&_Archive=$AND(NOT(%23active),%23cu-is-001)
-          - id: mds-001
-            name: 'MDS-001: MakerDAO Shop'
-            href: >-
-                https://mips.makerdao.com/mips/list?customViewName=MakerDAO%20Shop%20Core%20Unit%20(MDS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-mds-001)&_Archive=$AND(NOT(%23active),%23cu-mds-001)
           - id: ora-001
             name: 'ORA-001: Oracles'
             href: >-
@@ -106,7 +106,7 @@ data:
           - id: sas-001
             name: 'SAS-001: Sidestream Auction Services'
             href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Sidestream%20Auction%20Services%%20Core%20Unit%20(SAS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sas-001)&_Archive=$AND(NOT(%23active),%23cu-sas-001)
+                https://mips.makerdao.com/mips/list?customViewName=Sidestream%20Auction%20Services%20Core%20Unit%20(SAS-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sas-001)&_Archive=$AND(NOT(%23active),%23cu-sas-001)
           - id: ses-001
             name: 'SES-001: Sustainable Ecosystem Scaling'
             href: >-

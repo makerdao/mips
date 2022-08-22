@@ -8,7 +8,7 @@ Author(s): Louis Baudoin (@louismerkle), Ohad Barta
 Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, Louis Baudoin
 Tags: core-unit, cu-sne-001, facilitator, active
 Status: Accepted
-Date Applied: 2021-08-09
+Date Proposed: 2021-08-09
 Date Ratified: 2021-09-27  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmesWgnC?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp20-facilitator-onboarding-for-starknet-engineering-core-unit-sne-001/9782

@@ -6,10 +6,12 @@
 MIP40c3-SP#: 59
 Author(s): @LongForWisdom, @prose11
 Contributors: @patrick_J
-Tags: core-unit, cu-gov-001, budget, dai-budget
-Status: Formal Submission
-Date Applied: 2022-02-09
-Date Ratified: <yyyy-mm-dd>
+Tags: core-unit, cu-gov-001, budget, dai-budget, active
+Status: Accepted
+Date Proposed: 2022-02-09
+Date Ratified: 2022-03-28
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSBytmr?network=mainnet#poll-detail
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp59-govalpha-budget-2022-23/13144
 ```
 
 ## Sentence Summary

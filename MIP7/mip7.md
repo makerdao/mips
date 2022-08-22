@@ -16,6 +16,7 @@ Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL: 
 Forum URL: https://forum.makerdao.com/t/mip7-onboarding-and-offboarding-domain-teams-for-collateral-onboarding/1909
+Extra: This MIP has been amended. See [MIP4c2-SP18](https://mips.makerdao.com/mips/details/MIP4c2SP18). The original version can be found [here](https://github.com/makerdao/mips/blob/c15afc813a5008eca2213ac0bb5eba42fbdf9403/MIP7/mip7.md).
 ```
 
 ## References
@@ -53,6 +54,7 @@ The Maker Protocol requires a decentralized workforce in order to onboard new co
 
 ### MIP7c1: Domain Team Descriptions
 
+- **Collateral Engineering Services Teams** are responsible for managing the collateral onboarding and maintenance process and may include technical advisory services, collateral assessments, collateral process enhancements, and creating the technical work product independently or inconjunction with the Smart Contracts Teams for collateral onboarding proposals and maintenance activities.
 - **Oracle Teams** are responsible for designing oracle feed mechanisms for new collateral types, compelling the oracles to upgrade their nodes with new price feeds for new collateral types via MIP10, and creating the oracle work product for collateral onboarding.
 - **Smart Contracts Teams** are responsible for developing and deploying the collateral adapter for new collateral onboarding, and creating the technical work product for collateral onboarding proposals.
 - **Risk Teams** are responsible for creating the risk construct for a collateral onboarding proposal. As a part of the collateral on-boarding process, they also need to get a general model ratified on which they can base their risk construct.
@@ -94,7 +96,13 @@ Team Name: The name of the onboarded domain team.
 	- **Domain:** Risk
 	- **Date Added:** 2020-06-25 [Ratification Vote](https://mkrgov.science/executive/0x1d51ca29e35b6ce30167f634dd21376da1341d9b)
 
-**4. Legal Domain Teams:**
+**4. Collateral Engineering Services Domain Teams:**
+- **Team Name: CES-001**
+	- **Sub-proposal Number (MIP7c3-SP):** 7
+	- **Domain:** Collateral Engineering Services
+	- **Date Added:** 2022-04-25 [Ratification Poll](https://vote.makerdao.com/polling/QmVAD1ZD)
+
+**5. Legal Domain Teams:**
 
 ---
 ### MIP7c3: Domain Team Onboarding

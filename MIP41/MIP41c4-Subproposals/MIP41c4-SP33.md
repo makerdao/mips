@@ -6,17 +6,19 @@
 MIP41c4-SP#: 33
 Author(s): @PonJerry
 Contributors:
-Tags: core-unit, cu-events-001, facilitator
-Status:RFC
-Date Applied: 2022-03-09
-Date Ratified: <yyyy-mm-dd>
+Tags: core-unit, cu-events-001, facilitator, active
+Status: Accepted
+Date Proposed: 2022-03-09
+Date Ratified: 2022-04-25
+Forum URL: https://forum.makerdao.com/t/mip41c4-sp33-events-core-unit-facilitator-onboarding-jon-perry-events-001/13775
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
 ```
 
 ## Sentence Summary
-This sub proposal onboards Jon Perry as the Facilitator for EVENTS-001.
+This subproposal onboards Jon Perry as the Facilitator for EVENTS-001.
 
 ## Paragraph Summary
-This sub proposal onboards Jon Perry as the Facilitator for EVENTS-001.  As the facilitator, he will be responsible for ensuring the Events CU achieves its mandate of producing branded events for MakerDAO to the highest level of quality, transparency and professionalism.
+This subproposal onboards Jon Perry as the Facilitator for EVENTS-001.  As the facilitator, he will be responsible for ensuring the Events CU achieves its mandate of producing branded events for MakerDAO to the highest level of quality, transparency and professionalism.
 
 ## Specification
 

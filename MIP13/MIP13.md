@@ -152,6 +152,13 @@ Note that the subproposal code should link to the relevant subproposal.
 - Subproposal: [MIP13c3-SP11](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP11.md)
 - Date Ratified: 2021-08-23
 
+#### MIP13c3-SP12
+
+- Declaration Statement:
+	> Investing in short-term bonds
+- Subproposal: [MIP13c3-SP12](https://github.com/makerdao/mips/blob/master/MIP13/MIP13c3-Subproposals/MIP13c3-SP12.md)
+- Date Ratified: 2022-03-28
+
 ---
 
 ### MIP13c3: Declaration of Intent Process

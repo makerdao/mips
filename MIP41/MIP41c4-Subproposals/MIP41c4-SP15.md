@@ -8,7 +8,7 @@ Author: Kathleen Chu
 Contributors:
 Tags: core-unit, cu-cpm-001, facilitator
 Status: Rejected
-Date Applied: 2021-06-08
+Date Proposed: 2021-06-08
 Date Ratified: <yyyy-mm-dd>
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbWeLjJ?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp15-facilitator-onboarding-cpm-001/8619
