@@ -1,20 +1,20 @@
-# MIP38: DAO Primitives State
+# MIP38: Core Unit MIP Set Definitions 
 
 ## Preamble
 ```
 MIP#: 38
-Title: DAO Primitives State
-Author(s): @juanjuan
-Contributors: @elprogreso, @iammeeoh
+Title: Core Unit MIP Set Definitions 
+Author(s): @juanjuan, @blimpa
+Contributors: @elprogreso, @iammeeoh, @gala, @twblack88
 Tags: general, core-unit-framework, mip-set, core-unit-framework-mipset, living
 Type: Informational
 Status: Accepted
-Date Proposed: 2021-01-18
-Date Ratified: 2021-25-03
-Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
+Date Proposed: 
+Date Ratified: 
+Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12, MIP4c2-SP15
 Replaces: n/a
-Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
-Forum URL: https://forum.makerdao.com/t/mip38-dao-primitives-state/6095
+Ratification Poll URL: 
+Forum URL: 
 ```
 
 ## References
@@ -23,40 +23,61 @@ N/A
 
 ## Sentence Summary
 
-DAO Primitives State is a MIP that keeps track of all the states related to Core Units, Budgets and Facilitators.
+MIP38 is the fundamental MIP in the Core Unit MIP Set. The definitions it contains hold the Core Unit MIP Set together.
 
 ## Paragraph Summary
 
-DAO Primitives State is a MIP that keeps track of the current state related to Core Units, Budgets and Facilitators. The state of the Primitives is maintained in the DAO Primitives MIP. The Primitives cannot be modified through this MIP but by the corresponding dedicated MIP Component in the MIP Set.
+MIP38 is the fundamental MIP in the Core Unit MIP Set, both defining the MIP Set and providing a framework. Core Units ---further defined below--- are the basic workforce divisions that Maker Governance can oversee, manage and prioritize.
 
+MIP38 contains a list intended to keep track of Core Units, their Budgets, and Facilitators. Core Units cannot be modified through this MIP but by using the corresponding dedicated MIP Component in the MIP Set.
 ## Component Summary
 
-**MIP38c1: Core Unit State Maintenance**
-This component defines the Core Unit State list, its format and its upkeep.
+**MIP38c1: Core Unit MIP Set Framework**
 
-**MIP38c2: Core Unit State**
-The component that contains all of the DAO Primitives State, with Core Units as the key.
+This component provides the basic definitions for the Core Unit Framework.
+
+**MIP38c2: Core Unit List**
+
+This component defines the Core Unit List, its format, and its upkeep.
 
 ## Motivation
 
-This MIP lays down a basic structure based on Core Units (MIP39) capable of supporting the increasing complexity of the DAO and its continuous expansion. It also documents and keeps track of the state of the elements that make up this new structure and their dependencies.
+This MIP provides a basic structure based on Core Units, further defined below, capable of supporting the increasing complexity of the DAO and its continuous expansion. This MIP also contains a list that keeps track of existing and offboarded Core Units.
 
 Under its stripped-down, homogeneous nature, this structure avoids the hassle of ad-hoc implementations that are hard to analyze and interface.
 
-Thinking forward, it also provides Governance with a straightforward process to fund teams beyond the dissolution of the Foundation.
-
 ## Specification / Proposal Details
 
-### MIP38c1: Core Unit State Maintenance
+#### Core Unit
 
-This dataset contains all of the Core Units approved by the community, alongside the Core Units' data. It includes:
-- Core Unit Mandates
-- Budget Implementation and Breakdown
+**Core Units are the basic workforce divisions that Maker Governance can oversee, manage and prioritize**. Core units are managed by one or more Facilitators (further defined in MIP41) who have access to a Budget (further defined in MIP40) that must be put to use to fulfill the Core Unit's Mandate (further defined in MIP39).
+
+Core Units are established across three MIPs that, at inception, must be ratified simultaneously:
+
+- **MIP39: Core Unit Onboarding and Offboarding Framework**
+- **MIP40: Core Unit Budget Framework**
+- **MIP41: Core Unit Facilitator Framework**
+
+More precisely, each Core Unit is defined via at least three subproposals:
+
+- One MIP39c2 subproposal establishing the **onboarding** of the Core Unit. Core Unit onboarding, modification and offboarding are further defined in MIP39: Onboarding and Offboarding Framework. 
+- One or more MIP40c3 subproposals that assign a **budget** to the Core Unit. The Core Unit budget is further defined in MIP40: Budget Framework.
+- One or more MIP41c4 subproposals that designate a **Facilitator** for the Core Unit. The Facilitator role is further defined in MIP41: Facilitator Framework.
+
+Collectively, these subproposals define and ---upon approval by Maker Governance--- onboard a Core Unit.
+
+### MIP38c2: Core Unit List
+
+This list contains all of the Core Units approved by Governance, alongside the Core Units' key information:
+
+- Core Unit Mandates.
+- Budget Implementation and Breakdown.
 - Facilitator name, information, and commitment.
-- Key Dates
+- Relevant Dates.
 
-This dataset is updated by the MIP Editors when a subproposal from MIP39, MIP40, or MIP41 becomes accepted.
+This list is updated by the MIP Editors when a subproposal from MIP39, MIP40, or MIP41 is ratified.
 
+Offboarded Core Units are archived at the end of the list under *Offboarded Core Units*. 
 
 **List Entry Template:**
 

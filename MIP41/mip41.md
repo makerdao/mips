@@ -6,7 +6,7 @@
 MIP#: 41
 Title: Facilitator Framework
 Author(s): @juanjuan
-Contributors: @elprogreso, @iammeeoh
+Contributors: @elprogreso, @iammeeoh, @blimpa, @gala, @twblack88
 Tags: process, core-unit-framework, personnel-xboarding, mip-set, core-unit-framework-mipset
 Type: Process
 Status: Accepted
@@ -25,11 +25,11 @@ Forum URL: https://forum.makerdao.com/t/mip41-facilitator-framework/6098
 
 ## Sentence Summary
 
-MIP41: Facilitator Framework contains a framework with subproposal processes for managing Facilitators and modifying them in the DAO Primitives State MIP.
+MIP41: Facilitator Framework describes the processes for onboarding and offboarding Core Units' Facilitators.
 
 ## Paragraph Summary
 
-MIP41: Facilitator Framework contains a framework with subproposal processes for managing Facilitators and modifying them in the DAO Primitives State MIP. Facilitators are the accountable individuals responsible for interfacing between Maker Governance and the Contributors and different resources to achieve the Core Objectives of the Protocol. Facilitators are always attached to one or more Core Units and cannot exist in a void, i.e., Facilitators are Facilitators only inasmuch as they are attached to at least one Core Unit.
+MIP41: Facilitator Framework describes the processes for onboarding and offboarding Core Unit Facilitators. Facilitators are the accountable individuals responsible for interfacing between Maker Governance, the Contributors, and external resources to achieve the Core Objectives of the Protocol. Facilitators are always attached to one or more Core Units and cannot exist in a void, i.e., Facilitators are Facilitators only *if* they are attached to at least one Core Unit.
 
 ## Component Summary
 
@@ -37,20 +37,19 @@ MIP41: Facilitator Framework contains a framework with subproposal processes for
 Gives an overview of the important characteristics of the Facilitator Framework MIP.
 
 **MIP41c2: Facilitator Governance Powers**
-Specifies the unique powers that Facilitators have when interacting with the Maker Governance processes.
+Specifies the Facilitators' unique powers when interacting with the Maker Governance processes.
 
 **MIP41c3: Governance Facilitator Governance Powers**
 Specifies the special case of Governance Facilitators and their central role in the Maker Governance processes.
 
 **MIP41c4: Facilitator Onboarding**
-A process component that defines the process for onboarding a new Facilitator to a Core Unit or moving an existing Facilitator to a different Core Unit.
+A process component that defines the process for onboarding a Facilitator to a Core Unit.
 
 **MIP41c5: Facilitator Offboarding (Subproposal Process)**
-A process component that defines the process for removing a Facilitator from a Core Unit.
+A process component that defines the process for removing a Facilitator.
 
 **MIP41c6: Interim Facilitators and the Fallback Decision Process**
-Specifies how Interim Facilitators function, the situations where they are necessary, and how they are invoked.
-
+Specifies what Interim Facilitators are, the situations where they are necessary, and how they are appointed.
 ## Motivation
 
 A Facilitator is the most trusted actor in the MakerDAO community; they are given a high degree of autonomy and have resources and governance powers at their disposal. This Framework provides Governance with a simple way of managing and holding Facilitators accountable through the MIPs process.
@@ -59,11 +58,11 @@ A Facilitator is the most trusted actor in the MakerDAO community; they are give
 
 ### MIP41c1: The Facilitator Framework
 
-Facilitators play a key role in the Maker ecosystem by acting as the link between Maker Governance and the Contributors. Facilitators are always attached to a Core Unit that defines their primary responsibility and their Budget and Governance Powers.
+Facilitators play a key role in the Maker ecosystem by acting as the link between Maker Governance and the Contributors. Facilitators are always attached to a Core Unit that represents their primary responsibility and their Budget and Governance Powers. The Budget they manage and their Governance Powers are dependent on the existence of that Core Unit.
 
 The Core Unit Budget allows the facilitators to meet their responsibilities by hiring Contributors and purchasing services and products. Facilitators attached to a Core Unit administer the Budget for that Core Unit. How this is implemented in practice depends on the specific Budget Implementation.
 
-The Facilitator Commitment is an essential part of a Facilitator proposal, where the Facilitator specifies their perspective, in as great detail as possible, on how to successfully achieve the Core Unit Mandate of the Core Unit they are proposing to onboard to, and how they plan to organize and provide accountability into their use of the budget.
+The Facilitator Commitment is an essential part of a Facilitator proposal. There, the Facilitator specifies their perspective on how to successfully achieve the Mandate of the Core Unit they will be attached to, how they plan to organize, and how they will develop accountability.
 
 The Facilitator Governance Powers enable the Facilitators to efficiently interact with Maker Governance processes related to their Core Unit.
 
@@ -71,26 +70,25 @@ The Facilitator Governance Powers enable the Facilitators to efficiently interac
 
 ### MIP41c2: Facilitator Governance Powers
 
-Facilitators have special privileges in the Maker Governance Framework due to their trusted status in the Community and the requirements of their role as Facilitator of a Core Unit.
+Facilitators have special privileges in the Maker Governance Framework:
 
-Facilitators have the power to propose expedited, urgent or emergency Executive Votes (defined in MIP24) related to their Core Unit.
-
-Facilitators have the power to propose weekly non-standard Governance Polls (defined in MIP16) related to their Core Units.
-
-Facilitators have the power to propose weekly Executive Votes (defined in MIP16) related to their Core Units.
-
-Facilitator governance powers for particular Core Units can be extended through MIPs. They may include technical access to smart contracts like multisigs or other privileges in the governance process.
+- Facilitators have the power to propose expedited, urgent or emergency Executive Votes (defined in MIP24) related to their Core Unit.
+- Facilitators have the power to propose weekly non-standard Governance Polls (defined in MIP16) related to their Core Units.
+- Facilitators have the power to propose weekly Executive Votes (defined in MIP16) related to their Core Units.
+- Facilitator governance powers for particular Core Units can be extended through MIPs. They may include technical access to smart contracts like multisigs or other privileges in the governance process.
 
 ---
 
 ### MIP41c3: Governance Facilitator Governance Powers
 
-The Governance Facilitator role is a special case of a Facilitator attached to a Core Unit that contains `GOV` in the Core Unit ID in the DAO Primitives State MIP.
+Governance Facilitators have extraordinary powers to respond to their responsibilities listed on [MIP0c10:Governance Facilitator Role](https://mips.makerdao.com/mips/details/MIP0#core-responsibilities).
 
-Governance Facilitators are fundamental to the operation of the various governance processes and have powers and responsibilities defined in multiple MIPs in relation to this. This includes:
-* The MIPs Framework (MIP0).
-* The weekly governance cycle (MIP16).
-* The urgent and emergency voting processes (MIP24).
+In relation to governance processes, Governance Facilitators have exceptional powers and responsibilities. These are defined in multiple MIPs like:
+
+- The MIPs Framework (MIP0).
+- The weekly governance cycle (MIP16).
+- The urgent and emergency voting processes (MIP24).
+- And others.
 
 Governance Facilitators interpret the meaning of MIPs and their practical consequences.
 
@@ -101,8 +99,6 @@ Governance Facilitators decide whether a Facilitator's proposal to the weekly cy
 ### MIP41c4: Facilitator Onboarding
 
 This process component allows Governance to onboard a new facilitator with a Facilitator Commitment.
-
-Practical control of the budget of the Core Unit is transferred as a part of this Subproposal process. Depending on the Budget Implementations, a Subproposal may contain a technical state change to modify the Budget Implementation control to correspond to the new Facilitator.
 
 The proposal parameters are:
 * Minimum feedback period: 1 month
@@ -118,13 +114,19 @@ MIP41c4 subproposals must use the template located at [MIP41c4-Subproposal-Templ
 
 This process component allows Governance to offboard a Facilitator.
 
-Depending on the Core Unit's Budget Implementations, this Subproposal may include a technical state change to remove control of the Budget Implementations from the offboarded Facilitator.
+If a vote for Core Unit offboarding passes, the Facilitator immediately loses all special powers listed on MIP41c2/ MIP41c3.
+
+The Facilitator becomes a *Retiring* Facilitator in charge of executing the unwinding process for the offboarding Core Unit (described on MIP39c3). If the Retiring Facilitator fails to execute the unwinding plan, an *Interim* Facilitator - further defined in MIP41c6 - will take over these responsibilities.
+
+A Facilitator can be offboarded without having the Core Unit they are attached to being offboarded. An Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
+
+If a Facilitator wishes to voluntarily offboard, a MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
+
+If a Facilitator goes missing, an Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
 
 The proposal parameters are:
 * Minimum feedback period: 1 month
 * Minimum frozen period: 1 week
-
-Once a Subproposal passes, the MIP Editor or Governance Facilitators modify the Core Unit's entry specified by removing the Facilitator's name and information, and their Commitment.
 
 MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposal-Template.md)
 
@@ -135,27 +137,24 @@ MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Templ
 
 #### Interim Facilitators
 
-When the Facilitator of a Core Unit becomes unavailable, an existing permanent Facilitator of another Core Unit is temporarily attached to allow the aforementioned Core Unit to maintain the continuity.
+Whenever a Core Unit finds itself with no Facilitator, an Interim Facilitator is needed to fill any gaps. The process to chose the Interim Facilitator is called "The Fallback Decision Process" and it is detailed in the heading below. However an interim facilitator is selected, Interim facilitators should clearly state their intended time of service. A two month minimum is recommended, with the option to renew.
 
-The Interim Facilitator controls the budget to continue doing regular payouts to core Contributors and pay for other critical expenses and infrastructure while a permanent Core Unit Facilitator is sought.
+If a Retiring Facilitator is willing, they may nominate an Interim Facilitator. Subject to the nominated Interim Facilitator's acceptance, they are ratified as the new Facilitator by a simple majority vote of all active facilitators.
 
-If a Core Unit has no active facilitators as a result of involuntary offboarding and has no active budget, no Interim Facilitator will be appointed unless there are winding down activities (such as returning assets to MakerDAO) that require one. An Interim Facilitator shall not be considered an active facilitator for purposes of MIP39c3.
+In the event of a Core Unit offboarding, if the Retiring Facilitator is uncooperative, the Interim Facilitator will be in charge of overseeing/executing the unwinding process. In the event of a Facilitator offboarding, they will be in charge of ensuring the functional continuity of the Core Unit until a new permanent Facilitator is ratified.
+
+The incentive to volunteer as an Interim Facilitator is the compensation tied to a Core Unit unwinding plan. In the event of a missing, failed succession, or headless core unit, the incentive to volunteer as an Interim Facilitator is a transfer of the former Facilitator's compensation for an interim timeline.
+
+If a Core Unit has no active Facilitators as a result of involuntary offboarding and has no active budget, no Interim Facilitator will be appointed unless there are winding down activities that require one.
 
 #### The Fallback Decision Process
 
-Interim Facilitators are designated based on the Succession Plan publicly documented by a Core Unit at onboarding. An Interim Facilitator appointed based upon a succession plan must be a current or former member of that Core Unit.
+In the absence of interim facilitator selection or appointment, the fallback decision process determines an interim facilitator. An instant runoff vote is the recommended process. To move quickly, the vote should be conducted offchain with minimum quorum and results publicly accessible . For the first fallback vote, a list of volunteer Interim Facilitators and current active Facilitators is put up for one week. If a candidate has more than half of the vote based on first-choices that candidate wins and becomes the Interim Facilitator. Should the first fallback vote fail quorum, then the same list is put to all currently active Facilitators, who choose to vote, on a shorter time frame. 48 hours is recommended.
 
-In the event a Core Unit does not have a succession plan publicly documented, or the candidate(s) named in it are not willing or eligible to become Interim Facilitator, the outgoing facilitator may nominate another Interim Facilitator, subject to approval by a simple majority vote of all active facilitators.
+Regardless of which vote succeeds, the Interim Facilitator is approved on a short cycle and instantly assigned to that Core Unit.
+The Interim Facilitator, once approved on a short cycle, is assigned to that Core Unit.
 
-In the event a Core Unit has no succession plan, the candidate(s) are not willing or eligible to become Interim Facilitator, and the outgoing facilitator is unable or unwilling to nominate a candidate able to be approved by majority vote of all active facilitators, the appointment will revert to the Fallback Decision Process, where a simple majority of all currently active Facilitators have to reach an agreement. The Fallback Decision Process can instantly designate an existing Facilitator or existing member of that Core Unit (who must agree to the decision) and assign them as an Interim Facilitator to a Core Unit that is without a Facilitator, or that has a Facilitator who has gone missing.
-
-#### The Transition
-
-Once an Interim Facilitator has been assigned to a Core Unit through the Fallback Decision Process, the Community must then work together to transition over the critical responsibilities that must be maintained to continue operations of the Protocol until a permanent Facilitator can be found to replace the Interim Facilitator.
-
-#### Budget Implementations Transitions
-
-Most importantly, this change involves transitioning control of the Budget Implementations that need to continue to run smoothly to pay out Core Unit's Contributors properly. How this is done in practice depends on the particular Budget Implementation. For example, it could involve using a multisig authority to change control of the Budget Implementation directly. Or propose an executive vote to the Weekly Governance Cycle. Or, in very time-sensitive cases (such as active embezzlement, Facilitator missing), an urgent/emergency executive vote that changes the control of the Budget Implementation, or another appropriate solution that works with the specific Budget Implementations.
+If the nominated candidate refuses the role, the fallback vote cycle repeats.
 
 #### Governance Powers
 
