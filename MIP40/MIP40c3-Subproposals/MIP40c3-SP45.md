@@ -6,7 +6,7 @@
 MIP40c3-SP#: 45
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
-Tags: core-unit, cu-ora-001, budget, active
+Tags: core-unit, cu-ora-001, budget
 Status: Accepted
 Date Proposed: 2021-11-09
 Date Ratified: 2022-01-24

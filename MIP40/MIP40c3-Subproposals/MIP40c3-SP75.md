@@ -6,14 +6,15 @@
 MIP40c3-SP#: 75
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
-Tags: core-unit, cu-ora-001, budget, dai-budget, mkr-budget
-Status: Formal Submission
+Tags: core-unit, cu-ora-001, budget, dai-budget, mkr-budget, active
+Status: Accepted
 Date Applied: 2022-07-06
 Date Ratified: n/a
 Budget Start Date: 2022-07-01
 Budget End Date: 2023-06-30
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp75-modify-oracles-core-unit-budget-ora-001/16397
 Ratification Poll URL: https://vote.makerdao.com/polling/Qma3P8v9
+Extra: Winning option was C: Approve proposed budget (2022-2023) (Reduced budget exempt from further cuts for 12 months).
 ```
 
 ## Sentence Summary
