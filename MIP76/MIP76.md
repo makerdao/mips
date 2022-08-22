@@ -7,9 +7,9 @@ MIP#: 76
 Author(s):  @Aes, @adcv, @SebVentures, @juanbug
 Contributors: @luca_pro, @MakerMan 
 Tags:
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-07-06
-Date Ratified: N/A
+Date Ratified: 2022-08-22
 Forum URL: https://forum.makerdao.com/t/mip76-makershire-redux/16400
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTYQskE
 ```

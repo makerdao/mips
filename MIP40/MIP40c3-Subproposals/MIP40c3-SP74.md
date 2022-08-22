@@ -6,14 +6,15 @@
 MIP40c3-SP#: 74
 Author(s): @sorenpeter
 Contributors:
-Tags: core-unit, daif-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, daif-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2022-07-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-08-22
 Budget Start Date: 2022-09-01
 Budget End Date: 2023-08-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp74-modify-dai-foundation-core-unit-budget-daif-001/16379
 Ratification Poll URL: https://vote.makerdao.com/polling/QmQJ9hYq#vote-breakdown
+Extra: Winning option was C: Bear Scenario.
 ```
 
 ## Sentence Summary
