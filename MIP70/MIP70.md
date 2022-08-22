@@ -9,12 +9,13 @@ Author(s): @g_dip
 Contributors: @maxrealestate
 Tags:
 Type:
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2022-03-04
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip70-huntingdon-valley-bank-self-contained-onboarding-strategy-execution/14468
+Extra: This proposal has been [withdrawn by its author](https://forum.makerdao.com/t/mip70-huntingdon-valley-bank-self-contained-onboarding-strategy-execution/14468/5).
 ```
 ## References
 
