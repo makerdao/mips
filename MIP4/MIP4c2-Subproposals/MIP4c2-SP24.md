@@ -18,7 +18,7 @@ Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-amend-measurement-period-for
 
 ### Motivation
 
-Current delegate participation metrics are currently calculated on a lifetime basis. This can result in it being impractical for delegates with poor initial metrics to be rehabilitated into active members of governance, but still holding large amounts of MKR delegation. Additionally, delegates with a long history of participation can unfairly benefit from the current system by continuing to receive compensation without current participation, due to the the long measurement period of current delegate metrics.
+Delegate participation metrics are currently calculated on a lifetime basis. This can result in it being impractical for delegates with poor initial metrics to be rehabilitated into active members of governance, but still holding large amounts of MKR delegation. Additionally, due to the the long measurement period of current delegate metrics, delegates with a long history of participation can unfairly benefit from the current system by continuing to receive compensation without current participation.
 
 This proposed amendment is to shorten the feedback loop for delegate participation, which is a key variable of their compensation calculation. It may result in more volatility in delegate earnings based on their recent participation, which is considered a feature.
 

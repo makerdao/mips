@@ -1,4 +1,4 @@
-# MIP40c3-SP77: Modify Core Unit Budget (IS-001)
+# MIP40c3-SP77: Modify Immunefi Security Budget (IS-001)
 
 ## Preamble
 
@@ -21,9 +21,7 @@ MIP40c3-SP77 removes all and any active budgets for the Immunefi Core Unit—Dai
 
 ### Motivation
 
-The functions of IS-001 do not require a Core Unit, and should be reduced to contracted services by Core Units that wish to retain Immunefi (the company). This is expected to result in more than 12,000 DAI a month in personnel cost savings alone.
-
-And so this Core Unit should be granted severance and offboarded.
+The functions of IS-001 do not require a Core Unit, and should be reduced to contracted services by Core Units that wish to retain Immunefi (the company). This is expected to result in more than 12,000 DAI a month in personnel cost savings alone. Therefore, this Core Unit should be granted severance and be offboarded.
 
 This is part of the list of reforms I laid out [here](https://forum.makerdao.com/t/decentralized-voter-committees-wednesday-and-thursday-9pm-cest-getting-real-edition/15777/38?u=ippy) for @rune and plan to pursue.
 

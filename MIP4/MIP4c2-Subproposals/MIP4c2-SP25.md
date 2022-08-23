@@ -18,7 +18,7 @@ Ratification Poll URL:
 
 ### Motivation
 
-MIP65 requires a certification from the RWF-001 Facilitator and the "in SES-incubation" Facilitator of the prospective Legal and Transactional Services Core Unit (LTS). As the circumstances regarding RWF-001/LTS have changed, the RWF-001 Facilitator requests that this certification requirement be [moved elsewhere](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-liquid-bond-strategy-execution/13148/112). This subproposal amends MIP65 accordingly.
+MIP65 requires a certification from the RWF-001 Facilitator and the "in SES-incubation" Facilitator of the prospective Legal and Transactional Services Core Unit (LTS). As the circumstances regarding RWF-001/LTS have changed, the RWF-001 Facilitator requests this certification requirement to be [moved elsewhere](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-liquid-bond-strategy-execution/13148/112). This subproposal amends MIP65 accordingly.
 
 ### Amended Components
 - MIP65: Monetalis Clydesdale: Liquid Bond Strategy & Execution
@@ -29,13 +29,13 @@ MIP65 requires a certification from the RWF-001 Facilitator and the "in SES-incu
 Replace the section:
 
 > **Legal Structure and Governance Appropriateness Verification**
-> 
+>
 > The Real World Finance Facilitator and the “in SES incubation” Facilitator of Legal and Transactions Services must, through a public forum post, provide a Verification of the legal and governance structure appropriateness for holding a large amount of low-risk real-world asset collateral for Maker.
 
 with the following text:
 
 > **Legal Structure and Governance Appropriateness Verification**
-> 
+>
 > *At least one community member, with legal credentials,* must, through a public forum post, *validated by at least one Facilitator*, provide a verification of the legal and governance structure appropriateness for holding a large amount of low-risk real-world asset collateral for Maker.
 
 
@@ -47,7 +47,7 @@ TBD?
 
 ### Execution Details
 
-@christiancdpetersen will be the selected community member with legal credentials reviewing the legal and structural side of the MIP65 implementation and will be posting the above required forum post when such a review is completed. This work is already ongoing and, given approval of this amendment, should not lead to undue delay in the implementation of MIP65. 
+@christiancdpetersen will be the selected community member with legal credentials reviewing the legal and structural side of the MIP65 implementation and will be posting the above required forum post when such a review is completed. This work is already ongoing and, given approval of this amendment, should not lead to undue delay in the implementation of MIP65.
 
 ### Relevant Information
 

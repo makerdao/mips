@@ -1,10 +1,10 @@
-# MIP55c3-SP7: Ambassadors Program
+# MIP55c3-SP7: Special Purpose Fund for The Ambassador Program
 
 ## Preamble
 
 ```
 MIP55c3-SP#: 7
-Author(s): @kat 
+Author(s): @kat
 Contributors: @sebix @Joserjimz
 Tags: spf
 Status: RFC
@@ -12,15 +12,15 @@ Date Proposed: 2022-08-10
 Date Ratified: (yyyy-mm-dd)
 Amount Requested: 81,000 DAI
 Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169
 ```
-
 ## Sentence Summary
 
 This subproposal aims to allocate 81,000 DAI to the Ambassador Program.
 
 ## Paragraph Summary
 
-The MakerDAO Ambassador program provides non-English speaking communities with resources and educational materials to expand the MakerDAO community. Ambassadors provide two-way translation services, engage their communities with local events, and share content produced in their language with the MakerDAO community. 
+The MakerDAO Ambassador program provides non-English speaking communities with resources and educational materials to expand the MakerDAO community. Ambassadors provide two-way translation services, engage their communities with local events, and share content produced in their language with the MakerDAO community.
 
 ## Motivation
 
@@ -34,12 +34,12 @@ Ambassador Program Special Purpose Fund.
 
 There is a huge amount of potential for MakerDAO in non-English speaking communities and a lack of educational resources as well as means for these community members to participate.  The Ambassador Program allows for these communities to engage with MakerDAO—bringing us a new wave of community members, developers, talent, and MKR holders.   
 
-The Ambassador Program has kept the LATAM community updated regarding the progress and achievements of the MakerDAO Protocol through weekly translations of the most critical updates: 
+The Ambassador Program has kept the LATAM community updated regarding the progress and achievements of the MakerDAO Protocol through weekly translations of the most critical updates:
 
 - **Weekly Relay**
 - **Forum at Glance**
 - **The Weekly Polls**
-- **The Monthly Core Unit Updates** 
+- **The Monthly Core Unit Updates**
 
 ### Evergreen Material
 
@@ -59,11 +59,11 @@ The MakerDOCs documents have been translated in a titanic quest from the Ambassa
 ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/makerdocs.png)
 
 ### Ambassadors Setting Foot on Twitter
-In addition, the Ambassador Program has been working on positioning the Maker brand for Spanish-speaking audiences through the [official account on Twitter](https://twitter.com/MakerDAO_Lat) in Spanish. It has been publishing content about: 
+In addition, the Ambassador Program has been working on positioning the Maker brand for Spanish-speaking audiences through the [official account on Twitter](https://twitter.com/MakerDAO_Lat) in Spanish. It has been publishing content about:
 
 - Ongoing or completed debates and votes that have been most relevant to the Protocol.
 - Updates about advances and achievements (such as the Maker Teleport and the Multichain Strategy).
-- Educational content explaining how the DAI stability mechanisms work, how the Oracles work, the Settlements, etc. 
+- Educational content explaining how the DAI stability mechanisms work, how the Oracles work, the Settlements, etc.
 - Maker partnerships with other projects inside and outside the crypto ecosystem and participation in various events and hackathons.
 
 #### Twitter Metrics
@@ -76,11 +76,11 @@ In addition, the Ambassador Program has been working on positioning the Maker br
 | May | Tweets: 286. Impressions: 64,000. Views: 15,900. Mentions: 84. New Followers: 248 | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-may0.png) ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-may1.png) |
 | April | Tweets: 185. Impressions: 219,000. Views: 15,500. Mentions: 121. New Followers: 395. | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-apr0.png)     ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-apr1.png) |
 | March | Tweets: 169. Impressions: 27,000. Views: 16,000. Mentions: 69. New Followers: 146 | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/tw-mar1.png) |                                                             
-**Note: Thanks to @tobal and his work with the official [MakerDAO](https://twitter.com/MakerDAO) account and the [MakerGrowth](https://twitter.com/MakerGrowth) account.** 
+**Note: Thanks to @tobal and his work with the official [MakerDAO](https://twitter.com/MakerDAO) account and the [MakerGrowth](https://twitter.com/MakerGrowth) account.**
 
 ## Increased Activity of the LATAM Community
 
-The presence of the community in the forum has been noticeable, and more discussions have been presented in Spanish. While participating fully in the forum involves a particular learning curve for new users, several have contributed a lot to the forum. 
+The presence of the community in the forum has been noticeable, and more discussions have been presented in Spanish. While participating fully in the forum involves a particular learning curve for new users, several have contributed a lot to the forum.
 
 | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/sc11.png) | ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/sc10.png) |  |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |---|
@@ -98,9 +98,9 @@ Since the Ambassador Program started, we have seen a significant increase in the
 ![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/topcredearners.png)
 <sup>(3 Latam members on Top 10 Cred Earners)</sup>
 
-## Meetups & Social Gatherings
+## Meet-ups & Social Gatherings
 
-To generate and consolidate communities around Maker, the Program has been participating in different spaces, on- and offline, positioning the DAI name and explaining how Maker works. These participations range from private communities using tools such as Google Meet or Zoom to Public Spaces on Twitter, where any user can listen in, participate, ask questions, and talk about the Protocol---encouraging the debate and discussion around Maker. As of this day, the Ambassador Program has participated in over eight different meetups and social gatherings, both on- and offline. It has been possible to attend hackathons in the region and have a presence in offline communities and regional events, making the Protocol known not only through online media but through word of mouth and sharing with members of other communities.
+To generate and consolidate communities around Maker, the Program has been participating in different spaces, on- and offline, positioning the DAI name and explaining how Maker works. These participations range from private communities using tools such as Google Meet or Zoom to Public Spaces on Twitter, where any user can listen in, participate, ask questions, and talk about the Protocol---encouraging the debate and discussion around Maker. As of this day, the Ambassador Program has participated in over eight different meet-ups and social gatherings, both on- and offline. It has been possible to attend hackathons in the region and have a presence in offline communities and regional events, making the Protocol known not only through online media but through word of mouth and sharing with members of other communities.
 
 ### Defiant
 
@@ -128,7 +128,7 @@ To generate and consolidate communities around Maker, the Program has been parti
 
 ## Twitter Spaces
 
-### CryptoProde 
+### CryptoProde
 
 |  |  |  |  |
 |---|---|---|---|
@@ -148,7 +148,7 @@ To generate and consolidate communities around Maker, the Program has been parti
 
 ## Growing a Healthy Community
 
-One of the Ambassador Program's goals is to create a healthy, productive environment for the MakerDAO community. The Ambassadors have been managing and leading a The Ambassadors have been managing and leading a [Telegram group](https://t.co/zJypYWExWZ), building and developing a robust Spanish-speaking community, and giving them resources to overcome the learning curve preventing them from participating in the Protocol. This work can be seen in the [Translations Assignment Sheet](https://docs.google.com/spreadsheets/d/1jK2J6EXErNupMAzEMXxHERzWmC3lmwXzBZN_E4P83fc/edit#gid=0) where our community members can translate new material the Program cannot cover, due to staffing, in an orderly manner. Noteworthy, in this group, there are multiple discussions about topics related to DAI and Maker, such as news, implementations, use cases, projects involving the Protocol, and discussions about what is happening in the crypto ecosystem, DeFi, and the Maker Forum.  
+One of the Ambassador Program's goals is to create a healthy, productive environment for the MakerDAO community. The Ambassadors have been managing and leading a [Telegram group](https://t.co/zJypYWExWZ), building and developing a robust Spanish-speaking community, and giving them resources to overcome the learning curve preventing them from participating in the Protocol. This work can be seen in the [Translations Assignment Sheet](https://docs.google.com/spreadsheets/d/1jK2J6EXErNupMAzEMXxHERzWmC3lmwXzBZN_E4P83fc/edit#gid=0) where our community members can translate new material the Program cannot cover, due to staffing, in an orderly manner. Noteworthy, in this group, there are multiple discussions about topics related to DAI and Maker, such as news, implementations, use cases, projects involving the Protocol, and discussions about what is happening in the crypto ecosystem, DeFi, and the Maker Forum.  
 
 ## What's Next for the Ambassador Program?
 
@@ -158,10 +158,10 @@ This funding allows the continuation of the work that the Ambassador Program has
 
 In the future, we would like to expand the Ambassador Program to other regions such as Asia and Eastern Europe to provide non-English educational materials and further build and grow the Maker community.
 
-### Funding Breakdown
+# Funding Breakdown
 
 The following is a summary of the Ambassadors Program 6-month budget outlining how the funds will be used.
- 
+
 | TEAM                  |    DAI    |
 |-----------------------|----------:|
 | Kat                   |   12,000 DAI   |
@@ -170,13 +170,13 @@ The following is a summary of the Ambassadors Program 6-month budget outlining h
 | Part-time Ambassador  |   7,500 DAI    |
 | Part-time Ambassador  |   7,500 DAI    |
 | Devcon ETH Bogota     |   4,500 DAI    |
-| Softwares or Licenses |   1,500 DAI    | 
+| Softwares or Licenses |   1,500 DAI    |
 | **Total**             | **81,000 DAI** |
 
 ### Special Purpose Fund Details
 
 ```
-Official Contact or Group Name: @kat 
+Official Contact or Group Name: @kat
 Contact Email/Handle: katherine.obermeyer@gmail.com / @kat
 Date Added: (2022-08-10)
 Total Amount: 81,000 DAI

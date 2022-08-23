@@ -14,6 +14,8 @@ Date Proposed: 2022-07-29
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP77
 Replaces: MIP61
+Forum URL: https://forum.makerdao.com/t/mip78-recognized-delegate-dai-compensation/16906
+Ratification Poll URL:
 ```
 ## Note
 
@@ -145,9 +147,9 @@ If the monthly payments to Recognized Delegates are approaching or exceeding the
 
 * $TOTAL_{MAX} = 1,000,000$
 * $\sum_{i=1}^{\infty} DAI_{COMP} = 1,100,000$
-* $DAI_{CUT} = 1,000,000/1,100,000 = 0.9$
+* $DAI_{CUT} = 1 - (100,000/1,100,000) = 0.91$
 
-Therefore, all Recognized Delegates' compensation would be multiplied by 0.9 - a 10% reduction.
+Therefore, all Recognized Delegates' compensation would be multiplied by 0.91 - a 9% reduction.
 
 ### MIP78c3: Initial Parameters
 
@@ -205,8 +207,8 @@ As with any other distribution of funds through the Executive Vote process, Reco
 
 When a Recognized Delegate intends to migrate from one delegate contract to another the following points should be considered:
 * The associated entity should inform the Community the effective migration date no fewer than seven days before and which contracts are affected.
-* The new delegate contract cannot already be involved in a migration (e.g., two delegates merging into one). 
-* During a 30-day interim period, the old and new delegate contracts are regarded for compensation as referring to the same entity. 
+* The new delegate contract cannot already be involved in a migration (e.g., two delegates merging into one).
+* During a 30-day interim period, the old and new delegate contracts are regarded for compensation as referring to the same entity.
 * Compensation is calculated using stats from the old and new contracts. For example, MKR weight will be obtained by the sum of the MKR weight of the old and new contracts. Participation and communication stats will be calculated across both delegate contracts.
 
 ### MIP78c6: Modification of Compensation Parameters
