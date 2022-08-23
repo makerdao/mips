@@ -535,6 +535,8 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 - Daniel Kremerov - [MIP41c4-SP26](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP26.md)
 
+---
+
 #### Strategic Finance (SF-001)
 
 - **Summary** - Strategic Finance Core Unit's mission is to provide financial reporting and analysis to assist the DAO in evaluating the financial health of the protocol to enable strategic decision making and allocate capital more effectively.
@@ -555,6 +557,8 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 ##### Facilitator
 
 - Mark Phillips (@Aes) - [MIP41c4-SP28](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP28.md)
+
+---
 
 #### TechOps (TECH-001)
 
@@ -578,6 +582,8 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 - Dumitru Zavrotschi (@dumitru) - [MIP41c4-SP30](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP30.md)
 - Simon Kelada-Polupanov (@simonkp) - [MIP41c3-SP31](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP31.md)
+
+---
 
 #### EVENTS (EVENTS-001)
 
