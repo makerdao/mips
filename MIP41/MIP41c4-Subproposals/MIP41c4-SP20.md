@@ -4,8 +4,8 @@
 
 ```
 MIP41c4-SP#: 20
-Author(s): Louis Baudoin (@louismerkle), Ohad Barta
-Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, Louis Baudoin
+Author(s): @louismerkle, Ohad Barta
+Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, @louismerkle 
 Tags: core-unit, cu-sne-001, facilitator, active
 Status: Accepted
 Date Proposed: 2021-08-09
@@ -15,7 +15,7 @@ Forum URL: https://forum.makerdao.com/t/mip41c4-sp20-facilitator-onboarding-for-
 ```
 
 ## Sentence Summary
-MIP41c4-SP20 onboard Louis Baudoin as facilitator for the Starknet Engineering Core Unit (SNE-001)
+MIP41c4-SP20 onboard @louismerkle as facilitator for the Starknet Engineering Core Unit (SNE-001)
 
 ## Specification
 
@@ -35,9 +35,9 @@ SNE-001
 
 ### Facilitator name and information
 
-- Name: Louis Baudoin
+- Name: Louis
 - Forum: @louismerkle
-- LinkedIn: <https://www.linkedin.com/in/louis-baudoin-8288a23b>
+- LinkedIn: TBD
 - ETH Address: TBD
 
 ### Facilitator Commitment
@@ -71,7 +71,7 @@ In addition to facilitating the Ways of Working, Team Rituals and the Core Unit 
 
 * **Oracle and reference price logic:** Led the Research team at Merkle Data to build a reference price (out of 30 exchanges trade data) with a certainty index and a manipulation index. The reference price was calibrated to be stable during flash crashes and stress-tests. Consulted for an Oracle project on their filtering logic to define what the reference price is to distribute rewards.
 
-* **Risk analytics:** Former CEO of Merkle Data, sold to Anchorage. Led a research and product team to build a risk and surveillance solution for managing intraday and daily risk. Built stress-test scenarios for spot and options portfolios.
+* **Risk analytics:** Led a research and product team to build a risk and surveillance solution for managing intraday and daily risk. Built stress-test scenarios for spot and options portfolios. Exited first company to a large US custodian
 
 * **Crypto product design** (flow of funds and information): Former head of payments at Anchorage. PM crypto-native credit card network built for Visa. Integrated Merkle Risk product to build the lending and margin product.
 
