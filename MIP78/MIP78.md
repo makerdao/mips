@@ -123,7 +123,7 @@ A Performance Multiplier is applied to Recognized Delegate's DAI compensation. T
 
 This is demonstrated in the following graph:
 
-![](https://github.com/makerdao/mips/blob/master/MIP78/mod_vs_low.png)
+![](https://github.com/makerdao/mips/blob/master/MIP78/mod_vs_lower.png)
 
 The following formula calculates a Recognized Delegate's entitlement to compensation.
 
