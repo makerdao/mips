@@ -16,6 +16,7 @@ Dependencies: MIP38, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip39-core-unit-framework/6096
+Extra: This MIP has been amended. See [MIP4c2-SP15](https://forum.makerdao.com/t/mip4c2-sp15-core-unit-offboarding-process-amendments/15291). The original version can be found [here](https://github.com/makerdao/mips/commit/7fdb552680486bbd84dfd84b64980e0999249043).
 ```
 
 ## References
@@ -76,7 +77,7 @@ A Core Unit is brought into existence within MakerDAO upon the simultaneous, bun
 - One MIP40c3 subproposal that defines its *Budget*.
 - One or more MIP41c4 subproposals that define its *Facilitators*.
 
-In the particular case of Governance Core Units, their Core Unit ID must have the prefix `GOV`. 
+In the particular case of Governance Core Units, their Core Unit ID must have the prefix `GOV`.
 
 Although these subproposals can fulfill their Feedback and Frozen Periods independently, they need to be formally submitted at the same time.
 
@@ -110,7 +111,7 @@ Core Units can be offboarded from MakerDAO by utilizing MIP39c3 subproposals. Th
     - The Retiring Facilitator
     - An Interim Facilitator chosen via the Fallback Process defined in MIP41c6.
 - Adapting the Facilitator's permissions to meet the needs of the unwinding plan
-- Executing the unwinding plans for the Core Unit 
+- Executing the unwinding plans for the Core Unit
 
 An offboarded Core Unit should conduct all winding down activities within four months from the ratification date of the offboarding.
 

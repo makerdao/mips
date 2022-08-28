@@ -7,11 +7,12 @@ MIP41c5-SP#: 9
 Author(s): @CodeKnight
 Contributors:
 Tags: core-unit, sh-001, cu-offboarding
-Status: RFC
+Status: Withdrawn
 Date Applied: 2022-07-07
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c5-spxx-facilitator-offboarding-sh-001/16439
 Ratification Poll URL:
+Extra: This subproposal has been [withdrawn by its author](https://forum.makerdao.com/t/mip41c5-sp9-facilitator-offboarding-sh-001/16439).
 ```
 
 ## Sentence Summary
