@@ -7,9 +7,9 @@ MIP40c3-SP#: 73
 Author(s): @Ippy
 Contributors:
 Tags: core-unit, events-001, dai-budget, cu-offboarding
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2022-06-22
-Date Ratified: 
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip40c3-spxx-modify-core-unit-budget-for-events-001/15991
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTNaLnY
 ```
