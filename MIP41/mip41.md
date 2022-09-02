@@ -125,8 +125,12 @@ If a Facilitator wishes to voluntarily offboard, a MIP41c4 subproposal proposing
 If a Facilitator goes missing, an Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
 
 The proposal parameters are:
-* Minimum feedback period: 1 month
+
+* Minimum feedback period: 2 weeks
 * Minimum frozen period: 1 week
+* Duration of poll: 1 week
+
+MIP41c5 subproposals are eligible to move on-chain on the first Monday after their feedback period has concluded.
 
 MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposal-Template.md)
 
