@@ -7,13 +7,13 @@ MIP55c3-SP#:6
 Author(s): @adcv @SebVentures
 Contributors:
 Tags: spf
-Status: RFC
+Status: Accepted
 Date Proposed: 2022-08-10
-Date Ratified:
+Date Ratified: 2022-09-01
 Amount Requested: 50,000 DAI
-Recipient Address: TBD
+Recipient Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp6-legal-domain-work-on-greenlit-collateral-bibta-special-purpose-fund/17166
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmcCs8SS
 ```
 
 ## Sentence Summary
@@ -66,10 +66,10 @@ Legal Domain Work on Greenlit Collateral (bIBTA) Special Purpose Fund.
 ### Special Purpose Fund Details
 
 ```
-Official Contact or Group Name: TBU during RFC
-Contact Email/Handle: TBU during RFC
+Official Contact or Group Name: Aes
+Contact Email/Handle: @Aes
 Date Added: 2022-08-10
 Total Amount: 50,000 In Dai.
-Wallet Address: TBU during RFC Public wallet address of Multi-Sig.
+Wallet Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
 Comptroller signers: @Aes, @prose11
 ```
