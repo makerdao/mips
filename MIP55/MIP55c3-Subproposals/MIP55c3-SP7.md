@@ -26,7 +26,6 @@ The MakerDAO Ambassador program provides non-English speaking communities with r
 
 This Special Purpose Fund aims to finance the ongoing work and projects of the Ambassador Program.
 
-![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP7/banner.png)
 
 ## Special Purpose Fund Name
 
