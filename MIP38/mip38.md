@@ -15,7 +15,7 @@ Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 Ratification Poll URL:
 Forum URL:
-Extra: This MIP has been amended. See [MIP4c2-SP15](https://mips.makerdao.com/mips/details/MIP4c2SP15). The original version can be found [here](https://github.com/makerdao/mips/commit/7fdb552680486bbd84dfd84b64980e0999249043).
+Extra: This MIP has been amended. See [MIP4c2-SP15](https://mips.makerdao.com/mips/details/MIP4c2SP15). The original version can be found [here](https://github.com/makerdao/mips/blob/7fdb552680486bbd84dfd84b64980e0999249043/MIP38/mip38.md).
 ```
 
 ## References
