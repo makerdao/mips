@@ -58,36 +58,38 @@ While compensation for Recognized Delegates is primarily in DAI, which is benefi
 
 By linking MKR vesting to DAI compensation received by Recognized Delegates (defined in [MIPyy: Recognized Delegate DAI Compensation](https://forum.makerdao.com/t/mipyy-recognized-delegate-dai-compensation/16906)) we can indirectly tie the amount of MKR vested to both the amount of MKR received as well as the performance of Recognized Delegates.
 
-By using DssVest to stream MKR over twelve months, we can encourage long-term thinking from Recognized Delegates to maximize the value of the MKR they will receive when the stream completes. In addition, this will align them more fully with the MKR holders delegating to them.
+By using DssVest to stream MKR over twelve or twenty-four months, we can encourage long-term thinking from Recognized Delegates to maximize the value of the MKR they will receive when the stream completes. In addition, this will align them more fully with the MKR holders delegating to them.
 
 ## Specification / Proposal Details
 
 ### MIP79c1: Definitions
 
-* **Recognized Delegate:** Any delegate that meets the requirements defined in [MIP77c2](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905#mipxxc2-becoming-a-recognized-delegate-15).
-* **Recognized Delegate DAI Compensation:** DAI compensation paid to Recognized Delegates as defined in [MIP78: Recognized Delegate DAI Compensation](https://forum.makerdao.com/t/mipyy-recognized-delegate-dai-compensation/16906).
+* **Recognized Delegate:** Any delegate that meets the requirements defined in [MIP77c2](https://github.com/makerdao/mips/blob/master/MIP77/MIP77.md#mip77c2-becoming-a-recognized-delegate).
+* **Recognized Delegate DAI Compensation:** DAI compensation paid to Recognized Delegates as defined in [MIP78: Recognized Delegate DAI Compensation](https://github.com/makerdao/mips/blob/master/MIP78/MIP78.md).
 
 ### MIP79c2: MKR Vesting Calculation
 
-Once a Recognized Delegate has been active for six months, in effect, six months since they completed the steps to become a Recognized Delegate defined in [MIP77c2](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905#mipxxc2-becoming-a-recognized-delegate-15) and received their first delegated MKR tokens, the Governance Facilitators will calculate the total DAI compensation the Recognized Delegate has received in that time. This value will be divided by the 12-month rolling average price of the MKR token in DAI. This will calculate the amount of MKR vesting to which the Recognized Delegate is entitled.
+Once a Recognized Delegate has been active for six months, in effect, six months since they completed the steps to become a Recognized Delegate defined in [MIP77c2](https://github.com/makerdao/mips/blob/master/MIP77/MIP77.md#mip77c2-becoming-a-recognized-delegate) and received their first delegated MKR tokens, the Governance Facilitators will calculate the total DAI compensation the Recognized Delegate has received in that time. This value will be divided by the 12-month rolling average price of the MKR token in DAI. This will calculate the amount of MKR vesting to which the Recognized Delegate is entitled.
 
-This process will repeat every six months that the Recognized Delegate is active. Recognized Delegates are not eligible for MKR Vesting if they step-down before they reach six months as a Recognized Delegate. Once a Recognized Delegate has served for six months, they will be entitled to a pro-rata amount of MKR vesting if they step down.
+The Recognized Delegate will then be able to choose whether they want to receive their vesting stream over 12 months or 24 months. If they opt for a 12-month stream, the amount of MKR will be multiplied by 0.75; if they opt for a 24-month stream, it will be multiplied by 1.
+
+This process will repeat every six months that the Recognized Delegate is active. Recognized Delegates are not eligible for MKR Vesting if they step down before they reach six months as a Recognized Delegate. Once a Recognized Delegate has served for six months, they will be entitled to a pro-rata amount of MKR vesting if they step down.
 
 #### Examples
 
-Delegate A has completed six months as a Recognized Delegate. During this time, they received 50,000 DAI compensation for their work. In addition, the 12-month rolling average price of MKR for this period is 1,000 DAI. Consequently, Delegate A qualifies for 50 MKR to be streamed to them using DssVest.
+Delegate A has completed six months as a Recognized Delegate. During this time, they received 50,000 DAI compensation for their work. In addition, MKR's 12-month rolling average price for this period is 1,000 DAI.  Delegate A elects to receive their MKR with a 12-month cliff. Consequently, Delegate A qualifies for 50*0.75 = 37.5 MKR to be streamed to them using DssVest.
 
-After another six months, Delegate A has received an additional 62,500 DAI as compensation, and the MKR token 12-month rolling average price in DAI is now 2,000 DAI. Therefore, delegate A qualifies for  31.25 MKR to be streamed to them using DssVest for this period.
+After another six months, Delegate A has received an additional 62,500 DAI as compensation, and the MKR token 12-month rolling average price in DAI is now 2,000 DAI. Delegate A opts to receive their MKR with a 24-month cliff. Therefore, delegate A qualifies for  31.25 MKR to be streamed to them using DssVest for this period.
 
-After three months, Delegate A decides they no longer wish to be a Recognized Delegate and follows the process described in [MIP77c7](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905/3#mipxxc7-recognized-delegate-resignation-30). They will receive MKR streamed to them using DssVest based on the DAI they earned in these three months.
+After three months, Delegate A decides they no longer wish to be a Recognized Delegate and follows the process described in [MIP77c7](https://github.com/makerdao/mips/blob/master/MIP77/MIP77.md#mip77c7-recognized-delegate-resignation). They will receive MKR streamed to them using DssVest based on the DAI they earned in these three months, with either a 12 or 24-month cliff at their discretion.
 
 Delegate B has completed four months as a Recognized Delegate before stepping down. As they did not complete the minimum six months as a Recognized Delegate, they do not qualify for any vested MKR.
 
 ### MIP79c3: MKR Distribution Process
 
-MKR will be distributed to Recognized Delegates using DssVest to an address of their choice. Streams must have a twelve-month duration and a cliff date of twelve months.
+MKR will be distributed to Recognized Delegates using DssVest to an address of their choice. Streams must have a twelve-month or twenty-four-month duration and a cliff date that matches the duration of the stream.
 
-Governance Facilitators will post the amount of MKR to be streamed, stream dates, and cliff date to the Maker Governance Forum in advance of the relevant Executive Vote.
+Governance Facilitators will post the amount of MKR to be streamed, stream dates, and cliff dates to the Maker Governance Forum in advance of the relevant Executive Vote.
 
 Recognized Delegates are responsible for confirming the target address for the stream with the Governance Facilitators. If this is not done promptly, the stream will not be included in the next possible Executive Vote but will instead be delayed until it is possible for the Governance Facilitators to include it in a subsequent Executive Vote.
 

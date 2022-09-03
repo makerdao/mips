@@ -15,11 +15,11 @@ Forum URL: https://forum.makerdao.com/t/mkr-compensation-for-secu-members/17042
 
 ## Sentence Summary
 
-MIP40c3-SP79 adds the MKR Compensation budget for Core Unit SNE-001: Starknet Engineering Core Unit.
+MIP40c3-SP79 adds the MKR Compensation budget for SNE-001: Starknet Engineering Core Unit.
 
 ## Paragraph Summary
 
-This proposal contains the MKR Compensation budget for the Core Unit SNE-001: Starknet Engineering Core Unit, also called SECU in this subproposal. This proposal is based on [Alternative MKR Compensation Guidelines 15](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) and benchmarked on the [Protocol Engineering Core Unit (PE-001) budget](https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797).
+This proposal contains the MKR Compensation budget for the Core Unit SNE-001: Starknet Engineering Core Unit, also called SECU in this subproposal. This proposal is based on [Alternative MKR Compensation Guidelines 15](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) and benchmarked on the [Protocol Engineering Core Unit (PE-001, PECU) budget](https://forum.makerdao.com/t/mip40c3-sp68-modify-protocol-engineering-core-unit-budget-pe-001/13797).
 
 It provides an average of 135 MKR per FTE per year over 3 years with a 1-year cliff. In total, it provides 270 MKR to CU members per year over 3 years with a 1-year cliff.
 
@@ -29,21 +29,28 @@ The SECU is financed 50/50 by Maker and Starknet. The other half of the value of
 
 ### Motivation
 
-PECU and SECU are working very closely to deliver teleport to make DAI the easiest stablecoin to use cross-domains in DeFi. In parallel, numerous bridge hacks have made us have an even more careful approach to scaling teleport.
+**About SECU role**
+
+PECU and SECU are working very closely to deliver teleport to make DAI the easiest stablecoin to use cross-domains in DeFi. In parallel, [numerous bridge hacks](https://forum.makerdao.com/t/bridge-hacks-review-and-learnings-for-maker-teleport/17549) have made us have an even more careful approach to designing and scaling teleport. 
+
+PECU has dedicated team members focused on L2. We are playing a very similar role to those L2-dedicated PECU members. The difference is that we focus less on L1 contract, but more on translating Maker contracts into Cairo, as well as writing new contracts in Cairo, trust assumptions, ad hoc workflows to improve security for MKR and DAI holders (e.g., escape hatch, circuit breaker), and formal verification.
+
 
 SECU has had challenges in the past year to retain and attract talents due to the lack of incentives, which contrasts with the need for the highest standards in our CU. SECU has taken the approach to not ask for MKR compensation from the start, mindful of the fact that the team needed to prove itself and earn trust from the community before.
 
-We are on budget to deliver fast withdrawals and we will be delivering teleport on testnet on budget.
+**About deliverables**
 
-Many possible frameworks for MKR Compensation have been put forward in the DAO, providing solid principles for MKR compensation that are incorporated throughout this proposal. Our core unit MKR compensation should be very similar to that of PE-001, given the nature of the work we do at the SECU as detailed below. [Alternative MKR Compensation Guidelines 15](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) suggest a 1.5 multiplier to calculate the MKR compensation, which we are using.
+[**Phase I deliverables ](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP19.md#proposed-roadmap)** has been shipped before we started phase II. You can use the bridge [here](https://starkgate.starknet.io/).  SECU has been working over phase I to strengthen the security of the bridge and recently shipped the monitoring infrastructure and the circuit breaker. We have had 30k + individual deposits on the bridge and we have seeded the first ETHDAI AMM on Starknet. 
 
-PECU has dedicated team members focused on L2. We are playing a very similar role to those L2-dedicated PECU members. The difference is that we focus less on L1 contract, but more on translating Maker contracts into Cairo, as well as writing new contracts in Cairo, trust assumptions, ad hoc workflows to improve security for MKR and DAI holders (e.g., escape hatch, circuit breaker), and formal verification.
+Phase II [deliverables](https://forum.makerdao.com/t/starknet-wormhole-implementation-details/12042) were: fast withdrawals, wormhole (now teleport). Fast withdrawal contracts have been audited and are ready to be deployed, and we have so far rewritten more than half of the contracts required for teleport in Cairo, we are still working on tests. The timeline for deploying teleport has been pushed back as organizational as well as technical challenges had been underestimated by PECU and SECU. You will find more details in the post from Derek [Layer II Roadmap - History and Future](https://forum.makerdao.com/t/layer-2-roadmap-history-and-future/17310/7). 
+
+**About MKR compensation**
+
+Many possible frameworks for MKR Compensation have been put forward in the DAO, providing solid principles for MKR compensation that are incorporated throughout this proposal. Our core unit MKR compensation should be very similar to that of PE-001, given the nature of the work we do at the SECU as described above. [Alternative MKR Compensation Guidelines 15](https://forum.makerdao.com/t/mip56-alternative-mkr-compensation-guidelines/9230) suggest a 1.5 multiplier to calculate the MKR compensation, which we are using.
 
 Note that out of this 1.5 multiple, Maker is only paying 0.75, Starknet is paying for the other 0.75. The rationale for having a compensation aligned with PECU is based on the fact that dedicated engineers are doing a very similar job with PECU, but focused on EVM chains.
 
 One year ago, we decided to create a separate CU for Starknet because the overhead of diving into trust assumptions, learning Cairo, adapting user processes to Starknet trust assumptions, and formal verification would have been a distraction for PE. Additionally, it allowed Maker to only pay for 50% of the total budget and have Starknet finance the other half.
-
-Today, PECU and SECU still think that having separate CUs is the best setup until Maker vault is delivered on Starknet. After the delivery of Maker vaults on Starknet, PECU and SECU are considering three options to run operations and keep expanding: i. keep CUs separate ii. create a L2 CU iii. merge CUs. We are actively thinking about the implications of all three options yet no decision has been made so far. It will be a decision for Q3 2023, and we believe we will have more visibility on the End Game by @rune then, which might have implications on this structure.
 
 
 ### Core Unit ID
