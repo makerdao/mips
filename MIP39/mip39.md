@@ -144,4 +144,4 @@ The parameters for MIP39c3 subproposals are:
 - **Minimum Feedback Period**: 1 month.
 - **Minimum Frozen Period**: 1 week.
 
-MIP39c2 subproposals must use the template located at [MIP39c2-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposal-Template.md).
+MIP39c3 subproposals must use the template located at [MIP39c3-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposal-Template.md).
