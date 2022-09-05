@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP55c3-SP8: Legal Work on MIP65
+MIP55c3-SP#: 8
 Author(s): @adcv @aes @SebVentures
 Contributors:
 Tags: spf
