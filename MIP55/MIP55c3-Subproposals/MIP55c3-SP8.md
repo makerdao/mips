@@ -9,7 +9,7 @@ Contributors:
 Tags: spf
 Status: RFC
 Date Proposed: 2022-08-16
-Date Ratified: 
+Date Ratified: (yyyy-mm-dd)
 Amount Requested: 30,000 DAI
 Recipient Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280
