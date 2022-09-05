@@ -158,7 +158,7 @@ This funding allows the continuation of the work that the Ambassador Program has
 
 In the future, we would like to expand the Ambassador Program to other regions such as Asia and Eastern Europe to provide non-English educational materials and further build and grow the Maker community.
 
-# Funding Breakdown
+### Funding Breakdown
 
 The following is a summary of the Ambassadors Program 6-month budget outlining how the funds will be used.
 
