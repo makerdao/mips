@@ -7,7 +7,7 @@ MIP39c3-SP#: 2
 Author(s): @Codeknight
 Contributors:
 Tags: core-unit, SH-001, cu-offboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-07-07
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-spxx-modify-strategic-happiness-core-unit-budget-sh-001/16438

@@ -7,7 +7,7 @@ MIP40c3-SP#: 79
 Author(s): @louismerkle
 Contributors:
 Tags: core-unit, sne-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-08-08
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mkr-compensation-for-secu-members/17042
