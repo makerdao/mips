@@ -7,7 +7,7 @@ MIP40c3-SP#: 80
 Author(s): @prose11, @Patrick_J
 Contributors: 
 Tags: core-unit, cu-gov-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-08-10
 Date Ratified: 
 Ratification Poll URL: 

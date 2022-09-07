@@ -7,7 +7,7 @@ MIP55c3-SP#: 7
 Author(s): @kat
 Contributors: @sebix @Joserjimz
 Tags: spf
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-08-10
 Date Ratified: (yyyy-mm-dd)
 Amount Requested: 81,000 DAI
