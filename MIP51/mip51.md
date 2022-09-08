@@ -97,7 +97,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 - The Governance Facilitators do a **Governance Cycle Review** as part of the Weekly Governance and Risk meeting in which they summarize and discuss the Governance Cycle with the community.
 - The Governance Facilitators also discuss the upcoming governance cycle and potential submissions with the community.
 
-### Governance Cycle Overview
+#### Governance Cycle Overview
 ![Gov Cycle](https://user-images.githubusercontent.com/53664591/114054203-8c7de580-9887-11eb-90da-0431b051fff3.png)
 
 ---

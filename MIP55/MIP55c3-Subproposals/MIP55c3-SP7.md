@@ -7,7 +7,7 @@ MIP55c3-SP#: 7
 Author(s): @kat
 Contributors: @sebix @Joserjimz
 Tags: spf
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-08-10
 Date Ratified: (yyyy-mm-dd)
 Amount Requested: 81,000 DAI
@@ -159,7 +159,7 @@ This funding allows the continuation of the work that the Ambassador Program has
 
 In the future, we would like to expand the Ambassador Program to other regions such as Asia and Eastern Europe to provide non-English educational materials and further build and grow the Maker community.
 
-# Funding Breakdown
+### Funding Breakdown
 
 The following is a summary of the Ambassadors Program 6-month budget outlining how the funds will be used.
 

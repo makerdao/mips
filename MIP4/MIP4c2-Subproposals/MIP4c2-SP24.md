@@ -8,7 +8,7 @@ MIP to be amended: MIP61
 Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium
 Tags: mip-amendment
-Status: RFC
+Status: Formal Submission
 Date of Amendment Submission: 2022-07-29
 Date of ratification: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-amend-measurement-period-for-delegate-participation-metrics/16904

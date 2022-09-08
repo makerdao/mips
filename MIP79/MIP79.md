@@ -9,7 +9,7 @@ Author(s): @Patrick_J
 Contributors: @psychonaut, @LongForWisdom, @prose11
 Tags: delegates, mip-set, delegates-mip-set, process, delegate-compensation
 Type: Process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-07-29
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP77, MIP78
@@ -22,8 +22,8 @@ Ratification Poll URL:
 
 This MIP is intended to be voted on as a MIP Set along with:
 
-* [MIP77: Delegates in the Maker Protocol](https://forum.makerdao.com/t/mipxx-delegates-in-the-maker-protocol/16905).
-* [MIP78: Recognized Delegate DAI Compensation](https://forum.makerdao.com/t/mipyy-recognized-delegate-dai-compensation/16906).
+* [MIP77: Delegates in the Maker Protocol](https://github.com/makerdao/mips/blob/master/MIP77/MIP77.md).
+* [MIP78: Recognized Delegate DAI Compensation](https://github.com/makerdao/mips/blob/master/MIP78/MIP78.md).
 
 ## References
 
