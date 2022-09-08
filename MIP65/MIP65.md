@@ -73,7 +73,7 @@ This above established structure must set up a relationship with a regulated cry
 
 **Legal Structure and Governance Appropriateness Verification**
 
-The Real World Finance Facilitator and the “in SES incubation” Facilitator of Legal and Transactions Services must, through a public forum post, provide a Verification of the legal and governance structure appropriateness for holding a large amount of low risk real world asset collateral for Maker.
+*At least one community member, with legal credentials,* must, through a public forum post, *validated by at least one Facilitator*, provide a verification of the legal and governance structure appropriateness for holding a large amount of low-risk real-world asset collateral for Maker.
 
 **Asset Purchase and Allocation Restriction Verification**
 
