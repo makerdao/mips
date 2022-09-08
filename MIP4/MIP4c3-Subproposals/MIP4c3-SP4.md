@@ -7,11 +7,11 @@ MIP4c3-SP#: 4
 MIP to be amended: MIP65
 Author(s): @Allan_Pedersen, @SebVentures
 Contributors:
-Status: RFC
+Status: Accepted
 Date of Amendment Submission: 2022-08-18
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2022-09-08
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp25-mip65-amendments/17326
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmareTAa
 ```
 
 ## Specification
