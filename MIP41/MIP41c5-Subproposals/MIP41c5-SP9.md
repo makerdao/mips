@@ -12,6 +12,7 @@ Date Applied: 2022-07-07
 Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip41c5-spxx-facilitator-offboarding-sh-001/16439
 Ratification Poll URL:
+Extra: This subproposal has been [withdrawn by its author](https://forum.makerdao.com/t/mip41c5-sp9-facilitator-offboarding-sh-001/16439).
 ```
 
 ## Sentence Summary

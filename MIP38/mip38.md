@@ -1,9 +1,9 @@
-# MIP38: Core Unit MIP Set Definitions 
+# MIP38: Core Unit MIP Set Definitions
 
 ## Preamble
 ```
 MIP#: 38
-Title: Core Unit MIP Set Definitions 
+Title: Core Unit MIP Set Definitions
 Author(s): @juanjuan, @blimpa
 Contributors: @elprogreso, @iammeeoh, @gala, @twblack88
 Tags: general, core-unit-framework, mip-set, core-unit-framework-mipset, living
@@ -13,8 +13,9 @@ Date Proposed: 2021-01-18
 Date Ratified: 2021-03-25
 Dependencies: MIP39, MIP40, MIP41, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
-Ratification Poll URL: 
-Forum URL: 
+Ratification Poll URL:
+Forum URL:
+Extra: This MIP has been amended. See [MIP4c2-SP15](https://mips.makerdao.com/mips/details/MIP4c2SP15). The original version can be found [here](https://github.com/makerdao/mips/blob/7fdb552680486bbd84dfd84b64980e0999249043/MIP38/mip38.md).
 ```
 
 ## References
@@ -60,7 +61,7 @@ Core Units are established across three MIPs that, at inception, must be ratifie
 
 More precisely, each Core Unit is defined via at least three subproposals:
 
-- One MIP39c2 subproposal establishing the **onboarding** of the Core Unit. Core Unit onboarding, modification and offboarding are further defined in MIP39: Onboarding and Offboarding Framework. 
+- One MIP39c2 subproposal establishing the **onboarding** of the Core Unit. Core Unit onboarding, modification and offboarding are further defined in MIP39: Onboarding and Offboarding Framework.
 - One or more MIP40c3 subproposals that assign a **budget** to the Core Unit. The Core Unit budget is further defined in MIP40: Budget Framework.
 - One or more MIP41c4 subproposals that designate a **Facilitator** for the Core Unit. The Facilitator role is further defined in MIP41: Facilitator Framework.
 
@@ -77,7 +78,7 @@ This list contains all of the Core Units approved by Governance, alongside the C
 
 This list is updated by the MIP Editors when a subproposal from MIP39, MIP40, or MIP41 is ratified.
 
-Offboarded Core Units are archived at the end of the list under *Offboarded Core Units*. 
+Offboarded Core Units are archived at the end of the list under *Offboarded Core Units*.
 
 **List Entry Template:**
 
