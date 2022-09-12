@@ -1,4 +1,4 @@
-# MIP40c3-SP79: MKR Compensation for StarkeNet Engineering Core Unit (SNE-001)
+# MIP40c3-SP79: MKR Compensation for StarkNet Engineering Core Unit (SNE-001)
 
 ## Preamble
 
