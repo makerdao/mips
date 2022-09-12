@@ -17,6 +17,7 @@ Replaces: n/a
 Replaced by: MIP24
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip5-emergency-voting-system/1907
+Extra: This MIP has been made obsolete by the passage of [MIP24](https://mips.makerdao.com/mips/details/MIP24).
 ```
 
 ## References

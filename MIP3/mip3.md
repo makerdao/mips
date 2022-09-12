@@ -17,6 +17,7 @@ Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip3-governance-cycle/1905
 Extra: This MIP has been amended. See [MIP4c2-SP6](https://mips.makerdao.com/mips/details/MIP4c2SP6). The original version can be found [here](https://github.com/makerdao/mips/blob/83a76311a2cf75d5ea4aa72c61103cfb4748fcf3/MIP3/mip3.md).
+Extra: This MIP has been made obsolete by the passage of [MIP51](https://mips.makerdao.com/mips/details/MIP51).
 ```
 
 ## References
