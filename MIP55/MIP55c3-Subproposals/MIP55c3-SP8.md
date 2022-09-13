@@ -65,9 +65,9 @@ Legal Work on MIP65 Special Purpose Fund
 
 ```
 Official Contact or Group Name: Strategic Finance Core Unit
-Contact Email/Handle: @Aes
+Contact Email/Handle: @adcv
 Date Added: 2022-08-16
 Total Amount: 30,000 In Dai.
 Wallet Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
-Comptroller signers: @Aes, @prose11
+Comptroller signers: @Aes (https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280/20), @prose11 (https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280/19)
 ```
