@@ -53,7 +53,8 @@ This component contains the technical requirements for unambiguous technical exe
 
 ## Specification / Proposal Details
 
-https://github.com/makerdao/mips/blob/master/MIP82/picture.jpeg
+![picture](https://github.com/makerdao/mips/blob/master/MIP82/picture.jpeg)
+
 Picture AI'ed w/nightcafe.studio
 
 ### MIP82c1: Collateral Design
@@ -62,7 +63,7 @@ Picture AI'ed w/nightcafe.studio
 
 Monetalis will reuse the BVI trust and governance structure developed and verified under MIP65, but set up an independent trust (via Deed) within this structure to hold the assets under this MIPXX. The below structure chart set this out with the new component in yellow:
 
-https://github.com/makerdao/mips/blob/master/MIP82/legalstructureandgovernance.png 
+![legalstructureandgovernance](https://github.com/makerdao/mips/blob/master/MIP82/legalstructureandgovernance.png)
 
 This above-established structure (Trustee: James Asset PTC Limited) has today a Prime Broker International Account relationship with Coinbase and will be the counterparty for the lending agreement with Coinbase on behalf of the SPV trust for this MIP82 (Moneypenny Asset Trust).
 A separate Coinbase Account wallet ETH address, connected to above structure and lending agreement, must be provided and used to construct the smart contracts necessary to complete the onboarding process specified in MIP82c3.
