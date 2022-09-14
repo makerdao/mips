@@ -3,7 +3,7 @@
 ## Preamble
 ```
 MIP#: 86
-Title: MakerDAO Peg Stability Module's (“PSM”) USDC investment management by CoinShares International Limited or one of its subsidiaries (“CoinShares”)
+Title: CoinShares USDC Institutional Rewards
 Author(s): @CoinSharesCo
 Contributors: @jmmognetti
 Tags: PSM
