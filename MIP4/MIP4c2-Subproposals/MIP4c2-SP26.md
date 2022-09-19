@@ -1,4 +1,4 @@
-# MIP4c2-SP26: Amend Minimum Feedback Period for Facilitator Offboarding
+# MIP4c2-SP26: Facilitator Offboarding Process (MIP41c5) adjustments
 
 ## Preamble
 
@@ -6,7 +6,7 @@
 MIP4c2-SP#: 26
 MIP to be amended: MIP41
 Author(s): CodeKnight
-Contributors:
+Contributors: @blimpa, @patrick_j, @Gala
 Tags: mip-amendment
 Status: RFC
 Date of Amendment Submission: 2022-09-01
@@ -22,28 +22,44 @@ The long RFC period for Facilitator offboardings creates uncertainty for the DAO
 
 A Facilitator who should be offboarded should be offboarded quickly. A Facilitator who should not be offboarded benefits from having the proposal resolved quickly. If there is uncertainty, proposers always have the option of using more than the minimum time period.
 
+In addition, the wording on facilitator offboarding could use improvement. Govalpha suggested some improvements that I have integrated into this amendment.
+
 ## Amended Components
 
 [MIP41c5](https://mips.makerdao.com/mips/details/MIP41#MIP41c5)
 
 ## Changes
 
-> The proposal parameters are:
->
-> * Minimum feedback period: 1 month
-> * Minimum frozen period: 1 week
+MIP41c5 is amended to read
 
-is altered to read:
-
-> The proposal parameters are:
+>### MIP41c5: Facilitator Offboarding
 >
-> * Minimum feedback period: 2 weeks
-> * Minimum frozen period: 1 week
-> * Duration of poll: 1 week
+>This component is twofold:
 >
-> MIP41c5 subproposals are eligible to move on-chain on the first Monday after their feedback period has concluded.
-
-This change only applies to a Facilitator offboarding (MIP41c5). It does not apply to the [MIP39c3: Core Unit Offboarding Process](https://mips.makerdao.com/mips/details/MIP39#MIP39c3).
+>1. It describes how Facilitators are to be handled in the event of a Core Unit offboarding via MIP39c3.
+>2. It establishes the process to offboard *Facilitators*. Full Core Unit offboardings are to be put forth via MIP39c3.
+>
+>#### 1. Facilitators and Core Unit Offboardings via MIP39c3
+>
+>If a Core Unit offboarding subproposal passes, the Facilitator(s) of the affected Core Unit immediately loses all special powers listed on MIP41c2/MIP41c3.
+>
+>The Facilitator becomes a *Retiring* Facilitator in charge of executing the unwinding process for the offboarding Core Unit (described on MIP39c3). If the Retiring Facilitator fails to execute the unwinding plan, an *Interim* Facilitator - further defined in MIP41c6 - will take over these responsibilities.
+>
+>#### 2. Facilitator Offboarding Process
+>
+>A Facilitator can be offboarded without having the Core Unit they are attached to being offboarded. An Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
+>
+>If a Facilitator wishes to voluntarily offboard, a MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
+>
+>If a Facilitator goes missing, an Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
+>
+>MIP41c5 subproposal parameters are:
+>
+>- Minimum Feedback Period: 2 weeks.
+>- Minimum Frozen Period: 1 week.
+>- Poll Duration: 1 week.
+>
+>MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposal-Template.md)
 
 ## Relevant Github Link
 
