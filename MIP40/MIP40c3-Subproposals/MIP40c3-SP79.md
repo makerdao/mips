@@ -4,7 +4,7 @@
 
 ```
 MIP40c3-SP#: 79
-Author(s): @louismerkle
+Author(s): @badgerofthe9d
 Contributors:
 Tags: core-unit, sne-001, budget, mkr-budget
 Status: Formal Submission

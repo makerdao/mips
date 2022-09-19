@@ -4,8 +4,8 @@
 
 ```
 MIP40c3-SP#: 28
-Author(s): Author(s): Louis Baudoin (@louismerkle), Ohad Barta
-Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, Louis Baudoin
+Author(s): Author(s): @badgerofthe9d, Ohad Barta
+Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, @badgerofthe9d
 Tags: core-unit, cu-sne-001, budget, dai-budget
 Status: Accepted
 Date Proposed: 2021-08-09
@@ -74,7 +74,7 @@ For any budget request beyond December 2021, new sub proposals will be submitted
 
 * Due to the predictability and regularity of costs, this budget implementation is a “Simple Budget Implementation” under [MIP40c4](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md#mip40c4-budget-implementation-details).
 * Core Unit wallet address: 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1
-* Keyholder: @louismerkle - 0x83626A05588bbA91DAeDE52346E5282d123e0280
+* Keyholder: @badgerofthe9d - 0x83626A05588bbA91DAeDE52346E5282d123e0280
 * **The first disbursement requested is DAI 210,275, which includes**:
 	* DAI 75,000 on October 5th - one-off setup including gas cost, audit fee, and bug bounty. To be included in the executive vote on October 1st
 	* **Monthly transfers**
