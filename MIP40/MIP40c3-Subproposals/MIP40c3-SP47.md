@@ -4,7 +4,7 @@
 
 ```
 MIP40c3-SP#: 47
-Author(s): @louismerkle
+Author(s): @badgerofthe9d
 Contributors: @maciejka, @ohad_barta_starkware, @nulven  
 Tags: core-unit, cu-sne-001, budget, dai-budget, active
 Status: Accepted
@@ -42,7 +42,7 @@ SNE-001
 
 * Due to the predictability and regularity of costs, this budget implementation is a Simple Budget Implementation under [MIP40c4](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md#mip40c4-budget-implementation-details).
 * Core Unit wallet address: 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1
-* Keyholder: [@louismerkle](https://forum.makerdao.com/u/louismerkle) - 0x83626A05588bbA91DAeDE52346E5282d123e0280
+* Keyholder: [@badgerofthe9d](https://forum.makerdao.com/u/badgerofthe9d/) - 0x83626A05588bbA91DAeDE52346E5282d123e0280
 * The first disbursement requested is DAI 229,792 on February 4th, which breaks down to:
   * DAI 42,917 for January salaries
   * DAI 186,875 for bug bounty, gas costs, audit, travel, and front-end resources

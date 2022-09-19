@@ -4,8 +4,8 @@
 
 ```
 MIP41c4-SP#: 20
-Author(s): @louismerkle, Ohad Barta
-Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, @louismerkle
+Author(s): @badgerofthe9d, Ohad Barta
+Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, @badgerofthe9d
 Tags: core-unit, cu-sne-001, facilitator, active
 Status: Accepted
 Date Proposed: 2021-08-09
@@ -15,7 +15,7 @@ Forum URL: https://forum.makerdao.com/t/mip41c4-sp20-facilitator-onboarding-for-
 ```
 
 ## Sentence Summary
-MIP41c4-SP20 onboard @louismerkle as facilitator for the Starknet Engineering Core Unit (SNE-001)
+MIP41c4-SP20 onboard @badgerofthe9d as facilitator for the Starknet Engineering Core Unit (SNE-001)
 
 ## Specification
 
@@ -35,8 +35,8 @@ SNE-001
 
 ### Facilitator name and information
 
-- Name: LM
-- Forum: @louismerkle
+- Name: @badgerofthe9d
+- Forum: @badgerofthe9d
 - LinkedIn: NA
 - ETH Address: TBD
 

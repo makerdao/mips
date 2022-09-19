@@ -4,8 +4,8 @@
 
 ```
 MIP39c2-SP#: 19
-Author(s): @louismerkle, Ohad Barta
-Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, @louismerkle
+Author(s): @badgerofthe9d, Ohad Barta
+Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, @badgerofthe9d
 Tags: core-unit, cu-sne-001, mandate, active
 Status: Accepted
 Date Proposed: 2021-08-09

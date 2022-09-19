@@ -355,7 +355,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ##### Facilitator
 
-- Louis Baudoin - [MIP41c4-SP20](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP40c4-SP20.md)
+- @badgerofthe9d - [MIP41c4-SP20](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP40c4-SP20.md)
 
 ---
 
