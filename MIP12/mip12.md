@@ -8,7 +8,7 @@ Title: Collateral and Risk Parameter Management
 Author(s): Charles St.Louis (@CPSTL), Rune Christensen (@Rune23) 
 tags: technical, process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset
 Type: Technical, Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Last Amended: 2020-06-25
@@ -17,6 +17,7 @@ Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 Extra: This MIP has been amended. See [MIP4c2-SP4](https://mips.makerdao.com/mips/details/MIP4c2SP4), [MIP4c2-SP5](https://mips.makerdao.com/mips/details/MIP4c2SP5). The original version can be found [here](https://github.com/makerdao/mips/blob/6a425265af9cd968824f5c67ea4bd3ca32fbc87a/MIP12/mip12.md).
+Extra: This MIP has been removed via [MIP4c4-SP1](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md).
 ``` 
 
 ## References

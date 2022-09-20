@@ -8,13 +8,14 @@ Title: Collateral Onboarding General Risk Model Management
 Author(s): Cyrus Younessi (@DonutJr), Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Tags: process, collateral-onboarding, risk, mip-set, collateral-onboarding-mipset, living
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: MIP0, MIP7, MIP51
 Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
+Extra: This MIP has been removed via [MIP4c4-SP1](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c4-Subproposals/MIP4c4-SP1.md).
 ```
 
 ## References
