@@ -1,6 +1,7 @@
 # MIP86: CoinShares USDC Institutional Rewards
 
 ## Preamble
+
 ```
 MIP#: 86
 Title: CoinShares USDC Institutional Rewards
@@ -14,6 +15,7 @@ Date Ratified:
 Dependencies: MIP13c3-SP12, MIP81
 Forum URL: https://forum.makerdao.com/t/mip86-coinshares-usdc-institutional-rewards/17900
 ```
+
 ## References
 
 * https://coinshares.com/
@@ -27,8 +29,8 @@ Forum URL: https://forum.makerdao.com/t/mip86-coinshares-usdc-institutional-rewa
 * https://www.prnewswire.co.uk/news-releases/komainu-to-support-uk-law-enforcement-in-the-fight-against-crime-involving-digital-assets-803987511.html
 * https://www.flowbank.com/en/pr/flowbanks-investor-coinshares-increases-its-stake
 * https://www.etfstream.com/news/invesco-enters-crypto-etp-space-with-bitcoin-launch
-* [https://www.newyorkfed.org/markets/reference-rates/sofr
-](https://www.newyorkfed.org/markets/reference-rates/sofr)
+* https://www.newyorkfed.org/markets/reference-rates/sofr
+
 
 ## Sentence Summary
 
@@ -36,39 +38,39 @@ MIP86 will establish a secured and flexible first collaboration between CoinShar
 
 ## Paragraph Summary
 
-Under MIP86, a portion of the PSM's USDCs will be managed by CoinShares, which will invest on behalf of MakerDAO the funds in various traditional finance assets according to MIP13c3-SP12. CoinShares aims to provide a variable APY of the SOFR interest rate (2.28% as of 12th September 2022) in USDC to MakerDAO accruing daily and payable monthly in arrears in USDC or any other digital asset preferred by MakerDAO at the time of payment. This MIP describes the architecture of the project.
+Under MIP86, a portion of the PSM's USDCs will be managed by CoinShares, which will invest on behalf of MakerDAO the funds in various traditional finance assets according to [MIP13c3-SP12](https://mips.makerdao.com/mips/details/MIP13c3SP12). CoinShares aims to provide a variable APY of the SOFR interest rate (2.28% as of September 12 2022) in USDC to MakerDAO accruing daily and payable monthly in arrears in USDC or any other digital asset preferred by MakerDAO at the time of payment. This MIP describes the architecture of the project.
 
 ## Motivation
 
-This MIP is based on the ratified Statement of Intent to Invest in Short-Term Bonds (MIP13c3-SP12) whereby MakerDAO notes that approximately 60% of MakerDAO's balance sheet is in a stablecoin that does not provide revenue while maintaining counterparty risk on Circle. The MIP13c3-SP12 details high standards that are consistent with CoinShares' well-established position in the institutional space (partnering up with top financial institutions like Nomura and Invesco or a significant investor in one of the most advanced and innovative trading Swiss Banks based in Geneva and Zurich FlowBank) as well as offering a mature legal and custody structure that allows secure access to many traditional financial assets. Our motivation is reinforced by the fact that since 2022, traditional financial assets offer a higher APY than DeFi on the USD, which should create an innovative collaboration between, for example, MakerDAO and CoinShares, to generate interest on MakerDAO's balance sheet.
+This MIP is based on the ratified Declaration of Intent to Invest in Short-Term Bonds ([MIP13c3-SP12](https://mips.makerdao.com/mips/details/MIP13c3SP12)) whereby MakerDAO notes that approximately 60% of MakerDAO's balance sheet is in a stablecoin that does not provide revenue while maintaining counterparty risk on Circle. [MIP13c3-SP12](https://mips.makerdao.com/mips/details/MIP13c3SP12) details high standards that are consistent with CoinShares' well-established position in the institutional space (partnering up with top financial institutions like Nomura and Invesco, or a significant investor in one of the most advanced and innovative trading Swiss Banks based in Geneva and Zurich: FlowBank) as well as offering a mature legal and custody structure that allows secure access to many traditional financial assets. Our motivation is reinforced by the fact that since 2022, traditional financial assets offer a higher APY than DeFi on the USD, which should create an innovative collaboration between, for example, MakerDAO and CoinShares, to generate interest on MakerDAO's balance sheet.
 
 ## Component Summary
 
-- MIP86c1: Presentation of CoinShares
-- MIP86c2: Investment program
-- MIP86c3: Interests distribution terms
-- MIP86c4: Terms for adding and withdrawing liquidity
-- MIP86c5: Transparency and monitoring
-- MIP86c6: Proposed legal structure
-- MIP86c7: Custody
-- MIP86c8: Technical structure
-- MIP86c9: Our view on the MIP81 from Coinbase
+**MIP86c1: Presentation of CoinShares**
+**MIP86c2: Investment Program**
+**MIP86c3: Interests Distribution Terms**
+**MIP86c4: Terms for Adding and Withdrawing Liquidity**
+**MIP86c5: Transparency and Monitoring**
+**MIP86c6: Proposed Legal Structure**
+**MIP86c7: Custody**
+**MIP86c8: Technical Structure**
+**MIP86c9: Our View on the MIP81 from Coinbase**
 
 ## Specification
 
-### MIP86c1 – Presentation of CoinShares
+### MIP86c1: Presentation of CoinShares
 
 ​​CoinShares is a leading full-service digital asset investment and trading group that delivers a broad range of financial services across investment management, trading, securities, and consumer products to a wide array of clients that includes corporations, financial institutions, and individuals. Pivoting towards crypto in 2013, the firm is headquartered in Jersey, with offices in London, Paris, and New York. CoinShares is regulated in Jersey by the Jersey Financial Services Commission, in France by the Autorité des Marchés Financiers, and in the US by the Financial Industry Regulatory Authority. CoinShares is publicly listed on the Nasdaq First North Growth Market under the ticker CS and the OTCQX under the ticker CNSRF and preparing for an up-listing to the Nasdaq Sweden Main Market by the end of the year.
 
 CoinShares is Europe’s largest and leading digital asset investment and trading group, managing billions of assets on behalf of a global client base. Our mission is to expand investment into digital assets with our trusted, regulated, best-in-class product suite that provides investors with trust and transparency when accessing cryptocurrencies.
 
-In 2018, CoinShares built, along with Nomura and Ledger, Komainu, one of the European leading institutional-grade digital asset custodians. Komainu is leveraging Ledger Enterprise Solutions to custody digital assets. Komainu was established to fill a gap in the marketplace and provide institutions with a secure and compliant custody service for investment in digital assets. Launched in June 2020, Komainu currently holds several billions of dollars in assets under custody from asset managers, financial institutions, corporations, governments, and their agencies.
+In 2018, CoinShares built ---along with Nomura and Ledger--- Komainu, one of the European leading institutional-grade digital asset custodians. Komainu is leveraging Ledger Enterprise Solutions to custody digital assets. Komainu was established to fill a gap in the marketplace and provide institutions with a secure and compliant custody service for investment in digital assets. Launched in June 2020, Komainu currently holds several billions of dollars in assets under custody from asset managers, financial institutions, corporations, governments, and their agencies.
 
-### MIP86c2 – Investment program
+### MIP86c2: Investment Program
 
 #### Objective
 
-Aims to capture a high and steady income by investing in government and corporate bonds whilst maintaining capital within the investment policy below. The investment objective aims to yield an annual return in excess of its benchmark, the SOFR, capitalised daily over the investment period. The SOFR (Secured Overnight Financing Rate) is the reference rate for the US dollar (USD) interbank market. It is calculated by the New York Federal Reserve.
+This MIP aims to capture a high and steady income by investing in government and corporate bonds whilst maintaining capital within the investment policy below. The investment objective aims to yield an annual return in excess of its benchmark, the SOFR, capitalised daily over the investment period. The SOFR (Secured Overnight Financing Rate) is the reference rate for the US dollar (USD) interbank market. It is calculated by the New York Federal Reserve.
 
 #### Philosophy
 
@@ -76,7 +78,7 @@ A buy-and-hold and bottom-up driven investment approach. Invest in national cham
 
 #### Process
 
-Research-intensive four steps investment approach to select issuers, debt securities, construct the portfolio, and manage risks.
+Research-intensive four-steps investment approach to select issuers, debt securities, construct the portfolio, and manage risks.
 
 **Planned investment policy**
 
@@ -85,13 +87,13 @@ Research-intensive four steps investment approach to select issuers, debt securi
 * Low sensitivity to interest rates: More than 50% of securities will be fixed-to-floaters & floating-rate-notes.
 * Credit risk: Government-backed names reduce credit risk. Financial debt instruments will be included to benefit from higher interest rates.
 * This approach enables the portfolio to benefit from ‘pull to par’ as it invests in government-backed issuers or national champions representing little credit risk over the next 36 months. The portfolio is comfortable holding all the securities until maturity or until they are called and will reinvest proceeds of redemptions depending on market conditions.
-* Liquidity is a key consideration for this solution although this isn’t cash, we are aiming to provide similar core characteristics. One of them is the ability to add funds or withdraw them easily and quickly. Withdrawals can be made within 7 working days under normal market conditions. We are able to enable this as we focus only on bonds with large issue sizes with high demand and deep markets that are widely covered by brokers. The acquisition or disposal of bonds or debt securities is based on an analysis of the issuer's credit risk.
+* Liquidity is a key consideration for this solution although this isn’t cash; we are aiming to provide similar core characteristics. One of them is the ability to add funds or withdraw them easily and quickly. Withdrawals can be made within 7 working days under normal market conditions. We are able to enable this as we focus only on bonds with large issue sizes with high demand and deep markets that are widely covered by brokers. The acquisition or disposal of bonds or debt securities is based on an analysis of the issuer's credit risk.
 
 ***Example portfolio - CoinShares DAO Treasury Management Portfolio***
 
 ![example](https://github.com/makerdao/mips/blob/master/MIP86/example.png)
 
-***Portfolio Construction focused on Gradual allocation to build Trust and Transparency***
+***Portfolio construction focused on gradual allocation to build Trust and Transparency***
 
 With an initial ceiling of USD 500 million, we propose a gradual increase in the funds transferred by MakerDAO to CoinShares, in order to monitor the proper execution of the operation. The rate conditions at which the different tranches will be lent will remain the same. The increases would follow this schedule:
 
@@ -115,31 +117,31 @@ Based on these statements, our projections below would generate, at the end of 2
 
 ![return](https://github.com/makerdao/mips/blob/master/MIP86/return.png)
 
-### MIP86c3 – Interests distribution terms
+### MIP86c3: Interests Distribution Terms
 
-#### MIP86c3: Interests distribution terms: Interest payment
+#### Interests distribution terms: Interest payment
 
 CoinShares will pay interests in the form of USDC within the first 2 UK business days of the following month. Rewards will be paid to MakerDAO governance in USDC or any other digital asset upon MakerDAO request and priced at the time of the transfer against USDC.
 
-#### MIP86c3: Interests distribution terms: Interest rate
+#### Interests distribution terms: Interest rate
 
-Given the current markets, CoinShares considers an interest rate of the Secured Overnight Financing Rate (SOFR) to be appropriate. This gives MakerDAO the capacity to be flexible against any FOMC decision. The large markets to which CoinShares has access allow a wider range of opportunities to generate the maximum return while remaining within the scope of MIP13c3.
+Given the current markets, CoinShares considers an interest rate of the Secured Overnight Financing Rate (SOFR) to be appropriate. This gives MakerDAO the capacity to be flexible against any FOMC decision. The large markets to which CoinShares has access allow a wider range of opportunities to generate the maximum return while remaining within the scope of [MIP13c3-SP12](https://mips.makerdao.com/mips/details/MIP13c3SP12).
 
-The SOFR (Secured Overnight Financing Rate) is the reference rate for the US dollar (USD) interbank market. It is calculated by the New York Federal Reserve. For more information about SOFR, please refer to this [Link](https://www.newyorkfed.org/markets/reference-rates/sofr). Below are the SOFR interest rates, according to Bloomberg.
+The SOFR (Secured Overnight Financing Rate) is the reference rate for the US dollar (USD) interbank market. It is calculated by the New York Federal Reserve. For more information about SOFR, please refer to this [link](https://www.newyorkfed.org/markets/reference-rates/sofr). Below are the SOFR interest rates, according to Bloomberg.
 
 ![distribution](https://github.com/makerdao/mips/blob/master/MIP86/distribution.png)
 
-### MIP86c4 – Terms for adding and withdrawing liquidity
+### MIP86c4: Terms for Adding and Withdrawing Liquidity
 
-As specified in MIP13c3SP12, the investment should have the capacity to be wound down within two weeks. The nature of the assets in which CoinShares plans to invest will allow quick scalability both in terms of deployment and recall.
+As specified in [MIP13c3-SP12](https://mips.makerdao.com/mips/details/MIP13c3SP12), the investment should have the capacity to be wound down within two weeks. The nature of the assets in which CoinShares plans to invest will allow quick scalability both in terms of deployment and recall.
 
-The investment will allow for being unwound within seven (7) business hours under normal market circumstances (following a MakerDAO executive vote).
+The investment will allow for being unwound within seven (7) business days under normal market circumstances (following a MakerDAO executive vote).
 
-The investment would, with a high degree of likelihood, be unwidable under stressed market situations within fourteen (14) business days - this scenario may generate losses for MakerDAO.
+The investment would ---with a high degree of likelihood--- be unwidable under stressed market situations within fourteen (14) business days --- this scenario may generate losses for MakerDAO.
 
 The contract continues until revoked by either party.
 
-### MIP86c5 – Transparency and monitoring
+### MIP86c5: Transparency and Monitoring
 
 CoinShares plans to allow full transparency of investments made with MakerDAO USDC's through dedicated tools accessible to everyone. Although originally from the traditional financial industry, CoinShares decided in 2013 to devote fully to digital assets because those new protocols allow for unparalleled transparency in transactions, contracts, and operation of protocols. With this in mind, CoinShares has partnered with Armanino LLP to provide investors with real-time transparency of CoinShares' XBT Provider assets under management, and CoinShares Digital Asset Securities through [Trust Explorer Real Time Asset](https://www.armaninollp.com/press-releases/armanino-provides-real-time-attest-digital-asset-investment-firm-coinshares/).
 
@@ -149,13 +151,13 @@ In addition, similar to what we provide to our investors, we propose to provide 
 
 Finally, because we are convinced that regular communication is the key to such a partnership, we suggest creating a dedicated channel where you can regularly ask our Capital Markets team questions.
 
-### MIP86c6 – Proposed legal structure
+### MIP86c6: Proposed Legal Structure
 
-MakerDAO Assets will be segregated from CoinShares’ proprietary account in a Sub-Account held at our Custodian Komainu and/or at one of our traditional prime brokers. All conversion from Fiat to USDC and USDC to Fiat will be ensured by CoinShares Capital Markets (Jersey) Limited and its direct relationship with Circle.
+MakerDAO Assets will be segregated from CoinShares’ proprietary account in a Sub-Account held at our Custodian Komainu and/or at one of our traditional prime brokers. All conversion from fiat to USDC and USDC to fiat will be ensured by CoinShares Capital Markets (Jersey) Limited and its direct relationship with Circle.
 
 We are not expecting any regulatory challenges in this relationship and are taking a lot of comfort from the achievement of Forge and their team.
 
-### MIP86c7 – Custody
+### MIP86c7: Custody
 
 Komainu as a joint venture between CoinShares, Nomura, and Ledger is an excellent custodian using military-grade security. Komainu is leveraging Ledger Vault which is the most secure solution in the industry thanks to hardware security. Ledger Vault mixes the most advanced security features through its Personal Security Device (a Ledger Nano X upgrade), a dedicated Hardware Security Module, and Ledger proprietary software. Ledger Vault is SOC 2 Type 2 certified.
 
@@ -163,7 +165,7 @@ MakerDAO Governance will vote and approve CoinShares with custody provided by Ko
 
 With regards to the custody and securities held on behalf of MakerDAO they will be under the custody of Tier 1 Financial Services Institutions.
 
-### MIP86c8 – Investment technical structure
+### MIP86c8: Investment Technical Structure
 
 ![investment](https://github.com/makerdao/mips/blob/master/MIP86/investment.png)
 
@@ -180,9 +182,9 @@ Once USDC tokens are transferred by MakerDAO to a MakerDAO Sub-Account at Komain
 
 Various N of M options are available, but at the very least it will be two of three.
 
-### MIP86c9 – Our view on the MIP81 from Coinbase
+### MIP86c9: Our View on the MIP81 from Coinbase
 
-CoinShares noticed and acknowledged the legitimate proposal (MIP81) from Coinbase. CoinShares is not making this application against Coinbase and considers Coinbase as one of its legacy and most reputable counterparties. However, CoinShares considers that it is in the interest of MakerDAO's governance and community to diversify the USDC allocation of the PSM vault, mitigating financial and centralisation risks between different contributors. Segregation and diversification are essential to mitigate risk.
+CoinShares noticed and acknowledged the legitimate proposal ([MIP81](https://forum.makerdao.com/t/mip81-coinbase-usdc-institutional-rewards/17703)) from Coinbase. CoinShares is not making this application against Coinbase and considers Coinbase as one of its legacy and most reputable counterparties. However, CoinShares considers that it is in the interest of MakerDAO's governance and community to diversify the USDC allocation of the PSM vault, mitigating financial and centralisation risks between different contributors. Segregation and diversification are essential to mitigate risk.
 
 CoinShares invites the MakerDAO community to comment on this proposal, knowing that the modalities remain entirely negotiable. We strongly believe that mass adoption of DeFi will be possible through such bridges between DeFi and TradFi, which will reduce the friction between both. We are pleased to share with the community our first collaboration proposal.
 
