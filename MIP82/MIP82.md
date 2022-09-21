@@ -104,7 +104,7 @@ Fees and costs will be deducted from the loan’s interest income.
 ### MIP82c2: Verification Conditions for Collateral Onboarding
 
 **c2.1 Legal Structure and Governance Verification Requirements**
-At least one community member, with legal credentials, must, through a public forum post, validated by at least one Facilitator, provide a verification of the legal and governance structure appropriateness for holding a large amount of low-risk real-world asset collateral for Maker.
+At least one community member, with legal credentials, must, through a public forum post, validated by at least one Facilitator, provide a verification of the legal and governance structure appropriateness for holding a large amount of low-risk real-world asset collateral for Maker. This includes legal review of the loan agreement with Coinbase Custody International Limited, the custodial arrangements for the ETH/BTC collateral, and any other agreements.
 
 **c2.2 Lending Arrangement Key Terms Verification Requirements**
 The Strategic Finance Core Unit Facilitator must, through a public forum post, provide a Verification of the Lending Agreements Business Terms & Risks ensuring the appropriateness of this USDC allocation for Maker and its ALM strategy.
