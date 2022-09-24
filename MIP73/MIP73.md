@@ -236,7 +236,7 @@ After this MIP has been approved, in order to allow the MIP73 collateral onboard
 
 Pando vault will not be granted a debt ceiling until these verifications have occurred.
 
-## MIP73c7: The Transaction and Transaction Restriction Verification
+### MIP73c7: The Transaction and Transaction Restriction Verification
 
 As outlined in the legal structure and flow of funds in MIP73c6, Pando will enter into a Loan Agreement with the Maker Delaware Statutory Trust that restricts Pando’s use of Maker funds to the uses described in this Transaction, specifically only for Pando’s acquisition of Mosaic Solar Loans.
 
