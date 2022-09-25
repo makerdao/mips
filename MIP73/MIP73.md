@@ -1,3 +1,5 @@
+# MIP73: Pando Investment Grade Climate Assets Collateral Onboarding
+
 ## Preamble
 ```
 MIP#: 73
@@ -16,15 +18,6 @@ Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip73-pando-investment-grade-climate-assets-collateral-onboarding/14484
 ```
-Summary Terms*:
-* Principal Amount: $210,000,000
-* Mosaic Int. Rate: 2.9%
-* Maker Int. Rate: 1.25%
-* 3rd Party Fees and Costs: 0.45%
-* Pando Net Return: 1.2%
-* Final Maturity: 2034
-*Certain terms will not be finalized until the pool of Solar Loans is final.*
-
 
 ## References
 
@@ -40,7 +33,6 @@ Summary Terms*:
 * [IPCC Sixth Assessment Report](https://www.ipcc.ch/report/ar6/wg2/)
 
 ## Sentence Summary
-![|Pando](https://github.com/makerdao/mips/blob/master/MIP73/Pando.png)
 
 MIP73: Pando Climate Inc. (“Pando”) is offering Investment Grade climate assets to MakerDAO which will allow Maker to promote DAI as “clean money” by backing it with climate positive collateral, bringing stable financial returns to Maker while simultaneously enabling the reduction of greenhouse gas emissions.
 
@@ -104,7 +96,7 @@ This component sets out how this onboarding can be canceled by Pando.
 
 ## Specification / Proposal Details
 
-## MIP73c1: Background of the Borrower (Pando)
+### MIP73c1: Background of the Borrower (Pando)
 
 (This component is informational)
 
@@ -128,7 +120,7 @@ Highlights of Pando’s Principals include:
 
 The Pando principals are supported by world class Advisors, including KPMG (tax), Perkins Coie, and Morrison & Foerster (legal). Pando’s mission is to radically accelerate the flow of capital into climate solutions by bringing high quality climate assets to crypto protocols.
 
-## MIP73c2: Rating Agency and Borrower Underwriting Processes
+### MIP73c2: Rating Agency and Borrower Underwriting Processes
 (This component is informational)
 
 Both Mosaic and Pando have best-in-class underwriting processes. For example, Mosaic spent years establishing a public rating methodology with Kroll Bond Rating Agency. An Investment Grade rating signifies the risk of default in the underlying assets is extremely unlikely. Also, Pando utilizes a Risk Underwriting Model against which the Principals have developed and deployed billions of dollars. The Pando model has been reviewed by public accounting firms and institutional investors - all of whom have declared it best-in-class.
@@ -143,7 +135,7 @@ The following table provides a summary description of the underwriting criteria 
 
 ![pandorisk](https://github.com/makerdao/mips/blob/master/MIP73/pandorisk.png)
 
-## MIP73c3: Background of the Originator (Mosaic)
+### MIP73c3: Background of the Originator (Mosaic)
 (This component is informational)
 
 
@@ -164,7 +156,7 @@ Mosaic directly originates loans in 48 states and the District of Columbia throu
 * Mosaic bundles and sells solar loans to financial institutions
 * This is an efficient, cost-effective way to capitalize Mosaic loans. Selling to these institutions allows Mosaic to deploy even more solar.
 
-## MIP73c4: Benefits to Maker from the Transaction
+### MIP73c4: Benefits to Maker from the Transaction
 
 (This component is informational)
 
@@ -183,7 +175,7 @@ The following bullets provide some of the benefits that will accrue to Maker fro
 
 
 
-## MIP73c5: Process Optimization
+### MIP73c5: Process Optimization
 
 This proposal is a self-contained collateral onboarding proposal of a RWA collateral construct that is in its final stage and ready for immediate execution upon voter approval, using its own optimized assessment and verification processes.
 
@@ -192,7 +184,7 @@ If this MIP is approved, the collateral onboarding is immediately moved to step 
 However, the standard assessments described in the Collateral Onboarding guide do not apply to MIP73, as they are not relevant for an RWA onboarding of this type. Instead, a process providing equivalent protections to the spirit of those assessments is done as specified in MIP73c6 and MIP73c7, and these assessments take the place of the standard assessments and allow it to move forward in the process.
 
 
-## MIP73c6: Legal and Approval Structure Verification
+### MIP73c6: Legal and Approval Structure Verification
 
 This proposal is based on the precedents set by the 6S Trust structure approved by the community in MIP13c3-SP4, as well MIP21, which has been active for more than half a year. These precedents have successfully demonstrated the ability to securely interoperate between the Maker protocol and Real World Assets, as evidenced by more than $9.4 million of real world assets financed.
 
@@ -244,7 +236,7 @@ After this MIP has been approved, in order to allow the MIP73 collateral onboard
 
 Pando vault will not be granted a debt ceiling until these verifications have occurred.
 
-## MIP73c7: The Transaction and Transaction Restriction Verification
+### MIP73c7: The Transaction and Transaction Restriction Verification
 
 As outlined in the legal structure and flow of funds in MIP73c6, Pando will enter into a Loan Agreement with the Maker Delaware Statutory Trust that restricts Pando’s use of Maker funds to the uses described in this Transaction, specifically only for Pando’s acquisition of Mosaic Solar Loans.
 
@@ -295,7 +287,7 @@ The Transaction will be structured by Pando and Mosaic, with support from Societ
 
 After this MIP has been approved, in order to allow the MIP73 collateral onboarding to occur as described in MIP73c8, the Real World Finance Facilitator must, through a public forum post, provide a Verification that the Transaction restrictions of the de facto implemented Legal Structure guarantee that it will execute a transaction with terms as described in this component.
 
-## MIP73c8: Technical Conditions of the Collateral Onboarding and Technical Verification
+### MIP73c8: Technical Conditions of the Collateral Onboarding and Technical Verification
 
 The Collateral Engineering Services Core Unit will, with support from the Protocol Engineering Core Unit and any other relevant Core Units, deploy smart contracts that hard code the ETH Address emitted by the legal structure specified in MIP73c6, and follow the MIP21 framework.
 
@@ -309,7 +301,7 @@ The ability to initiate the generation of DAI from the vault and trigger their t
 
 In order to allow the MIP73 collateral onboarding to occur as described in this MIP73c8, the Collateral Onboading Services Facilitator must, through a public forum post, provide a Verification that the technical implementation of the Vault are in accordance with MIP21 and is technically secure enough to receive a large debt ceiling.
 
-## MIP73c9: Specification of Executive Vote
+### MIP73c9: Specification of Executive Vote
 
 When the collateral onboarding process for MIP73 has progressed to step 7, and with the conditions specified in MIP73c6, MIP73c7 and MIP73c8 met, an executive vote must be created (or code must be bundled into a broader executive vote) that activates all permissions for the vault to be onboarded based on the smart contracts specified in MIP73c8.
 
@@ -320,7 +312,7 @@ The Vault must provide:
 * All other parameters must be set to ensure they have no functional impact.
 
 
-## MIP73c10: Collateral Onboarding Cancellation Procedure
+### MIP73c10: Collateral Onboarding Cancellation Procedure
 
 The collateral onboarding can be canceled at any time by the community through a standard or urgent signal request process.
 
@@ -330,7 +322,7 @@ The goal is that this option should never be necessary, as the combination of co
 
 If it becomes necessary to use the cancellation feature regardless, this would be considered a significant failure of protocol coordination and execution, and in most cases the proposer of this MIP should expect to lose their trust and reputation in the community. This risk helps ensure that only the most serious proposals by the most competent proposers will be willing to use this process.
 
-## MIP73c11: Unilateral Instant Collateral Onboarding Withdrawal
+### MIP73c11: Unilateral Instant Collateral Onboarding Withdrawal
 
 After this MIP has been approved, Pando can at any time through a public forum post, unilaterally withdraw the Collateral Onboarding application. This nullifies all aspects of MIP73c5, MIP73c6, MIP73c7, and MIP73c8, and instantly removes the Collateral Onboarding block specified MIP73c5, and formally removes MIP73 from the Collateral Onboarding process.
 

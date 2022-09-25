@@ -46,15 +46,15 @@ This MIP is based on the ratified Declaration of Intent to Invest in Short-Term 
 
 ## Component Summary
 
-**MIP86c1: Presentation of CoinShares**
-**MIP86c2: Investment Program**
-**MIP86c3: Interests Distribution Terms**
-**MIP86c4: Terms for Adding and Withdrawing Liquidity**
-**MIP86c5: Transparency and Monitoring**
-**MIP86c6: Proposed Legal Structure**
-**MIP86c7: Custody**
-**MIP86c8: Technical Structure**
-**MIP86c9: Our View on the MIP81 from Coinbase**
+**MIP86c1: Presentation of CoinShares**  
+**MIP86c2: Investment Program**  
+**MIP86c3: Interests Distribution Terms**  
+**MIP86c4: Terms for Adding and Withdrawing Liquidity**  
+**MIP86c5: Transparency and Monitoring**  
+**MIP86c6: Proposed Legal Structure**  
+**MIP86c7: Custody**  
+**MIP86c8: Technical Structure**  
+**MIP86c9: Our View on the MIP81 from Coinbase**  
 
 ## Specification
 

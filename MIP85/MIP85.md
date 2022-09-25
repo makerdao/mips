@@ -9,13 +9,14 @@ Author(s): @rune
 Contributors: @juan, @retro
 Tags: endgame
 Type:
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces:
 Forum URL: https://forum.makerdao.com/t/mipxx-ldo-to-mkr-otc-swap/17714
 Ratification Poll URL:
+Extra: This MIP has been [withdrawn by its author](https://forum.makerdao.com/t/mip85-ldo-to-mkr-otc-swap/17714/38).
 ```
 
 ## Sentence Summary
