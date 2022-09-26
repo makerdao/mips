@@ -9,14 +9,15 @@ Author(s): @Patrick_J, @psychonaut
 Contributors: @prose11, @LongForWisdom, @Gala
 Tags: delegates, mip-set, delegates-mip-set, process, delegate-compensation
 Type: Process
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-07-29
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Dependencies: MIP77
 Replaces: MIP61
 Forum URL: https://forum.makerdao.com/t/mip78-recognized-delegate-dai-compensation/16906
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUvMPe2
 ```
+
 ## Note
 
 This MIP is intended to be voted on as a MIP Set along with:

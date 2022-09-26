@@ -7,13 +7,15 @@ MIP55c3-SP#: 7
 Author(s): @kat
 Contributors: @sebix @Joserjimz
 Tags: spf
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-08-10
-Date Ratified: (yyyy-mm-dd)
+Date Ratified: 2022-09-26
 Amount Requested: 81,000 DAI
 Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169
+Ratification Poll URL: https://vote.makerdao.com/polling/QmcJQCyW
 ```
+
 ## Sentence Summary
 
 This subproposal aims to allocate 81,000 DAI to the Ambassador Program.
