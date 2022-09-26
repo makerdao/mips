@@ -22,6 +22,6 @@ Date Ratified: <yyyy-mm-dd>
 
 - Why are you proposing this modification to the state?
 
-### New collateralization ratio
+### New Collateralization Ratio
 
 - This section contains the new Collateralization Ratio and the new POVEDC equation to replace the current parameters if the subproposal passes.
