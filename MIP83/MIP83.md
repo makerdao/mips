@@ -7,7 +7,7 @@ MIP#: 83
 Title: Recognized Launch MetaDAO Clusters
 Author(s): @rune
 Contributors: @juan, @retro
-Tags: endgame
+Tags: endgame, endgame-prelaunch-mip-set
 Type: Process
 Status: RFC
 Date Proposed: 2022-09-07

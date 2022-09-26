@@ -6,8 +6,8 @@
 MIP39c2-SP#: 37
 Author(s): @rune
 Contributors:
-Tags: collateral-eng, collateral-onboard, collateral-offboard, core-unit, mip-set, ces-001, cob-001
-Status: Request for Comments (RFC)
+Tags: collateral-eng, collateral-onboard, collateral-offboard, endgame, endgame-prelaunch-mip-set, ces-001, cob-001
+Status: RFC
 Date Applied: 2021-09-07
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-spxx-modifying-collateral-engineering-services-core-unit-mandate-ces-001/17751

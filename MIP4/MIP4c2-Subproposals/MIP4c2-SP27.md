@@ -7,7 +7,7 @@ MIP4c2-SP#: 27
 MIP to be amended: MIP16
 Author(s): @rune
 Contributors: @juan, @retro    
-Tags: template
+Tags: template, endgame, endgame-prelaunch-mip-set
 Status: RFC
 Date Proposed: <2022-09-07>
 Date Ratified: <yyyy-mm-dd>

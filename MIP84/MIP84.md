@@ -7,7 +7,7 @@ MIP#: 84
 Title: Activate Protocol-Owned Vault Emulation
 Author(s): @rune
 Contributors: @juan, @retro
-Tags: template
+Tags: template, endgame, endgame-prelaunch-mip-set
 Type: MIP Type
 Status: RFC
 Date Proposed: 2022-09-07
