@@ -22,6 +22,6 @@ Date Ratified: <yyyy-mm-dd>
 
 - Why are you proposing this modification to the POVEC Virtual Price Ceiling?
 
-### New POVEC Virtual Price Ceiling parameter
+### New POVEC Virtual Price Ceiling Parameter
 
 - This section contains the New POVEC Virtual Price Ceiling parameter  that will override the current parameter in MIP84c11
