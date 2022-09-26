@@ -128,7 +128,7 @@ This is a technical process component that can have on-chain effects that alter 
 
 - **Minimum Feedback Period**: 1 Month.
 - **Minimum Frozen Period**: 1 Week.
-- Ratification Polls for MIP40c3 subproposals involving a Core Unit Budget Modification will have different requirements to MIP51c2. Instead of binary voting, they must use ranked-choice voting, with the options as follows:
+- Ratification Polls for MIP40c3 subproposals involving a Core Unit Budget Modification will have different requirements to MIP51c2. Instead of binary voting, they must use options as follows:
     - A: Approve existing budget only (Business as usual)
     - B: Approve increased budget
     - C: Reject budget
