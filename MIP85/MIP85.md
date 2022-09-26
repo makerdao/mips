@@ -7,7 +7,7 @@ MIP#: 85
 Title: LDO-to-MKR OTC Swap
 Author(s): @rune
 Contributors: @juan, @retro
-Tags: endgame
+Tags: endgame, endgame-prelaunch-mip-set
 Type:
 Status: Withdrawn
 Date Proposed: 2022-09-07

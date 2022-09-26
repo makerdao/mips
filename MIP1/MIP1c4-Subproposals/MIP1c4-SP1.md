@@ -6,7 +6,7 @@ MIP1c4-SP#: 1
 Title of Problem Space Item to be Added or Deleted: Core Governance Framework, Collateral Onboarding, Decentralized Oracle Freeze Module, Appeals Process, Dai Stabilization Cycle, Vote Delegation, Synthetic Assets, Oracles, Emergency Oracles, Dai Stability Adjustment Module, Website and Social Media, Guardian Entities and Reserves, Vote Incentives, Revisit Auction Design, Dai Foundation, Constitution, Endgame Product MIPs, Scope MIPs, Metanomics, Launch MetaDAO Activation
 Author(s): @rune
 Contributors: @juan, @retro
-Tags: endgame
+Tags: endgame, endgame-prelaunch-mip-set
 Date of Submission: <2022-09-07>
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip1c4-spxx-subproposal-for-changing-the-problem-space/17710

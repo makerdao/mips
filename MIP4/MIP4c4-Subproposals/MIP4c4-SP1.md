@@ -7,8 +7,8 @@ MIP4c4-SP#: 1
 MIPs to be amended: MIP6, MIP7, MIP8, MIP9, MIP11, MIP12
 Author(s): @rune
 Contributors: @juan, @retro
-Tags: template
-Status:
+Tags: template, endgame, endgame-prelaunch-mip-set
+Status: RFC
 Date of Removal Submission: <2022-09-07>
 Date of ratification: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c4-spxx-mip-removal-subproposals/17712
