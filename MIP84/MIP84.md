@@ -45,11 +45,11 @@ Defines the POVE Debt Ceiling calculation.
 **MIP84c6: Modify the Collateralization Ratio of the Protocol-Owned Vault Emulation**
 Defines the ability to modify the POVE Debt Ceiling calculation.
 
-**MIP84c7: Dss-kiln parameters**
-Defines the dss-kiln parameters used to do recurring purchases of POVE collateral.
+**MIP84c7: DssKiln parameters**
+Defines the DssKiln parameters used to do recurring purchases of POVE collateral.
 
-**MIP84c8: Modify the dss-kiln Parameters**
-Defines the ability to modify the dss-kiln parameters
+**MIP84c8: Modify the DssKiln Parameters**
+Defines the ability to modify the DssKiln parameters
 
 **MIP84c9: Protocol Surplus and the Emulated Surplus Buffer Upper Limit**
 Defines the relationship between the protocol's surplus and the POVE's buffer.
@@ -68,13 +68,13 @@ Defines how the POVE must eventually be replaced by a smart contract based Proto
 
 ## Motivation
 
-The Protocol-Owned Vault is a key element of the Endgame Plan that helps achieve real resilience and decentralization by increasing the amount of Dai backed by Staked ETH. The Protocol-Owned Vault Emulation is an approach to emulate the outcome of operating a Protocol-Owned Vault, but only using existing features of the Maker Protocol as it exists today. This is achieved by using the ability to set a negative lower limit to the surplus buffer in order to emulate a vault with an available debt ceiling, and using the Pause Proxy and dss-kiln to accumulate collateral assets.
+The Protocol-Owned Vault is a key element of the Endgame Plan that helps achieve real resilience and decentralization by increasing the amount of Dai backed by Staked ETH. The Protocol-Owned Vault Emulation is an approach to emulate the outcome of operating a Protocol-Owned Vault, but only using existing features of the Maker Protocol as it exists today. This is achieved by using the ability to set a negative lower limit to the surplus buffer in order to emulate a vault with an available debt ceiling, and using the Pause Proxy and DssKiln to accumulate collateral assets.
 
 ## Specification / Proposal Details
 
 ### MIP84c1: Protocol-Owned Vault Emulation Definitions
 
-This MIP will activate the Protocol-Owned Vault Emulation (POVE). It is an approach to emulate the outcome of operating a Protocol-Owned Vault, but only using existing features of the Maker Protocol as it exists today. This is achieved by using the ability to set a negative lower limit to the surplus buffer in order to emulate a vault with an available debt ceiling, and using the Pause Proxy and dss-kiln to accumulate collateral assets.
+This MIP will activate the Protocol-Owned Vault Emulation (POVE). It is an approach to emulate the outcome of operating a Protocol-Owned Vault, but only using existing features of the Maker Protocol as it exists today. This is achieved by using the ability to set a negative lower limit to the surplus buffer in order to emulate a vault with an available debt ceiling, and using the Pause Proxy and DssKiln to accumulate collateral assets.
 
 **Protocol-Owned Vault Emulation Collateral (POVEC)** is any Lido Staked ETH, EtherDai or Dai held in the Pause Proxy. It is used to calculate the amount of Dai that Maker can use to accumulate more POVEC.
 
@@ -89,8 +89,8 @@ This MIP will activate the Protocol-Owned Vault Emulation (POVE). It is an appro
 The POVE will operate based on manual processes defined in this MIP that are controlled directly by MKR holders using Executive Votes. The Risk Core Unit is mandated with following these pre-defined processes, making parameter adjustment proposals, and is given the emergency powers to de-risk POVE activity if it becomes necessary, including the immediate cessation of additional collateral purchases. This can be done through weekly governance polls, or if necessary be bundled directly into weekly or emergency Executive Votes.
 
 The actions that can be proposed by Risk Facilitators to derisk the POVE in a weekly governance poll, or directly into an emergency or weekly executive vote include, but are not limited to:
-* Stopping the dss-kiln from purchasing  more collateral
-* Installing a new dss-kiln with custom parameters to sell collateral for Dai to wind down the debt of the POVE
+* Stopping the DssKiln from purchasing  more collateral
+* Installing a new DssKiln with custom parameters to sell collateral for Dai to wind down the debt of the POVE
 * Partially or fully liquidate the vault using a custom method
 * Modifying any of the parameters that are relevant for derisking the POVE. Parameters can only be modified this way if it makes them more conservative and reduces risk, it cannot be used to increase risk, such as by lowering the Collateralization Ratio parameter.
 
@@ -132,18 +132,18 @@ Facilitators with relevant mandates may propose weekly polls to amend the Collat
 
 MIP84c6 subproposals must use the template located at [MIP84c6-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP84/MIP84c6-Subproposal-Template.md).
 
-### MIP84c7: Dss-kiln parameters
+### MIP84c7: DssKiln parameters
 
-Any Dai available in the Pause Proxy, whether from POVEDC or Starting Collateral, is used to accumulate Lido Staked ETH, and later EtherDai, using a dss-kiln implementation sourcing liquidity from a liquid DEX. After the launch of Elixir, the dss-kiln target will be the Elixir balancer pool.
+Any Dai available in the Pause Proxy, whether from POVEDC or Starting Collateral, is used to accumulate Lido Staked ETH, and later EtherDai, using a DssKiln implementation sourcing liquidity from a liquid DEX. After the launch of Elixir, the DssKiln target will be the Elixir balancer pool.
 
 * `sell`: Dai
 * `buy`: stETH
 * `hop`: 20 minutes
 * `lot`: 7000
 
-### MIP84c8: Modify the Dss-kiln parameters
+### MIP84c8: Modify the DssKiln parameters
 
-This component enables a Subproposal Process to modify the Dss-kiln parameters as defined in MIP84c7.
+This component enables a Subproposal Process to modify the DssKiln parameters as defined in MIP84c7.
 
 #### Subproposal Parameters and Template
 
@@ -153,7 +153,7 @@ The parameters for MIP84c8 subproposals are:
 - **Minimum Frozen Period**: 1 week.
 - **Governance Cycle**: Monthly.
 
-Facilitators with relevant mandates may propose weekly polls to amend the Dss-kiln parameters when they deem necessary.
+Facilitators with relevant mandates may propose weekly polls to amend the DssKiln parameters when they deem necessary.
 
 MIP84c8 subproposals must use the template located at [MIP84c8-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP84/MIP84c8-Subproposal-Template.md).
 
