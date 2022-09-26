@@ -22,7 +22,7 @@ Date Ratified: <yyyy-mm-dd>
 
 - Why are you proposing this modification to the dss-kiln parameters?
 
-### New dss-kiln parameters
+### New dss-kiln Parameters
 
 - This section contains the new dss-kiln parameters that will override the current parameters in MIP84c7
 
