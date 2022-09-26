@@ -45,11 +45,11 @@ Defines the POVE Debt Ceiling calculation.
 **MIP84c6: Modify the Collateralization Ratio of the Protocol-Owned Vault Emulation**
 Defines the ability to modify the POVE Debt Ceiling calculation.
 
-**MIP84c7: DssKiln parameters**
+**MIP84c7: DssKiln Parameters**
 Defines the DssKiln parameters used to do recurring purchases of POVE collateral.
 
 **MIP84c8: Modify the DssKiln Parameters**
-Defines the ability to modify the DssKiln parameters
+Defines the ability to modify the DssKiln parameters.
 
 **MIP84c9: Protocol Surplus and the Emulated Surplus Buffer Upper Limit**
 Defines the relationship between the protocol's surplus and the POVE's buffer.
@@ -63,8 +63,8 @@ Defines a virtual maximum for collateral assets in the POVE.
 **MIP84c11: Modify Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling**
 Defines the ability to modify the POVEC's Virtual Price Ceiling.
 
-**MIP84c13: Long-term replacement of the Protocol-Owned Vault Emulation**
-Defines how the POVE must eventually be replaced by a smart contract based Protocol Owned Vault
+**MIP84c13: Long-term Replacement of the Protocol-Owned Vault Emulation**
+Defines how the POVE must eventually be replaced by a smart contract based Protocol-Owned Vault.
 
 ## Motivation
 
@@ -86,13 +86,14 @@ This MIP will activate the Protocol-Owned Vault Emulation (POVE). It is an appro
 
 ### MIP84c2: Protocol-Owned Vault Administrative Mandate
 
-The POVE will operate based on manual processes defined in this MIP that are controlled directly by MKR holders using Executive Votes. The Risk Core Unit is mandated with following these pre-defined processes, making parameter adjustment proposals, and is given the emergency powers to de-risk POVE activity if it becomes necessary, including the immediate cessation of additional collateral purchases. This can be done through weekly governance polls, or if necessary be bundled directly into weekly or emergency Executive Votes.
+The POVE will operate based on manual processes defined in this MIP that are controlled directly by MKR holders using Executive Votes. The Risk Core Unit is mandated with following these pre-defined processes, making parameter adjustment proposals, and is given the emergency powers to derisk POVE activity if it becomes necessary, including the immediate cessation of additional collateral purchases. This can be done through weekly governance polls, or if necessary be bundled directly into weekly or emergency Executive Votes.
 
-The actions that can be proposed by Risk Facilitators to derisk the POVE in a weekly governance poll, or directly into an emergency or weekly executive vote include, but are not limited to:
-* Stopping the DssKiln from purchasing  more collateral
-* Installing a new DssKiln with custom parameters to sell collateral for Dai to wind down the debt of the POVE
-* Partially or fully liquidate the vault using a custom method
-* Modifying any of the parameters that are relevant for derisking the POVE. Parameters can only be modified this way if it makes them more conservative and reduces risk, it cannot be used to increase risk, such as by lowering the Collateralization Ratio parameter.
+RISK-001 Facilitators can propose actions to derisk the POVE via weekly governance polls or into emergency or weekly executive votes. These actions include but are not limited to:
+
+* Stopping the DssKiln from purchasing  more collateral.
+* Installing a new DssKiln with custom parameters to sell collateral for Dai to wind down the debt of the POVE.
+* Partially or fully liquidating the vault using a custom method.
+* Modifying any of the parameters that are relevant for derisking the POVE. Parameters can only be modified this way if it makes them more conservative and reduces risk. This action cannot be used to increase risk, such as by lowering the Collateralization Ratio parameter.
 
 
 The POVE is exclusively controlled and owned by Maker Governance, and no third-party, individual, multisig, or another point of control has any technical access to the POVE or its assets in any way.
@@ -118,7 +119,7 @@ Calculating the POVEDC and modifying the lower limit to the surplus buffer corre
 
 ### MIP84c6: Modify the Collateralization Ratio of the Protocol-Owned Vault Emulation
 
-This component enables a monthly Subproposal Process to modify the Collateralization Ratio as defined in MIP84c5 above.
+This process component establishes the process to modify the Collateralization Ratio as defined in MIP84c5 above.
 
 #### Subproposal Parameters and Template
 
@@ -143,7 +144,7 @@ Any Dai available in the Pause Proxy, whether from POVEDC or Starting Collateral
 
 ### MIP84c8: Modify the DssKiln parameters
 
-This component enables a Subproposal Process to modify the DssKiln parameters as defined in MIP84c7.
+This process component establishes the process to modify the Dss-kiln parameters as defined in MIP84c7.
 
 #### Subproposal Parameters and Template
 
@@ -171,7 +172,7 @@ The initial Emulated Surplus Buffer Upper Limit is set to 40 million Dai.
 
 ### MIP84c10: Modify Emulated Surplus Buffer Upper Limit
 
-This subproposal process enables Maker Governance to modify the Emulated Surplus Buffer Upper Limit as defined in MIP84c9
+This process component enables Maker Governance to modify the Emulated Surplus Buffer Upper Limit as defined in MIP84c9
 
 #### Subproposal Parameters and Template
 
@@ -194,7 +195,7 @@ The POVEC Virtual Price Ceiling of ETH (For Lido Staked ETH or EtherDai): 1500 U
 
 ### MIP84c12: Modify Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling
 
-This component enables a Subproposal Process to modify the POVEC Virtual Price Ceiling defined in MIP84c11.
+This process component establishes the process to modify the POVEC Virtual Price Ceiling defined in MIP84c11.
 
 #### Subproposal Parameters and Template
 
@@ -210,6 +211,6 @@ MIP84c12 subproposals must use the template located at [MIP84c12-Subproposal-Tem
 
 # MIP84c13: Long-term replacement of the Protocol-Owned Vault Emulation
 
-The POVE is not meant to be a permanent feature of the Endgame, rather it is a short-term solution that allows Maker to quickly begin accumulating staked ETH, which enables it to be done at a slower rate, reducing risks.
+The POVE is not meant to be a permanent feature of the Endgame, rather it is a short-term solution that allows Maker to quickly begin accumulating staked ETH, at a steady rate, reducing risks.
 
 The POVE must eventually be replaced by a fully smart contract based, automated, Protocol-Owned Vault. The Endgame Plan Launch MIPs must contain an Endgame Product MIP for the Protocol-Owned Vault that will eventually replace the POVE.
