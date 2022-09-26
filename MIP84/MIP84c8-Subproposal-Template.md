@@ -28,7 +28,7 @@ Date Ratified: <yyyy-mm-dd>
 
 - The following parameters must be specified:
 
-   * `sell`: The token to be deposited into DssKiln and sold.
+  * `sell`: The token to be deposited into DssKiln and sold.
   * `buy`: The token to be bought in exchange for the sold token.
   * `hop`: Duration specified in seconds. It represents a minimum number of seconds that must pass before the `lot` can be sold.
   * `lot`: The maximum quantity of tokens to be sold per hop.
