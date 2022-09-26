@@ -55,7 +55,7 @@ Defines the ability to modify the dss-kiln parameters
 Defines the relationship between the protocol's surplus and the POVE's buffer.
 
 **MIP84c10: Modify Emulated Surplus Buffer Upper Limit**
-Defines the ability to modify the Emulated Surplus Buffer Upper Limit
+Defines the ability to modify the Emulated Surplus Buffer Upper Limit.
 
 **MIP84c10: Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling**
 Defines a virtual maximum for collateral assets in the POVE.
