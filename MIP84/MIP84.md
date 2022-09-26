@@ -144,7 +144,7 @@ Any Dai available in the Pause Proxy, whether from POVEDC or Starting Collateral
 
 ### MIP84c8: Modify the DssKiln parameters
 
-This process component establishes the process to modify the Dss-kiln parameters as defined in MIP84c7.
+This process component establishes the process to modify the DssKiln parameters as defined in MIP84c7.
 
 #### Subproposal Parameters and Template
 
