@@ -46,7 +46,7 @@ Defines the POVE Debt Ceiling calculation.
 Defines the ability to modify the POVE Debt Ceiling calculation.
 
 **MIP84c7: Dss-kiln parameters**
-Defines the dss-kiln parameters used to do recurring purchases of POVE collateral
+Defines the dss-kiln parameters used to do recurring purchases of POVE collateral.
 
 **MIP84c8: Modify the dss-kiln Parameters**
 Defines the ability to modify the dss-kiln parameters
