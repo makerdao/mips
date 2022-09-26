@@ -1,4 +1,4 @@
-# MIP84c8: Modify the Dss-kiln parameters
+# MIP84c8: Modify the dss-kiln Parameters
 
 ## Preamble
 
