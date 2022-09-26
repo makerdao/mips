@@ -175,7 +175,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
     - **Budget Amount** - A total of 1,079,793 DAI will be streamed to 0x01D26f8c5cC009868A4BF66E268c17B057fF7A73 starting at 2022-04-01 and ending at 2023-04-01.
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP59 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP59.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP60](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP60.md)
+- **MKR Vesting** - [MIP40c3-SP80](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP80.md)
 
 ##### Facilitator(s)
 
@@ -352,6 +352,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
         - A total of DAI 257,500 (6*42,917) will be streamed to 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1 starting 02-01-2022 and ending 07-31-2022
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP47 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP47.md#list-of-budget-breakdowns)
+	- **MKR Vesting** - [MIP40c3-SP79](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP79.md)
 
 ##### Facilitator
 

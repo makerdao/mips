@@ -6,7 +6,7 @@
 MIP40c3-SP#: 60
 Author(s): @prose11, @LongForWisdom, @Patrick_J
 Contributors: @blimpa, @gala
-Tags: core-unit, cu-gov-001, budget, mkr-budget, active
+Tags: core-unit, cu-gov-001, budget, mkr-budget
 Status: Accepted
 Date Proposed: 2022-02-09
 Date Ratified: 2022-03-28
