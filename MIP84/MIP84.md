@@ -120,6 +120,16 @@ Calculating the POVEDC and modifying the lower limit to the surplus buffer corre
 
 This component enables a monthly Subproposal Process to modify the Collateralization Ratio as defined in MIP84c5 above.
 
+#### Subproposal Parameters and Template
+
+The parameters for MIP84c6 subproposals are:
+
+- **Minimum Feedback Period**: 4 weeks.
+- **Minimum Frozen Period**: 1 week.
+- **Governance Cycle**: Monthly.
+
+Facilitators with relevant mandates may propose weekly polls to amend the Collateralization Ratio of the Protocol-Owned Vault Emulation when they deem necessary.
+
 MIP84c6 subproposals must use the template located at [MIP84c6-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP84/MIP84c6-Subproposal-Template.md).
 
 ### MIP84c7: Dss-kiln parameters
@@ -134,6 +144,16 @@ Any Dai available in the Pause Proxy, whether from POVEDC or Starting Collateral
 ### MIP84c8: Modify the Dss-kiln parameters
 
 This component enables a Subproposal Process to modify the Dss-kiln parameters as defined in MIP84c7.
+
+#### Subproposal Parameters and Template
+
+The parameters for MIP84c8 subproposals are:
+
+- **Minimum Feedback Period**: 4 weeks.
+- **Minimum Frozen Period**: 1 week.
+- **Governance Cycle**: Monthly.
+
+Facilitators with relevant mandates may propose weekly polls to amend the Dss-kiln parameters when they deem necessary.
 
 MIP84c8 subproposals must use the template located at [MIP84c8-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP84/MIP84c8-Subproposal-Template.md).
 
@@ -153,6 +173,16 @@ The initial Emulated Surplus Buffer Upper Limit is set to 40 million Dai.
 
 This subproposal process enables Maker Governance to modify the Emulated Surplus Buffer Upper Limit as defined in MIP84c9
 
+#### Subproposal Parameters and Template
+
+The parameters for MIP84c10 subproposals are:
+
+- **Minimum Feedback Period**: 4 weeks.
+- **Minimum Frozen Period**: 1 week.
+- **Governance Cycle**: Monthly.
+
+Facilitators with relevant mandates may propose weekly polls to amend the Protocol Surplus and the Emulated Surplus Buffer Upper Limit when they deem necessary.
+
 MIP84c10 subproposals must use the template located at [MIP84c10-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP84/MIP84c10-Subproposal-Template.md).
 
 ### MIP84c11: Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling
@@ -161,6 +191,25 @@ To prevent overleverage of the POVE due to unsustainable price appreciation of t
 
 The POVEC Virtual Price Ceiling of ETH (For Lido Staked ETH or EtherDai): 1500 USD
 
+
 ### MIP84c12: Modify Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling
 
 This component enables a Subproposal Process to modify the POVEC Virtual Price Ceiling defined in MIP84c11.
+
+#### Subproposal Parameters and Template
+
+The parameters for MIP84c12 subproposals are:
+
+- **Minimum Feedback Period**: 4 weeks.
+- **Minimum Frozen Period**: 1 week.
+- **Governance Cycle**: Monthly.
+
+Facilitators with relevant mandates may propose weekly polls to amend the Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling when they deem necessary.
+
+MIP84c12 subproposals must use the template located at [MIP84c12-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP84/MIP84c12-Subproposal-Template.md).
+
+# MIP84c13: Long-term replacement of the Protocol-Owned Vault Emulation
+
+The POVE is not meant to be a permanent feature of the Endgame, rather it is a short-term solution that allows Maker to quickly begin accumulating staked ETH, which enables it to be done at a slower rate, reducing risks.
+
+The POVE must eventually be replaced by a fully smart contract based, automated, Protocol-Owned Vault. The Endgame Plan Launch MIPs must contain an Endgame Product MIP for the Protocol-Owned Vault that will eventually replace the POVE.
