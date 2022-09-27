@@ -55,11 +55,10 @@ This Component provides the official list of clusters with their codenames, thei
 * Vermillion (Creator): TBD
 * Maroon (Creator): TBD
 * Magenta (Creator): TBD
-* Scarlet (Creator): TBD
 * Viridian (Protector): TBD
 * Spring (Protector): TBD
-* Cerulean (Governor): TBD
-* Azure (Governor): TBD
+
+The part of MIP83c2 that is modifiable by MIP83c2 ends above this line.
 
 ### MIP83c3: Recognized Launch MetaDAO Cluster Amendment Process
 
