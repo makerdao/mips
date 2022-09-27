@@ -60,7 +60,7 @@ The part of MIP83c2 that is modifiable by MIP83c3 begins below this line:
 * Viridian (Protector): TBD
 * Spring (Protector): TBD
 
-The part of MIP83c2 that is modifiable by MIP83c2 ends above this line.
+The part of MIP83c2 that is modifiable by MIP83c3 ends above this line.
 
 ### MIP83c3: Recognized Launch MetaDAO Cluster Amendment Process
 
