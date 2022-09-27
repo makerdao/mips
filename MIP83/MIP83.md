@@ -63,4 +63,6 @@ This Component provides the official list of clusters with their codenames, thei
 
 ### MIP83c3: Recognized Launch MetaDAO Cluster Amendment Process
 
-This subproposal process overwrites the state of MIP83c2, making it possible to change the number of Recognized Launch MetaDAO Clusters, their names, their class, and their Cluster Facilitators.
+This process component establishes the process to overwrite the state of MIP83c2, making it possible to change the number of Recognized Launch MetaDAO Clusters, their names, their class, and their Cluster Facilitators.
+
+MIP83c3 Subproposals enter the Monthly Governance Cycle. They must use the [MIP83c3 subproposal template](https://github.com/makerdao/mips/blob/master/MIP83/MIP83c3-Subproposal-Template.md).
