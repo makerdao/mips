@@ -6,12 +6,14 @@
 MIP40c3-SP#: 80
 Author(s): @prose11, @Patrick_J
 Contributors: 
-Tags: core-unit, cu-gov-001, budget, mkr-budget
-Status: Formal Submission
+Tags: core-unit, cu-gov-001, budget, mkr-budget, active
+Status: Accepted
 Date Proposed: 2022-08-10
-Date Ratified: 
+Date Ratified: 2022-09-26
 Ratification Poll URL: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-spx-modify-govalpha-core-unit-mkr-budget-q3-2022/17164
+Ratification Poll URL: https://vote.makerdao.com/polling/QmcJQCyW
+Extra: Winning option was Option 2: 150% Multiplier Applied - 115.21 Total MKR.
 ```
 
 ## Sentence Summary

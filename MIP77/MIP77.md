@@ -9,12 +9,13 @@ Author(s): @Patrick_J
 Contributors: @LongForWisdom, @blimpa, @psychonaut, @prose11
 Tags: delegates, mip-set, delegates-mip-set, process
 Type: Process
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-07-29
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Dependencies: <List of dependent MIPs>
 Replaces: MIP61
 Forum URL: https://forum.makerdao.com/t/mip77-delegates-in-the-maker-protocol/16905
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUvMPe2
 ```
 
 ## Note

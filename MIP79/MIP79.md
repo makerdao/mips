@@ -9,13 +9,13 @@ Author(s): @Patrick_J
 Contributors: @psychonaut, @LongForWisdom, @prose11
 Tags: delegates, mip-set, delegates-mip-set, process, delegate-compensation
 Type: Process
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-07-29
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Dependencies: MIP77, MIP78
 Replaces: N/A
 Forum URL: https://forum.makerdao.com/t/mip79-recognized-delegate-mkr-compensation/16907
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUvMPe2
 ```
 
 ## Note
