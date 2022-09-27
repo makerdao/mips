@@ -6,7 +6,7 @@
 MIP4c2-SP#: 26
 MIP to be amended: MIP41
 Author(s): CodeKnight
-Contributors: @blimpa, @patrick_j, @Gala
+Contributors: @blimpa, @Gala
 Tags: mip-amendment
 Status: RFC
 Date of Amendment Submission: 2022-09-01
