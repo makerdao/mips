@@ -108,7 +108,7 @@ Contributors - 151,248.52 DAI
 83.35 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 @Patrick_J Facilitator Stream:
-43.58 MKR streamed from the Pause Proxy to **0x9E9Baa2633F9B1a17F3808FD21739cb1C47Ea989** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
+43.58 MKR streamed from the Pause Proxy to **0xbb147E995c9f159b93Da683dCa7893d6157199B9** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 Core Unit Stream:
 203.34 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
