@@ -24,6 +24,8 @@ This subproposal relieves the current RWF-001 Facilitator, @williamr, from his r
 
 All unspent funds and assets should immediately be handed over to an appointed Interim Facilitator.
 
+If this proposal passes and [MIP39c3-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md) passes at the same time, the other one should take precedence over and supersede this one.
+
 ### Motivation
 
 @williamr is [actively divesting](https://forum.makerdao.com/t/mip65-monetalis-clydesdale-liquid-bond-strategy-execution/13148/112) the RWF-001 of its duties, and appears to have [abandoned](https://forum.makerdao.com/t/mip55c3-sp6-legal-domain-work-on-greenlit-collateral-bibta-special-purpose-fund/17166) his [mandate to other](https://forum.makerdao.com/t/mip55c3-sp7-legal-work-on-mip65-special-purpose-fund/17280) [Core Units](https://forum.makerdao.com/t/collateral-onboarding-project-based-funding-request-pfr-mip65/17290). As the mandate is currently not being fulfilled, an alternative path is required to ensure the protocol meets obligations to external stakeholders.
