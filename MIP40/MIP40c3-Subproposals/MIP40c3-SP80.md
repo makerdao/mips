@@ -94,9 +94,9 @@ Vested MKR for contributors will sit in the GovAlpha Multisig for a short period
 Eligibility Period: February 8, 2022 - August 1, 2022
 MKR Moving Average ([spreadsheet](https://docs.google.com/spreadsheets/d/1sNOF18F7KotMSJNQ2oaGg6KcKzkTDaJgUgW9-_FDsQA/edit?usp=sharing)) - $1,487.66
 Salary inputs:
-@prose11 - 62,000 DAI
-@Patrick_J - 32,413.75 DAI
-Contributors - 151,248.52 DAI
+@prose11 - 62,000 DAI  
+@Patrick_J - 32,413.75 DAI  
+Contributors - 151,248.52 DAI  
 
 *Note: The contributor figure is a bit deceiving due to @LongForWisdom stepping down from his facilitator role ~2 months before this proposal while staying on as a contributor.*
 
