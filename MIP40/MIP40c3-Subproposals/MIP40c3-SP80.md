@@ -13,7 +13,7 @@ Date Ratified: 2022-09-26
 Ratification Poll URL: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-spx-modify-govalpha-core-unit-mkr-budget-q3-2022/17164
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcJQCyW
-Extra: Winning option was Option 2: 150% Multiplier Applied - 115.21 Total MKR.
+Extra: Winning option was Option 2: 150% Multiplier Applied - 247.70 Total MKR (115.21 MKR/FTE/Year).
 ```
 
 ## Sentence Summary
@@ -27,7 +27,7 @@ This proposal seeks the ranked choice vote on the following vesting allocations 
 | Option          | MKR Total | ~MKR/FTE/YEAR |
 |-----------------|-----------|---------------|
 | 200% Multiplier | 330.27    | 153.61        |
-| 150% Multiplier | 247.70    | 115.21        |
+| **150% Multiplier** | **247.70**    | **115.21**        |
 | 100% Multiplier | 165.14    | 76.81         |
 
 ## Specification
@@ -91,27 +91,27 @@ Vested MKR for contributors will sit in the GovAlpha Multisig for a short period
 
 #### Dependencies
 
-Eligibility Period: February 8, 2022 - August 1, 2022
-MKR Moving Average ([spreadsheet](https://docs.google.com/spreadsheets/d/1sNOF18F7KotMSJNQ2oaGg6KcKzkTDaJgUgW9-_FDsQA/edit?usp=sharing)) - $1,487.66
-Salary inputs:
-@prose11 - 62,000 DAI
-@Patrick_J - 32,413.75 DAI
-Contributors - 151,248.52 DAI
+Eligibility Period: February 8, 2022 - August 1, 2022  
+MKR Moving Average ([spreadsheet](https://docs.google.com/spreadsheets/d/1sNOF18F7KotMSJNQ2oaGg6KcKzkTDaJgUgW9-_FDsQA/edit?usp=sharing)) - $1,487.66  
+Salary inputs:  
+@prose11 - 62,000 DAI  
+@Patrick_J - 32,413.75 DAI  
+Contributors - 151,248.52 DAI  
 
 *Note: The contributor figure is a bit deceiving due to @LongForWisdom stepping down from his facilitator role ~2 months before this proposal while staying on as a contributor.*
 
 #### MKR Payments
 
-*Note these are presented in the CU preferred 200% setup, @MIP-Editors will be contacted with the revised number to edit based on the vote of MKR holders*.
+*Note these are presented in the CU preferred 200% setup, @MIP-Editors will be contacted with the revised number to edit based on the vote of MKR holders- Done based on [Winning Option](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown)*.
 
 @prose11 Facilitator Stream:
-83.35 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
+62.51 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 @Patrick_J Facilitator Stream:
-43.58 MKR streamed from the Pause Proxy to **0xbb147E995c9f159b93Da683dCa7893d6157199B9** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
+32.69 MKR streamed from the Pause Proxy to **0xbb147E995c9f159b93Da683dCa7893d6157199B9** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 Core Unit Stream:
-203.34 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
+152.51 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 #### Budget Impact
 
@@ -124,6 +124,6 @@ Core Unit Stream:
 This MIP will draw from the [MIP40 Amendments](https://forum.makerdao.com/t/amended-mip40-important-information-for-core-units/15450) ratified structure for DAI budget requests. The vote for this proposal shall be Ranked Choice (IRV) format, featuring the following options:
 
 - Option 1 (CU Preferred): 200% Multiplier Applied - 330.27 Total MKR
-- Option 2: 150% Multiplier Applied - 115.21 Total MKR
-- Option 3: 100% Multiplier Applied - 76.81 Total MKR
+- **Option 2: 150% Multiplier Applied - 247.70 Total MKR** [Winning Option](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown)
+- Option 3: 100% Multiplier Applied - 165.14 Total MKR
 - Option 4: Reject MKR Vesting
