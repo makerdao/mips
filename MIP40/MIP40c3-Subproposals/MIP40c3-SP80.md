@@ -102,16 +102,16 @@ Contributors - 151,248.52 DAI
 
 #### MKR Payments
 
-*Note these are presented in the CU preferred 200% setup, @MIP-Editors will be contacted with the revised number to edit based on the vote of MKR holders*.
+*Note these are presented in the CU preferred 200% setup, @MIP-Editors will be contacted with the revised number to edit based on the vote of MKR holders- Done based on [Winning Option](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown)*.
 
 @prose11 Facilitator Stream:
-83.35 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
+62.51 MKR streamed from the Pause Proxy to **0xbfDD0E744723192f7880493b66501253C34e1241** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 @Patrick_J Facilitator Stream:
-43.58 MKR streamed from the Pause Proxy to **0xbb147E995c9f159b93Da683dCa7893d6157199B9** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
+32.69 MKR streamed from the Pause Proxy to **0xbb147E995c9f159b93Da683dCa7893d6157199B9** Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 Core Unit Stream:
-203.34 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
+152.51 MKR streamed from the Pause Proxy to **0x01D26f8c5cC009868A4BF66E268c17B057fF7A73**, Starting 2022/08/01, Ending 2023/08/01, cliff 2023/08/01
 
 #### Budget Impact
 
