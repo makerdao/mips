@@ -13,7 +13,7 @@ Date Ratified: 2022-09-26
 Ratification Poll URL: 
 Forum URL: https://forum.makerdao.com/t/mip40c3-spx-modify-govalpha-core-unit-mkr-budget-q3-2022/17164
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcJQCyW
-Extra: Winning option was Option 2: 150% Multiplier Applied - 115.21 Total MKR.
+Extra: Winning option was Option 2: 150% Multiplier Applied - 247.70 Total MKR (115.21 MKR/FTE/Year).
 ```
 
 ## Sentence Summary
@@ -27,7 +27,7 @@ This proposal seeks the ranked choice vote on the following vesting allocations 
 | Option          | MKR Total | ~MKR/FTE/YEAR |
 |-----------------|-----------|---------------|
 | 200% Multiplier | 330.27    | 153.61        |
-| 150% Multiplier | 247.70    | 115.21        |
+| **150% Multiplier** | **247.70**    | **115.21**        |
 | 100% Multiplier | 165.14    | 76.81         |
 
 ## Specification
@@ -124,6 +124,6 @@ Core Unit Stream:
 This MIP will draw from the [MIP40 Amendments](https://forum.makerdao.com/t/amended-mip40-important-information-for-core-units/15450) ratified structure for DAI budget requests. The vote for this proposal shall be Ranked Choice (IRV) format, featuring the following options:
 
 - Option 1 (CU Preferred): 200% Multiplier Applied - 330.27 Total MKR
-- Option 2: 150% Multiplier Applied - 115.21 Total MKR
-- Option 3: 100% Multiplier Applied - 76.81 Total MKR
+- **Option 2: 150% Multiplier Applied - 247.70 Total MKR** [Winning Option](https://vote.makerdao.com/polling/QmUoGryZ#vote-breakdown)
+- Option 3: 100% Multiplier Applied - 165.14 Total MKR
 - Option 4: Reject MKR Vesting
