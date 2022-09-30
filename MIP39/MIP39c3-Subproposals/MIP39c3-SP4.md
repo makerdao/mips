@@ -37,28 +37,28 @@ MakerDAO will commit to pay for the following expenses of EVENTS-001 to unwind t
 
 | Item | DAI | Comment |
 | -------- | -------- | -------- |
-| Tax Payout     | $37,910     | Sales tax on fait used by CU's corporate account     |
+| Tax Payout     | $37,910     | Sales tax on fiat used by CU's corporate account     |
 | Accounting     | $10,000     | Tax audit & general accounting     |
 | Legal     | $10,000     | ~20 hours legal resources for audit & corporate wind down     |
 | Rent     | $8,340    | Non-breakable lease for industrial workshop to build Daivinity materials  |
 | Motion Designers     | $16,667     | Final payment to Motion Designer, non-cancellation clause due to reserving future time |
 | Contractors     | $4,000     | Payout to contractors booked for future planned events     |
 | FTE     | $88,332 DAI    |  This is the 4 month golden parachute referenced below    |
-| AccountAble     | $7,435    | Fee to convert above to Fiat     |
+| AccountAble     | $7,435    | Fee to convert above to fiat     |
 Total: $182,684
 
 
-Funds in the Core Unit Multi-sig wallet will be used, and if an additional top-up is required, it will be provided through an Executive Vote. 
+Funds in the Core Unit multi-sig wallet will be used, and if an additional top-up is required, it will be provided through an executive vote. 
 
 ### Mandated Actor Status
 
-The facilitator will have their Mandated Actor status removed. 
+The Facilitator will have their Mandated Actor status removed. 
 
 ### Golden Parachute
 
 #### DAI
 
-A Golden Parachute payout will be provided to the Core Unit for the facilitator to distribute to their team. The amount will be based on the following calculations:
+A Golden Parachute payout will be provided to the Core Unit for the Facilitator to distribute to their team. The amount will be based on the following calculations:
 
 `Core Unit's Monthly Contributor Budget x 4 = Golden Parachute amount`
 `22,083 DAI x 4 months = 88,332 DAI`
@@ -71,5 +71,5 @@ This Core Unit does not have an active MKR MIP40. No MKR is in scope.
 
 Upon ratification of this proposal:
 * All DAI DssVest streams will be terminated. 
-* Any amount of DAI over the unwinding expenses amount in the Core Unit's Multi-sig wallet will be returned to the protocol using DssBlow by the date of the following Executive Vote, or Governance will withdraw the funds in the Executive Vote using the `MCD_Pause_Proxy` beneficiary role on the multi-sig. 
-* If the unwinding expenses amounts is above the current balance in the Core Unit's wallet, the following Executive Vote will distribute the difference to the Core Unit.
+* Any amount of DAI over the unwinding expenses amount in the Core Unit's multi-sig wallet will be returned to the protocol using DssBlow by the date of the following executive vote, or Governance will withdraw the funds in the executive vote using the `MCD_Pause_Proxy` beneficiary role on the multi-sig. 
+* If the unwinding expenses amounts is above the current balance in the Core Unit's wallet, the following executive vote will distribute the difference to the Core Unit.
