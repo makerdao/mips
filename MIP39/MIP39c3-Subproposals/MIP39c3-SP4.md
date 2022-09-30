@@ -35,20 +35,20 @@ All activities associated with EVENTS-001 will stop upon the ratification of thi
 MakerDAO will commit to pay for the following expenses of EVENTS-001 to unwind the Core Unit and deliver on their work obligations (DevCON Daivinity):
 
 
-| Item | DAI | Comment |
-| -------- | -------- | -------- |
-| Tax Payout     | $37,910     | Sales tax on fiat used by CU's corporate account     |
-| Accounting     | $10,000     | Tax audit & general accounting     |
-| Legal     | $10,000     | ~20 hours legal resources for audit & corporate wind down     |
-| Rent     | $8,340    | Non-breakable lease for industrial workshop to build Daivinity materials  |
-| Motion Designers     | $16,667     | Final payment to Motion Designer, non-cancellation clause due to reserving future time |
-| Contractors     | $4,000     | Payout to contractors booked for future planned events     |
-| FTE     | $88,332 DAI    |  This is the 4 month golden parachute referenced below    |
-| AccountAble     | $7,435    | Fee to convert above to fiat     |
+| Item | DAI |  Comment                                                                                |
+| -------- | -------- | --------------------------------------------------------------------------------------- |
+| Tax Payout     | $37,910     |  Sales tax on fiat used by CU's corporate account                                       |
+| Accounting     | $10,000     |  Tax audit & general accounting                                                         |
+| Legal     | $10,000     |  ~20 hours legal resources for audit & corporate wind down                              |
+| Rent     | $8,340    |  Non-breakable lease for industrial workshop to build Daivinity materials               |
+| Motion Designers     | $16,667     |  Final payment to Motion Designer, non-cancellation clause due to reserving future time |
+| Contractors     | $4,000     |  Payout to contractors booked for future planned events                                 |
+| FTE     | $88,332 DAI    |  This is the 4-month golden parachute referenced below                                  |
+| AccountAble     | $7,435    |  Fee to convert above to fiat                                                           |
 Total: $182,684
 
 
-Funds in the Core Unit multi-sig wallet will be used, and if an additional top-up is required, it will be provided through an executive vote. 
+Funds in the Core Unit multisig wallet will be used, and if an additional top-up is required, it will be provided through an executive vote. 
 
 ### Mandated Actor Status
 
@@ -71,5 +71,5 @@ This Core Unit does not have an active MKR MIP40. No MKR is in scope.
 
 Upon ratification of this proposal:
 * All DAI DssVest streams will be terminated. 
-* Any amount of DAI over the unwinding expenses amount in the Core Unit's multi-sig wallet will be returned to the protocol using DssBlow by the date of the following executive vote, or Governance will withdraw the funds in the executive vote using the `MCD_Pause_Proxy` beneficiary role on the multi-sig. 
+* Any amount of DAI over the unwinding expenses amount in the Core Unit's multisig wallet will be returned to the protocol using DssBlow by the date of the following executive vote, or Governance will withdraw the funds in the executive vote using the `MCD_Pause_Proxy` beneficiary role on the multisig. 
 * If the unwinding expenses amounts is above the current balance in the Core Unit's wallet, the following executive vote will distribute the difference to the Core Unit.
