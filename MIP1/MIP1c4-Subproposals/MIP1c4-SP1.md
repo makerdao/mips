@@ -7,17 +7,21 @@ Title of Problem Space Item to be Added or Deleted: Core Governance Framework, C
 Author(s): @rune
 Contributors: @juan, @retro
 Tags: endgame, endgame-prelaunch-mip-set
-Date of Submission: <2022-09-07>
+Status: Formal Submission
+Date of Submission: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip1c4-spxx-subproposal-for-changing-the-problem-space/17710
 ```
+
 ## Specification  
 
 ### Motivation
+
 MIP1 was largely forgotten and never managed to serve its purpose, but with the Endgame Plan, the same core concept is revived as there needs to be clarity around precisely when Maker Governance starts to slow down and not invite so many proposals.
 
 ### Problem Space Changes
-This Subproposal removes the following items from the Problem Space:
+
+This subproposal removes the following items from the Problem Space:
 - Core Governance Framework
 - Collateral Onboarding
 - Decentralized Oracle Freeze Module
