@@ -9,7 +9,7 @@ Author(s): @rune
 Contributors: @juan, @retro
 Tags: endgame, endgame-prelaunch-mip-set
 Type: Process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
