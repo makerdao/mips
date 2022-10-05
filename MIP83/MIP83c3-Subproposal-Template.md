@@ -1,4 +1,4 @@
-# MIP83c3: Modify Recognized Launch MetaDAO Cluster State Overview
+# MIP83c3: Modify Recognized Launch MetaDAO Cluster State
 
 ## Preamble
 
