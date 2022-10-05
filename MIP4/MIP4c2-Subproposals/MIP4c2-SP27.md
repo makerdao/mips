@@ -7,9 +7,9 @@ MIP4c2-SP#: 27
 MIP to be amended: MIP16
 Author(s): @rune
 Contributors: @juan, @retro    
-Tags: template, endgame, endgame-prelaunch-mip-set
-Status: RFC
-Date Proposed: <2022-09-07>
+Tags: endgame, endgame-prelaunch-mip-set
+Status: Formal Submission
+Date Proposed: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-mip16-amendment-subproposal/17711
 ```
@@ -22,15 +22,15 @@ Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-mip16-amendment-subproposal/
 
 ### Amended MIPs and Components
 
-- MIP16
+- MIP16 
     - MIP16c1 (Add the following bullet points)
-        - To protect the integrity of existing MIPs, Signal Requests or Non-Standard Weekly Polls are only permitted when they are specifically triggered and required by an existing MIP.
+        - To protect the integrity of existing MIPs, Signal Requests are only permitted when they are specifically triggered and required by an existing MIP.
         - This component explicitly forbids the possibility of community-triggered Signal Requests about arbitrary issues. It is also explicitly specified that the only way to make arbitrary changes to Maker Governance is through the full MIPs process or through Governance Mandates of Mandated Actors.
-
+        
 
 ### Amendment Pull Request
 
-TODO
+github.com/makerdao/mips/pull/664
 
 ### Relevant Information
 
