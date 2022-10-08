@@ -8,7 +8,7 @@ Title: Coinbase USDC Institutional Rewards
 Author(s): @CB_Institutional 
 Contributors:
 Tags: 
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-09-06
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mipxx-coinbase-usdc-institutional-rewards/17703
