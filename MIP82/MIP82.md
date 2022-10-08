@@ -8,7 +8,7 @@ Title: Monetalis/Coinbase Appaloosa
 Author(s): @Allan_Pedersen 
 Contributors:
 Tags:
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-09-07
 Date Ratified: xx
 Dependencies: MIP21
