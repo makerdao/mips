@@ -7,7 +7,7 @@ MIP41c5-SP#: 12
 Author(s): @ultraschuppi, @JustinCase 
 Contributors: @GFXlabs 
 Tags: core-unit, cu-rfw-001, facilitator, personnel-xboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-08-18
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp10-facilitator-offboarding-rwf-001/17332
