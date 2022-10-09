@@ -6,7 +6,7 @@ MIP39c3-SP#: 5
 Author(s): @rune
 Contributors: @juan, @retro
 Tags: core-unit, RWF-001, cu-offboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-09-07
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753
