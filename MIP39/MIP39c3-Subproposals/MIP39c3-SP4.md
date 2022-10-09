@@ -7,7 +7,7 @@ MIP39c3-SP#: 4
 Author(s): @rune
 Contributors: @juan, @retro
 Tags: core-unit, EVENTS-001, cu-offboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-09-07
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip39c3-spxx-offboarding-the-events-core-unit-events-001/17755
