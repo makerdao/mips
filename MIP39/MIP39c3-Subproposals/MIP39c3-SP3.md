@@ -9,7 +9,7 @@ Tags: core-unit, SH-001, cu-offboarding
 Status: Formal Submission
 Date Applied: 2022-09-07
 Date Ratified: 
-Forum URL: https://forum.makerdao.com/t/mip39c3-spxx-offboarding-the-strategic-happiness-core-unit-sh-001/17754
+Forum URL: https://forum.makerdao.com/t/mip39c3-sp3-offboarding-the-strategic-happiness-core-unit-sh-001/17754
 Ratification Poll URL:
 ```
 
