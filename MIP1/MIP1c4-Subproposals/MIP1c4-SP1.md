@@ -10,7 +10,7 @@ Tags: endgame, endgame-prelaunch-mip-set
 Status: Formal Submission
 Date of Submission: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
-Forum URL: https://forum.makerdao.com/t/mip1c4-spxx-subproposal-for-changing-the-problem-space/17710
+Forum URL: https://forum.makerdao.com/t/mip1c4-sp1-subproposal-for-changing-the-problem-space/17710
 ```
 
 ## Specification  
