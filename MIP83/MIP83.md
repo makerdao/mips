@@ -14,7 +14,7 @@ Date Proposed: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces:
-Forum URL: https://forum.makerdao.com/t/mipxx-recognized-launch-metadao-clusters/17709
+Forum URL: https://forum.makerdao.com/t/mip83-recognized-launch-metadao-clusters/17709
 Ratification Poll URL:
 ```
 
