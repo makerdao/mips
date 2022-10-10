@@ -10,7 +10,7 @@ Tags: core-unit, EVENTS-001, cu-offboarding
 Status: Formal Submission
 Date Applied: 2022-09-07
 Date Ratified: 
-Forum URL: https://forum.makerdao.com/t/mip39c3-spxx-offboarding-the-events-core-unit-events-001/17755
+Forum URL: https://forum.makerdao.com/t/mip39c3-sp4-offboarding-the-events-core-unit-events-001/17755
 Ratification Poll URL:
 ```
 
