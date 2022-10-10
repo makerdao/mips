@@ -13,7 +13,7 @@ Date Proposed: 2022-09-07
 Date Ratified: xx
 Dependencies: MIP21
 Replaces: None
-Forum URL: https://forum.makerdao.com/t/mipxx-monetalis-coinbase-appaloosa/17768
+Forum URL: https://forum.makerdao.com/t/mip82-monetalis-coinbase-appaloosa/17768
 Ratification Poll URL: 
 ```
 
