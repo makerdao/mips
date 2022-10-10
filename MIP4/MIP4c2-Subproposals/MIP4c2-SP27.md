@@ -11,7 +11,7 @@ Tags: endgame, endgame-prelaunch-mip-set
 Status: Formal Submission
 Date Proposed: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
-Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-mip16-amendment-subproposal/17711
+Forum URL: https://forum.makerdao.com/t/mip4c2-sp27-mip16-amendment-subproposal/17711
 ```
 ## Specification
 
