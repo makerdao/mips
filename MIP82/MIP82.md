@@ -10,7 +10,7 @@ Contributors:
 Tags:
 Status: Formal Submission
 Date Proposed: 2022-09-07
-Date Ratified: xx
+Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip82-monetalis-coinbase-appaloosa/17768
