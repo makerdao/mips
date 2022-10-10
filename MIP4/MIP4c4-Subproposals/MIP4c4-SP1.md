@@ -11,7 +11,7 @@ Tags: template, endgame, endgame-prelaunch-mip-set
 Status: Formal Submission
 Date of Removal Submission: 2022-09-07
 Date of ratification: <yyyy-mm-dd>
-Forum URL: https://forum.makerdao.com/t/mip4c4-spxx-mip-removal-subproposals/17712
+Forum URL: https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712
 ```
 
 ## Specification
