@@ -7,10 +7,11 @@ MIP40c3-SP#: 78
 Author: @christiancdpetersen
 Contributors: @teej and @eumenes
 Tags: core-unit, RWF-0x, budget
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2022-08-03
 Date Approved: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp-rwf-0x-budget-proposal-through-2022/16968
+Extra: This subproposal has been [withdrawn by its author](https://forum.makerdao.com/t/mip40c3-sp78-rwf-0x-budget-proposal-through-2022/16968/24)
 ```
 
 ## Sentence Summary
