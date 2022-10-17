@@ -1,6 +1,5 @@
+
 # MIP88: Monetalis/Redwood Friesian
-
-
 
 ## Preamble
 
@@ -78,7 +77,7 @@ Friesian AI'd by nightcafe
 
 Here in Redwood's own words, extracted from [this](https://hackmd.io/@allangiraf/Reedwoodconsiderations) more detailed presentation of Redwood:
 
-..."**Redwood Trust, Inc.** (“Redwood”, “we”, or “our”).  Redwood is a specialty finance company focused on housing credit.  Our common stock is publicly traded on the New York Stock Exchange under the ticker “RWT.”  For more information and to review quarterly, annual and other reports filed with the U.S. Securities and Exchange Commission (“SEC”), please visit our website [here](https://www.redwoodtrust.com/).  Redwood’s business is organized into three primary segments: 
+...n"**Redwood Trust, Inc.** (“Redwood”, “we”, or “our”).  Redwood is a specialty finance company focused on housing credit.  Our common stock is publicly traded on the New York Stock Exchange under the ticker “RWT.”  For more information and to review quarterly, annual and other reports filed with the U.S. Securities and Exchange Commission (“SEC”), please visit our website [here](https://www.redwoodtrust.com/).  Redwood’s business is organized into three primary segments: 
 
 * Our **Residential Mortgage Banking** segment is an aggregation platform focused on purchasing primarily prime jumbo residential mortgage loans from a large cohort of mortgage loan originators.  These loans are held for subsequent sale or for securitization through our Sequoia (SEMT) platform, as further described below.  Our Residential Mortgage Banking business is licensed in thirty-three (33) states to carry out its mortgage business.  More information on these licenses may be found on our website here.  Since Redwood’s founding, we have purchased over $70 billion in loans, with $12.8 billion purchased in 2021 alone.   
 * Our **Business Purpose Mortgage Banking**, operating as CoreVest American Finance Lender, LLC (“CoreVest”), is one of the nation’s leading direct lenders to single-family and multi-family housing investors.  CoreVest was founded in 2014 and has since funded more than $16 billion in loans representing 125,000 housing units.  CoreVest is the largest issuer of business purpose mortgage-backed securities, having issued over $5.1 billion across 19 securitizations. 
@@ -187,13 +186,14 @@ An RMBS private offering, as the one here contemplated, provides a spread above 
 **c1.5.3 Stress Scenarios**
 In stressed economic environments, historical Sequoia transactions have performed well, maintaining low delinquency levels. As the table below shows, during the most recent period of economic stress triggered by the onset of the COVID-19 pandemic, delinquency levels for the pre-COVID Sequoia transactions listed below remained under 5% and so never touched upon the Super Senior tranches. 
 
+
 ![](https://github.com/makerdao/mips/blob/master/MIP88/semt.png)
 
 #### c1.6 Underlying Mortgage Pool Example
 
 This is an example of the type of potential mortgage loan pool that would be underlying the Sequoia RMBS issuance.*(c4.12)*
 
-![]![](https://github.com/makerdao/mips/blob/master/MIP88/sequoia_RMBS.png))
+![](https://github.com/makerdao/mips/blob/master/MIP88/sequoia_RMBS.png)
 
 ### MIP88c2: Verification Conditions for Collateral Onboarding
 

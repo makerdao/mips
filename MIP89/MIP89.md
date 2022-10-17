@@ -1,6 +1,7 @@
 # MIP89: Monetalis/Arrow Andalusian
 
 ## Preamble
+
 ```
 MIP#: 89
 Title: Monetalis/Arrow Andalusian
@@ -17,15 +18,18 @@ Ratification Poll URL: XX
 ```
 
 ## References
+
 * [MIP65: Monetalis Clydesdale](https://forum.makerdao.com/t/mip65-clydesdale-monetalis-liquid-bond-strategy-execution/13148?u=allan_pedersen)
 * [MIP82: Monetalis/Coinbase Appaloosa](https://forum.makerdao.com/t/mip82-monetalis-coinbase-appaloosa/17768)
 * [MIP88: Monetalis/Redwood Friesian](https://forum.makerdao.com/t/mip88-monetalis-redwood-friesian/18336)
 * [Arrow Global](https://www.arrowglobal.net/en/index.html)
 
 ## Sentence Summary
+
 MIP89 will onboard and activate a DAI 300M RWA vault and acquire BlackRock/ishares ETF products allocated in the same manner as MIP65, and, from this asset pool, finance and deploy over 12 months a set of wholesale, senior, secure, staged, Green Economy, Lending facility focused on the UK and the EU together with Arrow Global.
 
 ## Paragraph Summary
+
 MIP89 will onboard and activate a DAI 300M RWA vault and acquire BlackRock/ishares ETF products allocated in the same manner as MIP65, and, from this asset pool, finance and deploy over 12 months a set of wholesale, senior, secure, staged, Green Economy, Lending facility focused on the UK and the EU together with Arrow Global.
 
 The legal, structural, and technical setup will be “close cousins” of the structure and technical implementation under MIP65 and proposed under MIP82 and will be executed under a strict verification program.
@@ -52,7 +56,8 @@ With this credit facility, Maker will gain on a number of fronts:
 * Well-protected Senior Credit exposure and aligned junior capital.
 
 ## Specification / Proposal Details
- ![](https://github.com/makerdao/mips/blob/master/MIP89/andalusian.png)
+
+![](https://github.com/makerdao/mips/blob/master/MIP89/andalusian.png)
 Andalusian AI’d by nightcafe
 
 ### MIP89c1: Collateral Design
@@ -153,6 +158,7 @@ This provides a better overall diversification, cashflow profile and risk charac
 |Capital recycling|Principal payments are recirculated back into their relevant strategy until withdrawal request from Maker. <br>Interest payments - after expenses - are also recirculated until requested paid into Surplus Buffer.|
 
 ##### c.1.5.1 Credit Guidelines "Arrow Advantage"
+
 All facilities will need to meet the minimum credit guidelines set out in the table below. 
 
 >NOTE: These are under review and will be delivered before end of RFC
@@ -173,6 +179,7 @@ All facilities will need to meet the minimum credit guidelines set out in the ta
 |Capital recycling|Principal payments are recirculated back into their relevant strategy until withdrawal request from Maker. <br>Interest payments - after expenses - are also recirculated until requested paid into Surplus Buffer.|
 
 ##### c1.6.2 Credit Guidelines "Boost"
+
 All blocks purchased under the “Booster Block Purchase” facility will need to meet the minimum credit guidelines set out in the table below. 
 
 | Component | Key criteria | 
@@ -190,7 +197,9 @@ All blocks purchased under the “Booster Block Purchase” facility will need t
 |Min. Block term|6 months|
 |Geographic Diversification|UK Only:<br><li>80% England and Wales</li><li>20% Scotland and Northern Ireland</li>|
 
+
 #### c1.7 Key Credit Facility Governance
+
 All proposed facilities will need to be validated and approved to ensure they comply with the Master Facility and Credit Guidelines. The process will following these steps:
 
 1. Opportunity is identified and all associated documents submitted to Monetalis.
@@ -202,6 +211,7 @@ All proposed facilities will need to be validated and approved to ensure they co
 5. Facility approved for disbursal.
 
 #### c1.8 Liquidity Considerations & Market Changes
+
 In the short term, these portfolios will not be liquid assets.
 
 Although there are active participants that are willing to buy or refinance these portfolios, these are not fast processes, and shouldn’t be relied upon for quick liquidity. 
@@ -209,6 +219,7 @@ Although there are active participants that are willing to buy or refinance thes
 However, this vault is meant to be the start of a longer term strategy of Arrow, Monetalis and Maker - we would suggest - to recreate the private credit market using DeFi/CeFi/TradFi integration to create liquidity in the products.
 
 Significant resource across the Arrow and Monetalis teams are allocated to this project of integration and building markets to facilitate a new state of liquidity for private credit structures.
+
 
 #### c1.9 Asset Class Comparison & Yield Expectations
 
@@ -222,7 +233,9 @@ Significant resource across the Arrow and Monetalis teams are allocated to this 
 | Arrow Irish Resi  | 3.50%    | 8.50%     |
 | Arrow UK EV Credit  | 3.50%    | 8.75%     |
 
+
 #### c1.10 Examples of Arrow's Underlying portfolios
+
 Underlying asset classes will range depending on markets, but in all instances will provide strong downside protection. For example:
 
 * Irish residential units in Dublin, purchased for EUR 250k, with EUR 50k capital expenditure to significantly improve energy efficiency. Many of these units would have been built decades ago, and will therefore be incredibly energy inefficient. The units will be completely stripped back to their base shell, and refurbished to a very high standard, increasing energy rating by at least 2 levels. In addition, approximately 20% of the units will be taken from existing stock that has not been lived in for 2+ years, bringing isolated housing stock back into use in a local market that has a real undersupply issue, helping to solve for material social detriment.
