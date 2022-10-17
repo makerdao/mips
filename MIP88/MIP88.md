@@ -1,4 +1,8 @@
+
+# MIP88: Monetalis/Redwood Friesian
+
 ## Preamble
+
 ```
 MIP#: 88
 Title: Monetalis/Redwood Friesian
@@ -52,6 +56,7 @@ This component contains a set of end-notes included at the request of Redwood an
 ## Motivation
 
 This MIP accomplishes the following for Maker:
+
 * Activates Maker USDC holdings and is anticipated to bring meaningful yield to Maker
 * Diversifies Maker's base of fixed income holdings beyond US Treasuries to include RMBS in an effort to generate monthly cashflows *(c4.2)* and expected yield greater than comparable U.S. Treasuries while retaining a high degree of “cash-like” liquidity in the secondary markets
 * Activates a long-term relationship with a strong and credible US financial services partner with a decades-long track-record
@@ -60,17 +65,20 @@ This MIP accomplishes the following for Maker:
 * Allows Maker to have a real impact together with Redwood by collaborating on the concept of Clean Money in a large  category of housing finance
 
 ## Specification / Proposal Details *(c4.3)*
-![](upload://dvwtLj4mlcRvH73PDNjDggsPITg.png)
+
+![](https://github.com/makerdao/mips/blob/master/MIP88/friesian.png)
 Friesian AI'd by nightcafe
 
 ### MIP88c1: Collateral Design
 
 #### c1.1 Counterparty: Redwood Trust, Inc ("Redwood")
-![](upload://f3GI0TnhL9y50nual5wfI669pwr.png)
+
+![](https://github.com/makerdao/mips/blob/master/MIP88/redwood_trust.png)
 
 Here in Redwood's own words, extracted from [this](https://hackmd.io/@allangiraf/Reedwoodconsiderations) more detailed presentation of Redwood:
 
-..."**Redwood Trust, Inc.** (“Redwood”, “we”, or “our”).  Redwood is a specialty finance company focused on housing credit.  Our common stock is publicly traded on the New York Stock Exchange under the ticker “RWT.”  For more information and to review quarterly, annual and other reports filed with the U.S. Securities and Exchange Commission (“SEC”), please visit our website [here](https://www.redwoodtrust.com/).  Redwood’s business is organized into three primary segments: 
+...n"**Redwood Trust, Inc.** (“Redwood”, “we”, or “our”).  Redwood is a specialty finance company focused on housing credit.  Our common stock is publicly traded on the New York Stock Exchange under the ticker “RWT.”  For more information and to review quarterly, annual and other reports filed with the U.S. Securities and Exchange Commission (“SEC”), please visit our website [here](https://www.redwoodtrust.com/).  Redwood’s business is organized into three primary segments: 
+
 * Our **Residential Mortgage Banking** segment is an aggregation platform focused on purchasing primarily prime jumbo residential mortgage loans from a large cohort of mortgage loan originators.  These loans are held for subsequent sale or for securitization through our Sequoia (SEMT) platform, as further described below.  Our Residential Mortgage Banking business is licensed in thirty-three (33) states to carry out its mortgage business.  More information on these licenses may be found on our website here.  Since Redwood’s founding, we have purchased over $70 billion in loans, with $12.8 billion purchased in 2021 alone.   
 * Our **Business Purpose Mortgage Banking**, operating as CoreVest American Finance Lender, LLC (“CoreVest”), is one of the nation’s leading direct lenders to single-family and multi-family housing investors.  CoreVest was founded in 2014 and has since funded more than $16 billion in loans representing 125,000 housing units.  CoreVest is the largest issuer of business purpose mortgage-backed securities, having issued over $5.1 billion across 19 securitizations. 
 * Our **Investment Portfolio** focuses on mortgage loans and other real estate- related assets sourced through our Residential Mortgage Banking and Business Purpose Mortgage Banking segments and from third parties.   
@@ -79,42 +87,40 @@ In carrying out our business, Redwood relies on advanced, technology-enabled sol
 
 Redwood’s workforce consists of approximately 350 employees"...
 
-#### C1.1.1: The Sequoia RMBS Issuance Platform 
+#### C1.1.1: The Sequoia RMBS Issuance Platform
+
 A further extract from [the](https://hackmd.io/@allangiraf/Reedwoodconsiderations) detailed presentation of Redwood.
 
 ..."Since its inception in 1997, Redwood has issued over $60 billion in RMBS across 118 Sequoia (SEMT) securitizations, including ten (10) transactions in the last two years alone.  In fact, in this time our Sequoia platform has become the nation’s largest non-bank sponsored issuance platform for prime jumbo RMBS.  As the table below illustrates, since the RMBS market restarted in 2010, Redwood’s Sequoia platform is, by deal count and issuance, the second largest prime jumbo issuance platform overall, and the largest that is not sponsored by a major bank. 
 
-![](upload://yqg2op4C9RfefMW95xTsVKcR5RP.png)
+![](https://github.com/makerdao/mips/blob/master/MIP88/RMBS_issuance.png)
 *Data Calculated as of September 7, 2022 based on information available via Bloomberg and Wells Fargo Securities, LLC.*   
 
-![](upload://c0prOUiHIo7cQ0Xdfq0mh2bH2ak.jpeg)
+![](https://github.com/makerdao/mips/blob/master/MIP88/performance_summary.png)
 *Data Calculated as of August 2022 based on information available via Bloomberg and Wells Fargo Securities, LLC.*
-
 
 Strong performance of Sequoia RMBS, such as illustrated above, has helped us attract and retain a base of over 200 institutional investors in Sequoia RMBS transactions, including some of the nation’s largest pension funds, insurance companies and professional asset managers. 
 
 In 2021, the Sequoia platform achieved two major milestones, as the first RMBS prime jumbo platform to integrate blockchain technology and the first such platform to include disclosure on certain ESG topics pursuant to SASB’s Mortgage Finance disclosure framework.  We were honored to be recognized by GlobalCapital as 2021 RMBS issuer of the year, thanks in part to these market-leading innovations and the Redwood team’s commitment to investors in Sequoia RMBS"...
 
-![](upload://47ae4DUPx6uB8xh0Z0dxSBfRm5n.png)
-
-
+![](https://github.com/makerdao/mips/blob/master/MIP88/redwood_residential.png)
 
 #### c1.2 Structure
->**NOTE**: Structure to be determined during RFC.
 
+> **NOTE**: Structure to be determined during RFC.
 
 #### c1.3 Key Terms
 
 **c1.3.1 Key Terms of the Initial Sequoia RMBS Issuance**
 
-|Aspect|Key Terms|
-|---|---|
-|Issuance Details <br> *(c4.4)* |Purchase Amount: Max USD 225M <br>Seniority: Super Senior<br> Transaction structure: senior/subordinate, shifting interest<br> Cash flow designation: front cash flow (FCF)<br> Credit enhancement: 15.00%<br> Coupon: 5% <br> Priced to deliver expected yield of 100bps above 3Y US Treasury at transaction time of sale *(c4.5)* <br>Ratings: AAAsf (or equivalent) *(c4.6)* <br>|
-|Maturity|Estimated weighted average life: less than 3 years.<br><br>A Balloon structure is under consideration which would result in a maturity of 3 years. This will be decided before end of RFC period.|
-|Transaction Closing Date|Following approval of this MIP, we would expect the subsequent RMBS transaction to close latest within December 2022, with subsequent issuance on a bi-monthly basis.|
-|Transaction Parties and Documentation|Standard Sequoia platform Transaction documentation and counterparties will be used. For details on counterparties, please see the description of counterparties available [here](https://hackmd.io/@allangiraf/RedwoodCounterparties)<br><br> Consistent with market standard distribution practices for securities exemption from US SEC registration requirements, such as the Sequoia RMBS, a US registered broker-dealer will function as the initial purchaser of the Sequoia RMBS and then immediately on-sell the securities to James Asset PTC Limited on behalf of the relevant trust. <br><br>For this transaction, Oasis Pro Markets LLC (a registered broker-dealer) will be the initial purchaser.  Oasis also has the ability to facilitate secondary market liquidity for the Sequoia RMBS on its trading platform.|
-|Transaction Fees and Expenses|Fees and expenses payable in connection with the issuance  will initially be paid by Redwood and reflected in final pricing. The hypothetical pricing above reflects assumed transaction fees and expenses.|
-|Reporting|Standard transaction reporting and daily payment information (via the transaction’s distributed ledger agent) in accordance with established practice on the Sequoia platform. Monetalis will collate and process this information and report as required for Maker reporting|
+| Aspect                                | Key Terms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Issuance Details <br> *(c4.4)*        | Purchase Amount: Max USD 225M <br>Seniority: Super Senior<br> Transaction structure: senior/subordinate, shifting interest<br> Cash flow designation: front cash flow (FCF)<br> Credit enhancement: 15.00%<br> Coupon: 5% <br> Priced to deliver expected yield of 100bps above 3Y US Treasury at transaction time of sale *(c4.5)* <br>Ratings: AAAsf (or equivalent) *(c4.6)* <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Maturity                              | Estimated weighted average life: less than 3 years.<br><br>A Balloon structure is under consideration which would result in a maturity of 3 years. This will be decided before end of RFC period.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Transaction Closing Date              | Following approval of this MIP, we would expect the subsequent RMBS transaction to close latest within December 2022, with subsequent issuance on a bi-monthly basis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Transaction Parties and Documentation | Standard Sequoia platform Transaction documentation and counterparties will be used. For details on counterparties, please see the description of counterparties available [here](https://hackmd.io/@allangiraf/RedwoodCounterparties)<br><br> Consistent with market standard distribution practices for securities exemption from US SEC registration requirements, such as the Sequoia RMBS, a US registered broker-dealer will function as the initial purchaser of the Sequoia RMBS and then immediately on-sell the securities to James Asset PTC Limited on behalf of the relevant trust. <br><br>For this transaction, Oasis Pro Markets LLC (a registered broker-dealer) will be the initial purchaser.  Oasis also has the ability to facilitate secondary market liquidity for the Sequoia RMBS on its trading platform. |
+| Transaction Fees and Expenses         | Fees and expenses payable in connection with the issuance  will initially be paid by Redwood and reflected in final pricing. The hypothetical pricing above reflects assumed transaction fees and expenses.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| Reporting                             | Standard transaction reporting and daily payment information (via the transaction’s distributed ledger agent) in accordance with established practice on the Sequoia platform. Monetalis will collate and process this information and report as required for Maker reporting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 **c1.3.2 Reinvestment Program**
 As this issuance pays down principal and interest on a monthly basis, the cashflows are projected to be substantial *(c4.7)*. To take advantage of this partnership and the attractive economics of this source of fixed income, Monetalis will: 
@@ -127,11 +133,11 @@ The Maker Committee can request the accrued cashflow from the issuances be retur
 **c1.3.3 Cost & Fees**
 Fees & Costs, not included in the above Key Terms section:
 
-|Party|Cost/Fees|
-|---|---|
-|BVI Trust setup| >USD 75K|
-|BVI added Admin| ~USD 36K p.a.|
-|Monetalis| TBD before end of RFC period|
+| Party           | Cost/Fees                    |
+| --------------- | ---------------------------- |
+| BVI Trust setup | >USD 75K                     |
+| BVI added Admin | ~USD 36K p.a.                |
+| Monetalis       | TBD before end of RFC period |
 
 #### c1.4 Cashflow Waterfall & Credit Enhancement
 
@@ -140,22 +146,23 @@ The transaction will be structured to allocate payments received from the mortga
 
 As is standard in RMBS, detailed rules governing this distribution of funds each month among the various classes of securities issued in that transaction. The hypothetical waterfall below is intended to illustrate this cashflow, at a high level.
 
-![](upload://bHOkWmmLvauBiBnJpRXbBaiWjrx.png)
+![](https://github.com/makerdao/mips/blob/master/MIP88/steps.png)
 
 **c1.4.2 Credit Enhancement** *(c4.9)*
 The Sequoia RMBS proposed to be onboarded by Maker will be structured to include several credit enhancement features beneficial to investors:
 
 **Subordination**: the transaction’s capital structure will include senior and subordinate classes of bonds.  As illustrated by the cashflow waterfall diagram above, this feature places the most senior classes of bonds at the top of the cashflow waterfall, and generally allocates any shortfall in payments in reverse order of seniority (i.e., to junior classes first and senior classes last). The Sequoia RMBS proposed to be onboarded by Maker will be senior bonds in the capital structure. 
 
-![](upload://cvuzL0EJFSBeHk04DfKMODQVhnq.png)
+![](https://github.com/makerdao/mips/blob/master/MIP88/hypothetical_capital_structure.png)
 
 **Shifting interest**: each month, funds will be distributed in accordance with payment priorities described in the transaction’s documents. The transaction will be structured to include a ‘shifting interest’ mechanism so that, for a period of time, unscheduled payments of principal will be directed to front cash flow (or “FCF”) bonds; during this time, subordinate or last cash flow (or “LCF”) bonds will be entitled only to their pro rata share of interest and scheduled principal payments received. This feature helps preserve subordination during the life of the deal, reducing senior classes’ risk of exposure to losses occurring later in the life of the deal. The tables below demonstrate hypothetical monthly payments over the life of FCF and LCF bonds *(c4.10)*
 
-![](upload://wn2VkyP2YgFVUFtT5RCo1ER2fEI.png)
+![](https://github.com/makerdao/mips/blob/master/MIP88/cash_flow.png)
 
 **Structural credit enhancement**: as an additional measure of protection for senior classes of bonds, the transaction will include credit support levels designed to redirect scheduled principal payments to senior classes in the event delinquencies or payment shortfalls exceed certain levels. The credit enhancement level for the Sequoia RMBS proposed to be onboarded by Maker is expected to be 15.00% at closing.
 
 #### c1.5 Liquidity, Spread & Stress test
+
 To appropriately qualify the collateral, the following subjects deserve consideration.
 
 **c1.5.1 Liquidity**
@@ -163,7 +170,7 @@ The secondary market for RMBS is well-established, with major broker-dealers reg
 
 The following table shows, for illustrative purposes, secondary market trading activity in RMBS (like the proposed Sequoia RMBS) to date in 2022, on both a yearly and weekly average basis, including detail for requests by bank customers to buy or sell RMBS and among dealers themselves.
 
-![](upload://uFPZaErLbpfsg2m6NwWiLC55JXd.png)
+![](https://github.com/makerdao/mips/blob/master/MIP88/finra.png)
 
 While exact timeframes may vary based on idiosyncrasies of a particular trade, secondary market sales of RMBS such as the Sequoia RMBS could occur in as little as two (2) business days after a prospective RMBS seller contacts a broker-dealer to request a quote for a desired sale.
 
@@ -174,40 +181,45 @@ Pricing for secondary market sales of RMBS is dependent on market conditions at 
 **c1.5.2 Spread**
 An RMBS private offering, as the one here contemplated, provides a spread above US Treasuries and MBS ETF products. The table below shows status as of October 11, 2022.*(c4.11)* 
 
-![](upload://qpFP7NRs2mbvz2VuksTPHA7DADY.png)
+![](https://github.com/makerdao/mips/blob/master/MIP88/yield_comps.png)
 
 **c1.5.3 Stress Scenarios**
 In stressed economic environments, historical Sequoia transactions have performed well, maintaining low delinquency levels. As the table below shows, during the most recent period of economic stress triggered by the onset of the COVID-19 pandemic, delinquency levels for the pre-COVID Sequoia transactions listed below remained under 5% and so never touched upon the Super Senior tranches. 
 
-![](upload://skqfwhKrgapjQoge5dbbkokB8rj.png)
+
+![](https://github.com/makerdao/mips/blob/master/MIP88/semt.png)
 
 #### c1.6 Underlying Mortgage Pool Example
+
 This is an example of the type of potential mortgage loan pool that would be underlying the Sequoia RMBS issuance.*(c4.12)*
 
-![](upload://aLR2ijzgKprBm1o4w3Jd2vICu10.png)
-
+![](https://github.com/makerdao/mips/blob/master/MIP88/sequoia_RMBS.png)
 
 ### MIP88c2: Verification Conditions for Collateral Onboarding
 
->**NOTE**: This section may be edited over the RFC period to adjust for Endgame consequences. 
+> **NOTE**: This section may be edited over the RFC period to adjust for Endgame consequences. 
 
 #### c2.1 Legal Structure and Governance Verification Requirements
+
 At least one community member, with legal credentials, must, through a public forum post, validated by at least one Facilitator, provide a verification of the legal and governance structure appropriateness for holding a large amount of low-risk real-world asset collateral for Maker.
 
 #### c2.2 Key Terms Verification Requirements
+
 The Strategic Finance Core Unit Facilitator must, through a public forum post, provide a Verification of the Key Terms & Risks ensuring the appropriateness of this USDC allocation for Maker and its ALM strategy.
 
 #### c2.3 Technical Verification Requirements
+
 The Collateral Engineering Services Facilitator must, through a public forum post, provide a Verification of the technical appropriateness of the MIP21 designed solution in accordance with the Collateral Onboarding process (“COB”).
 
 Should any one of the c2.1, c2.2 and c2.3 verifications not be forthcoming, for whatever reason, this MIP will not move forward in the COB. 
 
 #### c2.4 Closing & Execution Verification Requirements
+
 > **NOTE**: This section will be added over the RFC period depending upon c1.2
 
 ### MIP88c3: Technical Conditions of the Collateral Onboarding
 
->**NOTE**: This section may be edited over the RFC period to adjust for Endgame consequences.
+> **NOTE**: This section may be edited over the RFC period to adjust for Endgame consequences.
 
 The technical implementation must follow the MIP21 framework. Upon Collateral Engineering Services solution Verification in MIP88c2, the relevant smart contracts must be constructed and deployed. The ETH Address emitted by the legal structure specified in MIP88c1 should only be changeable by MakerDAO Governance, and follow the MIP21 framework.
 
@@ -232,11 +244,11 @@ The vault must provide:
 **c4.2** Payments on Sequoia RMBS will be subject to, and determined in accordance with, the transaction’s priority of payments as described in the Preliminary Offering Memorandum and Final Offering Memorandum prepared in connection with the issuance of any such Sequoia RMBS. 
 
 **c4.3** **LEGAL DISCLAIMER** The information contained herein is provided solely for informational purposes to determine preliminary interest in investing in a transaction with the general characteristics described in these responses and is not an offer to buy or sell or a solicitation of an offer to buy or sell any security or to participate in any trading strategy. If any offer of securities is made, it will be made pursuant to a preliminary offering memorandum (the “Preliminary Offering Memorandum”) and a final offering memorandum (the “Final Offering Memorandum”) in the future, prepared by or on behalf of an issuing entity which will contain material information not contained herein and which will supersede, as to any securities offered, the information provided herein in its entirety. Any decision to invest in the future in any securities offered in the future should be made after reviewing the Final Offering Memorandum, conducting such investigations as the Maker community as an investor deems necessary and consulting the investor’s own legal, accounting, and tax advisors in order to make an independent determination of the suitability and consequences of an investment in the securities. 
- 
+
 We note that (i) any transaction in securities is subject to a risk of loss, and possibly total loss, of principal, (ii) the information contained herein and risks described herein do not purport to identify every possible risk (direct or indirect) or other material considerations, which may be associated with Maker community’s entering into a transaction in the future for the purchase of securities and (iii) any securities offered in the future will not have been and will not be registered under the Securities Act of 1933, as amended (the “Securities Act”) or the securities laws of any state or foreign jurisdiction and may not be offered, sold or otherwise transferred unless an exemption from registration under the Securities Act and all other applicable securities laws is available. 
- 
+
 We note, furthermore, that our responses contain information accurate as of the date of this document. While we welcome comments from and dialogue with the community as our proposal is evaluated, information in this response generally will not be updated and therefore may not reflect the most current information about the subject matter discussed herein. 
- 
+
 These materials contain statements that are not purely historical in nature, but are “forward-looking statements.” These include, among other things, projections, forecasts, estimates of income, yield or return, future performance targets, sample or pro forma portfolio structures or portfolio composition, scenario analysis, specific investment strategies and proposed or pro forma levels of diversification or sector investment. These forward-looking statements are based upon certain assumptions. Actual events are difficult to predict and will be beyond the control of the issuer of any securities that may in the future be offered. Actual events may differ from those assumed. All forward-looking statements included are based on information available on the date hereof and neither Redwood nor any other party assumes any duty to update any forward-looking statement. Some important factors which could cause actual results to differ materially from those in any forward-looking statements include the actual composition of the collateral, the price at which the collateral is actually purchased by the issuer, any defaults on the collateral, the timing of any defaults and subsequent recoveries, changes in interest rates and any weakening of the specific credits included in the collateral, among others. Other risk factors are also expected to be described in the preliminary offering memorandum and final offering memorandum to be provided in connection with any issuance of securities. Accordingly, there can be no assurance that estimated returns or projections can be realized, that forward-looking statements will materialize or that actual results will not be materially lower than those presented herein. 
 
 Past performance is no guarantee of future results.
