@@ -10,7 +10,7 @@ Tags: core-unit, cu-is-001, mandate
 Status: RFC
 Date Proposed: 2022-10-04 
 Date Ratified:
-Forum URL: https://forum.makerdao.com/t/mip39c2-sp38-immunefi-security-core-unit-refresh-is-001/18208
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp38-modify-immunefi-security-core-unit-mandate-is-001/18208
 ```
 
 ## Sentence Summary
