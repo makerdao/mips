@@ -7,7 +7,7 @@ MIP40c3-SP#:83
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: core-unit, cu-is-001, budget, dai-budget
-Status:
+Status: RFC
 Date Applied: 2022-10-04
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2022-12-01
