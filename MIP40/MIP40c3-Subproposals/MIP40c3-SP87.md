@@ -1,6 +1,6 @@
 # MIP40c3-SP87: Modify the Sustainable Ecosystem Scaling Core Unit Budget - SES-001
 
-<span style="color:tomato">**ATTENTION:**</span> _This is a placeholder pending a double-check of our budget calculations since we don't want to set the wrong expectations. We will be adding the numbers shortly._
+**ATTENTION:** _This is a placeholder pending a double-check of our budget calculations since we don't want to set the wrong expectations. We will be adding the numbers shortly._
 
 
 ## Preamble
