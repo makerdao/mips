@@ -8,10 +8,10 @@ Author(s): @danik
 Contributors: @retro
 Tags: core-unit, cu-sas-001, budget, dai-budget
 Status: RFC
-Date Applied: <2022-10-06>
-Date Ratified: <yyyy-mm-dd>
-Ratification Poll URL: 
+Date Applied: 2022-10-06
+Date Ratified: yyyy-mm-dd
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp85-modifying-sidestream-auction-services-core-unit-budget-sas-001/18253
+Ratification Poll URL:
 ```
 
 ## Sentence Summary
