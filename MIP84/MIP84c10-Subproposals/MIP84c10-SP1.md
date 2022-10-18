@@ -8,8 +8,9 @@ Author(s): @psychonaut
 Contributors:
 Tags: 
 Status: RFC
-Date Proposed: <2022-10-11>
+Date Proposed: 2022-10-11
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip84c10-sp1-modify-emulated-surplus-buffer-upper-limit/18315/1
 ````
 
 ## Sentence Summary
