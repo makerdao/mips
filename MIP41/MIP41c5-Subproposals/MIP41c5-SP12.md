@@ -7,7 +7,7 @@ MIP41c5-SP#: 12
 Author(s): @ultraschuppi, @JustinCase 
 Contributors: @GFXlabs 
 Tags: core-unit, cu-rfw-001, facilitator, personnel-xboarding
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-08-18
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp10-facilitator-offboarding-rwf-001/17332
@@ -23,6 +23,8 @@ This subproposal offboards the current Facilitator of the Real World Finance Cor
 This subproposal relieves the current RWF-001 Facilitator, @williamr, from his responsibilities as a mandated actor and leader of the RWF-001 Core Unit. The outgoing Facilitator will not be considered a member of the RWF-001 Core Unit unless retained by the Interim or a future Facilitator.
 
 All unspent funds and assets should immediately be handed over to an appointed Interim Facilitator.
+
+If this proposal passes and [MIP39c3-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md) passes at the same time, the other one should take precedence over and supersede this one.
 
 ### Motivation
 

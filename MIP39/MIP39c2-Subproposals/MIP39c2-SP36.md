@@ -7,10 +7,10 @@ MIP39c2-SP#: 36
 Author(s): @rune
 Contributors:
 Tags: core-unit, cu-sf-001, mandate, endgame, endgame-prelaunch-mip-set
-Status: RFC
+Status: Formal Submission
 Date Applied: 2021-09-07
 Date Ratified:
-Forum URL: https://forum.makerdao.com/t/mip39c2-spxx-modifying-strategic-finance-core-unit-mandate-sf-001/17750
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp36-modifying-strategic-finance-core-unit-mandate-sf-001/17750
 Ratification Poll URL:
 ```
 

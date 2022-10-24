@@ -6,11 +6,11 @@
 MIP39c2-SP#: 35
 Author(s): @rune
 Contributors: @juan, @retro
-Status: RFC
+Status: Formal Submission
 Tags: core-unit, cu-risk-001, mandate, endgame, endgame-prelaunch-mip-set
 Date Proposed: 2022-09-07
 Date Ratified: yyyy-mm-dd
-Forum URL: https://forum.makerdao.com/t/mip39c2-spxx-modifying-risk-core-unit-mandate-risk-001/17749
+Forum URL: https://forum.makerdao.com/t/mip39c2-sp35-modifying-risk-core-unit-mandate-risk-001/17749
 ```
 
 ## Specification

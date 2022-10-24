@@ -15,7 +15,7 @@ Date Ratified: 2020-09-18
 Dependencies:
 Replaces:
 Ratification Poll URL:
-Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
+Forum URL: https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578
 ```
 
 ## References

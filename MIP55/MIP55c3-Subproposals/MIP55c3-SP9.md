@@ -3,11 +3,11 @@
 ## Preamble
 
 ```
-MIP55c3-SP9: Legal & Commercial Risk Domain Work on Greenlit Collateral BlockTower Credit (RWA Arranger)
+MIP55c3-SP#: 9
 Author(s): @Aes
 Contributors:
 Tags: spf
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-09-07
 Date Ratified:
 Amount Requested: 258K DAI

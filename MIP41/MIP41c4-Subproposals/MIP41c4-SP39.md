@@ -6,10 +6,11 @@
 MIP41c4-SP#: 39
 Authors: @christiancdpetersen, @teej, @eumenes
 Tags: core-unit, RWF-0x
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2022-08-03
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp-rwf-0x-core-unit-facilitator-onboarding/16969
+Extra: This subproposal has been [withdrawn by its author](https://forum.makerdao.com/t/mip41c4-sp39-rwf-0x-core-unit-facilitator-onboarding/16969/18).
 ```
 
 ## Sentence Summary

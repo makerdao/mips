@@ -9,12 +9,12 @@ Author(s): @rune
 Contributors: @juan, @retro
 Tags: template, endgame, endgame-prelaunch-mip-set
 Type: MIP Type
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies: n/a
 Replaces: n/a
-Forum URL: https://forum.makerdao.com/t/mipxx-activate-protocol-owned-vault-emulation/17713
+Forum URL: https://forum.makerdao.com/t/mip84-activate-protocol-owned-vault-emulation/17713
 ```
 
 ## Sentence Summary

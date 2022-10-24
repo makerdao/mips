@@ -9,12 +9,12 @@ Author(s): @rune
 Contributors: @juan, @retro
 Tags: endgame, endgame-prelaunch-mip-set
 Type: Process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-09-07
 Date Ratified: <yyyy-mm-dd>
 Dependencies:
 Replaces:
-Forum URL: https://forum.makerdao.com/t/mipxx-recognized-launch-metadao-clusters/17709
+Forum URL: https://forum.makerdao.com/t/mip83-recognized-launch-metadao-clusters/17709
 Ratification Poll URL:
 ```
 
@@ -51,16 +51,19 @@ A recognized Launch MetaDAO Cluster is a formally recognized MetaDAO Cluster led
 
 This Component provides the official list of clusters with their codenames, their MetaDAO Class, and their Cluster Facilitators.
 
+The part of MIP83c2 that is modifiable by MIP83c3 begins below this line:
+
 * Crimson (Creator): TBD
 * Vermillion (Creator): TBD
 * Maroon (Creator): TBD
 * Magenta (Creator): TBD
-* Scarlet (Creator): TBD
 * Viridian (Protector): TBD
 * Spring (Protector): TBD
-* Cerulean (Governor): TBD
-* Azure (Governor): TBD
+
+The part of MIP83c2 that is modifiable by MIP83c3 ends above this line.
 
 ### MIP83c3: Recognized Launch MetaDAO Cluster Amendment Process
 
-This subproposal process overwrites the state of MIP83c2, making it possible to change the number of Recognized Launch MetaDAO Clusters, their names, their class, and their Cluster Facilitators.
+This process component establishes the process to overwrite the state of the modifiable part of MIP83c2, making it possible to change the number of Recognized Launch MetaDAO Clusters, their names, their class, and their Cluster Facilitators.
+
+MIP83c3 Subproposals enter the Monthly Governance Cycle. They must use the [MIP83c3 subproposal template](https://github.com/makerdao/mips/blob/master/MIP83/MIP83c3-Subproposal-Template.md).

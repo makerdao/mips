@@ -7,10 +7,11 @@ MIP39c2-SP#: 34
 Author: @christiancdpetersen
 Contributors: @teej and @eumenes
 Tags: core-unit, mandate, RWF-001
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2022-08-03
 Date Approved: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp-creating-rwf0x-from-a-split-of-rwf-001/16967/1
+Extra: This subproposal has been [withdrawn by its author](https://forum.makerdao.com/t/mip39c2-sp34-creating-rwf0x-from-a-split-of-rwf-001/16967/49)
 ```
 
 ## Sentence Summary
