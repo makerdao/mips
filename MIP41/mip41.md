@@ -111,13 +111,20 @@ MIP41c4 subproposals must use the template located at [MIP41c4-Subproposal-Templ
 
 ---
 
-### MIP41c5: Facilitator offboarding
+### MIP41c5: Facilitator Offboarding
 
-This process component allows Governance to offboard a Facilitator.
+This component is twofold:
 
-If a vote for Core Unit offboarding passes, the Facilitator immediately loses all special powers listed on MIP41c2/ MIP41c3.
+1. It describes how Facilitators are to be handled in the event of a Core Unit offboarding via MIP39c3.
+2. It establishes the process to offboard *Facilitators*. Full Core Unit offboardings are to be put forth via MIP39c3.
+
+#### 1. Facilitators and Core Unit Offboardings via MIP39c3
+
+If a Core Unit offboarding subproposal passes, the Facilitator(s) of the affected Core Unit immediately loses all special powers listed on MIP41c2/MIP41c3.
 
 The Facilitator becomes a *Retiring* Facilitator in charge of executing the unwinding process for the offboarding Core Unit (described on MIP39c3). If the Retiring Facilitator fails to execute the unwinding plan, an *Interim* Facilitator - further defined in MIP41c6 - will take over these responsibilities.
+
+#### 2. Facilitator Offboarding Process
 
 A Facilitator can be offboarded without having the Core Unit they are attached to being offboarded. An Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
 
@@ -125,14 +132,14 @@ If a Facilitator wishes to voluntarily offboard, a MIP41c4 subproposal proposing
 
 If a Facilitator goes missing, an Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
 
-The proposal parameters are:
-* Minimum feedback period: 1 month
-* Minimum frozen period: 1 week
+MIP41c5 subproposal parameters are:
+
+- Minimum Feedback Period: 2 weeks.
+- Minimum Frozen Period: 1 week.
+- Poll Duration: 1 week.
 
 MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposal-Template.md)
-
 ---
-
 
 ### MIP41c6: Interim Facilitators and the Fallback Decision Process
 
