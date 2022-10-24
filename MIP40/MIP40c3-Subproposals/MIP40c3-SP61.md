@@ -6,12 +6,13 @@
 MIP40c3-SP#: 61
 Author(s): @williamr
 Contributors: @juan, @wouter
-Tags: core-unit, cu-rwf-001, budget, dai-budget, active
+Tags: core-unit, cu-rwf-001, budget, dai-budget
 Status: Accepted
 Date Proposed: 2022-02-09
 Date Ratified: 2022-03-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmXDh7RR?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp61-modify-core-unit-budget-real-world-finance-rwf-001/13152
+Extra: RWF-001 has been offboarded via [MIP39c2-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md).
 ```
 
 ## Sentence Summary

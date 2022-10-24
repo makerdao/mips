@@ -7,14 +7,13 @@ MIP55c3-SP#: 9
 Author(s): @Aes
 Contributors:
 Tags: spf
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-09-07
-Date Ratified:
+Date Ratified: 2022-10-24
 Amount Requested: 258K DAI
 Recipient Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
-Forum URL:
-Ratification Poll URL: https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776
-```
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776
+Ratification Poll URL: https://vote.makerdao.com/polling/QmcV2pMZ```
 
 ## Sentence Summary
 

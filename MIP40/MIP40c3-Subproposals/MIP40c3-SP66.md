@@ -6,12 +6,13 @@
 MIP40c3-SP#: 66
 Author(s): @Pon Jerry, @Leggevents
 Contributors: @hexonaut, @nadia
-Tags: core-unit, cu-events-001, budget, dai-budget, active
+Tags: core-unit, cu-events-001, budget, dai-budget
 Status: Accepted
 Date Proposed: 2022-03-09
 Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp66-events-core-unit-dai-budget-events-001/13777
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
+Extra: EVENTS-001 has been offboarded via [MIP39c2-SP4](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP4.md).
 ```
 
 ## Sentence Summary

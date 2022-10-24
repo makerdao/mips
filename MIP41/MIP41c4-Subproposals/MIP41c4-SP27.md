@@ -6,12 +6,13 @@
 MIP41c4-SP#: 27
 Author(s): Rune Christensen
 Contributors:
-Tags: core-unit, cu-rwf-001, facilitator, active
+Tags: core-unit, cu-rwf-001, facilitator
 Status: Accepted
 Date Proposed: 2021-10-30
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip41c4-spx-facilitator-onboarding-rwf-001/11308
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdrJGxQ
+Extra: RWF-001 has been offboarded via [MIP39c2-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md).
 ```
 
 ## Sentence Summary

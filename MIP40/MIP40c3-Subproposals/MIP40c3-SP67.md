@@ -6,12 +6,13 @@
 MIP40c3-SP#: 67
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: Dawson & like fifteen others
-tags: core-unit, cu-sh-001, budget, mkr-budget, dai-budget, active
+tags: core-unit, cu-sh-001, budget, mkr-budget, dai-budget
 Status: Accepted
 Date Proposed: 2022-03-09
 Date Ratified: 2022-05-23
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp67-modify-core-unit-budget-strategic-happiness-sh-001/13805
 Ratification Poll URL: https://vote.makerdao.com/polling/QmQkxx16
+Extra: Extra: SH-001 has been offboarded via [MIP39c2-SP3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP3.md).
 ```
 
 ## Sentence Summary

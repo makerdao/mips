@@ -6,12 +6,13 @@
 MIP39c2-SP#: 36
 Author(s): @rune
 Contributors:
-Tags: core-unit, cu-sf-001, mandate, endgame, endgame-prelaunch-mip-set
-Status: Formal Submission
+Tags: core-unit, cu-sf-001, mandate, endgame, endgame-prelaunch-mip-set, active
+Status: Accepted
 Date Applied: 2021-09-07
-Date Ratified:
+Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp36-modifying-strategic-finance-core-unit-mandate-sf-001/17750
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
+Extra: [MIP39c2-SP27](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP27.md) preceded this Mandate for SF-001.
 ```
 
 ## Sentence Summary
@@ -47,13 +48,13 @@ Mark Phillips (@Aes)
 ### Mandate as it relates to Facilitator Governance Powers
 
 The Strategic Finance Core Unit Mandate makes the Strategic Finance Core Unit Facilitator also able to unilaterally, and with no additional process, propose non-standard weekly polls and Executive Votes related to:
-* RWA Collateral management
-* Risk parameter changes for RWA Collateral
-* Other Risk Parameters in the Maker Protocol
-* RWA collateral onboarding
-* RWA Collateral offboarding
-* Other votes and governance actions related to risk, Dai collateral, and risk parameters
-* Any other votes and governance actions related to content described in the Informational Mandate below
+- RWA Collateral management
+- Risk parameter changes for RWA Collateral
+- Other Risk Parameters in the Maker Protocol
+- RWA collateral onboarding
+- RWA Collateral offboarding
+- Other votes and governance actions related to risk, Dai collateral, and risk parameters
+- Any other votes and governance actions related to content described in the Informational Mandate below
 
 ### Informational Mandate
 This section contains additional in depth information about the Strategic Finance Core Unit Mandate

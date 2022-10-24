@@ -8,10 +8,11 @@ MIPs to be amended: MIP6, MIP7, MIP8, MIP9, MIP11, MIP12
 Author(s): @rune
 Contributors: @juan, @retro
 Tags: template, endgame, endgame-prelaunch-mip-set
-Status: Formal Submission
+Status: Accepted
 Date of Removal Submission: 2022-09-07
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip4c4-sp1-mip-removal-subproposals/17712
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
 ```
 
 ## Specification
@@ -55,7 +56,7 @@ This MIP removes the following MIPs and their subcomponents.
 
 ### Removal Pull Request
 
-TODO
+https://github.com/makerdao/mips/pull/663
 
 ### Relevant Information
 

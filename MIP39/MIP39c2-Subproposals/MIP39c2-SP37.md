@@ -6,11 +6,13 @@
 MIP39c2-SP#: 37
 Author(s): @rune
 Contributors:
-Tags: collateral-eng, collateral-onboard, collateral-offboard, endgame, endgame-prelaunch-mip-set, ces-001, cob-001
-Status: Formal Submission
+Tags: collateral-eng, collateral-onboard, collateral-offboard, endgame, endgame-prelaunch-mip-set, ces-001, cob-001, active
+Status: Accepted
 Date Applied: 2021-09-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp37-modifying-collateral-engineering-services-core-unit-mandate-ces-001/17751
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
+Extra: [MIP39c2-SP20](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP20.md) preceded this Mandate for CES-001.
 ```
 
 ## Sentence Summary

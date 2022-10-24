@@ -1,16 +1,17 @@
 # MIP39c3-SP5: Offboarding the Real-world Finance Core Unit (RWF-001)
 
 ## Preamble
+
 ```
 MIP39c3-SP#: 5
 Author(s): @rune
 Contributors: @juan, @retro
 Tags: core-unit, RWF-001, cu-offboarding
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2022-09-07
-Date Ratified: 
+Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip39c3-sp5-offboarding-the-real-world-finance-core-unit-rwf-001/17753
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmX68eHn
 ```
 
 ## Sentence Summary

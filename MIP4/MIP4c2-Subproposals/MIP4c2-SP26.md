@@ -8,10 +8,11 @@ MIP to be amended: MIP41
 Author(s): CodeKnight
 Contributors: @blimpa, @Gala
 Tags: mip-amendment
-Status: Formal Submission
+Status: Accepted
 Date of Amendment Submission: 2022-09-01
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp26-amend-minimum-feedback-period-for-facilitator-offboarding/17592
+Ratification Poll URL: https://vote.makerdao.com/polling/QmYgLJ1q
 ```
 
 ## Specification
