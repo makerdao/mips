@@ -18,7 +18,7 @@ Forum URL: https://forum.makerdao.com/t/mip4c2-sp27-mip16-amendment-subproposal/
 ### Motivation
 
 - This MIP is being amended to become compatible with the Endgame Plan and prevent Signal Requests (non-standard weekly polls) from dominating the governance dynamic and acting as a vector for unpredictable complexity growth and governance overhead.
-- This MIP amendment only affects Signal Requests leading to non-standard weekly polls and doesn't change the standard and primary focus of MIP16.
+- This MIP Amendment only affects Signal Requests leading to non-standard weekly polls and doesn't change the standard and primary focus of MIP16
 
 ### Amended MIPs and Components
 
