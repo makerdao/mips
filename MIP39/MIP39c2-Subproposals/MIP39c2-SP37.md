@@ -8,7 +8,7 @@ Author(s): @rune
 Contributors:
 Tags: collateral-eng, collateral-onboard, collateral-offboard, endgame, endgame-prelaunch-mip-set, ces-001, cob-001, active
 Status: Accepted
-Date Applied: 2021-09-07
+Date Applied: 2022-09-07
 Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp37-modifying-collateral-engineering-services-core-unit-mandate-ces-001/17751
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
