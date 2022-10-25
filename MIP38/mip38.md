@@ -545,22 +545,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
 - **Ratification Date for the Initial Proposal Set** - 2021-04-27
 - **Ratification Date for Offboarding** - 2022-01-24
-
-##### Mandate
-
-- [MIP39c2-SP5](https://mips.makerdao.com/mips/details/MIP39c2SP5)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP33](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md)
-    - **Ratification Date** - 2021-22-11
-    - **Budget Amount** - A total of 424,944 Dai DAI will be streamed starting 2021-12-01 and ending 2022-04-30
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP33 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP33.md#budget-breakdown)
-
-##### Facilitator
-
-- Seth Goldfarb - [MIP41c4-SP5](https://mips.makerdao.com/mips/details/MIP41c4SP5)
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-mkt-001&orderDirection=ASC&hideParents=true&)
 
 
 #### MakerDAO Shop (MDS-001)
@@ -568,21 +553,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Summary** - The MakerDAO Shop Core Unit helps build brand awareness and goodwill for MakerDAO and Dai by offering branded items (Swag, NFTs, etc) via the official MakerDAO store.
 - **Ratification Date for the Initial Proposal Set** - 2021-04-27
 - **Ratification Date for Offboarding** - 2022-03-28
-
-##### Mandate
-
-- [MIP39c2-SP6](https://mips.makerdao.com/mips/details/MIP39c2SP6)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP6](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP6.md)
-    - **Ratification Date** - 2021-04-27
-    - **Budget Amount** - 0 DAI (50/50 profit sharing)
-
-##### Facilitator
-
-- Coulter Mulligan - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
-- Mike Porcaro - [MIP41c4-SP6](https://mips.makerdao.com/mips/details/MIP41c4SP6)
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-mds-001&orderDirection=ASC&hideParents=true&)
 
 ---
 
@@ -591,25 +562,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Summary** - This Core Unit is designed to pursue Real-World Asset work and more generally helps MakerDAO to take over the traditional finance world.
 - **Ratification Date for the Initial Proposal Set** - 2021-03-25
 - **Ratification Date for Offboarding** - 2022-10-24
-
-##### Mandate
-
-- [MIP39c2-SP1](https://mips.makerdao.com/mips/details/MIP39c2SP1)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP61](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP61.md)
-    - **Ratification Date** - 2022-03-28
-    - **Budget Amount**
-    * *Seed Transfer* 2,055,000 DAI will be transfered to 0x96d7b01Cc25B141520C717fa369844d34FF116ec on 2022-4-1. This seed transfer repairs the 3-month runway contingency buffer. It equals the quarterly budget cap of 2,055,000 DAI.
-    * *DssVest Stream* A total of 6,165,000 DAI will be streamed to 0x96d7b01Cc25B141520C717fa369844d34FF116ec starting 2022-04-01 and ending 2022-12-31.
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP61 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP61.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP38](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP38.md)
-
-##### Facilitator
-
-- Will Remor - [MIP41c4-SP27](https://mips.makerdao.com/mips/details/MIP41c4SP27)
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-rwf-001&orderDirection=ASC&hideParents=true)
 
 ---
 
@@ -618,24 +571,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Summary** - The SHCU aims to promote community engagement and promote the Maker brand by strategically spreading happiness, positive vibes, and mild but delightful confusion throughout the Maker Community via memes, shitposts, and Bespoke Happiness Airdrops.
 - **Ratification Date for the Initial Proposal Set** - 2021-09-27
 - **Ratification Date for Offboarding**: - 2022-10-24
-
-
-##### Mandate
-
-- [MIP39c2-SP11](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP67](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md)
-    - **Ratification Date** - 2021-05-23
-    - **Budget Amount** - 540,000 DAI from June 1, 2022 to March 15, 2023 + 230,000 DAI (initial payment)
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP67 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP67 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP67.md#mkr-vesting)
-
-##### Facilitator
-
-- Andrew Burban - [MIP41c4-SP11](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP11.md)
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-sh-001&orderDirection=ASC&hideParents=true&)
 
 ---
 
@@ -644,21 +580,5 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Summary** - Events Core Unit (EVENTS-001) will coordinate and execute MakerDAO branded events at Crypto/DEV Conference locations.
 - **Ratification Date for the Initial Proposal Set** - 2022-04-25
 - **Ratification Date for Offboarding** - 2022-10-24
-
-##### Mandate
-
-- [MIP39c2-SP32](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP32.md)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP66](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP66.md)
-      - **Budget Amount** - 898,150.00 DAI / year
-      - **Budget Implementation** - Simple via dssvest - [MIP40c3-SP66 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP66.md#budget-implementation)
-      - **Budget Breakdown** - [MIP40c3-SP66 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP66.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP65](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP65.md)
-
-##### Facilitator
-
-- Jon Perry (@PonJerry) - [MIP41c4-SP33](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP33.md)
-
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-events-001&orderDirection=ASC&hideParents=true&)
 ---
