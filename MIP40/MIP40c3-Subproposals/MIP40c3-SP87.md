@@ -14,10 +14,10 @@ Forum URL: https://forum.makerdao.com/t/mip40c3-sp87-modify-the-sustainable-ecos
 Ratification Poll URL:
 ```
 
-# Sentence Summary
+## Sentence Summary
 MIP40c3-SP87 modifies the DAI budget for the SES-001 Core Unit, continuing and extending operations through 31-Jan-2024.
 
-# Paragraph Summary
+## Paragraph Summary
 The current budget for SES-001 is expiring 31-Jan-2023. This MIP creates a new budget stream for the Core Unit to continue operations through 31-Jan-2024.
 
 **Changes & modifications from the current [MIP40c3-SP55](https://forum.makerdao.com/t/mip40c3-sp55-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/12097) budget MIP:**
@@ -37,16 +37,16 @@ The current budget for SES-001 is expiring 31-Jan-2023. This MIP creates a new b
 * Unwinding and Defunding.
 * Proposal Parameters.
 
-# Specification
+## Specification
 
-## Motivation
+### Motivation
 
 The Sustainable Ecosystem Scaling Core Unit will support MakerDAO through the critical transition from its current operational structure to the Endgame Plan structure with MetaDAOs. To this end, sufficient funds need to be provisioned to guarantee the success of the Maker ecosystem in the long run.
 
-## Core Unit ID
+### Core Unit ID
 SES-001
 
-## Budget Implementation
+### Budget Implementation
 >Modifications from the Original MIP40: [MIP40c3-SP55](https://forum.makerdao.com/t/mip40c3-sp55-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/12097)
 > * Updated budget transparency graphic & link. 
 > * Minor grammatical and formatting updates.
@@ -127,12 +127,13 @@ A summary of each audit cycle’s report will be made available to the Maker Com
         * `0xFCa6e196c2ad557E64D9397e283C2AFe57344b75`
         * `0xA2A855Ac8D2a92e8A5a437690875261535c8320C`
         
-## Budget Breakdown
+### Budget Breakdown
 This budget proposal represents a restructuring of SES-001 to respond to the evolving demands of MakerDAO related to the Core Unit's approved mandate. 
 
-### Budget Details
+#### Budget Details
 
-##### Standard Option
+**Standard Option**
+
 |    **Group**    | **Monthly Total** | **3 Months** | **Reduction** |
 |:----------------|------------------:|-------------:|--------------:|
 | Permanent Team  |      166,600 |     499,800 |            -5.90 % |
@@ -142,7 +143,8 @@ This budget proposal represents a restructuring of SES-001 to respond to the evo
 
 
 
-##### Speedy Dashboard Option
+**Speedy Operations Platform Option**
+
 |    **Group**    | **Monthly Total** | **3 Months** | **Reduction** |
 |:----------------|------------------:|-------------:|--------------:|
 | Permanent Team  |           206,600 |      619,800 |        +16.70% |
@@ -150,7 +152,8 @@ This budget proposal represents a restructuring of SES-001 to respond to the evo
 | Grants          |                 0 |            0 |       -100.00% |
 | **Grand Total** |       **266,600** |  **799,800** |    **-45.26%** |
 
-#### Permanent Team Breakdown
+**Permanent Team Breakdown**
+
 | **Expense**                        | **Standard**      | **Speedy Operations Platform** |
 |:-----------------------------------|------------------:|---------------------:|
 | Admin Expense Total                |             1,000 |                      | 
@@ -162,7 +165,7 @@ This budget proposal represents a restructuring of SES-001 to respond to the evo
 | Travel & Entertainment Total       |             8,000 |                      | 
 | **Total**                          |       **166,600** |          **206,600** | 
 
-#### Incubation Program Breakdown
+**Incubation Program Breakdown**
 
 | **Expense**                        | **Standard**      | **Speedy Operations Platform** |
 |:-----------------------------------|------------------:|---------------------:|
@@ -175,7 +178,8 @@ This budget proposal represents a restructuring of SES-001 to respond to the evo
 
 _Note that the Incubation Program is winding down and will be replaced by a self-learning and onboarding experience (see further.)_
 
-#### Category Descriptions
+**Category Descriptions**
+
 * **Compensation**: Contributors are paid for their work in DAI, USD or EUR once a month. This encompasses full time and part time Permanent Team contributors.
 * **Software Development**: Expenses for software developers and QA engineers developing the MakerDAO operational dashboard and related components.
 * **Software Expense**: Expenses related to business & productitivty software for the core unit, as well as hosting-related costs.
@@ -184,7 +188,8 @@ _Note that the Incubation Program is winding down and will be replaced by a self
 * **Professional Services**: Cost for the Core Unit's payment processor, AccountAble. 
 * **Admin Expenses**: Exchange fees and other transaction fees related to payments. 
 
-#### FTE - Forecast
+**FTE - Forecast**
+
 |Team members|Current FTEs|Forecast FTEs|
 | --- | ---: | ---: |
 |Facilitator|1|1|
@@ -193,10 +198,11 @@ _Note that the Incubation Program is winding down and will be replaced by a self
 |Incubees (Maker Academy + Legal)|6|6|
 |**Total**|**15.5**|**16.5**|
 
-#### Budget Term
+**Budget Term**
+
 Budget commences on 01-Feb-2023 and ends on 31-Jan-2024.
 
-### Increasing Value to Maker Token holders
+#### Increasing Value to Maker Token holders
 
 SES will support MakerDAO, through operational support and software development, to organize the critical transition from its current operational structure to the Endgame Plan structure with MetaDAOs.
 
@@ -211,7 +217,7 @@ Once the new structure is established, it plans to further develop and maintain 
   * Offering operational support.
 * Replace the SES Incubation Program with a self-learning and onboarding platform.
 
-### Roadmap and Objectives
+#### Roadmap and Objectives
 We've fulfilled the vast majority of initial roadmap items and discovered new ones along the way.  We are still collecting and prioritizing longer term roadmap items also based on the overall direction of the DAO. Here's a glimpse of what is on the roadmap right now.
 
 #### Decentralized Operations Platform
