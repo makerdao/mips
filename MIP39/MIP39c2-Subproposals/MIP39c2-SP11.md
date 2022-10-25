@@ -6,12 +6,13 @@
 MIP39c2-SP#: 11
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
-Tags: core-unit, cu-sh-001, mandate, active
+Tags: core-unit, cu-sh-001, mandate
 Status: Accepted
 Date Proposed: 2021-05-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp11-strategic-happiness-core-unit/8006
+Extra: SH-001 has been offboarded via [MIP39c2-SP3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP3.md).
 ```
 
 ## Sentence Summary

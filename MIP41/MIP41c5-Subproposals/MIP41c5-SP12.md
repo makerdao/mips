@@ -7,11 +7,12 @@ MIP41c5-SP#: 12
 Author(s): @ultraschuppi, @JustinCase 
 Contributors: @GFXlabs 
 Tags: core-unit, cu-rfw-001, facilitator, personnel-xboarding
-Status: Formal Submission
+Status: Obsolete
 Date Applied: 2022-08-18
-Date Ratified:
+Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp10-facilitator-offboarding-rwf-001/17332
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmRp4bDt
+Extra: This subproposal [passed](https://vote.makerdao.com/polling/QmRp4bDt), but so did the [Core Unit offboarding for RWF-001](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md), which upon passing was to take precedence over it, as stated further down in this subproposal.
 ```
 
 ## Sentence Summary

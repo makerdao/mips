@@ -6,12 +6,13 @@
 MIP39c2-SP#: 2
 Author(s): Primož Kordež (@Primoz)
 Contributors:
-Tags: core-unit, cu-risk-001, active, mandate
+Tags: core-unit, cu-risk-001, mandate
 Status: Accepted
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp2-adding-risk-core-unit/6342
+Extra: Superseded by [MIP39c2-SP35](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP35.md).
 ```
 
 ## Sentence Summary

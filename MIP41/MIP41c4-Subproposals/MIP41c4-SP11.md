@@ -6,12 +6,13 @@
 MIP41c4-SP#: 11
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
-Tags: core-unit, cu-sh-001, facilitator, active
+Tags: core-unit, cu-sh-001, facilitator
 Status: Accepted
-Date Proposed: <2021-05-11>
-Date Ratified: <2021-09-27>
+Date Proposed: 2021-05-11
+Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp11-shitpost-facilitator-onboarding-strategic-happiness-core-unit-sh-001/8008
+Extra: SH-001 has been offboarded via [MIP39c2-SP3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP3.md).
 ```
 
 ## Sentence Summary

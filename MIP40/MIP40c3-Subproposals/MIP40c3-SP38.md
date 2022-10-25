@@ -6,12 +6,13 @@
 MIP40c3-SP#: 38
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:  
-Tags: core-unit, cu-rwf-001, budget, mkr-budget, active
+Tags: core-unit, cu-rwf-001, budget, mkr-budget
 Status: Accepted
 Date Proposed: 2021-09-22
 Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmYNiuNE?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447
+Extra: RWF-001 has been offboarded via [MIP39c2-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md).
 ```
 
 ## Sentence Summary

@@ -9,12 +9,13 @@ Author(s): @rune
 Contributors: @juan, @retro
 Tags: template, endgame, endgame-prelaunch-mip-set
 Type: MIP Type
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-09-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-10-24
 Dependencies: n/a
 Replaces: n/a
 Forum URL: https://forum.makerdao.com/t/mip84-activate-protocol-owned-vault-emulation/17713
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
 ```
 
 ## Sentence Summary
@@ -57,10 +58,10 @@ Defines the relationship between the protocol's surplus and the POVE's buffer.
 **MIP84c10: Modify Emulated Surplus Buffer Upper Limit**
 Defines the ability to modify the Emulated Surplus Buffer Upper Limit.
 
-**MIP84c10: Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling**
+**MIP84c11: Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling**
 Defines a virtual maximum for collateral assets in the POVE.
 
-**MIP84c11: Modify Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling**
+**MIP84c12: Modify Protocol-Owned Vault Emulation Collateral Virtual Price Ceiling**
 Defines the ability to modify the POVEC's Virtual Price Ceiling.
 
 **MIP84c13: Long-term Replacement of the Protocol-Owned Vault Emulation**
@@ -209,7 +210,7 @@ Facilitators with relevant mandates may propose weekly polls to amend the Protoc
 
 MIP84c12 subproposals must use the template located at [MIP84c12-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP84/MIP84c12-Subproposal-Template.md).
 
-# MIP84c13: Long-term replacement of the Protocol-Owned Vault Emulation
+### MIP84c13: Long-term replacement of the Protocol-Owned Vault Emulation
 
 The POVE is not meant to be a permanent feature of the Endgame, rather it is a short-term solution that allows Maker to quickly begin accumulating staked ETH, at a steady rate, reducing risks.
 

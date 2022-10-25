@@ -8,11 +8,13 @@ MIP to be amended: MIP16
 Author(s): @rune
 Contributors: @juan, @retro    
 Tags: endgame, endgame-prelaunch-mip-set
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-09-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp27-mip16-amendment-subproposal/17711
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
 ```
+
 ## Specification
 
 ### Motivation

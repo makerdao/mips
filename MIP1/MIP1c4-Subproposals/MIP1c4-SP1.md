@@ -7,10 +7,11 @@ Title of Problem Space Item to be Added or Deleted: Core Governance Framework, C
 Author(s): @rune
 Contributors: @juan, @retro
 Tags: endgame, endgame-prelaunch-mip-set
-Status: Formal Submission
+Status: Accepted
 Date of Submission: 2022-09-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip1c4-sp1-subproposal-for-changing-the-problem-space/17710
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
 ```
 
 ## Specification  
