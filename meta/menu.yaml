@@ -71,10 +71,6 @@ data:
             name: 'DUX-001: Development and UX'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-dux-001)&_Archive=$AND(NOT(%23active),%23cu-dux-001)
-          - id: events-001
-            name: 'EVENTS-001: Events'
-            href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Development%20and%20UX%20Core%20Unit%20(DUX-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-events-001)&_Archive=$AND(NOT(%23active),%23cu-events-001)
           - id: gov-001
             name: 'GOV-001: Governance'
             href: >-
@@ -99,10 +95,6 @@ data:
             name: 'RISK-001: Risk'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Risk%20Core%20Unit%20(RISK-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-risk-001)&_Archive=$AND(NOT(%23active),%23cu-risk-001)
-          - id: rwf-001
-            name: 'RWF-001: Real-World Finance'
-            href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Real%20World%20Finance%20Core%20Unit%20(RWF-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-rwf-001)&_Archive=$AND(NOT(%23active),%23cu-rwf-001)
           - id: sas-001
             name: 'SAS-001: Sidestream Auction Services'
             href: >-
@@ -119,10 +111,6 @@ data:
             name: 'SNE-001: StarkNet Engineering'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=StarkNet%20Engineering%20Core%20Unit%20(SNE-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sne-001)&_Archive=$AND(NOT(%23active),%23cu-sne-001)
-          - id: sh-001
-            name: 'SH-001: Strategic Happiness'
-            href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Strategic%20Happiness%20Core%20Unit%20(SH-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-sh-001)&_Archive=$AND(NOT(%23active),%23cu-sh-001)
           - id: tech-001
             name: 'TECH-001: TechOps'
             href: >-
