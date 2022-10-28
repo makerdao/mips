@@ -10,7 +10,7 @@ Author(s): @Allan_Pedersen @Sequoia_RMBS
 Contributors: 
 Type: Technical
 Status: RFC
-Date Proposed: 2022-12-10
+Date Proposed: 2022-10-12
 Date Ratified: XX
 Dependencies: MIP21
 Replaces: None
