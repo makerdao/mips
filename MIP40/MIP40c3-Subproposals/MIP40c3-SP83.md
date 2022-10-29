@@ -7,7 +7,7 @@ MIP40c3-SP#:83
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: core-unit, cu-is-001, budget, dai-budget
-Status: RFC
+Status:
 Date Applied: 2022-10-04
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2022-12-01
@@ -21,13 +21,13 @@ Renew the DAI budget for Core Unit IS-001: Immunefi Security.
 
 ## Paragraph Summary
 
-ISCU requests a 786,830 DAI budget to sustain minimal operations for another year starting 01 Dec 2022 (option Status Quo). Due to market conditions, we propose an alternative (option Bear Market) with a reduction of 0.2 FTEs, which will slow response time and increase the likelihood of using the MIP64c5 process. Option Bear Market requests a 12-month budget of 427,790 DAI (approx 359k DAI less).
+The Immunefi Security Core Unit (ISCU) requests a 786,830 DAI budget to sustain minimal operations for another year starting 01 Dec 2022 (option Status Quo). Due to market conditions, we propose an alternative (option Bear Market) with a reduction of 0.2 FTEs, which will slow response time and increase the likelihood of using the [MIP64c5](https://github.com/makerdao/mips/blob/master/MIP64/MIP64.md#mip64c5-payment-process-and-budget-request) process. Option Bear Market requests a 12-month budget of 427,790 DAI (approx 359k DAI less).
 
 ## Specification
 
 ### Motivation
 
-The budget reflects the needs of the team to ensure continuity of the minimal level of service described in our MIP39. This is summarized by, but not limited to:
+The budget reflects the needs of the team to ensure continuity of the minimal level of service described in our Mandate ([MIP39c2-SP24](https://mips.makerdao.com/mips/details/MIP39c2SP24)). This is summarized by, but not limited to:
 - Bug Bounty Program, including initial triaging.
 - Monitoring of Critical Infrastructure.
 - Close scrutiny of security-related issues.
@@ -42,14 +42,14 @@ IS-001
 ### Common Budget Implementation
 
 The budget is designed with the following in mind:
-- Operational costs to run the core unit and perform its tasks.
+- Operational costs to run the Core Unit and perform its tasks.
 - Operational costs of third parties contracted.
 - Legal expenses.
 - Having a buffer for unexpected legal, technical, or financial problems.
 
 Therefore, a vote to ratify this subproposal means MKR holders make a commitment to a continuous funding model based on the [SES top-up mechanism](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md).
-![Budget diagram](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP83/diagram.png)
-IS-001 currently has three DAI vesting streams in operation stream IDs: 19, 32, and 34. Stream 19 and stream 34 have reached their end-date, while stream 32 completes on 2022-12-01. Upon passage of this budget proposal, before a new stream is set up by GovAlpha and PE through an executive vote, stream 19 and stream 34 will have `vest` called and all vested DAI will be immediately returned via DssBlow. The new stream being setup will be for the approved budget amount, minus any remaining DAI in stream 32.
+![Budget diagram](https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/1/15c3c5342924670592add4d8137f79f4ea549a15.png)
+IS-001 currently has three DAI vesting streams in operation: stream IDs: 19, 32, and 34. Stream 19 and stream 34 have reached their end-date, while stream 32 completes on 2022-12-01. Upon passage of this budget proposal, before a new stream is set up by GovAlpha and PE through an executive vote, stream 19 and stream 34 will have `vest` called and all vested DAI will be immediately returned via DssBlow. The new stream being setup will be for the approved budget amount, minus any remaining DAI in stream 32.
 
 #### Wallets
 
@@ -76,17 +76,17 @@ A total of 786,830 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07
 
 |Expense Category               |Total Budget Term|Monthly Equivalent|Monthly Expense Annualized (x12)|
 |-------------------------------|-----------------|------------------|--------------------------------|
-|Compensation & Benefits        |105600           |8800              |105600                          |
+|Compensation & Benefits        |105,600           |8,800              |105,600                          |
 |Headcount Expense Subtotal     |105600           |8800              |105600                          |
 |                               |                 |                  |                                |
-|Gas Expense                    |6000             |500               |6000                            |
-|Hardware Expense               |2500             |208               |2500                            |
-|Software Development Expense   |600000           |50000             |600000                          |
-|Software Expense               |1200             |100               |1200                            |
-|Non-Headcount Expenses Subtotal|609700           |50808             |609700                          |
+|Gas Expense                    |6,000             |500               |6,000                            |
+|Hardware Expense               |2,500             |208               |2,500                            |
+|Software Development Expense   |600,000           |50,000             |600,000                          |
+|Software Expense               |1,200             |100               |1,200                            |
+|Non-Headcount Expenses Subtotal|609,700           |50,808             |609,700                          |
 |                               |                 |                  |                                |
-|10% Contingency                |71530            |5961              |71530                           |
-|Grand Total                    |786830           |65569             |786830                          |
+|10% Contingency                |71,530            |5,961              |71,530                           |
+|Grand Total                    |786,830           |65,569             |786,830                          |
 
 ### Bear Market Budget Implementation
 
@@ -94,17 +94,17 @@ A total of 427,790 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07
 
 |Expense Category               |Total Budget Term|Monthly Equivalent|Monthly Expense Annualized (x12)|
 |-------------------------------|-----------------|------------------|--------------------------------|
-|Compensation & Benefits        |79200            |6600              |79200                           |
-|Headcount Expense Subtotal     |79200            |6600              |79200                           |
+|Compensation & Benefits        |79,200            |6,600              |79,200                           |
+|Headcount Expense Subtotal     |79,200            |6,600              |79,200                           |
 |                               |                 |                  |                                |
-|Gas Expense                    |6000             |500               |6000                            |
-|Hardware Expense               |2500             |208               |2500                            |
-|Software Development Expense   |300000           |25000             |300000                          |
-|Software Expense               |1200             |100               |1200                            |
-|Non-Headcount Expenses Subtotal|309700           |25808             |309700                          |
+|Gas Expense                    |6,000             |500               |6,000                            |
+|Hardware Expense               |2,500             |208               |2,500                            |
+|Software Development Expense   |300,000           |25,000             |300,000                          |
+|Software Expense               |1,200             |100               |1,200                            |
+|Non-Headcount Expenses Subtotal|309,700           |25,808             |309,700                          |
 |                               |                 |                  |                                |
-|10% Contingency                |38890            |3241              |38890                           |
-|Grand Total                    |427790           |35649             |427790                          |
+|10% Contingency                |38,890            |3,241              |38,890                           |
+|Grand Total                    |427,790           |35,649             |427,790                          |
 
 ### Budget Details
 
@@ -112,11 +112,11 @@ Compensation & Benefits reflect a 10% increase vs last year to compensate for [i
 
 Software Expenses will be used to provide for internal organizational tools and secure communications channels.
 
-Hardware Expense will be used to provide for team hardware (e.g a secure laptop).
+Hardware Expenses will be used to provide for team hardware (e.g., a secure laptop).
 
 In part due to low gas prices, our operational wallet has 0.33 ETH. We last purchased gas during April 2022.
 
-Software Development Expense reflects the amount budgets for [rapid payment for small bug bounties](https://forum.makerdao.com/t/mip4c2-sp17-rapid-payment-for-small-bug-bounties-mip64-mip40c3-sp42-amendment/12869). Actual payouts are unpredictable. For the prior year, we have paid out 127 500 to whitehats and 5 500 in bounty fees to Immunefi. In view of our modest payouts, we propose a lower budget for the coming year.
+Software Development Expense reflects the amount budgets for [rapid payment for small bug bounties](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP17.md). Actual payouts are unpredictable. For the prior year, we have paid out 127,500 to whitehats and 5,500 in bounty fees to Immunefi. In view of our modest payouts, we propose a lower budget for the coming year.
 
 ### Budget Term
 
@@ -130,23 +130,23 @@ ISCU seeks to prevent losses to the protocol. We have paid bug bounties for five
 
 We will conduct [governance fire drills](https://forum.makerdao.com/t/fire-drill-postmortem-informal-poll/16677) approximately four times per year. However, the frequency and type of fire drill may be modified depending on guidance from Governance Facilitators.
 
-Our work running the bug bounty program and scrutiny of security-related issues is impossible to plan in advance. We promise to serve Maker with diligence, but cannot provide a Roadmap. During the next year, we expect onboarding of Sidestream Auction Services, Oracles, Deco, and StarkNet Engineering.
+Our work running the bug bounty program and scrutiny of security-related issues is impossible to plan in advance. We promise to serve Maker with diligence, but cannot provide a roadmap. During the next year, we expect onboarding of Sidestream Auction Services, Oracles, Deco, and StarkNet Engineering.
 
 ### Headcount Planning / Team Summary
 
-Although Travin ceased receiving compensation from July 2022, he remains a multisig signer and consults with Joshua in regard to bug reports. Travin has largely moved on to areas of his businesses outside the Immunefi bug bounty platform, but he is still in charge of activities of the CU and contributes to decisions on the services that it offers to the ecosystem.
+Although Travin ceased receiving compensation from July 2022, he remains a multisig signer and consults with Joshua in regard to bug reports. Travin has largely moved on to areas of his businesses outside the Immunefi bug bounty platform, but he is still in charge of activities of the Core Unit and contributes to decisions on the services that it offers to the ecosystem.
 
-Joshua handles all day-to-day tasks associated with the CU. His compensation is for 0.8 FTE.
+Joshua handles all day-to-day tasks associated with the Core Unit. His compensation is for 0.8 FTE.
 
 ### Contingency Planning
 
 In a bear market context, Joshua could reduce his time to 0.6 FTE. This reduction in compensation would correspond with a reduction in response time and somewhat less scrutiny of ongoing security issues.
 
-In a bull market context, Travin would be called upon to hire another staffer to fulfill the core unit’s mandate more fully. We would submit a MIP40 budget amendment to allocate additional budget and confirm this plan with MKR holders.
+In a bull market context, Travin would be called upon to hire another staffer to fulfill the Core Unit’s mandate more fully. We would submit a MIP40 budget amendment to allocate additional budget and confirm this plan with MKR holders.
 
 ### Unwinding and Defunding
 
-A Golden Parachute payout will be provided to the Core Unit for the facilitator to distribute to their team. The amount will be three months worth of Compensation & Benefits, 8,800 DAI x 3 months = 26,400. Any MKR accrued (vested or not) at the time of offboarding ratification will be eligible for payout. If the MKR Incentive Plan has a cliff, it will be ignored and allow the MKR amount to be transferred to the Core Unit. Excess funds will be returned to the auditors wallet.
+A Golden Parachute payout will be provided to the Core Unit for the Facilitator to distribute to their team. The amount will be three months worth of Compensation & Benefits --- 8,800 DAI x 3 months = 26,400. Any MKR accrued (vested or not) at the time of offboarding ratification will be eligible for payout. If the MKR Incentive Plan has a cliff, it will be ignored and allow the MKR amount to be transferred to the Core Unit. Excess funds will be returned to the auditors wallet.
 
 Monitoring agents will be handed off to TechOps or other engineering staff.
 
