@@ -1,4 +1,4 @@
-# MIP40c3-SP82: Development & UX Core Unit (DUX-001) Budget
+# MIP40c3-SP82: Modify Development & UX Core Unit Budget (DUX-001)
 
 ## Preamble
 
@@ -20,15 +20,15 @@ MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from Februar
 
 ## Paragraph Summary
 
-MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from February 1st 2023 through January 31st 2024, and is written in accordance with the latest MIP40 amendment. This budget proposal is written in recognition of today's bearish market context and the DAO's intent to cut costs. In this proposal we provide two distinct budget options that both represent a significant (>10%) bottom-line budget reduction for our Core Unit without impairing execution of our mandate. We collectively decided to not include any raises or bonuses in this budget proposal.
+MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from February 1st 2023 through January 31st 2024, and is written in accordance with the [latest MIP40 amendment](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP19.md). This budget proposal is written in recognition of today's bearish market context and the DAO's intent to cut costs. In this proposal we provide two distinct budget options that both represent a significant (>10%) bottom-line budget reduction for our Core Unit without impairing execution of our mandate. We collectively decided to not include any raises or bonuses in this budget proposal.
 
 ## Specification
 
 ### Motivation
 
-The Development & UX Core Unit (DUX-001) is one of MakerDAO's engineering Core Units, currently focussed on maintaining and improving MakerDAO's governance tooling and infrastructure. The Maker protocol has a unique and bespoke governance system, and the MakerDAO organization is continuously evolving its governance processes and organizational structure.
+The Development & UX Core Unit (DUX-001) is one of MakerDAO's engineering Core Units, currently focused on maintaining and improving MakerDAO's governance tooling and infrastructure. The Maker protocol has a unique and bespoke governance system, and the MakerDAO organization is continuously evolving its governance processes and organizational structure.
 
-The DUX Core Unit is committed to maintaining and improving Maker's governance tooling and infrastructure today, *and* working towards evolving Maker governance together with the context and needs of both the Maker protocol and the DAO. This budget proposal replaces our current budget **MIP40c3-SP52** which ends in January 2023. This budget proposal represents the resources our Design & Development product team needs to execute our mandate and support other operational Core Units (e.g., GovAlpha, SES, DIN) with technical execution power. 
+The DUX Core Unit is committed to maintaining and improving Maker's governance tooling and infrastructure today, *and* working towards evolving Maker governance together with the context and needs of both the Maker protocol and the DAO. This budget proposal replaces our current budget [MIP40c3-SP52](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP52.md) which ends in January 2023. This budget proposal represents the resources our Design & Development product team needs to execute our mandate and support other operational Core Units (e.g., GovAlpha, SES, DIN) with technical execution power. 
 
 As a team we acknowledge the harsh market conditions and broader context of MakerDAO, and therefore optimized for cutting costs without impairing our team's efficacy. After a full year of operating as a Core Unit we have a good understanding of our software expenses and team needs, which is reflected in a more fine-tuned budget and fewer 'buffers'. In addition we have collectively decided to **NOT** add any compensation raises and/or bonuses to this budget proposal as a gesture of good faith to the Maker community. As a Facilitator this puts a smile on my face as it's telling for our team dynamic and commitment to the Maker project. 
 
@@ -138,7 +138,7 @@ Note that both budget options do NOT include any raises or bonuses to contributo
 
 **Professional Services:** This expense category is used to procure external services when our context demands it. Examples are hosting and 24/7 monitoring of our products by the TechOps Core Unit, one-off code audits (if deemed necessary), training (if deemed necessary), and hiring specialized engineers/designers (if deemed necessary). The DAI amount is based on an ongoing paid collaboration with the TechOps Core Unit (4500 DAI/mo) and an added 3000 DAI/mo allocation for other external services that will only be spent if necessary.
 
-**Contingency Buffer:** We've decided to move away from a general-purpose 10% buffer in acknowledgement with the community's scrutiny of this practice. Instead, we're reducing this budget from ~20k DAI to 3k DAI and earmarking this buffer as an 'emergency legal fund' that will *only* be used in case one or more of our team's contributors are in need of legal defence as a result of their involvement with MakerDAO. As we are building frontends for end-users *and* as (unfortunately) the DAO currently has **zero** legal risk mitigation (e.g., a [self-insurance fund](https://forum.makerdao.com/t/self-insurance-fund-update/15943)) in place for its workforce, I deem this 'insurance-like' budget component as an absolute necessity for our team. 
+**Contingency Buffer:** We've decided to move away from a general-purpose 10% buffer in acknowledgement to the community's scrutiny of this practice. Instead, we're reducing this budget from ~20k DAI to 3k DAI and earmarking this buffer as an 'emergency legal fund' that will *only* be used in case one or more of our team's contributors are in need of legal defence as a result of their involvement with MakerDAO. As we are building frontends for end-users *and* as (unfortunately) the DAO currently has **zero** legal risk mitigation (e.g., a [self-insurance fund](https://forum.makerdao.com/t/self-insurance-fund-update/15943)) in place for its workforce, I deem this 'insurance-like' budget component as an absolute necessity for our team. 
 
 ### Reporting Transparency
 
