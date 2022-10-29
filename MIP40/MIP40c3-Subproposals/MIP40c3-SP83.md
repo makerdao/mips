@@ -48,7 +48,7 @@ The budget is designed with the following in mind:
 - Having a buffer for unexpected legal, technical, or financial problems.
 
 Therefore, a vote to ratify this subproposal means MKR holders make a commitment to a continuous funding model based on the [SES top-up mechanism](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP10.md).
-![Budget diagram](https://makerdao-forum-backup.s3.dualstack.us-east-1.amazonaws.com/original/2X/1/15c3c5342924670592add4d8137f79f4ea549a15.png)
+![Budget diagram](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP83/diagram.png)
 IS-001 currently has three DAI vesting streams in operation: stream IDs: 19, 32, and 34. Stream 19 and stream 34 have reached their end-date, while stream 32 completes on 2022-12-01. Upon passage of this budget proposal, before a new stream is set up by GovAlpha and PE through an executive vote, stream 19 and stream 34 will have `vest` called and all vested DAI will be immediately returned via DssBlow. The new stream being setup will be for the approved budget amount, minus any remaining DAI in stream 32.
 
 #### Wallets
