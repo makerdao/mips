@@ -18,6 +18,10 @@ Ratification Poll URL:
 
 Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001: Immunefi Security.
 
+## Paragraph Summary
+
+Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001: Immunefi Security.
+
 ## Specification
 
 ### Motivation
@@ -68,3 +72,11 @@ IS-001
 - 1996–2001 Software Engineer, NatWest/Deutsche Bank, New York City, NY
 - 1993–1995 Software Engineer, Various Companies, New York City, NY
 - [Lots of contributions](https://github.com/jpritikin) to free and open source software
+
+### Related Documents
+
+- [Previous failed attempt to onboard as ISCU Facilitator](https://forum.makerdao.com/t/mip41c4-sp34-immunefi-security-core-unit-facilitator-onboarding-is-001/14610)
+- @travinimmunefi's [Facilitator MIP](https://forum.makerdao.com/t/mip41c4-sp25-immunefi-security-core-unit-facilitator-onboarding-is-001/10812)
+- [Core Unit Mandate MIP](https://mips.makerdao.com/mips/details/MIP39c2SP24)
+- [Core Unit Budget MIP](https://mips.makerdao.com/mips/details/MIP40c3SP58)
+- [Core Unit MKR Budget MIP](https://mips.makerdao.com/mips/details/MIP40c3SP41)

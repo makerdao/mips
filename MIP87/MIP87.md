@@ -14,7 +14,6 @@ Date Proposed: 2022-10-04
 Date Ratified:
 Dependencies: MIP86, MIP81, GUSD PSM, MIP13c3-SP12
 Forum URL: https://forum.makerdao.com/t/mip87-ousd-decentralized-rewards/18216
-
 ```
 
 ## References
@@ -31,11 +30,7 @@ Forum URL: https://forum.makerdao.com/t/mip87-ousd-decentralized-rewards/18216
 * https://github.com/OriginProtocol/origin-dollar
 * https://vote.ousd.com/#/
 * https://docs.ousd.com/security-and-risks/audits
-* https://www.kucoin.com/trade/OUSD-USDT
-* https://www.gate.io/trade/OUSD_USDT?ref=3018394
-* https://curve.fi/factory/9
-* https://kyberswap.com/swap/ethereum/usdc-to-ousd
-* https://app.1inch.io/#/1/unified/swap/USDC/OUSD
+
 * https://blog.originprotocol.com/presented-by-makerdao-origin-applications-of-dai-in-the-decentralized-sharing-economy-195ca7e20f01
 * https://blog.originprotocol.com/pay-with-dai-on-origin-announcing-our-first-stablecoin-integration-43f86d5d7982
 * https://blog.originprotocol.com/doo-wan-nam-discusses-origins-partnership-with-makerdao-c89461572cf0
@@ -44,96 +39,129 @@ Forum URL: https://forum.makerdao.com/t/mip87-ousd-decentralized-rewards/18216
 * https://github.com/OriginProtocol/security/blob/master/incidents/README.md
 * https://blog.originprotocol.com/what-weve-changed-since-the-ousd-attack-5894f2bd77cf
 * https://forum.makerdao.com/t/ogn-ousd-mip6-collateral-onboarding-application-origin-protocol-origin-dollar/12205
+* [MakerDao Growth Tweetstorm](https://twitter.com/makergrowth/status/1559525171186339841?s=21&t=6lfhywpJlmnWRr86KpdfOA)
 
 ## Sentence Summary
 
-MIP87 will enable MakerDAO to deploy up to 33% of PSM’s USDC into Origin Dollar (OUSD) to earn constant daily yield without going through a centralized service or giving up custody of the funds. OUSD is the first stablecoin that grows directly in your wallet using yield that is generated from battle-tested DeFi protocols.
+MIP87 will enable MakerDAO to deploy 100M of Maker’s idle USDC into the Origin Dollar (OUSD) to earn constant daily yield without going through a centralized service or giving up custody of the funds.
 
 ## Paragraph Summary
 
-The purpose of this MIP is to put Maker’s idle USDC to work, without leaving DeFi. In its current form, Maker holds USDC and earns nothing; its purchasing power will decrease over time due to inflation now running over 8%. OUSD will allow Maker to reach its investment goals through 2022 and beyond, while maintaining a level of decentralization not currently possible with MIPs 81 or 86, or Gemini’s GUSD PSM.
+MIP87 was written in response to Maker's request for proposals on how to earn revenue on idle capital. In its current form, Maker holds USDC and earns nothing; its purchasing power will decrease over time due to inflation now running over 8%. OUSD is the first stablecoin that grows directly in your wallet using yield that is generated from battle-tested DeFi protocols. It will assist Maker in reaching its investment goals through 2022 and beyond, while maintaining the highest level of decentralization possible.
 
 ## Component Summary
 
-**MIP87c1: Background on Origin Protocol**
-**MIP87c2: The Origin Dollar**
-**MIP87c3: Steps for investing in OSUD**
-**MIP87c4: Fees and earning interest**
-**MIP87c5: Checking the boxes of MIP13c3-SP12**
-**MIP87c6: Aligning with Maker’s Core Principles**
-**MIP87c7: The elephant in the room**
-**MIP87c8: Our view on MIP81, MIP86, and Gemini GUSD PSM**
+ **MIP87c1: Background on Origin Protocol**
+
+Defines the background of Origin Protocol since its inception in 2017.
+
+ **MIP87c2: The Origin Dollar**
+
+Defines the background and mechanics of the Origin Dollar.
+
+ **MIP87c3: Investing in OSUD**
+
+Provides the steps for how Maker can invest in the Origin Dollar.
+
+ **MIP87c4: Deal Terms**
+
+Defines the length of time for Maker’s OUSD investment.
+
+ **MIP87c5: Legal Structure**
+
+Defines the legality of doing business with Origin.
+
+ **MIP87c6: Aligning with Maker’s Core Principles**
+
+Defines how Origin’s decentralization principles align with the MakerDAO ethos.
+
+ **MIP87c7: The Elephant in the Room**
+
+Defines how Origin is mitigating risks and addresses the previous exploit.
+
+
 
 ## Motivation
 
-MIP87 responds to the ratified Statement of Intent to [Invest in Short-Term Bonds, MIP13c3-SP12](https://mips.makerdao.com/mips/details/MIP13c3SP12#declaration-detail), where MakerDAO governance states that a large portion of the balance sheet is in a stablecoin that does not earn any yield. Origin Protocol strongly believes that OUSD falls within the criteria for investment outlined in MIP13c3-SP12 regarding safety, cost structure, and flexibility.
+MIP87 responds to MakerDAO’s request for proposals on how to earn revenue on idle capital. Maker governance states that a large portion of the balance sheet is in a stablecoin that does not earn any yield. Origin Protocol believes that OUSD falls within Maker’s criteria for investment regarding safety, cost structure, and flexibility, all while aligning with Maker’s decentralization principles.
+
+MIP87 was created in response to the recent interest in generating yield for the DAO; it is significantly different from the unsuccessful [MIP6](https://vote.makerdao.com/polling/QmcWD91Z#vote-breakdown) application to onboard OUSD as DAI collateral. Through tremendous community engagement and involvement, new integrations and partnerships, and multiple additional security features, OUSD has only become stronger since MIP6. Origin recognizes that Maker revenue has fallen 86% since Q2’22, due to a combination of factors, and believes that an investment in OUSD can help Maker reach its investment goals for the endgame plan.
+
+Maker will earn a continuous yield with OUSD and retain full custody of the investment, without exposure to risky or volatile assets or going through a centralized service. 2022 has given us multiple reminders of what can go wrong when placing too much trust in centralized counterparties, no matter how safe they may initially seem from the outside, as funds are never truly secure when keys are handed to a third party.
 
 ## Specification / Proposal Details
 
 ### MIP87c1: Background on Origin Protocol
 
-Origin Protocol is an established, well-funded, registered business in the Cayman Islands that provides fully decentralized, risk-averse stablecoin yields and custom NFT marketplaces. Origin was founded by Web3 veterans Josh Fraser and Matthew Liu in 2017 and is one of the most venerable projects in the space. Josh and Matthew are joined by the fully doxxed Origin [team](https://www.originprotocol.com/en/team) and community that includes hundreds of thousands of members and open-source contributors. Origin has raised $38.1M from top investors including Pantera, Spartan Group, Foundation Capital, BlockTower Capital, Steve Chen, Garry Tan, and Alexis Ohanian and currently maintains a $100M+ treasury. On the NFT front, Origin has worked with top crypto and mainstream talent, including Paris Hilton, Trevor Jones, Alotta Money, KSHMR, Don Diablo, Inspiration4/SpaceX, 3LAU, and Jake Paul. Much of this information can also be found in [our previous Vault collateral proposal](https://forum.makerdao.com/t/ogn-ousd-mip6-collateral-onboarding-application-origin-protocol-origin-dollar/12205) on the MIP6 forum. Origin has a long and ongoing history of working with the MakerDAO team across multiple initiatives.
+Origin Protocol is an established, well-funded, registered business in the Cayman Islands that provides fully decentralized, risk-averse stablecoin yields and custom NFT marketplaces. Origin was founded by Web3 veterans Josh Fraser and Matthew Liu in 2017 and is one of the most venerable projects in the space. Josh and Matthew are joined by the fully doxxed Origin [team](https://www.originprotocol.com/en/team) and community, which includes hundreds of thousands of members and open-source contributors. Origin has raised $38.1M from top investors including Pantera, Spartan Group, Foundation Capital, BlockTower Capital, Steve Chen, Garry Tan, and Alexis Ohanian, and currently maintains a $100M+ treasury. On the NFT front, Origin has worked with top crypto and mainstream talent, including Paris Hilton, Trevor Jones, Alotta Money, KSHMR, Don Diablo, SpaceX, 3LAU, and Jake Paul. Much of this information can also be found in [our previous Vault collateral proposal](https://forum.makerdao.com/t/ogn-ousd-mip6-collateral-onboarding-application-origin-protocol-origin-dollar/12205) on the MIP6 forum. Origin has a long and ongoing history of working with the MakerDAO team across multiple initiatives.
 
 ### MIP87c2: The Origin Dollar
 
-[OUSD](http://ousd.com/) is a yield-generating stablecoin that rebases positively and daily to distribute yield directly to user wallets in the form of additional units of OUSD. OUSD is fully collateralized and is backed 1-to-1 by DAI, USDC, and/or USDT. Yield is generated by supplying the underlying stablecoins to blue-chip DeFi protocols, such as Compound, Aave, and Curve/Convex. Interest, fees, and incentives are converted into additional units of OUSD and are distributed proportionally to each OUSD holder. OUSD holders maintain full custody and control at all times and can convert back to the underlying stablecoins at any time; there are no lockups, terms, or vesting periods.
+[OUSD](http://ousd.com/) is a yield-generating stablecoin that rebases positively to distribute yield directly to user wallets in the form of additional units of OUSD. OUSD is fully collateralized and is backed 1-to-1 by DAI, USDC, and/or USDT. Yield is generated by supplying the underlying stablecoins to blue-chip DeFi protocols, such as Compound, Aave, and Curve/Convex. Interest, fees, and incentives are converted into additional units of OUSD and are distributed proportionally to each OUSD holder daily, or within 24 hours of converting into OUSD. OUSD holders maintain full custody and control at all times and can convert back to the underlying stablecoins at any time. OUSD holders do not need to monitor or do any work to maintain their OUSD position, as OUSD collateral is automatically reallocated each week across the highest yield-generating protocols. By deploying funds into a diversity of strategies, OUSD is able to scale with minimal APY compression even as TVL grows into hundreds of millions of dollars. The current OUSD stablecoin allocation and APY can be viewed and verified in real-time on-chain at all times on the [OUSD analytics](https://analytics.ousd.com/) page.
 
-Origin is built on top of some of the most battle-tested smart contracts in DeFi. OUSD itself has undergone [multiple security audits](https://docs.ousd.com/security-and-risks/audits) by Trail of Bits, OpenZeppelin, Solidified, and Certora. A retainer was recently signed with OpenZeppelin and the next audit reports should be released by the end of October. Security reviews are now prioritized over new feature development, and multiple engineers are required to review each code change with a detailed checklist before deployment. Origin is also doing deep dives into the exploits of other protocols, making sure the same vulnerabilities don’t exist on Origin contracts. The OUSD source code is publicly available and accessible via the OUSD Github [repository](https://github.com/originprotocol/origin-dollar).
+Origin exclusively deploys on protocols that have been carefully audited and battle-tested with significant capital over an extended period of time. Compound has been audited by[ Trail of Bits](https://www.trailofbits.com) and[ OpenZeppelin](https://openzeppelin.com/) and formally verified by[ Certora](https://www.certora.com/). Aave has been audited by[ Trail of Bits](https://www.trailofbits.com),[ OpenZeppelin](https://openzeppelin.com/),[ ConsenSys Diligence](https://consensys.net/diligence/),[ Certik](https://certik.io/),[ MixBytes](https://mixbytes.io/), and[ PeckShield](https://peckshield.com/), and has also been formally verified by[ Certora](https://www.certora.com/). Curve has been audited by[ Trail of Bits](https://www.trailofbits.com) and[ Quantstamp](https://quantstamp.com/). OUSD itself has undergone multiple security audits by [Trail of Bits](https://github.com/OriginProtocol/security/blob/master/audits/Trail%20of%20Bits%20-%20Origin%20Dollar%20-%20Dec%202020.pdf), [OpenZeppelin](https://github.com/OriginProtocol/security/blob/master/audits/OpenZeppelin%20-%20Origin%20Dollar%20-%20October%202021.pdf), [Solidified](https://github.com/OriginProtocol/security/blob/master/audits/Solidified%20-%20Origin%20Dollar%20-%20Dec%202020.pdf), and [Certora](https://www.certora.com/wp-content/uploads/2022/02/OriginFeb2021.pdf). A retainer was recently signed with OpenZeppelin to provide continuous auditing and the next audit reports should be released by the end of October. Security reviews are always prioritized over new feature development, and multiple engineers are required to review each code change with a detailed checklist before deployment. Origin is also doing deep dives into the exploits of other protocols, making sure the same vulnerabilities don’t exist on Origin contracts. The OUSD source code is publicly available and accessible via the OUSD Github [repository](https://github.com/originprotocol/origin-dollar).
 
-### MIP87c3: Steps for Investing in OUSD
+To further mitigate risk, Origin has been actively reducing the OUSD exposure to USDT, as we are aware of the controversy around Tether’s failure to provide a promised audit showing adequate reserves. USDT now makes up 0.1% of our total holdings, with the vast majority 59% being in DAI, and the remaining holdings in USDC.
 
-We suggest Maker start with a modest 1% allocation. This can be increased over time as confidence grows. Maker will convert up to 33% PSM USDC into OUSD via any of the following methods:
+## MIP87c3: Steps for Investing in OUSD
 
-1. Minting on [OUSD.com](https://ousd.com/swap) (with no slippage or fees)
-2. OTC from the Origin Foundation (with zero slippage)
-3. Purchasing on CEX ([Kucoin](https://www.kucoin.com/trade/OUSD-USDT) or [Gate](https://www.gate.io/trade/OUSD_USDT?ref=3018394))
-4. Swapping on [Curve](https://curve.fi/factory/9) factory pool
-5. Swapping on a DEX aggregator ([Kyber](https://kyberswap.com/swap/ethereum/usdc-to-ousd) or [1inch](https://app.1inch.io/#/1/unified/swap/USDC/OUSD))
+After speaking with Maker's CES-001 Facilitator and CES-001 members, it has been determined that a new module will have to be built to enable Maker's OUSD investment on-chain.
 
-Maker will store the OUSD in a rebase-capable wallet, such as MetaMask, Ledger, Coinbase Wallet, MEW, etc. If using a multi-sig wallet, Maker will “opt in” to participate in the rebasing by calling OUSD’s rebaseOptIn() function. This can easily be enabled via the OUSD application in Gnosis Safe.
+The Origin engineering team will collaborate with Maker's Collateral Engineering Services to write the code to build this module, utilizing and referencing Maker code from resources such as [this Github repository](https://github.com/makerdao/dss-direct-deposit/tree/v2) on the D3M structure if necessary. CES-001 will include a function in the module that will allow Maker to send USDC to this contract, and likewise to call that function on-chain at any time to return the USDC to the PSM - without the need to have any off-chain transactions. The proper code will also be included in the module to make the module capable of receiving the daily rebase rewards from OUSD.
 
-### MIP87c4: Fees and Earning Interest
+OpenZeppelin is currently on retainer to audit all Origin smart contract changes. We would be happy to cover the costs for OpenZeppelin to also review any additional changes that are required to the MakerDAO contracts in order to accept OUSD.
 
-Aside from the platform fees associated with obtaining OUSD through a CEX or the cost of gas if using OUSD.com or a DEX, there are no ongoing fees to earn interest with OUSD. It is important to note that 10% of all yield generated by OUSD will be set aside and used to buy back OGV as additional rewards for OGV stakers. Once the OUSD is moved into a rebase-capable wallet, it will immediately begin earning interest at whatever the dynamic interest rate is at that time. Maker will continue to earn interest each day it holds OUSD for as long as it sees fit. The current stablecoin allocation and APY, with the protocol fee factored in, can be viewed and verified on-chain at all times on the [OUSD analytics page](https://analytics.ousd.com/).
 
-### MIP87c5: Checking the Boxes of MIP13c3-SP12
+## MIP87c4: Deal Terms
 
-Origin Protocol has taken every step to be fully compliant with the laws and regulations of the countries utilizing Origin products. Available upon request are legal documents including Origin’s business licenses, AML policy, Terms of Service, and token legal opinions for the USA and Cayman Islands from reputable counsel.
+Maker will invest $100M USDC from PSM in OUSD.
 
-There are no lockups with OUSD; MakerDAO can unwind its investment at any time, including in stressed market situations, at the speed of the Ethereum blockchain without incurring a loss. A 0.25% exit fee will occur if Maker chooses to use the OUSD Dapp to unwind the OUSD position. This fee is avoidable by using an exchange or AMM. As of 10/04/22, the 30-day trailing APY is 1.9% and the 365-day trailing APY is 9.83%, which is much higher than the MIP13c3-SP12 goal of 50bps after structural costs. Please see [this](https://dune.com/queries/1204952) Dune query for a longer history of OUSD APY.
+As a token of appreciation for taking a bet on OUSD and to align incentives over the long term, Origin will give MakerDAO up to 3% of the current total supply of OUSD’s governance token, OGV. Origin will provide MakerDAO a payment of 1% of the initial OGV supply (40m OGV) over 4 years on this schedule, should Maker continue and not dissolve or reduce below its $100M OUSD allocation at which point all pending OGV payments described in this section would be removed:
+
+**$100m OUSD OGV allocation schedule**
+10m OGV after year 1
+0.833333m OGV per month for the 36 months following year 1
+
+If during the first 3 months of initial deployment into OUSD, Maker has an average balance greater than $100M OUSD, there will be a linear increase to the amount of OGV provided to Maker up to a maximum of 3% initial OGV supply (120m OGV) at $600M OUSD allocation. If Maker decides to dissolve or reduce its OUSD position below the initial 3-month average established, the future OGV payment schedule will be recalculated based on the reduced allocation rather than the initial 3-month average.
+
+By holding OGV, Maker will have the opportunity to participate in OUSD governance and will have a say in OUSD's future. Additionally, OGV recognizes that Maker could be a key strategic partner and would like to offer an aligned incentive structure that encourages mutual success.
+
+If the contract in MIP87c3 holds less than $100M OUSD, it will still receive the daily OUSD rebase rewards, but will not be allocated any OGV tokens.
+
+## MIP87c5: Legal Structure
+
+Although Origin Protocol operates in a decentralized fashion, Origin has taken every possible step to be fully compliant with the laws and regulations of the countries utilizing Origin products. Available upon request, are legal documents including Origin’s business licenses, AML policy, Terms of Service, and token legal opinions for the USA and Cayman Islands from reputable counsel.
+
+There are no lockups, terms, contracts, conditions, or vesting periods with OUSD - withdrawal control is completely in the hands of the Maker team, Maker governance, and MKR holders. MakerDAO can unwind its investment, including in stressed market situations, at the speed of the Ethereum blockchain, without having to involve the Origin team.
 
 ## MIP87c6: Aligning with Maker’s Core Principles
 
-We believe that this proposal aligns well with the MakerDAO’s five core principles:
+We believe that this proposal aligns well with MakerDAO’s five core principles:
 
 *Scientific Governance* - Origin is not looking to skip the line or cut corners with this OUSD proposal. We are striving to play by the rules and go through the entire MakerDAO governance process as it is intended.
 
-*Serving The Underserved* - Origin did not develop OUSD to be exclusive to institutions and accredited investors - it is permissionless and open to anyone without having to go through gatekeepers.
+*Serving The Underserved* - Origin did not develop OUSD to be exclusive to institutions and accredited investors - it is permissionless and open to anyone without having to go through gatekeepers. Origin envisions and strives towards financial opportunity for all.
 
 *Sustainable Finance* - The Origin Dollar is built completely on-chain within the EVM ecosystem. Origin is not burning fossil fuels through mining or any other energy-intensive action. OUSD yields generated are not dependent on speculative assets; they are real yields and will always be 100% backed by the largest stablecoins in the world.
 
-*Gradual Decentralization* - Origin aligns with Maker and is actively striving for full decentralization. OUSD stablecoin allocation is voted on weekly by OGV governance token holders and any OGV holder is able to participate regardless of status or jurisdiction.
+*Gradual Decentralization* - Origin aligns with Maker and is actively striving for full decentralization. The OUSD stablecoin allocation strategy is [weekly voted on](https://vote.ousd.com/#/) by OGV governance token holders and any OGV holder is able to participate regardless of status or jurisdiction.
 
-*Driving Dai Adoption* - Origin has been a supporter of DAI since before the creation of the Origin Dollar. We fully believe in DAI’s success, hence why DAI is one of the three assets backing OUSD. Origin and MakerDAO have a long and ongoing history of working together:
+*Driving DAI Adoption* - Origin has been a supporter of DAI since before the creation of the Origin Dollar. We fully believe in DAI’s success, hence why DAI is one of the three assets backing OUSD. Origin and MakerDAO have a long and ongoing history of working together:
 
 * [Pay with DAI on Origin — Announcing Our First Stablecoin Integration](https://blog.originprotocol.com/pay-with-dai-on-origin-announcing-our-first-stablecoin-integration-43f86d5d7982) (2019)
 
 * [Doo Wan Nam Discusses Origin’s Partnership with MakerDAO](https://blog.originprotocol.com/doo-wan-nam-discusses-origins-partnership-with-makerdao-c89461572cf0) (2019)
+
 * [MakerDAO & Origin: Applications of DAI in the Decentralized Sharing Economy](https://blog.originprotocol.com/presented-by-makerdao-origin-applications-of-dai-in-the-decentralized-sharing-economy-195ca7e20f01) (2020)
+
 * [OUSD launches with DAI as backing collateral](https://blog.originprotocol.com/meet-ousd-the-first-stablecoin-that-earns-a-yield-in-your-wallet-96e7aafaa24e) (2020)
 
-### MIP87c7: The Elephant in the Room
+* [MakerDao Growth Tweetstorm on how OUSD generates organic DAI demand](https://twitter.com/makergrowth/status/1559525171186339841?s=21&t=6lfhywpJlmnWRr86KpdfOA) (2022)
 
-In November 2020, OUSD was exploited for $7M in funds. The DApp at the time included a clear disclaimer warning that the product was in BETA and that the contracts had not been audited. Nonetheless, the Origin treasury opted to cover the losses for these early OUSD holders. A [compensation plan](https://blog.originprotocol.com/origin-dollar-ousd-detailed-compensation-plan-faa73f87442e) was put in place which ended up paying victims above and beyond their losses. This sobering event really galvanized Origin's security processes, and thankfully OUSD has not suffered another security failure since relaunching in January 2021.
+## MIP87c7: The Elephant in the Room
 
-A variety of safeguards and precautions have since been implemented to prevent future exploits including constant audits and code reviews. Origin code reviews are incredibly rigorous; we require at least two engineers to review each change with a detailed checklist and we prioritize security reviews over new feature development. We have also formalized an engineering rotation for reviewing attacks on other projects. We published [a full post-mortem on the attack and what we changed afterwards](https://blog.originprotocol.com/what-weve-changed-since-the-ousd-attack-5894f2bd77cf) on our blog.
+In November 2020, OUSD was exploited for $7M in funds. The DApp at the time included a clear disclaimer warning that the product was in BETA and that the contracts had not been audited. Nonetheless, the Origin treasury opted to cover the losses for these early OUSD holders. A [compensation plan](https://blog.originprotocol.com/origin-dollar-ousd-detailed-compensation-plan-faa73f87442e) was put in place which ended up paying victims above and beyond their losses. This sobering event galvanized Origin's security processes, and thankfully OUSD has not suffered another security failure since relaunching in January 2021. We published [a full post-mortem on the attack and what we changed afterwards](https://blog.originprotocol.com/what-weve-changed-since-the-ousd-attack-5894f2bd77cf) on our blog.
 
-### MIP87c8: Our View on MIP81, MIP86, and GUSD PSM
-
-Origin is aware of the proposals from Coinbase (MIP81), CoinShares (MIP86), and Gemini (Proposal: GUSD PSM). While these proposals are legitimate, we believe that it is in the best interest of Maker DAO and the Maker DAO community to remain as decentralized as possible with business partners moving forward and with the MIP13c3-SP12 investment, as neither Coinbase, CoinShares, nor Gemini align with Maker’s decentralized principles.
-
-Given the multiple lawsuits brought from and against Coinbase over the past year regarding exchange crashes, securities violations, and TornadoCash sanctions, as well as Coinbase’s new political activism efforts, it would be wise to remain unentangled with Coinbase as a DAO. Gemini has had to make several rounds of layoffs this year, has also had multiple lawsuits brought against them recently, and has not done an audit on GUSD since 2018. While there may not be lawsuits against CoinShares currently, it may not be a great idea to trust the MIP13c3-SP12 investment with CoinShares custody, as earlier this year CoinShares reported large losses tied to their heavy exposure to the UST death spiral. This year has given us multiple reminders of what can go wrong when placing too much trust in centralized counterparties, no matter how safe they may initially seem from the outside. With examples from 3AC, Celsius, and BlockFi, funds are never truly secure when keys are handed to a third party.
-
-With OUSD, Maker will earn a continuous yield and retain full custody of the investment, without exposure to risky or volatile assets or going through a centralized service.
+A variety of safeguards and precautions have since been implemented to prevent future exploits, including constant audits and code reviews. Origin code reviews are incredibly rigorous; we require at least two engineers to review each change with a detailed checklist and we prioritize security reviews over new feature development. We have also formalized an engineering rotation for reviewing attacks on other projects. Origin is currently one of only six projects to receive a [AAA rating](https://app.insurace.io/coverage/buycovers) on the decentralized insurance protocol, InsurAce.
 
 We invite the full MakerDAO community to comment on this MIP as we strive to follow Maker’s decentralized principles and enable financial opportunity for all.
