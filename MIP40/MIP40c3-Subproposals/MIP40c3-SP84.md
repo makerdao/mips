@@ -52,7 +52,7 @@ The budget will be made available through a continuous stream executed by a smar
 
 **Actionable Changes**
 
-New stream will be created with a total of 258,807 DAI streamed to `0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9` starting 2023-01-01 and ending 2022-06-30
+New stream will be created with a total of 258,807 DAI streamed to `0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9` starting 2023-01-01 and ending 2023-06-30
 
 **Information**
 
@@ -66,7 +66,7 @@ Governance Communications Continuous Operation multisig: `0x99E1696A680c0D9f426B
 
 - Implementation: This multisig has been fully funded through individual transactions executed through governance.
 - Access: Accessible if normal protocol operation is not possible due to emergency shutdown or other protocol failures, or if a future budget proposal fails to pass, these funds will be used for winding down the Core Unit (details below.)
-- Ownership: The Continuous Operation multisig will require 3 of 6 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed:
+- Ownership: The Continuous Operation multisig will require 3 of 5 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed:
 
 `DavidUtro (COM-001): 0xE91f4F5834bB9312A45B2bd75804b32CC3DA8fd3`
 
@@ -75,8 +75,6 @@ Governance Communications Continuous Operation multisig: `0x99E1696A680c0D9f426B
 `Primoz (RISK-001): 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c`
 
 `Aes (SF-001): 0xe9daebb99B1D29E1AE32F44fdfccbc8Df0ef3Aa7`
-
-~~`Brian McMichael (PE-001): 0xC0dE1AB51082442f821bA273273B4F7d32521D8b`~~ replacement TBD
 
 `Nik Kunkel (ORA-001): 0xB4CFf22c0d5a015460Fd503a9328Bf00a24f686c`
 
