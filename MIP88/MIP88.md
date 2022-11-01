@@ -1,11 +1,10 @@
-
-# MIP88: Monetalis/Redwood Friesian
+# MIP88: Monetalis - Redwood Friesian
 
 ## Preamble
 
 ```
 MIP#: 88
-Title: Monetalis/Redwood Friesian
+Title: Monetalis - Redwood Friesian
 Author(s): @Allan_Pedersen @Sequoia_RMBS
 Contributors: 
 Type: Technical
