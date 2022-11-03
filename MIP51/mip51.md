@@ -122,9 +122,3 @@ If such a vote is successful, the MIP Editors will update MIP51c2 and the change
 The Minimum Positive Participation value may not be changed for Ratification Polls that are in progress under any circumstances.
 
 ---
-
-### MIP51c4: Calendar Exceptions
-
-Due to the multitude of cultural and religious holidays occurring in and around the month of December, there will be no Monthly Governance Cycle in the December of each year.
-
----
