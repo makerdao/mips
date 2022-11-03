@@ -1,15 +1,14 @@
-# MIP89: Monetalis/Arrow Andalusian
+# MIP89: Monetalis - Arrow Andalusian
 
 ## Preamble
-
 ```
 MIP#: 89
-Title: Monetalis/Arrow Andalusian
+Title: Monetalis - Arrow Andalusian
 Author(s): @Allan_Pedersen , @Wrongcomma
 Contributors: 
 Type: Technical
 Status: RFC
-Date Proposed: 2022-10-12
+Date Proposed: 2022-12-10
 Date Ratified: XX
 Dependencies: MIP21
 Replaces: None
@@ -18,7 +17,6 @@ Ratification Poll URL: XX
 ```
 
 ## References
-
 * [MIP65: Monetalis Clydesdale](https://forum.makerdao.com/t/mip65-clydesdale-monetalis-liquid-bond-strategy-execution/13148?u=allan_pedersen)
 * [MIP82: Monetalis/Coinbase Appaloosa](https://forum.makerdao.com/t/mip82-monetalis-coinbase-appaloosa/17768)
 * [MIP88: Monetalis/Redwood Friesian](https://forum.makerdao.com/t/mip88-monetalis-redwood-friesian/18336)
@@ -56,7 +54,6 @@ With this credit facility, Maker will gain on a number of fronts:
 * Well-protected Senior Credit exposure and aligned junior capital.
 
 ## Specification / Proposal Details
-
 ![](https://github.com/makerdao/mips/blob/master/MIP89/andalusian.png)
 Andalusian AI’d by nightcafe
 
@@ -154,14 +151,27 @@ This provides a better overall diversification, cashflow profile and risk charac
 |Diversification| 3 to 5 portfolios|
 |Term|Max weighted average duration of underlying loans on outstanding portfolio: 24 months|
 | Currency| Lending in GBP/EUR but hedged to USD|
-|Waterfall| 1. 3.5% in USD to Maker<br>2. 15% to Arrow <br>3. Profit-share of 40% to Maker/60% to Arrow <br> All net of currency hedging and all other cost|
+|Waterfall| 1. 3.5% in USD to James Asset Trust on Senior<br>2. 0.75% in USD to Monetalis on Senior + Junior  <br>3. 15% to Arrow on Junior <br>4. Profit-share of 35% to James Asset Trust/55% to Arrow/10% Monetalis <br> All net of currency hedging and all other cost|
 |Capital recycling|Principal payments are recirculated back into their relevant strategy until withdrawal request from Maker. <br>Interest payments - after expenses - are also recirculated until requested paid into Surplus Buffer.|
 
 ##### c.1.5.1 Credit Guidelines "Arrow Advantage"
-
 All facilities will need to meet the minimum credit guidelines set out in the table below. 
 
->NOTE: These are under review and will be delivered before end of RFC
+|**Component**|**Key criteria**|
+| --- | --- |
+|Facility type|Senior secured only|
+|Equity/Junior capital|Arrow Global to provide 15% Junior position across all facilities|
+|Security type|* Properties <br> * Property development <br> * Infrastructures <br> * Hard assets + Receivables|
+|Security value|Independently valued|
+|Loss of capital|Less than 2% over the last five years, or since inception.|
+|Cross guarantees|Cross guarantee between strategies|
+|Eligible facility types|* Revolving Credit facilities <br> * Loan on loan <br> * Block discounts|
+|Existing portfolios|30% or less of the portfolio over 50% maturity|
+|Loan types|All loans must be ESG eligible and aligned to Monetalis’ Green Strategy|
+|Underlying loan terms|Max weighted average duration of underlying loans on outstanding portfolio across all facilities: 28 months|
+|Collateralisation|* Min collateralization on the facility 120% <br>* Min collateralization on security: 145%|
+|Min. facility term|12 months|
+|Geographic Diversification|* UK and EU only <br> * Less than 50% per country|
 
 #### c1.6 "Boost" / Key Terms
 
@@ -174,12 +184,12 @@ All facilities will need to meet the minimum credit guidelines set out in the ta
 |Use of funding|Senior, Secured, Block Purchase UK Market|
 |Deployment|Full deployment over 6 months|
 |Currency|GBP fully-hedged against USD|
-|Target returns|5%+ net of hedging cost|
+|Target returns to James Asset Trust|5%+ net |
+|Senior Block Waterfall| 1. 3.5% in USD to James Asset Trust <br> 2. 1% to Monetalis <br> 3, Profit-share 55% James Asset Trust/35% Monetalis/10% Arrow| 
 |Collateral|<li>Properties</li><li>Infrastructures</li><li>Hard assets + Receivables</li>|
 |Capital recycling|Principal payments are recirculated back into their relevant strategy until withdrawal request from Maker. <br>Interest payments - after expenses - are also recirculated until requested paid into Surplus Buffer.|
 
 ##### c1.6.2 Credit Guidelines "Boost"
-
 All blocks purchased under the “Booster Block Purchase” facility will need to meet the minimum credit guidelines set out in the table below. 
 
 | Component | Key criteria | 
@@ -197,9 +207,7 @@ All blocks purchased under the “Booster Block Purchase” facility will need t
 |Min. Block term|6 months|
 |Geographic Diversification|UK Only:<br><li>80% England and Wales</li><li>20% Scotland and Northern Ireland</li>|
 
-
 #### c1.7 Key Credit Facility Governance
-
 All proposed facilities will need to be validated and approved to ensure they comply with the Master Facility and Credit Guidelines. The process will following these steps:
 
 1. Opportunity is identified and all associated documents submitted to Monetalis.
@@ -211,7 +219,6 @@ All proposed facilities will need to be validated and approved to ensure they co
 5. Facility approved for disbursal.
 
 #### c1.8 Liquidity Considerations & Market Changes
-
 In the short term, these portfolios will not be liquid assets.
 
 Although there are active participants that are willing to buy or refinance these portfolios, these are not fast processes, and shouldn’t be relied upon for quick liquidity. 
@@ -219,7 +226,6 @@ Although there are active participants that are willing to buy or refinance thes
 However, this vault is meant to be the start of a longer term strategy of Arrow, Monetalis and Maker - we would suggest - to recreate the private credit market using DeFi/CeFi/TradFi integration to create liquidity in the products.
 
 Significant resource across the Arrow and Monetalis teams are allocated to this project of integration and building markets to facilitate a new state of liquidity for private credit structures.
-
 
 #### c1.9 Asset Class Comparison & Yield Expectations
 
@@ -233,9 +239,7 @@ Significant resource across the Arrow and Monetalis teams are allocated to this 
 | Arrow Irish Resi  | 3.50%    | 8.50%     |
 | Arrow UK EV Credit  | 3.50%    | 8.75%     |
 
-
 #### c1.10 Examples of Arrow's Underlying portfolios
-
 Underlying asset classes will range depending on markets, but in all instances will provide strong downside protection. For example:
 
 * Irish residential units in Dublin, purchased for EUR 250k, with EUR 50k capital expenditure to significantly improve energy efficiency. Many of these units would have been built decades ago, and will therefore be incredibly energy inefficient. The units will be completely stripped back to their base shell, and refurbished to a very high standard, increasing energy rating by at least 2 levels. In addition, approximately 20% of the units will be taken from existing stock that has not been lived in for 2+ years, bringing isolated housing stock back into use in a local market that has a real undersupply issue, helping to solve for material social detriment.
@@ -247,12 +251,19 @@ Underlying asset classes will range depending on markets, but in all instances w
 * Credit agreements to UK Uber drivers to purchase electric vehicles. Working with an existing lender who is on Uber’s current panel of promoted lenders to drivers, we can provide capital to help convert Uber’s London fleet from ICE to EV. Uber has committed to having all of their London fleet electric by end of 2025, and Transport for London currently will only allow newly licensed vehicles to be electric.
 
 #### c1.11 Currency Hedging
-Arrow and Monetalis will outsource currency hedging to a 3rd party. 
->NOTE: More details to be delivered before end of RFC
+At this time we’re still assessing market options for currency hedging, but based on our conversations with a prominent investment bank, our intention would be to enter into cross currency swaps where:
+
+* For GBP floating rate assets, you enter a swap where the SPV pays GBP daily compounded SONIA + spread, and receives USD daily compounded SOFR + spread 
+
+* For EUR floating rate assets, you enter a swap where the SPV pays EURIBOR + spread and receives USD daily compounded SOFR + spread
+
+This would remove much of the FX risk between USD and GBP/EUR, and also allow for protection should we enter into any floating rate facilities. We expect the majority of our positions to be fixed, and therefore we may well be able to simplify this further.
+
+From an operational perspective, we would enter into the hedges on day 1 of any FX exposure, then each month top up based on the updated exposure and expected run off. If the pool ramps as expected, we would have 24 swaps over 2 years. To clean this up at the end of the ramp period, we can restructure these all into just one swap with a weighted average spread over SOFR and FX rate.
+
+Ultimately we will be able to pass a lot of the heavy lifting and execution of this strategy to a 3rd party, and the overall hedging we’re looking to put in place is relatively simple.
 
 ### MIP89c2: Verification Conditions for Collateral Onboarding
-
->**NOTE**: This section may be edited over the RFC period to adjust for Endgame consequences.
 
 #### c2.1 Legal Structure and Governance Verification Requirements
 
@@ -265,11 +276,10 @@ The Strategic Finance Core Unit Facilitator must, through a public forum post, p
 #### c2.3 Technical Verification Requirements
 
 The Collateral Engineering Services Facilitator must, through a public forum post, provide a Verification of the technical appropriateness of the MIP21 designed solution in accordance with the Collateral Onboarding process (“COB”).
+
 Should any one of the above verifications not be forthcoming, for whatever reason, this MIP will not move forward in the COB.
 
 ### MIP89c3: Technical Conditions of the Collateral Onboarding
-
->**NOTE**: This section may be edited over the RFC period to adjust for Endgame consequences.
 
 The technical implementation must follow the MIP21 framework. Upon Collateral Engineering Services solution Verification in MIP89c2, the relevant smart contracts must be constructed and deployed. The ETH Address emitted by the legal structure specified in MIP89c1 should only be changeable by MakerDAO Governance, and follow the MIP21 framework.
 These smart contracts must only allow for the generation of Dai or USDC through a vault that is sent to the ETH address of the legal structure as its ultimate destination, and it must not be technically possible to send the Dai or USDC elsewhere, in accordance with MIP21.
@@ -281,3 +291,4 @@ The vault must provide:
 * Debt Ceiling of DAI 300 million.
 * Stability Fee of 0% (surplus is paid manually through the legal structure, as specified in MIP89c1)
 * All other parameters must be set to ensure they have no functional impact.
+

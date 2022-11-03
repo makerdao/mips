@@ -1,11 +1,10 @@
-
-# MIP88: Monetalis/Redwood Friesian
+# MIP88: Monetalis - Redwood Friesian
 
 ## Preamble
 
 ```
 MIP#: 88
-Title: Monetalis/Redwood Friesian
+Title: Monetalis - Redwood Friesian
 Author(s): @Allan_Pedersen @Sequoia_RMBS
 Contributors: 
 Type: Technical
@@ -116,28 +115,29 @@ In 2021, the Sequoia platform achieved two major milestones, as the first RMBS p
 | Aspect                                | Key Terms                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Issuance Details <br> *(c4.4)*        | Purchase Amount: Max USD 225M <br>Seniority: Super Senior<br> Transaction structure: senior/subordinate, shifting interest<br> Cash flow designation: front cash flow (FCF)<br> Credit enhancement: 15.00%<br> Coupon: 5% <br> Priced to deliver expected yield of 100bps above 3Y US Treasury at transaction time of sale *(c4.5)* <br>Ratings: AAAsf (or equivalent) *(c4.6)* <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Maturity                              | Estimated weighted average life: less than 3 years.<br><br>A Balloon structure is under consideration which would result in a maturity of 3 years. This will be decided before end of RFC period.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Maturity                              | Estimated weighted average life: less than 3 years.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | Transaction Closing Date              | Following approval of this MIP, we would expect the subsequent RMBS transaction to close latest within December 2022, with subsequent issuance on a bi-monthly basis.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Transaction Parties and Documentation | Standard Sequoia platform Transaction documentation and counterparties will be used. For details on counterparties, please see the description of counterparties available [here](https://hackmd.io/@allangiraf/RedwoodCounterparties)<br><br> Consistent with market standard distribution practices for securities exemption from US SEC registration requirements, such as the Sequoia RMBS, a US registered broker-dealer will function as the initial purchaser of the Sequoia RMBS and then immediately on-sell the securities to James Asset PTC Limited on behalf of the relevant trust. <br><br>For this transaction, Oasis Pro Markets LLC (a registered broker-dealer) will be the initial purchaser.  Oasis also has the ability to facilitate secondary market liquidity for the Sequoia RMBS on its trading platform. |
 | Transaction Fees and Expenses         | Fees and expenses payable in connection with the issuance  will initially be paid by Redwood and reflected in final pricing. The hypothetical pricing above reflects assumed transaction fees and expenses.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Reporting                             | Standard transaction reporting and daily payment information (via the transaction’s distributed ledger agent) in accordance with established practice on the Sequoia platform. Monetalis will collate and process this information and report as required for Maker reporting                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 **c1.3.2 Reinvestment Program**
-As this issuance pays down principal and interest on a monthly basis, the cashflows are projected to be substantial *(c4.7)*. To take advantage of this partnership and the attractive economics of this source of fixed income, Monetalis will: 
+As this issuance pays down principal and interest on a monthly basis, the cash flows are projected to be substantial *(c4.7)*. To take advantage of this partnership and the attractive economics of this source of fixed income, Monetalis will: 
 
-* immediately invest all cashflows arriving from this instrument into BlackRock ETF products under the approved strategy of MIP65; and
-* on a bi-monthly basis, via Signal Request, present the Community with the option for reinvesting the received cashflow from this instrument into a new issuance from Redwood/Sequoia.
+* immediately invest all cash flows arriving from this instrument into BlackRock ETF products under the approved strategy of MIP65; and
+* on a bi-monthly basis, via Signal Request, present the Community with the option for reinvesting the received cash flow from this instrument into a new issuance from Redwood/Sequoia.
 
-The Maker Committee can request the accrued cashflow from the issuances be returned to Vault/Surplus Buffer at any time via Signal Request.
+The Maker Committee can request the accrued cash flow from the issuances be returned to Vault/Surplus Buffer at any time via Signal Request.
 
 **c1.3.3 Cost & Fees**
 Fees & Costs, not included in the above Key Terms section:
 
 | Party           | Cost/Fees                    |
 | --------------- | ---------------------------- |
-| BVI Trust setup | >USD 75K                     |
-| BVI added Admin | ~USD 36K p.a.                |
-| Monetalis       | TBD before end of RFC period |
+| BVI Trust setup | > USD 75K                     |
+| BVI added Admin | ~ USD 36K p.a.                |
+| Investment Advisor | ~ USD 100 |
+| Monetalis       | 15% of Yield |
 
 #### c1.4 Cashflow Waterfall & Credit Enhancement
 
