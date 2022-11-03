@@ -17,6 +17,10 @@ Forum URL: https://forum.makerdao.com/t/mip84c10-sp1-modify-emulated-surplus-buf
 
 Set the upper limit way above the size of the surplus buffer (a.k.a. defuse the MIP84 bomb).
 
+## Paragraph Summary
+
+Set the upper limit way above the size of the surplus buffer (a.k.a. defuse the MIP84 bomb).
+
 ## Motivation
 
 * Risk has [commented](https://forum.makerdao.com/t/mip84-activate-protocol-owned-vault-emulation/17713/45) on the loss reserves needed for on-chain assets, but not real world assets. It [remains unclear](https://forum.makerdao.com/t/mip84-activate-protocol-owned-vault-emulation/17713/21) where the loss reserves for real world assets are suppose to come from.
