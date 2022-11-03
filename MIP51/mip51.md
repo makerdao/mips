@@ -44,12 +44,6 @@ Defines the parameters for a Ratification Poll under the MIPs process.
 
 Defines the process for modifying the Minimum Positive Participation required for Ratification Polls to pass.
 
-**MIP51c4: Calendar Exceptions** 
-
-Defines exceptions to the Monthly Governance Cycle due to holidays.
-
-
-
 ## Motivation
 
 The new Monthly Governance Cycle has several goals versus the previous Monthly Governance Cycle defined in MIP3.
