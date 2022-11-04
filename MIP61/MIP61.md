@@ -136,7 +136,7 @@ These requirements and metrics may be adjusted in the future depending on the nu
 
 #### Abstain Modifier
 
-At the beginning of every month Governance Facilitators check how many of the polls in the previous month have been voted with a non-abstaining choice. If the ratio of non-abstaining-choices to total polls is >= 60% the delegate met the Abstaind Modifier criteria and is eligable for compensation. If the ratio is below 60%, the delegate is not eligable for any compensation for this month.
+At the beginning of every month, the Governance Facilitators will check how many polls and Executive Votes in the previous month have been voted with a non-abstaining choice. If the ratio of non-abstaining choices to total polls is >= 60%, the Recognized Delegate will have met the Abstain Modifier criteria and be eligible for compensation for that month. If the ratio is below 60%, the delegate will not be eligible for compensation for that month.
 
 ### MIP61c3: Payment Process
 
