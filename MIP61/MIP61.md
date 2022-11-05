@@ -80,7 +80,7 @@ The intention behind the Performance Modifier is that these parameters be consid
 
 ### Abstain Modifier Motivation
 
-The intention behind the Abstain Modifier is to avoid the problem of getting compensated even if a delegate is constantly just abstaining on polls. To a certain extend it can be expected that delegates take a position on the governance questions.
+The intention behind the Abstain Modifier is to avoid the problem of getting compensated even if a delegate is constantly just abstaining on polls. To a certain extent, Recognized Delegates should be expected to take a position on governance questions and Executive Votes. However, it is recognized that in certain situations, Recognized Delegates may have good reasons to abstain from a specific vote.
 
 ## Relevant Information
 
