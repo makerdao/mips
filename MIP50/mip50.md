@@ -54,7 +54,7 @@ Often protocols require stablecoin liquidity to operate. Most are reliant on liq
 
 ### MIP50c1: Contracts
 
-![D3M](d3m-diagram.png)
+![D3M](https://github.com/makerdao/mips/blob/master/MIP50/d3m-diagram.png)
 
 As seen in the image above, external protocols are viewed under the simplified ERC-4626-like interface. Pool adapters are used to convert protocol complexity into simplified concepts of Excess Capacity + DAI liquidity + DAI outstanding. How DAI is converted between these states is completely protocol-specific and mostly irrelevant to the D3M.
 
