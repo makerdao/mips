@@ -80,7 +80,7 @@ The intention behind the Performance Modifier is that these parameters be consid
 
 ### Abstain Modifier Motivation
 
-The intention behind the Abstain Modifier is to avoid the problem of getting compensated even if a delegate is constantly just abstaining on polls. To a certain extent, Recognized Delegates should be expected to take a position on governance questions and Executive Votes. However, it is recognized that in certain situations, Recognized Delegates may have good reasons to abstain from a specific vote.
+The intention behind the Abstain Modifier is to avoid the problem of getting compensated even if a delegate is constantly just abstaining on polls. To a certain extent, Recognized Delegates should be expected to take a position on governance questions. However, it is recognized that in certain situations, Recognized Delegates may have good reasons to abstain from a specific vote.
 
 ## Relevant Information
 
@@ -136,7 +136,7 @@ These requirements and metrics may be adjusted in the future depending on the nu
 
 #### Abstain Modifier
 
-At the beginning of every month, the Governance Facilitators will check how many polls and Executive Votes in the previous month have been voted with a non-abstaining choice. If the ratio of non-abstaining choices to total polls is >= 60%, the Recognized Delegate will have met the Abstain Modifier criteria and be eligible for compensation for that month. If the ratio is below 60%, the delegate will not be eligible for compensation for that month.
+At the beginning of every month, the Governance Facilitators will check how many polls in the previous month have been voted with a non-abstaining choice. If the ratio of non-abstaining choices to total polls is >= 60%, the Recognized Delegate will have met the Abstain Modifier criteria and be eligible for compensation for that month. If the ratio is below 60%, the delegate will not be eligible for compensation for that month.
 
 ### MIP61c3: Payment Process
 
