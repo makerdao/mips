@@ -8,10 +8,11 @@ MIP to be Amended: MIP24
 Author(s): @juanjuan
 Contributors: @elprogreso @iammeeoh
 Tags: mip-amendment, core-unit, emergency
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2021-01-18
 Date Ratified:
 Dependencies:
+Extra: This subproposal has been withdrawn by its author.
 ```
 
 ## Sentence Summary
