@@ -25,7 +25,7 @@ Extra: This MIP has been amended. See [MIP4c2-SP24](https://mips.makerdao.com/mi
 - [Whether to compensate delegates](https://forum.makerdao.com/t/delegate-compensation-informal-poll/10042)
 - [Compensating recognized delegates, parameters](https://forum.makerdao.com/t/informal-poll-compensating-recognized-delegates-parameters/10196).
 - [Introduction of the Performance Modifier](https://forum.makerdao.com/t/signal-request-should-we-introduce-a-performance-modifier-to-the-delegate-compensation-trial/11850)
-- [Higher Participation Requirements and Weighting for Executive Votes](TBD)
+- [Higher Participation Requirements and Weighting for Executive Votes](https://forum.makerdao.com/t/mip4c2-spxx-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696)
 
 ## Sentence Summary
 
