@@ -6,8 +6,8 @@ MIP#: 89
 Title: Monetalis - Arrow Andalusian
 Author(s): @Allan_Pedersen , @Wrongcomma
 Contributors: 
-Type: Technical
-Status: RFC
+Type: General
+Status: Formal Submission
 Date Proposed: 2022-12-10
 Date Ratified: XX
 Dependencies: MIP21
