@@ -8,7 +8,7 @@ Author(s): @Allan_Pedersen , @Wrongcomma
 Contributors: 
 Type: General
 Status: Formal Submission
-Date Proposed: 2022-12-10
+Date Proposed: 2022-10-12
 Date Ratified: XX
 Dependencies: MIP21
 Replaces: None
