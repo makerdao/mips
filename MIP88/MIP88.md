@@ -7,8 +7,8 @@ MIP#: 88
 Title: Monetalis - Redwood Friesian
 Author(s): @Allan_Pedersen @Sequoia_RMBS
 Contributors: 
-Type: Technical
-Status: RFC
+Type: General
+Status: Formal Submission
 Date Proposed: 2022-10-12
 Date Ratified: XX
 Dependencies: MIP21
