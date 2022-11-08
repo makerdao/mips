@@ -1,6 +1,7 @@
 # MIP89: Monetalis - Arrow Andalusian
 
 ## Preamble
+
 ```
 MIP#: 89
 Title: Monetalis - Arrow Andalusian
@@ -54,13 +55,14 @@ With this credit facility, Maker will gain on a number of fronts:
 * Well-protected Senior Credit exposure and aligned junior capital.
 
 ## Specification / Proposal Details
-![](https://github.com/makerdao/mips/blob/master/MIP89/andalusian.png)
+
+![](andalusian.png)
 Andalusian AI’d by nightcafe
 
 ### MIP89c1: Collateral Design
 
 #### c1.1 Counterparty: Arrow Global
-![](https://github.com/makerdao/mips/blob/master/MIP89/arrow.png)
+![](arrow.png)
 
 We here let Arrow present themselves in their own words: 
  
@@ -107,7 +109,7 @@ An example of Arrow’s approach to ESG, on a deal level, is how Arrow review ea
 #### c1.3 Structure
 
 Our starting point is the same structure as used with MIP65 and proposed for MIP82 - we add a further separate trust to the structure for this particular facility (“Felix Asset Trust”) as illustrated in green here:
-![](https://github.com/makerdao/mips/blob/master/MIP89/structure.png)
+![](structure.png)
 
 In addition, one or more SPV orphan entities (“Lux SPV”) will be set up in Luxembourg, which will act as the lender/buyer of the portfolio(s). The lending capital in Lux SPV will be provided by Arrow and Felix Asset Trust on a Junior(Arrow)/Senior(Felix Asset Trust) basis.
 
@@ -151,7 +153,7 @@ This provides a better overall diversification, cashflow profile and risk charac
 |Diversification| 3 to 5 portfolios|
 |Term|Max weighted average duration of underlying loans on outstanding portfolio: 24 months|
 | Currency| Lending in GBP/EUR but hedged to USD|
-|Waterfall| 1. 3.5% in USD to James Asset Trust on Senior<br>2. 0.75% in USD to Monetalis on Senior + Junior  <br>3. 15% to Arrow on Junior <br>4. Profit-share of 35% to James Asset Trust/55% to Arrow/10% Monetalis <br> All net of currency hedging and all other cost|
+|Waterfall| 1. 3.5% in USD to James Asset Trust on Senior<br>2. 15% to Arrow on Junior <br>3. Profit-share of 40% to James Asset Trust/60% to Arrow<br> All net of currency hedging and all other cost|
 |Capital recycling|Principal payments are recirculated back into their relevant strategy until withdrawal request from Maker. <br>Interest payments - after expenses - are also recirculated until requested paid into Surplus Buffer.|
 
 ##### c.1.5.1 Credit Guidelines "Arrow Advantage"
@@ -291,4 +293,3 @@ The vault must provide:
 * Debt Ceiling of DAI 300 million.
 * Stability Fee of 0% (surplus is paid manually through the legal structure, as specified in MIP89c1)
 * All other parameters must be set to ensure they have no functional impact.
-

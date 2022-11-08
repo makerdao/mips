@@ -9,7 +9,7 @@ Author(s): @pete
 Contributors: @joshfraser
 Tags: PSM
 Type:
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-10-04
 Date Ratified:
 Dependencies: MIP86, MIP81, GUSD PSM, MIP13c3-SP12
