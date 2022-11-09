@@ -7,7 +7,7 @@ MIP41c4-SP#: 38
 Author(s): @psychonaut
 Contributors:
 Tags: core-unit, cu-is-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-07-05
 Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp38-immunefi-security-core-unit-facilitator-onboarding-is-001/16348
@@ -15,6 +15,10 @@ Ratification Poll URL:
 ```
 
 ## Sentence Summary
+
+Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001: Immunefi Security.
+
+## Paragraph Summary
 
 Add @psychonaut (Jpritikin Industries, Inc) as a co-Facilitator for Core Unit IS-001: Immunefi Security.
 

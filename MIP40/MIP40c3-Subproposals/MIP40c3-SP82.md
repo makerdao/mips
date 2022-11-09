@@ -6,7 +6,7 @@
 MIP40c3-SP#: 82
 Author(s): Deniz Yilmaz (@0xdeniz)
 Tags: core-unit, cu-dux-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-09-02
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2023-02-01

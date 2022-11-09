@@ -7,7 +7,7 @@ MIP39c2-SP#: 38
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: core-unit, cu-is-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-10-04 
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp38-modify-immunefi-security-core-unit-mandate-is-001/18208
@@ -94,7 +94,3 @@ As a last pillar of our strategy, the Immunefi Security CU will provide educatio
 * Conduct live seminars and workshops for Maker ecosystem projects and CUs, with a focus on smart contract security, including bringing in experts from the wider ecosystem to provide up-to-date security information.
 * Be accessible to all Maker projects and CUs for advisory on security-related matters in the form of an open questions and answers channel as well as an office hours call at least twice a month.
 * Collaborate with CUs that need to provision security processes, such as the SES CU when new CUs are being onboarded.
-
-### Related Documents
-
-- [DAI Budget](https://forum.makerdao.com/t/mip40c3-immunefi-security-core-unit-budget-renewal-is-001/18209)

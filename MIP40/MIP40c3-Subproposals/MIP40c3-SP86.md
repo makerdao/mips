@@ -7,7 +7,7 @@ MIP40c3-SP: #86
 Author(s): @simonkp, @dumitru
 Contributors: @lukaszb, @Artautas
 Tags: core-unit, tech-001, core-unit-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2022-10-10
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2023-02-01
