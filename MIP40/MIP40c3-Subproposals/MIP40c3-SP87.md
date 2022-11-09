@@ -10,6 +10,8 @@ Tags: core-unit, cu-ses-001, budget, dai-budget
 Status: Formal Submission
 Date Proposed: 2022-10-11
 Date Ratified: <yyyy-mm-dd>
+Budget Start Date: 2023-02-01
+Budget End Date: 2024-01-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp87-modify-the-sustainable-ecosystem-scaling-core-unit-budget-ses-001/18339
 Ratification Poll URL:
 ```
