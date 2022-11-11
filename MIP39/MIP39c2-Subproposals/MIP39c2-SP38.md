@@ -17,6 +17,10 @@ Forum URL: https://forum.makerdao.com/t/mip39c2-sp38-modify-immunefi-security-co
 
 Refresh the mandate of Core Unit IS-001: Immunefi Security
 
+## Paragraph Summary
+
+Refresh the mandate of Core Unit IS-001: Immunefi Security
+
 ## Specification
 
 ### Motivation
