@@ -63,7 +63,7 @@ This MIP accomplishes the following for Maker:
 * Allows Maker to have a real impact together with Redwood by collaborating on the concept of Clean Money in a large  category of housing finance
 
 ## Specification / Proposal Details *(c4.3)*
-![](friesian.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/friesian.png)
 Friesian AI'd by nightcafe
 
 ### MIP88c1: Collateral Design
@@ -87,10 +87,10 @@ A further extract from [the](https://hackmd.io/@allangiraf/Reedwoodconsideration
 
 ..."Since its inception in 1997, Redwood has issued over $60 billion in RMBS across 118 Sequoia (SEMT) securitizations, including ten (10) transactions in the last two years alone.  In fact, in this time our Sequoia platform has become the nation’s largest non-bank sponsored issuance platform for prime jumbo RMBS.  As the table below illustrates, since the RMBS market restarted in 2010, Redwood’s Sequoia platform is, by deal count and issuance, the second largest prime jumbo issuance platform overall, and the largest that is not sponsored by a major bank. 
 
-![](RMBS_issuance.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/RMBS_issuance.png)
 *Data Calculated as of September 7, 2022 based on information available via Bloomberg and Wells Fargo Securities, LLC.*   
 
-![](performance_summary.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/performance_summary.png)
 *Data Calculated as of August 2022 based on information available via Bloomberg and Wells Fargo Securities, LLC.*
 
 
@@ -98,9 +98,7 @@ Strong performance of Sequoia RMBS, such as illustrated above, has helped us att
 
 In 2021, the Sequoia platform achieved two major milestones, as the first RMBS prime jumbo platform to integrate blockchain technology and the first such platform to include disclosure on certain ESG topics pursuant to SASB’s Mortgage Finance disclosure framework.  We were honored to be recognized by GlobalCapital as 2021 RMBS issuer of the year, thanks in part to these market-leading innovations and the Redwood team’s commitment to investors in Sequoia RMBS"...
 
-![](redwood_residential.png)
-
-
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/redwood_residential.png?raw=true)
 
 #### c1.2 Structure
 The Redwood Friesian MIP legal structure is expected to use the same legal entities used for the Monetalis Clydesdale MIP. James Asset (PTC) Limited (“James PTC”), a company organized in the British Virgin Islands (“BVI”), will create a new trust to hold any SEMT RMBS purchased by it (the “New Trust”). Documentation to establish the New Trust and related/ancillary documentation will be drafted by local BVI counsel to take into consideration applicable U.S. law, as advised by the parties’ U.S. counsels.
@@ -147,18 +145,18 @@ The transaction will be structured to allocate payments received from the mortga
 
 As is standard in RMBS, detailed rules governing this distribution of funds each month among the various classes of securities issued in that transaction. The hypothetical waterfall below is intended to illustrate this cashflow, at a high level.
 
-![](steps.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/steps.png)
 
 **c1.4.2 Credit Enhancement** *(c4.9)*
 The Sequoia RMBS proposed to be onboarded by Maker will be structured to include several credit enhancement features beneficial to investors:
 
 **Subordination**: the transaction’s capital structure will include senior and subordinate classes of bonds.  As illustrated by the cashflow waterfall diagram above, this feature places the most senior classes of bonds at the top of the cashflow waterfall, and generally allocates any shortfall in payments in reverse order of seniority (i.e., to junior classes first and senior classes last). The Sequoia RMBS proposed to be onboarded by Maker will be senior bonds in the capital structure. 
 
-![](hypothetical_capital_structure.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/hypothetical_capital_structure.png)
 
 **Shifting interest**: each month, funds will be distributed in accordance with payment priorities described in the transaction’s documents. The transaction will be structured to include a ‘shifting interest’ mechanism so that, for a period of time, unscheduled payments of principal will be directed to front cash flow (or “FCF”) bonds; during this time, subordinate or last cash flow (or “LCF”) bonds will be entitled only to their pro rata share of interest and scheduled principal payments received. This feature helps preserve subordination during the life of the deal, reducing senior classes’ risk of exposure to losses occurring later in the life of the deal. The tables below demonstrate hypothetical monthly payments over the life of FCF and LCF bonds *(c4.10)*
 
-![](cash_flow.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/cash_flow.png)
 
 **Structural credit enhancement**: as an additional measure of protection for senior classes of bonds, the transaction will include credit support levels designed to redirect scheduled principal payments to senior classes in the event delinquencies or payment shortfalls exceed certain levels. The credit enhancement level for the Sequoia RMBS proposed to be onboarded by Maker is expected to be 15.00% at closing.
 
@@ -170,7 +168,7 @@ The secondary market for RMBS is well-established, with major broker-dealers reg
 
 The following table shows, for illustrative purposes, secondary market trading activity in RMBS (like the proposed Sequoia RMBS) to date in 2022, on both a yearly and weekly average basis, including detail for requests by bank customers to buy or sell RMBS and among dealers themselves.
 
-![](finra.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/finra.png)
 
 While exact timeframes may vary based on idiosyncrasies of a particular trade, secondary market sales of RMBS such as the Sequoia RMBS could occur in as little as two (2) business days after a prospective RMBS seller contacts a broker-dealer to request a quote for a desired sale.
 
@@ -181,18 +179,17 @@ Pricing for secondary market sales of RMBS is dependent on market conditions at 
 **c1.5.2 Spread**
 An RMBS private offering, as the one here contemplated, provides a spread above US Treasuries and MBS ETF products. The table below shows status as of October 11, 2022.*(c4.11)* 
 
-![](yield_comps.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/yield_comps.png)
 
 **c1.5.3 Stress Scenarios**
 In stressed economic environments, historical Sequoia transactions have performed well, maintaining low delinquency levels. As the table below shows, during the most recent period of economic stress triggered by the onset of the COVID-19 pandemic, delinquency levels for the pre-COVID Sequoia transactions listed below remained under 5% and so never touched upon the Super Senior tranches. 
 
-![](semt.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/semt.png)
 
 #### c1.6 Underlying Mortgage Pool Example
 This is an example of the type of potential mortgage loan pool that would be underlying the Sequoia RMBS issuance.*(c4.12)*
 
-![](sequoia_RMBS.png)
-
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/sequoia_RMBS.png)
 
 ### MIP88c2: Verification Conditions for Collateral Onboarding
 
@@ -209,7 +206,6 @@ Should any one of the c2.1, c2.2 and c2.3 verifications not be forthcoming, for 
 
 #### c2.4 Closing & Execution Verification Requirements
 Prior to any purchase of SEMT RMBS by James PTC, on behalf of the New Trust, (i) the investment advisor will confirm that the terms of any SEMT RMBS are consistent with those described in this MIP and will have directed James PTC, on behalf of the New Trust, to purchase the SEMT RMBS and (ii) external legal counsel for Maker and/or a legal facilitator will have finalized the transaction, trust and related/ancillary documentation with the other relevant parties.
-
 
 ### MIP88c3: Technical Conditions of the Collateral Onboarding
 
