@@ -57,7 +57,7 @@ Defines the background of Origin Protocol since its inception in 2017.
 **MIP87c2: The Origin Dollar**
 Defines the background and mechanics of the Origin Dollar.
 
-**MIP87c3: Investing in OSUD**
+**MIP87c3: Investing in OUSD**
 Provides the steps for how Maker can invest in the Origin Dollar.
 
 **MIP87c4: Deal Terms**
