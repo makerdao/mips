@@ -21,8 +21,6 @@ Replaces: <List of MIP it is replacing>
 ## Sentence Summary
 
 - MIPx will establish a Self Insurance Fund (SIF) for MakerDAO. The purpose of the SIF is to cover legal expense costs of MakerDAO stakeholders.
-- 
-- A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 30 words max.
 
 ## Paragraph Summary
 
@@ -31,8 +29,6 @@ Replaces: <List of MIP it is replacing>
 
 - MIPx will authorize the incorporation of a Cayman Foundation that will manage operations of the SIF.
  
-
-- A description of what the Maker Improvement Proposal (MIP) is focused on. Suggest 100 words max.
 
 ## Component Summary
 
@@ -74,9 +70,6 @@ Replaces: <List of MIP it is replacing>
 
 - Self-insurance is a well known risk management technique that consists in setting funds aside for compensating a possible future loss. Typically self insurance is used when risk can not be transferred through traditional instruments such as insurances. Due to the fact that MakerDAO is not, and will not be incorporated as a legal entity,  stakeholders are exprosed to increased legal risk. The Self Insurance Fund is an ideal instrument to de-risk involvement in MakerDAO and manage professionally legal risk.
 
-
-- 
-- A short description of the motivation behind the MIP. 
 
 
 ## Specification / Proposal Details
