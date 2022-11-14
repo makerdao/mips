@@ -56,13 +56,13 @@ With this credit facility, Maker will gain on a number of fronts:
 
 ## Specification / Proposal Details
 
-![](andalusian.png)
+![](https://github.com/makerdao/mips/blob/master/MIP89/andalusian.png)  
 Andalusian AI’d by nightcafe
 
 ### MIP89c1: Collateral Design
 
 #### c1.1 Counterparty: Arrow Global
-![](arrow.png)
+![](https://github.com/makerdao/mips/blob/master/MIP89/arrow.png)
 
 We here let Arrow present themselves in their own words: 
  
@@ -109,7 +109,7 @@ An example of Arrow’s approach to ESG, on a deal level, is how Arrow review ea
 #### c1.3 Structure
 
 Our starting point is the same structure as used with MIP65 and proposed for MIP82 - we add a further separate trust to the structure for this particular facility (“Felix Asset Trust”) as illustrated in green here:
-![](structure.png)
+![](https://github.com/makerdao/mips/blob/master/MIP89/structure.png)
 
 In addition, one or more SPV orphan entities (“Lux SPV”) will be set up in Luxembourg, which will act as the lender/buyer of the portfolio(s). The lending capital in Lux SPV will be provided by Arrow and Felix Asset Trust on a Junior(Arrow)/Senior(Felix Asset Trust) basis.
 
