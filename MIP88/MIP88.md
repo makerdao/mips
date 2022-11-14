@@ -63,7 +63,7 @@ This MIP accomplishes the following for Maker:
 * Allows Maker to have a real impact together with Redwood by collaborating on the concept of Clean Money in a large  category of housing finance
 
 ## Specification / Proposal Details *(c4.3)*
-![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/friesian.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/friesian.png)  
 Friesian AI'd by nightcafe
 
 ### MIP88c1: Collateral Design
@@ -87,18 +87,17 @@ A further extract from [the](https://hackmd.io/@allangiraf/Reedwoodconsideration
 
 ..."Since its inception in 1997, Redwood has issued over $60 billion in RMBS across 118 Sequoia (SEMT) securitizations, including ten (10) transactions in the last two years alone.  In fact, in this time our Sequoia platform has become the nation’s largest non-bank sponsored issuance platform for prime jumbo RMBS.  As the table below illustrates, since the RMBS market restarted in 2010, Redwood’s Sequoia platform is, by deal count and issuance, the second largest prime jumbo issuance platform overall, and the largest that is not sponsored by a major bank. 
 
-![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/RMBS_issuance.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/RMBS_issuance.png)  
 *Data Calculated as of September 7, 2022 based on information available via Bloomberg and Wells Fargo Securities, LLC.*   
 
-![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/performance_summary.png)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/performance_summary.png)  
 *Data Calculated as of August 2022 based on information available via Bloomberg and Wells Fargo Securities, LLC.*
-
 
 Strong performance of Sequoia RMBS, such as illustrated above, has helped us attract and retain a base of over 200 institutional investors in Sequoia RMBS transactions, including some of the nation’s largest pension funds, insurance companies and professional asset managers. 
 
 In 2021, the Sequoia platform achieved two major milestones, as the first RMBS prime jumbo platform to integrate blockchain technology and the first such platform to include disclosure on certain ESG topics pursuant to SASB’s Mortgage Finance disclosure framework.  We were honored to be recognized by GlobalCapital as 2021 RMBS issuer of the year, thanks in part to these market-leading innovations and the Redwood team’s commitment to investors in Sequoia RMBS"...
 
-![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/redwood_residential.png?raw=true)
+![](https://github.com/makerdao/mips/blob/247f11f556ad5b2be78525c7fa6c9966da76ecec/MIP88/redwood_residential.png)
 
 #### c1.2 Structure
 The Redwood Friesian MIP legal structure is expected to use the same legal entities used for the Monetalis Clydesdale MIP. James Asset (PTC) Limited (“James PTC”), a company organized in the British Virgin Islands (“BVI”), will create a new trust to hold any SEMT RMBS purchased by it (the “New Trust”). Documentation to establish the New Trust and related/ancillary documentation will be drafted by local BVI counsel to take into consideration applicable U.S. law, as advised by the parties’ U.S. counsels.
