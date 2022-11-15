@@ -78,7 +78,7 @@ Initial 5M funding will be sent to a multisig, which must follow the process out
 
 Beneficiary of Multisig is Maker Governance. Funds not used after xxx months will be returned to Governance.
 
-**[MIPx-c2] SIF funding process:]** Describes the governance process to approve and execute future payouts to the SIF.
+**[MIPx-c2] SIF funding process:** Describes the governance process to approve and execute future payouts to the SIF.
 
 The process is as follows:
 
@@ -111,14 +111,14 @@ _Parameters for requests of above xxK Dai:_
 * Minimum Frozen Period: 1 Week.
 
 
-**[MIPx-c3]** Subproposal to request funding.
+**[MIPx-c3] Subproposal to request funding.**
 
 MIPx-c3 subproposals must use the template located at [xxx].
 
 This is a component that can have on-chain effects that alter the Maker Protocol's state. When subproposals are generated from this component, the vote must include a Technical State Change to authorize drawing funds from the Maker Protocol.
 
 
-**[MIPx-c4]** The SIF Foundation. Describes the legal structure and purpose of the SIF Foundation
+**[MIPx-c4] The SIF Foundation.** Describes the legal structure and purpose of the SIF Foundation
 
 The RWA Foundation legal structure will be a Cayman Foundation based on the Cayman Islands Foundation Companies Law, 2017. The Foundation Company is a very flexible structure that allows for its organization and administration to be modified for specific needs. 
 
@@ -130,7 +130,7 @@ The objects for which the SIF Foundation will be incorporated are the following:
 - Serve as policy holder for nsurances (beneficiaries: MAkerDAO stakeholders) 
 
 
-**[MIPx-c5]** Payouts and claim managament. Describe the process for deciding and managing claims.
+**[MIPx-c5] Payouts and claim managament.** Describe the process for deciding and managing claims.
 
 Two Claim Committees will be created which will be in charge of deciding and processing claims:
 
@@ -155,7 +155,7 @@ If payout is approved, funds will be trandferred from the SPF multisig to a whit
 
 Claim management processes will be gradually decentralized to eliminate trust assumptions and central points of failure. 
 
-**[MIPx-c6]** Investment managament. Describes the process and policies for investing SIF funds. 
+**[MIPx-c6] Investment managament.** Describes the process and policies for investing SIF funds. 
 
  **Permissionless implementation of investment management**is 
 
