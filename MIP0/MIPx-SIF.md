@@ -41,59 +41,54 @@ Replaces: <n/a
 
 **[MIPx-c5]** Payouts and claim managament. Describes the process for deciding and managing claims
 
-**[MIPx-c6]** Permissionless implementation of claim management. Describe futur permissionless implementation of the claim management process to gradually decentralze
+**[MIPx-c6]** Investment managament.  Describes the process and policies for investing SIF funds. 
 
-**[MIPx-c7]** Investment managament.  Describes the process and policies for investing SIF funds 
+---
 
-**[MIPx-c8]** Permissionless implementation of investment management
+**[MIPx-c7]** DAO resolution. Describes the DAO Resolution with which MakerDAO can instruct the SIF Foundation to act.
 
-**[MIPx-c9]** DAO resolution. Describes the DAO Resolution with which MakerDAO can instruct the SIF Foundation to act.
+**[MIPx-c8]** Adding a Supervisor Process. Describes the process of adding a Supervisor at the SIF Foundation.
 
-**[MIPx-c10]** Adding a Supervisor Process.   Describes the process of adding a Supervisor at the SIF Foundation.
+**[MIPx-c9]** Removing a Supervisor Process. Describes the process of removing a Supervisor at the SIF Foundation.
 
-**[MIPx-c11]** Removing a Supervisor Process. Describes the process of removing a Supervisor at the SIF Foundation.
+**[MIPx-c10]** Adding a Director Process. Describes the process of adding a Director at the SIF Foundation.
 
-**[MIPx-c12]** Adding a Director Process. Describes the process of adding a Director at the RWA Foundation.
+**[MIPx-c11]** Removing a Director Process. Describes the process of removing a Director at the SIF Foundation.
 
-**[MIPx-c12]** Removing a Director Process. Describes the process of removing a Director at the RWA Foundation.
+**[MIPx-c12]** Creation of Committee Process. Describes the process of adding a Committee at the SIF Foundation.
 
-**[MIPx-c12]** Creation of Committee Process. Describes the process of adding a Committee at the RWA Foundation.
+**[MIPx-c13]** Termination of Committee. Describes the process of removing a Committee at the SIF Foundation.
 
-**[MIPx-c12]** Termination of Committee. Describes the process of removing a Committee at the RWA Foundation.
+**[MIPx-c14]**  Creation of Authorized Signer. Describes the process of adding an Authorized Signer at the SIF Foundation.
 
-**[MIPx-c12]**  Creation of Authorized Signer. Describes the process of adding an Authorized Signer at the RWA Foundation.
-
-**[MIPx-c12]**   Termination of Authorized Signer. Describes the process of removing an Authorized Signer at the RWA Foundation.
+**[MIPx-c15]**   Termination of Authorized Signer. Describes the process of removing an Authorized Signer at the SIF Foundation.
 
 ## Motivation
 
 - Self-insurance is a well known risk management technique that consists in setting funds aside for compensating for a possible future loss. Typically self insurance is used to retain risks when they can not be transferred to third parties through traditional instruments such as insurances. 
 
-- MakerDAO is not a company nor will be incorporated as a legal entity, rather an open network of public collaboration. Hence, stakeholder involved in the ecosystem are exposed to increased legal risk. The Self Insurance Fund is an ideal instrument to de-risk involvement in MakerDAO and manage professionally legal risk.
-
+- MakerDAO is an open network of public collaboration. MakerDAO is not a company nor will be incorporated as a legal entity. Hence, stakeholders involved in the ecosystem are exposed to increased legal risk. The Self Insurance Fund is an ideal instrument to de-risk involvement in MakerDAO and manage professionally legal risks.
 
 
 ## Specification / Proposal Details
 
-[MIPx-c1] SIF requirements: Outline the requirements for the SIF
+**[MIPx-c1]}** SIF requirements: Outline the requirements for the SIF
 
-Must follow the multisig process outlined in MIP47: MakerDAO Multisignature Wallet Management. It must include a wallet address, official Point of Contact, and Comptroller signers must be publicly verified.
+Initial 5M funding will be sent to a multisig, which must follow the process outlined in [MIP47: MakerDAO Multisignature Wallet Management]  (https://mips.makerdao.com/mips/details/MIP47#sentence-summary) It must include a wallet address, official Point of Contact, and Comptroller signers must be publicly verified.
 
-Funding provided in DAI
+Beneficiary of Multisig is Maker Governance. Funds not used after xxx months will be returned to Governance.
 
-Beneficiary of Multisg is Maker Governance. Funds not used after [xxx] months will be returned to Governance
-
-[MIPx-c2] SIF funding process: A process component that provides clarity on the governance process to approve and execute payouts to the SIF.
+**[MIPx-c2] SIF funding process:]** Describes the governance process to approve and execute future payouts to the SIF.
 
 The process is as follows:
 
 MIPx-c3 subproposal is submitted.
 
-MIPx-c3 subproposals must use the template located at [xxx] md. This template is considered ratified once this MIP moves to Accepted status.
+MIPx-c3 subproposals must use the template located at [xxx.md]. This template is considered ratified once this MIP moves to Accepted status.
 
-Upon approval of the MIPx-c subproposal, funds would be transferred first to the escrow multisig. The funds in escrow must be in a multi-sig with signatory requirements of a minimum of two Comptrollers. Funds must be held in escrow, only released when two Comptrollers sign off.
+Upon approval of the MIPx-c subproposal, funds would be transferred to the escrow multisig. The funds in escrow must be in a multi-sig with signatory requirements of a minimum of two Comptrollers. Funds must be held in escrow, only released when two Comptrollers sign off.
 
-Funding Implementation
+**[Funding Implementation]**
 
 Transfer of DAI from the protocol will take DAI from the Surplus Buffer if available. If funding a MIP55c3 subproposal would result in a FLOP auction, Governance Facilitator(s) will use established communication channels to ensure the community is informed.
 
@@ -101,17 +96,31 @@ The initial funding implementation would use a simple funding implementation of 
 
 If available, other advanced smart-contract based implementations can be used for automated distribution mechanisms, such as a simplified smart contract implementation of DSSVest.
 
+**The proposal parameters**
 
-[MIPx-c3] Subproposal to request funding
+Requests of less than or equal to 50k Dai may go into the Weekly Governance Cycle, provided the Feedback and Frozen Periods have been fullfilled. Anything above 50k Dai must go through the Monthly Governance Cycle.
 
-MIPx-c3 subproposals must use the template located at [xxx]
+_Parameters for requests of less or equal to xxK Dai:_
+
+* Minimum Feedback Period: 2 Weeks.
+* Minimum Frozen Period: 1 Week.
+
+_Parameters for requests of above xxK Dai:_
+
+* Minimum Feedback Period: 4 Weeks.
+* Minimum Frozen Period: 1 Week.
+
+
+**[MIPx-c3]** Subproposal to request funding.
+
+MIPx-c3 subproposals must use the template located at [xxx].
 
 This is a component that can have on-chain effects that alter the Maker Protocol's state. When subproposals are generated from this component, the vote must include a Technical State Change to authorize drawing funds from the Maker Protocol.
 
 
-[MIPx-c4] The SIF Foundation. Describes the legal structure and purpose of the SIF Foundation
+**[MIPx-c4]** The SIF Foundation. Describes the legal structure and purpose of the SIF Foundation
 
-The RWA Foundation legal structure is based on the Cayman Islands Foundation Companies Law, 2017. The Foundation Company is a very flexible structure that allows for its organization and administration to be modified for specific needs. 
+The RWA Foundation legal structure will be a Cayman Foundation based on the Cayman Islands Foundation Companies Law, 2017. The Foundation Company is a very flexible structure that allows for its organization and administration to be modified for specific needs. 
 
 The objects for which the SIF Foundation will be incorporated are the following:
 
@@ -121,7 +130,7 @@ The objects for which the SIF Foundation will be incorporated are the following:
 - Serve as policy holder for nsurances (beneficiaries: MAkerDAO stakeholders) 
 
 
-[MIPx-c5] Payouts and claim managament. Describe the process for deciding and managing claims
+**[MIPx-c5]** Payouts and claim managament. Describe the process for deciding and managing claims.
 
 Two Claim Committees will be created which will be in charge of deciding and processing claims:
 
@@ -129,49 +138,49 @@ Internal MakerDAO members (i.e. Mandated Actors or other reputable DAO members)
 External, technical members with experience in risk management, claim management and legal proceedings
 
 
-Claim decision process: 
+**Claim decision process:**
 
 The external technical committee receives and classifies and qualifies the claim, and produces a recommendation.  
 The internal committee approves or disapproves the recommendation.
 
 
 
-MKR token holder veto to a pyout possible?
+MKR token holder veto to a payout possible?
 
 More detailed info on the process and docuemnts needed under [rules of procedure]
 
 If payout is approved, funds will be trandferred from the SPF multisig to a whitlisted address
 
+**Permissionless implementation of claim management**
 
-[MIPx-c6] Permissionless implementation of claim management
+Claim management processes will be gradually decentralized to eliminate trust assumptions and central points of failure. 
 
-Claim management processes will be gradually decentralzed to eliminate trust assumptions and central points of failure. 
+**[MIPx-c6]** Investment managament. Describes the process and policies for investing SIF funds. 
 
-[MIPx-c7] Investment managament. Describes the process and policies for investing SIF funds 
+ **Permissionless implementation of investment management**is 
 
-[MIPx-c8]. Permissionless implementation of investment management
+Permissionless Market operations MIP 74 with DSSKiln
 
-Permissonless Market operations MIP 74 with DSSKiln
 
-[MIPx-c9] DAO resolution. Describes the DAO Resolution with which MakerDAO can instruct the SIF Foundation to act.
+**[MIPx-c7] DAO resolution.** Describes the DAO Resolution with which MakerDAO can instruct the SIF Foundation to act.
 
 The SIF Foundation recognizes the concept of DAO Resolutions by which MakerDAO can instruct the RWA Foundation to act and ratify such a decision when taken. The following components of this MIP formalize those DAO Resolutions. DAO Resolutions don't have to follow this MIP process, but DAO Resolutions not following this MIP should be avoided and are discouraged.
 
-[MIPx-c10] Adding a Supervisor Process.   Describes the process of adding a Supervisor at the SIF Foundation.
+**[MIPx-c8] Adding a Supervisor Process.**   Describes the process of adding a Supervisor at the SIF Foundation.
 
-[MIPx-c11] Removing a Supervisor Process. Describes the process of removing a Supervisor at the SIF Foundation.
+**[MIPx-c9] Removing a Supervisor Process.** Describes the process of removing a Supervisor at the SIF Foundation.
 
-[MIPx-c12] Adding a Director Process. Describes the process of adding a Director at the RWA Foundation.
+**[MIPx-c10] Adding a Director Process.** Describes the process of adding a Director at the SIF Foundation.
 
-[MIPx-c12] Removing a Director Process. Describes the process of removing a Director at the RWA Foundation.
+**[MIPx-c11] Removing a Director Process.** Describes the process of removing a Director at the SIF Foundation.
 
-[MIPx-c12].Creation of Committee Process. Describes the process of adding a Committee at the RWA Foundation.
+**[MIPx-c12].Creation of Committee Process.** Describes the process of adding a Committee at the SIF Foundation.
 
-[MIPx-c12]. Termination of Committee. Describes the process of removing a Committee at the RWA Foundation.
+**[MIPx-c13]. Termination of Committee.** Describes the process of removing a Committee at the SIF Foundation.
 
-[MIPx-c12].  Creation of Authorized Signer. Describes the process of adding an Authorized Signer at the RWA Foundation.
+**[MIPx-c14]. Creation of Authorized Signer.** Describes the process of adding an Authorized Signer at the SIF Foundation.
 
-[MIPx-c12].   Termination of Authorized Signer. Describes the process of removing an Authorized Signer at the RWA Foundation.
+**[MIPx-c15]. Termination of Authorized Signer.** Describes the process of removing an Authorized Signer at the SIF Foundation.
 
 
 
