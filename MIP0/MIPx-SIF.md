@@ -20,7 +20,7 @@ Replaces: <n/a
 
 ## Sentence Summary
 
-- MIPx establishes a Self Insurance Fund (SIF) with the purpose of covering legal expense costs and managing legal risk of MakerDAO stakeholders.
+- MIPx establishes a Self Insurance Fund (SIF) with the purpose of covering legal expense costs and managing legal risks of MakerDAO stakeholders.
 
 ## Paragraph Summary
 
@@ -31,43 +31,45 @@ Replaces: <n/a
 
 ## Component Summary
 
-[MIPx-c1] SIF requirements: Outline the requirements for the SIF
+**[MIPx-c1]** SIF requirements: Outline the requirements for the SIF.
 
-[MIPx-c2] SIF funding process: A process component that provides clarity on the governance process to approve and execute payouts to the SIF
+**[MIPx-c2]** SIF funding process: Describes the governance process to approve and execute payouts to the SIF
 
-[MIPx-c3] Subproposal to request funding
+**[MIPx-c3]** Subproposal to request funding
 
-[MIPx-c4] The SIF Foundation. Describes the legal structure and purpose of the SIF Foundation
+**[MIPx-c4]** The SIF Foundation. Describes the legal structure and purpose of the SIF Foundation
 
-[MIPx-c5] Payouts and claim managament. Describes the process for deciding and managing claims
+**[MIPx-c5]** Payouts and claim managament. Describes the process for deciding and managing claims
 
-[MIPx-c6] Permissionless implementation of claim management. Describe futur permissionless implementation of the claim management process to gradually decentralze
+**[MIPx-c6]** Permissionless implementation of claim management. Describe futur permissionless implementation of the claim management process to gradually decentralze
 
-[MIPx-c7] Investment managament.  Describes the process and policies for investing SIF funds 
+**[MIPx-c7]** Investment managament.  Describes the process and policies for investing SIF funds 
 
-[MIPx-c8]. Permissionless implementation of investment management
+**[MIPx-c8]** Permissionless implementation of investment management
 
-[MIPx-c9] DAO resolution. Describes the DAO Resolution with which MakerDAO can instruct the SIF Foundation to act.
+**[MIPx-c9]** DAO resolution. Describes the DAO Resolution with which MakerDAO can instruct the SIF Foundation to act.
 
-[MIPx-c10] Adding a Supervisor Process.   Describes the process of adding a Supervisor at the SIF Foundation.
+**[MIPx-c10]** Adding a Supervisor Process.   Describes the process of adding a Supervisor at the SIF Foundation.
 
-[MIPx-c11] Removing a Supervisor Process. Describes the process of removing a Supervisor at the SIF Foundation.
+**[MIPx-c11]** Removing a Supervisor Process. Describes the process of removing a Supervisor at the SIF Foundation.
 
-[MIPx-c12] Adding a Director Process. Describes the process of adding a Director at the RWA Foundation.
+**[MIPx-c12]** Adding a Director Process. Describes the process of adding a Director at the RWA Foundation.
 
-[MIPx-c12] Removing a Director Process. Describes the process of removing a Director at the RWA Foundation.
+**[MIPx-c12]** Removing a Director Process. Describes the process of removing a Director at the RWA Foundation.
 
-[MIPx-c12].Creation of Committee Process. Describes the process of adding a Committee at the RWA Foundation.
+**[MIPx-c12]** Creation of Committee Process. Describes the process of adding a Committee at the RWA Foundation.
 
-[MIPx-c12]. Termination of Committee. Describes the process of removing a Committee at the RWA Foundation.
+**[MIPx-c12]** Termination of Committee. Describes the process of removing a Committee at the RWA Foundation.
 
-[MIPx-c12].  Creation of Authorized Signer. Describes the process of adding an Authorized Signer at the RWA Foundation.
+**[MIPx-c12]**  Creation of Authorized Signer. Describes the process of adding an Authorized Signer at the RWA Foundation.
 
-[MIPx-c12].   Termination of Authorized Signer. Describes the process of removing an Authorized Signer at the RWA Foundation.
+**[MIPx-c12]**   Termination of Authorized Signer. Describes the process of removing an Authorized Signer at the RWA Foundation.
 
 ## Motivation
 
-- Self-insurance is a well known risk management technique that consists in setting funds aside for compensating a possible future loss. Typically self insurance is used when risk can not be transferred through traditional instruments such as insurances. Due to the fact that MakerDAO is not, and will not be incorporated as a legal entity,  stakeholders are exprosed to increased legal risk. The Self Insurance Fund is an ideal instrument to de-risk involvement in MakerDAO and manage professionally legal risk.
+- Self-insurance is a well known risk management technique that consists in setting funds aside for compensating for a possible future loss. Typically self insurance is used to retain risks when they can not be transferred to third parties through traditional instruments such as insurances. 
+
+- MakerDAO is not a company nor will be incorporated as a legal entity, rather an open network of public collaboration. Hence, stakeholder involved in the ecosystem are exposed to increased legal risk. The Self Insurance Fund is an ideal instrument to de-risk involvement in MakerDAO and manage professionally legal risk.
 
 
 
