@@ -7,12 +7,12 @@ Title: <Self Insurance Fund>
 Author(s): <@layerzero>
 Contributors:
 Tags: template
-Type: MIP Type
+Type: General
 Status: <Assigned by MIP Editor>
 Date Proposed: <yyyy-mm-dd>
 Date Ratified: <yyyy-mm-dd>
-Dependencies: <List of dependent MIPs>
-Replaces: <List of MIP it is replacing>
+Dependencies: n/a
+Replaces: <n/a
 ```
 ## References
 
@@ -20,12 +20,11 @@ Replaces: <List of MIP it is replacing>
 
 ## Sentence Summary
 
-- MIPx will establish a Self Insurance Fund (SIF) for MakerDAO. The purpose of the SIF is to cover legal expense costs of MakerDAO stakeholders.
+- MIPx establishes a Self Insurance Fund (SIF) with the purpose of covering legal expense costs and managing legal risk of MakerDAO stakeholders.
 
 ## Paragraph Summary
 
-- MIPx will create a DAI 5M legal defense fund to reimburse legal expenses incurred by specific MakerDAO stakeholders in case of legal or regulatory proceedings. The fund will initially provide coverage to the founding team, recognized delegates and permanent contributors; a
-
+- MIPx will create a DAI 5M legal defense fund to reimburse legal expenses incurred by specific MakerDAO stakeholders in case of legal or regulatory proceedings. The fund will initially provide coverage to the founding team, recognized delegates and permanent contributors.
 
 - MIPx will authorize the incorporation of a Cayman Foundation that will manage operations of the SIF.
  
