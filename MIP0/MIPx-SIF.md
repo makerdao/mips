@@ -72,7 +72,7 @@ Replaces: <n/a
 
 ## Specification / Proposal Details
 
-**[MIPx-c1 SIF requirements:]**  Outline the requirements for the SIF
+**[MIPx-c1] SIF requirements:**  Outline the requirements for the SIF
 
 Initial 5M funding will be sent to a multisig, which must follow the process outlined in [MIP47: MakerDAO Multisignature Wallet Management]  (https://mips.makerdao.com/mips/details/MIP47#sentence-summary) It must include a wallet address, official Point of Contact, and Comptroller signers must be publicly verified.
 
