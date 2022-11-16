@@ -67,7 +67,7 @@ Replaces: <n/a
 
 - Self-insurance is a well known risk management technique that consists in setting funds aside for compensating for a possible future loss. Typically self insurance is used to retain risks when they can not be transferred to third parties through traditional instruments such as insurances. 
 
-- MakerDAO is an open network of public collaboration. MakerDAO is not a company nor will be incorporated as a legal entity. Hence, stakeholders involved in the ecosystem are exposed to increased legal risk. The Self Insurance Fund is an ideal instrument to de-risk involvement in MakerDAO and manage professionally legal risks.
+- MakerDAO is not a company nor is incorporated as a legal entity. Hence, stakeholders involved in the ecosystem are exposed to increased legal risk. MakerDAO participants need novel instruments for managign professionally legal risks. The Self Insurance Fund is an ideal instrument to de-risk involvement in MakerDAO.
 
 
 ## Specification / Proposal Details
@@ -75,6 +75,8 @@ Replaces: <n/a
 **[MIPx-c1] SIF requirements:**  Outline the requirements for the SIF
 
 Initial 5M funding will be sent to a multisig, which must follow the process outlined in [MIP47: MakerDAO Multisignature Wallet Management]  (https://mips.makerdao.com/mips/details/MIP47#sentence-summary) It must include a wallet address, official Point of Contact, and Comptroller signers must be publicly verified.
+
+Multisig is meant as an interim instrument while a permissionless solutionnis developed.
 
 Beneficiary of Multisig is Maker Governance. Funds not used after xxx months will be returned to Governance.
 
