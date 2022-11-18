@@ -9,7 +9,7 @@ Author(s): @Aes
 Contributors: @LongForWisdom
 Tags: incentives, mkr
 Type: General
-Status: RFC
+Status: Obsolete
 Date Proposed: 2021-07-07
 Date Ratified: TBA
 Dependencies: n/a
