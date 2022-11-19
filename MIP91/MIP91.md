@@ -4,7 +4,7 @@
 
 ```
 MIP#: 91
-Title: Defender Contract to Protect MakerDAO from Governance Attacks
+Title: Defender Contract Against Governance Attacks
 Author(s): @astronautthis
 Contributors: @LongForWisdom, @prose11, @Patrick_J
 Tags: emergency, governance, process, technical, smart-contracts, pending-implementation
