@@ -20,9 +20,9 @@ Ratification Poll URL: xx
 
 ## References
 
-1. [Emergency Shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown)
-2. [GSM Pause Delay](https://makerdao.world/en/learn/governance/param-gsm-pause-delay/)
-3. [Executive Vote](https://makerdao.world/en/learn/governance/how-voting-works/#executive-votes)
+* [Emergency Shutdown](https://docs.makerdao.com/smart-contract-modules/shutdown)
+* [GSM Pause Delay](https://makerdao.world/en/learn/governance/param-gsm-pause-delay/)
+* [Executive Vote](https://makerdao.world/en/learn/governance/how-voting-works/#executive-votes)
 
 ## Sentence Summary
 
