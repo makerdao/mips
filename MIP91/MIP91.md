@@ -35,20 +35,6 @@ The attack considered here is a governance attack where an entity has access to 
 2. Activate `dss-defender`.
 3. Trigger the Emergency Shutdown Module (ESM).
 
-## Motivation
-
-Consider the situation where a malicious entity (including possible malicious actors within the Maker community) has access to enough MKR to pass executive spells. Given the chaotic environment during such an attack with the potential for trusted entities like Protocol Engineering or GovAlpha to turn malicious, it may be unreasonable to expect honest MKR holders to be able to communicate and coordinate quickly enough to defend the protocol. In particular, it may not be clear if the protocol is genuinely under attack or if there is simply misinformation. The following issues are likely with the current ESM-based defence:
-
-1. Honest MKR holders only have the GSM Pause Delay period (48 hours at the time of writing) to trigger the ESM, a decision that involves burning their MKR. This is difficult to commit to if information about the attack is unclear.
-2. It may be the case that large MKR holders use custodial solutions that would make it difficult to move their MKR to trigger the ESM or try and regain the hat within the GSM Pause Delay period.
-3. The act of shutting down the protocol is an extreme step that negatively impacts DAI holders and the wider crypto ecosystem. The only immediate requirement is to block malicious executives while regaining control of governance, not to shut down the entire protocol.
-
-The ideal defence in the face of such an attack should be to prevent the malicious executives from passing so MKR holders can buy time to understand the situation, try to recapture the hat, and decide whether it is necessary to trigger the ESM.
-
-The key is to allow a minority of MKR holders to be able to do this without a severe financial penalty but also ensure that this does not become a tactic to stall/overrule regular governance actions.
-
-This will be done using a proposed contract called `dss-defender`.
-
 ## Component Summary
 
 **MIP91c1: Parameters and deployment**
@@ -80,11 +66,11 @@ Consider the situation where a malicious entity (including possible malicious ac
 2. It may be the case that large MKR holders use custodial solutions that would make it difficult to move their MKR to trigger the ESM or try and regain the hat within the GSM Pause Delay period.
 3. The act of shutting down the protocol is an extreme step that negatively impacts DAI holders and the wider crypto ecosystem. The only immediate requirement is to block malicious executives while regaining control of governance, not to shut down the entire protocol.
 
-The ideal defence in the face of such an attack should be to prevent the malicious executives from passing so MKR holders can buy time to understand the situation, try to recapture the hat, and decide whether it is necessary to trigger the ESM. 
+The ideal defence in the face of such an attack should be to prevent the malicious executives from passing so MKR holders can buy time to understand the situation, try to recapture the hat, and decide whether it is necessary to trigger the ESM.
 
-The key is to allow a minority of MKR holders to be able to do this without a severe financial penalty but also ensure that this does not become a tactic to stall/overrule regular governance actions. 
+The key is to allow a minority of MKR holders to be able to do this without a severe financial penalty but also ensure that this does not become a tactic to stall/overrule regular governance actions.
 
-This will be done using a proposed contract called `dss-defender`. 
+This will be done using a proposed contract called `dss-defender`.
 
 ## Specification / Proposal Details
 
