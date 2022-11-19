@@ -11,8 +11,8 @@ Tags: emergency, governance, process, technical, smart-contracts, pending-implem
 Type: General
 Status: RFC
 Date Proposed: 2022-10-26
-Date Ratified:
-Dependencies: xx
+Date Ratified: xx
+Dependencies: None
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip91-defender-contract-against-governance-attacks/18534
 Ratification Poll URL: xx
