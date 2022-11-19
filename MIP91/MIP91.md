@@ -7,7 +7,7 @@ MIP#: 91
 Title: Defender Contract Against Governance Attacks
 Author(s): @astronautthis
 Contributors: @LongForWisdom, @prose11, @Patrick_J
-Tags: emergency, governance, process, technical, smart-contracts, pending-implementation
+Tags: emergency, governance, process, technical
 Type: General
 Status: RFC
 Date Proposed: 2022-10-26
