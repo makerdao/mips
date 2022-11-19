@@ -12,10 +12,10 @@ Type: General
 Status: RFC
 Date Proposed: 2022-10-26
 Date Ratified:
-Dependencies:
+Dependencies: xx
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip91-defender-contract-against-governance-attacks/18534
-Ratification Poll URL:
+Ratification Poll URL: xx
 ```
 
 ## References
