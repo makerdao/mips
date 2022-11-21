@@ -6,12 +6,13 @@
 MIP41c4-SP#: 21
 Author(s): Robert Jordan @monkey.irish
 Contributors:
-Tags: core-unit, cu-ces-001, facilitator, active
+Tags: core-unit, cu-ces-001, facilitator
 Status: Accepted
 Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbM8u7Q?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp21-facilitator-onboarding-collateral-engineering-services-core-unit-ces-001/9811
+Extra: This Facilitator has voluntarily resigned their position via [MIP41c5-SP13](https://forum.makerdao.com/t/mip41c5-sp13-facilitator-offboarding-ces-001/18862).
 ```
 
 ## Sentence Summary
@@ -98,3 +99,4 @@ The following is a partial list of Maker Foundation experiences that are support
 
 [MIP39c2-SP20 Collateral Engineering Services Core Unit MIP](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP20.md)
 [MIP40c3-SP30 Collateral Engineering Services Core Unit Budget Proposal](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
+
