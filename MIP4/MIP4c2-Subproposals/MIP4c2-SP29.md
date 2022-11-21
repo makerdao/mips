@@ -18,11 +18,11 @@ Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-amend-mip61-to-tighten-up-re
 
 ### Motivation
 
-This Amendment Subproposal aims to change two aspects of the current [Recognized Delegate Compensation MIP](https://mips.makerdao.com/mips/details/MIP61).
+This amendment subproposal aims to change two aspects of the current [Recognized Delegate Compensation MIP](https://mips.makerdao.com/mips/details/MIP61).
 
 #### Abstain Modifier
 
-In the current form, MIP61 treats participation in on-chain polls uniformly, regardless of the vote Recognized Delegates are casting. This Amendment removes the eligibility for compensation if a Recognized Delegate fails to meet a threshold of non-abstaining votes.
+In the current form, MIP61 treats participation in on-chain polls uniformly, regardless of the vote Recognized Delegates are casting. This amendment removes the eligibility for compensation if a Recognized Delegate fails to meet a threshold of non-abstaining votes.
 
 #### Higher Participation Requirements and Weighting for Executive Votes
 
@@ -48,3 +48,4 @@ The on-chain Ratification Poll for this subproposal will be of ranked-choice typ
 ### Relevant Information
 
 None yet.
+

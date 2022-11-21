@@ -7,10 +7,11 @@ MIP41c5-SP#: 13
 Author(s): @monkey.irish
 Contributors: @dbkcan @zmtong
 Tags: ces-001
-Status: RFC
+Status: Accepted
 Date Proposed: 2022-11-20
-Date Ratified:
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip41c5-spxx-facilitator-offboarding-ces-001/18862
+Extra: This was a voluntary offboarding; as such, it was not subject to vote.
 ```
 
 ## Sentence Summary
@@ -41,3 +42,4 @@ The relavant Core Unit unwinding plan is located within [MIP39c3](https://forum.
 ### Core Unit ID
 
 CES-001
+
