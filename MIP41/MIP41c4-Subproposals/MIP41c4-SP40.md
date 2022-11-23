@@ -14,12 +14,13 @@ Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp40-onboarding-nikolaj-lollike-as-ces-001-facilitator/18887/1
 ```
 
-# Sentence Summary
+## Sentence Summary
 MIP41c4-SP40 onboards Nikolaj Lollike (@lollike) as Facilitator for the Collateral Engineering Services Core Unit.
 
-# Specification
+## Specification
 
-## Motivation
+### Motivation
+
 Following the recent self-offboarding of the previous CES-001 Facilitator, I am proposing Nikolaj Lollike for the vacant Core Unit Facilitator role. 
 
 ### Retaining Valuable Talent
@@ -32,21 +33,21 @@ While its current leadership wants to step down and remove the whole CES Core Un
 * I've had the opportunity of working with @lollike in the early days of @SES-Core-Unit, and he has shown not only a vast knowledge about the Protocol and Ecosystem, but also an impressive speed to adapt to the new challenges we threw at him.
 
 
-## Core Unit ID
+### Core Unit ID
 * CES-001
 
-## Facilitator name and information
+### Facilitator name and information
 * Name:
 * Maker Forum handle:
 * Twitter account:
 * Github account: 
 * Discord account:
 
-## Facilitator commitment
+### Facilitator commitment
 
 ```[ To be completed by Nikolaj shall he accept the challenge]```
 
-## Facilitator Credentials
+### Facilitator Credentials
 
 ```[ To be completed by Nikolaj shall he accept the challenge]```
 
