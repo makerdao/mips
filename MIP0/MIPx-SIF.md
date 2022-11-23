@@ -22,11 +22,13 @@ Replaces: <n/a
 
 - MIPx establishes a Self Insurance Fund (SIF) with the purpose of covering legal expense costs and managing legal risks of MakerDAO stakeholders.
 
+-MIPx authorizes the incorporation of a orphan Cayman Foundation to manage the Fund.
+
 ## Paragraph Summary
 
-- MIPx will create a DAI 5M legal defense fund to reimburse legal expenses incurred by specific MakerDAO stakeholders in case of legal or regulatory proceedings. The fund will initially provide coverage to the founding team, recognized delegates and permanent contributors.
+- MIPx will create a DAI 5M legal defense fund to reimburse legal expenses incurred by specific participants in the MakerDAO ecosystem in case of legal or regulatory proceedings against them. The fund will be fully controlled by Maker Governance. It will initially provide coverage to the founding team, recognized delegates and permanent contributors. Coverage can be extended to additional group of persons in the future.
 
-- MIPx will authorize the incorporation of a Cayman Foundation that will manage operations of the SIF.
+- Self-insurance is a well known risk management technique that consists in setting funds aside for compensating a possible future loss. More technically, it is a tool for retaining risk managing risks professionally. Typically self insurance is used when risk can not be transferred through  instruments like insurances, but it can also be used in combination with them. DAO participants are exposed to novel legal risks. Self insurances are customizable instruments which can be tailo made to cover some of thesse risks. o
  
 
 ## Component Summary
