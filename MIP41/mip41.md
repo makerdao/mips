@@ -148,7 +148,7 @@ MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Templ
 
 Whenever a Core Unit finds itself with no Facilitator, an Interim Facilitator is needed to ensure the continuity or graceful wind-down of the Core Unit.
 
-A Retiring Faciliator may nominate an Interim Facilitator. Subject to the nominated Interim Facilitator's acceptance, they are immediately ratified as the Interim Facilitator.
+A Retiring Faciliator may nominate a single Interim Facilitator. Subject to the nominated Interim Facilitator's acceptance, they are immediately ratified as the Interim Facilitator.
 
 The Facilitators of other Core Units may elect an alternative Interim Facilitator within 72 hours of the initial Facilitator Offboarding using the Interim Facilitator Election Process. In the event an alternative Interim Facilitator is elected, they immediately replace the current Interim Facilitator, if one exists.
 
