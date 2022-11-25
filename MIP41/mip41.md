@@ -34,23 +34,27 @@ MIP41: Facilitator Framework describes the processes for onboarding and offboard
 
 ## Component Summary
 
-**MIP41c1: The Facilitator Framework**
+**MIP41c1: The Facilitator Framework**  
 Gives an overview of the important characteristics of the Facilitator Framework MIP.
 
-**MIP41c2: Facilitator Governance Powers**
+**MIP41c2: Facilitator Governance Powers**  
 Specifies the Facilitators' unique powers when interacting with the Maker Governance processes.
 
-**MIP41c3: Governance Facilitator Governance Powers**
+**MIP41c3: Governance Facilitator Governance Powers**  
 Specifies the special case of Governance Facilitators and their central role in the Maker Governance processes.
 
-**MIP41c4: Facilitator Onboarding**
+**MIP41c4: Facilitator Onboarding**  
 A process component that defines the process for onboarding a Facilitator to a Core Unit.
 
 **MIP41c5: Facilitator Offboarding (Subproposal Process)**
 A process component that defines the process for removing a Facilitator.
 
-**MIP41c6: Interim Facilitators**
-Specifies what Interim Facilitators are, the situations where they are necessary, and how they are appointed.
+**MIP41c6: Interim Facilitators**  
+Specifies what Interim Facilitators are, the situations where they are necessary, and their responsibilities.
+
+**MIP41c7: Interim Facilitator Appointment Process**  
+Specifies the process used to appoint an Interim Facilitator to a Core Unit.
+
 ## Motivation
 
 A Facilitator is the most trusted actor in the MakerDAO community; they are given a high degree of autonomy and have resources and governance powers at their disposal. This Framework provides Governance with a simple way of managing and holding Facilitators accountable through the MIPs process.
@@ -144,53 +148,49 @@ MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Templ
 
 ### MIP41c6: Interim Facilitators
 
-#### Interim Facilitators
-
 Whenever a Core Unit finds itself with no Facilitator, an Interim Facilitator is needed to ensure the continuity or graceful wind-down of the Core Unit.
-
-A voluntarily offboarding Faciliator may nominate a single Interim Facilitator. Subject to the nominated individuals acceptance, they are immediately ratified as the Interim Facilitator.
-
-The Facilitators of other Core Units may elect an alternative Interim Facilitator within 72 hours of the initial Facilitator Offboarding using the Interim Facilitator Election Process. In the event an alternative Interim Facilitator is elected, they immediately replace the current Interim Facilitator, if one exists.
-
-The incentive to volunteer as an Interim Facilitator is the compensation tied to a Core Unit unwinding plan. In the event of a missing, failed succession, or headless Core Unit, the incentive to volunteer as an Interim Facilitator is a transfer of the former Facilitator's compensation during the interim period.
-
-#### Interim Facilitator Responsibilities And Powers
 
 An Interim Facilitator is empowered to serve in this role for a maximum of two months. 
 
-If a new permanent Facilitator is onboarded to the relevant Core Unit through a MIP41c4 subproposal the Interim Facilitator is immediately offboarded and all powers and responsibilities transferred to the new permanent facilitator.
+If a new permanent Facilitator is onboarded to the relevant Core Unit through a MIP41c4 subproposal the Interim Facilitator is immediately offboarded and all powers and responsibilities are transferred to the new permanent Facilitator.
 
-In the event of a Core Unit offboarding, the Interim Facilitator is responsible for overseeing and executing the unwinding process. 
+In the event of a Core Unit offboarding, the Interim Facilitator is responsible for overseeing and executing the unwinding process as defined in MIP39c3. 
 
 In the event of a Facilitator offboarding, the Interim Facilitator is responsible for both:
 * Ensuring the functional continuity of the Core Unit during the interim period.
-* Making a good faith effort to deliver one or more viable Facilitator Onboarding subproposals for the Core Unit to Maker Governance. The Interim Facilitator may propose themselves as a permanent facilitator.
+* Making a good faith effort to deliver one or more viable Facilitator Onboarding subproposals for the Core Unit to Maker Governance. The Interim Facilitator may propose themselves as a permanent Facilitator.
 
 The Interim Facilitator is empowered to use the Facilitator Governance Powers defined in MIP41c2 to keep existing operational processes running smoothly during the interim period.
 
-#### Interim Facilitator Election Process
+If the Core Unit is not being off-boarded, an Interim Facilitator receives DAI compensation monthly equal to the salary of the previous permanent Facilitator if this information is publicly available, otherwise 15,000 DAI per month. 
 
-The Interim Facilitator Election Process assumes the existence of one or more permanent Governance Facilitators. If this is not the case, MIP41c6 must be considered non-binding.
+When a Core Unit is offboarded if an Interim Facilitator is judged to be necessary to wind down the Core Unit gracefully, then compensation for an Interim Facilitator must be included as part of the offboarding subproposal.
 
-A single Interim Facilitator may be elected by a majority of Core Units voting in favor of a given individual. The individual must be willing to take the role to be eligible for election. Each Core Unit may cast a single vote for or against each candidate. In the event of a Core Unit containing multiple facilitators, they must come to a consensus on their Core Unit's votes before communicating them publicly.
+---
 
-In the absence of a successful Interim Facilitator selection or election within 72 hours, one or more permanent facilitator onboarding proposals may be submitted into the weekly governance cycle. This overrides the normal rules relating to the feedback and frozen periods.
+### MIP41c7: Interim Facilitator Appointment Process 
 
-The Governance Facilitators are responsible for the implementation of this process. A majority of Governance Facilitators may modify this process to suit the circumstances by communicating details and reasoning publicly before starting the process.
+The Interim Facilitator Appointment Process assumes the existence of one or more permanent Governance Facilitators. If this is not the case, MIP41c6 must be considered non-binding. The Governance Facilitators are responsible for the implementation of this process. A majority of Governance Facilitators may modify this process to suit the circumstances by communicating details and reasoning publicly before the process begins.
+
+A voluntarily offboarding permanent Facilitator may publicly nominate a single Interim Facilitator. Subject to the nominated individual's acceptance, they are immediately ratified as the Interim Facilitator.
+
+A single Interim Facilitator may be elected by a majority of Core Units voting in favor of a given individual within 72 hours of the initial Facilitator Offboarding. The individual must be willing to take the role to be eligible for election. Each Core Unit may cast a single vote for or against each candidate. In the event of a Core Unit containing multiple facilitators, they must come to a consensus and cast a single vote for their Core Unit per candidate. In the event an alternative Interim Facilitator is elected, they immediately replace the current Interim Facilitator, if one exists.
 
 Core Unit Facilitators should refrain from casting votes before the Governance Facilitators publicly communicate the details of the process's implementation. 
+ 
+In the absence of a successful Interim Facilitator selection or election within 72 hours, one or more permanent Facilitator onboarding proposals for this core unit may be submitted into the weekly governance cycle. This overrides the normal rules relating to the feedback and frozen periods.
 
 #### Edge Cases
 
-If a voluntarily offboarding Facilitator has not nominated an Interim Facilitator, the other Core Unit Facilitators must use the Interim Facilitator Election Process to elect an Interim Facilitator.
+If a voluntarily offboarding Facilitator has not nominated an Interim Facilitator, the other Core Unit Facilitators must elect an Interim Facilitator within 72 hours.
 
-If a permanent Facilitator is missing and uncontactable without notice and for unknown reasons, a majority of Governance Facilitators must use their best judgment as to how to proceed with this process.
+If a permanent Facilitator is missing and uncontactable without notice and for unknown reasons, a majority of Governance Facilitators must use their best judgment as to how and when to proceed with the election process.
 
 If a Core Unit has no active Facilitators as a result of involuntary offboarding and has no active budget, no Interim Facilitator will be appointed unless there are winding down activities that require one.
 
 If a permanent Facilitator has not been chosen before the expiry of an Interim Facilitator's two-month term, the Core Unit is offboarded, and any budgets are revoked. A majority of Governance Facilitators may extend this time limit by stating publicly that they are doing so, and the reasoning for this decision. 
 
-If the full Interim Facilitator Election Process (including the expedited weekly cycle permanent Facilitator subproposals) fails to install either an Interim or permanent Facilitator, the Core Unit should be considered offboarded, and any budgets revoked. Appropriate MIP subproposals should be filled out by the Governance Facilitators and marked as Approved without going to vote.
+If after one month the full Interim Facilitator Appointment Process (including the expedited weekly cycle permanent Facilitator subproposals) fails to install either an Interim or permanent Facilitator, the Core Unit should be considered offboarded, and any budgets revoked. Appropriate MIP subproposals should be filled out by the Governance Facilitators and marked as Approved without going to vote.
 
 If any other edge cases occur, a majority of Governance Facilitators may resolve them to the best of their ability.
 
