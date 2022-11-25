@@ -6,7 +6,7 @@
 MIP#: 41
 Title: Facilitator Framework
 Author(s): @juanjuan
-Contributors: @elprogreso, @iammeeoh, @blimpa, @gala, @twblack88
+Contributors: @elprogreso, @iammeeoh, @blimpa, @gala, @twblack88, @LongForWisdom
 Tags: process, core-unit-framework, personnel-xboarding, mip-set, core-unit-framework-mipset
 Type: Process
 Status: Accepted
@@ -148,21 +148,23 @@ MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Templ
 
 Whenever a Core Unit finds itself with no Facilitator, an Interim Facilitator is needed to ensure the continuity or graceful wind-down of the Core Unit.
 
-A Retiring Faciliator may nominate a single Interim Facilitator. Subject to the nominated Interim Facilitator's acceptance, they are immediately ratified as the Interim Facilitator.
+A voluntarily offboarding Faciliator may nominate a single Interim Facilitator. Subject to the nominated individuals acceptance, they are immediately ratified as the Interim Facilitator.
 
 The Facilitators of other Core Units may elect an alternative Interim Facilitator within 72 hours of the initial Facilitator Offboarding using the Interim Facilitator Election Process. In the event an alternative Interim Facilitator is elected, they immediately replace the current Interim Facilitator, if one exists.
 
-The incentive to volunteer as an Interim Facilitator is the compensation tied to a Core Unit unwinding plan. In the event of a missing, failed succession, or headless core unit, the incentive to volunteer as an Interim Facilitator is a transfer of the former Facilitator's compensation during the interim period.
+The incentive to volunteer as an Interim Facilitator is the compensation tied to a Core Unit unwinding plan. In the event of a missing, failed succession, or headless Core Unit, the incentive to volunteer as an Interim Facilitator is a transfer of the former Facilitator's compensation during the interim period.
 
 #### Interim Facilitator Responsibilities And Powers
 
 An Interim Facilitator is empowered to serve in this role for a maximum of two months. 
 
+If a new permanent Facilitator is onboarded to the relevant Core Unit through a MIP41c4 subproposal the Interim Facilitator is immediately offboarded and all powers and responsibilities transferred to the new permanent facilitator.
+
 In the event of a Core Unit offboarding, the Interim Facilitator is responsible for overseeing and executing the unwinding process. 
 
 In the event of a Facilitator offboarding, the Interim Facilitator is responsible for both:
 * Ensuring the functional continuity of the Core Unit during the interim period.
-* Making a good faith effort to deliver one or more viable Facilitator Onboarding subproposals for the Core Unit to Maker Governance.
+* Making a good faith effort to deliver one or more viable Facilitator Onboarding subproposals for the Core Unit to Maker Governance. The Interim Facilitator may propose themselves as a permanent facilitator.
 
 The Interim Facilitator is empowered to use the Facilitator Governance Powers defined in MIP41c2 to keep existing operational processes running smoothly during the interim period.
 
@@ -170,26 +172,25 @@ The Interim Facilitator is empowered to use the Facilitator Governance Powers de
 
 The Interim Facilitator Election Process assumes the existence of one or more permanent Governance Facilitators. If this is not the case, MIP41c6 must be considered non-binding.
 
-An Interim Facilitator may be elected by a majority of Core Units voting in favour of a given individual. The individual must be willing to take the role to be eligible for election. Each Core Unit may cast a single vote for or against each candidate. In the event of a Core Unit containing multiple facilitators, they must come to consensus on their Core Unit's votes before communicating them publicly.
+A single Interim Facilitator may be elected by a majority of Core Units voting in favor of a given individual. The individual must be willing to take the role to be eligible for election. Each Core Unit may cast a single vote for or against each candidate. In the event of a Core Unit containing multiple facilitators, they must come to a consensus on their Core Unit's votes before communicating them publicly.
 
-In the absence of succesful Interim Facilitator selection or election within 72 hours, one or more permanent facilitator onboarding proposals may be made under the next weekly governance cycle. This overrides the normal rules relating to the feedback and frozen periods.
+In the absence of a successful Interim Facilitator selection or election within 72 hours, one or more permanent facilitator onboarding proposals may be submitted into the weekly governance cycle. This overrides the normal rules relating to the feedback and frozen periods.
 
-The Governance Facilitators are responsible for the implementation of this proces. A majority of  Governance Facilitators may modify this process to suit the circumstances by communicating details and reasoning publicly prior to the beginning of the process. 
+The Governance Facilitators are responsible for the implementation of this process. A majority of Governance Facilitators may modify this process to suit the circumstances by communicating details and reasoning publicly before starting the process.
 
-Core Unit Facilitators should refrain from casting votes prior to the Governance Facilitators publicly communicating the details of the process's implementation. 
-
+Core Unit Facilitators should refrain from casting votes before the Governance Facilitators publicly communicate the details of the process's implementation. 
 
 #### Edge Cases
 
-If a Retiring Facilitator has not nominated an Interim Facilitator, the other Core Unit Facilitators must use the Interim Facilitator Election Process to elect an Interim Facilitator.
+If a voluntarily offboarding Facilitator has not nominated an Interim Facilitator, the other Core Unit Facilitators must use the Interim Facilitator Election Process to elect an Interim Facilitator.
 
-If a permenant facilitator is missing and uncontactable without notice and for unknown reasons, a majority of Governance Facilitators must use their best judgement as how to proceed with this process.
+If a permanent Facilitator is missing and uncontactable without notice and for unknown reasons, a majority of Governance Facilitators must use their best judgment as to how to proceed with this process.
 
 If a Core Unit has no active Facilitators as a result of involuntary offboarding and has no active budget, no Interim Facilitator will be appointed unless there are winding down activities that require one.
 
-If a permament Facilitator has not been chosen prior to the expiry of an Interim Facilitator's two month term, the Core Unit is offboarded, and any budgets revoked. A majority of Governance Facilitators may extend this time-limit by stating publicly that they are doing so, and the reason they are doing so. 
+If a permanent Facilitator has not been chosen before the expiry of an Interim Facilitator's two-month term, the Core Unit is offboarded, and any budgets are revoked. A majority of Governance Facilitators may extend this time limit by stating publicly that they are doing so, and the reasoning for this decision. 
 
-If the full Interim Facilitator Election Process (including the expedited weekly cycle permenent facilitator subproposals) fails to install either an Interim or permenant Facilitator, the Core Unit should be considered offboarded, and any budgets revoked. Appropriate MIP subproposals should be filled out by the Governance Facilitators and marked as Approved without going to vote.
+If the full Interim Facilitator Election Process (including the expedited weekly cycle permanent Facilitator subproposals) fails to install either an Interim or permanent Facilitator, the Core Unit should be considered offboarded, and any budgets revoked. Appropriate MIP subproposals should be filled out by the Governance Facilitators and marked as Approved without going to vote.
 
-If any other edge-cases occur, a majority of Governance Facilitators may resolve them to the best of their ability.
+If any other edge cases occur, a majority of Governance Facilitators may resolve them to the best of their ability.
 
