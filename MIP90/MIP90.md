@@ -37,8 +37,11 @@ At the end of every quarter, the vault will remit collected interest proceeds to
 ## Component Summary
 
 **MIP90c1: Summary of Terms & Transaction Details**
+
 **MIP90c2: Collateral Overview**
+
 **MIP90c3: Legal & Transactional Structure**
+
 **MIP90c4: Technical & Onboarding Considerations**
 
 ## Motivation
