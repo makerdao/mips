@@ -59,7 +59,7 @@ BlockTower Credit principals, Kevin Miao and Jack Carlisle, have a deep history 
 
 ## Specification / Proposal Details
 
-#### **MIP90c1: Summary of Terms & Transaction Details**
+### **MIP90c1: Summary of Terms & Transaction Details**
 
 
 | Term                            | Details                                                                                                                                                                                                                                                                                                                                                                       |
