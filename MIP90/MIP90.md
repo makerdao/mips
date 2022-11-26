@@ -7,7 +7,7 @@ MIP#: 90
 Title: Liquid AAA Structured Credit & Money Market Fund
 Author(s): @BlockTower
 Contributors: 
-Type: Technical
+Type: General
 Status: RFC
 Date Proposed: 2022-10-19
 Date Ratified: XX
