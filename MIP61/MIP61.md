@@ -85,7 +85,7 @@ The intention behind the Performance Modifier is that these parameters be consid
 
 ### MIP61c1: Definitions
 
-- **Recognized Delegates:** Any delegate that has been labelled as a Recognised Delegate by a majority of Governance Facilitators according to a public and consistently applied criteria.
+- **Recognized Delegates:** Any delegate that has been labelled as a Recognized Delegate by a majority of Governance Facilitators according to a public and consistently applied criteria.
 
 ### MIP61c2: Compensation Formula and Process
 
@@ -108,7 +108,7 @@ In practice, the Governance Facilitators will calculate compensation for Recogni
 
 #### Performance Modifier
 
-"Governance Facilitators track participation and communication metrics for each Recognized Delegate over a 120-day rolling window. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognised Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`. A few parameters are used to determine the effect of the Performance Modifier.
+"Governance Facilitators track participation and communication metrics for each Recognized Delegate over a 120-day rolling window. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognized Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`. A few parameters are used to determine the effect of the Performance Modifier.
 
 For Participation, a score of 100% would mean that a Delegate has voted in all possible polls over the shorter of 1) the previous 120 days, or 2) since becoming a Recognized Delegate. GovAlpha tracks Participation in Governance Polls and Executive Votes separately and also tracks a combined overall participation rating.
 
