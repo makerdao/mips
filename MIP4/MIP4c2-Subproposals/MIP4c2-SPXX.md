@@ -1,4 +1,4 @@
-# MIP4c2-SPXX: Amend Interim Facilitator Selection Process
+# MIP4c2-SPXX: Amend Interim Facilitator Appointment Process
 
 ## Preamble
 
@@ -22,7 +22,7 @@ The existing interim facilitator process has proved to be less than ideal when a
 
 This change should be valid for an amendment as the changes are limited in scope to a single process defined completely in MIP41.
 
-This change should not impact any any other MIPs. 
+This change should not impact any other MIPs. 
 
 ### Amended MIPs and Components
 - Amended MIP41c3 - Minor fix of wording to clarify that Governance Facilitators determine whether any exercised Facilitator Governance Powers are related to the relevant Core Unit.
@@ -32,22 +32,29 @@ This change should not impact any any other MIPs.
 ### Patch Notes
 
 **Interim Facilitators**
-* Limit number of interim facilitators to one. This also limits the nominations to one. The incentive for acting as an interim facilitator is the compensation that would have been due the facilitator. Having multiple interim facilitators creates ambiguity around how this incentive is managed. In practice, the interim facilitator needs to act as a contact with governance and decision-maker, these requirements do not require more than a single interim facilitator.
+* Limit the number of interim facilitators to one. This also limits the nominations to one. The incentive for acting as an interim facilitator is the compensation that would have been due to the facilitator. Having multiple interim facilitators creates ambiguity around how this incentive is managed. In practice, the interim facilitator needs to act as a contact with governance and decision-maker, these requirements do not require more than a single interim facilitator.
 * Maximum time an Interim Facilitator can serve is 2 months, this can be extended by a majority of governance facilitators at any time during the appointment via public communication of reasoning. This helps ensure that we never end up with a permanent Interim Facilitator.
-* Interim Facilitators are now responisible for making a good faith effort to find a permanent replacement (if the core unit is not being shut down.)
+* Interim Facilitators are now responsible for making a good-faith effort to find a permanent replacement (if the core unit is not being shut down.)
 * Interim Facilitator compensation is more explicitly worded now: Equal to the previous facilitator's compensation (if it was publicly known) or 15,000 DAI per month.
 
 **Appointment Process**
-* Gives Governance Facilitators more explict power to modify the appointment process to suit circumstances.
+* Gives Governance Facilitators more explicit power to modify the appointment process to suit circumstances.
 * Voluntary offboarding facilitators may nominate a single interim facilitator, which is immediately actioned. This is intended to reduce the period of uncertainty.
 * Other Core Units may elect a willing interim facilitator within 72 hours of this automatic appointment. If they do so, the initial choice by the outgoing facilitator is replaced. This gives other Core Units the power to override the outgoing facilitator if they deem it necessary or prudent.
-* Core Units get a single vote on each candidate, cast by agreement of the facilitators of that core unit. This prevents the case where certain core units have more voting power than others, and removes this incentive to onboard multiple facilitators.
-* If no interim facilitator exists after 72 hours, Maker Governance may onboard a permenent facilitator using the weekly process via subproposal disregarding feedback and frozen periods.
-* If after one month, the core unit has neither an interim facilitator, or permanent facilitator, it is considered offboarded and its budgets reokved. 
+* Core Units get a single vote on each candidate, cast by agreement of the facilitators of that core unit. This prevents the case where certain core units have more voting power than others and removes this incentive to onboard multiple facilitators.
+* If no interim facilitator exists after 72 hours, Maker Governance may onboard a permanent facilitator using the weekly process via subproposal disregarding feedback and frozen periods.
+* If after one month, the core unit has neither an interim facilitator nor permanent facilitator, it is considered offboarded and its budgets revoked. 
 
 **Edge Cases**
-* A number of edges cases are detailed in the MIP that I believe cover most reasonable scenarions.
+* Several edge cases are detailed in the MIP that I believe covers the most likely scenarios.
 * Governance Facilitators are explicitly empowered to resolve edge cases that were not anticipated. 
+
+**General Note on Governance Involvement**
+* This change reduces the input Maker Governance has over interim facilitator selection in favor of speed and maintaining continuity. 
+* Empowering the existing facilitators in this way should be safe given:
+	* The power Maker Governance exercises over funds.
+	* A majority of Facilitators are honest actors.
+	* Interim Appointments are time-limited.
 
 ### Amendment Pull Request
 
