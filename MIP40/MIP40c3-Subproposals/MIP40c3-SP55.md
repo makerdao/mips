@@ -6,7 +6,7 @@
 MIP40c3-SP#: 55
 Author(s): @wouter, @juanjuan
 Contributors: @Retro
-Tags: core-unit, cu-ses-001, budget, dai-budget, active 
+Tags: core-unit, cu-ses-001, budget, dai-budget 
 Status: Accepted
 Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
@@ -190,3 +190,4 @@ The details for the Grants Program are still being worked out. To avoid updating
 * [MIP39c2-SP10: Adding the Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368 ): 
 * [MIP40c2-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget ](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043) 
 * [MIP41c2-SP10: Facilitator On-boarding for the Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
+

@@ -8,13 +8,14 @@ Title: Monetalis - Arrow Andalusian
 Author(s): @Allan_Pedersen , @Wrongcomma
 Contributors: 
 Type: General
-Status: Formal Submission
+Status: Withdrawn
 Date Proposed: 2022-10-12
-Date Ratified: XX
+Date Ratified: N/A
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip89-monetalis-arrow-andalusian/18338 
-Ratification Poll URL: XX
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdPooRY
+Extra: Despite passing, MIP89: Monetalis - Arrow Andalusian has been withdrawn by its author. Since @Allan_Pedersen represents one of the three parties other than MakerDAO involved in the workings of this MIP, it has been rendered non-executable and will be marked as withdrawn.
 ```
 
 ## References
@@ -293,3 +294,4 @@ The vault must provide:
 * Debt Ceiling of DAI 300 million.
 * Stability Fee of 0% (surplus is paid manually through the legal structure, as specified in MIP89c1)
 * All other parameters must be set to ensure they have no functional impact.
+

@@ -7,13 +7,13 @@ MIP40c3-SP: #86
 Author(s): @simonkp, @dumitru
 Contributors: @lukaszb, @Artautas
 Tags: core-unit, tech-001, core-unit-budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2022-10-10
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 Budget Start Date: 2023-02-01
 Budget End Date: 2024-01-31
-Forum URL:
-Ratification Poll URL: https://forum.makerdao.com/t/mip40c3-sp86-modify-techops-core-unit-dai-budget/18290
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp86-modify-techops-core-unit-dai-budget/18290
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPbbh7F
 ```
 
 ## Sentence Summary

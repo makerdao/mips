@@ -8,13 +8,13 @@ Title: Monetalis - Redwood Friesian
 Author(s): @Allan_Pedersen @Sequoia_RMBS
 Contributors: 
 Type: General
-Status: Formal Submission
-Date Proposed: 2022-12-10
-Date Ratified: XX
+Status: Accepted
+Date Proposed: 2022-10-12
+Date Ratified: 2022-11-28
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip88-monetalis-redwood-friesian/18336
-Ratification Poll URL: XX
+Ratification Poll URL: https://vote.makerdao.com/polling/QmYsXVSx
 ```
 
 ## References
@@ -261,3 +261,4 @@ For certain information relating to U.S. federal income tax and certain other re
 **c4.11** The comparative pricing information included in the table titled “MBS ETF Yield Comps” is hypothetical and provided for discussion purposes only.  The values provided in the table titled “MBS ETF Yield Comps” are current as of the date noted, and are not based on any specific pool of mortgage loans or any specific RMBS offering.  Terms for a future transaction will be updated to reflect final mortgage loan pool and current market pricing and will be set forth in the Preliminary Offering Memorandum and Final Offering Memorandum prepared in connection with the issuance of any Sequoia RMBS, and may materially vary from the values provided in the table titled “MBS ETF Yield Comps”. 
 
 **c4.12** The collateral information included in the table titled “Sequoia RMBS – Hypothetical Mortgage Loan Pool” is based on a hypothetical mortgage loan pool and not a specific Sequoia RMBS offering.  The mortgage loan attributes described in this table are provided for illustrative purposes only to give an idea of the types of general collateral characteristics a future Sequoia RMBS mortgage loan pool may have (all of which may change materially). Terms for a future transaction will be updated to reflect a final mortgage loan pool and will be set forth in the Preliminary Offering Memorandum and Final Offering Memorandum prepared in connection with the issuance of any Sequoia RMBS.
+

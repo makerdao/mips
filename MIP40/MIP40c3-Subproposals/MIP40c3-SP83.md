@@ -7,12 +7,13 @@ MIP40c3-SP#:83
 Author(s): @psychonaut
 Contributors: @travinimmunefi
 Tags: core-unit, cu-is-001, budget, dai-budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2022-10-04
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 
 Budget Start Date: 2022-12-01
 Budget End Date: 2023-12-01
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp83-immunefi-security-core-unit-budget-renewal-is-001/18209
+Ratification Poll URL: https://vote.makerdao.com/polling/QmeYD9nA
 ```
 
 ## Sentence Summary
@@ -175,3 +176,4 @@ Where named, these individuals act as representatives of their respective corpor
 ### Related documents
 
 - [Mandate refresh](https://forum.makerdao.com/t/mip39c2-spxx-immunefi-security-core-unit-refresh-is-001/18208)
+

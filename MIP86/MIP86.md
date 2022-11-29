@@ -9,11 +9,12 @@ Author(s): @CoinSharesCo
 Contributors: @jmmognetti
 Tags: PSM
 Type: General
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-09-13
-Date Ratified:
+Date Ratified: 2022-11-28
 Dependencies: MIP13c3-SP12
 Forum URL: https://forum.makerdao.com/t/mip86-coinshares-usdc-institutional-rewards/17900
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXpRmAP
 ```
 
 ## Sentence Summary
