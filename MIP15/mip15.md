@@ -66,7 +66,8 @@ A dark spell is necessary because it conceals the bytecode that fixes the critic
 
 ## Specification / Proposal Details
 
-**MIP15c1: Definitions**
+### MIP15c1: Definitions
+
 - **Critical bug:** a bug that, if exploited, would result in significant economic damage to the system, is feasible for an attacker to exploit against the Ethereum mainnet either now or in the near future, with the system in normal operational mode.
 - **Spell:** A spell is an un-owned object that performs one action or a series of atomic actions (multiple transactions) one time only to the Maker protocol.
 - **Dark Spell:** A special spell using an opcode that allows the address of a spell to be pre-determined before deployment.
@@ -74,7 +75,7 @@ A dark spell is necessary because it conceals the bytecode that fixes the critic
 
 ---
 
-**MIP15c2: Dark Spell Process Overview**
+### MIP15c2: Dark Spell Process Overview
 
 **Summary:**
 The Dark Spell mechanism occurs over seven main steps and involves four key stakeholders.
@@ -97,7 +98,7 @@ The Dark Spell mechanism occurs over seven main steps and involves four key stak
 
 ---
 
-**MIP15c3: Dark Spell Requirements**
+### MIP15c3: Dark Spell Requirements
 
 **Criteria for whether a critical vulnerability necessitates a dark spell fix:**
 
@@ -109,7 +110,7 @@ If all of the above criteria are met, the step-by-step process outlined in MIP15
 
 ---
 
-**MIP15c4: Dark Spell Governance Vote**
+### MIP15c4: Dark Spell Governance Vote
 
 A dark spell should be used only in exigent circumstances. Therefore, the dark spell will be expedited through the Maker governance process via a separate vote, unbundled from any other proposed Protocol changes or Maker Improvement Proposals. This additional process is intended to give the dark spell governance vote the greatest chance of success, as voters will be voting on a specific, individual issue.
 
@@ -138,7 +139,7 @@ The poll is expedited and will run for twenty-four (24) hours.
 
 ---
 
-**MIP15c5: Policy**
+### MIP15c5: Policy
 
 In the event a **critical bug** is discovered in the current Multi-Collateral Dai deployment, the SC domain team will develop and test the dark spell. The SC team is required to give notice to the community, providing as much information as possible about the bug's impact, limited by the need to maintain secrecy.
 
