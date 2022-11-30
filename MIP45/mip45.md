@@ -136,11 +136,11 @@ The address of the accounting system contract. The recipient of the bad debt com
 
 In the context of the Maker protocol, a "liquidation" is the automatic transfer of collateral from an insufficiently collateralized Vault, along with the transfer of that Vault's debt to the protocol. In both the current liquidation contract (the `Cat`) and the 2.0 version (the `Dog`), an auction is started promptly to sell the transferred collateral for DAI in an attempt to cancel out the debt now assigned to the protocol. This makes the behavior of the new contract very similar to that of the current one, but there are some important differences, explained below.
 
-#### MIP45c3 Partial vs. Total Liquidations
+### MIP45c3 Partial vs. Total Liquidations
 
 In the current system, in each call to the liquidation function (`Cat.bite`) transfers a fixed amount of debt (the `dunk`) from the affected Vault, along with a proportional amount of the Vault's collateral to the protocol. For example, if 50% of a Vault's debt is taken by the protocol, then half of its collateral is taken as well. If the Vault's debt is less than the `dunk`, then all debt and collateral is taken. In 2.0, all debt is taken when the liquidation function (`Dog.bark`) is called, and no analogue of the `dunk` parameter exists. The reasoning behind this change is that because the new auctions allow partial purchases of collateral, the liquidity available to a participant no longer limits their ability to participate in auctions, so instead the total number of auctions should be minimized.  Just to emphasize, there is no longer a minimum DAI liquidity requirement for the sale of collateral on a per-participant basis.
 
-#### MIP45c4 Limits on DAI Needed to Cover Debt and Fees of Active Auctions
+### MIP45c4 Limits on DAI Needed to Cover Debt and Fees of Active Auctions
 
 In situations involving large amounts of collateral at auction, the current and new designs modify the behavior described in the previous section. Both liquidations 1.2 and 2.0 implement a limit on the total amount of DAI needed to cover the summed debt and liquidation penalty associated with all active auctions.  In `LIQ-1.2` this is called the `box`, and in `LIQ-2.0` we call this the `Hole`.  Whenever the maximum possible addition to this value is less than the amount of debt+fees that would otherwise be sent to auction, a partial liquidation is performed so as not to exceed this amount. In the current system there is only a global limit; in 2.0, in addition to the global limit, there is also a per-collateral limit.  Similar to how there is an `ilk.line` for a collateral's debt ceiling and a `Line` for the overall system debt ceiling, there is now an `ilk.hole` to correspond with the `Hole`.  This ensures that typical market depth against DAI can be taken into account on a per-collateral basis by those determining risk parameters. The `Dirt` accumulator tracks the total DAI needed to cover the debt and penalty fees of all active auctions, and must be less than `Hole` for a call to `bark` to succeed. For each collateral type, `ilk.dirt` tracks the total DAI needed to cover the debt and penalty fees of a all active auctions for that `ilk`, and must be less than `ilk.hole` for a call to `bark` (on a Vault of that `ilk`) to succeed.
 
@@ -243,26 +243,26 @@ After the external call completes (or immediately following the transfer of coll
 
 Lastly, various values are updated to record the changed state of the auction: the DAI needed to cover debt and fees for outstanding auctions, and outstanding auctions of the given collateral type, are reduced (via a callback to the liquidator contract) is reduced by `owe`, and the `tab` (DAI collection target) and `lot` (collateral for sale) of the auction are adjusted as well. If all collateral has been drained from an auction, all its data is cleared and it is removed from the active auctions list. If collateral remains, but the DAI collection target has been reached, the same is done and excess collateral is returned to the liquidated Vault.
 
-#### MIP45c9 Example Liquidation
+### MIP45c9 Example Liquidation
 
 ![](https://i.imgur.com/BgOFMyZ.gif)
 **Figure MIP45c9.1**: NOTE: in the above figure, `tau` is `tail`.
 
 In this example we can see a linear decrease function (`calc`), with an `ETH-A` OSM price of **200 DAI**, a `buf` of **20%**, a `tail (tau)` of **21600** seconds, a `tab` of ***60,000 DAI** with a `lot` of `347.32` ETH.  There are two bidders, **Alice** and **Bob**.  **Alice** calls `take` first and is willing to give ***50,000 DAI** in return for **256.41** ETH collateral, a price of **195 DAI** per ETH.  The price of ETH continues to fall over time, and **Bob** picks up the remaining **90.91** ETH for **10,000 DAI**, a price of **110 DAI** per ETH.  If more than `tail` seconds have elapsed since the start of the auction, or if the price has fallen to less than `cusp` percent of `top`, then `Clipper.take` would revert if called, and the auction would need to be reset with a `Clipper.redo` call.
 
-#### MIP45c10 Features
+### MIP45c10 Features
 
 As discussed previously, collateral auctions are being changed from English to Dutch style. The current auction functionality is described in the official Maker documentation; here, we will focus on the new Dutch design, and only reference some contrasting points relative to the current design.
 
-##### MIP45c11 Instant Settlement
+### MIP45c11 Instant Settlement
 
 Unlike the current English auctions, in which DAI bids are placed, with a participant's capital remaining locked until they are outbid or until the auction terminates, Dutch auctions settle instantly. They do so according to a price calculated from the initial price and the time elapsed since the auction began. Price versus time curves are discussed more later. The lack of a lock-up period mitigates much of the price volatility risk for auction participants and allows for faster capital recycling.
 
-##### MIP45c12 Flash Lending of Collateral
+### MIP45c12 Flash Lending of Collateral
 
 This feature, enabled by instant settlement, eliminates any capital requirement for bidders (excepting gas)—in the sense that even a participant with zero DAI (and nothing to trade for DAI) could still purchase from an auction by directing the sale of the auction's collateral into other protocols in exchange for DAI. Thus, all DAI liquidity available across DeFi can be used by any participant to purchase collateral, subject only to gas requirements. The exact mechanics are discussed above, but essentially a participant needs to specify a contract `who` (which conforms to a particular interface), and `calldata` to supply to it, and the auction contract will automatically invoke whatever logic is in the external contract.
 
-##### MIP45c13 Price as a Function of Time
+### MIP45c13 Price as a Function of Time
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/abaci.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/abaci.sol)
 
@@ -270,7 +270,7 @@ Price-versus-time curves are specified through an interface that treats price at
 
 It is important for bidders to take into account that while the price almost always decreases with time, there are infrequent occasions on which the price of an active auction may increase, and this could potentially result in collateral being purchased at a higher price than intended. The most obvious event that would increase the price in a running auction is if that auction is reset (via `redo`), but changes to the configurable parameters of a price decrease calculator (or even the switching out of one calculator for another) by governance can also increase the price. It is recommended that bidders (or bidding UIs that abstract this detail away from the user) choose the maximum acceptable price (`max`) argument to `take` carefully to ensure a desirable outcome if the price should unexpectedly increase.
 
-##### MIP45c14 Resetting an Auction
+### MIP45c14 Resetting an Auction
 
 As mentioned above, auctions can reach a defunct state that requires resetting for two reasons:
 
@@ -279,11 +279,11 @@ As mentioned above, auctions can reach a defunct state that requires resetting f
 
 The reset function, when called, first ensures that at least one of these conditions holds. Then it adjusts the starting time of the auction to the current time, and sets the starting price in exactly the same way as is done in the initialization function (i.e., the current OSM price increased percentage-wise by the `buf` parameter). This process will repeat until all collateral has been sold or the whole debt has been collected (unless the auction is canceled via `yank`, e.g., during Emergency Shutdown); contrast this behavior with the current auctions, which reset until at least one bid is received.
 
-##### MIP45c15 Improved Keeper Wallet Security
+### MIP45c15 Improved Keeper Wallet Security
 
 If keepers decide to use the `clipperCallee` pattern, then they need not store DAI or collateral on that account.  This means a keeper need only hold enough ETH to execute transactions that can orchestrate the `Clipper.take` call, sending collateral to a contract that returns DAI to the `msg.sender` to pay for the collateral all in one transaction.  The contract implementing the `clipperCallee` interface can send any remaining collateral or DAI beyond `owe` to a cold wallet address inaccessible to the keeper. **NOTE: If the keeper chooses to behave as an EOA address, then the DAI and collateral would be exposed just as in `LIQ-1.2` unless special care is taken to create a proxy contract.**
 
-## MIP45c16 Incentive to call `redo()`
+### MIP45c16 Incentive to call `redo()`
 
 [https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol](https://github.com/makerdao/dss/blob/liq-2.0/src/clip.sol)
 
@@ -499,7 +499,7 @@ function yank(uint256 id) external;
 ```
 (Authenticated) Allows an auction to be removed during Emergency Shutdown or via a governance action.
 
-## Known Risks
+#### Known Risks
 
 This section covers some of the known risks with Liquidations 2.0
 
@@ -548,7 +548,7 @@ While `Dog.Hole` and `ilk.hole` can be set much higher in liquidations 2.0, ther
 
 If we set either `Dog.Hole` or `ilk.hole` too low, we run the risk of not being able to liquidate enough collateral at once.  This could lead to a buildup of undercollateralized positions in the system, eventually causing the accrual of bad debt.
 
-### Auction Parameter Changes Affect Running Auctions
+#### Auction Parameter Changes Affect Running Auctions
 
 Parameters, e.g., `tail`, `cusp`, or the price decrease function or any of its parameters, can be changed at any time by governance and will affect the behavior of running auctions. Integrators should take this possibility into account, reasoning through how sudden changes in parameters would impact their bidding strategies. Governance should endeavor to change parameters infrequently and if possible, only when there are not any auctions that will be affected.
 
