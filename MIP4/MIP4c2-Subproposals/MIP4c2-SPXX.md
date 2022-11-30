@@ -1,15 +1,15 @@
-# MIP4c2-SPXX: Amend Interim Facilitator Appointment Process
+# MIP4c2-SP30: Amend Interim Facilitator Appointment Process
 
 ## Preamble
 
 ```
-MIP4c2-SP#: XX
-MIP to be amended: MIP41
+MIP4c2-SP#: 30
+MIP to be amended: 41
 Author(s): @LongForWisdom
-Contributors:
-Tags: template
+Contributors: @Patrick_J
+Tags: interim-facilitator, mip-amendment
 Status: RFC
-Date Proposed: <yyyy-mm-dd>
+Date Proposed: 2022-11-28
 Date Ratified: <yyyy-mm-dd>
 ```
 ## Specification
