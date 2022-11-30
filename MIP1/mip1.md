@@ -16,6 +16,7 @@ Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL: 
 Forum URL: https://forum.makerdao.com/t/mip1-maker-governance-paradigms/1903
+Extra: The Problem Space has been amended. See [MIP1c4-SP1](https://mips.makerdao.com/mips/details/MIP1c4SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/2634c131f47136e50ded3406728630e0f97a3b45/MIP1/mip1.md).
 ```
 
 ## References
