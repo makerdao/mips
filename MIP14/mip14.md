@@ -56,7 +56,8 @@ Less reliance on the Foundation moves the protocol towards decentralization. Cre
 
 ## Specification / Proposal Details
 
-**MIP14c1: Considerations Regarding Protocol DAI Transfers**
+### MIP14c1: Considerations Regarding Protocol DAI Transfers
+
 There are several important considerations to take into account before transferring value out of the Maker Protocol.
 
 * Transfer of DAI from the protocol to an external address that is not controlled by Maker Governance is a one-way operation.
@@ -64,7 +65,8 @@ There are several important considerations to take into account before transferr
 * If there is insufficient DAI available in the surplus buffer unbacked DAI will be created and FLOP auctions will be able to be triggered immediately.
 * If there is a more specific process MIP that allows DAI transfers that is more appropriate to the use case, use that process instead.
 
-**MIP14c2: Protocol DAI Transfer Process**
+### MIP14c2: Protocol DAI Transfer Process
+
 MIP14c2 is a Process MIP component that allows Maker Governance to transfer DAI from the Maker Protocol to a target Ethereum address. Note that MIP14c2 subproposals are technical subproposals, they define executive code that transfers DAI from the Maker Protocol to one or more target addresses.
 
 If a MIP14c2 subproposal is Accepted, The DAI Transfer is appended to the list in MIP14c3 by a MIP Editor.
@@ -90,7 +92,8 @@ If a MIP14c2 subproposal would result in a FLOP auction, Governance Facilitator(
 
 MIP14c2 subproposals must use the template located at  **[MIP14c2-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP14/MIP14c2-Subproposal-Template.md)** . This template is considered ratified once this MIP moves to Accepted status.
 
-**MIP14c3: Protocol DAI Transfer List**
+### MIP14c3: Protocol DAI Transfer List
+
 This list can be amended through subproposals created under MIP14c2.
 
 **List Entry Template**  Entries into this list should follow the following template:
@@ -116,7 +119,8 @@ Recipient Address: 0x0000000000000000000000000000000000000000
 Total DAI Processed by MIP14 to date: 1,000,000
 ```
 
-**MIP14c4: Protocol DAI Transfer Ceiling**
+### MIP14c4: Protocol DAI Transfer Ceiling
+
 MIP14c4 sets the maximum amount of DAI that can be transferred in total from the protocol using this process. MIP14c2 subproposals will not be eligible if they cause the historic amount of DAI transferred from the protocol to exceed the ceiling, which will be initially set to 250,000 DAI and can be modified by MIP14c4 subproposal  
 
 **DAI Transfer Ceiling Adjustment**
