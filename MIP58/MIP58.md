@@ -182,6 +182,11 @@ Address:
 ```
 
 **Active RWA Foundations List**
+```
+Legal entity name: RWA Foundation
+Company No: 381281
+Address: Silverside Management Ltd., Whitehall Chambers, 2nd Floor Whitehall House, 238 North Church Street, George Town, Cayman Islands
+```
 
 ### MIP58c4: Generic DAO Resolution
 
