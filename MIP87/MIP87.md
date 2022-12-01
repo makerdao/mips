@@ -11,7 +11,7 @@ Tags: PSM
 Type: General
 Status: Rejected
 Date Proposed: 2022-10-04
-Date Ratified: 2022-11-28
+Date Ratified:
 Dependencies: MIP86, MIP81, GUSD PSM, MIP13c3-SP12
 Forum URL: https://forum.makerdao.com/t/mip87-ousd-decentralized-rewards/18216
 Ratification Poll URL: https://vote.makerdao.com/polling/QmZKwbhJ
@@ -156,4 +156,5 @@ In November 2020, OUSD was exploited for $7M in funds. The DApp at the time incl
 A variety of safeguards and precautions have since been implemented to prevent future exploits, including constant audits and code reviews. Origin code reviews are incredibly rigorous; we require at least two engineers to review each change with a detailed checklist and we prioritize security reviews over new feature development. We have also formalized an engineering rotation for reviewing attacks on other projects. Origin is currently one of only six projects to receive a [AAA rating](https://app.insurace.io/coverage/buycovers) on the decentralized insurance protocol, InsurAce.
 
 We invite the full MakerDAO community to comment on this MIP as we strive to follow Maker’s decentralized principles and enable financial opportunity for all.
+
 
