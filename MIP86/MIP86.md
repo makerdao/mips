@@ -9,11 +9,12 @@ Author(s): @CoinSharesCo
 Contributors: @jmmognetti
 Tags: PSM
 Type: General
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-09-13
 Date Ratified:
 Dependencies: MIP13c3-SP12
 Forum URL: https://forum.makerdao.com/t/mip86-coinshares-usdc-institutional-rewards/17900
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXpRmAP
 ```
 
 ## Sentence Summary
@@ -364,3 +365,4 @@ Any forward-looking statements speak only as of the date they are made, and Coin
 This content is not directed at nor intended for use by the MakerDAO community (“MakerDAO”), and may not under any circumstances be relied upon when making an investment decision. The digital assets referenced herein currently face an uncertain regulatory landscape in not only the United States but also in many foreign jurisdictions, including but not limited to the UK, European Union, Singapore, Korea, Japan, and China. For guidance regarding the possibility of said risks, one should consult with his or her own appropriate legal and/or regulatory counsel. Charts and graphs provided within are for informational purposes solely and should not be relied upon when making any decision. The content speaks only as of the date indicated. Any projections, estimates, forecasts, targets, prospects, and/or opinions expressed in these materials are subject to change without notice and may differ or be contrary to opinions expressed by others.
 
 The proposed service is subject to risks, including the risk of capital loss, discretionary management risk, credit risk, counterparty risk, currency risk, and liquidity risk.
+

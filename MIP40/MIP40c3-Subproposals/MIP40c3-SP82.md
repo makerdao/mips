@@ -5,13 +5,15 @@
 ```
 MIP40c3-SP#: 82
 Author(s): Deniz Yilmaz (@0xdeniz)
-Tags: core-unit, cu-dux-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-dux-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2022-09-02
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-11-28
 Budget Start Date: 2023-02-01
 Budget End Date: 2024-01-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp82-development-ux-core-unit-budget-dux-001/17611
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdhJVvN
+Extra: Winning option was Option 2, NewBase.
 ```
 
 ## Sentence Summary
@@ -234,3 +236,4 @@ This MIP40c3 subproposal provides the following budget options, fully described 
 * [Latest DUX CU Budget MIP](https://mips.makerdao.com/mips/details/MIP40c3SP52#paragraph-summary)
 * [Latest DUX CU Monthly Update post](https://forum.makerdao.com/t/dux-monthly-update-july-2022/17005)
 * [Latest DUX CU Roadmap Spotlight post](https://forum.makerdao.com/t/dux-roadmap-spotlight-q3-2022/16372)
+
