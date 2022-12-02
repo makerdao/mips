@@ -77,7 +77,7 @@ The only connection is through `dss-vest`, where Keeper Networks are allocated a
 
 #### Keeper Duties and Expectations
 
-It is expected that Keeper Networks will be able to appropriate stream in their budget to be within the requested buffer min and max values. Any excess DAI beyond the max should be returned to the surplus buffer, and the network should act in a timely manor to replenish DAI if the buffer drops below the min value. If the DAI in the buffer consistently is dropping below the min value then a new application should be submitted to increase the budget.
+It is expected that Keeper Networks will be able to appropriate stream in their budget to be within the requested buffer min and max values. Any excess DAI beyond the max should be returned to the surplus buffer, and the network should act in a timely manner to replenish DAI if the buffer drops below the min value. If the DAI in the buffer is consistently running out then a new application should be submitted to increase the budget.
 
 Keeper Networks are expected to be able to utilize the DAI to pay for gas. Maker will not be streaming ETH or other gas tokens.
 
@@ -86,6 +86,8 @@ Keeper Networks should have a mechanism for receiving one-time payments. This ca
 Keeper Networks are expected to track all active `IJob` contracts, and execute any of them if they return a successful response (budget permitting). Consistent failure to execute an available action when it is your turn may result in an Offboarding application.
 
 Keeper Networks are expected to "play nice". There is no smart contract enforcement of taking turns, and declaring yourself as a certain network. Instead this is enforced by off-chain monitoring and potentially revoking budgets. This "play nice" strategy is necessary to save a lot of gas and reduce complexity.
+
+If they define a budget, each Keeper Network will need to support an instance of `NetworkPaymentAdapter` which sits between `dss-vest` and the network treasury. Treasuries should report the total buffer size in DAI via the `getBufferSize()` function defined in `INetworkTreasury` interface. This includes any value sitting in tokens other than DAI. Oracle conversion should be done to report the DAI value.
 
 This subproposal process allows keeper networks to apply for an operating budget from the Surplus Buffer.
 
@@ -106,8 +108,9 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 
 > Network Name: The name of the Keeper Network
 > - Short Name: All-caps machine name of the network
+> - Window Size: In Blocks
 > - Budget: DAI / day.
-> - Buffer Min: In DAI
+> - Minimum Payment: In DAI
 > - Buffer Max: In DAI
 > - Address: Address which dss-vest streams DAI to.
 > - Date Added: (yyyy-mm-dd)
@@ -116,16 +119,18 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 
 Network Name: TechOps
 - Short Name: MAKER
+- Window Size: 13
 - Budget: 0 DAI/Day
-- Buffer Min: N/A
+- Minimum Payment: N/A
 - Buffer Max: N/A
 - Address: N/A
 - Date Added: [2022-2-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP1.md)
 
 Network Name: Keep3r Network
 - Short Name: KEEP3R
+- Window Size: 13
 - Budget: 0 DAI/Day
-- Buffer Min: N/A
+- Minimum Payment: N/A
 - Buffer Max: N/A
 - Chain: All
 - Address: N/A
@@ -134,8 +139,9 @@ Network Name: Keep3r Network
 Network Name: Gelato Network
 - Short Name: GELATO
 - Website: https://app.gelato.network/
+- Window Size: 13
 - Budget: 1,000 DAI / day
-- Buffer Min: 4,000 DAI
+- Minimum Payment: 4,000 DAI
 - Buffer Max: 20,000 DAI
 - Chain: All
 - Address: 0x926c21602fec84d6d0fa6450b40edba595b5c6e4
@@ -147,8 +153,8 @@ Network Name: Gelato Network
 Any community member can begin an offboarding process. Reasons for termination include, but are not limited to:
 
  * Network is operating out of order. The network is continually operating out of order with respect to the Sequencer.
-* Network is missing too many keeper actions when it should be executing.
- * Network is not maintaining its budget limits. They frequently go outside of the min/max limit when this is able to be prevented (by streaming more DAI for example).
+ * Network is missing too many keeper actions when it should be executing.
+ * Network is not maintaining its DAI buffer.
 
 The parameters for MIP63c5 subproposals are:
 
