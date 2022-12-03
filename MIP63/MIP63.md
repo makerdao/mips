@@ -110,6 +110,7 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 > - Short Name: All-caps machine name of the network
 > - Window Size: In Blocks
 > - Budget: DAI / day.
+> - Stream Duration: Duration of the stream
 > - Minimum Payment: In DAI
 > - Buffer Max: In DAI
 > - Address: Address which dss-vest streams DAI to.
@@ -121,6 +122,7 @@ Network Name: TechOps
 - Short Name: MAKER
 - Window Size: 13
 - Budget: 0 DAI/Day
+- Stream Duration: N/A
 - Minimum Payment: N/A
 - Buffer Max: N/A
 - Address: N/A
@@ -129,9 +131,10 @@ Network Name: TechOps
 Network Name: Keep3r Network
 - Short Name: KEEP3R
 - Window Size: 13
-- Budget: 0 DAI/Day
-- Minimum Payment: N/A
-- Buffer Max: N/A
+- Budget: 1,000 DAI / day
+- Stream Duration: 6 months
+- Minimum Payment: 4,000 DAI
+- Buffer Max: 20,000 DAI
 - Chain: All
 - Address: N/A
 - Date Added: [2022-3-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP2.md)
@@ -141,6 +144,7 @@ Network Name: Gelato Network
 - Website: https://app.gelato.network/
 - Window Size: 13
 - Budget: 1,000 DAI / day
+- Stream Duration: 6 months
 - Minimum Payment: 4,000 DAI
 - Buffer Max: 20,000 DAI
 - Chain: All
