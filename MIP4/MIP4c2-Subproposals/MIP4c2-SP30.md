@@ -11,6 +11,7 @@ Tags:
 Status: RFC
 Date Proposed: 2022-11-28
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip4c2-sp30-amend-interim-facilitator-appointment-process/18951
 ```
 ## Specification
 
