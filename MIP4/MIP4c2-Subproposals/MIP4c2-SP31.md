@@ -19,7 +19,7 @@ Ratification Poll URL:
 
 ### Motivation
 
-After successful trial run of the beta version of MIP63, there are a few learnings that I want to incorporate for the next iteration. Specifically, more strictly defining how payments are sent and buffers reported as well as changing a few parameters. The Sequencer can also set custom windows per network now.
+After successful trial run of the beta version of MIP63, there are a few learnings that I want to incorporate for the next iteration. Specifically, more strictly defining how payments are sent and buffers reported as well as changing a few parameters. I’ve also added an explicit stream duration as previously this was just assumed to be 6 months. The Sequencer can also set custom windows per network now.
 
 ### Amended MIPs and Components
 
