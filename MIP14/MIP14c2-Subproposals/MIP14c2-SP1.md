@@ -16,10 +16,6 @@ Forum URL: https://forum.makerdao.com/t/mip14c2-sp1-requesting-protocol-dai-tran
 Amount: 138,894 DAI
 ```
 
-## Sentence Summary
-
-MIP14c2-SP1 request a transfer of 138,894 DAI for the TechOps Core Unit, this amount will sustain the team, critical infrastructure, tools and services through February until the new budget can be voted on in March and hopefully start in April.
-
 ## Specification 
 
 ### Sentence Reason
