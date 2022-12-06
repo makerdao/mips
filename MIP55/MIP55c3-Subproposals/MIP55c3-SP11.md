@@ -1,4 +1,4 @@
-# MIP55c3-SP11: Pioneer DeFi-focused language dataset for the benefit of Risk modelling & GovComms
+# MIP55c3-SP11: Pioneer DeFi-focused Language Dataset for the Benefit of Risk Modelling & Governance Communication
 
 ## Preamble
 
@@ -17,17 +17,17 @@ Forum URL: https://forum.makerdao.com/t/mip55c3-sp11-pioneer-defi-focused-langua
 
 ## Sentence Summary
 
-Develop a DeFi-focused dataset for the purpose of fine-tuning language models, which, if integrated, will result in millions of dollars of additional value from more accurate Risk estimates as well as improving Governance Communications.
+Develop a DeFi-focused dataset for the purpose of fine-tuning language models, which, if integrated, will result in millions of dollars of additional value from more accurate Risk estimates as well as improving governance communications.
 
 ## Paragraph Summary
 
-Build the industry's first DeFi-focused dataset. The data will be used to tune a Large Language Model (BLOOM). A fine-tuned model integrated into Maker's pipelines will help gradually relax current Risk CU modeling assumptions, thereby delivering millions of dollars of missed value for the DAO & Maker users. A fine-tuned model may also provide opportunities to expand and improve on written work performed by the GovComms CU. Furthermore, a DeFi-focused dataset offers extensibility across other DAOs.
+Build the industry's first DeFi-focused dataset. The data will be used to tune a Large Language Model (BLOOM). A fine-tuned model integrated into Maker's pipelines will help gradually relax current Risk CU modeling assumptions, thereby delivering millions of dollars of missed value for the DAO & Maker users. A fine-tuned model may also provide opportunities to expand and improve on governance communications. Furthermore, a DeFi-focused dataset offers extensibility across other DAOs. 
 
 ## Motivation
 
-This SPF will fund the creation of industry first DeFi-focused dataset, which will be used to fine-tune general purpose Large Language Models. Such model will be used for the benefit of Maker's Risk Modelling and Governance Communications.
+This SPF will fund the creation of industry first DeFi-focused dataset, which will be used to fine-tune general purpose Large Language Models. Such model will be used for the benefit of Maker's Risk Modelling and governance communications.
 
-I. The new model will augment and extend current Risk CU's Model.
+I. The new model will augment and extend current Risk CU's Model. 
 
 **The goal is to turn Risk CU Model's conservative CONSTs into variables.** *(see appendix for details)*
 
@@ -43,25 +43,23 @@ For instance, *if ETH-A Jump Severity goes from 50% to 45% and Jump Frequency fr
 * *Maximum Debt Ceiling* (Risk Premium = 10%) goes *$410M -> $570M*;
 * *Capital at Risk* goes *$958,217 -> $383,287*.
 
-II. A Large Language Model fine-tuned on this dataset for DeFi sentiment analysis could also be integrated into GovComms' pipeline for the purposes of improved topic identification and research ([more on the need covered here](https://forum.makerdao.com/t/wanted-researcher/18561)) as well as social sentiment analysis.
+II. A Large Language Model fine-tuned on this dataset for DeFi sentiment analysis could also be integrated into the governance communication pipeline for the purposes of improved topic identification and research ([more on the need covered here](https://forum.makerdao.com/t/wanted-researcher/18561)) as well as social sentiment analysis.
 
 III. As the industry's first DeFi-focused language model, it opens up a number of collaboration opportunities with other DAOs and DeFi protocols, who can benefit from better identifying risk, improving marketing techniques, and preserving brand reputation.
 
-I'm collaborating with Risk CU and GovComm CU on the proposal.
-
 ---
 
-This project is a continuation of the work on *web3 native* intelligence.
+This project is a continuation of the work on *web3 native* intelligence. 
 
 [In the previous proof-of-concept step I showed](https://forum.makerdao.com/t/towards-web3-native-intelligence-tools-for-protocol-comprehension-and-stewardship/15642) that the UST stablecoin crash in May could have been predicted by significant downward movement in UST sentiment beginning mid April, which resulted in the gradual loss of confidence => panic => bank run => death spiral supported by the mechanics of the protocol.
 
-However, DeFi conversation on Twitter/Discord/Discourse is full of domain-specific slang, nuances, deep context. A general purpose model must natively understand these details to output the most adequate results. Moreover, the SemEval-2017-4A dataset, used for fine-tuning on the previous step, contains only 50k tweets.
+However, DeFi conversation on Twitter/Discord/Discourse is full of domain-specific slang, nuances, deep context. A general purpose model must natively understand these details to output the most adequate results. Moreover, the SemEval-2017-4A dataset, used for fine-tuning on the previous step, contains only 50k tweets. 
 
 A bigger and more native fine-tuning dataset will improve accuracy of our model for sentiment detection and summarisation tasks.
 
 ## Special Purpose Fund Name
 
-Pioneer DeFi-focused language dataset for the benefit of Risk modelling & GovComms
+Pioneer DeFi-focused language dataset for the benefit of Risk modelling & governance communication
 
 ## Special Purpose Fund Scope & Work Credentials
 
@@ -82,7 +80,7 @@ Fund the steps from the previous paragraph as follows:
  4.2 8000 DAI after round 10;
  4.3 8000 DAI after round 15;
  4.4 8000 DAI after round 20.
-
+ 
 ### Special Purpose Fund Details
 
 ```
@@ -91,4 +89,5 @@ Contact Email/Handle: @pvl
 Date Added: (yyyy-mm-dd)
 Total Amount: 50,000 DAI
 Wallet Address: Public wallet address of Multi-Sig.
-Comptroller signers: @Patrick_J, TBD
+Comptroller signers: @Patrick_J, @Retro
+```
