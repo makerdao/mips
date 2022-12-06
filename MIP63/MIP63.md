@@ -77,7 +77,7 @@ The only connection is through `dss-vest`, where Keeper Networks are allocated a
 
 #### Keeper Duties and Expectations
 
-It is expected that Keeper Networks will be able to appropriate stream in their budget to be within the requested buffer min and max values. Any excess DAI beyond the max should be returned to the surplus buffer, and the network should act in a timely manner to replenish DAI if the buffer drops below the min value. If the DAI in the buffer is consistently running out then a new application should be submitted to increase the budget.
+It is expected that Keeper Networks will be able to appropriate stream in their budget to be within the requested buffer min and max values. Any excess DAI beyond the max should be returned to the surplus buffer, and the network should act in a timely manner to replenish DAI if the buffer drops below the min value. If the DAI in the buffer is consistently running out then a new application should be submitted to increase the budget. Budget requests should not exceed a maximum duration of 24 months.
 
 Keeper Networks are expected to be able to utilize the DAI to pay for gas. Maker will not be streaming ETH or other gas tokens.
 
