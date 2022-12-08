@@ -1,9 +1,9 @@
-# MIP55c3-SP14 : Special Purpose Fund for developing Proof-of-Performance for Viridian Cluster
+# MIP55c3-SP13 : Special Purpose Fund for developing Proof-of-Performance for Viridian Cluster
 
 ## Preamble
 
 ```
-MIP55c3-SP#: 14
+MIP55c3-SP#: 13
 Author(s): @Hajive 
 Contributors: @Viridian  
 Tags: spf, viridian-cluster, Endgame
