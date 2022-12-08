@@ -1,9 +1,9 @@
-# MIP55c3-SP13 : Special Purpose Fund for developing Proof-of-Performance for Viridian Cluster
+# MIP55c3-SP14 : Special Purpose Fund for developing Proof-of-Performance for Viridian Cluster
 
 ## Preamble
 
 ```
-MIP55c3-SP#: 13
+MIP55c3-SP#: 14
 Author(s): @Hajive 
 Contributors: @Viridian  
 Tags: spf, viridian-cluster, Endgame
@@ -70,3 +70,4 @@ Total Amount: 500,000 Dai
 Wallet Address: To be setup
 Comptroller signers: @SebVentures, @Patrick_J (https://forum.makerdao.com/t/mip-xx-special-purpose-fund-for-developing-proof-of-performance-for-viridian-cluster/19077/6)
 ```
+
