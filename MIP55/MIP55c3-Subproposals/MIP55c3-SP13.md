@@ -1,4 +1,4 @@
-# MIP55c3-SP13 : Special Purpose Fund for developing Proof-of-Performance for Viridian Cluster
+# MIP55c3-SP13: Special Purpose Fund for developing Proof-of-Performance for Viridian Cluster
 
 ## Preamble
 
