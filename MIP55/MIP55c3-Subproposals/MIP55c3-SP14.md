@@ -1,4 +1,4 @@
-# MIP55c3-SP14: Self Insurance Fund
+# MIP55c3-SP14: Self-insurance Fund
  
 ## Preamble
  
@@ -17,7 +17,6 @@ Recipient Address: TBD
 ## Sentence Summary
  
 This SPF requests 5M DAI for establishing a Self-insurance Fund (SIF) which will have the purpose of reimbursing legal defense expenses incurred by active participants of MakerDAO in case they are the target of legal or regulatory action.
- 
  
 ## Paragraph Summary
  
@@ -45,7 +44,6 @@ Self-insurances are customizable instruments that can be tailor-made to manage n
 Self-insurance Fund
  
 ## Special Purpose Fund Scope & Work Credentials
- 
  
 The SIF will be used as a contingency budget with the purpose of covering legal defense costs in case a MakerDAO stakeholder is a target of legal action.
  
@@ -85,4 +83,3 @@ Total Amount: In Dai. 5M DAI
 Wallet Address: Public wallet address of Multi-Sig.  TBD
 Comptroller signers: Include links to public statements verifying an individual’s involvement as a Comptroller.   TBD
 ```
-
