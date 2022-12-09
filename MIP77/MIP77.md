@@ -23,7 +23,7 @@ Ratification Poll URL: https://vote.makerdao.com/polling/QmUvMPe2
 This MIP is intended to be voted on as a MIP Set along with:
 
 * [MIP78: Recognized Delegate DAI Compensation](https://github.com/makerdao/mips/blob/master/MIP78/MIP78.md).
-* [MIP79: Recognized Delegate MKR Compensation](https://github.com/makerdao/mips/blob/master/MIP78/MIP79.md).
+* [MIP79: Recognized Delegate MKR Compensation](https://github.com/makerdao/mips/blob/master/MIP79/MIP79.md).
 
 It is recommended that all three MIPs are read to understand the totality of the changes being proposed.
 
