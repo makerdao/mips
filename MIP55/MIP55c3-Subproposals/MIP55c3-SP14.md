@@ -1,4 +1,4 @@
-# MIP55c3-SP14: Self-insurance Fund
+# MIP55c3-SP14: Self Insurance Fund
  
 ## Preamble
  
