@@ -7,11 +7,12 @@ MIP41c4-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
 Tags: core-unit, cu-gov-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp3-core-unit-facilitator-onboarding/6350
+Extra: LongForWisdom stepped down from the role voluntarily via [MIP41c5-SP7](https://mips.makerdao.com/mips/details/MIP41c5SP7).
 ```
 
 ## Sentence Summary
@@ -64,3 +65,4 @@ As a Core Unit Facilitator of GovAlpha, I will of course continue to be accessib
 * Contributor credits on multiple core governance MIPs.
 * Helped to coordinate [Emergency Response](https://forum.makerdao.com/t/black-thursday-response-thread/1433/) on Black Thursday and documented the [successes and failures](https://forum.makerdao.com/t/covid-crash-emergency-governance-summary/2437) of that response.
 * **May 2020 - Present** - [Governance Facilitator at MakerDAO](https://github.com/makerdao/mips/blob/master/MIP0/MIP0c12-Subproposals/MIP0c12-SP2.md)
+

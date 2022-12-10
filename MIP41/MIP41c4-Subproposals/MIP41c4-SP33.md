@@ -7,12 +7,12 @@ MIP41c4-SP#: 33
 Author(s): @PonJerry
 Contributors:
 Tags: core-unit, cu-events-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-03-09
 Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp33-events-core-unit-facilitator-onboarding-jon-perry-events-001/13775
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
-Extra: EVENTS-001 has been offboarded via [MIP39c2-SP4](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP4.md).
+Extra: EVENTS-001 has been offboarded via [MIP39c23-SP4](https://mips.makerdao.com/mips/details/MIP39c3SP4)
 ```
 
 ## Sentence Summary
@@ -63,3 +63,4 @@ As a Facilitator, my commitment will be to keep the Events Core Unit running smo
 * Extensive experience designing LED lighting systems
 * Design LED lighting fixtures for the mass transit industry including Headlights, Interior Main Lighting, Interior & Exterior Indicator Lights, Control Systems and Decorative Lights
 * Extensive experience in woodworking, CNC programming and operation
+

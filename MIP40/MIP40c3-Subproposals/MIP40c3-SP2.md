@@ -7,7 +7,7 @@ MIP40c3-SP#: 2
 Author(s): Primož Kordež
 Contributors: 
 Tags: core-unit, cu-risk-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
@@ -91,3 +91,4 @@ Breakdown:
 |Tooling|5%|5,000 Dai|
 |Operations|5%|5,000 Dai|
 |Grants|12%|12,500 Dai|
+

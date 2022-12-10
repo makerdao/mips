@@ -7,11 +7,12 @@ MIP41c4-SP#:5
 Author(s): Seth Goldfarb
 Contributors:
 Tags: core-unit, cu-mkt-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-03-03
 Date Ratified: 2021-04-27
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-april-2021-governance-cycle-april-26-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp5-facilitator-onboarding-mkt-001/6825
+Extra: Seth Goldfarb has been offboarded via [MIP41c5-SP3](https://mips.makerdao.com/mips/details/MIP41c5SP3).
 ```
 
 ## Sentence Summary
@@ -54,3 +55,4 @@ As the Facilitator of the Content Production Core Unit, my goals are:
 * Expertise in blockchain, cryptocurrency, and MakerDAO.
 * Helped GovComms establish a content strategy and format for Maker Relay, a weekly governance update averaging 700 views a week.
 * Cofounded the Community Messaging team in CommDev to organize a Domain Team responsible for community-led marketing efforts for MakerDAO.
+

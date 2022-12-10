@@ -7,7 +7,7 @@ MIP40c3-SP#: 3
 Author(s): @LongForWisdom
 Contributors: N/A
 Tags: core-unit, cu-gov-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail

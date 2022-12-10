@@ -7,7 +7,7 @@ MIP40c3-SP#: 66
 Author(s): @Pon Jerry, @Leggevents
 Contributors: @hexonaut, @nadia
 Tags: core-unit, cu-events-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-03-09
 Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp66-events-core-unit-dai-budget-events-001/13777
@@ -201,3 +201,4 @@ To demonstrate how this strategy applies to the requested budget, the following 
 |||
 
 Under this strategy, the sum of **$330,150.00** from the requested budget would be returned to the DAO.
+

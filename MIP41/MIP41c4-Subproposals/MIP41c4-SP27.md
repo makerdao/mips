@@ -7,12 +7,12 @@ MIP41c4-SP#: 27
 Author(s): Rune Christensen
 Contributors:
 Tags: core-unit, cu-rwf-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-10-30
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip41c4-spx-facilitator-onboarding-rwf-001/11308
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdrJGxQ
-Extra: RWF-001 has been offboarded via [MIP39c2-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md).
+Extra: RWF-001 has been offboarded via [MIP39c2-SP5](https://mips.makerdao.com/mips/details/MIP39c3SP5).
 ```
 
 ## Sentence Summary
@@ -44,3 +44,4 @@ Will has decades of experience doing financial and credit transaction, and is th
 The objective will be to work with various stakeholders in the Maker RWA ecosystem to develop a solid and scalable framework for RWA onboarding and then execute within this framework while decentralizing the RWA Core Units by splitting the current RWF-001 Core Unit into multiple redundant RWA Core Units that can operate in parallel.
 
 The framework will based on things such as the [Arranger Model](https://forum.makerdao.com/t/the-arranger-model-a-highly-scalable-rwa-framework/11298), the results of Luca Prosperi's decentralized RWA research project and the input of MKR holders.
+

@@ -7,7 +7,7 @@ MIP40c3-SP#: 10
 Author(s): @wouter, @juanjuan
 Contributors:
 Tags: core-unit, cu-ses-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-04-07
 Date Ratified: 2021-05-25
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail
@@ -205,3 +205,4 @@ As preparation for the Monthly Top-up Cycle, the Auditors Wallet first needs to 
   * Permanent Team Wallet: `0xb5eB779cE300024EDB3dF9b6C007E312584f6F4f`
   * Incubation Program Wallet: `0x7c09Ff9b59BAAebfd721cbDA3676826aA6d7BaE8`
   * Grants Program Wallet: `0xf95eB8eC63D6059bA62b0A8A7F843c7D92f41de2`
+

@@ -7,7 +7,7 @@ MIP40c3-SP#: 28
 Author(s): Author(s): @badgerofthe9d, Ohad Barta
 Contributors: Derek Flossman, Maciek Kaminsky, Kris Kaczor, Marc-Andre Dumas, Ohad Barta, @badgerofthe9d
 Tags: core-unit, cu-sne-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-08-09
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmesWgnC?network=mainnet
@@ -88,3 +88,4 @@ For any budget request beyond December 2021, new sub proposals will be submitted
 ![table2](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP28/table2.png)
 
 * **Unused funds**: Unused funds will be credited towards the next phase led by the SECU
+

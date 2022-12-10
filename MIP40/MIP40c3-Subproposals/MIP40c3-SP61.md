@@ -7,7 +7,7 @@ MIP40c3-SP#: 61
 Author(s): @williamr
 Contributors: @juan, @wouter
 Tags: core-unit, cu-rwf-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-02-09
 Date Ratified: 2022-03-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmXDh7RR?network=mainnet#poll-detail
@@ -181,3 +181,4 @@ Extra safety in case of unexpected costs such as unaccounted SaaS subscriptions,
 ### MKR compensation
 
 For reference, MKR compensation was proposed [here](https://forum.makerdao.com/t/mip40c3-sp38-real-world-finance-core-unit-mkr-compensation-rwf-001/10447). This will be reviewed in the near future.
+

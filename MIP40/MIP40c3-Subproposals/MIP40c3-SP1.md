@@ -7,7 +7,7 @@ MIP40c3-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
 Tags: core-unit, cu-rwf-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-01-26
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
@@ -46,3 +46,4 @@ MIP40c3-SP1 adds the budget for Core Unit RWF-001: Real-World Finance.
   * Rayan: Part-time, our finance laws expert
 * Tooling:
   * Access to financial reports and business intelligence (e.g: real-estate prices, automated appraisals)
+
