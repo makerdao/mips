@@ -27,7 +27,7 @@ Forum URL: https://forum.makerdao.com/t/mip4c4-sp3-obsolete-mip-removal-mip23-mi
  
 ### Removal Pull Request
 
-- TBD
+<https://github.com/makerdao/mips/pull/732>
 
 ### Relevant Information
 
