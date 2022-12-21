@@ -61,7 +61,7 @@ Every Hats Tree will need a "chief hat" with the highest of permissions for that
 
 ### MIP93c2: Hats Tree Subproposal
 
-When someone from the Maker Ecosystem has an idea for a Hats Tree they would like to be recognized by the Maker Protocol, they must fill out a Hats Tree Subproposal. These proposals must be made with a [MIP93c2 Subproposal Template]() and are subject to the following parameters before entering the weekly governance cycle:
+When someone from the Maker Ecosystem has an idea for a Hats Tree they would like to be recognized by the Maker Protocol, they must fill out a Hats Tree Subproposal. These proposals must be made with a [MIP93c2 Subproposal Template](MIP93c2-Subproposal-Template.md) and are subject to the following parameters before entering the weekly governance cycle:
 
 - Request for Feedback Period: 2 weeks.
 - Frozen Period: 1 week.
