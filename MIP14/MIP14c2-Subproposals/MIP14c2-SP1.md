@@ -1,3 +1,4 @@
+
 # MIP14c2-SP1: Requesting Protocol DAI Transfer to fund TechOps CU for February 2023
 
 ## Preamble
@@ -11,7 +12,6 @@ Tags: tech-001, core-unit,
 Status: RFC
 Date Proposed: 2022-12-02
 Date ratified: <yyyy-mm-dd>
-Forum URL: https://forum.makerdao.com/t/mip14c2-sp1-requesting-protocol-dai-transfer-to-fund-techops-cu-for-february-2023/19018
 ---
 Amount: 138,894 DAI
 ```
@@ -20,7 +20,7 @@ Amount: 138,894 DAI
 
 ### Sentence Reason
 
-This amount will sustain the team, critical infrastructure, tools and services through February until the new budget can be voted on in March and hopefully start in April.
+This amount will sustain the team, critical infrastructure, tools and services through the month of February. A second MIP14 subproposal will be posted for the month of March. The new budget will be voted on in March and hopefully then take over the funding from April.
     
 ### Reason Details
 
@@ -32,7 +32,7 @@ This amount is a monthly cap of TechOps CU's new revised NewBase [DAI budget](ht
 
 We've taken this feedback onboard and have revised our new budget significantly which will be up for voting in March 2023. Due to budgeting cycle happening quarterly we're left without funding for February and March 2023.
 
-This amount will cover our expenses in February and any excess will be promptly returned to the protocol.
+This amount will cover our expenses for the month of February. A second MIP14 subproposal will be posted for the month of March. Any excess funds as always will be promptly returned to the protocol.
 
 ### Surplus Analysis
 
