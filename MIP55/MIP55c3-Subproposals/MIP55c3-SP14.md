@@ -12,11 +12,14 @@ Date Proposed: 2022-12-07
 Date Ratified: 
 Amount Requested: 5M DAI
 Recipient Address: TBD
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp14-self-insurance-fund/19076
+Ratification Poll URL:
 ```
  
 ## Sentence Summary
  
 This SPF requests 5M DAI for establishing a Self-insurance Fund (SIF) which will have the purpose of reimbursing legal defense expenses incurred by active participants of MakerDAO in case they are the target of legal or regulatory action.
+ 
  
 ## Paragraph Summary
  
@@ -44,6 +47,7 @@ Self-insurances are customizable instruments that can be tailor-made to manage n
 Self-insurance Fund
  
 ## Special Purpose Fund Scope & Work Credentials
+ 
  
 The SIF will be used as a contingency budget with the purpose of covering legal defense costs in case a MakerDAO stakeholder is a target of legal action.
  
@@ -76,10 +80,10 @@ All claims and payouts will be managed according to a process contained in the S
 ### Special Purpose Fund Details
  
 ```
-Official Contact or Group Name: @layerzero
+Official Contact : @layerzero
 Contact Email/Handle: layer.zero@ses.makerdao.network
 Date Added: (yyyy-mm-dd)
 Total Amount: In Dai. 5M DAI
 Wallet Address: Public wallet address of Multi-Sig.  TBD
-Comptroller signers: Include links to public statements verifying an individual’s involvement as a Comptroller.   TBD
+Comptroller signers: @tadeo (https://forum.makerdao.com/t/mip55c3-sp14-self-insurance-fund/19076/54), @prose11 (https://forum.makerdao.com/t/mip55c3-sp14-self-insurance-fund/19076/56)
 ```
