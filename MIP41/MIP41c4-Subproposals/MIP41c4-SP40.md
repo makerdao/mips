@@ -4,13 +4,13 @@
 ## Preamble
 
 ```
-MIP41-SP#: 40
+MIP41c4-SP#: 40
 Author(s): @juan
 Contributors: 
 Tags: core-unit, cu-ces-001, facilitator
-Status: RFC
+Status: Withdrawn
 Date Applied: 2022-11-22
-Date Ratified: 
+Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp40-onboarding-nikolaj-lollike-as-ces-001-facilitator/18887/1
 ```
 
