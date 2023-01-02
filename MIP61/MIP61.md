@@ -6,7 +6,7 @@
 MIP#: 61
 Title: Recognized Delegate Compensation
 Author(s): Joshua Pritikin (@jpritikin)
-Contributors: @g_dip, @LongForWisdom, @Patrick_J
+Contributors: @g_dip, @LongForWisdom, @Patrick_J, @ultraschuppi
 Tags:
 Type: process
 Status: Accepted
