@@ -5,8 +5,8 @@
 ```
 MIP#: 51
 Title: Monthly Governance Cycle
-Author(s): @LongForWisdom 
-Contributors: Charles St.Louis (@CPSTL), Payton Rose (@prose11), Pablo (@Blimpa), @Elihu
+Author(s): @LongForWisdom
+Contributors: Charles St.Louis (@CPSTL), Payton Rose (@prose11), Pablo (@Blimpa), @Elihu, @ultraschuppi
 Tags: governance-cycle
 Type: General
 Status: Accepted
