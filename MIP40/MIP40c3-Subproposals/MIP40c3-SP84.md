@@ -7,10 +7,13 @@ MIP40c3-SP#: 84
 Author(s): David Utrobin
 Contributors:
 Tags: core-unit, cu-com-001, budget, dai-budget
-Status: RFC
+Status: Rejected
 Date Applied: 2022-10-05
 Date Ratified: 
+Budget Start Date: 2023-01-01
+Budget End Date: 2023-06-30
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp84-modify-core-unit-budget-com-001/18250
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdC5sZw
 ```
 
 ## Sentence Summary
@@ -146,8 +149,8 @@ Additionally, we commit to working with SES-001 on reporting financials through 
 
 #### Budget Details
 
-**Salaries & Wages:** Cost includes salaries and employer taxes for two full-time team members.
-**Healthcare:** For two full-time team members.
+**Salaries & Wages:** Cost includes salaries and employer taxes for two full-time team members.  
+**Healthcare:** For two full-time team members.  
 **Contractor Fees:** Upper limit of $10k per month for copy editors, researchers, moderators, designers, excel consultants, and other professional contributors. These are paid on an hourly basis at individually negotiated rates.
 
 **Travel:** Upper limit of up to two off-sites a year, preferably partnering with GOV or other operations-related teams. Upper limit of up to two facilitator-only engagements as needed.
@@ -157,17 +160,17 @@ Additionally, we commit to working with SES-001 on reporting financials through 
 - *Activities & Events:* Conference tickets, group dinners with MakerDAO stakeholders, partial sponsorships of MakerDAO events.
 - *Transportation:* taxis, scooters, bikes, etc.
 
-**Exchange Fees:** Dai conversion into USD, EUR, or other.
-**Bank Fees:** Cost of wire transfers & outgoing crypto transactions to pay contributor invoices via AccountAble.
-**Gas:** Ethereum transaction fees incurred by the Operational Wallet by claiming, sending, and returning funds.
-**Accounting Expense:** Fixed fee of $800 & variable fee of the rest depending on how much we spend.
+**Exchange Fees:** Dai conversion into USD, EUR, or other.  
+**Bank Fees:** Cost of wire transfers & outgoing crypto transactions to pay contributor invoices via AccountAble.  
+**Gas:** Ethereum transaction fees incurred by the Operational Wallet by claiming, sending, and returning funds.  
+**Accounting Expense:** Fixed fee of $800 & variable fee of the rest depending on how much we spend.  
 **Payroll Services:** $525 per month per person maintenance cost, $200 per new onboarded employee, and $350 per offboarding.
 
-**Subscriptions (non-software):** Design assets and nothing else at the moment.
-**Hardware Expense:** Office supplies as needed.
+**Subscriptions (non-software):** Design assets and nothing else at the moment.  
+**Hardware Expense:** Office supplies as needed.  
 **Software Expense:** Google, Adobe, and some design applications.
 
-**Legal Expense:** TechGDPR or other lawyers as needed.
+**Legal Expense:** TechGDPR or other lawyers as needed.  
 **Training:** Paid professional development for team members to learn new skills, improve their weaknesses, or sharpen their strengths.
 
 **Contingency Buffer:** Standard ~10% margin of error.
@@ -281,3 +284,4 @@ One-time expenses:
 
  - Severance packages
  - 2x $350 offboarding charges from payroll provider
+

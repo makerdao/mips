@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP#: MIP4c4-SP2
+MIP4c4-SP#: 2
 Title: MIP14 Repeal
 Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium

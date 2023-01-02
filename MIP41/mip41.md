@@ -139,6 +139,7 @@ MIP41c5 subproposal parameters are:
 - Poll Duration: 1 week.
 
 MIP41c5 subproposals must use the template located at [MIP41c5-Subproposal-Template.md](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposal-Template.md)
+
 ---
 
 ### MIP41c6: Interim Facilitators and the Fallback Decision Process

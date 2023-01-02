@@ -11,7 +11,7 @@ Date Proposed: 2020-10-06
 Dependencies: 
 Replaces: DSChief
 Ratification Poll URL:
-Forum URL: https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627
+Forum URL: https://forum.makerdao.com/t/mip26-dssgov-governance-contract-redesign/4589
 ```
 
 ## Sentence Summary

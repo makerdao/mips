@@ -9,7 +9,7 @@ Author(s): Mariano Conti (@nanexcool), Charles St.Louis (@CPSTL)
 Contributors: Kurt Barry (@kmbarry1)
 Tags: technical, smart-contracts, liquidations
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-07-06
 Date Ratified: 2020-07-28
 Dependencies: n/a
@@ -17,6 +17,7 @@ Replaces: n/a
 License: AGPL v3.0
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-monthly-governance-cycle-bundle-increase-the-eth-a-debt-ceiling?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip19-liquidations-system-1-1-upgrade/3098
+Extra: This MIP has been replaced by [MIP45: Liquidations 2.0 (LIQ-2.0) - Liquidation System Redesign](https://github.com/makerdao/mips/blob/master/MIP45/mip45.md).
 ```
 
 ## References

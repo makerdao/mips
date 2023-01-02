@@ -55,7 +55,7 @@ This proposal focuses on the question of "What percent of total CU member compen
 
 ## Specification / Proposal Details
 
-**MIP80c1: How the MKR Compensation Guideline work**
+### MIP80c1: How the MKR Compensation Guideline work
 
 The guideline proposes that MKR is transferred to the Core Unit Facilitator based on the total salary of each Core Unit as specified in their MIP40 Budget. The Facilitator will then distribute the compensation to their team based on the situation that is most applicable to that specific unit. This method was chosen to allow for simplicity for the Community as well as flexibility for the Core Units.
 
@@ -65,11 +65,11 @@ The MKR will be transferred to the Core Unit upon ratification on a pro-rated ba
 
 To minimize disruption, Core Units currently using an alternative MKR compensation plan may choose to continue that plan until their next budget adjustment or budget cycle.
 
-**MIP80c2: Proposed Compensation**
+### MIP80c2: Proposed Compensation
 
 75% of Core Unit salaries will be given as compensation, with a four-year vesting schedule plan. The amount of MKR to be streamed to the CU is set at the beginning of the vesting period, with the price based on the six-month trailing average.
 
-**MIP80c3: Recommended best practice**
+### MIP80c3: Recommended best practice
 
 1. Core Units receiving MKR are advised to adhere to this guideline when possible.
 
@@ -79,7 +79,7 @@ To minimize disruption, Core Units currently using an alternative MKR compensati
 
 4. If any Core Unit member is likely to receive over 200,000 USD worth of MKR, that should be disclosed in their budget request.
 
-**MIP80c4: Amending the MKR Compensation Guideline**
+### MIP80c4: Amending the MKR Compensation Guideline
 
 Example for clarity
 
