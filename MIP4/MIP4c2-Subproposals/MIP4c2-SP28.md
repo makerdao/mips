@@ -8,7 +8,7 @@ MIP to be amended: MIP51
 Author(s): @ultraschuppi
 Contributors:
 Tags: governance-cycle, mip-amendment, process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-11-03
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp28-amend-mip51-to-remove-the-calendar-exception/18675
@@ -30,4 +30,4 @@ https://github.com/makerdao/mips/pull/696
 
 ### Relevant Information
 
-* will try to get some data on poll participation and exec-turnarounds - TBD
+--
