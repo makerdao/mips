@@ -6,13 +6,13 @@
 MIP39c2-SP#: 32
 Author(s): @PonJerry, @Leggevents
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
-Tags: core-unit, cu-events-001, proposal, mandate, active
-Status: Accepted
+Tags: core-unit, cu-events-001, proposal, mandate
+Status: Obsolete
 Date Proposed: 2022-03-09
 Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSVzGcm
-Extra: EVENTS-001 has been offboarded via [MIP39c2-SP4](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP4.md).
+Extra: EVENTS-001 has been offboarded via [MIP39c3-SP4](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP4.md).
 ```
 
 ## Sentence Summary
@@ -177,3 +177,4 @@ The goal of the Events team is to be as vertically integrated as possible which 
 * Coordinate with visual design to ensure seamless integration of visual elements, event lighting and music
 * Procurement of set dress supplies
 * The Engineer will also share responsibility with the Event Manager as delegated
+

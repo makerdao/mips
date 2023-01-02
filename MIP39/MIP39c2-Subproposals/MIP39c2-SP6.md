@@ -6,12 +6,13 @@
 MIP39c2-SP#: 6
 Author(s): Mike Porcaro, Coulter Mulligan
 Contributors: 
-Tags: core-unit, cu-mds-001, active, mandate
-Status: Accepted
+Tags: core-unit, cu-mds-001, mandate
+Status: Obsolete
 Date Proposed: 2021-03-03
 Date Ratified: 2021-04-27  
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp6-makerdao-shop-core-unit-mds-001/6827
+Extra: This Core Unit has been offboarded via [MIP41c5-SP5](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposals/MIP41c5-SP5.md).
 ```
 
 ## Sentence Summary
@@ -85,3 +86,4 @@ Budget
 * 50/50 split of profits from the MakerDAO Shop. This appropriately compensates the MakerDAO Shop team for their work while creating a solid revenue stream for MakerDAO.
 
 ### Open Questions
+
