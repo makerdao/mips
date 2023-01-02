@@ -9,13 +9,14 @@ Author(s): @LongForWisdom, @jtathmann
 Contributors: N/A
 Tags: process, governance, living
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-05-12
 Date Ratified: 2020-10-27
 Dependencies: MIP0
 Replaces: N/A
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
+Extra: This MIP has been removed via [MIP4c4-SP2](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c4-Subproposals/MIP4c4-SP2.md).
 ```
 
 ## References
@@ -126,3 +127,4 @@ MIP14c4 sets the maximum amount of DAI that can be transferred in total from the
 **DAI Transfer Ceiling Adjustment**
 * **Feedback Period:**  4 full weeks
 * **Frozen Period:**  1 full week
+
