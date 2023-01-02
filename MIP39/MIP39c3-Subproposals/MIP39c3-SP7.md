@@ -7,14 +7,15 @@ MIP39c3-SP#: 7
 Author(s): @Davidutro
 Contributors:
 Tags: com-001
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-06
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip39c3-sp7-core-unit-offboarding-com-001/19068
 ```
 
 ## Sentence Summary
 
-This is an offboarding proposal for the GovComms core unit that includes both a golden parachute and retroactive MKR compensation.
+This is an offboarding proposal for the GovComms Core Unit that includes both a golden parachute and retroactive MKR compensation.
 
 ## Specification
 
@@ -24,7 +25,7 @@ COM-001
 
 ### Motivation
 
-MakerDAO is restructuring in accordance with the Endgame Plan. With the rejection of our last budget proposal, we’ve been advised by the leading delegates that work related to our mandate would be better executed as an ecosystem actor or as an in-house function within other stakeholder groups. The rejection of our budget proposal did not come with a complementary offboarding proposal, so we are putting it up ourselves. This core unit should be formally offboarded to support the transition, formalize the status of the team, and provide any "golden parachute" compensation and retroactive benefits due to contributors.
+MakerDAO is restructuring in accordance with the Endgame Plan. With the rejection of our last budget proposal, we’ve been advised by the leading delegates that work related to our mandate would be better executed as an ecosystem actor or as an in-house function within other stakeholder groups. The rejection of our budget proposal did not come with a complementary offboarding proposal, so we are putting it up ourselves. This Core Unit should be formally offboarded to support the transition, formalize the status of the team, and provide any "golden parachute" compensation and retroactive benefits due to contributors.
 
 ### Facilitator
 
@@ -69,7 +70,7 @@ Active programs:
   * Weekly Forum Recap
 * Stakeholder Database
 * Stakeholder Notices
-  * Vault Offboarding Notices as required by [MIP62](https://github.com/makerdao/mips/blob/master/MIP62/MIP62.md)
+  * Vault Offboarding Notices as required by MIP62
 * Trackers
   * External
     * All Available Dashboards Tracker
@@ -127,7 +128,7 @@ These amounts will be transferred through the Executive Vote that follows the ra
 
 ##### Summary
 
-GovComms did not prioritize getting an MKR compensation package in place early on. Instead, we decided to prioritize our actual work while waiting to see if a preferred standard would emerge by the end of the year. That never happened and so we planned to publish our proposal, modeled after [GovAlpha’s](https://mips.makerdao.com/mips/details/MIP40c3SP60), for RFC in December 2022, so it could be voted on in January, in time for what would have been our first 1-year cliff vest in February(under the GovAlpha model). Since the Core Unit has been defunded, we added our retroactive MKR compensation here as a part of our offboarding.
+Govcomms did not prioritize getting an MKR compensation package in place early on. Instead, we decided to prioritize our actual work while waiting to see if a preferred standard would emerge by the end of the year. That never happened and so we planned to publish our proposal, modeled after [GovAlpha’s](https://mips.makerdao.com/mips/details/MIP40c3SP60), for RFC in December 2022, so it could be voted on in January, in time for what would have been our first 1-year cliff vest in February(under the GovAlpha model). Since the Core Unit has been defunded, we added our retroactive MKR compensation here as a part of our offboarding.
 
 During the RFC period of this proposal, we polled recognized delegates about their preference for paying out in MKR or the DAI equivalent value, DAI equivalent value won.
 
@@ -149,7 +150,7 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 `Lockup` - Determined during the RFC period.
 **None.**
 
-`MKR Moving Average` - Derived from the "Close" price on CoinGecko (latest data point per day, UTC), taking the average closing price for that eligibility period. See [spreadsheet](https://docs.google.com/spreadsheets/d/1YqExo-6-uVrXQoAkhayO5ZrupwxDZlxPnIHvA1TXWkw/edit?usp=sharing) for data.
+`MKR Moving Average` - Is derived from the "Close" price on CoinGecko (latest data point per day, UTC), taking the average closing price for that eligibility period. See [spreadsheet](https://docs.google.com/spreadsheets/d/1YqExo-6-uVrXQoAkhayO5ZrupwxDZlxPnIHvA1TXWkw/edit?usp=sharing) for data.
 **Price: `$1737.12`**
 
 `Multiplier%` - Determined by the proposal's on-chain vote result.
