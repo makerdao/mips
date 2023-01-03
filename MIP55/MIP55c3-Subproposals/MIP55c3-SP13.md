@@ -7,7 +7,7 @@ MIP55c3-SP#: 13
 Author(s): @Hajive 
 Contributors: @Viridian  
 Tags: spf, viridian-cluster, Endgame
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-07
 Date Ratified:
 Amount Requested: 500,000 DAI
