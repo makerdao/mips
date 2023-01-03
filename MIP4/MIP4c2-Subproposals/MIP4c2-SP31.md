@@ -8,7 +8,7 @@ MIP to be amended: MIP63
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: MIP63, facilitator
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-02
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-mip63-maker-keeper-network-amendment/19024
