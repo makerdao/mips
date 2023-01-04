@@ -8,7 +8,7 @@ MIP to be amended: 14
 Author(s): @Patrick_J
 Contributors:
 Tags: mip-amendment
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-08
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp32-remove-mip14c4-protocol-dai-transfer-ceiling/19093
