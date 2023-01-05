@@ -179,10 +179,10 @@ The following is a summary of the Ambassadors Program 6-month budget outlining h
 ### Special Purpose Fund Details
 
 ```
-Official Contact or Group Name: @kat
-Contact Email/Handle: katherine.obermeyer@gmail.com / @kat
+Official Contact or Group Name: @Sebix
+Contact Email/Handle: @Sebix
 Date Added: (2022-08-10)
 Total Amount: 81,000 DAI
-Wallet Address: eth:0xF411d823a48D18B32e608274Df16a9957fE33E45
-Comptroller signers: TBD
+Wallet Address: eth: 0x5e81C926643F630399AFF9cE177eB47b3E274EcE
+Comptroller signers: @tadeo, @Davidutro
 ```
