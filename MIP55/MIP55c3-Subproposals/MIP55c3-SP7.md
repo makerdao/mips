@@ -180,7 +180,7 @@ The following is a summary of the Ambassadors Program 6-month budget outlining h
 
 ```
 Official Contact or Group Name: @Sebix
-Contact Email/Handle: @Sebix
+Contact Email/Handle: s.n.hipogeo@gmail.com / @Sebix
 Date Added: (2022-08-10)
 Total Amount: 81,000 DAI
 Wallet Address: eth: 0x5e81C926643F630399AFF9cE177eB47b3E274EcE
