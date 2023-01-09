@@ -7,7 +7,7 @@ MIP55c3-SP#: 14
 Author(s): @layerzero
 Contributors:
 Tags: spf
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-07
 Date Ratified: 
 Amount Requested: 5M DAI
@@ -20,13 +20,12 @@ Ratification Poll URL:
 
 This SPF requests 5M DAI for establishing a Self-insurance Fund (SIF) which will have the purpose of reimbursing legal defense expenses incurred by active participants of MakerDAO in case they are the target of legal or regulatory action.
 
-
 ## Paragraph Summary
 
 The SIF will be used as a contingency budget to reimburse legal defense expenses in case of legal or regulatory action against specific participants of MakerDAO.
 
 Initially, coverage will be provided to the following group of persons, which will be the initial set of beneficiaries:
- 
+
 - Recognized Delegates
 - Core Unit Facilitators
 - Core Unit permanent contributors
@@ -66,14 +65,15 @@ All claims and payouts will be managed according to a process contained in the S
 - Policy description and exclusions.
 - Claim process, timing, and decision-making rules.
 - Requisites for submitting a claim, required supporting documentation and forms.
+
 - Process for updating the Claim Procedure Manual (i.e., variation of coverage amounts or inclusion of new beneficiaries to include new emerging roles in the Endgame Plan). 
 
 ### Funding Breakdown
 
 - Funding will be done in a lump sum upon governance approval of the SPF.
-- Funds in the SIF are destined as a contingency budget for covering legal defense and legal representation expenses.
+- Funds in this SPF are destined as a contingency budget for covering legal defense and legal representation expenses.
+- Funds in this SPF will not cover operational costs of the project.
 - Payout decisions and claim management will follow the ruleset contained in the Claim Procedure Manual.
-- The SIF will not cover the operational costs of the project.
 - The Maker Protocol (`MCD_PAUSE_PROXY`, 0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB) will be listed as a beneficiary on the multisig wallet. This allows the protocol to withdraw funds from the multisig wallet, ensuring control over these funds.
 
 ### Special Purpose Fund Details

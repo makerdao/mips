@@ -7,9 +7,10 @@ MIP13c3-SP#: 13
 Author(s): @rspa
 Contributors: @twblack88
 Tags: declaration-of-intent
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-08
 Date Ratified: --
+Forum URL: https://forum.makerdao.com/t/mip13c3-sp13-declaration-of-intent-to-develop-a-comprehensive-on-chain-monitoring-solution-for-rwa-vaults/19095
 ---
 Declaration Statement: Declaring the intent to fund the development of a comprehensive on-chain monitoring solution for RWA vaults.
 Declaration to Replace: n/a

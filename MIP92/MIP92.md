@@ -9,11 +9,12 @@ Author(s): corn, @omgcorn
 Contributors:
 Tags: 
 Type: General
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-11-29
 Date Ratified:
-Dependencies: <List of dependent MIPs>
-Replaces: <List of MIP it is replacing>
+Dependencies: -
+Replaces: -
+Forum URL: https://forum.makerdao.com/t/mip92-onboard-psm-usdc-to-yearn-to-earn-yield/18971/1
 ```
     
 ## Sentence Summary

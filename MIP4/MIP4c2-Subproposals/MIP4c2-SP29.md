@@ -8,7 +8,7 @@ MIP to be amended: MIP61
 Author(s): @ultraschuppi
 Contributors:
 Tags: delegation, mip-amendment, process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-11-06
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696
@@ -47,5 +47,4 @@ The on-chain Ratification Poll for this subproposal will be of ranked-choice typ
 
 ### Relevant Information
 
-None yet.
-
+--

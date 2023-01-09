@@ -7,14 +7,15 @@ MIP39c3-SP#: 7
 Author(s): @Davidutro
 Contributors:
 Tags: com-001
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-06
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip39c3-sp7-core-unit-offboarding-com-001/19068
 ```
 
 ## Sentence Summary
 
-This is an offboarding proposal for the GovComms core unit that includes both a golden parachute and retroactive MKR compensation.
+This is an offboarding proposal for the GovComms Core Unit that includes both a golden parachute and retroactive MKR compensation.
 
 ## Specification
 
@@ -24,7 +25,7 @@ COM-001
 
 ### Motivation
 
-MakerDAO is restructuring in accordance with the Endgame Plan. With the rejection of our last budget proposal, we’ve been advised by the leading delegates that work related to our mandate would be better executed as an ecosystem actor or as an in-house function within other stakeholder groups. The rejection of our budget proposal did not come with a complementary offboarding proposal, so we are putting it up ourselves. This core unit should be formally offboarded to support the transition, formalize the status of the team, and provide any "golden parachute" compensation and retroactive benefits due to contributors.
+MakerDAO is restructuring in accordance with the Endgame Plan. With the rejection of our last budget proposal, we’ve been advised by the leading delegates that work related to our mandate would be better executed as an ecosystem actor or as an in-house function within other stakeholder groups. The rejection of our budget proposal did not come with a complementary offboarding proposal, so we are putting it up ourselves. This Core Unit should be formally offboarded to support the transition, formalize the status of the team, and provide any "golden parachute" compensation and retroactive benefits due to contributors.
 
 ### Facilitator
 
@@ -69,7 +70,7 @@ Active programs:
   * Weekly Forum Recap
 * Stakeholder Database
 * Stakeholder Notices
-  * Vault Offboarding Notices as required by [MIP62](https://github.com/makerdao/mips/blob/master/MIP62/MIP62.md)
+  * Vault Offboarding Notices as required by MIP62
 * Trackers
   * External
     * All Available Dashboards Tracker
@@ -127,7 +128,7 @@ These amounts will be transferred through the Executive Vote that follows the ra
 
 ##### Summary
 
-GovComms did not prioritize getting an MKR compensation package in place early on. Instead, we decided to prioritize our actual work while waiting to see if a preferred standard would emerge by the end of the year. That never happened and so we planned to publish our proposal, modeled after [GovAlpha’s](https://mips.makerdao.com/mips/details/MIP40c3SP60), for RFC in December 2022, so it could be voted on in January, in time for what would have been our first 1-year cliff vest in February(under the GovAlpha model). Since the Core Unit has been defunded, we added our retroactive MKR compensation here as a part of our offboarding.
+Govcomms did not prioritize getting an MKR compensation package in place early on. Instead, we decided to prioritize our actual work while waiting to see if a preferred standard would emerge by the end of the year. That never happened and so we planned to publish our proposal, modeled after [GovAlpha’s](https://mips.makerdao.com/mips/details/MIP40c3SP60), for RFC in December 2022, so it could be voted on in January, in time for what would have been our first 1-year cliff vest in February(under the GovAlpha model). Since the Core Unit has been defunded, we added our retroactive MKR compensation here as a part of our offboarding.
 
 During the RFC period of this proposal, we polled recognized delegates about their preference for paying out in MKR or the DAI equivalent value, DAI equivalent value won.
 
@@ -149,7 +150,7 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 `Lockup` - Determined during the RFC period.
 **None.**
 
-`MKR Moving Average` - Derived from the "Close" price on CoinGecko (latest data point per day, UTC), taking the average closing price for that eligibility period. See [spreadsheet](https://docs.google.com/spreadsheets/d/1YqExo-6-uVrXQoAkhayO5ZrupwxDZlxPnIHvA1TXWkw/edit?usp=sharing) for data.
+`MKR Moving Average` - Is derived from the "Close" price on CoinGecko (latest data point per day, UTC), taking the average closing price for that eligibility period. See [spreadsheet](https://docs.google.com/spreadsheets/d/1YqExo-6-uVrXQoAkhayO5ZrupwxDZlxPnIHvA1TXWkw/edit?usp=sharing) for data.
 **Price: `$1737.12`**
 
 `Multiplier%` - Determined by the proposal's on-chain vote result.
@@ -161,49 +162,49 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 #### Payments
 
 @Davidutro Golden Parachute Payment:
-35950 DAI sent from the Pause Proxy to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
+35950 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
 
 @Artem_Gordon Golden Parachute Payment:
-24750 DAI sent from the Pause Proxy to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
+24750 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
 
 @Davidutro Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
+TBD DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
 
 @Artem_Gordon Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
+TBD DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
 
 Alec Horner Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea`
+TBD DAI sent from the Surplus Buffer to `0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea`
 
 Andrea Suáreze Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0xeD27986bf84Fa8E343aA9Ff90307291dAeF234d3`
+TBD DAI sent from the Surplus Buffer to `0xeD27986bf84Fa8E343aA9Ff90307291dAeF234d3`
 
 Ashton Playsted Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0x3dfE26bEDA4282ECCEdCaF2a0f146712712e81EA`
+TBD DAI sent from the Surplus Buffer to `0x3dfE26bEDA4282ECCEdCaF2a0f146712712e81EA`
 
 Bernard Agrest Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0x74520D1690348ba882Af348223A30D760BCbD72a`
+TBD DAI sent from the Surplus Buffer to `0x74520D1690348ba882Af348223A30D760BCbD72a`
 
 Brandon Lewandowski Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0x471C5806cadAFB297D9b95B914B65f626fDCD1a7`
+TBD DAI sent from the Surplus Buffer to `0x471C5806cadAFB297D9b95B914B65f626fDCD1a7`
 
 Constanza Pregal Petrinec Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0x051cCee0CfBF1Fe9BD891117E85bEbDFa42aFaA9`
+TBD DAI sent from the Surplus Buffer to `0x051cCee0CfBF1Fe9BD891117E85bEbDFa42aFaA9`
 
 Gala Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0x1c138352C779af714b6cE328C9d962E5c82EBA07`
+TBD DAI sent from the Surplus Buffer to `0x1c138352C779af714b6cE328C9d962E5c82EBA07`
 
 Iván Berestein Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0x55f2E8728cFCCf260040cfcc24E14A6047fF4d31`
+TBD DAI sent from the Surplus Buffer to `0x55f2E8728cFCCf260040cfcc24E14A6047fF4d31`
 
 Larry Wu Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0xE004DAabEfe0322Ac1ab46A3CF382a2A0bA81Ab4`
+TBD DAI sent from the Surplus Buffer to `0xE004DAabEfe0322Ac1ab46A3CF382a2A0bA81Ab4`
 
 Mario Ferrari Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0xC2bE81CeB685eea53c77975b5F9c5f82641deBC8`
+TBD DAI sent from the Surplus Buffer to `0xC2bE81CeB685eea53c77975b5F9c5f82641deBC8`
 
 Po Kunfu Retroactive Bonus Payment:
-TBD DAI sent from the Pause Proxy to `0xdB7c1777b5d4502b3d1228c2449F1816EB507748`
+TBD DAI sent from the Surplus Buffer to `0xdB7c1777b5d4502b3d1228c2449F1816EB507748`
 
 #### Possible remedy to avoid offboarding
 
