@@ -15,10 +15,6 @@ Forum URL: https://forum.makerdao.com/t/mip47c3-sp1-dissolution-of-content-produ
 Ratification Poll URL: https://vote.makerdao.com/polling/QmXhSC8x
 ```
 
-## Sentence Summary
-
-Now that the Content Production Core Unit has been offboarded, their wallet should be removed from the recognized multi-sig list.
-
 ## Specification
 
 * **Group or Individual Seeking to Dissolve Multi-Sig**: @prose11
