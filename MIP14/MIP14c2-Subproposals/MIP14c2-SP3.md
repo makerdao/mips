@@ -4,7 +4,6 @@
 
 ```
 MIP14c2-SP#: 3
-Title: Protocol DAI Transfer to fund Endgame Information Portal
 Author(s): @rspa
 Contributors:twblack88
 Tags: Endgame, JokeDAO
