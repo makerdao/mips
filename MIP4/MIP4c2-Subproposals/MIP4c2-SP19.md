@@ -5,7 +5,6 @@
 ```
 MIP4c2-SP#: 19
 MIP to be amended: MIP40
-Title: Budget Framework Replacement
 Author(s): @Aes, @adcv, @SebVentures
 Contributors: @LongForWisdom, @madshills, @MakerMan
 Tags: MIP40, budget
