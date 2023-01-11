@@ -130,11 +130,7 @@ The Facilitator becomes a *Retiring* Facilitator in charge of executing the unwi
 
 #### 2. Facilitator Offboarding Process
 
-A Facilitator can be offboarded without having the Core Unit they are attached to being offboarded. An Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
-
-If a Facilitator wishes to voluntarily offboard, a MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
-
-If a Facilitator goes missing, an Interim Facilitator will take over responsibilities during the transition. A MIP41c4 subproposal proposing a new Facilitator should be submitted by the Interim Facilitator or by any other member of the Community.
+A Facilitator can be offboarded without having the Core Unit they are attached to being offboarded. An Interim Facilitator will be appointed to take over responsibilities during the transition as detailed in MIP41c7.
 
 MIP41c5 subproposal parameters are:
 
@@ -162,9 +158,9 @@ In the event of a Facilitator offboarding, the Interim Facilitator is responsibl
 
 The Interim Facilitator is empowered to use the Facilitator Governance Powers defined in MIP41c2 to keep existing operational processes running smoothly during the interim period.
 
-If the Core Unit is not being off-boarded, an Interim Facilitator receives DAI compensation monthly equal to the salary of the previous permanent Facilitator if this information is publicly available, otherwise 15,000 DAI per month. 
+If the Core Unit is not being offboarded, the Interim Facilitator will receive monthly DAI compensation equal to that of the previous permanent Facilitator. If this information is not publicly available, the monthly compensation will be 15,000 DAI. 
 
-When a Core Unit is offboarded if an Interim Facilitator is judged to be necessary to wind down the Core Unit gracefully, then compensation for an Interim Facilitator must be included as part of the offboarding subproposal.
+When a Core Unit is offboarded and an Interim Facilitator is judged to be necessary to wind down the Core Unit gracefully, then compensation for an Interim Facilitator must be included as part of the offboarding subproposal.
 
 ---
 
@@ -178,7 +174,7 @@ A single Interim Facilitator may be elected by a majority of Core Units voting i
 
 Core Unit Facilitators should refrain from casting votes before the Governance Facilitators publicly communicate the details of the process in this instance. 
  
-In the absence of a successful Interim Facilitator selection or election within 72 hours, one or more permanent Facilitator onboarding proposals for this core unit may be submitted into the weekly governance cycle. This overrides the normal rules relating to the feedback and frozen periods.
+In the absence of a successful Interim Facilitator appointment within 72 hours, one or more permanent Facilitator onboarding proposals for the Core Unit may be submitted into the weekly governance cycle. This overrides the normal rules relating to the feedback and frozen periods.
 
 #### Edge Cases
 
@@ -188,7 +184,7 @@ If a permanent Facilitator is missing and uncontactable without notice and for u
 
 If a Core Unit has no active Facilitators as a result of involuntary offboarding and has no active budget, no Interim Facilitator will be appointed unless there are winding down activities that require one.
 
-If a permanent Facilitator has not been chosen before the expiry of an Interim Facilitator's two-month term, the Core Unit is offboarded, and any budgets are revoked. A majority of Governance Facilitators may extend this time limit by stating publicly that they are doing so, and the reasoning for this decision. 
+If a permanent Facilitator has not been chosen before the expiry of an Interim Facilitator's two-month term, a majority of Governance Facilitators may extend the term by stating publicly that they are doing so, and the reasoning for this decision. If the Governance Facilitators do not do this, the Core Unit is offboarded, and any budgets are revoked. 
 
 If after one month the full Interim Facilitator Appointment Process (including the expedited weekly cycle permanent Facilitator subproposals) fails to install either an Interim or permanent Facilitator, the Core Unit should be considered offboarded, and any budgets revoked. Appropriate MIP subproposals should be filled out by the Governance Facilitators and marked as Approved without going to vote.
 
