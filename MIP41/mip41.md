@@ -130,7 +130,7 @@ The Facilitator becomes a *Retiring* Facilitator in charge of executing the unwi
 
 #### 2. Facilitator Offboarding Process
 
-A Facilitator can be offboarded without having the Core Unit they are attached to being offboarded. An Interim Facilitator will be appointed to take over responsibilities during the transition as detailed in MIP41c7.
+A Facilitator can be offboarded without having the Core Unit they are attached to being offboarded. If there are no permanent facilitators remaining in the Core Unit then an Interim Facilitator will be appointed to take over responsibilities during the transition period as detailed in MIP41c7.
 
 MIP41c5 subproposal parameters are:
 
