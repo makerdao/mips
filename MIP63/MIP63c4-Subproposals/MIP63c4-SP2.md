@@ -1,10 +1,9 @@
-# MIP63c4-SP2: Onboard/Amend Keeper Network
+# MIP63c4-SP2: Onboard/Amend Keeper Network - Keep3r Network
 
 ## Preamble
 
 ```
 MIP63c4-SP#: 2
-Title: Onboard/Amend Keeper Network - Keep3r Network
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: keeper-network
