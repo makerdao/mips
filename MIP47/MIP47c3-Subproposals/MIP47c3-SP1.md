@@ -4,7 +4,6 @@
 
 ```
 MIP47c3-SP#: 1
-Title: Dissolution of Content Production (MKT-001) Multi-Sig Request
 Author(s): @prose11
 Contributors:
 Tags: multi-sig

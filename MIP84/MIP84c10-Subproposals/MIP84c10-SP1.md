@@ -7,10 +7,11 @@ MIP84c10-SP#: 1
 Author(s): @psychonaut
 Contributors:
 Tags: 
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-10-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip84c10-sp1-modify-emulated-surplus-buffer-upper-limit/18315/1
+Ratification Poll URL: https://vote.makerdao.com/polling/Qma7a2fw
 ````
 
 ## Sentence Summary
@@ -35,3 +36,4 @@ Set the upper limit way above the size of the Surplus Buffer (a.k.a. defuse the 
 ## New Emulated Surplus Buffer Upper Limit parameter
 
 The new Emulated Surplus Buffer Upper Limit parameter shall be set to 1B.
+

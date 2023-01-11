@@ -7,12 +7,13 @@ MIP40c3-SP#: 84
 Author(s): David Utrobin
 Contributors:
 Tags: core-unit, cu-com-001, budget, dai-budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2022-10-05
 Date Ratified: 
 Budget Start Date: 2023-01-01
 Budget End Date: 2023-06-30
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp84-modify-core-unit-budget-com-001/18250
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdC5sZw
 ```
 
 ## Sentence Summary
@@ -283,3 +284,4 @@ One-time expenses:
 
  - Severance packages
  - 2x $350 offboarding charges from payroll provider
+

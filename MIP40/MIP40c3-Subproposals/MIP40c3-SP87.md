@@ -6,14 +6,15 @@
 MIP40c3-SP#: 87
 Author(s): @juanjuan, @wouter, @retro
 Contributors:
-Tags: core-unit, cu-ses-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-ses-001, budget, dai-budget, active
+Status: Accepted
 Date Proposed: 2022-10-11
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-11-28
 Budget Start Date: 2023-02-01
 Budget End Date: 2024-01-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp87-modify-the-sustainable-ecosystem-scaling-core-unit-budget-ses-001/18339
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmegsRNC
+Extra: Winning option was option 2, Approve Speedy Operations Platform Option.
 ```
 
 ## Sentence Summary
@@ -323,3 +324,4 @@ This budget implementation uses the DssVest. One of the two following budget str
 * [MIP39c2-SP10: Adding the Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368 ): 
 * [MIP40c2-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget ](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043) 
 * [MIP41c2-SP10: Facilitator On-boarding for the Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
+
