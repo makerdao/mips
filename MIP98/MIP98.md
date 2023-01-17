@@ -47,7 +47,7 @@ The Work Proposal Framework is a response to the challenges and frustrations obs
 
 This MIP does not impact any currently approved budgets at MakerDAO and utilization for current or future budgets is optional. It is being introduced as an available tool for the DAO to use as desired.
 
-## Specifications
+## Specification / Proposal Details
 
 ### MIP98c1: The Work Proposal Framework Overview
 
