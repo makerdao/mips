@@ -24,32 +24,31 @@ The Ecosystem Auditor Framework is a formal process for transparent and consiste
 
 ## Component 
 
-**MIP96c1: The Accountant Role**
+**MIP96c1: The Accountant Role**  
 Defines the role, responsibilities, and qualifications for an individual to be recognized as an Accountant. 
 
-**MIP96c2: The Auditor Role**
+**MIP96c2: The Auditor Role**  
 Defines the role, responsibilities, and qualifications for an individual to be recognized as an Auditor.
 
-**MIP96c3: The Operational Wallet Signer Role**
-
+**MIP96c3: The Operational Wallet Signer Role**  
 Defines the role, responsibilities, and qualifications for an individual to act as a signer on an Operational Wallet. 
 
-**MIP96c4: The Auditor Wallet**
+**MIP96c4: The Auditor Wallet**  
 Defines the necessary multi-sig standards for a wallet to be considered a recognized Auditor Wallet in this framework.
 
-**MIP96c5: The Operational Wallet**
+**MIP96c5: The Operational Wallet**  
 Defines the necessary multi-sig standards for a wallet to be considered a recognized Operational Wallet in this framework.
 
-**MIP96c6: The Monthly Budget Statement**
+**MIP96c6: The Monthly Budget Statement**  
 Defines the required standards for a Monthly Budget Statement to be recognized under this framework.
 
-**MIP96c7: The Monthly Audit Report**
+**MIP96c7: The Monthly Audit Report**  
 Defines the required standards for a Monthly Audit Report to be recognized under this framework.
 
-**MIP96c8: The Monthly Top-up Cycle**
+**MIP96c8: The Monthly Top-up Cycle**  
 Defines the processes and flow of funds under this framework.
 
-**MIP96c9: Disputes and Arbitration**
+**MIP96c9: Disputes and Arbitration**  
 Defines the circumstances and processes for escalating disputes to Maker Governance for arbitration. 
 
 ## Motivation
@@ -208,57 +207,57 @@ During the Monthly Budget Cycle (defined in MIP96c8), it is up to the discretion
 The report must include the following sections & Questions: 
 
 **0.0 Structure of Monthly Budget Statement and Consistency with Approved Funding MIP** 
-0.1  Are the sections in the transparency report in the right order: Actuals, Forecast, MKR vesting and Transfers? 
-0.2 Does the actual section include breakdowns per wallet with Budget Category, Forecast, Actuals, Difference and Payments?
-0.3 Does the budget forecast cover three months with summary and budget category breakdown?
-0.4 Does the budget forecast summary and breakdown contain the quarterly budget caps for comparison?
-0.5 Does the budget forecast summary contain the global/total budget cap? 
-0.6 Are the budget forecast categories in the transparency report the same as in the approved Funding MIP?
-0.7 Is the operational wallet multi-sig wallet setup the same as described in the approved funding MIP?
-0.8 Is the operational wallet controlled by more than one signer? 
-0.9 Is the auditor wallet Multi-sig wallet setup the same as described in the approved funding MIP?
-0.10 Has the auditor wallet received funds from the protocol? 
-0.11 Has the auditor wallet sufficient funds to top up the operational wallet? 
-0.12 Has the operational wallet received a top-up after the audit of the last transparency report? 
+0.1  Are the sections in the transparency report in the right order: Actuals, Forecast, MKR vesting and Transfers?  
+0.2 Does the actual section include breakdowns per wallet with Budget Category, Forecast, Actuals, Difference and Payments?  
+0.3 Does the budget forecast cover three months with summary and budget category breakdown?  
+0.4 Does the budget forecast summary and breakdown contain the quarterly budget caps for comparison?  
+0.5 Does the budget forecast summary contain the global/total budget cap?  
+0.6 Are the budget forecast categories in the transparency report the same as in the approved Funding MIP?  
+0.7 Is the operational wallet multi-sig wallet setup the same as described in the approved funding MIP?  
+0.8 Is the operational wallet controlled by more than one signer?  
+0.9 Is the auditor wallet Multi-sig wallet setup the same as described in the approved funding MIP?  
+0.10 Has the auditor wallet received funds from the protocol?  
+0.11 Has the auditor wallet sufficient funds to top up the operational wallet?  
+0.12 Has the operational wallet received a top-up after the audit of the last transparency report?  
 
 **1.0 Review of Last Month's Actuals**
-1.1	Is the actuals budget category breakdown the same as in the approved budget MIP? 
-1.2	Is the transparency report actual´s forecast the same as the forecast last published for the same month? 
-1.3	Are the differences between forecast and actuals explained in the transparency report?
-1.4	Are the actual expenses within the monthly budget cap?
-1.5	Are the actual expenses within the Global/total approved budget cap? 
-1.6	Has the Compensation & Benefits any significant deviations between forecast and actuals? 
-1.7	Has the Travel & Entertainment any significant deviations between forecast and actuals? 
-1.8	Has the Software Expense any significant deviations between forecast and actuals? 
-1.9	Has the Gas Expense any significant deviations between forecast and actuals? 
-1.10 Has the Admin Expense any significant deviations between forecast and actuals? 
-1.11 Has the one-time expense any significant deviations between forecast and actuals? 
-1.12 Has the Professional Services any significant deviations between forecast and actuals? 
-1.13 Has the presented the correct calculation of amounts for the actuals, forecast and difference? 
-1.14 Has any budget category that seems inconsistent and needs further investigation? 
+1.1	Is the actuals budget category breakdown the same as in the approved budget MIP?  
+1.2	Is the transparency report actual´s forecast the same as the forecast last published for the same month?  
+1.3	Are the differences between forecast and actuals explained in the transparency report?  
+1.4	Are the actual expenses within the monthly budget cap?  
+1.5	Are the actual expenses within the Global/total approved budget cap?  
+1.6	Has the Compensation & Benefits any significant deviations between forecast and actuals?  
+1.7	Has the Travel & Entertainment any significant deviations between forecast and actuals?  
+1.8	Has the Software Expense any significant deviations between forecast and actuals?  
+1.9	Has the Gas Expense any significant deviations between forecast and actuals?  
+1.10 Has the Admin Expense any significant deviations between forecast and actuals?  
+1.11 Has the one-time expense any significant deviations between forecast and actuals?  
+1.12 Has the Professional Services any significant deviations between forecast and actuals?  
+1.13 Has the presented the correct calculation of amounts for the actuals, forecast and difference?  
+1.14 Has any budget category that seems inconsistent and needs further investigation?  
 
 **2.0 Review of Budget Forecast**
-2.1	Does the transparency report display the MIP's caps for both total and budget categories?
-2.2	Are the monthly and quarterly budget caps (both totals and per category) the same as in the approved funding MIP?
-2.3	Are the quarterly forecasts within the bounds of the approved funding MIP's budget caps?
-2.4	Are the monthly forecast totals within the approved funding MIP's monthly budget cap?
-2.5	Has the Operational Team presented the correct calculation of amounts for the budget forecast? 
+2.1	Does the transparency report display the MIP's caps for both total and budget categories?  
+2.2	Are the monthly and quarterly budget caps (both totals and per category) the same as in the approved funding MIP?  
+2.3	Are the quarterly forecasts within the bounds of the approved funding MIP's budget caps?  
+2.4	Are the monthly forecast totals within the approved funding MIP's monthly budget cap?  
+2.5	Has the Operational Team presented the correct calculation of amounts for the budget forecast?  
 
 **3.0 Review of MKR Vesting**
-3.1	Has the indicated the number of FTE in the transparency report´s MKR vesting overview? 
-3.2	Has the MKR vesting overview the same FTE comparing it to the approved MIP?
-3.4	Are the MKR vesting dates the same as in the approved MIP?
-3.5	Is the MKR total budget cap in the transparency report the same as in the approved MIP? 
-3.6	Has the MKR amounts changed comparing it to the last published transparency report? 
-3.7	Has the MKR change(s) been explained in the transparency report?
-3.8	Other observations
+3.1	Has the indicated the number of FTE in the transparency report´s MKR vesting overview?  
+3.2	Has the MKR vesting overview the same FTE comparing it to the approved MIP?  
+3.4	Are the MKR vesting dates the same as in the approved MIP?  
+3.5	Is the MKR total budget cap in the transparency report the same as in the approved MIP?  
+3.6	Has the MKR amounts changed comparing it to the last published transparency report?  
+3.7	Has the MKR change(s) been explained in the transparency report?  
+3.8	Other observations  
 
 **4.0 Review of Transfers**
-4.1	Does the Operational Wallet balance match the transparency report current balance in the calculation made for the new transfer?
-4.2	Are the payments from the operational wallet the same as in the actuals payments? 
-4.3	Are the MKR actuals in the MKR table correct? 
-4.4	Is the Auditor Wallet current balance in MKR correct?
-4.5	Other observations
+4.1	Does the Operational Wallet balance match the transparency report current balance in the calculation made for the new transfer?  
+4.2	Are the payments from the operational wallet the same as in the actuals payments?  
+4.3	Are the MKR actuals in the MKR table correct?  
+4.4	Is the Auditor Wallet current balance in MKR correct?  
+4.5	Other observations  
 
 ### MIP96c8: The Monthly Budget Cycle
 
