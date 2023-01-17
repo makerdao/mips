@@ -7,12 +7,12 @@ MIP40c3-SP#: 52
 Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @SES-Core-Unit
 Tags: core-unit, cu-dux-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp52-development-ux-core-unit-budget-dux-001
 Ratification Poll URL: https://vote.makerdao.com/polling/QmUnMZKw
-``` 
+```
 
 ## Sentence Summary
 
@@ -55,9 +55,9 @@ Based on the nature of the work done by the Development and UX Core Unit (DUX), 
 
 #### Multi-sig Wallets
 
-The following multi-sigs are involved: 
+The following multi-sigs are involved:
 
-1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants. 
+1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants.
 
    The Accountant Role Multi-sig will have 2 signers---both SES permanent team contributors. The Auditor Role Multi-sig will also have 2 signers, also both SES permanent team contributors. SES will conduct the monthly auditing process as described in the Monthly Top-up Cycle, increasing transparency of the auditing process for the community.
 
@@ -92,19 +92,19 @@ The Monthly Budget Statements can be found in [this GitHub repository](https://g
    * Excess DAI Transactions – DAI transactions for Operational Wallets that have a balance above the 3-Month Budget Forecast will be returned to the Auditor Wallet.
 
 4. **DssVest Pull** - The Auditor Wallet signers will pull available funds from the DUX DssVest contract, replenishing the available funds in the Auditor Wallet.
-5. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by DUX to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings. 
+5. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by DUX to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings.
 
    A summary of each audit cycle’s report will be made available to the Maker Community at the conclusion of the audit cycle on the DUX’s transparency reporting repository on Github.
 
 6. **Transaction Approvals** – Upon acceptance of the Monthy Budget Statement audit, an Accountant Role signer and an Auditor Role signer will sign the requested transactions, sending the DAI top-up amounts to the Operational Wallet.
 
-7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer. 
+7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer.
 
    As such, the Auditor Wallet will then hold up to 2x the Monthly Budget Cap at the start of the month, allowing DssVest to stream DAI up to the Quarterly Budget Cap over the course of the month.
 
 #### Final Transaction According to MIP40c3-SP26
 
-No additional governance transactions are needed to enable the transition from [MIP40c3-SP26](https://forum.makerdao.com/t/mip40c3-sp26-development-ux-core-unit-budget-dux-001/9774) to the new MIP40c3-SP52, other than putting the DssVest stream in place that is defined further down. 
+No additional governance transactions are needed to enable the transition from [MIP40c3-SP26](https://forum.makerdao.com/t/mip40c3-sp26-development-ux-core-unit-budget-dux-001/9774) to the new MIP40c3-SP52, other than putting the DssVest stream in place that is defined further down.
 
 The last top-up transaction from the protocol to the Auditor Wallet according to [MIP40c3-SP26](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP26.md) is expected to happen throughout the month of January, after acceptance of the December budget statement by the auditors.
 
@@ -154,14 +154,14 @@ The budget cap differs from the actual expenses of the core unit. The cap refers
 
 #### Contributor Compensation
 
-|Type|Monthly Cost|Quarterly| 
+|Type|Monthly Cost|Quarterly|
 |--|:--:|:--:|
 |**Grand Total**|**$91,667**|**$275,000**|
 
 
 #### Budget Breakdown
 
-|Summary|Monthly Cost|Quarterly| 
+|Summary|Monthly Cost|Quarterly|
 |--|:--:|:--:|
 |Contributor Compensation|$91,667|$275,000|
 |Travel & Events|$4,500|$13,500|

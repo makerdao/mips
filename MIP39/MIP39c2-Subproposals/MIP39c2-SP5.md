@@ -7,7 +7,7 @@ MIP39c2-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
 Tags: core-unit, cu-mkt-001, active, mandate
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-03-03
 Date Ratified: 2021-04-27  
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
@@ -101,7 +101,7 @@ Accountability will be demonstrated through regular updates on goals and KPIs.
 
 ### Team Credentials
 
-Members of this team bring expertise in content marketing and production, audio engineering, and SEO. 
+Members of this team bring expertise in content marketing and production, audio engineering, and SEO.
 
 **Seth Goldfarb** is a Content Marketing professional who’s spent the last four years helping industry leaders tell better stories about the development of blockchain and cryptocurrency.
 * http://sethgoldfarbthewriter.com/

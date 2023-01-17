@@ -7,7 +7,7 @@ MIP39c2-SP#: 32
 Author(s): @PonJerry, @Leggevents
 Contributors:  @Hexonaut, @Nadia, @tadeo, @juan
 Tags: core-unit, cu-events-001, proposal, mandate, active
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-03-09
 Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp32-adding-events-core-unit-events-001/13780
@@ -90,7 +90,7 @@ Thirty seconds recap 2: https://youtu.be/fpoWT5HqMP8
 ### ETH Denver Summary
 
 During the 2022 ETH Denver conference, the first MakerDAO branded event “DAIvinity” was trialed at The Church Nightclub to great fanfare.  The team planned and executed an event full of Maker branding including LED logos, digital Maker & DAI branded animations to the attendance of 1.000 people.  Additionally two internationally recognized DJs were curated for the night, [Miss Monique](https://www.youtube.com/channel/UClIIy-aQBXRi1OHupBcrjJw) & [Sean Tyas](https://en.wikipedia.org/wiki/Sean_Tyas).  Since the event, the buzz from the community has been unanimously lauding, with [Bankless even giving the event a formidable shout out](https://newsletter.banklesshq.com/p/8-things-you-missed-at-ethdenver-ab5?utm_source=url).
- 
+
 ### Venue
 
 ETH Denver gave a great opportunity to host the MakerDAO event at the famous Church venue.  The venue is internationally acclaimed and recognized in the DJ community.
@@ -137,7 +137,7 @@ The 2 minor events are planned in between the major events.  The Events team wil
 The Events CU plans to leverage partnerships with other protocols for these events.  The partnerships will allow for cross-promotion and cost offsetting of the CU budget.  From the cross-promotion aspect Maker will be able to tap into the partners' audience,  this will allow for broader exposure and interaction with a different audience Maker may draw by itself.  The partners for the event would be expected to cost split the event sub budgets with the Events CU.  The split ratio would be discussed before the event during the planning phase.  Maker would always retain a majority share to ensure the event is Maker focused.  Creative and operation control would always remain with the Events CU.  An example of the potential cost reduction impact to the CU budget is highlighted in the DAI budget MIP40c3-SP66 under the Partnerships section.
 
 ## Core Unit Team
-The Events CU team has been carefully curated to include expertise and skills to execute the ambitious vision of the MakerDAO events.  First and foremost is precision organization and execution of all aspects related to the events.  The Event Manager must be highly effective at communication and planning while remaining flexible to accommodate and resolve any unforeseen issues during the event execution.  The Event Manager will be the first point contact for event personnel and contractors.  This will ensure communication is consistent, clear and effective. 
+The Events CU team has been carefully curated to include expertise and skills to execute the ambitious vision of the MakerDAO events.  First and foremost is precision organization and execution of all aspects related to the events.  The Event Manager must be highly effective at communication and planning while remaining flexible to accommodate and resolve any unforeseen issues during the event execution.  The Event Manager will be the first point contact for event personnel and contractors.  This will ensure communication is consistent, clear and effective.
 
 The goal of the Events team is to be as vertically integrated as possible which is why the team has included a mechanical engineer role in the CU.  The engineer will be responsible for all technical aspects and coordination of visual elements, LED lighting and other event installations.  The engineer will additionally be responsible for the design and manufacturing of set dress, including LED lighting.   Safety analysis of rigging/installations would be performed by the engineer to ensure compliance with any local safety requirements or authorities.
 
@@ -146,11 +146,11 @@ The goal of the Events team is to be as vertically integrated as possible which 
 * 	Facilitator/Mechanical Engineer: Jon Perry - Forum: @PonJerry
 
 
-| Role | FTE | 
-| -------- | -------- | 
-| Event Manager     | 1    | 
-| Facilitator/Mechanical Engineer     | 1    | 
- 
+| Role | FTE |
+| -------- | -------- |
+| Event Manager     | 1    |
+| Facilitator/Mechanical Engineer     | 1    |
+
 ### Role Definitions
 #### Core Unit Facilitator
 * Communications with Governance and MakerDAO Community

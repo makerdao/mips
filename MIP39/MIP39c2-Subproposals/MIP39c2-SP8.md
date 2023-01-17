@@ -7,7 +7,7 @@ MIP39c2-SP#: 8
 Author(s): David Utrobin
 Contributors: Tim Black
 Tags: core-unit, cu-com-001, mandate
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-03-12
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcZSQnc?network=mainnet
