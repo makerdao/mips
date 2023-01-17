@@ -7,7 +7,7 @@ MIP55c3-SP#: 13
 Author(s): @Hajive 
 Contributors: @Viridian  
 Tags: spf, viridian-cluster, Endgame
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-07
 Date Ratified:
 Amount Requested: 500,000 DAI
@@ -68,6 +68,6 @@ Contact Email/Handle: @hajive
 Date Added: XX
 Total Amount: 500,000 Dai
 Wallet Address: To be setup
-Comptroller signers: @SebVentures, @Patrick_J (https://forum.makerdao.com/t/mip-xx-special-purpose-fund-for-developing-proof-of-performance-for-viridian-cluster/19077/6)
+Comptroller signers: @SebVentures (https://forum.makerdao.com/t/mip55c3-sp13-special-purpose-fund-for-developing-proof-of-performance-for-viridian-cluster/19077/11), @Patrick_J (https://forum.makerdao.com/t/mip-xx-special-purpose-fund-for-developing-proof-of-performance-for-viridian-cluster/19077/6)
 ```
 

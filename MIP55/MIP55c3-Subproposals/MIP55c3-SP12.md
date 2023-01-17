@@ -7,7 +7,7 @@ MIP55c3-SP#: 12
 Author(s): @Aes 
 Contributors:
 Tags: spf
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-11-27
 Date Ratified: TBD
 Amount Requested: 209K DAI

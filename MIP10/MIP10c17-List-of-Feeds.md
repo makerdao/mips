@@ -16,7 +16,7 @@ Date Ratified: <yyyy-mm-dd>
 
 MIP10c17 is the canonical record of the list of feeds.
 
-# Specification
+## Specification
 
 ### Introduction
 

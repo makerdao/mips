@@ -16,7 +16,11 @@ Extra: This was a voluntary offboarding; as such, it was not subject to vote.
 
 ## Sentence Summary
 
+None
+
 ## Paragraph Summary
+
+None
 
 ## Specification
 

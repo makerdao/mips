@@ -1,10 +1,9 @@
-# MIP63c4-SP3: Onboard/Amend Keeper Network
+# MIP63c4-SP3: Onboard/Amend Keeper Network - Gelato Network
 
 ## Preamble
 
 ```
 MIP63c4-SP#: 3
-Title: Onboard/Amend Keeper Network - Gelato Network
 Author(s): Sam MacPherson (@hexonaut), Hilmar Orth (@hilmarx)
 Contributors:
 Tags: keeper-network

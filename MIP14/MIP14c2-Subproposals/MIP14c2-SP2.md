@@ -8,7 +8,7 @@ Title: Subproposal for Protocol DAI Transfer to Fund ISCU from Dec 2022 to May 2
 Author(s): @psychonaut
 Contributors: @TravinImmunefi
 Tags: 
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-02
 Date ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp2-subproposal-for-protocol-dai-transfer-to-fund-iscu-from-dec-2022-to-may-2023/19025

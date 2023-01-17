@@ -1,10 +1,9 @@
-# MIP63c4-SP1: Onboard/Amend Keeper Network
+# MIP63c4-SP1: Onboard/Amend Keeper Network - Tech-Ops
 
 ## Preamble
 
 ```
 MIP63c4-SP#: 1
-Title: Onboard/Amend Keeper Network - Tech-Ops
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
 Tags: keeper-network

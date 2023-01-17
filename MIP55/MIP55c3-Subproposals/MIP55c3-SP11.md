@@ -7,12 +7,13 @@ MIP55c3-SP#: 11
 Author(s): @pvl
 Contributors:
 Tags: spf
-Status: RFC
+Status: Rejected
 Date Proposed: 2022-11-15
-Date Ratified: (yyyy-mm-dd)
+Date Ratified: N/A
 Amount Requested: 50,000 DAI
 Recipient Address: 0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp11-pioneer-defi-focused-language-dataset-for-the-benefit-of-risk-modelling-govcomms/18802
+Ratification Poll URL: https://vote.makerdao.com/polling/QmYsosW6
 ```
 
 ## Sentence Summary
