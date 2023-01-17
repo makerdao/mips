@@ -24,19 +24,19 @@ The DAO-level Objective Framework is a tool for Maker Governance to increase the
 
 ## Component Summary
 
-**MIP97c1: The DAO-level Objective Framework**
+**MIP97c1: The DAO-level Objective Framework**  
 Provides an overview of overall framework.
 
-**MIP97c2: Adding a DAO-Level Objective Proposal (DLO)**
+**MIP97c2: Adding a DAO-Level Objective Proposal (DLO)**  
 Describes the proposal template and requirements to submit an eligible DLO.
 
-**MIP97c3: Standard DAO-Level Objective Proposal (DLO) parameters**
+**MIP97c3: Standard DAO-Level Objective Proposal (DLO) parameters**  
 Provides defined best practices increasing the usability of DLOs by Governance and increasing the opportunities for continuous improvement.
 
-**MIP97c4: Governance Cycle**
+**MIP97c4: Governance Cycle**  
 Defines how the DLO framework integrates with Maker's Governance Cycles.
 
-**MIP97c5: DLO Tracking**
+**MIP97c5: DLO Tracking**  
 Defines how Governance must track and archive DLO data.
 
 ## Motivation
@@ -65,17 +65,17 @@ A DLO is a defined opportunity or project that serves as a request from MakerDAO
 
 A DLO has the following required sections:
 
-**1. Sentence Description of the Objective** - a short one-sentence description of the Objective.
-**2. Paragraph Description of the Objective** - a long-form description of the Objective. This section should describe the origins of the objective, the future state of the DAO once this objective is achieved, and any known challenges the DAO has faced previously related to this objective, if available.
-**3. List of Deliverables** - A well-defined and obtainable list of deliverables is required. Deliverables are quantifiable byproducts of work. Deliverables may or may not be subject to Maker Governance approval upon delivery (deliverable parameters are defined in section 4 of this subcomponent). This is, however, a valuable step to create a feedback loop of Governance providing their perspective on the work delivered.
-**4. Desired Timeline and Milestones for Delivery**
+1. **Sentence Description of the Objective** - a short one-sentence description of the Objective.
+2. **Paragraph Description of the Objective** - a long-form description of the Objective. This section should describe the origins of the objective, the future state of the DAO once this objective is achieved, and any known challenges the DAO has faced previously related to this objective, if available.
+3. **List of Deliverables** - A well-defined and obtainable list of deliverables is required. Deliverables are quantifiable byproducts of work. Deliverables may or may not be subject to Maker Governance approval upon delivery (deliverable parameters are defined in section 4 of this subcomponent). This is, however, a valuable step to create a feedback loop of Governance providing their perspective on the work delivered.
+4. **Desired Timeline and Milestones for Delivery**
 * **Timeline** - MakerDAO's operational climate moves quickly. An Objective may require a specific timeline for delivery. This section defines the desired timeline for a DLO's Deliverables once a Work Proposal for that DLO is accepted. This is defined as a number of months and is set for the overall DLO.
 * **Milestones** - Milestones are a powerful alignment tool within this framework that dictate operational parameters for Deliverables. This can be leveraged to build Budget Distributions and Reporting Requirements. Milestones must be defined for all Deliverables listed in Section 4 of this subcomponent. Appropriate uses of Milestones are defining the order for completing deliverables if desired and requiring specific reporting cadences, based on work completion or time.
-**5. DLO Parameters** - These are specific parameters that DLO authors can utilize to tailor the DLO to the current environment and opportunity the DAO faces.
+5. **DLO Parameters** - These are specific parameters that DLO authors can utilize to tailor the DLO to the current environment and opportunity the DAO faces.
 * **Maximum Number of Workforce Teams** - A DLO is designed to enable one or more teams to deliver work. If a DLO is designed or best fit for delivery by a single team, the author should set this parameter to one. If a DLO is designed to have multiple teams producing the deliverable(s), then this number can be set above one. An infinite number of teams can be defined; this would result in a DLO's maximum allowable teams being restricted by the utilization of the Budget Cap through approved Work Proposals.
 * **Workforce Team Requirements or Restrictions** - This parameter defines any desired requirements or restrictions for a Workforce Team to be considered eligible for the DLO. Any requirements should be easily verifiable, ideally using a methodology that protects the workforce's anonymity.
 * **DLO Expiry** - Once a DLO is approved by Governance, the DLO is active and workforce teams can request assignment of the work through a [Work Proposal (MIP97)](https://forum.makerdao.com/t/mip97-the-work-proposal-framework/19391). It is expected that larger, more complex projects may require some period of time for a Work Proposal to be submitted and accepted. It is also expected that some DLOs may require immediate action. To manage the overhead of the lifecycle of DLOs, they are required to have a defined Expiry, also defined in months. The expiry of a DLO does not impact accepted Work Proposals, it simply prevents new Work Proposal submissions and/or assignments of DLOs to workforce teams.
-**6. Budget Cap** - A DLO must define the overall budget that Maker Governance commits to accomplishing the DLO. Both Dai and MKR are in-scope as appropriate types of capital for funding.
+6. **Budget Cap** - A DLO must define the overall budget that Maker Governance commits to accomplishing the DLO. Both Dai and MKR are in-scope as appropriate types of capital for funding.
 
 A template for DLOs is provided here: https://hackmd.io/gdrU2YpnSFetobcud6c83g
 
