@@ -1,5 +1,7 @@
 # MIP95: Simple To Onboard RWA 100M in Cogent Bank Loan Participations
 
+## Preamble
+
 ```
 MIP#: 95
 Title: Simple To Onboard RWA 100M in Cogent Bank Loan Participations

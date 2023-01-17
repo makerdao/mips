@@ -1,5 +1,7 @@
 # MIP97: The DAO-level Objective Framework
 
+## Preamble
+
 ```
 MIP#: 97
 Title: The DAO-level Objective Framework
@@ -10,8 +12,10 @@ Type: general
 Status: RFC
 Date Proposed: 2022-01-11
 Date Ratified:
+Dependencies: None	
+Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip97-the-dao-level-objective-framework/19390
-Ratification Poll URL: 
+Ratification Poll URL: xx
 ```
 
 ## Sentence Summary
