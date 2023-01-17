@@ -11,7 +11,9 @@ Tags: process
 Type: General
 Status: RFC
 Date Proposed: 2022-01-11
-Date Ratified: 
+Date Ratified: xx
+Dependencies: None
+Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip96-the-ecosystem-auditor-framework/19389
 Ratification Poll URL:
 ```
@@ -22,7 +24,7 @@ The Ecosystem Auditor Framework is a systematic and recognized process that enab
 ## Paragraph Summary
 The Ecosystem Auditor Framework is a formal process for transparent and consistent reporting on operational funds enabled by Maker Governance to its decentralized workforce. The framework defines specific roles, wallets, and processes which pair the use of operational funds to a mature reporting structure. The goal of this MIP is to also further refine the term "Ecosystem Audited Budget" at MakerDAO by labeling this term as a formal, well-defined process to avoid the misuse of the term. This framework is developed and pioneered by the @SES-Core-Unit and is intended to be compatible with all operational teams at MakerDAO, including Core Units, MIP55 SPF recipients, Work Proposals and future Governance approved mechanisms of providing funds for operational expenses. 
 
-## Component 
+## Component Summary
 
 **MIP96c1: The Accountant Role**  
 Defines the role, responsibilities, and qualifications for an individual to be recognized as an Accountant. 
@@ -61,7 +63,7 @@ For the sake of clarity for the DAO to implement this MIP during the transition 
 
 This MIP does not impact any currently approved budgets at MakerDAO and utilization for current or future budgets is optional. It is being introduced as an available tool for the DAO to use as desired.
 
-## Specification
+## Specification / Proposal Details
 
 ### MIP96c1: The Accountant Role
 
