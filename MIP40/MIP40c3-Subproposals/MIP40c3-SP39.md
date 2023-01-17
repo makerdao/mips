@@ -7,7 +7,7 @@ MIP40c3-SP#: 39
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors:
 Tags: core-unit, cu-rwf-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-09-29
 Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmYoEMTT
@@ -88,3 +88,4 @@ Extra safety in case we forgot something unexpected and for stuff like gas, SaaS
 ## MKR compensation
 
 For reference, MKR compensation was proposed [here](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP38.md)
+

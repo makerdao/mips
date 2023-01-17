@@ -7,7 +7,7 @@ MIP40c3-SP#: 19
 Author(s): @Nadia
 Contributors:
 tags: core-unit, cu-gro-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-06-08
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmQDJUkr?network=mainnet
@@ -117,3 +117,4 @@ Growth CU has a multi-signature wallet to administer the funds allocated to fulf
 	- August - 637,900 DAI
 	- September - 137,900 DAI
 	- October - 162,150 DAI
+

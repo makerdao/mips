@@ -7,11 +7,12 @@ MIP41c4-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
 Tags: core-unit, cu-rwf-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-01-26
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp1-facilitator-onboarding-real-world-finance/6226
+Extra: Sébastien Derivaux stepped down from the role voluntarily. See [the forum post](https://forum.makerdao.com/t/mip41c5-sp2-facilitator-offboarding-rwf-001/11306/49).
 ```
 
 ## Sentence Summary
@@ -68,3 +69,4 @@ MIP41c4-SP1 onboards Sébastien Derivaux as Facilitator for Core Unit RWF-001: R
       *  issues with setting up the infrastructure (MIP21 and MIP22, trust structure)
       * DAI-demand collapse 
       * unwillingness by MakerDAO Governance to invest in Real-World Assets.
+

@@ -7,7 +7,7 @@ MIP40c3-SP#: 33
 Author(s): @seth
 Contributors: @JerryAG @Kat @Alec @JMarshall
 Tags: core-unit, cu-mkt-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-09-03
 Date Ratified: 2021-11-22
 Resubmission: First formally submitted for October's Governance Cycle (https://vote.makerdao.com/polling/QmWn7G3Q)
@@ -144,3 +144,4 @@ After reviewing our accounting, we’ve updated our budget proposal with a more 
 With regard to salaries, we’ve carried forward a surplus of 51,056 Dai mostly accrued during our first couple of months with hiring.
 
 We’ve also added 38,000 Dai to replenish the funds we’ll take from our Continuity buffer to get through November, 8,000 Dai to replenish our Contingency funds (we’ve spent 3000 on insurance and 5000 on legal fees), and reduced the funds for the Ambassador Program from 10,000 to 7,000 Dai due to a surplus in the Community Management funds from the last budget period.
+

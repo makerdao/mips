@@ -15,7 +15,11 @@ Forum URL: https://forum.makerdao.com/t/mip39c3-spxx-core-unit-offboarding-ces-0
 
 ## Sentence Summary
 
+--
+
 ## Paragraph Summary
+
+--
 
 ## Specification
 
@@ -110,3 +114,4 @@ Given the source of this offboarding and after continued attempts, I do not see 
 ### Core Unit ID
 
 CES-001
+

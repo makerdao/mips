@@ -7,7 +7,7 @@ MIP40c3-SP#: 11
 Author(s): @LongForWisdom
 Contributors: Payton Rose (@prose11)
 Tags: core-unit, cu-gov-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmXqB41P?network=mainnet
@@ -176,3 +176,4 @@ For the next quarter, GovAlpha is proposing a manual budget implementation that 
 Month of July - 273,334 DAI  
 Month of August - 123,333 DAI  
 Month of September - 123,333 DAI  
+

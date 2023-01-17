@@ -7,7 +7,7 @@ MIP40c3-SP#: 60
 Author(s): @prose11, @LongForWisdom, @Patrick_J
 Contributors: @blimpa, @gala
 Tags: core-unit, cu-gov-001, budget, mkr-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-02-09
 Date Ratified: 2022-03-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmefuvKL?network=mainnet#poll-detail
@@ -126,3 +126,4 @@ Core Unit Stream:
 * 167.64 MKR committed to GovAlpha for MKR compensation for ~85% annual compensation (Core Unit origin until present).
 * This proposal accounts for 2.5 FTE based on hours worked, or ~67.06 MKR/FTE/Year. Future proposals will likely have a higher FTE as the GovAlpha team has been expanding and this proposal takes into account the starting days of the Core Unit.
 * Overall, committing 227.64 MKR from the Pause Proxy, covering previous time working. Note that this will Repeat roughly every 6 months (but likely in a smaller amount.)
+

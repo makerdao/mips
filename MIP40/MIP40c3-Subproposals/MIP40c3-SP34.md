@@ -7,7 +7,7 @@ MIP40c3-SP#: 34
 Author(s): Tomek Mierzwa (@tmierzwa)
 Contributors:
 Tags: core-unit, cu-din-001, budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-09-07
 Date Ratified: 2021-10-25
 Ratification Poll URL: https://vote.makerdao.com/polling/QmR7fMc6?network=mainnet
@@ -131,3 +131,4 @@ The first disbursement requested is **DAI 464,500** which includes what follows.
 ### Other Considerations
 
 * For any budget request beyond April 2022, new MIP40c3 subproposals will be submitted
+

@@ -7,7 +7,7 @@ MIP41c4-SP#: 11
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
 Tags: core-unit, cu-sh-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-05-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
@@ -81,3 +81,4 @@ I will continue to:
 
 - [MIP39c2-SP11: Strategic Happiness Core Unit](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
 - [MIP40c3-SP16: The Strategic Happiness Core Unit Budget, SH-001](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP16.md)
+

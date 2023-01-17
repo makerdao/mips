@@ -7,7 +7,7 @@ MIP40c3-SP#: 37
 Author(s): @Nadia
 Contributors:
 Tags: core-unit, cu-gro-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-09-08
 Date Ratified: 2021-10-25
 Ratification Poll URL: https://vote.makerdao.com/polling/QmYQsaQq?network=mainnet#poll-detail
@@ -120,3 +120,4 @@ For the total Variable expenses for eight months = 1,265,821 DAI, the budget imp
 
 * **791,138 DAI** will be transferred to 0x7800C137A645c07132886539217ce192b9F0528e on 2021-11-10
 * **474,683 DAI** will be transferred to 0x7800C137A645c07132886539217ce192b9F0528e on 2022-04-06
+

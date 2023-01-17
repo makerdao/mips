@@ -7,7 +7,7 @@ MIP40c3-SP#: 4
 Author(s): Nadia Alvarez
 Contributors: Jennifer Senhaji, Gustav Arentoft, Matt Cooper, Doo Wan Nam, Mariano DiPietrantonio.
 Tags: core-unit, cu-gro-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-02-24
 Date Ratified: 2021-04-27
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-april-2021-governance-cycle-april-26-2021?network=mainnet#proposal-detail
@@ -136,3 +136,4 @@ Payment per month: 126,117.00 Dai per month
 Asset type: DAI
 Payment Frequency: First 10 days of each month
 Growth Multisig Wallet: 0x7800C137A645c07132886539217ce192b9F0528e
+

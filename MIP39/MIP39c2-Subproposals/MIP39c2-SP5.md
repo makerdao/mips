@@ -6,12 +6,13 @@
 MIP39c2-SP#: 5
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
-Tags: core-unit, cu-mkt-001, active, mandate
-Status: Accepted
+Tags: core-unit, cu-mkt-001, mandate
+Status: Obsolete
 Date Proposed: 2021-03-03
 Date Ratified: 2021-04-27  
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp5-content-production-core-unit-mkt-001/6823
+Extra: This Core Unit has been offboarded via [MIP40c3-SP49](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP49.md) and [MIP41c5-SP3](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposals/MIP41c5-SP3.md).
 ```
 
 ## Sentence Summary
@@ -101,7 +102,7 @@ Accountability will be demonstrated through regular updates on goals and KPIs.
 
 ### Team Credentials
 
-Members of this team bring expertise in content marketing and production, audio engineering, and SEO. 
+Members of this team bring expertise in content marketing and production, audio engineering, and SEO.
 
 **Seth Goldfarb** is a Content Marketing professional who’s spent the last four years helping industry leaders tell better stories about the development of blockchain and cryptocurrency.
 * http://sethgoldfarbthewriter.com/
@@ -117,3 +118,5 @@ You can see this team’s work for MakerDAO in:
 * The [Community Portal](https://community-development.makerdao.com/en/)
 * Maker Relay ([Written](https://forum.makerdao.com/tag/maker-relay) and [Audio](https://anchor.fm/voicesofmkr/))
 * Stats on the State of Maker Summaries
+
+
