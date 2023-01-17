@@ -11,7 +11,9 @@ Tags: process
 Type: general
 Status: RFC
 Date Proposed: 2022-01-11
-Date Ratified:
+Date Ratified: xx
+Dependencies: None
+Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip98-the-work-proposal-framework/19391
 Ratification Poll URL:
 ```
@@ -47,7 +49,7 @@ The Work Proposal Framework is a response to the challenges and frustrations obs
 
 This MIP does not impact any currently approved budgets at MakerDAO and utilization for current or future budgets is optional. It is being introduced as an available tool for the DAO to use as desired.
 
-## Specifications
+## Specification / Proposal Details
 
 ### MIP98c1: The Work Proposal Framework Overview
 
