@@ -1,25 +1,24 @@
-# MIP95: Simple To Onboard RWA, $100M in Cogent Bank Loan Participations
+# MIP95: Simple To Onboard RWA 100M in Cogent Bank Loan Participations
 
 ```
 MIP#: 95
-Title: Simple To Onboard RWA, $100M in Cogent Bank Loan Participations
-Authors: @maxglass and Kyle Feldman kfeldman@cogentbank.net
+Title: Simple To Onboard RWA 100M in Cogent Bank Loan Participations
+Authors: @maxglass, Kyle Feldman (kfeldman@cogentbank.net)
 Contributors:
 Tags: RWA
 Type: Real World Asset
 Status: RFC
 Date Proposed: 2023-01-06
 Date Ratified: <yyyy-mm-dd>
+Dependencies: None
+Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip95-simple-to-onboard-rwa-100m-in-cogent-bank-loan-participations/19338
 Ratification Poll URL:
-Dependencies:
-Replaces:
 ```
 
 ## References
 
-https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219
-
+* [HVBank Collateral Onboarding Application](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219)
 
 ## Sentence Summary
 
@@ -121,10 +120,7 @@ The total S,G,&R Fees will be equal to one and one-quarter of one percent (1.25%
 
 G&R will be 25 bps (0.25%) paid to MaxStability for that work. MaxStability’s G&R fees are at risk if the guaranteed minimum yield is not achieved.
 
-**—————————————————————————————————————————————————— LONG FORM PROPOSAL BELOW————————————— ---------------------------------------------------------------------------------------------------------------------------------------------**
-
 ## Specification / Proposal Details
-
 
 **The Counterparty: A Regulated Loan Originator and Servicer, Cogent Bank**
 
@@ -204,7 +200,7 @@ Cogent reviews all internally originated loans or identified participations thro
 
 All decisions are handled via credit policy. All changes to credit policy, i.e. investment guidelines and policies, are handled by the CCO, President, CEO, and Board of Directors
 
-## <b>Cogent’s Risk Ratings (Credit Ratings):</b>
+### Cogent’s Risk Ratings (Credit Ratings)
 
 Every loan in Cogent’s portfolio is subjected to the same grading system, which has nine grades detailed below. Ratings 1 through 5 are “Pass” ratings, and the rest, 6 through 9, are “Cited”.
 
@@ -291,7 +287,7 @@ In 2019, Cogent originated $300M of loans. In 2020, originations grew to $513M. 
 |Public Finance|$17,130,352 |37|4.00%|
 |**Total**|**$680,425,665** |**29**|**5.38%**|
 
-## Non-Performing Loans as of September 30th, 2022
+### Non-Performing Loans as of September 30th, 2022
 
 |Type|07/31/2022|08/31/2022|09/30/2022|Non-Accrual Date|
 |---|---|---|---|---|
