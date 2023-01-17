@@ -11,7 +11,9 @@ Tags: process
 Type: general
 Status: RFC
 Date Proposed: 2022-01-11
-Date Ratified:
+Date Ratified: xx
+Dependencies: None
+Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip98-the-work-proposal-framework/19391
 Ratification Poll URL:
 ```
