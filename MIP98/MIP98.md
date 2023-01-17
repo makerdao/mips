@@ -1,5 +1,7 @@
 # MIP98: The Work Proposal Framework
 
+## Preamble
+
 ```
 MIP#: 98
 Title: The Work Proposal Framework
