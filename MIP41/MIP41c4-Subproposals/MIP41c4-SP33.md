@@ -63,4 +63,3 @@ As a Facilitator, my commitment will be to keep the Events Core Unit running smo
 * Extensive experience designing LED lighting systems
 * Design LED lighting fixtures for the mass transit industry including Headlights, Interior Main Lighting, Interior & Exterior Indicator Lights, Control Systems and Decorative Lights
 * Extensive experience in woodworking, CNC programming and operation
-

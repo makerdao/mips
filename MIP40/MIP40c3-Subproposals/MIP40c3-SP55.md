@@ -6,8 +6,8 @@
 MIP40c3-SP#: 55
 Author(s): @wouter, @juanjuan
 Contributors: @Retro
-Tags: core-unit, cu-ses-001, budget, dai-budget 
-Status: Accepted
+Tags: core-unit, cu-ses-001, budget, dai-budget
+Status: Obsolete
 Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp55-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/12097
@@ -52,7 +52,7 @@ SES-01
 
 ### Budget Implementation
 
-The budget is split into three separate categories: `Permanent Team`, `Grants Program`, and `Incubation Program`. 
+The budget is split into three separate categories: `Permanent Team`, `Grants Program`, and `Incubation Program`.
 
 ![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/budget-map.png)
 
@@ -60,7 +60,7 @@ The budget is split into three separate categories: `Permanent Team`, `Grants Pr
 
 The following multi-sigs are involved:
 
-1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants. 
+1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have 2 roles defined for its signers: Auditors and Accountants.
 
    The Accountant Role Multi-sig will have 2 signers, both SES permanent team contributors. The Auditor Role Multi-sig will also have 2 signers, both **TBD**. Both roles will conduct the monthly auditing process as described in the Monthly Top-up Cycle, increasing transparency of the auditing process for the community.
 
@@ -96,18 +96,18 @@ The Monthly Budget Statements can be found in this [git repository on Github](ht
 3. **Returning Excess Funds** – SES creates and signs any transactions for excess funds that should be returned to the Auditor Wallet:
    - Excess DAI Transactions – DAI transactions for Operational Wallets that have a balance above the 3-Month Budget Forecast will be returned to the Auditor Wallet.
 4. **DssVest Pull** - The Auditor Wallet signers will pull available funds from the SES DssVest contract, replenishing the available funds in the Auditor Wallet.
-5. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by SES to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings. 
+5. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by SES to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings.
 
    A summary of each audit cycle’s report will be made available to the Maker Community at the conclusion of the audit cycle on the SES’s transparency reporting repository on Github.
 
 6. **Transaction Approvals** – Upon acceptance of the Monthly Budget Statement audit, an Accountant Role signer, and an Auditor Role signer will sign the requested transactions, sending the DAI top-up amounts to the Operational Wallets.
-7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer. 
+7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer.
 
    As such, the Auditor Wallet will then hold up to 2x the Monthly Budget Cap at the start of the month, allowing DssVest to stream DAI up to the Quarterly Budget Cap over the course of the month.
 
 #### Final Transaction According to MIP40c3-SP26
 
-No additional governance transactions are needed to enable the transition from [MIP40c3-SP31](https://forum.makerdao.com/t/mip40c3-sp31-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/9805) to the new MIP40c3-SP55, other than putting the DssVest stream in place that is defined further down. 
+No additional governance transactions are needed to enable the transition from [MIP40c3-SP31](https://forum.makerdao.com/t/mip40c3-sp31-modify-core-unit-budget-sustainable-ecosystem-scaling-ses-001/9805) to the new MIP40c3-SP55, other than putting the DssVest stream in place that is defined further down.
 
 The last top-up transaction from the protocol to the Auditor Wallet according to [MIP40c3-SP31](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP31.md) is expected to happen throughout the month of January, after acceptance of the December budget statement by the auditors.
 
@@ -125,7 +125,7 @@ To enable this payment flow, a modification in the configuration of the existing
 - **DssVest Stream**
 
    A total of 5,844,444 DAI will be streamed to 0x87AcDD9208f73bFc9207e1f6F0fDE906bcA95cc6 starting 2022-2-1 and ending 2023-1-31.
-   
+
    *(5,844,444 DAI is calculated as  Quarterly Budget Cap x 4 = 1,461,111  x 4).*
 
 ### Budget Breakdown
@@ -187,7 +187,6 @@ The details for the Grants Program are still being worked out. To avoid updating
 
 ## Related Documents
 
-* [MIP39c2-SP10: Adding the Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368 ): 
-* [MIP40c2-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget ](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043) 
+* [MIP39c2-SP10: Adding the Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip39c2-sp10-adding-sustainable-ecosystem-scaling-core-unit/7368 ):
+* [MIP40c2-SP17: Sustainable Ecosystem Scaling Core Unit MKR Budget ](https://forum.makerdao.com/t/mip40c3-sp17-sustainable-ecosystem-scaling-core-unit-mkr-budget-ses-001/8043)
 * [MIP41c2-SP10: Facilitator On-boarding for the Sustainable Ecosystem Scaling Core Unit](https://forum.makerdao.com/t/mip41c4-sp10-facilitator-onboarding-sustainable-ecosystem-scaling-core-unit/7370)
-

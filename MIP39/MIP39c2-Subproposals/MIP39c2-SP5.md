@@ -102,7 +102,7 @@ Accountability will be demonstrated through regular updates on goals and KPIs.
 
 ### Team Credentials
 
-Members of this team bring expertise in content marketing and production, audio engineering, and SEO. 
+Members of this team bring expertise in content marketing and production, audio engineering, and SEO.
 
 **Seth Goldfarb** is a Content Marketing professional who’s spent the last four years helping industry leaders tell better stories about the development of blockchain and cryptocurrency.
 * http://sethgoldfarbthewriter.com/
@@ -118,4 +118,5 @@ You can see this team’s work for MakerDAO in:
 * The [Community Portal](https://community-development.makerdao.com/en/)
 * Maker Relay ([Written](https://forum.makerdao.com/tag/maker-relay) and [Audio](https://anchor.fm/voicesofmkr/))
 * Stats on the State of Maker Summaries
+
 

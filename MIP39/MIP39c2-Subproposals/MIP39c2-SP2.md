@@ -7,7 +7,7 @@ MIP39c2-SP#: 2
 Author(s): Primož Kordež (@Primoz)
 Contributors:
 Tags: core-unit, cu-risk-001, mandate
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
