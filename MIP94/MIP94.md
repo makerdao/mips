@@ -44,6 +44,3 @@ The Dai contract has the function of additional issuance. The customer’s Dai i
 - If people transfer their Dai to the contract address, and the contract address has the characteristic of being permanently non-transferable, then we regard it as permanently destroyed
 - When the Dai is regarded as permanently destroyed, it will be issued to the transferor through the mint function on the smart contract
 - Maker should offer some kind of support for Dai sent to the contract. Maybe with a 10% penalty to discourage abuse.
-
-link:
-https://github.com/makerdao/mips/pull/731
