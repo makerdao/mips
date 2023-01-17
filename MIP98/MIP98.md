@@ -24,19 +24,19 @@ The Work Proposal Framework is a request for funds mechanism for a decentralized
 
 ## Component Summary
 
-**MIP98c1: The Work Proposal Framework**
+**MIP98c1: The Work Proposal Framework**  
 Describes the overall process to request and receive work assignments and funding from MakerDAO.
 
-**MIP98c2: Adding a Work Proposal**
+**MIP98c2: Adding a Work Proposal**  
 Describes the proposal template and requirements to submit an eligible Work Proposal.
 
-**MIP98c3: Standard Work Proposal Parameters**
+**MIP98c3: Standard Work Proposal Parameters**  
 Describes the standard, best-practice conditions for certain sections of the Work Proposal available to workforce teams to utilize.
 
-**MIP98c4: Governance Cycle**
+**MIP98c4: Governance Cycle**  
 Defines how the Work Proposal framework integrates with Maker's Governance Cycle.
 
-**MIP98c5: Work Proposal Tracking**
+**MIP98c5: Work Proposal Tracking**  
 Defines how Governance must track and archive Work Proposals data.
 
 ## Motivation
