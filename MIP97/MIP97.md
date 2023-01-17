@@ -11,8 +11,8 @@ Tags: process
 Type: general
 Status: RFC
 Date Proposed: 2022-01-11
-Date Ratified:
-Dependencies: None	
+Date Ratified: xx
+Dependencies: None
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip97-the-dao-level-objective-framework/19390
 Ratification Poll URL: xx
@@ -119,5 +119,5 @@ Status: Open/Active/Active/Closed
 Expiry Date: YYYY-MM-DD
 ```
 
-### DLO Tracking Entries:
+#### DLO Tracking Entries:
 
