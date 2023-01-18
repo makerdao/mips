@@ -47,48 +47,46 @@ The main problem is that the benefits of Dai are not easily available in the rea
 Fluid enables seamless integration of Dai into the real economy. Together, Dai and Fluid put the user in control and deliver tangible, real-world benefits that are superior to TradFi alternatives. 
 
 Here is what the solution looks like:
-
-![image|690x364](upload://hH5ZfQG5E4li6Ez1actcgGnQQjV.jpeg)
-
+![image|190x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/fluid%26maker.jpg)
 
 Fluid allows users to mint their own digital cash, which is a digital version of money held in their account. It is essentially real money, on-chain. And, it is available in 32 different currencies. 
 
  You can drag and drop real money from your account to your Web3 wallet.
 
-![image|690x389](upload://pWF4Aq7E9JgP5SabZGEyyZlEAtG.jpeg)
+![image|190x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/dragandrop.jpg)
 
 
 Then, you can swap your digital dollars for Dai. 
 
-![image|545x800](upload://3CqftHimiuGjh6xDn2hQY1sOUWw.png)
+![image|190x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/swap.jpg)
 
 
 The benefits of Dai + Fluid’s digital cash, DUSD, are set out below. 
 
-![image|690x310](upload://OWctEwjoYaWdja03HamogLIe5a.png)
+![image|190x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/DUSDDAI_benefits.jpg)
 
 
 We have been testing our Stable Pool on Balancer (on Arbitrum) for several months now. You can see it here: https://bit.ly/3hJmfw1. We are planning to launch on Ethereum mainnet soon. Of course, the development of Maker Teleport helps making currency movements nearly instant across these chains.
 
-![image|690x438](upload://gzI9mX0cbc0qKo40lCFhVSm0ySO.png)
+![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/stablecoinpool.jpg)
 
 
 
 Fluid enables Dai holders to offramp from crypto to a bank account (or Fluid Account) in less than a minute. 
 
-![image|690x391](upload://rwAB6Q73X1nx8ryaVZKFJW2Fxpi.jpeg)
+![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/fluidramp.jpg)
 
 
 Holders can also spend their Dai on their Fluid Cards, which run on the Mastercard network. These cards are available to anyone, globally. 
 
-![image|690x382](upload://srq5Q99eZg1UtWLQ7QzkWCtNXCQ.jpeg)
+![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/wildcard.jpg)
 
 
 You can see these on YouTube here: https://bit.ly/3XfExEG. 
 
 Fluid also allows crypto degens the easiest way to buy assets in the real world, as you can see from the testimonial below. 
 
-![image|690x720](upload://i2vqRrhGm3hSn6vpiuwwRezWgON.png)
+![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/trustpilot.jpg)
 
 
 
@@ -115,7 +113,7 @@ https://bit.ly/3CcAn88
 
 Extremely conservative, crypto-only, no growth, no new markets case:
 
-![image|690x363](upload://7E2BATasN9WWhgday7OHDwQuham.png)
+![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/maker_revenue.jpg)
 
 
 We intend to make another Maker Improvement Proposal to add the digital version of our currencies shortly. 
