@@ -30,7 +30,7 @@ MIP8 defines the process by which domain teams signal that a potential collatera
 
 ## Paragraph Summary
 
-This proposal defines the process where at least one domain team from each domain (Risk, Smart Contracts, Oracles, Legal, etc.) "Greenlights" the collateral type (based on research) in order for the collateral onboarding process to proceed. Testing update.
+This proposal defines the process where at least one domain team from each domain (Risk, Smart Contracts, Oracles, Legal, etc.) "Greenlights" the collateral type (based on research) in order for the collateral onboarding process to proceed.
 
 ## Component Summary
 
