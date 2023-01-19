@@ -56,10 +56,7 @@ Fluid allows users to mint their own digital cash, which is a digital version of
 ![image|190x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/dragandrop.jpg)
 
 
-Then, you can swap your digital dollars for Dai. 
-
-![image|190x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/swap.jpg)
-
+Then, you can swap your digital dollars for Dai directly on our fluidswap.
 
 The benefits of Dai + Fluid’s digital cash, DUSD, are set out below. 
 
@@ -73,21 +70,10 @@ We have been testing our Stable Pool on Balancer (on Arbitrum) for several month
 
 
 Fluid enables Dai holders to offramp from crypto to a bank account (or Fluid Account) in less than a minute. 
-
-![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/fluidramp.jpg)
-
-
-Holders can also spend their Dai on their Fluid Cards, which run on the Mastercard network. These cards are available to anyone, globally. 
-
-![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/wildcard.jpg)
-
-
+Holders can also spend their Dai on their Fluid Cards, which run on the Mastercard network. These cards are available to anyone, globally.
 You can see these on YouTube here: https://bit.ly/3XfExEG. 
 
-Fluid also allows crypto degens the easiest way to buy assets in the real world, as you can see from the testimonial below. 
-
-![image|690x310](https://github.com/FluidF/mips/blob/master/MIP99/supporting_materials/trustpilot.jpg)
-
+Fluid also allows crypto degens the easiest way to buy assets in the real world, as you can see from the testimonial here : https://fr.trustpilot.com/reviews/629df2ecd5573095630c6218. 
 
 
 By seamlessly linking Dai to the traditional financial system, we hope that this will encourage greater use of Dai and the broader crypto ecosystem. 
