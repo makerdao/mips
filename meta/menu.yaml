@@ -51,10 +51,6 @@ data:
             name: 'CES-001: Collateral Engineering'
             href: >-
                 https://mips.makerdao.com/mips/list?customViewName=Collateral%20Engineering%20Services%20Core%20Unit%20(CES-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-ces-001)&_Archive=$AND(NOT(%23active),%23cu-ces-001)
-          - id: com-001
-            name: 'COM-001: Governance Communications'
-            href: >-
-                https://mips.makerdao.com/mips/list?customViewName=Governance Communications%20Core%20Unit%20(COM-001)%20Subproposals&_Active%20Subproposals=$AND(%23active,%23cu-com-001)&_Archive=$AND(NOT(%23active),%23cu-com-001)
           - id: daif-001
             name: 'DAIF-001: Dai Foundation'
             href: >-
@@ -144,3 +140,4 @@ data:
       - id: chat
         name: $chat
         href: 'http://chat.makerdao.com/'
+

@@ -257,32 +257,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
-#### Governance Communications (COM-001)
-
-- **Summary** - The Governance Communications Core Unit performs a set of programs that focus on MakerDAO's informational accessibility, stakeholder coordination, and communication practices as a decentralized and public organization.
-- **Ratification Date for the Initial Proposal Set** - 2021-07-26
-
-##### Mandate
-
-- [MIP39c2-SP30](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP30.md)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP62](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP62.md)
-    - **Ratification Date** - 2021-11-22
-    - **Budget Amount**
-      - 336,672 DAI will be streamed to 0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9 starting 2022-07-01 and ending 2022-12-31
-      - One-time payment26,390 to the Governance Communications Operational multi-sig 0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9
-      - One-time payment46,836 to the Continuous Operation multisig 0x99E1696A680c0D9f426Be20400E468089E7FDB0f
-    - **Budget Implementation** - Simple
-    - **Budget Breakdown** - [MIP40c3-SP62 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP62.md#budget-breakdown)
-
-##### Facilitator
-
-- David Utrobin - [MIP41c4-SP8](https://mips.makerdao.com/mips/details/MIP41c4SP8)
-
----
-
 #### Dai Foundation (DAIF-001)
 
 - **Summary** - The Dai Foundation Core Unit is responsible for facilitating the dialogue between the Dai Foundation and the Community regarding intellectual property safeguarding, intellectual property usage, and related activities.
@@ -540,6 +514,16 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 ### Offboarded Core Units
 
 
+#### Governance Communications (COM-001)
+
+- **Summary** - The Governance Communications Core Unit performs a set of programs that focus on MakerDAO's informational accessibility, stakeholder coordination, and communication practices as a decentralized and public organization.
+- **Ratification Date for the Initial Proposal Set** - 2021-07-26
+- **Ratification Date for Offboarding** - 2023-01-23
+- - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-com-001&orderDirection=ASC&hideParents=true&)
+
+---
+
+
 #### Content Production (MKT-001)
 
 - **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
@@ -582,4 +566,5 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Ratification Date for Offboarding** - 2022-10-24
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-events-001&orderDirection=ASC&hideParents=true&)
 ---
+
 

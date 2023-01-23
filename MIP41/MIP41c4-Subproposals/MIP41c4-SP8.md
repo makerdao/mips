@@ -6,12 +6,13 @@
 MIP41c4-SP#: 8
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, cu-com-001, facilitator, active
-Status: Accepted
+Tags: core-unit, cu-com-001, facilitator
+Status: Obsolete
 Date Proposed: 2021-03-12
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcZSQnc?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp8-facilitator-onboarding-com-001/7011
+Extra: This Core Unit has been offboarded via [MIP39c3-SP7](https://mips.makerdao.com/mips/details/MIP39c3SP7).
 ```
 
 ## Sentence Summary
@@ -91,3 +92,4 @@ In addition to facilitating our Core Unit Mandate and Ways of Working as outline
 
 - [MIP39c2-SP8: Governance Communications Core Unit, COM-001](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP8.md)
 - [MIP40c2S-P8: Modify Core Unit Budget, COM-001](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c2-Subproposals/MIP40c2-SP8.md)
+

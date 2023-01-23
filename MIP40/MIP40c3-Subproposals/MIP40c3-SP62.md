@@ -6,8 +6,8 @@
 MIP40c3-SP#: 62
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, cu-com-001, budget, dai-budget, active
-Status: Accepted
+Tags: core-unit, cu-com-001, budget, dai-budget
+Status: Obsolete
 Date Proposed: 2022-03-02
 Date Ratified: 2022-04-25
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp62-modify-core-unit-budget-com-001/13724
@@ -148,3 +148,4 @@ Changes:
 ### MKR Vesting
 
 The Governance Communications Team will add some version of MKR vesting for its team members, retroactively dated to the first day of their employment. Instead of offering our own unique proposal now, we will wait for the community to come to consensus around how Core Units should set this up. We support the formation of an overarching MKR Vesting framework that all Core Units can follow.
+
