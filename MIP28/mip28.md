@@ -9,13 +9,14 @@ Author(s): @AmyJung
 Contributors: n/a
 Tags: general, operational-support
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-10-07
 Date Ratified: 2020-11-24
 Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-november-2020-governance-cycle-bundle-november-23-2020?network=mainnet#proposal-detail  
 Forum URL: https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627
+Extra: This MIP has been removed via [MIP4c4-SP3](https://mips.makerdao.com/mips/details/MIP4c4SP3).
 ```
 
 ## References
@@ -208,3 +209,4 @@ MIP28c8 subproposals must use the template located at  **[MIP28c8-Subproposal-Te
 Domain Facilitators may voluntarily offboard themselves by filling out the MIP28c8 subproposal template and posting it publicly in the official forum and making a brief public statement on the weekly governance and risk meeting.
 
 ---
+
