@@ -25,6 +25,7 @@ Extra: This MIP has been amended. See [MIP4c2-SP24](https://mips.makerdao.com/mi
 - [Whether to compensate delegates](https://forum.makerdao.com/t/delegate-compensation-informal-poll/10042)
 - [Compensating recognized delegates, parameters](https://forum.makerdao.com/t/informal-poll-compensating-recognized-delegates-parameters/10196).
 - [Introduction of the Performance Modifier](https://forum.makerdao.com/t/signal-request-should-we-introduce-a-performance-modifier-to-the-delegate-compensation-trial/11850)
+- [Higher Participation Requirements and Weighting for Executive Votes](https://forum.makerdao.com/t/mip4c2-spxx-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696)
 - [Introduction of the Abstain Modifier](https://forum.makerdao.com/t/mip4c2-spxx-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696)
 
 ## Sentence Summary
@@ -117,13 +118,15 @@ In practice, the Governance Facilitators will calculate compensation for Recogni
 
 For Participation, a score of 100% would mean that a Delegate has voted in all possible polls over the shorter of 1) the previous 120 days, or 2) since becoming a Recognized Delegate. GovAlpha tracks Participation in Governance Polls and Executive Votes separately and also tracks a combined overall participation rating.
 
-For Communication, GovAlpha tracks how Recognized Delegates have communicated their voting decisions. Recognized Delegates are rewarded with a higher score for providing reasoning for their voting decisions. For example, a score of 100% would mean a Recognized Delegate communicated all of their voting decisions AND gave reasons for reaching these decisions over the shorter of 1) the previous 120 days, or 2) since becoming a Recognized Delegate. On the other hand, a score of 50% would indicate a Recognized Delegate communicated their decisions but did not provide any reasoning for these decisions. Recognized Delegate are expected to communicate their vote within seven days of a Governance Poll concluding. For Executive Votes, a more lenient approach is taken as there may be valid reasons to delay voting on an Executive Vote, so it is expected that reasoning is communicated within two weeks of an Executive Vote being executed on-chain. Their scores for each vote are combined to give an overall communication rating.
+Recognized Delegates are expected to vote on Executive Proposals or voice their explicit opposition or abstention within 72 hours of them being posted to the voting portal. Due to the security and operational issues surrounding Executive Votes, these votes are weighted by a factor of five when calculating the participation metric.
 
-| Parameter | Math Symbol | Initial Value |
-| --------- | :-----: | ----: |
-| Threshold for adequate performance | L | 75% |
-| Threshold for good performance | H | 90% |
-| Beginning compensation scalar | B | 40% |
+For Communication, GovAlpha tracks how Recognized Delegates have communicated their voting decisions. Recognized Delegates are rewarded with a higher score for providing reasoning for their voting decisions. For example, a score of 100% would mean a Recognized Delegate communicated all of their voting decisions AND gave reasons for reaching these decisions over the shorter of 1) the previous 120 days, or 2) since becoming a Recognized Delegate. On the other hand, a score of 50% would indicate a Recognized Delegate communicated their decisions but did not provide any reasoning for these decisions. Recognized Delegate are expected to communicate their vote within seven days of a Governance Poll concluding. For Executive Votes, a more strict approach is taken: Recognized Delegates have one week to communicate their reasoning if they support the executive and 72h if they decide not to support it. Their scores for each vote are combined to give an overall communication rating.
+
+| Parameter                          | Math Symbol | Initial Value |
+| ---------------------------------- | :---------: | ------------: |
+| Threshold for adequate performance |      L      |           75% |
+| Threshold for good performance     |      H      |           90% |
+| Beginning compensation scalar      |      B      |           40% |
 
 - For less than `L`, the Recognized Delegate will receive no compensation.
 - For `L` or above, the Performance Modifier starts at `B` and rises linearly to 100% for metrics of `H` and above.
