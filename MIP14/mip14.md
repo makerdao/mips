@@ -16,6 +16,7 @@ Dependencies: MIP0
 Replaces: N/A
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
+Extra: This MIP has been amended via [MIP4c2-SP32](https://mips.makerdao.com/mips/details/MIP4c2SP32). The previous version can be found [here](https://github.com/makerdao/mips/blob/7c48429e6362a7a16861dc328ec9a4978dd2e3f9/MIP14/mip14.md.
 ```
 
 ## References
@@ -41,9 +42,6 @@ A process component that allows Maker Governance to transfer DAI from the Maker 
 
 **MIP14c3: Protocol DAI Transfer List**
 A list component that lists the previous direct DAI transfers that have been made by the protocol in the past.
-
-**MIP14c4: Protocol DAI Transfer Ceiling**  
-A process component that allows governance to define and modify the total amount of DAI that can be transferred from the protocol using MIP14.
 
 ## Motivation
 
@@ -104,7 +102,6 @@ Sub-proposal Number: #
 Date Ratified: (yyyy-mm-dd)
 Amount Transferred:
 Recipient Address:
-Total DAI Processed by MIP14 to date: 
 ```
 
 **Historical Transfer List**  
@@ -119,10 +116,3 @@ Recipient Address: 0x0000000000000000000000000000000000000000
 Total DAI Processed by MIP14 to date: 1,000,000
 ```
 
-### MIP14c4: Protocol DAI Transfer Ceiling
-
-MIP14c4 sets the maximum amount of DAI that can be transferred in total from the protocol using this process. MIP14c2 subproposals will not be eligible if they cause the historic amount of DAI transferred from the protocol to exceed the ceiling, which will be initially set to 250,000 DAI and can be modified by MIP14c4 subproposal  
-
-**DAI Transfer Ceiling Adjustment**
-* **Feedback Period:**  4 full weeks
-* **Frozen Period:**  1 full week
