@@ -8,10 +8,11 @@ Title: Onboard/Amend Keeper Network - Chainlink Automation
 Author(s): Sam Demaree
 Contributors:
 Tags: keeper-network
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-11-08
-Date Ratified:
+Date Ratified: 2023-01-23
 Forum Post URL: https://forum.makerdao.com/t/mip63c4-sp5-onboard-amend-keeper-network-chainlink-automation/18722
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXeWcrX
 ```
 
 ## Specification
@@ -49,3 +50,4 @@ We’re thrilled about this opportunity to collaborate with the MakerDAO communi
 ### Expected Coverage
 
 * ALL
+

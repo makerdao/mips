@@ -9,10 +9,11 @@ Title: Protocol DAI Transfer to fund TechOps CU for February 2023
 Author(s): @simonkp
 Contributors:
 Tags: tech-001, core-unit,
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-12-02
-Date ratified: <yyyy-mm-dd>
+Date ratified: 2023-01-23
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp1-requesting-protocol-dai-transfer-to-fund-techops-cu-for-february-2023/19018
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUMnuGb
 ---
 Amount: 138,894 DAI
 ```
@@ -56,3 +57,4 @@ Amount To Transfer: 138,894 DAI
 
 - [2023 Revised DAI Budget MIP](https://forum.makerdao.com/t/mip40c3-spxx-techops-core-unit-dai-budget/19017)
 - [TechOps CU Mandate](https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tech-001/12070)
+

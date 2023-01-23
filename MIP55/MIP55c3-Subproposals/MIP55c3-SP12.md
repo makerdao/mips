@@ -7,13 +7,13 @@ MIP55c3-SP#: 12
 Author(s): @Aes 
 Contributors:
 Tags: spf
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-11-27
-Date Ratified: TBD
+Date Ratified: 2023-01-23
 Amount Requested: 209K DAI
 Recipient Address: TBD
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp12-commercial-risk-and-legal-domain-work-to-support-sf-001-expanded-mandate-related-to-rwas/18943
-Ratification Poll URL: TBD
+Ratification Poll URL: https://vote.makerdao.com/polling/QmTjgcHY
 ```
 
 ## Sentence Summary
@@ -69,8 +69,9 @@ Legal Counsel – TBD
 ```
 Official Contact or Group Name: Risk & Legal Work to Support RWA-related Activities Team
 Contact Email/Handle: @Aes
-Date Added: 2022-11-27
+Date Added: 2023-01-23
 Total Amount: 209K In Dai.
 Wallet Address: TBD
 Comptroller signers: @Aes, @prose11
 ```
+

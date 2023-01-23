@@ -8,10 +8,11 @@ MIP to be removed: MIP23, MIP28
 Author(s): @blimpa
 Contributors: @GovAlpha-Core-Unit
 Tags: mip-removal
-Status: Formal Submission
+Status: Accepted
 Date of Removal Submission: 2022-11-17
-Date of ratification: <yyyy-mm-dd>
+Date of ratification: 2023-01-23
 Forum URL: https://forum.makerdao.com/t/mip4c4-sp3-obsolete-mip-removal-mip23-mip28/18834
+Ratification Poll URL: https://vote.makerdao.com/polling/QmS1UCGY
 ```
 
 ## Specification
@@ -32,3 +33,4 @@ Forum URL: https://forum.makerdao.com/t/mip4c4-sp3-obsolete-mip-removal-mip23-mi
 ### Relevant Information
 
 - N/A
+

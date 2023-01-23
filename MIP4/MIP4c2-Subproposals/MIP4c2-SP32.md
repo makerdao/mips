@@ -8,10 +8,11 @@ MIP to be amended: 14
 Author(s): @Patrick_J
 Contributors:
 Tags: mip-amendment
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-12-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2023-01-23
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp32-remove-mip14c4-protocol-dai-transfer-ceiling/19093
+Ratification Poll URL: https://vote.makerdao.com/polling/QmPHFiYP
 ```
 
 ## Specification
@@ -38,3 +39,4 @@ We have already received two MIP14c2 proposals that sum to 182,454 DAI:
 
 * [MIP14c2-SP1](https://mips.makerdao.com/mips/details/MIP14c2SP1)
 * [MIP14c2-SP2](https://mips.makerdao.com/mips/details/MIP14c2SP2)
+

@@ -7,10 +7,11 @@ MIP13c3-SP#: 13
 Author(s): @rspa
 Contributors: @twblack88
 Tags: declaration-of-intent
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-12-08
-Date Ratified: --
+Date Ratified: 2023-01-23
 Forum URL: https://forum.makerdao.com/t/mip13c3-sp13-declaration-of-intent-to-develop-a-comprehensive-on-chain-monitoring-solution-for-rwa-vaults/19095
+Ratification Poll URL: https://vote.makerdao.com/polling/QmaKWQtf
 ---
 Declaration Statement: Declaring the intent to fund the development of a comprehensive on-chain monitoring solution for RWA vaults.
 Declaration to Replace: n/a
@@ -73,3 +74,4 @@ The SPF shall not be paid out at once but according to the proposed milestones. 
 
 - [Maker Transaction Level Accounting Dashboard](https://forum.makerdao.com/t/maker-transaction-level-accounting-dashboard/19143)
 - [Monetalis Clydesdale Dashboard](https://dune.com/SebVentures/makerdao-mip65)
+
