@@ -7,7 +7,7 @@ MIP40c3-SP#: 16
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
 tags: core-unit, cu-sh-001, budget, dai-budget, mkr-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-05-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
@@ -235,3 +235,4 @@ On day one, I am requesting funding up-front, as follows:
 
 - [MIP39c2-SP11: Strategic Happiness Core Unit](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP11.md)
 - [MIP41c4-SP11: Shitpost Facilitator Onboarding, Strategic Happiness Core Unit, SH-001](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP11.md)
+

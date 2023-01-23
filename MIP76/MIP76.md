@@ -4,6 +4,7 @@
 
 ```
 MIP#: 76
+Title: Makershire Redux
 Author(s):  @Aes, @adcv, @SebVentures, @juanbug
 Contributors: @luca_pro, @MakerMan 
 Tags:

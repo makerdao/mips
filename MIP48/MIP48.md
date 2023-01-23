@@ -60,7 +60,7 @@ Additionally, the ability to utilize funds otherwise going to the Flapper (Surpl
 
 ## Specification / Proposal Details
 
-**MIP48c1: Defining Components of the Keg**
+### MIP48c1: Defining Components of the Keg
 
 The Keg is a smart contract implementation that allows DAI to be streamed to different addresses. Utilizing the following parameters, the Keg is able to draw funds from the Surplus Buffer, or redirect funds otherwise going to the Flapper (Surplus Auctions), as dictated by Maker Governance.
 
@@ -72,14 +72,14 @@ The `flow` is a parameter that indicates the percentage of DAI otherwise destine
 
 These parameters can be utilized to allow Maker Governance to set continuous DAI distributions for any number of initiatives. Particular attention should be paid to the source of DAI for each flight approved by Governance, as DAI streaming from the Surplus Buffer will be constant, whereas DAI streaming from excess revenue will vary based on Protocol performance.
 
-**MIP48c2: Setting Fixed Distributions via the Keg**
+### MIP48c2: Setting Fixed Distributions via the Keg
 
 When an initiative desires a constant rate of streamed amount of DAI, the funding must be requested through Governance and would be drawn from the Surplus Buffer. A [MIP48c2 subproposal](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c2%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one. The proposal will be subject to the following parameters:
 
 * Feedback Period: 4 weeks
 * Frozen Period: 2 weeks
 
-**MIP48c3: Setting Variable Distributions via the Keg**
+### MIP48c3: Setting Variable Distributions via the Keg
 
 When an initiative desires DAI to be streamed at a variable rate, based on excess revenue to operational expenses, the funding must be requested through Governance. A [MIP48c3 subproposal](https://github.com/makerdao/mips/blob/master/MIP48/MIP48c3%20Subproposal%20%5BTemplate%5D.md) must be submitted when setting a new flight or updating a current one.
 
@@ -88,7 +88,7 @@ Due to contract limitations, only one stream may be taken from funds otherwise g
 * Feedback Period: 6 weeks
 * Frozen Period: 2 weeks
 
-**MIP48c4: Stopping Distributions from the Keg**
+### MIP48c4: Stopping Distributions from the Keg
 
 In some time-sensitive scenarios, the Governance Facilitators may deem a Signal Request appropriate for stopping or pausing payments from the Keg.
 

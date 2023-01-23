@@ -9,7 +9,7 @@ Contributors:
 Tags: core-unit, cu-ora-001, budget, dai-budget, mkr-budget, active
 Status: Accepted
 Date Applied: 2022-07-06
-Date Ratified: n/a
+Date Ratified: 2022-08-22
 Budget Start Date: 2022-07-01
 Budget End Date: 2023-06-30
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp75-modify-oracles-core-unit-budget-ora-001/16397

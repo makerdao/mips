@@ -7,7 +7,7 @@ MIP40c3-SP#: 26
 Author(s): @rafinskipg, @phil, @adamgoth
 Contributors: @wouter, @juanjuan
 Tags: core-unit, cu-dux-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail
@@ -168,3 +168,4 @@ In preparation for the monthly top-up cycle, the Auditors Wallet first needs to 
 - **Sender:** Auditors Wallet: `0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad`
 - **Recipients:**
    - Permanent Team Wallet: `0x8Cd0ad5C55498Aacb72b6689E1da5A284C69c0C7`
+

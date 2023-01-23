@@ -7,7 +7,7 @@ MIP39c2-SP#: 22
 Author(s): Tomek Mierzwa (@tmierzwa)
 Contributors: Piotr Klis (@pklis)
 Tags: core-unit, cu-din-001, mandate
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-09-07
 Date Ratified: 2021-10-25
 Ratification Poll URL: https://vote.makerdao.com/polling/QmR7fMc6?network=mainnet

@@ -7,7 +7,7 @@ MIP40c3-SP#: 21
 Author(s): Seth Goldfarb
 Contributors: Jerry Goldfarb, Tom DeMichele
 Tags: core-unit, cu-mkt-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-05-29
 Date Ratified: 2021-07-26
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbLa1Wm?network=mainnet
@@ -110,3 +110,4 @@ We will set up a Content Production multi-sig wallet in accordance with [MIP 47]
 51,567 Dai in October
 
 Address: 0xDCAF2C84e1154c8DdD3203880e5db965bfF09B60
+

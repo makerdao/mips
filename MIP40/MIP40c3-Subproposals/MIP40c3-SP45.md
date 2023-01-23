@@ -7,7 +7,7 @@ MIP40c3-SP#: 45
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Tags: core-unit, cu-ora-001, budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-11-09
 Date Ratified: 2022-01-24
 Forum URL:https://forum.makerdao.com/t/mip40c3-sp45-modify-core-unit-budget-ora-001-oracle-gas-costs/
@@ -448,3 +448,4 @@ These may include but are not limited to:
 Towards the end of the 3-month cycle, the Oracle Core Unit will submit a new budget proposal for the next 3-month cycle. Any leftover funds from the previous cycle will be rolled over and deducted from the budget distribution for the next cycle.
 
 To illustrate the above, if there are $1M worth of assets (combination of DAI and ETH) leftover and the budget for the new 3-month cycle requests $2M, then the Maker Protocol would only distribute $1M Dai. Prices used to value assets should be the Oracle price on the day the Executive Vote is created.
+

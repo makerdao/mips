@@ -7,7 +7,7 @@ MIP40c3-SP#: 13
 Author(s): Primož Kordež
 Contributors:
 Tags: core-unit, cu-risk-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcAkqid?network=mainnet#poll-detail
@@ -131,3 +131,4 @@ Breakdown:
 * Operations 3% / 5,000 DAI
 * Grants 14% / 25,000 DAI
 * Contingencies 11% / 20,000 DAI
+

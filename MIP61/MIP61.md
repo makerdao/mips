@@ -26,6 +26,7 @@ Extra: This MIP has been amended. See [MIP4c2-SP24](https://mips.makerdao.com/mi
 - [Compensating recognized delegates, parameters](https://forum.makerdao.com/t/informal-poll-compensating-recognized-delegates-parameters/10196).
 - [Introduction of the Performance Modifier](https://forum.makerdao.com/t/signal-request-should-we-introduce-a-performance-modifier-to-the-delegate-compensation-trial/11850)
 - [Higher Participation Requirements and Weighting for Executive Votes](https://forum.makerdao.com/t/mip4c2-spxx-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696)
+- [Introduction of the Abstain Modifier](https://forum.makerdao.com/t/mip4c2-spxx-amend-mip61-to-tighten-up-recognized-delegate-participation-metrics/18696)
 
 ## Sentence Summary
 
@@ -78,6 +79,10 @@ Vote outcomes are largely determined by how well voters are informed. As Recogni
 
 The intention behind the Performance Modifier is that these parameters be considered over the duration of time that a Recognized Delegate is active. The advantage of such an approach is that it allows Recognized Delegates that have been performing at high levels flexibility in terms of unexpected ability to vote, for example, in the event of illness, or planned inactivity, such as a vacation period. If a Recognized Delegate's parameters were calculated on a rolling-basis, for example over three months, taking a week off would have an outsized effect on compensation, particularly if it was a week with a large number of Governance Polls. If it is difficult or uneconomical for Recognized Delegates to take time off when required, there is potential this could lead to burnout and this is consequently undesirable.
 
+### Abstain Modifier Motivation
+
+The intention behind the Abstain Modifier is to avoid the problem of getting compensated even if a delegate is constantly just abstaining on polls. To a certain extent, Recognized Delegates should be expected to take a position on governance questions. However, it is recognized that in certain situations, Recognized Delegates may have good reasons to abstain from a specific vote.
+
 ## Relevant Information
 
 - [Quadratic funding](https://vitalik.ca/general/2019/12/07/quadratic.html)
@@ -86,7 +91,7 @@ The intention behind the Performance Modifier is that these parameters be consid
 
 ### MIP61c1: Definitions
 
-- **Recognized Delegates:** Any delegate that has been labelled as a Recognised Delegate by a majority of Governance Facilitators according to a public and consistently applied criteria.
+- **Recognized Delegates:** Any delegate that has been labelled as a Recognized Delegate by a majority of Governance Facilitators according to a public and consistently applied criteria.
 
 ### MIP61c2: Compensation Formula and Process
 
@@ -109,7 +114,7 @@ In practice, the Governance Facilitators will calculate compensation for Recogni
 
 #### Performance Modifier
 
-"Governance Facilitators track participation and communication metrics for each Recognized Delegate over a 120-day rolling window. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognised Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`. A few parameters are used to determine the effect of the Performance Modifier.
+"Governance Facilitators track participation and communication metrics for each Recognized Delegate over a 120-day rolling window. For the purpose of calculating the Performance Modifier, we look at the minimum of the two metrics. For example, if a Recognized Delegate has 85% participation and 80% communication then the Performance Modifier is based on `min(85%, 80%) = 80%`. A few parameters are used to determine the effect of the Performance Modifier.
 
 For Participation, a score of 100% would mean that a Delegate has voted in all possible polls over the shorter of 1) the previous 120 days, or 2) since becoming a Recognized Delegate. GovAlpha tracks Participation in Governance Polls and Executive Votes separately and also tracks a combined overall participation rating.
 
@@ -131,6 +136,10 @@ This is demonstrated in the below graph:
 ![](https://github.com/makerdao/mips/blob/master/MIP61/modVsLowest.png)
 
 These requirements and metrics may be adjusted in the future depending on the number of Recognized Delegates, the resources available to the Governance Facilitators, and feedback from the Recognized Delegates themselves.
+
+#### Abstain Modifier
+
+At the beginning of every month, the Governance Facilitators will check how many polls in the previous month have been voted with a non-abstaining choice. If the ratio of non-abstaining choices to total polls is >= 60%, the Recognized Delegate will have met the Abstain Modifier criteria and be eligible for compensation for that month. If the ratio is below 60%, the delegate will not be eligible for compensation for that month.
 
 ### MIP61c3: Payment Process
 

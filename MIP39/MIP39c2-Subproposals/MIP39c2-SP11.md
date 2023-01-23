@@ -7,12 +7,12 @@ MIP39c2-SP#: 11
 Author(s): Andrew Burban (@Saint.Burban)
 Contributors: @juanjuan, @TomDeMichele, @Nadia, @prose11
 Tags: core-unit, cu-sh-001, mandate
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-05-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/Qme27ywB?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp11-strategic-happiness-core-unit/8006
-Extra: SH-001 has been offboarded via [MIP39c2-SP3](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP3.md).
+Extra: SH-001 has been offboarded via [MIP39c3-SP3](https://mips.makerdao.com/mips/details/MIP39c3SP3).
 ```
 
 ## Sentence Summary
@@ -192,3 +192,4 @@ Tom helped me polish this turd into an award-winning masterpiece of poo :)
 
 - [MIP40c3-SP16: The Strategic Happiness Core Unit Budget, SH-001](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP16.md)
 - [MIP41c4-SP11: Shitpost Facilitator Onboarding, Strategic Happiness Core Unit, SH-001](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP11.md)
+

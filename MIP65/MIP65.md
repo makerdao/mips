@@ -16,6 +16,7 @@ Dependencies: MIP21
 Replaces: None
 Forum  URL: https://forum.makerdao.com/t/mip65-project-clydesdale-monetalis-arrangement-i-liquid-bond-strategy-execution/13148
 Ratification Poll URL:https://vote.makerdao.com/polling/QmXHM6us#poll-detail
+Extra: This MIP has been amended via [MIP4c3-SP4](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c3-Subproposals/MIP4c3-SP4.md). The original version can be seen [here](https://github.com/makerdao/mips/blob/3622412573d8f63d7ad40336a2fffba8de3e38d0/MIP65/MIP65.md).
 ```
 
 ## References

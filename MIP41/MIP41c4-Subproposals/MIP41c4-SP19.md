@@ -8,12 +8,12 @@ MIP41c4-SP#: 19
 Author(s): Philip Bain
 Contributors:
 Tags: core-unit, cu-dux-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp19-facilitator-onboarding-development-and-ux-core-unit-dux-001/9779
-Extra: Philip Bain stepped down voluntarily via MIP41c5-SP4
+Extra: Philip Bain stepped down from the role voluntarily via [MIP41c5-SP4](https://mips.makerdao.com/mips/details/MIP41c5SP4).
 ```
 
 ## Sentence Summary
@@ -83,3 +83,4 @@ My commitment as the DUX team facilitator is to:
 - Masters in Emergent Digital Practices
 - Team lead for classroom technology support at University of Denver
 - Brewer at Rock Bottom Brewery in Denver
+

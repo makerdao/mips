@@ -7,7 +7,7 @@ MIP40c3-SP#: 29
 Author(s): Payton Rose (@prose11)
 Contributors: @LongForWisdom
 Tags: core-unit, cu-gov-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmVtkcqW?network=mainnet
@@ -190,3 +190,4 @@ Month of December - 89,733 DAI
 Month of January - 89,734 DAI  
 Month of February - 89,733 DAI  
 Month of March - 89,733 DAI  
+

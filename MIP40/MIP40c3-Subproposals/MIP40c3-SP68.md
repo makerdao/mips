@@ -20,7 +20,7 @@ This subproposal is requesting a 12 month Budget of 7,590,000 DAI for the Protoc
 
 ## Paragraph Summary
 
-<TBD>
+TBD
 
 ## Specification
 
@@ -56,7 +56,7 @@ For reference, the Protocol Engineering Emergency Multisig remains in operation:
 
 The following table illustrates the proposed budget for 2022-2023:
 
-![](upload://hhHBxJOI3ULwaO5oqcImirdDrc4.png)
+![](/supporting_materials/MIP40c3-SP68/breakdown.png)
 
 #### Budget Details
 
@@ -69,7 +69,7 @@ The following items provide further detail into the above data points.
 * Healthcare as a line item has been removed, standardized across team members and rolled into the salary line item (previously we had a two-tier model: US and non-US), this means some team members are seeing up to a 2% increase in pay as a result.
 * New monthly reporting will indicate how many resources each workstream is using (Core Protocol, Cross Domain Scaling and Safety Workstream). To-date the reporting has been at the level of the core unit, not the individual workstreams, therefore we intend to provide an extra level of insight. Initial planning suggests the following balance:
 
-![|690x423, 75%](upload://outlMUFQozFPSaSYGJYeg5mUNFH.png)
+![|690x423, 75%](/supporting_materials/MIP40c3-SP68/pie.png)
 
 ##### Events & Travel
 
@@ -120,3 +120,4 @@ The following items provide further detail into the above data points.
 * The proposed new team members (3 in total) if hired will vest at the same level as the rest of the team, prorated to a duration of 3 years, ending on April 30th 2025.
 * The MKR is equivalent to 248.75 MKR per person per year, over 3 years, including the 1 year cliff. At the time of setup, this will be administered via DssVest.
 * It is worth noting that last year's two MKR streams remain unused.
+

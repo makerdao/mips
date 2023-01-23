@@ -3,13 +3,13 @@
 ## Preamble
 
 ```
-MIP#: MIP4c4-SP2
+MIP4c4-SP#: 2
 Title: MIP14 Repeal
 Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium
 Tags:
 Type: process
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-10-26
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c4-spxx-mip14-repeal/18533
@@ -29,7 +29,7 @@ Additionally, any subproposal under MIP14 would require a 4-week feedback period
 
 ### Removal Pull Request
 
-To be completed.
+<https://github.com/makerdao/mips/pull/734>
 
 ### Relevant Information
 

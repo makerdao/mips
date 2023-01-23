@@ -9,6 +9,7 @@ Contributors: @vitalyr
 Status: Rejected
 Date Proposed: 2020-07-08
 Date Ratified:
+Forum URL: https://forum.makerdao.com/t/mip13c3-sp1-declaration-of-intent-forward-guidance/3130
 ---
 Declaration Statement: MakerDAO intends to keep RP on Vaults as transparent and stable as possible.
 Declaration to Replace: n/a

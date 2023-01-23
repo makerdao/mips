@@ -7,10 +7,11 @@ MIP39c2-SP#: 16
 Author(s): PaperImperium
 Contributors:
 Tags: core-unit, cu-mpcu-001, mandate
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2021-06-28
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp16-adding-maker-portfolio-core-unit-mpcu-001/8996
+Extra: This proposal has been withdrawn by its author. See here: https://forum.makerdao.com/t/mip39c2-sp16-adding-maker-portfolio-core-unit-mpcu-001/8996
 ```
 
 ## Sentence Summary
@@ -23,7 +24,7 @@ The Maker Portfolio Core Unit (MPCU) will be tasked with creating and onboarding
 
 ## Statement of Problem
 
-Core to Maker's success is its commitment to -- and successful maintenance -- of the fixed exchange rate of 1 DAI for 1 USD. Because this commitment is paired with the free flow of capital into and out of DAI, Maker has little direct control over the size of the DAI supply. When capital inflows are large because DAI is desired, the PSM is currently the main method of keeping the fixed rate of exchange at 1 USD per 1 DAI. 
+Core to Maker's success is its commitment to -- and successful maintenance -- of the fixed exchange rate of 1 DAI for 1 USD. Because this commitment is paired with the free flow of capital into and out of DAI, Maker has little direct control over the size of the DAI supply. When capital inflows are large because DAI is desired, the PSM is currently the main method of keeping the fixed rate of exchange at 1 USD per 1 DAI.
 
 While this mechanically works very well, the PSM has shown an ability to accumulate enough of a dollar-proxy (currently USDC) that can present credit risks and negative PR. The Maker Portfolio Core Unit (MPCU) will facilitate the diversification of those holdings, so that when the PSM has excess liquidity or so much of a single asset as to present risks to the protocol, those holdings can be deployed into actual dollars instead of just on-chain proxies. Alternatively, if the PSM is in need of an additional liquidity buffer to defend the exchange rate, real-world dollars and dollar-equivalents can be wound down to refill the PSM.
 
@@ -41,7 +42,7 @@ This strategy represents only the initial phase of the MPCU, and will evolve as 
 
 The issuance and sale of DAI on the open market at scale should exert downward pressure on the peg, thereby indirectly transferring liquidity from the PSM to the securities purchased by Maker's charitable trusts. Even if liquidity is not removed from the PSM, the use of these trusts should lower the amount of liquidity that would have otherwise entered the PSM.
 
-It should be noted that this structure is unlikely meet the needs of the market being addressed by the RWF unit or the RWA Company, which require much more oversight and complexity to both monitor the collaterals, satisfy borrower demand, and minimize tax events for profit-seeking entities. The MPCU will only oversee investments directed at publicly traded securities, and will not include private securities in its mandate. There is no envisioned overlap between MPCU and RWF in terms of universe of investable assets. 
+It should be noted that this structure is unlikely meet the needs of the market being addressed by the RWF unit or the RWA Company, which require much more oversight and complexity to both monitor the collaterals, satisfy borrower demand, and minimize tax events for profit-seeking entities. The MPCU will only oversee investments directed at publicly traded securities, and will not include private securities in its mandate. There is no envisioned overlap between MPCU and RWF in terms of universe of investable assets.
 
 **The primary focus of the MPCU is to reduce risks associated with undiversified reserves holdings, with secondary focus on yield, and tertiary focus on charitable contributions**
 

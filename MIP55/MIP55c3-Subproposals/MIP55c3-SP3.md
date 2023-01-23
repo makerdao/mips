@@ -12,6 +12,7 @@ Date Proposed: 2022-03-09
 Date Ratified: 2022-03-31
 Amount Requested: 50,000 DAI
 Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp3-ethamsterdam-event-spf/13781
 Ratification Poll URL: https://v2.vote.makerdao.com/polling/Qmb9brx3#poll-detail
 ```
 

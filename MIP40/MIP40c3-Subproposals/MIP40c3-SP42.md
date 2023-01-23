@@ -7,7 +7,7 @@ MIP40c3-SP#: 42
 Author(s): @travinimmunefi
 Contributors: @psychonaut
 Tags: core-unit, cu-is-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-10-06
 Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet  
@@ -245,3 +245,4 @@ Once the Monthly Budget Statement has been delivered, the following payment flow
     * The top-up amount will replenish the 3-month runway based on the forecast in the monthly budget statement.
 * Return excess funds to protocol
 * After the top-up transaction has been completed, the Auditor Wallet signers will return any funds to the protocol that exceed 2x the monthly budget cap.
+

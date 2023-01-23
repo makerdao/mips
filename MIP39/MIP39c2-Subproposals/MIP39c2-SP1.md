@@ -7,12 +7,12 @@ MIP39c2-SP#: 1
 Author(s): Sébastien Derivaux (@SebVentures)
 Contributors: N/A
 Tags: core-unit, cu-rwf-001, mandate
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-01-26
 Date Ratified: 2021-25-03
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp1-adding-core-unit-real-world-finance/6224
-Extra: RWF-001 has been offboarded via [MIP39c2-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md).
+Extra: RWF-001 has been offboarded via [MIP39c3-SP5](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c3-Subproposals/MIP39c3-SP5.md).
 ```
 
 ## Sentence Summary
@@ -40,3 +40,4 @@ ID: RWF-001
 * Be the interface that connects real-world finance with the MakerDAO
 * To achieve this mandate the team will be composed of people from diversified backgrounds but with an emphasis on people having experience in traditional finance concepts.
 * The Maker Governance can interact and prioritize work with the Core Unit by issuing a Signal Request, an informal poll, or any other means. In case of conflicting messages, the Signal Request will take precedence over any other means.
+

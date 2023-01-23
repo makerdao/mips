@@ -358,7 +358,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ##### Facilitator
 
-- Robert Jordan - [MIP41c4-SP21](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP21.md)
+- @Retro has been [elected as the interim Facilitator](https://forum.makerdao.com/t/fallback-interim-facilitator-selection-process-ces-001/18911/30) after Robert Jordan's voluntary offboarding via [MIP41c5-SP13](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposals/MIP41c5-SP13.md).
 
 ---
 
@@ -582,3 +582,4 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Ratification Date for Offboarding** - 2022-10-24
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-events-001&orderDirection=ASC&hideParents=true&)
 ---
+

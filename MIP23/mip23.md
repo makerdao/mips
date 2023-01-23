@@ -9,13 +9,14 @@ Author(s): @LongForWisdom
 Contributors: N/A
 Tags: general, personnel-xboarding
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020/09/07
 Date Ratified: 2020/10/27
 Dependencies: n/a
 Replaces: n/a  
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-october-2020-governance-cycle-bundle-october-26-2020?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip23-domain-structure-and-roles/4021
+Extra: This MIP has been removed via [MIP4c4-SP3](https://mips.makerdao.com/mips/details/MIP4c4SP3).
 ```
 
 ## References
@@ -135,3 +136,4 @@ When a Domain Definition MIP is Accepted for an active domain (Smart Contracts, 
 Once Domain Definition MIPs have been produced for the Oracle, Risk, and Smart Contracts domains, MIP7 should be moved to deprecated status by the MIP Editors and should no longer be considered active or usable. At that stage, any reference to MIP7 within other MIPs should be modified to reference the appropriate Domain Definition MIP by the MIP Editors.
 
 ---
+

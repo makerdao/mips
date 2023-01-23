@@ -1,19 +1,21 @@
 # MIP89: Monetalis - Arrow Andalusian
 
 ## Preamble
+
 ```
 MIP#: 89
 Title: Monetalis - Arrow Andalusian
 Author(s): @Allan_Pedersen , @Wrongcomma
 Contributors: 
-Type: Technical
-Status: RFC
-Date Proposed: 2022-12-10
-Date Ratified: XX
+Type: General
+Status: Withdrawn
+Date Proposed: 2022-10-12
+Date Ratified: N/A
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip89-monetalis-arrow-andalusian/18338 
-Ratification Poll URL: XX
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdPooRY
+Extra: Despite passing, MIP89: Monetalis - Arrow Andalusian has been withdrawn by its author. Since @Allan_Pedersen represents one of the three parties other than MakerDAO involved in the workings of this MIP, it has been rendered non-executable and will be marked as withdrawn.
 ```
 
 ## References
@@ -54,7 +56,8 @@ With this credit facility, Maker will gain on a number of fronts:
 * Well-protected Senior Credit exposure and aligned junior capital.
 
 ## Specification / Proposal Details
-![](https://github.com/makerdao/mips/blob/master/MIP89/andalusian.png)
+
+![](https://github.com/makerdao/mips/blob/master/MIP89/andalusian.png)  
 Andalusian AI’d by nightcafe
 
 ### MIP89c1: Collateral Design
@@ -151,7 +154,7 @@ This provides a better overall diversification, cashflow profile and risk charac
 |Diversification| 3 to 5 portfolios|
 |Term|Max weighted average duration of underlying loans on outstanding portfolio: 24 months|
 | Currency| Lending in GBP/EUR but hedged to USD|
-|Waterfall| 1. 3.5% in USD to James Asset Trust on Senior<br>2. 0.75% in USD to Monetalis on Senior + Junior  <br>3. 15% to Arrow on Junior <br>4. Profit-share of 35% to James Asset Trust/55% to Arrow/10% Monetalis <br> All net of currency hedging and all other cost|
+|Waterfall| 1. 3.5% in USD to James Asset Trust on Senior<br>2. 15% to Arrow on Junior <br>3. Profit-share of 40% to James Asset Trust/60% to Arrow<br> All net of currency hedging and all other cost|
 |Capital recycling|Principal payments are recirculated back into their relevant strategy until withdrawal request from Maker. <br>Interest payments - after expenses - are also recirculated until requested paid into Surplus Buffer.|
 
 ##### c.1.5.1 Credit Guidelines "Arrow Advantage"

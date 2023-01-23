@@ -7,7 +7,7 @@ MIP40c3-SP#: 46
 Author(s): @Aes 
 Contributors: @SebVentures
 Tags: core-unit, cu-sf-001, budget, dai-budget
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-12-01
 Date Ratified: 2022-01-24
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp46-adding-financial-strategy-core-unit-budget-fs-001/
@@ -119,3 +119,4 @@ The total compensation includes a competitive base salary and funds to cover hea
 **Contingency Buffer:** Approximately 15% of the total cap costs added in case of additional unforeseen expenses. Any Contingency Buffer funds used will be detailed in our financial reports for transparency.
 
 The team will generate monthly financial reports with expense forecasts and return excess Dai at the end of the budget period.
+
