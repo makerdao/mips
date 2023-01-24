@@ -523,7 +523,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
-
 #### Content Production (MKT-001)
 
 - **Summary** - The Content Production Core Unit is responsible for creating, and supporting the creation of written, audio, and visual content that educates audiences on MakerDAO, promotes the work and culture of the ecosystem, and encourages people to use Dai and the Maker Protocol.
