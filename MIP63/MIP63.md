@@ -126,7 +126,7 @@ Network Name: TechOps
 - Minimum Payment: N/A
 - Buffer Max: N/A
 - Address: N/A
-- Date Added: [2022-2-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP1.md)
+- Date Added: [2022-02-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP1.md)
 
 Network Name: Keep3r Network
 - Short Name: KEEP3R
@@ -137,7 +137,7 @@ Network Name: Keep3r Network
 - Buffer Max: 20,000 DAI
 - Chain: All
 - Address: N/A
-- Date Added: [2022-3-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP2.md)
+- Date Added: [2022-03-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP2.md)
 
 Network Name: Gelato Network
 - Short Name: GELATO
@@ -149,7 +149,31 @@ Network Name: Gelato Network
 - Buffer Max: 20,000 DAI
 - Chain: All
 - Address: 0x926c21602fec84d6d0fa6450b40edba595b5c6e4
-- Date Added: [2022-3-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP3.md)
+- Date Added: [2022-03-28](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP3.md)
+
+Network Name: Keep3r Network
+- Short Name: KEEP3R
+- Website: https://keep3r.network/
+- Window Size: 13
+- Budget: 1,000 DAI / day
+- Stream Duration: N/A
+- Minimun Payment: 4,000 DAI
+- Buffer Max: 20,000 DAI
+- Chain: All
+- Address: 0xc6A048550C9553F8Ac20fbdeB06f114c27ECcabb
+- Date Added: 2022-06-27 (https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP4.md)
+
+Network Name: Chainlink Automation
+- Short Name: CHAINLINK
+- Website: https://chain.link/automation
+- Window Size: 13
+- Budget: 1,000 DAI / Day
+- Stream Duration: N/A
+- Minimum Payment: 4,000 DAI
+- Buffer Max: 20,000 DAI
+- Chain: All
+- Address: 0x5E9dfc5fe95A0754084fB235D58752274314924b
+- Date Added: [2023-01-23](https://github.com/makerdao/mips/blob/master/MIP63/MIP63c4-Subproposals/MIP63c4-SP5.md)
 
 ### MIP63c6: Offboard Keeper Network
 
