@@ -7,10 +7,12 @@ MIP39c3-SP#: 7
 Author(s): @Davidutro
 Contributors:
 Tags: com-001
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-12-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2023-01-23
 Forum URL: https://forum.makerdao.com/t/mip39c3-sp7-core-unit-offboarding-com-001/19068
+Ratification Poll URL: https://vote.makerdao.com/polling/QmV9iktK
+Extra: The winning option was Option 1 (80% Multiplier - 156.098 Total MKR | 85,854 DAI Equivalent Value). The amounts under _Payment_ have been set accordingly, as was the multiplier under _Sources and Data_.
 ```
 
 ## Sentence Summary
@@ -120,9 +122,9 @@ These amounts will be transferred through the Executive Vote that follows the ra
 
 | Detail | Amount (DAI) |
 |---|---|
-| 3 months of Facilitator Compensation & Healthcare costs | 35950 |
-| 3 months of PM Compensation & Healthcare costs | 24750 |
-| Total | 60700 |
+| 3 months of Facilitator Compensation & Healthcare costs | 35,950 |
+| 3 months of PM Compensation & Healthcare costs | 24,750 |
+| Total | 60,700 |
 
 #### Retroactive MKR Compensation
 
@@ -151,10 +153,10 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 **None.**
 
 `MKR Moving Average` - Is derived from the "Close" price on CoinGecko (latest data point per day, UTC), taking the average closing price for that eligibility period. See [spreadsheet](https://docs.google.com/spreadsheets/d/1YqExo-6-uVrXQoAkhayO5ZrupwxDZlxPnIHvA1TXWkw/edit?usp=sharing) for data.
-**Price: `$1737.12`**
+**Price: `$1,737.12`**
 
 `Multiplier%` - Determined by the proposal's on-chain vote result.
-***TBD***
+***80***
 
 `Token` - Token used for the payout was determined during the RFC period.
 **DAI**
@@ -162,49 +164,49 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 #### Payments
 
 @Davidutro Golden Parachute Payment:
-35950 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
+35,950 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
 
 @Artem_Gordon Golden Parachute Payment:
-24750 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
+24,750 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
 
 @Davidutro Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
+43,059.78 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
 
 @Artem_Gordon Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
+27,439.97 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
 
 Alec Horner Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea`
+1,335.49 DAI sent from the Surplus Buffer to `0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea`
 
-Andrea Suáreze Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0xeD27986bf84Fa8E343aA9Ff90307291dAeF234d3`
+Andrea Suárez Retroactive Bonus Payment:
+1,982.65 DAI sent from the Surplus Buffer to `0xeD27986bf84Fa8E343aA9Ff90307291dAeF234d3`
 
 Ashton Playsted Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0x3dfE26bEDA4282ECCEdCaF2a0f146712712e81EA`
+714.39 DAI sent from the Surplus Buffer to `0x3dfE26bEDA4282ECCEdCaF2a0f146712712e81EA`
 
 Bernard Agrest Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0x74520D1690348ba882Af348223A30D760BCbD72a`
+1,375.13 DAI sent from the Surplus Buffer to `0x74520D1690348ba882Af348223A30D760BCbD72a`
 
 Brandon Lewandowski Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0x471C5806cadAFB297D9b95B914B65f626fDCD1a7`
+582.57 DAI sent from the Surplus Buffer to `0x471C5806cadAFB297D9b95B914B65f626fDCD1a7`
 
 Constanza Pregal Petrinec Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0x051cCee0CfBF1Fe9BD891117E85bEbDFa42aFaA9`
+1,025.84 DAI sent from the Surplus Buffer to `0x051cCee0CfBF1Fe9BD891117E85bEbDFa42aFaA9`
 
 Gala Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0x1c138352C779af714b6cE328C9d962E5c82EBA07`
+630.83 DAI sent from the Surplus Buffer to `0x1c138352C779af714b6cE328C9d962E5c82EBA07`
 
 Iván Berestein Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0x55f2E8728cFCCf260040cfcc24E14A6047fF4d31`
+254.56 DAI sent from the Surplus Buffer to `0x55f2E8728cFCCf260040cfcc24E14A6047fF4d31`
 
 Larry Wu Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0xE004DAabEfe0322Ac1ab46A3CF382a2A0bA81Ab4`
+1,757.73 DAI sent from the Surplus Buffer to `0xE004DAabEfe0322Ac1ab46A3CF382a2A0bA81Ab4`
 
 Mario Ferrari Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0xC2bE81CeB685eea53c77975b5F9c5f82641deBC8`
+3,012.92 DAI sent from the Surplus Buffer to `0xC2bE81CeB685eea53c77975b5F9c5f82641deBC8`
 
 Po Kunfu Retroactive Bonus Payment:
-TBD DAI sent from the Surplus Buffer to `0xdB7c1777b5d4502b3d1228c2449F1816EB507748`
+2,682.16 DAI sent from the Surplus Buffer to `0xdB7c1777b5d4502b3d1228c2449F1816EB507748`
 
 #### Possible remedy to avoid offboarding
 
@@ -269,3 +271,4 @@ The vote for this proposal shall be in Ranked Choice (IRV) format, featuring the
 |Mario Ferrari|11,895.00|14,274.00|1,737.12|8.217048909|4,519.38|
 |Po Kunfu|10,589.17|12,707.00|1,737.12|7.314983421|4,023.24|
 |**Totals**||||**234.1472713**|**128,781.00**|
+

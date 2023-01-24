@@ -7,13 +7,13 @@ MIP55c3-SP#: 14
 Author(s): @layerzero
 Contributors:
 Tags: spf
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-12-07
-Date Ratified: 
+Date Ratified: 2023-01-23
 Amount Requested: 5M DAI
 Recipient Address: TBD
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp14-self-insurance-fund/19076
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUbqKMy
 ```
 
 ## Sentence Summary
@@ -80,8 +80,9 @@ All claims and payouts will be managed according to a process contained in the C
 ```
 Official Contact : @layerzero
 Contact Email/Handle: layer.zero@ses.makerdao.network
-Date Added: (yyyy-mm-dd)
+Date Added: 2023-01-23
 Total Amount: In Dai. 5M DAI
 Wallet Address: Public wallet address of Multi-Sig.  TBD
 Comptroller signers: @tadeo (https://forum.makerdao.com/t/mip55c3-sp14-self-insurance-fund/19076/54), @prose11 (https://forum.makerdao.com/t/mip55c3-sp14-self-insurance-fund/19076/56)
 ```
+

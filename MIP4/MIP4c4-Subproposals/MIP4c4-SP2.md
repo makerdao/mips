@@ -9,10 +9,11 @@ Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium
 Tags:
 Type: process
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-10-26
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip4c4-spxx-mip14-repeal/18533
+Ratification Poll URL: https://vote.makerdao.com/polling/QmQvR5vt
 ```
 
 ### Motivation
@@ -36,3 +37,4 @@ Additionally, any subproposal under MIP14 would require a 4-week feedback period
 * [MIP14: Protocol DAI Transfer](https://mips.makerdao.com/mips/details/MIP14)
 * [MIP14 Ratification Poll](https://vote.makerdao.com/polling/QmPuRP2c#vote-breakdown)
 * [MIP14 Executive](https://vote.makerdao.com/executive/template-executive-vote-approve-october-2020-governance-cycle-bundle-october-26-2020#proposal-detail)
+

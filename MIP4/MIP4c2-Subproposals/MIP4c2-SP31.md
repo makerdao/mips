@@ -7,12 +7,12 @@ MIP4c2-SP#: 31
 MIP to be amended: MIP63
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
-Tags: MIP63, facilitator
-Status: Formal Submission
+Tags: MIP63
+Status: Accepted
 Date Proposed: 2022-12-02
-Date Ratified: 
+Date Ratified: 2023-01-23
 Forum URL: https://forum.makerdao.com/t/mip4c2-spxx-mip63-maker-keeper-network-amendment/19024
-Ratification Poll URL: 
+Ratification Poll URL: https://vote.makerdao.com/polling/QmRswbkm
 ```
 
 ## Specification
@@ -34,3 +34,5 @@ https://github.com/makerdao/mips/pull/720
 ### Relevant Information
 
 * The proposed [code](https://github.com/makerdao/dss-cron)
+
+

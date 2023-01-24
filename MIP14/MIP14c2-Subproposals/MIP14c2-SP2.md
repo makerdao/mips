@@ -4,14 +4,14 @@
 
 ```
 MIP14c2-SP#: 2
-Title: Subproposal for Protocol DAI Transfer to Fund ISCU from Dec 2022 to May 2023
 Author(s): @psychonaut
 Contributors: @TravinImmunefi
 Tags: 
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-12-02
-Date ratified: <yyyy-mm-dd>
+Date ratified: 2023-01-23
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp2-subproposal-for-protocol-dai-transfer-to-fund-iscu-from-dec-2022-to-may-2023/19025
+Ratification Poll URL: https://vote.makerdao.com/polling/QmbHM3fr
 ---
 Amount: 43,560 DAI
 ```
@@ -28,7 +28,7 @@ Since 24k MKR [voted](https://vote.makerdao.com/polling/QmeYD9nA) for `Approve r
 
 ### Surplus Analysis
 
-As of 02 Dec 2022, our auditor wallet contained 740,396 DAI and 0.32 ETH. Assuming that our auditor returns the balance to the protocol then the proposed transfer can be taken from the current surplus.
+As of 02 Dec 2022, our auditor wallet contained 740,396 DAI and 0.32 ETH. Assuming that our auditor returns the balance to the protocol, then the proposed transfer can be taken from the current surplus.
 
 ### DAI Transfer Ceiling Analysis
 
@@ -46,3 +46,4 @@ Amount To Transfer: 43,560 DAI
 ### Relevant Information:
 
 - https://forum.makerdao.com/t/immunefi-security-cu-update-for-november/19006
+

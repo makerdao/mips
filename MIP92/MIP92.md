@@ -7,14 +7,15 @@ MIP#: 92
 Title: Onboard PSM USDC to Yearn to earn Yield
 Author(s): corn, @omgcorn
 Contributors:
-Tags: 
+Tags: PSM
 Type: General
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-11-29
-Date Ratified:
+Date Ratified: 2023-01-23
 Dependencies: -
 Replaces: -
 Forum URL: https://forum.makerdao.com/t/mip92-onboard-psm-usdc-to-yearn-to-earn-yield/18971/1
+Ratification Poll URL: https://vote.makerdao.com/polling/Qma4jEPY
 ```
     
 ## Sentence Summary
@@ -58,7 +59,7 @@ Yearn is uniquely positioned to offer Maker yield-generation opportunities acros
     
 Yearn has provided a risk-adjusted [2.16% APY](https://staging.yearn.vision/d/apkUMx6nz/vault-overview?orgId=1&from=1636307831998&to=1668464540570&var-networks=ETH&var-exp=false&var-vaults=yvUSDC%200.4.3&var-address=0xa354F35829Ae975e850e23e9615b11Da1B3dC4DE&var-version=v2) average for the current USDC vault ([deployed](https://etherscan.io/tx/0xf8c6bcb6748b014c31246eb86c5d09886da942e008f738cc0a3e98ec019d8d44) Oct 2021) at the time of this proposal.
     
-# **Specification / Proposal Details**
+# Specification / Proposal Details
     
 ### MIP92c1: Yearn
     
@@ -157,3 +158,4 @@ We understand Maker is very conservative and we align with that perspective. We 
 Yearn Vaults are battle-tested and have been in production for over a year. We've developed extensive documentation about [Protocol Risk](https://docs.yearn.finance/resources/risks/protocol-risks), [Risk Scores](https://docs.yearn.finance/resources/risks/risk-score), [Strategy Risk](https://docs.yearn.finance/resources/risks/strategy-risks), [Vault Risk](https://docs.yearn.finance/resources/risks/vault-risks), [Operations](https://docs.yearn.finance/developers/v2/OPERATIONS), and [Emergency Procedures](https://docs.yearn.finance/developers/v2/EMERGENCY). 
     
 We are excited about the possibility of working with Maker to earn yield on funds in the PSM, and being able to do so transparently and on-chain. We see this proposal as a first step toward a long-term partnership between Maker and Yearn.
+

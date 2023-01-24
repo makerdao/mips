@@ -7,12 +7,13 @@ MIP55c3-SP#: 13
 Author(s): @Hajive 
 Contributors: @Viridian  
 Tags: spf, viridian-cluster, Endgame
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-12-07
-Date Ratified:
+Date Ratified: N/A
 Amount Requested: 500,000 DAI
 Recipient Address: TBC on SPF approval
 Forum URL: https://forum.makerdao.com/t/mip-xx-special-purpose-fund-for-developing-proof-of-performance-for-viridian-cluster/19077
+Ratification Poll URL: https://vote.makerdao.com/polling/QmRLpjTi
 ```
 
 ## Sentence Summary
@@ -65,9 +66,10 @@ Viridian Cluster Special Purpose Fund
 ```
 Official Contact or Group Name: Viridian Cluster Special Purpose Fund
 Contact Email/Handle: @hajive
-Date Added: XX
+Date Added: N/A
 Total Amount: 500,000 Dai
 Wallet Address: To be setup
 Comptroller signers: @SebVentures (https://forum.makerdao.com/t/mip55c3-sp13-special-purpose-fund-for-developing-proof-of-performance-for-viridian-cluster/19077/11), @Patrick_J (https://forum.makerdao.com/t/mip-xx-special-purpose-fund-for-developing-proof-of-performance-for-viridian-cluster/19077/6)
 ```
+
 

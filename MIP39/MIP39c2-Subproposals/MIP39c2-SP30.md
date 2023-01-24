@@ -6,12 +6,13 @@
 MIP39c2-SP#: 30
 Author(s): David Utrobin
 Contributors:
-Tags: core-unit, cu-com-001, mandate, active
-Status: Accepted
+Tags: core-unit, cu-com-001, mandate
+Status: Obsolete
 Date Proposed: 2022-02-11
 Date Ratified: 2022-04-25
 Forum URL:https://forum.makerdao.com/t/mip39c2-sp30-governance-communications-core-unit-com-001-mandate-refresh/13197
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWCUEaV
+Extra: This Core Unit has been offboarded via [MIP39c3-SP7](https://mips.makerdao.com/mips/details/MIP39c3SP7).
 ```
 
 ## Sentence Summary
@@ -189,3 +190,4 @@ _Leads a small team of community moderators, establishes guidelines and best pra
     * Discord
     * Reddit
 - Collaborates with the Governance Core Unit to improve venues.
+
