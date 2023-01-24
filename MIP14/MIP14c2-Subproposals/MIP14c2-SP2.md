@@ -4,7 +4,6 @@
 
 ```
 MIP14c2-SP#: 2
-Title: Subproposal for Protocol DAI Transfer to Fund ISCU from Dec 2022 to May 2023
 Author(s): @psychonaut
 Contributors: @TravinImmunefi
 Tags: 

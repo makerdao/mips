@@ -5,7 +5,6 @@
 
 ```
 MIP14c2-SP#: 1
-Title: Protocol DAI Transfer to fund TechOps CU for February 2023
 Author(s): @simonkp
 Contributors:
 Tags: tech-001, core-unit,
