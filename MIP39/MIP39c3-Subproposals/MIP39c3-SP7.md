@@ -164,34 +164,34 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 #### Payments
 
 @Davidutro Golden Parachute Payment:
-35,950 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
+35950 DAI sent from the Surplus Buffer to `0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9`
 
 @Artem_Gordon Golden Parachute Payment:
-24,750 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
+24750 DAI sent from the Surplus Buffer to `0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9`
 
 @Davidutro Retroactive Bonus Payment:
-43,059.78 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
+43059.78 DAI sent from the Surplus Buffer to `0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9`
 
 @Artem_Gordon Retroactive Bonus Payment:
-27,439.97 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
+27439.97 DAI sent from the Surplus Buffer to `0x1eE3ECa7aEF17D1e74eD7C447CcBA61aC76aDbA9`
 
 Alec Horner Retroactive Bonus Payment:
-1,335.49 DAI sent from the Surplus Buffer to `0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea`
+1335.49 DAI sent from the Surplus Buffer to `0x50D2f29206a76aE8a9C2339922fcBCC4DfbdD7ea`
 
-Andrea Suárez Retroactive Bonus Payment:
-1,982.65 DAI sent from the Surplus Buffer to `0xeD27986bf84Fa8E343aA9Ff90307291dAeF234d3`
+Andrea Suáreze Retroactive Bonus Payment:
+1982.65 DAI sent from the Surplus Buffer to `0xeD27986bf84Fa8E343aA9Ff90307291dAeF234d3`
 
 Ashton Playsted Retroactive Bonus Payment:
 714.39 DAI sent from the Surplus Buffer to `0x3dfE26bEDA4282ECCEdCaF2a0f146712712e81EA`
 
 Bernard Agrest Retroactive Bonus Payment:
-1,375.13 DAI sent from the Surplus Buffer to `0x74520D1690348ba882Af348223A30D760BCbD72a`
+1375.13 DAI sent from the Surplus Buffer to `0x74520D1690348ba882Af348223A30D760BCbD72a`
 
 Brandon Lewandowski Retroactive Bonus Payment:
-582.57 DAI sent from the Surplus Buffer to `0x471C5806cadAFB297D9b95B914B65f626fDCD1a7`
+582.57 DAI sent from the Surplus Buffer to 0x471C5806cadAFB297D9b95B914B65f626fDCD1a7
 
 Constanza Pregal Petrinec Retroactive Bonus Payment:
-1,025.84 DAI sent from the Surplus Buffer to `0x051cCee0CfBF1Fe9BD891117E85bEbDFa42aFaA9`
+1025.84 DAI sent from the Surplus Buffer to `0x051cCee0CfBF1Fe9BD891117E85bEbDFa42aFaA9`
 
 Gala Retroactive Bonus Payment:
 630.83 DAI sent from the Surplus Buffer to `0x1c138352C779af714b6cE328C9d962E5c82EBA07`
@@ -200,13 +200,13 @@ Iván Berestein Retroactive Bonus Payment:
 254.56 DAI sent from the Surplus Buffer to `0x55f2E8728cFCCf260040cfcc24E14A6047fF4d31`
 
 Larry Wu Retroactive Bonus Payment:
-1,757.73 DAI sent from the Surplus Buffer to `0xE004DAabEfe0322Ac1ab46A3CF382a2A0bA81Ab4`
+1757.73 DAI sent from the Surplus Buffer to `0xE004DAabEfe0322Ac1ab46A3CF382a2A0bA81Ab4`
 
 Mario Ferrari Retroactive Bonus Payment:
-3,012.92 DAI sent from the Surplus Buffer to `0xC2bE81CeB685eea53c77975b5F9c5f82641deBC8`
+3012.92 DAI sent from the Surplus Buffer to `0xC2bE81CeB685eea53c77975b5F9c5f82641deBC8`
 
 Po Kunfu Retroactive Bonus Payment:
-2,682.16 DAI sent from the Surplus Buffer to `0xdB7c1777b5d4502b3d1228c2449F1816EB507748`
+2682.16 DAI sent from the Surplus Buffer to `0xdB7c1777b5d4502b3d1228c2449F1816EB507748`
 
 #### Possible remedy to avoid offboarding
 
