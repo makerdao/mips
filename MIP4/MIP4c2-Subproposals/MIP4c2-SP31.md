@@ -7,7 +7,7 @@ MIP4c2-SP#: 31
 MIP to be amended: MIP63
 Author(s): Sam MacPherson (@hexonaut)
 Contributors:
-Tags: MIP63, facilitator
+Tags: MIP63
 Status: Accepted
 Date Proposed: 2022-12-02
 Date Ratified: 2023-01-23
@@ -34,4 +34,5 @@ https://github.com/makerdao/mips/pull/720
 ### Relevant Information
 
 * The proposed [code](https://github.com/makerdao/dss-cron)
+
 
