@@ -122,9 +122,9 @@ These amounts will be transferred through the Executive Vote that follows the ra
 
 | Detail | Amount (DAI) |
 |---|---|
-| 3 months of Facilitator Compensation & Healthcare costs | 35950 |
-| 3 months of PM Compensation & Healthcare costs | 24750 |
-| Total | 60700 |
+| 3 months of Facilitator Compensation & Healthcare costs | 35,950 |
+| 3 months of PM Compensation & Healthcare costs | 24,750 |
+| Total | 60,700 |
 
 #### Retroactive MKR Compensation
 
@@ -153,7 +153,7 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 **None.**
 
 `MKR Moving Average` - Is derived from the "Close" price on CoinGecko (latest data point per day, UTC), taking the average closing price for that eligibility period. See [spreadsheet](https://docs.google.com/spreadsheets/d/1YqExo-6-uVrXQoAkhayO5ZrupwxDZlxPnIHvA1TXWkw/edit?usp=sharing) for data.
-**Price: `$1737.12`**
+**Price: `$1,737.12`**
 
 `Multiplier%` - Determined by the proposal's on-chain vote result.
 ***80***
@@ -164,10 +164,10 @@ MKR Compensation will be derived based on the salary earned within the Core Unit
 #### Payments
 
 @Davidutro Golden Parachute Payment:
-35950 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
+35,950 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
 
 @Artem_Gordon Golden Parachute Payment:
-24750 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
+24,750 DAI sent from the Surplus Buffer to `0xE2aB32D5f3830270C7BB5BC4e6Ef6E7fB7708E76`
 
 @Davidutro Retroactive Bonus Payment:
 43,059.78 DAI sent from the Surplus Buffer to `Davidutro.eth` / `0xE896bCCE9fBb3341a1E98F98eC7a6FFbDEa35060`
