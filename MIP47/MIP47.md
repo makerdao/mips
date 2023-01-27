@@ -80,7 +80,7 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
 - Contact: The designated contact for the Multi-Sig.
 - Address: Public wallet address of Multi-Sig
-- Quorum: The signatory requierement for the Multi-Sig.
+- Quorum: The signatory requirement for the Multi-Sig.
 - Signers: A list of the signers.
 - Date Added: (yyyy-mm-dd)
 ```
