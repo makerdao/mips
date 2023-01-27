@@ -94,7 +94,8 @@ Cogent Bank is regulated by FDIC and by Florida’s Office of Financial Regulati
 
 ## Specification / Proposal Details
 
-![cashflow](cashflow.png)
+![cashflow](https://github.com/makerdao/mips/blob/master/MIP95/cashflow.png)
+
 Cash flow diagram (Dai to USD, and back to Dai)
 
 ### MIP95c1: Summary Deal Terms
