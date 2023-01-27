@@ -80,13 +80,16 @@ This listing is to be maintained and updated by the Governance Facilitators. It 
 Group Name: The name of the group seeking to utilize a Governance Multi-Sig.
 - Contact: The designated contact for the Multi-Sig.
 - Address: Public wallet address of Multi-Sig
+- Quorum: The signatory requierement for the Multi-Sig.
+- Signers: A list of the signers.
 - Date Added: (yyyy-mm-dd)
 ```
-|          Group Name          |     Contact    |               Wallet Address               | Date Added |
-|:----------------------------:|:--------------:|:------------------------------------------:|:----------:|
-| GovAlpha Core Unit           | @prose11 | [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/eth:0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances) | 2021-05-24 |
-| Oracles Core Unit            | @NikKunkel     | [0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf](https://gnosis-safe.io/app/eth:0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf/balances) | 2021-06-17 |
-| Strategic Finance Core Unit  | @Aes           | [0xf737C76D2B358619f7ef696cf3F94548fEcec379](https://gnosis-safe.io/app/eth:0xf737C76D2B358619f7ef696cf3F94548fEcec379/balances) | 2022-01-24 |
+
+| Group Name | Contact | Wallet Address | Quorum | Signers | Date Added |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| GovAlpha Core Unit | @prose11 | [0x01D26f8c5cC009868A4BF66E268c17B057fF7A73](https://gnosis-safe.io/app/eth:0x01D26f8c5cC009868A4BF66E268c17B057fF7A73/balances) | 2:3 | @prose11, @Patrick_J, @0xdeniz | 2021-05-24 |
+| Oracles Core Unit | @NikKunkel | [0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf](https://gnosis-safe.io/app/eth:0x2d09B7b95f3F312ba6dDfB77bA6971786c5b50Cf/balances) | 2:3 | @NikKunkel, @marcandu, @Derek | 2021-06-17 |
+| Strategic Finance Core Unit | @Aes | [0xf737C76D2B358619f7ef696cf3F94548fEcec379](https://gnosis-safe.io/app/eth:0xf737C76D2B358619f7ef696cf3F94548fEcec379/balances) | 2:3 | @Aes, @SebVentures, @Primoz | 2022-01-24 |
 
 ### MIP47c3: Dissolution of Multi-Sig
 
