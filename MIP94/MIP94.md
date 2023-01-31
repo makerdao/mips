@@ -9,7 +9,7 @@ Author(s): @tradergalax
 Contributors:
 Tags: governance
 Type: General
-Status: RFC
+Status: Withdrawn
 Date Proposed: 2022-12-20
 Date Ratified: xx
 Dependencies: None
