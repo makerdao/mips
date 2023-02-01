@@ -1,5 +1,7 @@
 # MIP92c5-SP1: Vault Setting Amendment Subproposal
 
+## Preamble
+
 ```
 MIP92c5-SP#: 1
 Author(s): @Doo_StableNode
