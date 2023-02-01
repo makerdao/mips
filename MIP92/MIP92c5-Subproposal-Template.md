@@ -1,6 +1,5 @@
 # MIP92c5: Vault Setting Amendment Subproposal
 
-
 ## Preamble
 
 ```
