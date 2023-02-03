@@ -7,11 +7,11 @@ MIP14c2-SP#: 3
 Author(s): @rspa
 Contributors:twblack88
 Tags: Endgame, JokeDAO
-Status: RFC
+Status: Rejected
 Date Proposed: 2023-01-10
-Date ratified: <yyyy-mm-dd>
+Date ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip14c2-spx-requesting-protocol-dai-transfer-to-fund-endgame-information-portal/19370
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmcwMMVc
 ---
 Amount: 9,999 DAI
 ```
