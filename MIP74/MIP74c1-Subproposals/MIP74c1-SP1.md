@@ -7,7 +7,7 @@ MIP74c1-SP#: 1
 Author(s): @Leritu
 Contributors:
 Tags:
-Status: Formal Submission
+Status: RFC
 Date Proposed: 2022-12-02
 Date Ratified: yyyy-mm-dd
 Ratification Poll URL:
@@ -48,21 +48,22 @@ Good Faith MKR Micro-Burn
 
 - In order to minimize gas fees, the $100/day burn would be executed in a single transaction of $700/week. For purposes of branding/marketing, I think the concept of “$100/day” sounds better than “$700/week.” But in practical application, the transaction can occur once per week.
 - Purchased on the open market
+- The hop, lot, scope, and yen will be set by the Risk-001. The dollar amount is so low, allowing them professional discretion here is not of significant concern.
 
 ## DssKiln Permissionless Open Market Operation Amount Requested on Annual Basis, Schedule of Funds Deployment & Source of Funding
 
 - DAI equivalent = 700
 - Schedule: Weekly
-- Fund Transfer: Once per week transfer of $700.
+- Fund Transfer: Once per year transfer of $36,400 (edited from one per week of $700)
 - Funding Source: Surplus Buffer
 
 ## DssKiln Permissionless Open Market Operation Management & Oversight
 
-- Oversight Bodies: Unknown – open to suggestions
+- Oversight Bodies: Risk CU has indicated they would be happy to manage this project. It's a small scope and should not require too much time.
 
 ## DssKiln Permissionless Open Market Operation Code Auditing & Audit Financing
 
-- Code/Audit: Unknown – not aware of what, if any, new coding would be required – open to suggestions
+- The audit for dssKiln has been done
 
 ```
 Official Contact of DssKiln Permissionless Open Market Operation Oversight Group: The designated contact for the DssKiln Strategy.
