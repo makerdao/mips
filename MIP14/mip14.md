@@ -107,7 +107,7 @@ Recipient Address:
 **Historical Transfer List**  
 
 ```
-Reason: Sustain TechOps CU (TECH-001), its team, critical infrastructure, tools and services through the month of February 2023.
+Reason: Fund TechOps CU (TECH-001) through the month of February 2023.
 Sub-proposal Number: 1
 Date Ratified: 2023-01-23
 Amount Transferred: 138,894 DAI
