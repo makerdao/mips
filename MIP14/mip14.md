@@ -106,20 +106,21 @@ Recipient Address:
 
 **Historical Transfer List**  
 
-```
+
+#### MIP14c3-SP1
 Reason: Fund TechOps CU (TECH-001) through the month of February 2023.
 Sub-proposal Number: 1
 Date Ratified: 2023-01-23
 Amount Transferred: 138,894 DAI
 Recipient Address: 0x2dC0420A736D1F40893B9481D8968E4D7424bC0B
-```
 
-```
+
+#### MIP14c3-SP2
 Reason: Fund Immunefi Security CU (IS-001) from December 2022 to May 2023.
 Sub-proposal Number: 2
 Date Ratified: 2023-01-23
 Amount Transferred: 43,560 DAI
 Recipient Address: 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4
-```
+
 
 
