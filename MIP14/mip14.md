@@ -105,14 +105,21 @@ Recipient Address:
 ```
 
 **Historical Transfer List**  
-There are currently no historical transfers. Below is an example transfer which should be removed (as should this paragraph) when the first ratified transfer is added to this list .
 
 ```
-Reason: Funding Chocolate for Governance Facilitators
-Sub-proposal Number: MIP14c1-SP0
-Date Ratified: 2020-02-30
-Amount Transferred: 1,000,000 DAI
-Recipient Address: 0x0000000000000000000000000000000000000000
-Total DAI Processed by MIP14 to date: 1,000,000
+Reason: Sustain TechOps CU (TECH-001), its team, critical infrastructure, tools and services through the month of February 2023.
+Sub-proposal Number: 1
+Date Ratified: 2023-01-23
+Amount Transferred: 138,894 DAI
+Recipient Address: 0x2dC0420A736D1F40893B9481D8968E4D7424bC0B
 ```
+
+```
+Reason: Fund Immunefi Security CU (IS-001) from December 2022 to May 2023.
+Sub-proposal Number: 2
+Date Ratified: 2023-01-23
+Amount Transferred: 43,560 DAI
+Recipient Address: 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4
+```
+
 
