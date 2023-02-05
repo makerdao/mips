@@ -43,7 +43,7 @@ TECH-001
 
 ### Budget Implementation
 
-![TOCU_Wallet_Setup](supporting_materials/MIP40c3-SP88/implementation.png)
+![TOCU_Wallet_Setup](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP88/implementation.png))
 
 We have been following the above budget implementation since the beginning of our Core Unit, which has been working quite well to keep our finances transparent. It follows the standard best practices as recommended by the SES Core Unit and will involve a setup with an Auditor wallet and an Operational Wallet which will be topped up on a monthly basis with a 3-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce as much as possible the overhead for Maker governance.
 
