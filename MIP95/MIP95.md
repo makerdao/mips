@@ -160,10 +160,11 @@ More information about Cogent’s business units, leadership, and technology is 
 
 #### MIP95c2.5: Public Reporting: Quarterly Call Reports
 
-Quarterly snapshots known as “Call Reports” include the bank’s balance sheet, income statement, and performance toward regularly accepted ratios.
+The quarterly Call report collects basic financial data of commercial banks in the form of a balance sheet, an income statement, and supporting schedules. The Report of Condition schedules provide details on assets, liabilities, and capital accounts.
 
 * [June, 2022 call report](https://www.dropbox.com/s/prukleb77orij8k/June%2525202022.pdf?dl=0)
 * [September, 2022 call report](https://www.dropbox.com/s/zhvhfflz572xw2p/September%202022.pdf?dl=0)
+* [Year End, December 31st, 2022](https://www.dropbox.com/s/4tkzw7sxobnshfu/Call%20Report%2012.31.2022.PDF?dl=0)
 
 #### MIP95c2.6: Loan Categories MakerDAO Will Participate In
 
@@ -287,12 +288,15 @@ The value in replicating the HVBank structure and using the same documents is:
 * Further, it makes the proposed transaction simple to close quickly.
 * Most importantly, replication reinforces a standard model for transactions with American commercial banks, which MakerDAO can use to scale RWA with many banks.
 
-#### MIP95c3.2: Proposed Debt Ceiling, and Long Term Capacity
+#### MIP95c3.2: Proposed Debt Ceiling, Long Term Capacity, and Balance Sheet Management (Scaling Up and Scaling Down)
 
-Cogent proposes an initial Debt Ceiling of $100M and, over the next 24 months, Cogent has the ability to participate $250M to $1B in loans that conform to these terms.
+**Scaling Up**
+Cogent proposes an initial Debt Ceiling of $100M, and over the next 24 months, Cogent can participate $250M to $1B in loans that conform to these terms.
 
-**MIP95c3.3: Minimum Net Yield to the Trust  (lifted from Annex I of HVB-MakerDAO Master Participation Agreement)**
+**Scaling Down**
+If and when MakerDAO seeks liquidity on a loan prior to the loan's maturity, we anticipate that MakerTrustDE will get liquidity in an amount and with timing dependent on market conditions. **Cogent cannot agree in advance to buy back any loan.**  
 
+#### MIP95c3.3: Minimum Net Yield to the Trust  (lifted from Annex I of HVB-MakerDAO Master Participation Agreement)
 The Loan shall be eligible for purchase if the interest yield, as of the close of business on the Business Day prior to the day Seller (Cogent) sends the Participation Certificate related to such Loan to Buyer (RWA Master Participation Trust) and Calculation Agent (“**Participation Send Date**”), meets the following thresholds:
 
 1. For floating-rate loans, the minimum interest rate less servicing fees shall be greater than or equal to 75 basis points in excess of the thirty (30) day average Secured Overnight Financing Rate (SOFR) issued by the Federal Reserve Bank of New York as published on the following website: [SOFR Averages and Index Data - FEDERAL RESERVE BANK of NEW YORK ](https://www.newyorkfed.org/markets/reference-rates/sofr-averages-and-index); **or**
@@ -379,6 +383,10 @@ Cogent proposes participating loans to the existing RWA Master Participation Tru
 #### MIP95c5.2: In The Event of Ambiguity
 
 The terms and the final Agreements for this transaction will be approved by a vote of MKR token holders. Thereafter, decisions by all Parties will be in accordance with those Agreements and, if the Agreements are ambiguous, then clarifying amendments will be brought to an MKR vote or to a trusted third party appointed by an MKR vote.
+
+#### MIP95c5.3: If Greenlit, Who Will Perform the Legal Review and the Credit/Risk Review for MakerDAO?
+
+This is a great question, considering the recent off-boarding of the RWF Core Unit. @Aes of the Strategic Finance Core Unit says that SF has the human resources on hand to perform both the legal review and the credit/risk review for MakerDAO.  
 
 ### MIP95c6: Disclaimer
 
