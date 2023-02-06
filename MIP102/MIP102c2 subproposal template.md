@@ -1,4 +1,4 @@
-# MIP102c2: MIP Amendment Subproposals Template
+# MIP102c2: MIP Amendment Subproposal Template
 
 ## Preamble
 
