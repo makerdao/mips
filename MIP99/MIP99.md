@@ -5,7 +5,7 @@
 ```
 MIP#: 99
 Title: Offer DAI to CeFi projects to enable real-world use cases
-Author(s): @FluidFinance
+Author(s): @fluid_fi
 Contributors:
 Tags: mips
 Type: General
@@ -17,9 +17,8 @@ Forum URL: https://forum.makerdao.com/t/mip99-offer-dai-to-cefi-projects-to-enab
 
 ## References
 
-- [Dai - DUSD pool on Balancer](https://app.balancer.fi/#/arbitrum/pool/0xd89746affa5483627a87e55713ec1905114394950002000000000000000000bf)
-- [YouTube explainer videos. How to buy/sell Dai directly from your bank account (or Fluid Account)](https://www.youtube.com/watch?v=-J2FGVZox40)
-- [How to spend Dai on your Fluid Card](https://www.youtube.com/watch?v=xKxgGeLrNQQ)
+Dai - DUSD pool on Balancer: https://bit.ly/3hJmfw1
+YouTube explainer videos. How to buy/sell Dai directly from your bank account (or Fluid Account): https://bit.ly/3wczadA. How to spend Dai on your Fluid Card: https://bit.ly/3XfExEG.
 
 ## Sentence Summary
 
