@@ -5,7 +5,7 @@
 ```
 MIP#: 99
 Title: Offer DAI to CeFi projects to enable real-world use cases
-Author(s): @FluidFinance
+Author(s): @fluid_fi
 Contributors:
 Tags: mips
 Type: General
