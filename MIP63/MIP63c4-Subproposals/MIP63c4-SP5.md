@@ -4,7 +4,6 @@
 
 ```
 MIP63c4-SP#: 5
-Title: Onboard/Amend Keeper Network - Chainlink Automation
 Author(s): Sam Demaree
 Contributors:
 Tags: keeper-network
