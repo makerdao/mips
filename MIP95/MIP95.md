@@ -20,16 +20,10 @@ Replaces: N/A
 
 ## References
 
-https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219
-
-
-**The Governance Documents of Cogent Bank:**
-
-* [Bylaws of Cogent Bancorp, Inc.](https://docs.google.com/document/d/17570Wky6BUTWlR9FOw8F9o8RykuhBVMuWDfDGJMsF2Y/edit?usp=sharing)
-* [Articles of Incorporation](https://www.dropbox.com/s/igjbcg1o5i1z2bt/Articles%252520of%252520Incorporation%252520as%252520of%2525209.28.2022.pdf?dl=0) for Pinnacle Bank, Cogent’s predecessor
-* [Amended Articles of Incorporation](https://www.dropbox.com/s/0qz8gst9ukwcl3v/Articles%252520of%252520Incorporation%252520Name%252520Change%252520to%252520COGENT%252520as%252520of%2525209.28.2022.pdf?dl=0) and name change to Cogent Bank
-
-
+- [HVBank Collateral Onboarding Application](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219)
+- [Bylaws of Cogent Bancorp, Inc.](https://docs.google.com/document/d/17570Wky6BUTWlR9FOw8F9o8RykuhBVMuWDfDGJMsF2Y/edit?usp=sharing)
+- [Articles of Incorporation](https://www.dropbox.com/s/igjbcg1o5i1z2bt/Articles%252520of%252520Incorporation%252520as%252520of%2525209.28.2022.pdf?dl=0) for Pinnacle Bank, Cogent’s predecessor
+- [Amended Articles of Incorporation](https://www.dropbox.com/s/0qz8gst9ukwcl3v/Articles%252520of%252520Incorporation%252520Name%252520Change%252520to%252520COGENT%252520as%252520of%2525209.28.2022.pdf?dl=0) and name change to Cogent Bank
 
 ## Sentence Summary
 
@@ -50,7 +44,6 @@ MakerDAO will benefit in many ways. This proposal:
 * Increases geographic diversification of RWA because Cogent covers the southeast USA.
 
 The proposed transaction will be strategic to Cogent insofar as it doubles the Bank’s capacity to originate loans to existing and new customers --- this is MakerDAO's value to community banks.
-
 
 ## Component Summary
 
@@ -365,7 +358,6 @@ Fees for the loan servicing by Cogent, and for off-chain data reporting by MaxSt
 The total S,G,&R Fees will be equal to one and one-quarter of one percent (1.25%) per annum on the first $10,000,000 participated to the MakerTrustDE of each individual Participated Loan (the “Base Loan Balance”). Over the Base Loan Balance, S,G,&R Fees on amounts participated to the MakerTrustDE out of each Participated Loan shall be three quarters of one percent (0.75%) per annum. For example, if Cogent participates $12M of a loan ($24M total loan size) to the MakerTrustDE, the S,G,&R Fees shall be ($10MM * 1.25%) + ($2M *.75%) = $125,000 + $15,000 = $140,000 per year, reducing proportionately to any amortization of the underlying loan (S,G,&R Fees decline on each participated loan as each loan amortizes).
 
 G&R will be 25 bps (0.25%) paid to MaxStability, and the remainder will be paid to Cogent as the Servicing Fee.
-
 
 ### MIP95c5: MakerDAO Specific Issues
 
