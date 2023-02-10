@@ -17,11 +17,9 @@ Ratification Poll URL:
 ```
 
 ## Sentence Summary
-
 The Work Proposal Framework enables a clear pathway for decentralized workforce teams to coordinate with Maker Governance when requesting funds from the protocol.
 
 ## Paragraph Summary
-
 The Work Proposal Framework is a request for funds mechanism for a decentralized workforce that coordinates opportunities to deliver work in exchange for funding from MakerDAO. The framework defines the overall process, templates, and best practices for increased MIP usability. The framework can be viewed as an evolution of both [MIP40](https://mips.makerdao.com/mips/details/MIP40) and [MIP55](https://mips.makerdao.com/mips/details/MIP55), with more mature operations and engagement points for Governance and the workforce. 
 
 ## Component Summary
@@ -47,7 +45,7 @@ The Work Proposal Framework is a response to the challenges and frustrations obs
 
 This MIP does not impact any currently approved budgets at MakerDAO and utilization for current or future budgets is optional. It is being introduced as an available tool for the DAO to use as desired.
 
-## Specifications
+## Specification
 
 ### MIP98c1: The Work Proposal Framework Overview
 
