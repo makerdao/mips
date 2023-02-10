@@ -7,7 +7,6 @@ MIP4c2-SP#: 30
 MIP to be amended: MIP41
 Author(s): @LongForWisdom
 Contributors: @Patrick_J
-Tags:
 Status: Formal Submission
 Date Proposed: 2022-11-28
 Date Ratified: <yyyy-mm-dd>
@@ -64,5 +63,5 @@ https://github.com/makerdao/mips/pull/711/
 ### Relevant Information
 
 Forum threads regarding the recent interim facilitator process at the CES-001 core unit:
-<https://forum.makerdao.com/t/interim-facilitator-ratification-ces-001/18886>
-<https://forum.makerdao.com/t/fallback-interim-facilitator-selection-process-ces-001/18911>
+- <https://forum.makerdao.com/t/interim-facilitator-ratification-ces-001/18886>
+- <https://forum.makerdao.com/t/fallback-interim-facilitator-selection-process-ces-001/18911>
