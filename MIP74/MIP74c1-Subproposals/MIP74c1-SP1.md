@@ -7,7 +7,7 @@ MIP74c1-SP#: 1
 Author(s): @Leritu
 Contributors:
 Tags:
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-02
 Date Ratified: yyyy-mm-dd
 Ratification Poll URL:

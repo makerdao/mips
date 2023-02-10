@@ -5,11 +5,11 @@
 ```
 MIP#: 95
 Title:  $100M of Cogent Bank Loan Participations
-Authors: @maxglass and Kyle Feldman kfeldman@cogentbank.net 
+Authors: @maxglass and Kyle Feldman kfeldman@cogentbank.net
 Contributors:
 Tags: RWA
 Type: Real World Asset
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-01-06
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip95-simple-to-onboard-rwa-100m-in-cogent-bank-loan-participations/19338
@@ -20,8 +20,8 @@ Replaces: N/A
 
 ## References
 
-https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219 
- 
+https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219
+
 
 **The Governance Documents of Cogent Bank:**
 
@@ -39,7 +39,7 @@ Cogent Bank, an FDIC regulated Florida commercial bank, proposes participating $
 
 Cogent Bank is an FDIC regulated Florida bank with $1.2B of assets and a $28M legal lending limit. Cogent proposes participating $100M of loans to MakerDAO’s existing RWA Master Participation Trust using the same Participation Agreement with the same exact terms as [MakerDAO’s deal with Huntingdon Valley Bank](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219). Cogent and MaxStability will pay MakerDAO's legal fees. This transaction is an opportunity for MakerDAO to reinforce its strategic value for community banks by doubling Cogent's capacity to originate loans to existing and new customers
 
-## Motivation 
+## Motivation
 
 MakerDAO will benefit in many ways. This proposal:
 
@@ -49,7 +49,7 @@ MakerDAO will benefit in many ways. This proposal:
 * Has the potential to scale quickly because Cogent Bank has a $28M legal lending limit.
 * Increases geographic diversification of RWA because Cogent covers the southeast USA.
 
-The proposed transaction will be strategic to Cogent insofar as it doubles the Bank’s capacity to originate loans to existing and new customers --- this is MakerDAO's value to community banks. 
+The proposed transaction will be strategic to Cogent insofar as it doubles the Bank’s capacity to originate loans to existing and new customers --- this is MakerDAO's value to community banks.
 
 
 ## Component Summary
@@ -136,13 +136,13 @@ Cogent Bank’s operations are focused in the state of Florida through relations
 
 #### MIP95c2.2: Cogent's Crypto Offering
 
-Cogent is open for business with crypto clients: investors, infrastructure providers, engineers, startups, and DAOs. Cogent has the ability to service clients nationally and the Bank has physical offices in the crypto hubs Miami and Tampa. Cogent is unique among banks that serve the crypto market because Cogent is a community bank. That means clients get personalized service that is high-touch. If you would like to explore banking with Cogent, please email the bank President, Chirag Bhavsar, at cbhavsar@cogentbank.net 
+Cogent is open for business with crypto clients: investors, infrastructure providers, engineers, startups, and DAOs. Cogent has the ability to service clients nationally and the Bank has physical offices in the crypto hubs Miami and Tampa. Cogent is unique among banks that serve the crypto market because Cogent is a community bank. That means clients get personalized service that is high-touch. If you would like to explore banking with Cogent, please email the bank President, Chirag Bhavsar, at cbhavsar@cogentbank.net
 
 #### MIP95c2.3: Regulatory Oversight, Compliance, Audit, Risk Management, Portfolio Management:
 
 Cogent, across all departments, is subjected to multiple regulatory audits annually, plus external reviews from supervisory agencies and audit firms. Some of the key reviews and audits are:
 
-1. **Regulatory:** Annually, the Federal Deposit Insurance Corp (FDIC) and Florida Office of Financial Regulation (OFR) perform a complete audit of the loan portfolio, loan underwriting, appraisals, credit quality, collateral, risk ratings, concentrations, stress testing, and reporting. 
+1. **Regulatory:** Annually, the Federal Deposit Insurance Corp (FDIC) and Florida Office of Financial Regulation (OFR) perform a complete audit of the loan portfolio, loan underwriting, appraisals, credit quality, collateral, risk ratings, concentrations, stress testing, and reporting.
 2. **Financial:** Financial audits are provided annually by the outside auditor Hacker, Johnson & Smith PA (https://www.hackerjohnson.com). Hacker is an independent firm of certified public accountants that has been providing audit and tax services to financial institutions since 1974. **Internal audits** focused on commercial and consumer loans, loan administration, loan operations, and loan servicing are provided by Saltmarsh, Cleaveland & Gund (https://www.saltmarshcpa.com). Saltmarsh is an independent firm of certified public accountants recognized as one of the top 200 accounting and advisory firms in the U.S.
 3. **Compliance:** Independent regulatory and compliance oversight is supported by Saltmarsh, Cleaveland & Gund and by Mauldin & Jenkins (https://www.mjcpa.com)
 4. **Loan Review:** The bank’s residential loan portfolio is reviewed monthly by the StoneHill Group (https://www.stonehillgroup.com). StoneHill is an independent loan quality control reviewer with expertise in financial services. Loan Quality Review is currently audited semi-annually by Saltmarsh, Cleaveland & Gund.
@@ -156,7 +156,7 @@ Cogent, across all departments, is subjected to multiple regulatory audits annua
 
 The executive leadership team at Cogent is led by Chief Executive Officer, Lee Hanna, and President, Chirag Bhavsar, both of whom sit on Cogent’s board. A complete [list of all corporate officers can be viewed here](https://cogentbank.com/leadership-team/) and a [list of the members of the board can be viewed here](https://cogentbank.com/board-of-directors/).
 
-More information about Cogent’s business units, leadership, and technology is available [here](https://docs.google.com/document/d/1p-sp1pwj5yeTczCC-Dzlm-9YXjb40ASgQjLxtdyB9Hk/edit?usp=sharing). 
+More information about Cogent’s business units, leadership, and technology is available [here](https://docs.google.com/document/d/1p-sp1pwj5yeTczCC-Dzlm-9YXjb40ASgQjLxtdyB9Hk/edit?usp=sharing).
 
 #### MIP95c2.5: Public Reporting: Quarterly Call Reports
 
@@ -352,7 +352,7 @@ The special purpose vehicle (SPV) proposed is an existing Delaware Statutory Tru
 
 #### MIP95c4.1: Legal Fees
 
-MaxStability and Cogent will pay whatever legal fees are needed to prepare the documents, engage service providers, and consummate this transaction. 
+MaxStability and Cogent will pay whatever legal fees are needed to prepare the documents, engage service providers, and consummate this transaction.
 
 #### MIP95c4.2: Governance Consulting & Reporting Fee
 
@@ -364,7 +364,7 @@ Fees for the loan servicing by Cogent, and for off-chain data reporting by MaxSt
 
 The total S,G,&R Fees will be equal to one and one-quarter of one percent (1.25%) per annum on the first $10,000,000 participated to the MakerTrustDE of each individual Participated Loan (the “Base Loan Balance”). Over the Base Loan Balance, S,G,&R Fees on amounts participated to the MakerTrustDE out of each Participated Loan shall be three quarters of one percent (0.75%) per annum. For example, if Cogent participates $12M of a loan ($24M total loan size) to the MakerTrustDE, the S,G,&R Fees shall be ($10MM * 1.25%) + ($2M *.75%) = $125,000 + $15,000 = $140,000 per year, reducing proportionately to any amortization of the underlying loan (S,G,&R Fees decline on each participated loan as each loan amortizes).
 
-G&R will be 25 bps (0.25%) paid to MaxStability, and the remainder will be paid to Cogent as the Servicing Fee. 
+G&R will be 25 bps (0.25%) paid to MaxStability, and the remainder will be paid to Cogent as the Servicing Fee.
 
 
 ### MIP95c5: MakerDAO Specific Issues
@@ -378,7 +378,7 @@ Cogent proposes participating loans to the existing RWA Master Participation Tru
 * A Delaware Statutory Trust (the existing RWA Master Participation Trust)
   * The Trust is a legal entity which will purchase and custody the assets, or liens over assets. It will be a Delaware Statutory Trust. This entity will enter into a Participation Agreement with Cogent Bank (the “Transaction Documents”). Said Transaction Documents will provide clear rules around the ability of Cogent Bank to participate loans to the Trust. All Transaction Documents pertaining to or entered into by the Trust will require an affirmative vote of MakerDAO, via a Verification Agent, to amend. Any actions deemed “immaterial” in the agreements will be referred to the Trust Sponsor. The Delaware Trustee will have irrevocable instructions from the Trust Sponsor to only transfer USD from its escrow account to the Trust or to the bank account of the broker-dealer.
 * Broker-Dealers
-  * In order to ensure secure transactions from Dai to USD and vice versa, the address of a regulated broker-dealer will be encoded into the MIP21 secure conduit. It is only this entity which will ever touch Dai. The broker-dealer has irrevocable instructions from the Trust Sponsor to only exchange Dai for USD and vice versa based on pre-agreed upon terms and may only send that Dai or USD to the Trust Sponsor’s escrow account with the Trustee’s bank or to the secure conduit. Multiple broker-dealers will be engaged so that there is redundancy in this part of the structure, which is needed as evidenced by the challenges with Genesis and the ongoing Genesis bankruptcy. 
+  * In order to ensure secure transactions from Dai to USD and vice versa, the address of a regulated broker-dealer will be encoded into the MIP21 secure conduit. It is only this entity which will ever touch Dai. The broker-dealer has irrevocable instructions from the Trust Sponsor to only exchange Dai for USD and vice versa based on pre-agreed upon terms and may only send that Dai or USD to the Trust Sponsor’s escrow account with the Trustee’s bank or to the secure conduit. Multiple broker-dealers will be engaged so that there is redundancy in this part of the structure, which is needed as evidenced by the challenges with Genesis and the ongoing Genesis bankruptcy.
 
 #### MIP95c5.2: In The Event of Ambiguity
 

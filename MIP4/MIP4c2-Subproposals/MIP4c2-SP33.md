@@ -8,7 +8,7 @@ MIP to be amended: MIP62
 Author(s): @LongForWisdom
 Contributors:
 Tags: mip-amendment
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-01-11
 Date Ratified: <yyyy-mm-dd>
 ```
