@@ -3,14 +3,14 @@
 ## Preamble
 
 ```
-MIP55c3-SP10: Pioneer a DeFi-Native Dataset for Modelling Sentiment-driven Dynamics and Risks
+MIP55c3-SP#: 10
 Author(s): @pvl
 Contributors:
 Tags: spf
 Status: Withdrawn
 Date Proposed: 2022-09-16
-Date Ratified:
-Amount Requested: 50k DAI
+Date Ratified: N/A
+Amount Requested: 50,000 DAI
 Recipient Address: 0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp10-pioneer-a-defi-native-dataset-for-modelling-sentiment-driven-dynamics-and-risks/17942
 Ratification Poll URL:
@@ -81,7 +81,7 @@ Fund the steps from the previous paragraph as follows:
 Official Contact or Group Name: pvl
 Contact Email/Handle: @pvl
 Date Added: 2022-09-16
-Total Amount: 50k DAI
+Total Amount: 50,000 DAI
 Wallet Address: 0x6ebB1A9031177208A4CA50164206BF2Fa5ff7416
 Comptroller signers: @Patrick_J, TBD
 ```
