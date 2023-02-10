@@ -6,13 +6,13 @@
 MIP74c1-SP#: 1
 Author(s): @Leritu
 Contributors:
-Tags:
-Status: RFC
+Tags: burn
+Status: Formal Submission
 Date Proposed: 2022-12-02
 Date Ratified: yyyy-mm-dd
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip74c1-sp-restart-a-100-day-micro-burn-of-mkr-in-show-of-good-faith-to-mkr-holders/19027
-Amount Requested on Annual Basis and Total per Duration:
+Amount Requested on Annual Basis and Total per Duration: 36,400 DAI annually for 5 years
 ```
 
 ## Sentence Summary
@@ -66,14 +66,14 @@ Good Faith MKR Micro-Burn
 - The audit for dssKiln has been done
 
 ```
-Official Contact of DssKiln Permissionless Open Market Operation Oversight Group: The designated contact for the DssKiln Strategy.
-Contract Email/Handle: The contact details for Oversight Group
+Official Contact of DssKiln Permissionless Open Market Operation Oversight Group: Risk Core Unit.
+Contract Email/Handle: @Risk-Core-Unit
 Date Added: yyyy-mm-dd
-Operation Duration: Duration of operation
-Amount Requested on Annual Basis and Total per Duration: In DAI or USD equivalent and absolute token amount
-Source of Funds for Operation: Where funds will be sourced from
-Type & Schedule of Asset Deployment: Type and rate at which funds will be deployed
-Schedule of Reporting on Performance: Rate at which reports will be published
-Required Audit: Yes/No
-Source of Financing for Audit: Define source of financing for audit process
+Operation Duration: 5 years.
+Amount Requested on Annual Basis and Total per Duration: 36,400 DAI annually for 5 years, 182,000 DAI total.
+Source of Funds for Operation: Surplus Buffer.
+Type & Schedule of Asset Deployment: Annual transfer.
+Schedule of Reporting on Performance: N/A
+Required Audit: No
+Source of Financing for Audit: N/A
 ```

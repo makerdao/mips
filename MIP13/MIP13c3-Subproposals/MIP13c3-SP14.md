@@ -6,13 +6,12 @@
 MIP13c3-SP#: 14
 Author(s): @tradergalax
 Contributors:
-Tags: template
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-12-20
 Date Ratified: <yyyy-mm-dd>
 ---
 Declaration Statement: Implement a Feature to Refund People who Lost Money Sending Dai to the Dai Contract Address
-Declaration to Replace: MIP13c3-SP# or n/a
+Declaration to Replace: N/A
 ```
 
 ## Specification
@@ -34,5 +33,5 @@ When the Dai is regarded as permanently destroyed, it will be issued to the tran
 Maker should offer some kind of support for Dai sent to the contract --- maybe with a 10% penalty to discourage abuse.
 
 ### Relevant Links
-    
+
 <https://forum.makerdao.com/t/implement-the-feature-to-refund-people-who-lost-money-sending-dai-to-the-dai-address/19223>
