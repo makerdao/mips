@@ -20,14 +20,11 @@ Replaces: N/A
 
 ## References
 
-https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219 
- 
-
-**The Governance Documents of Cogent Bank:**
-
-* [Bylaws of Cogent Bancorp, Inc.](https://docs.google.com/document/d/17570Wky6BUTWlR9FOw8F9o8RykuhBVMuWDfDGJMsF2Y/edit?usp=sharing)
-* [Articles of Incorporation](https://www.dropbox.com/s/igjbcg1o5i1z2bt/Articles%252520of%252520Incorporation%252520as%252520of%2525209.28.2022.pdf?dl=0) for Pinnacle Bank, Cogent’s predecessor
-* [Amended Articles of Incorporation](https://www.dropbox.com/s/0qz8gst9ukwcl3v/Articles%252520of%252520Incorporation%252520Name%252520Change%252520to%252520COGENT%252520as%252520of%2525209.28.2022.pdf?dl=0) and name change to Cogent Bank
+- [HVBank Collateral Onboarding Application](https://forum.makerdao.com/t/mip6-huntingdon-valley-bank-loan-syndication-collateral-onboarding-application/14219)
+- The Governance Documents of Cogent Bank:
+  - [Bylaws of Cogent Bancorp, Inc.](https://docs.google.com/document/d/17570Wky6BUTWlR9FOw8F9o8RykuhBVMuWDfDGJMsF2Y/edit?usp=sharing)
+  - [Articles of Incorporation](https://www.dropbox.com/s/igjbcg1o5i1z2bt/Articles%252520of%252520Incorporation%252520as%252520of%2525209.28.2022.pdf?dl=0) for Pinnacle Bank, Cogent’s predecessor
+  - [Amended Articles of Incorporation](https://www.dropbox.com/s/0qz8gst9ukwcl3v/Articles%252520of%252520Incorporation%252520Name%252520Change%252520to%252520COGENT%252520as%252520of%2525209.28.2022.pdf?dl=0) and name change to Cogent Bank
 
 
 
