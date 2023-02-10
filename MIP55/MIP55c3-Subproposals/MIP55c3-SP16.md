@@ -7,7 +7,7 @@ MIP55c3-SP#: 16
 Author(s): @PhoenixLabs
 Contributors:
 Tags:
-Status:
+Status: RFC
 Date Proposed: 2023-02-08
 Date Ratified: 
 Amount Requested: 347,100 DAI
