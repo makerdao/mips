@@ -28,31 +28,31 @@ This framework is developed and pioneered by the @SES-Core-Unit and is intended 
 
 ## Component Summary
 
-**MIP96c1: The Accountant Role**
+**MIP96c1: The Accountant Role**  
 Defines the Accountant role, its associated responsibilities, and the qualifications that an individual must meet to be recognized as an Accountant. 
 
-**MIP96c2: The Auditor Role**
+**MIP96c2: The Auditor Role**  
 Defines the Auditor role, its associated responsibilities, and the qualifications that an individual must meet to be recognized as an Auditor.
 
-**MIP96c3: The Operational Wallet Signer Role**
+**MIP96c3: The Operational Wallet Signer Role**  
 Defines the Operational Signer role, its associated responsibilities, and the qualifications that an individual must meet to act as an Operational Wallet Signer. 
 
-**MIP96c4: The Auditor Wallet**
+**MIP96c4: The Auditor Wallet**  
 Defines the multi-sig requirements for a wallet to be recognized as an Auditor Wallet under this framework.
 
-**MIP96c5: The Operational Wallet**
+**MIP96c5: The Operational Wallet**  
 Defines the multi-sig requirements for a wallet to be recognized as an Operational Wallet under this framework.
 
-**MIP96c6: The Monthly Budget Statement**
+**MIP96c6: The Monthly Budget Statement**  
 Defines the required standards for a Monthly Budget Statement to be recognized under this framework.
 
-**MIP96c7: The Monthly Audit Report**
+**MIP96c7: The Monthly Audit Report**  
 Defines the required standards for a Monthly Audit Report to be recognized under this framework.
 
-**MIP96c8: The Monthly Budget Cycle**
+**MIP96c8: The Monthly Budget Cycle**  
 Defines the processes and flow of funds under this framework.
 
-**MIP96c9: Disputes and Arbitration**
+**MIP96c9: Disputes and Arbitration**  
 Defines the circumstances and processes for escalating disputes to Maker Governance for arbitration. 
 
 ## Motivation
