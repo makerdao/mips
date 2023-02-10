@@ -1,4 +1,6 @@
-# MIP97: The DAO-level Objective Framework 
+# MIP97: The DAO-level Objective Framework
+
+## Preamble
 
 ```
 MIP#: 97
@@ -13,37 +15,38 @@ Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip97-the-dao-level-objective-framework/19390
 Ratification Poll URL: 
 ```
-# Sentence Summary
+## Sentence Summary
 The DAO-level Objective Framework enables a process for Governance to define contribution opportunities to Maker through projects with specific deliverables. 
 
-# Paragraph Summary
+## Paragraph Summary
 The DAO-level Objective Framework is a tool for Maker Governance to increase the alignment and coordination of a decentralized workforce to desired projects. This is accomplished by the utilization of a DLO --- a Request for Proposal document --- that defines the opportunity or project, the available budget for the delivery of the objective, desired milestones, and the required timeline for delivery.
 
-# Component Summary
-**MIP97c1: The DAO-level Objective Framework** 
+## Component Summary
+**MIP97c1: The DAO-level Objective Framework**  
 Provides an overview of the overall framework.
 
-**MIP97c2: Adding a DAO-Level Objective Proposal (DLO)** 
+**MIP97c2: Adding a DAO-Level Objective Proposal (DLO)**  
 Describes the proposal template and requirements to submit an eligible DLO.
 
-**MIP97c3: Standard DAO-Level Objective Proposal (DLO) parameters** 
+**MIP97c3: Standard DAO-Level Objective Proposal (DLO) parameters**  
 Provides defined best practices increasing the usability of DLOs by Governance and the opportunities for continuous improvement. 
 
-**MIP97c4: Governance Cycle** 
+**MIP97c4: Governance Cycle**  
 Defines how the DLO framework integrates with Maker's Governance Cycles. 
 
-**MIP97c5: DLO Tracking** 
+**MIP97c5: DLO Tracking**  
 Defines how Governance must track and archive DLO data. 
 
-# Motivation
+## Motivation
 The DAO-level Objective (DLO) Framework furnishes governance with a set of processes and procedures to efficiently pair MakerDAO's work/project requests with a willing, undertaking workforce.
 
 We consider the introduction of this framework timely at this conjuncture where Maker requires its workforce to reorganize into Endgame-ready entities. We believe it is a much-needed Governance catalyst to enable the ground-breaking work demanded by the Endgame.
 
 This MIP does not impact any currently approved budgets at MakerDAO. The utilization of this framework for current or future budgets is optional. This framework is being introduced as a further tool for the DAO to use as deemed fit.
 
-# Specifications / Proposal Details 
-## MIP97c1: The DAO-level Objective Framework
+## Specification / Proposal Details 
+
+### MIP97c1: The DAO-level Objective Framework
 
 The DAO-level Objective (DLO) Framework furnishes governance with powerful coordination tools to (1) consistently define and broadcast what works/projects the DAO needs done and (2) pair these with agreeing, undertaking workforce (internal or external to MakerDAO) through [MIP98: The Work Proposal Framework](https://forum.makerdao.com/t/mip98-the-work-proposal-framework/19391).
 
@@ -55,7 +58,7 @@ Best Practices may not apply to all cases all the time --- deviating from them c
 
 Finally, component MIP97c5 is used for both tracking and retrospective archival purposes.
 
-## MIP97c2: The DAO-Level Objective Proposal (DLO)
+### MIP97c2: The DAO-Level Objective Proposal (DLO)
 A DLO is a defined opportunity or project that serves as a request from MakerDAO to workforces (either internal or external to MakerDAO) to deliver well-defined work. The objective and deliverables are defined using a top-down approach. DLOs allow Governance to provide clear expectations of available funding, desired reporting details, timelines, and other specific DLO parameters detailed below.
 
 DLOs must follow the [DLO template](https://hackmd.io/@0xRetro/S165wKfPj), which includes the following sections:
@@ -79,11 +82,11 @@ DLOs must follow the [DLO template](https://hackmd.io/@0xRetro/S165wKfPj), which
 
 A template for DLOs is provided here: https://hackmd.io/gdrU2YpnSFetobcud6c83g
 
-## MIP97c3: Standard DAO-Level Objective Proposal (DLO) Parameters
+### MIP97c3: Standard DAO-Level Objective Proposal (DLO) Parameters
 
 ```!!! WIP !!!```
 
-## MIP97c4: Governance Cycle
+### MIP97c4: Governance Cycle
 
 DLO subproposals may enter the Weekly Governance Cycle, provided the Feedback and Frozen Periods have been fulfilled. 
 
@@ -91,7 +94,7 @@ DLO subproposals may enter the Weekly Governance Cycle, provided the Feedback an
 * Minimum Frozen Period: `1 Week`
 * On-chain vote: `1 Week`
 
-## MIP97c5: DLO Tracking
+### MIP97c5: DLO Tracking
 This component is used for tracking the status of Approved DLOs through their defined life cycle. A MIP editor must update this MIP following a successful on-chain vote. 
 * The DLO # is an index number that increments by 1 for every approved DLO. This is done to increase the ability for discussion on the proposal by assigning an easier-to-communicate index to it instead of the standard subproposal nomenclature.
 * **Open** status defines a DLO as approved and (1) unallocated budget from the defined CAP or (2) approved Work Proposals assigned to the DLO are below the maximum number approved.
@@ -107,4 +110,4 @@ Expiry Date: YYYY-MM-DD
 Approved Work Proposals: MIP98c2-SPxx
 ```
 
-### DLO Tracking Entries:
+#### DLO Tracking Entries:
