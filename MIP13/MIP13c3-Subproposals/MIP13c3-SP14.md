@@ -6,13 +6,12 @@
 MIP13c3-SP#: 14
 Author(s): @tradergalax
 Contributors:
-Tags: template
 Status: Formal Submission
 Date Proposed: 2022-12-20
 Date Ratified: <yyyy-mm-dd>
 ---
 Declaration Statement: Implement a Feature to Refund People who Lost Money Sending Dai to the Dai Contract Address
-Declaration to Replace: MIP13c3-SP# or n/a
+Declaration to Replace: N/A
 ```
 
 ## Specification
