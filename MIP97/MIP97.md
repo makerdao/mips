@@ -1,14 +1,14 @@
-# MIP97: The DAO-level Objective Framework
+# MIP97: The DAO-Level Objective Framework
 
 ## Preamble
 
 ```
 MIP#: 97
-Title: The DAO-level Objective Framework
+Title: The DAO-Level Objective Framework
 Author(s): @retro, @juan
 Contributors: 
 Tags: process
-Type: general
+Type: General
 Status: RFC
 Date Proposed: 2022-01-11
 Date Ratified: 
@@ -16,13 +16,13 @@ Forum URL: https://forum.makerdao.com/t/mip97-the-dao-level-objective-framework/
 Ratification Poll URL: 
 ```
 ## Sentence Summary
-The DAO-level Objective Framework enables a process for Governance to define contribution opportunities to Maker through projects with specific deliverables. 
+The DAO-Level Objective Framework enables a process for Governance to define contribution opportunities to Maker through projects with specific deliverables. 
 
 ## Paragraph Summary
-The DAO-level Objective Framework is a tool for Maker Governance to increase the alignment and coordination of a decentralized workforce to desired projects. This is accomplished by the utilization of a DLO --- a Request for Proposal document --- that defines the opportunity or project, the available budget for the delivery of the objective, desired milestones, and the required timeline for delivery.
+The DAO-Level Objective Framework is a tool for Maker Governance to increase the alignment and coordination of a decentralized workforce to desired projects. This is accomplished by the utilization of a DLO --- a Request for Proposal document --- that defines the opportunity or project, the available budget for the delivery of the objective, desired milestones, and the required timeline for delivery.
 
 ## Component Summary
-**MIP97c1: The DAO-level Objective Framework**  
+**MIP97c1: The DAO-Level Objective Framework**  
 Provides an overview of the overall framework.
 
 **MIP97c2: Adding a DAO-Level Objective Proposal (DLO)**  
@@ -38,7 +38,7 @@ Defines how the DLO framework integrates with Maker's Governance Cycles.
 Defines how Governance must track and archive DLO data. 
 
 ## Motivation
-The DAO-level Objective (DLO) Framework furnishes governance with a set of processes and procedures to efficiently pair MakerDAO's work/project requests with a willing, undertaking workforce.
+The DAO-Level Objective (DLO) Framework furnishes governance with a set of processes and procedures to efficiently pair MakerDAO's work/project requests with a willing, undertaking workforce.
 
 We consider the introduction of this framework timely at this conjuncture where Maker requires its workforce to reorganize into Endgame-ready entities. We believe it is a much-needed Governance catalyst to enable the ground-breaking work demanded by the Endgame.
 
@@ -46,9 +46,9 @@ This MIP does not impact any currently approved budgets at MakerDAO. The utiliza
 
 ## Specification / Proposal Details 
 
-### MIP97c1: The DAO-level Objective Framework
+### MIP97c1: The DAO-Level Objective Framework
 
-The DAO-level Objective (DLO) Framework furnishes governance with powerful coordination tools to (1) consistently define and broadcast what works/projects the DAO needs done and (2) pair these with agreeing, undertaking workforce (internal or external to MakerDAO) through [MIP98: The Work Proposal Framework](https://forum.makerdao.com/t/mip98-the-work-proposal-framework/19391).
+The DAO-Level Objective (DLO) Framework furnishes governance with powerful coordination tools to (1) consistently define and broadcast what works/projects the DAO needs done and (2) pair these with agreeing, undertaking workforce (internal or external to MakerDAO) through [MIP98: The Work Proposal Framework](https://forum.makerdao.com/t/mip98-the-work-proposal-framework/19391).
 
 DLOs (see MIP97c2) can be drafted and submitted for Maker Governance consideration by any individual. DLOs are subject to Maker Governance approval; they enter the weekly governance cycle and follow specific governance cycle parameters (see MIP97c4).
 
