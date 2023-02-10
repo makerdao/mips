@@ -7,6 +7,7 @@ MIP4c2-SP#: 30
 MIP to be amended: MIP41
 Author(s): @LongForWisdom
 Contributors: @Patrick_J
+Tags: mip-amendment
 Status: Formal Submission
 Date Proposed: 2022-11-28
 Date Ratified: <yyyy-mm-dd>
