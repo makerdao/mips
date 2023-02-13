@@ -5,7 +5,7 @@
 ```
 MIP#: 95
 Title:  $100M of Cogent Bank Loan Participations
-Authors: @maxglass and Kyle Feldman kfeldman@cogentbank.net
+Author(s): @maxglass, Kyle Feldman (kfeldman@cogentbank.net)
 Contributors:
 Tags: RWA
 Type: Real World Asset
