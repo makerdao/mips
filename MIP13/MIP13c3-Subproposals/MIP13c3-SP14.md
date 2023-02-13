@@ -34,4 +34,4 @@ Maker should offer some kind of support for Dai sent to the contract --- maybe w
 
 ### Relevant Links
 
-<https://forum.makerdao.com/t/implement-the-feature-to-refund-people-who-lost-money-sending-dai-to-the-dai-address/19223>
+https://forum.makerdao.com/t/mip13c3-sp14-implement-a-feature-to-refund-people-who-lost-money-sending-dai-to-the-dai-contract-address/19605
