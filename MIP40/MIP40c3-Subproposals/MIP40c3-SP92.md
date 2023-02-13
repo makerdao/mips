@@ -3,7 +3,7 @@
 ## Preamble
 
 ```
-MIP40c3-SP#:
+MIP40c3-SP#: 92
 Author(s): Primoz Kordez (@Primoz)
 Contributors: @rema @monet-supply
 Tags: core-unit-budget, risk-001, mip
@@ -18,11 +18,11 @@ Ratification Poll URL:
 
 ## Sentence Summary
 
-MIP40c3-SPXX renews the Risk Core Unit Risk-001 budget from March 1 2023 through February 29 2024.
+MIP40c3-SP92 renews the Risk Core Unit Risk-001 budget from March 1 2023 through February 29 2024.
 
 ## Paragraph Summary
 
-MIP40c3-SPXX renews the Risk Core Unit Risk-001 budget from March 1 2023 through February 29 2024. The budget proposal is written in accordance with the latest [MIP40 Budget Process Amendment](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP19.md). The @Risk-Core-Unit recognizes the current discussions regarding cutting costs. Hence, in this budget request, two options have been included (i) approve existing budget (business as usual) and (ii) approve reduced budget (-10%).
+MIP40c3-SP92 renews the Risk Core Unit Risk-001 budget from March 1 2023 through February 29 2024. The budget proposal is written in accordance with the latest [MIP40 Budget Process Amendment](https://github.com/makerdao/mips/blob/master/MIP4/MIP4c2-Subproposals/MIP4c2-SP19.md). The @Risk-Core-Unit recognizes the current discussions regarding cutting costs. Hence, in this budget request, two options have been included (i) approve existing budget (business as usual) and (ii) approve reduced budget (-10%).
 
 ## Specification
 
