@@ -19,7 +19,7 @@ This will be explained in the following Proposed Changes and Motivation
 ### Proposed Changes
 Strategies to Pursue:
 
-* Gen Lender: Supplies USDC to [AAVE 1](https://app.aave.com/home) to generate interest. Earned tokens are harvested, sold for more USDC which is deposited back into the strategy.
+* Gen Lender: Supplies USDC to [AAVE](https://aave.com/) to generate interest. Earned tokens are harvested, sold for more USDC which is deposited back into the strategy.
 * GUNIV3USDC-DAI: Supplies USDC to Maker DAO Peg Stability Module to feelessly get the correct USDC-DAI ratio then it deposits to [Arrakis Finance’s Univ3daiusdc Vault 5](https://beta.arrakis.finance/#/vaults/0xAbDDAfB225e10B90D798bB8A886238Fb835e2053), which autocompounds a Uniswap v3 DAI-USDC position. Afterwards, it uses this Vault token as collateral at [Maker DAO](https://oasis.app/asset/dai#earn). Flashmints are used to mint DAI from [MakerDAO](https://oasis.app/) to flashlend and fold the position, boosting the APY. Earned tokens are harvested and sold for more USDC, which is deposited back into the strategy.
 * GenLevComp v3: Supplies and borrows USDC on [Compound Finance](https://app.compound.finance/) simultaneously to earn COMP. Flashmints are used to mint DAI from [MakerDAO](https://oasis.app/) to flashlend and fold the position, boosting the APY. Earned tokens are harvested, sold for more USDC which is deposited back into the strategy.
 
