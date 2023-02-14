@@ -11,6 +11,8 @@ Tags: mip-amendment
 Status: Formal Submission
 Date Proposed: 2023-01-11
 Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip4c2-sp33-amend-mip62-to-allow-for-changing-communication-responsibilities/19381
+Ratification Poll URL: https://vote.makerdao.com/polling/QmQjv36P#vote-breakdown
 ```
 ## Specification
 

@@ -13,7 +13,7 @@ Status: Formal Submission
 Date Proposed: 2023-01-06
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip95-simple-to-onboard-rwa-100m-in-cogent-bank-loan-participations/19338
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmRh87bm#vote-breakdown
 Dependencies: MIP21
 Replaces: N/A
 ```

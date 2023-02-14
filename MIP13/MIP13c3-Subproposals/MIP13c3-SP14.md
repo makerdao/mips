@@ -11,7 +11,7 @@ Status: Formal Submission
 Date Proposed: 2022-12-20
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip13c3-sp14-implement-a-feature-to-refund-people-who-lost-money-sending-dai-to-the-dai-contract-address/19605
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmbjwLMo#vote-breakdown
 ---
 Declaration Statement: Implement a Feature to Refund People who Lost Money Sending Dai to the Dai Contract Address
 Declaration to Replace: N/A

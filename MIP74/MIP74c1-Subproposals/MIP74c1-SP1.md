@@ -10,8 +10,8 @@ Tags: burn
 Status: Formal Submission
 Date Proposed: 2022-12-02
 Date Ratified: yyyy-mm-dd
-Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip74c1-sp-restart-a-100-day-micro-burn-of-mkr-in-show-of-good-faith-to-mkr-holders/19027
+Ratification Poll URL: https://vote.makerdao.com/polling/Qma2KHCJ#vote-breakdown
 Amount Requested on Annual Basis and Total per Duration: 36,400 DAI annually for 5 years
 ```
 
