@@ -11,7 +11,7 @@ Status: Accepted
 Date Proposed: 2022-09-07
 Date Ratified: 2022-10-24
 Amount Requested: 258K DAI
-Recipient Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
+Recipient Address: 0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp9-legal-and-commercial-risk-domain-work-on-greenlit-collateral-blocktower-credit-rwa-arranger-spf/17776
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcV2pMZ
 ```
@@ -71,6 +71,6 @@ Official Contact or Group Name: Legal & RWF Work on BlockTower Credit (RWA Arran
 Contact Email/Handle: @Aes
 Date Added: 2022-09-07
 Total Amount: 258K In Dai.
-Wallet Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
+Wallet Address: 0x117786ad59BC2f13cf25B2359eAa521acB0aDCD9
 Comptroller signers: @Aes, @prose11
 ```
