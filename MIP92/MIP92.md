@@ -59,7 +59,7 @@ Yearn is uniquely positioned to offer Maker yield-generation opportunities acros
 
 Yearn has provided a risk-adjusted [2.16% APY](https://staging.yearn.vision/d/apkUMx6nz/vault-overview?orgId=1&from=1636307831998&to=1668464540570&var-networks=ETH&var-exp=false&var-vaults=yvUSDC%200.4.3&var-address=0xa354F35829Ae975e850e23e9615b11Da1B3dC4DE&var-version=v2) average for the current USDC vault ([deployed](https://etherscan.io/tx/0xf8c6bcb6748b014c31246eb86c5d09886da942e008f738cc0a3e98ec019d8d44) Oct 2021) at the time of this proposal.
 
-# Specification / Proposal Details
+## Specification / Proposal Details
 
 ### MIP92c1: Yearn
 
