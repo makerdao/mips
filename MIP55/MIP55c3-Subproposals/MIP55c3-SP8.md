@@ -11,7 +11,7 @@ Status: Accepted
 Date Proposed: 2022-08-16
 Date Ratified: 2022-09-08
 Amount Requested: 30,000 DAI
-Recipient Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
+Recipient Address: 0x29408abeCe474C85a12ce15B05efBB6A1e8587fe
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdaG8mo
 ```
@@ -68,6 +68,6 @@ Official Contact or Group Name: Strategic Finance Core Unit
 Contact Email/Handle: @adcv
 Date Added: 2022-08-16
 Total Amount: 30,000 In Dai.
-Wallet Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
+Wallet Address: 0x29408abeCe474C85a12ce15B05efBB6A1e8587fe
 Comptroller signers: @Aes (https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280/20), @prose11 (https://forum.makerdao.com/t/mip55c3-sp8-legal-work-on-mip65-special-purpose-fund/17280/19)
 ```
