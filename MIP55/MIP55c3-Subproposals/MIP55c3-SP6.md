@@ -11,7 +11,7 @@ Status: Accepted
 Date Proposed: 2022-08-10
 Date Ratified: 2022-09-01
 Amount Requested: 50,000 DAI
-Recipient Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
+Recipient Address: 0x173d85CD1754daD73cfc673944D9C8BF11A01D3F
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp6-legal-domain-work-on-greenlit-collateral-bibta-special-purpose-fund/17166
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcCs8SS
 ```
@@ -70,6 +70,6 @@ Official Contact or Group Name: Aes
 Contact Email/Handle: @Aes
 Date Added: 2022-08-10
 Total Amount: 50,000 In Dai.
-Wallet Address: 0xf737C76D2B358619f7ef696cf3F94548fEcec379
+Wallet Address: 0x173d85CD1754daD73cfc673944D9C8BF11A01D3F
 Comptroller signers: @Aes, @prose11
 ```
