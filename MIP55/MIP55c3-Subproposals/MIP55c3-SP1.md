@@ -7,7 +7,7 @@ MIP55c3-SP#: 1
 Author(s): William Remor @williamr
 Reviewers: Juan Guillen @juan, Wouter Kampmann @wouter  
 Tags: rwa
-Status: RFC
+Status: Obsolete
 Date Proposed: 2021-09-24
 Date Ratified: 
 Purpose : Funding request
