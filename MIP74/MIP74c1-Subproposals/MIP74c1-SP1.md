@@ -7,7 +7,7 @@ MIP74c1-SP#: 1
 Author(s): @Leritu
 Contributors:
 Tags: burn
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-12-02
 Date Ratified: yyyy-mm-dd
 Forum URL: https://forum.makerdao.com/t/mip74c1-sp-restart-a-100-day-micro-burn-of-mkr-in-show-of-good-faith-to-mkr-holders/19027
