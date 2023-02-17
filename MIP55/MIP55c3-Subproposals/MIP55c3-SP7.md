@@ -11,7 +11,7 @@ Status: Accepted
 Date Proposed: 2022-08-10
 Date Ratified: 2022-09-26
 Amount Requested: 81,000 DAI
-Recipient Address: Multisig address will be added after successful on-chain vote prior to the executive vote.
+Recipient Address: 0xF411d823a48D18B32e608274Df16a9957fE33E45
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp7-special-purpose-fund-for-the-ambassador-program/17169
 Ratification Poll URL: https://vote.makerdao.com/polling/QmcJQCyW
 ```
