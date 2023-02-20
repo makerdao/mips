@@ -39,11 +39,11 @@ In this proposal, we are deviating from the previously used methodology to a sim
 - The continued fall of the price of MKR would have increased the MKR/FTE if the previous methodology had been repeated - a poor outcome for the MKR holders.
 
 In return for the increased stability that a more extended plan offers, GovAlpha is:
-- **We are voluntarily removing the repricing mechanism** used by other Core Units.
+- **Voluntarily removing the repricing mechanism** used by other Core Units.
 - **Offering a lock-in price of 1500 DAI/MKR**, which is significantly above the six-month rolling average price of MKR that is typically used for such plans
-    - The average price was $715.49 in the six months to 2023-02-01 per CoinGecko ([data](https://docs.google.com/spreadsheets/d/1K_ijibDZ751p6kBlcLj3t9Ch58xA26yT7_e5-4w55FE/))
+    - The mean daily closing price of MKR was $715.49 in the six months to 2023-02-01 per CoinGecko ([data](https://docs.google.com/spreadsheets/d/1K_ijibDZ751p6kBlcLj3t9Ch58xA26yT7_e5-4w55FE/))
 
-This results in an overall reduction in the MKR/FTE from the [previously approved](https://mips.makerdao.com/mips/details/MIP40c3SP80#sentence-summary) 115.21 MKR/FTE/year to 76.18 MKR/FTE/year, a more than 33% reduction.
+This results in a reduction in the MKR/FTE from the [previously approved](https://mips.makerdao.com/mips/details/MIP40c3SP80#sentence-summary) 115.21 MKR/FTE/year to 76.18 MKR/FTE/year, a greater than 33% reduction.
 
 We believe these changes mutually benefit GovAlpha and MKR holders.
 
