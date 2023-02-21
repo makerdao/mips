@@ -12,13 +12,14 @@ Date Proposed: 2023-02-08
 Date Ratified: 
 Amount Requested: 347,100 DAI
 Recipient Address:
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734
 ```
 
 ## Sentence Summary
 
 This SPF requests 347,100 DAI for all expenses to launch Spark Lend and maintain it for a year. Details about Spark Protocol can be found here (link to the announcement).
 
-## **Paragraph Summary**
+## Paragraph Summary
 
 This SPF provides funding for the launch of Spark Lend, the first Spark product we want to help launch from Phoenix Labs.
 
@@ -28,11 +29,11 @@ If [MIP55c3-SP15](https://forum.makerdao.com/t/mip55c3-sp15-phoenix-labs-initial
 
 All products created by Phoenix Labs will belong to MakerDAO, including the smart contracts, the Front End, and all intellectual property.
 
-## **Special Purpose Fund Name**
+## Special Purpose Fund Name
 
 Phoenix Labs-Spark Lend launch.
 
-## ****Special Purpose Fund Scope****
+## Special Purpose Fund Scope
 
 To be as lean as possible, we will reuse as many Maker internal resources as possible and start with the launch of just one of the Spark Products. This budget includes all we need to launch and maintain the Spark Lend product for one year. The budget doesn’t include the team’s salaries as we will work on this but continue with our affiliation to our respective CUs until the ecosystem scope goes into effect. Once the framework to onboard EA is clear, we will present a complementary proposal that will include our salaries and the development of new features and products, as detailed here (link to the announcement).
 
@@ -48,10 +49,11 @@ The current budget doesn’t include costs related to smart contracts audits, ga
 ### Detailed Roadmap
 
 This SPF covers everything with an “IN PROGRESS” or “NOT STARTED” status. The New Features with an “IN THE ROADMAP” status are not covered by this SPF and will be developed later after Maker governance approves another budget that supports Phoenix Labs in doing it.
-![Untitled (3)|629x800](upload://wMQDHawoXBvjujMWlCuh2fEYTbz.png)
+
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP16/SparkRoadmap.png)
 
 ### Budget Breakdown
-![Untitled (4)|690x698](upload://qoDD8K7Pd5HjBZfbLTFx9nO2x3f.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP16/SparkBudgetBreakdown.png)
 
 ### Funding Breakdown
 
@@ -68,4 +70,3 @@ Total Amount: 347,100 Dai
 Wallet Address: TBD
 Comptroller signers: @Nadia, TBD
 ```
-
