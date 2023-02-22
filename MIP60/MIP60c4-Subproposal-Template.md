@@ -3,11 +3,11 @@
 ## Preamble
 ```
 MIP60c4-SP#: #
-Author(s):
-Contributors:
-Tags: 
-Status: 
-Date Proposed: <yyyy-mm-dd>
+Author(s): @Flexgod69
+Contributors:4337
+Tags: PI Core Network
+Status: Pending
+Date Proposed: <2023-02-21>
 Date Ratified: <yyyy-mm-dd>
 ```
 
@@ -25,13 +25,13 @@ Date Ratified: <yyyy-mm-dd>
 
 - List the modified assets and managers using the following template:
 
-#### asset name
+#### asset name Jay Kaotixca 
 
 > **Asset Type:** <subdomain/twitter/etc>  
 > **Asset Owner:** <DAI Foundation/etc>  
-> **Platform Manager:** <core-unit/individual/etc> (<contact email>)  
-> **Content Manager:** <core-unit/individual/etc> (<contact email>)  
-> **Purpose:** <purpose (short)>  
+> **Platform Manager:** <core-unit/Individual/etc> (<jaykay6ixs@outlook.com>)  
+> **Content Manager:** <core-unit/individual/etc> (<jaykaotixxca87@gmail.com>)  
+> **Purpose:** <purpose (short)>  Get Verified
 > **Last Modification:** <link to last modification>  
 
 ### Reason for Modification
