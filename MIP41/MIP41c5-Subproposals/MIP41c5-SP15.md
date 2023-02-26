@@ -8,7 +8,7 @@ Contributors:
 Tags: cu-facilitator, pe-001, mip
 Status: RFC
 Date Proposed: 2022-02-08
-Date Ratified: 
+Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp15-facilitator-offboarding-derek-pecu-001/19749
 Ratification Poll URL:
 ```
@@ -22,7 +22,7 @@ MIP41c5-SP15 voluntarily offboards @Derek as Facilitator of the PE Core Unit (PE
 ## Specification
 
 ### Motivation
-This MIP formalises my business entity as the core unit facilitator. This seeks to correct a governance/management oversight and does not change any pre-existing responsibilities or duties of the Protocol Engineering Core Unit.
+This MIP formalises my business entity as the core unit facilitator. It seeks to correct a governance/management oversight and does not change any pre-existing responsibilities or duties of the Protocol Engineering Core Unit.
 
 Core Unit ID
 PECU-001
