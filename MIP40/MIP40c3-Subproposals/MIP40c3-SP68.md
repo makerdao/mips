@@ -56,7 +56,7 @@ For reference, the Protocol Engineering Emergency Multisig remains in operation:
 
 The following table illustrates the proposed budget for 2022-2023:
 
-![](../supporting_materials/MIP40c3-SP68/breakdown.png)
+![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP68/breakdown.png)
 
 #### Budget Details
 
@@ -69,7 +69,7 @@ The following items provide further detail into the above data points.
 * Healthcare as a line item has been removed, standardized across team members and rolled into the salary line item (previously we had a two-tier model: US and non-US), this means some team members are seeing up to a 2% increase in pay as a result.
 * New monthly reporting will indicate how many resources each workstream is using (Core Protocol, Cross Domain Scaling and Safety Workstream). To-date the reporting has been at the level of the core unit, not the individual workstreams, therefore we intend to provide an extra level of insight. Initial planning suggests the following balance:
 
-![|690x423, 75%](../supporting_materials/MIP40c3-SP68/pie.png)
+![|690x423, 75%](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP68/pie.png)
 
 ##### Events & Travel
 
