@@ -3,9 +3,9 @@
 ## Preamble
 
 ```
-MIP39c2-SP#: 39 
+MIP39c2-SP#: 39
 Author(s): @danik
-Contributors: 
+Contributors:
 Tags: core-unit, cu-sas-001, mandate
 Status: RFC
 Date Applied: 2023-02-08
@@ -18,14 +18,19 @@ Ratification Poll URL:
 
 MIP39c2-SP39 modifies the mandate of SAS-001: Sidestream Auction Services Core Unit.
 
-## Motivation
-With the Pregame many things for SAS changed. We broadly expanded our CU work scope to maximize our effectiveness for the DAO. In the past months Auctions and Liquidations became a smaller fraction of our daily work.
+## Description of Changes
 
-We've described our expanded work scope in our [new budget MIP](https://forum.makerdao.com/t/mip40c3-sp95-modifying-sidestream-auction-services-core-unit-budget-sas-001/19737) and in our 2 recent monthly Updates 
+With the Pregame many things for SAS changed. We broadly expanded our CU work scope to maximize our effectiveness for the DAO. In the past months, Auctions and Liquidations became a smaller fraction of our daily work.
 
-During the RFC phase **we hope to receive feedback from MKR holders**, whether an official update of our mandate is helpful or if the explanations in the other documents are sufficient.
+We’ve described our expanded work scope in our [new budget MIP](https://forum.makerdao.com/t/mip40c3-sp95-modifying-sidestream-auction-services-core-unit-budget-sas-001/19737) and in our 2 recent monthly Updates
 
-If the the official mandate update is helpful, we'll collect all relevant information from other public documents in this MIP during the RFC phase.
+SAS strives to become a trusted custom software development service provider for SubDAOs. This is in accordance with the Endgame plan, where individual SubDAOs will focus on providing value where they know best, without the need to specialize in software development.
+
+With the mandate update, SAS will pursue the technical opportunities in the DAO that are most effective (not being limited to auctions and liquidations anymore). We strive to acquire as many project-based funded MakerDAO projects as possible.
+
+For that, we expended our development capabilities and have now a Web3 Full-Stack offering: Smart contract, API and decentralized frontend development services accompanied by Product Management and Infrastructure work.
+
+To reflect this change (but avoid changing the proven CU acronym) - we would like to rename the CU into Sidestream Automation Services (SAS).
 
 ### Related Documents
 * [MIP40c3-SP95: Modifying Sidestream Auction Services Core Unit Budget (SAS-001)](https://forum.makerdao.com/t/mip40c3-sp95-modifying-sidestream-auction-services-core-unit-budget-sas-001/19737)
