@@ -9,19 +9,20 @@ Contributors:
 Tags: SPF
 Status: RFC
 Date Proposed: 2023-02-08
-Date Ratified: 
+Date Ratified: N/A
 Amount Requested: 50,000 DAI
-Recipient Address:
+Recipient Address: 0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509
 ```
+
 ## Sentence Summary
 
 This SPF requests 50,000 DAI for legal and incorporation expenses of Phoenix Labs, an R&D company focused on creating new products for MakerDAO.
 
 ## Paragraph Summary
 
-This SPF provides the initial funding for Phoenix Labs, to work on all the legal requirements that will allow us to launch [Spark Lend by April](https://forum.makerdao.com/t/announcing-phoenix-labs-and-spark-protocol/19731). This request aims to cover the expenses related to conducting legal research to determine the type of legal entity which best matches our objectives and after deciding on the company structure, incorporate it in a way that allows us to fulfill all legal requirements to launch the Spark Protocol and a base Front End. 
+This SPF provides the initial funding for Phoenix Labs to work on all the legal requirements that will allow us to launch [Spark Lend by April](https://forum.makerdao.com/t/announcing-phoenix-labs-and-spark-protocol/19731). This request aims to cover the expenses related to conducting legal research to determine the type of legal entity which best matches our objectives and ---after deciding on the company structure--- incorporate it in a way that allows us to fulfill all legal requirements to launch the Spark Protocol and a base front end. 
 
-This research will be available for any team approved by the Maker Governance that wants to build a decentralized product. With this, we will help future Ecosystem Actors join Maker in implementing the End Game Plan.
+This research will be available for any team approved by the Maker Governance that wants to build a decentralized product. With this, we will help future Ecosystem Actors join Maker in implementing the Endgame Plan.
 
 ## Motivation
 
@@ -36,8 +37,8 @@ Phoenix Labs Initial Funding.
 ## Special Purpose Fund Scope
 
 - Two weeks of Legal Counsel leading the research and a final deliverable of the list of options.
-- Consultation with various legal firms
-- Incorporation of the legal entity
+- Consultation with various legal firms.
+- Incorporation of the legal entity.
 
 ### Funding Breakdown
 
@@ -46,11 +47,12 @@ Phoenix Labs Initial Funding.
 - Unspent funds will be returned to the Surplus Buffer.
 
 ### Special Purpose Fund Details
+
 ```
 Official Contact or Group Name: Phoenix Labs initial Funding.
 Contact Email/Handle: @Nadia, @hexonaut 
 Date Added: 
 Total Amount: 50,000 Dai
-Wallet Address: TBD
-Comptroller signers: @Nadia, TBD
+Wallet Address: 0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509
+Comptroller signers: @Nadia (https://forum.makerdao.com/t/mip55c3-sp15-phoenix-labs-initial-funding-spf/19733/6), @0xdeniz (https://forum.makerdao.com/t/mip55c3-sp15-phoenix-labs-initial-funding-spf/19733/8)
 ```
