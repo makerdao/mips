@@ -8,7 +8,7 @@ MIP to be amended: MIP62
 Author(s): @LongForWisdom
 Contributors:
 Tags: mip-amendment
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2023-01-11
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp33-amend-mip62-to-allow-for-changing-communication-responsibilities/19381
