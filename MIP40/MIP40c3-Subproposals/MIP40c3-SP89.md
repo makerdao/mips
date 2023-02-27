@@ -1,4 +1,4 @@
-# MIP40c3-SP89: Modify Core Unit Budget, DECO
+# MIP40c3-SP89: Modify Core Unit Budget (DECO-001)
 
 ## Preamble
 
@@ -10,13 +10,15 @@ Tags: cu-budget, deco-001
 Status: RFC
 Date Applied: 2023-02-06
 Date Ratified: <yyyy-mm-dd>
-Budget Start Date: <yyyy-mm-dd>
-Budget End Date: <yyyy-mm-dd>
+Budget Start Date: 2021-12-01
+Budget End Date: 2023-05-31
+Forum URL:
+Ratification Poll URL: https://forum.makerdao.com/t/mip40c3-sp89-modify-core-unit-budget-deco/19690
 ```
 
 ## Sentence Summary
 
-End streaming of new funds and vesting of MKR to DECO on May 31st. 
+End streaming of new funds and vesting of MKR to DECO on May 31st.
 
 ## Paragraph Summary
 

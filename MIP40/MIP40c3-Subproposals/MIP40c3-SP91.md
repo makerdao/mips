@@ -5,13 +5,13 @@
 ```
 MIP40c3-SP#: 91
 Author(s): @Patrick_J, @prose11
-Contributors: 
+Contributors:
 Tags: core-unit, cu-gov-001, budget, mkr-budget
 Status: RFC
 Date Proposed: 2023-02-07
 Date Ratified: yyyy-mm-dd
-Forum URL: 
-Ratification Poll URL: 
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp91-govalpha-core-unit-mkr-budget-q2-2023/19713
+Ratification Poll URL:
 ```
 
 ## References
@@ -124,4 +124,4 @@ Subsequent transfers will occur quarterly until the sooner of:
 
 Suppose this budget is approved, and GovAlpha is subsequently unwound through the Endgame launch or a formal offboarding proposal. In that case, the remaining Contributors and Facilitators will receive pro-rated MKR vesting up to the formal offboarding date. This includes any handover/unwinding period that may be required.
 
-Because the vesting transfers are made three months in arrears (e.g., period ending August 2023 paid out in November 2023), payments may need to be brought forward to accommodate for time worked, as long as relevant vesting cliffs have been reached. This will be clearly communicated by the outgoing Facilitator(s) and any necessary transfers should be included in an Executive Vote at the earliest possible convenience.
+Because the vesting transfers are made three months in arrears (e.g., period ending August 2023 paid out in November 2023), payments may need to be brought forward to accommodate for time worked, as long as relevant vesting cliffs have been reached. This will be clearly communicated by the outgoing Facilitator(s), and any necessary transfers should be included in an Executive Vote at the earliest possible convenience.

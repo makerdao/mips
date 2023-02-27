@@ -12,7 +12,7 @@ Date Applied: 2023-02-07
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2023-04-01
 Budget End Date: 2024-03-31
-Forum URL:
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp90-govalpha-core-unit-dai-budget-2023-2024/19712
 Ratification Poll URL:
 ```
 
@@ -37,7 +37,7 @@ As MakerDAO pivots towards the Endgame launch, currently scheduled for 2024, the
 - Overall management and coordination of the Governance process as defined by the relevant MIPs
     - GovAlpha facilitators are the only individuals able to create polls on the MakerDAO voting portal.
     - Responsibility for following up on approved Governance Polls to ensure appropriate action is taken by other Core Units or actors.
-- Co-ordination of Executive Votes:
+- Coordination of Executive Votes:
     - Liaison with engineering teams.
     - Ensuring all items have followed the approved Governance processes.
     - Ensuring accuracy of Executive Vote contents by ensuring all relevant parties have confirmed details pertinent to their mandates.
@@ -67,7 +67,7 @@ As MakerDAO pivots towards the Endgame launch, currently scheduled for 2024, the
     - Developing an Arbitration Framework for the Arbitration Scope.
     - Providing expert input to the Governance Security Scope.
 - Taking a specific interest in the drafting of the Endgame Constitution.
-- Actively developing a documentation site for the Endgame in collaboration with SES modeled on the [Maker Operational Manual](manual.makerdao.com).
+- Actively developing a documentation site for the Endgame in collaboration with SES-001 modeled on the [Maker Operational Manual](manual.makerdao.com).
 
 #### Absorbing GovComms Roles
 
@@ -132,7 +132,7 @@ A total of 904,805, 805,805, or 674,905 DAI will be streamed to [0x01D26f8c5cC00
 
 ### Reporting Transparency
 
-*Note that we have changed our budget line items to align with those displayed on th [SES Expenses Dashboard](expenses.makerdao.network).*
+*Note that we have changed our budget line items to align with those displayed on the [SES Expenses Dashboard](expenses.makerdao.network).*
 
 GovAlpha maintains a publicly accessible spreadsheet that details all transactions from the multisig. It can be found [here](https://docs.google.com/spreadsheets/d/1IhTFGRh3NGL3Kp6TXj035T-898zHBSc2epEZGOPAF2k/edit#gid=0).
 
@@ -218,7 +218,7 @@ We believe that GovAlpha's role is crucial to the operational effectiveness of M
 
 ### Headcount Planning / Team Summary
 
-At the time of writing, the GovAlpha team consists of the following members: 
+At the time of writing, the GovAlpha team consists of the following members:
 
 #### Facilitators
 - @prose11 - Full-Time Facilitator - Experienced
@@ -264,5 +264,5 @@ Instead of binary voting, this budget will use ranked-choice voting, with the op
 
 In order for this Ratification Poll to conclude successfully and the contained proposal(s) move to Accepted status, each of the following conditions must be true:
 
-* `A`, `B`, or `C` vote-weight must exceed D vote-weight when the poll closes.
+* `A`, `B`, or `C` vote-weight must exceed `D` vote-weight when the poll closes.
 * Winning vote weight must exceed the `Minimum Positive Participation` value of 10,000 MKR when the poll closes.
