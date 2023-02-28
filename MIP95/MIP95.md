@@ -9,7 +9,7 @@ Author(s): @maxglass, Kyle Feldman (kfeldman@cogentbank.net)
 Contributors:
 Tags: RWA
 Type: Real World Asset
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2023-01-06
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip95-simple-to-onboard-rwa-100m-in-cogent-bank-loan-participations/19338

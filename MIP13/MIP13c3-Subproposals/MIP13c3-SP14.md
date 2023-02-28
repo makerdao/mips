@@ -7,7 +7,7 @@ MIP13c3-SP#: 14
 Author(s): @tradergalax
 Contributors:
 Tags: declaration-of-intent, dai
-Status: Formal Submission
+Status: Rejected
 Date Proposed: 2022-12-20
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip13c3-sp14-implement-a-feature-to-refund-people-who-lost-money-sending-dai-to-the-dai-contract-address/19605

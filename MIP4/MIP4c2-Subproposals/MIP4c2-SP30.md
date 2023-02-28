@@ -8,12 +8,13 @@ MIP to be amended: MIP41
 Author(s): @LongForWisdom
 Contributors: @Patrick_J
 Tags: mip-amendment
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-11-28
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2023-02-27
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp30-amend-interim-facilitator-appointment-process/18951
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSYNed5#vote-breakdown
 ```
+
 ## Specification
 
 ### Motivation
