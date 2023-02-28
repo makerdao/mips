@@ -36,23 +36,18 @@ This proposal defines an emergency voting system. Emergency votes are executive 
 ## Component Summary
 
 **MIP24c1: Situation Definitions**
-
 Defines the terms "urgent" and "emergency" for purposes of an expedited governance change.
 
 **MIP24c2: Considerations of Expedited Protocol Changes**
-
 Outlines the various considerations that should be made before enacting expedited changes.
 
 **MIP24c3: Emergency Response Procedure**
-
 A general procedure for managing emergency situations.
 
 **MIP24c4: Urgent Response Procedure**
-
 A general procedure for managing urgent situations.
 
 **MIP24c5: Role of Arbitration Facilitators**
-
 Outlines the tasks of the Arbitration Facilitators during emergency interventions.
 
 ## Motivation
