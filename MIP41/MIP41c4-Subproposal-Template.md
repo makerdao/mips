@@ -27,9 +27,9 @@ Date Ratified: <yyyy-mm-dd>
 - Specify the Core Unit ID.
 - This element specifies which Core Unit you are proposing to onboard to as a Facilitator.
 
-### Facilitator Name and Information
+### Facilitator Account and Information
 
-- This element must contain the Forum name of the Facilitator, as well as other names and IDs in Maker related communication channels. Additionally it must contain the Facilitators Ethereum address used for Budget Implementation control and other authorizations.
+- This element must contain the Forum name of the Facilitator, as well as other names and IDs in Maker related communication channels. Additionally it must contain the Facilitators Ethereum address used for Budget Implementation control and other authorizations. While entities may be onboarded as facilitators, only authorized accounts will have the authority to initiate using facilitator powers. 
 
 ### Facilitator Commitment
 
