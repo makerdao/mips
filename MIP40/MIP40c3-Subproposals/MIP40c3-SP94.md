@@ -4,7 +4,7 @@
 
 ```
 MIP40c3-SP#: 94
-Author(s): Steakhouse Financial
+Author(s): @steakhouse (Steakhouse Financial)
 Contributors:
 Tags: core-unit, cu-sf-001, budget, mkr-budget, active
 Status: RFC
