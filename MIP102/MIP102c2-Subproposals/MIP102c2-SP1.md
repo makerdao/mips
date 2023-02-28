@@ -4,15 +4,15 @@
 
 ```
 MIP102c2-SP#: 1
-MIP(s) to be amended: MIP0, MIP16, MIP24, MIP51
+MIP(s) to be amended: MIP0, MIP16, MIP24, MIP39, MIP40, MIP41, MIP51, MIP55
 Author(s): Rune
 Contributors:
 Tags: subproposal
 Status: RFC
-Date Proposed: <2023-02-6>
-Date Ratified: <yyyy-mm-dd>
+Date Proposed: 2023-02-6
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp1-mip-amendment-subproposals/19703
-Ratification Poll URL:
+Ratification Poll URL: 
 ```
 ## Specification
 
@@ -25,8 +25,13 @@ This subproposal amends all the critical MIPs needed to support the Pregame Make
 * MIP0
 * MIP16
 * MIP24
+* MIP38
+* MIP39
+* MIP40
+* MIP41
 * MIP51
+* MIP55
 
 ### Amendment Pull Request
 
-TBD
+<https://github.com/makerdao/mips/pull/847>
