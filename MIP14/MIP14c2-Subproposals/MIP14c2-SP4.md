@@ -12,7 +12,7 @@ Date ratified:
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp4-starknet-cu-budget-extension/19403/1
 Ratification Poll URL: TBD
 ---
-Amount: 65,000 DAI
+Amount: 123,000 DAI
 ```
 
 ## Specification
@@ -36,28 +36,23 @@ We will be in a position to ask for additional budget in June.
 
 * The current balance held in the CU wallet is: 157,000 DAI (January salaries have already been paid)
 * Our typical monthly burn is: 35,000
-* The forecasted spend until June is: 240,000
+* The forecasted spend until June is: 280,000
   * Salaries: 35,000 * 5 = 175,000 DAI
   * Audit: 50,000 DAI
   * Conferences & offsite: 15,000 DAI
-* The gap to be financed is 240,000 - 157,000 = 83,000 DAI
+  * Formal verification: 40,000 DAI
 
-We are however only requesting 65,000 DAI for now due to the current DAI Transfer Ceiling.
+* The gap to be financed is 280,000 - 157,000 = 123,000 DAI
 
 ### Surplus Analysis
 
 Proposed transfer can be taken from the current Surplus Buffer.
 
-### DAI Transfer Ceiling Analysis
-
-The proposed transfer of 65,000 DAI is within the parameters of the DAI Transfer Ceiling (250,000 DAI).
-
-Note: We are restricted by MIP14 based on the total amount of DAI approved. If the [current vote passes to raise the DAI ceiling](https://vote.makerdao.com/polling/QmPHFiYP#vote-breakdown), we will be revising our request to 83,000 DAI
 
 ### Targets
 
 Recipient is SNE-001 CU Multi-sig Wallet.
 ```
 Recipient Address: 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1```
-Amount To Transfer: 65,000 DAI
+Amount To Transfer: 123,000 DAI
 ```
