@@ -33,22 +33,16 @@ MIP51 defines a Monthly Governance Cycle that provides a predictable framework f
 ## Component Summary
 
 **MIP51c1: Governance Cycle Breakdown**
-
 Breaks the Governance Cycle down into the actions that take place each week of the monthly cycle.
 
 **MIP51c2: Ratification Poll**
-
 Defines the parameters for a Ratification Poll under the MIPs process.
 
 **MIP51c3: Minimum Positive Participation Changes**
-
 Defines the process for modifying the Minimum Positive Participation required for Ratification Polls to pass.
 
 **MIP51c4: Calendar Exceptions** 
-
 Defines exceptions to the Monthly Governance Cycle due to holidays.
-
-
 
 ## Motivation
 
@@ -80,25 +74,17 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 -   MIP Editors must be informed by MIP Authors of the status change via commonly used communications channels.
 
 **Week 1, Thursday**
--  Governance Facilitators perform the **Submission Review** as part of the weekly Governance and Risk meeting and communicate which of the proposed MIPs are in accordance with guidelines (defined in the MIP0 Framework) and will continue to the Ratification Poll.
-- The Governance Facilitators must come to consensus on whether each submission warrants moving forward to a Ratification Poll.
-    - Governance Facilitators may consider blocking a proposal if they believe that moving forward to a Ratification Poll would negatively affect community cohesion.
-    - If the Governance Facilitators prevent a proposal from moving to a Ratification Poll, they must clearly communicate their reasons for doing so via the official [forum](https://forum.makerdao.com).
-    - In the event the Governance Facilitators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
+- The Arbitration Facilitators must come to consensus on whether each submission warrants moving forward to a Ratification Poll.
+    - Arbitration Facilitators may consider blocking a proposal if they believe that moving forward to a Ratification Poll would negatively affect community cohesion.
+    - If the Arbitration Facilitators prevent a proposal from moving to a Ratification Poll, they must clearly communicate their reasons for doing so via the official [forum](https://forum.makerdao.com).
+    - In the event the Arbitration Facilitators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
 
 **Week 2, Monday**
--   The Governance Facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
+-   The Arbitration Facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
 -   Ratification Polls are published to the [community GitHub](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [Voting Portal](https://vote.makerdao.com/).
 
 **Week 4, Monday**
 -   The Ratification Polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the MIP Editors.
-
-**Week 4, Thursday**
-- The Governance Facilitators do a **Governance Cycle Review** as part of the Weekly Governance and Risk meeting in which they summarize and discuss the Governance Cycle with the community.
-- The Governance Facilitators also discuss the upcoming governance cycle and potential submissions with the community.
-
-#### Governance Cycle Overview
-![Gov Cycle](https://user-images.githubusercontent.com/53664591/114054203-8c7de580-9887-11eb-90da-0431b051fff3.png)
 
 ---
 

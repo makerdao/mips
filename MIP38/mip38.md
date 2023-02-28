@@ -41,6 +41,9 @@ This component provides the basic definitions for the Core Unit Framework.
 **MIP38c2: Core Unit List**
 This component defines the Core Unit List, its format, and its upkeep.
 
+**MIP38c3: Endgame Transition**
+This component defines the special rules of Endgame Transition as they apply to all Core Unit related MIPs.
+
 ## Motivation
 
 This MIP provides a basic structure based on Core Units, further defined below, capable of supporting the increasing complexity of the DAO and its continuous expansion. This MIP also contains a list that keeps track of existing and offboarded Core Units.
@@ -48,6 +51,8 @@ This MIP provides a basic structure based on Core Units, further defined below, 
 Under its stripped-down, homogeneous nature, this structure avoids the hassle of ad-hoc implementations that are hard to analyze and interface.
 
 ## Specification / Proposal Details
+
+### MIP38c1: Core Unit MIP Set Framework
 
 #### Core Unit
 
@@ -566,4 +571,14 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-events-001&orderDirection=ASC&hideParents=true&)
 ---
 
+### MIP38c3: Endgame transition
 
+In case of conflict, this component supersedes other components in the MIP.
+
+To enable the smooth transition to Endgame, Core Unit related MIPs ([MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md)) continue to function temporarily during the Pregame after the Maker Constitution has passed. They are used only to provide budget continuity for existing, approved budgets, and to provide a temporary solution for designating Responsible Facilitators in the Scopes.
+
+New Core Units can no longer be proposed or be approved, new budgets cannot be proposed or approved, and recurring budgets do not automatically renew. The only exception to the rule against recurring budget is the Strategic Finance Budget, which can recur a single time.
+
+All Core Unit roles defined in the Core Unit related MIPs no longer apply, and are superseded by the rules and responsibilities defined in the Maker Constitution or Scope Frameworks. If no direction is given to a Core Unit in the Maker Constitution or the Scope Frameworks, they can fall back on their existing Core Unit mandate, but must also make efforts to support and enable the transition to Endgame, and provide input for how their work can be incorporated in the Scopes.
+
+Over time, all budgets provided from the Core Unit related MIPs will run out, and the Core Units will be transitioned to new budgets and have their work regulated through the Maker Constitution and Scopes. Once the transition is complete and all budgets have run out or been offboarded, and no more payments occur to any Core Unit defined in the Core Unit MIPs, all of the Core Unit MIPs become obsolete and stop having any effect.

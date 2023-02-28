@@ -1,3 +1,7 @@
+MIP55 edits, @MIP-Editors 
+
+---
+
 # MIP55: Special Purpose Fund (SPF ☀️)
 
 ## Preamble
@@ -42,6 +46,9 @@ Details the governance process for proposals created by Special Purpose Funds.
 
 **MIP55c3: Adding/Modifying a Special Purpose Fund**
 This subproposal process allows Governance to create or modify an existing Special Purpose Fund through the provided subproposal template.
+
+**MIP55c4: Endgame Transition**
+This component defines the special rules of Endgame Transition as they apply to SPFs.
 
 ## Motivation
 
@@ -129,3 +136,9 @@ _Parameters for requests of above 50K Dai:_
 
 * Minimum Feedback Period: 4 Weeks.
 * Minimum Frozen Period: 1 Week.
+
+### MIP55c4: Endgame Transition
+
+This component supersedes the other components in this MIP.
+
+No more SPFs can be created, but existing SPFs continue until they run out. Once no more SPFs are active from this MIP, it must be moved to obsolete status.
