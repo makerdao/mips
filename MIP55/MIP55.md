@@ -1,7 +1,3 @@
-MIP55 edits, @MIP-Editors 
-
----
-
 # MIP55: Special Purpose Fund (SPF ☀️)
 
 ## Preamble
