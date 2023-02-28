@@ -11,8 +11,7 @@ Status: RFC
 Date Proposed: 2023-02-01
 Date ratified: -
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp5-requesting-protocol-dai-transfer-to-fund-techops-cu-for-march-2023/19624
-Ratification Poll URL: -
-Forum URL: https://forum.makerdao.com/t/mip14c2-sp5-requesting-protocol-dai-transfer-to-fund-techops-cu-for-march-2023/19624
+Ratification Poll URL: 
 ---
 Amount: 138,894 DAI
 ```
