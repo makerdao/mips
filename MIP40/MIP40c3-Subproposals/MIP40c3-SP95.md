@@ -5,7 +5,7 @@
 ```
 MIP40c3-SP#: 95
 Author(s): @danik
-Contributors:
+Contributors: 
 Tags: core-unit, cu-sas-001, budget, dai-budget
 Status: RFC
 Date Applied: 2023-02-08
@@ -13,7 +13,7 @@ Date Ratified:
 Budget Start Date: 2023-04-01
 Budget End Date: 2024-03-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp95-modifying-sidestream-auction-services-core-unit-budget-sas-001/19737
-Ratification Poll URL:
+Ratification Poll URL: 
 ```
 
 ## Sentence Summary
@@ -39,7 +39,7 @@ A current example: For at least the next two months, we'll be working on the Eco
 
 Overtime, as more Endgame projects become clearer, there will be various project budgets available. Therefore, the CU budget will be used less.
 
-This subproposal creates a new budget stream for the Core Unit to continue operations through 2023-04-01.
+This subproposal creates a new budget stream for the Core Unit to continue operations from 2023-04-01 to 2024-03-31.
 
 **Other Changes & modifications from the original [MIP40c3-SP43](https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799/1) budget subproposal:**
 * SAS-001 Annual Budget Cap reduced from 1,130,392.56 DAI to 850,950.00 DAI.
@@ -50,7 +50,6 @@ This subproposal creates a new budget stream for the Core Unit to continue opera
     * Contingency Planning - Scenarios .
     * Return Excess Funds.
     * Unwinding and Defunding.
-    * Proposal Parameters.
 * Minor grammatical and formatting updates to the Budget Implementation.
 
 ## Specification
@@ -65,7 +64,7 @@ Therefore, the structure of this budget proposal maximizes accountability in lig
 
 Whenever SAS finds a clearly defined project with a set budget, we'll use the project budget instead of the CU budget. We expect more clearly defined and budgeted Endgame software development projects later this year. SAS will pick them up and, therefore naturally transition towards a project-based funded Ecosystem Actor.
 
-Parallel to this budget, we are updating our mandate to reflect the expanded work scope of the team.
+Parallel to this budget, we are updating our mandate to reflect the expanded work scope of the team. 
 
 ### Description of the current pipeline of work items
 
@@ -105,20 +104,20 @@ SAS-001
 
 >Modifications from the Original MIP40: [MIP40c3-SP43](https://forum.makerdao.com/t/mip40c3-sp43-adding-sidestream-auction-services-core-unit-budget-sas-001/10799/1)
 > * Reflect Endgame participation
-> * Included budget transparency graphic & link.
+> * Included budget transparency graphic & link. 
 > * Minor grammatical and formatting updates.
 
 ![SASFlow](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP95/SASFlow.png)
 
 **SES Auditor Framework Details**
 
-The budget implementation will follow standard best practices as recommended by the SES Core Unit. The setup of this framework uses an Auditor wallet and an Operational Wallet, which will be topped up every month with a three-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce the overhead for Maker governance.
+The budget implementation will follow standard best practices as recommended by the SES Core Unit. The setup of this framework uses an Auditor wallet and an Operational Wallet, which will be topped up every month with a three-month runway. The budget cap will be streamed from the protocol to the Auditor Wallet to reduce the overhead for Maker governance. 
 
 #### Multisig Wallets
 
-The following multisigs are involved:
+The following multisigs are involved: 
 
-1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have two roles defined for its signers: Auditors and Accountants.
+1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multi-sig, composed of 1-out-of-2 role based multi-sigs as signers. The Auditor Wallet will have two roles defined for its signers: Auditors and Accountants. 
 
    The Accountant Role Multi-sig will have two signers---both SES permanent team contributors. The Auditor Role Multisig will also have two signers, also both SES permanent team contributors. SES will conduct the monthly auditing process as described in the Monthly Top-up Cycle below, increasing transparency of the auditing process for the community.
 
@@ -126,7 +125,7 @@ The following multisigs are involved:
 
    This multisig will hold funds up to the Quarterly Budget Cap in DAI and receive the DssVest stream. All funds pass through this wallet before any are sent to the Operational Wallet.
 
-2. **The Operational Wallet** -- This is a 2-out-of-3 multisig controlled by SAS-001.
+2. **The Operational Wallet** -- This is a 2-out-of-3 multisig controlled by SAS-001. 
 
 #### Monthly Budget Statement
 
@@ -149,10 +148,10 @@ The Monthly Budget Statements can be found in [this GitHub repository](https://g
 3. **Returning Excess Funds** – SAS-001 creates and signs any transactions for excess funds that should be returned to the Auditor Wallet:
    * Excess DAI Transactions – DAI transactions for Operational Wallets with a balance above the Three-Month Budget Forecast will be returned to the Auditor Wallet.
 4. **DssVest Pull** - The Auditor Wallet signers will pull available funds from the SAS-001 DssVest contract, replenishing the available funds in the Auditor Wallet.
-5. **Auditors' Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by SAS-001 to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant's report generated from the checklist, and verify the Accountant's findings.
+5. **Auditors' Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by SAS-001 to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant's report generated from the checklist, and verify the Accountant's findings. 
     * A summary of each audit cycle's report will be made available to the Maker Community at the conclusion of the audit cycle on the SAS-001's transparency reporting repository on GitHub.
 6. **Transaction Approvals** – Upon acceptance of the Monthly Budget Statement audit, an Accountant Role signer and an Auditor Role signer will sign the requested transactions, sending the DAI top-up amounts to the Operational Wallet.
-7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer.
+7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the [DssBlow contract described here](https://github.com/Lollike/dss-blow), will return the excess DAI directly to the surplus buffer. 
     * The Auditor Wallet will then hold up to 2x the Monthly Budget Cap at the start of the month, allowing DssVest to stream DAI up to the Quarterly Budget Cap over the course of the month.
 
 #### Multisig Wallet Configurations
@@ -178,21 +177,19 @@ The Monthly Budget Statements can be found in [this GitHub repository](https://g
 
 #### Transactions
 
-One of the two following transactions is approved based on the rank-choice voting outcome of this subproposal's Ratification Poll.
-
 * **Initial Seed Transfer**
-     XX DAI will be transferred to `0xb1f950a51516a697E103aaa69E152d839182f6Fe` address on Date 2023-03-01.
 
+212,737.5 DAI will be transferred to `0xb1f950a51516a697E103aaa69E152d839182f6Fe` address on Date 2023-04-01.
 
-This seeds the Operational Wallet to 3x the Month Budget Cap. This also initially funds the Auditor Wallet to 2x the Monthly Budget Cap. The top-up transfer funds the Operational Wallet. This also then positions DssVest to begin streaming funds up to the Quarterly Budget Cap each month in the Auditor Wallet.
-
+This seeds the Auditor Wallet to 3x the Month Budget Cap. This also then positions DssVest to begin streaming funds up to the Quarterly Budget Cap each month in the Auditor Wallet. 
+     
 #### Smart Contract Implementation
 
 This budget implementation uses the DssVest. One of the two following budget streams is approved based on the rank-choice voting outcome of this subproposal's Ratification Poll.
 
 * **New Budget Stream**
-    A total of X DAI will be streamed to `0xb1f950a51516a697E103aaa69E152d839182f6Fe` starting 2023-03-01 and ending 2024-02-29.
-
+    A total of 850,950 DAI will be streamed to `0xb1f950a51516a697E103aaa69E152d839182f6Fe` starting 2023-04-01 and ending 2024-03-31.
+  
 
 ### Budget Breakdown
 
@@ -200,7 +197,7 @@ This budget proposal is optimized for reducing our existing budget based on actu
 
 #### Budget Details
 
-This section describes the Expense Categories that comprise the budget and how their monthly amount was determined. We have slightly updated the budget categories compared to last year's budget MIP to stay in accordance with MIP40 budget category updates.
+This section describes the Expense Categories that comprise the budget and how their monthly amount was determined. We have slightly updated the budget categories compared to last year's budget MIP to stay in accordance with MIP40 budget category updates. 
 
 **Compensation and Benefits:** This category covers the monthly salaries of the 3.5 FTE in the team on a contractor basis. We've stayed in the same team for the past 20 months and intend to continue our work in a similar manner. There is no change in the compensation.
 
@@ -208,14 +205,14 @@ This section describes the Expense Categories that comprise the budget and how t
 
 **Software Development Expense:** Stays the same as last year (formerly called Engineering contractors). We've made good experience with outsourcing simpler development tasks to trusted contractors so that our Senior Core Team can focus on harder topics.
 
-**Software Expense:** Increases by 33% as we expect to run Infrastructure for more products. This category includes all SaaS and Infrastructure costs.
+**Software Expense:** Increases by 33% as we expect to run Infrastructure for more products. This category includes all SaaS and Infrastructure costs. 
 
 **Gas Expense:** 75% decrease to last year based on past experience.
 
 **Admin Expense:** New category, pooling together Office Space and Other Contractor Services from last year. We were able to reduce these expenses by 76% mainly due to removing payment processor fees a few months ago.
 
 **Professional Services:** To act more like an EA we decreased this position by 50% (Contributors cover more expenses from their compensation).
-
+ 
 **Contingency Buffer:** Similar to other Core Units, we significantly reduce the buffer. After operating for a year with the current budget, we have a better understanding of which costs and risks can occur.
 
 Any changes to these amounts will be reported in the transparency report and reviewed by our budget auditors.
@@ -228,9 +225,9 @@ Any changes to these amounts will be reported in the transparency report and rev
 |Software Expense|$18,000.00|$24,000.00|$2,000.00|
 |Admin Expense (formerly Office and Other Contractor)|$78,900.00|$18,900.00|$1,575.00|
 |Professional Services|$60,000.00|$30,000.00|$2,500.00|
-|Gas Expense|$24,000.00|$6,000.00|$5,000.00|
+|Gas Expense|$24,000.00|$6,000.00|$500.00|
 ||||
-Sum without Buffer|$982,950.00|$910,950.00|$70,912.50|
+Sum without Buffer|$982,950.00|$850,950.00|$70,912.50|
 Contingency Buffer|$147,442.50|$0|$0|
 Sum with Contingency Buffer|$1,130,392.50| $850,950.00|$70,912.50|
 
@@ -264,7 +261,7 @@ In the past 19 months, we've shown that we constantly and independently execute 
 
 While we've executed most initial roadmap items, our mandate requires continued work and further work items to maximize the value for Maker Token holders. See the Roadmap section below.
 
-Lastly, we want to point out that we see ourselves as a small, efficient, and loyal software development team. We stayed in the same team composition for the past 16 months and gained a lot of specific, technical knowledge about the protocol. While our mandate might evolve, we believe that the engineering value we can deliver to the Maker protocol will keep compounding over time.
+Lastly, we want to point out that we see ourselves as a small, efficient, and loyal software development team. We stayed in the same team composition for the past 16 months and gained a lot of specific, technical knowledge about the protocol. While our mandate might evolve, we believe that the engineering value we can deliver to the Maker protocol will keep compounding over time. 
 
 
 ### Contingency Planning - Scenarios
@@ -272,7 +269,7 @@ Lastly, we want to point out that we see ourselves as a small, efficient, and lo
 In case of unforeseen events that might lead to funding issues, we could decide to execute the following temporary measures:
 * Scale down our SaaS subscriptions.
 * Halt majority of contracting work.
-* Decrease headcount
+* Decrease headcount.
 
 ### Unwinding and Defunding
 
@@ -286,13 +283,6 @@ Within one month of the ratification of the offboarding proposal, the Facilitato
 
 As defined in the Budget Implementation section above, SAS-001 follows the SES Auditor Framework. Excess funds above the three-month forecast will be returned every month, meeting the requirements of [MIP4c2-SP14](https://forum.makerdao.com/t/mip4c2-sp19-mip40-budget-process-amendment/14250).
 
-### Proposal Parameters
-
-This MIP40c3 subproposal provides the following options.
-
-- A: Abstain
-- B: Approve budget
-- C: Reject budget
 
 ### Related Documents
 * [MIP39c2-SP25: Adding Sidestream Auction Services Core Unit - SAS-001](https://forum.makerdao.com/t/mip39c2-sp-adding-sidestream-auction-services-core-unit-sas-001/10796)
