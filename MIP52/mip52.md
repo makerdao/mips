@@ -8,7 +8,7 @@ Title: Dispute Resolution
 Author(s): Gregory Di Prisco (g_dip)
 Contributors: None
 Tags: process
-Type: General
+Type: Obsolete
 Status: Accepted
 Date Proposed: 2021-05-04
 Date Ratified: 2021-07-26
@@ -16,6 +16,7 @@ Dependencies: MIP3c1
 Replaces: n/a  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSUYRFT?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip52-dispute-resolution
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

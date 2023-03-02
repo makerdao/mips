@@ -9,13 +9,14 @@ Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Tags: process, governance, mip-set, core-governance-mipset
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Dependencies: MIP0, MIP1
 Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip2-launch-period/1904
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

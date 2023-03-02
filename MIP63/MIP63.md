@@ -9,7 +9,7 @@ Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Type: Technical
 Tags: technical, process, liquidations, living
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-12-08
 Date Ratified: 2022-01-24
 Dependencies: n/a
@@ -17,6 +17,7 @@ Replaces: n/a
 License: AGPL3+
 Forum URL: https://forum.makerdao.com/t/mip63-maker-keeper-network
 Ratification Poll URL: https://vote.makerdao.com/polling/QmQqFpjv
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

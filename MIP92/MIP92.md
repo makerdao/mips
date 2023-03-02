@@ -9,13 +9,14 @@ Author(s): corn, @omgcorn
 Contributors:
 Tags: PSM
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-11-29
 Date Ratified: 2023-01-23
 Dependencies: -
 Replaces: -
 Forum URL: https://forum.makerdao.com/t/mip92-onboard-psm-usdc-to-yearn-to-earn-yield/18971/1
 Ratification Poll URL: https://vote.makerdao.com/polling/Qma4jEPY
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

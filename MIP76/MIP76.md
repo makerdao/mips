@@ -8,11 +8,12 @@ Title: Makershire Redux
 Author(s):  @Aes, @adcv, @SebVentures, @juanbug
 Contributors: @luca_pro, @MakerMan 
 Tags:
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-07-06
 Date Ratified: 2022-08-22
 Forum URL: https://forum.makerdao.com/t/mip76-makershire-redux/16400
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTYQskE
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

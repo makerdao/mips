@@ -9,7 +9,7 @@ Author(s): Sam MacPherson (@hexonaut)
 Contributors: None
 Tags: technical, integrations
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-04-07
 Date Ratified: 2021-05-25
 Dependencies: n/a
@@ -17,6 +17,7 @@ Replaces: n/a
 License: AGPL3+  
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail  
 Forum URL: https://forum.makerdao.com/t/mip50-direct-deposit-module/7356
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

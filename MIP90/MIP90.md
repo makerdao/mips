@@ -8,13 +8,14 @@ Title: Liquid AAA Structured Credit & Money Market Fund
 Author(s): @BlockTower
 Contributors: 
 Type: General
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-10-19
 Date Ratified: XX
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip90-liquid-aaa-structured-credit-money-market-fund/18428
-Ratification Poll URL: XX
+Ratification Poll URL:
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

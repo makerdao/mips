@@ -9,7 +9,7 @@ Author(s): GFX Labs (@gfxlabs)
 Contributors: @PaperImperium, @LongForWisdom, @monkey.irish, @lollike, @DavidUtro
 Tags: living
 Type: process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-12-06
 Date Ratified: 2022-01-24
 Dependencies:
@@ -17,6 +17,7 @@ Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip62-collateral-offboarding-process
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdwoZtA
 Extra: This MIP has been amended. See [MIP4c3-SP2](https://mips.makerdao.com/mips/details/MIP4c3SP2). The original version can be found [here](https://github.com/makerdao/mips/blob/9a50bb789a2c6bcba337ec86c097bf2a45d92841/MIP62/MIP62.md).
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References
