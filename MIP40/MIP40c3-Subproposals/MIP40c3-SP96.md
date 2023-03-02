@@ -3,13 +3,13 @@
 ## Preamble
 ```
 MIP40c3-SP#: 96
-Author(s): Tadeo (@tadeo)
+Author(s): Tadeo (@tadeo) 
 Tags: cu-budget, cu-din-001
 Status: RFC
 Date Applied: 2023-02-08
-Date Ratified:
-Budget Start Date: 2023-05-01
-Budget End Date: 2024-04-31
+Date Ratified: 
+Budget Start Date: 2023-05-01 
+Budget End Date: 2024-04-31 
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp96-modify-data-insights-core-unit-budget-din-001/19748
 Ratification Poll URL:
 ```
@@ -29,7 +29,7 @@ The main motivation of this budget proposal is to support the transition to Endg
 - Transitioning the funding source
 
 
-During the 2022-2023 period, we've increased our contributions to the community, focusing on collaborating with others to provide the highest value possible.
+During the 2022-2023 period, we've increased our contributions to the community, focusing on collaborating with others to provide the highest value possible. 
 While we started the year focused on foundational data work, allowing other teams to build on top of us, we realised that this model doesn't drive enough value; while 90% of the work is done, the last 10% is where the most amount of value to the community is unlocked. We call it the *Horton hears a who!* problem, where people need to see it to believe in it (and use it). With this in mind, we progressed into delivering end-to-end solutions, such as [Ranked Poll Simulation](https://ranked-polls.herokuapp.com/), [Token Explorer](https://token-transfer-explorer.herokuapp.com/), [Teleport Monitoring](https://teleport.makerdao.fyi/) web-apps.
 
 We are happy to maintain our fiscal responsibility, focusing on maximizing the ROI to the community, and hope to continue doing so in the future. However, this has led us to run at maximum capacity for an extended period; we hope to alleviate this by redistributing the work.
@@ -40,7 +40,15 @@ DIN-001
 ### Budget Implementation
 
 ### Budget Breakdown
-[WIP]
+```
+| Cost component       | Split  |
+|----------------------|--------|
+| Team costs           | 50.00% |
+| Infrastructure costs | 30.00% |
+| Operational costs    |  9.00% |
+| Data costs           |  7.00% |
+| Contingency          |  4.00% |
+```
 
 
 #### Scenarios
@@ -50,15 +58,14 @@ Scenario A - 1,080,001.00 DAI
 Scenario B - 972,000.90 DAI
 - 10% reduction vs 2022
 
-#### Budget Details
-[WIP]
+#### Budget Details 
 
 **Compensation and Benefits**
 Contributors are paid for their work in fiat and/or DAI. While we usually focus on full-time commitments, we have variations of commitment to adapt to the needs of the DAO and the workforce. We also plan to have at least one off-site to bring the team together, which we have seen in the past helps maintain a high level of engagement within the team and with other DAO participants.
 
 **Infrastructure Expense**
 While we use several services to run the data analytics service, such as servers, nodes, data source providers, and hosted database providers, the latter is the main driver of costs, given that most computations are done there.
-An increase in usage or maintenance of new datasets is reflected there.
+An increase in usage or maintenance of new datasets is reflected there. 
 
 The computation has increased on average by 20% month over month the past year. The actual increase is difficult to predict as we operate a free & public API. We've seen users onboarding and having no churn, meaning that, month over month, the spending is equal or increased.
 
@@ -71,7 +78,7 @@ We use software solutions to help us work, such as Google Workplace and Breadcru
 We use a payment processor to issue fiat for compensation and infrastructure expenses. A flat fee structure allows us to keep control and easily predict this cost.
 
 **Contingency & Continuation Buffer**
-Similar to last period's budget, we include a minimal buffer in our calculations to cover unforeseen or under-calculated expenses.
+Similar to last period's budget, we include a minimal buffer in our calculations to cover unforeseen or under-calculated expenses. 
 Most of the variability stems from the computation cost of serving our data products. We see that once usage increases, it rarely decreases, so an additive behaviour occurs. These increases happen in the form of "bumps", so while we estimate month-over-month growth, the real cost can be lumpy.
 
 
@@ -114,7 +121,7 @@ Other stakeholders in the community we collaborate with:
 Endgame brings a lot of new and exciting opportunities. While the transition has a lot of uncertainty, we are committed to supporting the vision and helping it succeed.
 
 ##### Continued support & EA transition by demand
-Our aim is to continue providing support to the community. As the Core Units transition into Ecosystem Actors, we will be entering into bilateral agreements with them for the products and services they require, in turn transitioning DICU towards an EA "by demand".
+Our aim is to continue providing support to the community. As the Core Units transition into Ecosystem Actors, we will be entering into bilateral agreements with them for the products and services they require, in turn transitioning DICU towards an EA "by demand". 
 This will gradually shift the operational funding of Data Insights from MIP40 toward client contracts.
 
 
@@ -199,8 +206,8 @@ After completing the aforementioned wind-down, any excess funds (excluding any s
 ### Proposal Parameters
 A ranked-choice voting, with the options as follows:
 
-A: Approve 1 year budget of 1,080,001.00 DAI
-B: Approve 1 year budget of 972,000.90 DAI
+A: Approve one-year budget of 1,080,001.00 DAI
+B: Approve one-year budget of 972,000.90 DAI
 C: Reject budget
 D: Abstain
 
