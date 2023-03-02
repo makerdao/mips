@@ -14,7 +14,7 @@ Date Proposed: 2020-05-21
 Date Ratified: 2020-09-18
 Dependencies:
 Replaces:
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmd7gdkY
 Forum URL: https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578
 ```
 
