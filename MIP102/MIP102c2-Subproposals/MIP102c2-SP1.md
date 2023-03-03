@@ -7,7 +7,7 @@ MIP102c2-SP#: 1
 MIP(s) to be amended: MIP0, MIP16, MIP24, MIP39, MIP40, MIP41, MIP51, MIP55
 Author(s): Rune
 Contributors:
-Tags: subproposal
+Tags: constitution, endgame, constitution-mip-set
 Status: RFC
 Date Proposed: 2023-02-6
 Date Ratified: N/A
