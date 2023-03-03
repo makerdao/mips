@@ -8,7 +8,7 @@ MIP(s) to be removed: <MIP#>
 Author(s): @GFXLabs
 Contributors:
 Tags: mip-removal
-Status:
+Status: RFC
 Date of Removal Submission: <yyyy-mm-dd>
 Date of ratification: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip102c3-sp1-mip-removal-subproposals/20023
