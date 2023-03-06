@@ -18,7 +18,7 @@ Ratification Poll URL:
 
 ## Sentence Summary
 
-This subproposal aims to allocate 90,000 DAI to the Ambassador Program to cover work for the next 6 months.
+This subproposal aims to allocate 90,000 DAI to the Ambassador Program to cover work for the next six months.
 
 ## Paragraph Summary
 
