@@ -155,7 +155,7 @@ Here's a quick access list to the Ambassador Program's newsletters so far:
 
 **Badges Awarded to the Newsletters**
 
-![Ev5yAfJ|669x422, 50%](upload://dxUNTi29heoN8X2mdlfFA2RaTl9.png) ![vHlhau9|537x327, 50%](upload://lFxjGMOzAMp5SkdZ1AiozCzlV2n.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP17/ambassador20.png)![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP17/ambassador21.png)
 
 <sub>These posts have been awarded multiple times with Good and Nice Share badges, showing a clear interest in these articles from people outside our community.</sub>
 
@@ -303,7 +303,7 @@ The Ambassadors continue to participate and to create partnerships across differ
 
 **Defiant**
 
- ![](upload://bcqqXOMAvTlBteUm8xPw5eEPDQ8.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP17/ambassador22.png)
 
  The Ambassadors took part in one of Defiant's community calls and also participated from trivia games about MakerDAO. There was a great participation from viewers and DAI rewards were given. The program expects to do more Trivia Calls in the future with different communities.
 
@@ -350,13 +350,12 @@ Program had the chance to spread the word and show the people why a decentralize
 
 A very extense meetup was recently organized with the DeFi LATAM members to talk about the new LATAM Delegate Platform and protocol's governance.
 
-![Ambassadors Defi 1|320x427, 100%](upload://5OnYAFDUMfvo8Qd4faqBrFxkfnh.png)
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP17/ambassador23.png)
 
 
 <sub>Several members from DeFi LATAM and the Ambassador Program attended to the meetup.</sub>
 
-![Ambassadors Defi 2|569x427, 100%](upload://rUOCibd6oZCM46LyNTG8gb8zdXP.png)
-
+![](https://github.com/makerdao/mips/blob/master/MIP55/MIP55c3-Subproposals/supporting_materials/MIP55c3-SP17/ambassador24.png)
 
 <sub>MakerDAO present in Buenos Aires.</sub>
 
