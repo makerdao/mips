@@ -7,7 +7,7 @@ MIP14c2-SP#: 5
 Author(s): @simonkp
 Contributors:
 Tags: tech-001, core-unit,
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-02-01
 Date ratified: -
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp5-requesting-protocol-dai-transfer-to-fund-techops-cu-for-march-2023/19624
