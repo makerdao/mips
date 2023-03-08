@@ -7,7 +7,7 @@ MIP40c3-SP#: 95
 Author(s): @danik
 Contributors: 
 Tags: core-unit, cu-sas-001, budget, dai-budget
-Status: RFC
+Status: Formal Submission
 Date Applied: 2023-02-08
 Date Ratified:
 Budget Start Date: 2023-04-01
