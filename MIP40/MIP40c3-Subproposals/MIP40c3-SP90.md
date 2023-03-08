@@ -7,7 +7,7 @@ MIP40c3-SP#: 90
 Author(s): @Patrick_J, @prose11
 Contributors:
 Tags: budget, cu-budget, gov-001
-Status: RFC
+Status: Formal Submission
 Date Applied: 2023-02-07
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2023-04-01

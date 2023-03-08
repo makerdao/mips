@@ -7,7 +7,7 @@ MIP40c3-SP#: 91
 Author(s): @Patrick_J, @prose11
 Contributors:
 Tags: core-unit, cu-gov-001, budget, mkr-budget
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-02-07
 Date Ratified: yyyy-mm-dd
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp91-govalpha-core-unit-mkr-budget-q2-2023/19713
