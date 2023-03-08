@@ -7,7 +7,7 @@ MIP40c3-SP#: 89
 Author(s): Codeknight
 Contributors:
 Tags: cu-budget, deco-001
-Status: RFC
+Status: Formal Submission
 Date Applied: 2023-02-06
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2021-12-01
