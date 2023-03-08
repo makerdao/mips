@@ -7,7 +7,7 @@ MIP40c3-SP#: 92
 Author(s): Primoz Kordez (@Primoz)
 Contributors: @rema @monet-supply
 Tags: core-unit-budget, risk-001
-Status: RFC
+Status: Formal Submission
 Date Applied: 2023-02-08
 Date Ratified:
 Budget Start Date: 2023-03-01
