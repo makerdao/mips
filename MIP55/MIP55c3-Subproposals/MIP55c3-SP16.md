@@ -7,11 +7,11 @@ MIP55c3-SP#: 16
 Author(s): @PhoenixLabs
 Contributors:
 Tags:
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-02-08
 Date Ratified: 
 Amount Requested: 347,100 DAI
-Recipient Address:
+Recipient Address: 0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734
 ```
 
@@ -67,6 +67,6 @@ Official Contact or Group Name: Phoenix Labs-Spark Lend launch
 Contact Email/Handle: @Nadia, @hexonaut
 Date Added: 
 Total Amount: 347,100 Dai
-Wallet Address: TBD
-Comptroller signers: @Nadia, TBD
+Wallet Address: 0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509
+Comptroller signers: @Nadia (https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734/15), @0xdeniz (https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734/17)
 ```
