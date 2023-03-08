@@ -8,7 +8,7 @@ MIP to be amended: <MIP41>
 Author(s): @prose11 @layerzero
 Contributors:
 Tags: template
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-02-08
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp34-expand-facilitator-definition-to-allow-entities/19736
@@ -30,8 +30,8 @@ Governance Facilitators will benefit from still having clear instructions from t
 
 ### Amended MIPs and Components
 
-- List TBD
+- MIP41
 
 ### Amendment Pull Request
 
-- Link Coming
+- [Github PR](https://github.com/makerdao/mips/pull/846/files)
