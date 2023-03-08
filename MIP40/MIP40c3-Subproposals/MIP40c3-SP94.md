@@ -7,13 +7,13 @@ MIP40c3-SP#: 94
 Author(s): @steakhouse (Steakhouse Financial)
 Contributors:
 Tags: core-unit, cu-sf-001, budget, mkr-budget, active
-Status: RFC
+Status: Withdrawn
 Date Applied: 2023-02-08
 Date Ratified: TBD
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp93-modifying-strategic-finance-core-unit-budget-sf-001/19728
 Ratification Poll URL:
+Extra: This MIP has been withdrawn. See [this forum post](https://forum.makerdao.com/t/mip40c3-sp94-strategic-finance-mkr-rewards-plan-sf-001/19751/6).
 ```
-
 
 ## Sentence Summary
 MIP40c3-SP94 adds the MKR Rewards Plan budget for the Strategic Finance Core Unit (SF-001) / Steakhouse Financial.
