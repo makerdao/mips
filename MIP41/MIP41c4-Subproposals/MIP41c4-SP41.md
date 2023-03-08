@@ -7,7 +7,7 @@ MIP41c4-SP#: 41
 Author(s): @Primoz, @rema, @monetsupply
 Contributors:
 Tags: core-unit, cu-risk-001, facilitator
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2022-02-08
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp41-risk-facilitator-onboarding-risk-001/19739
