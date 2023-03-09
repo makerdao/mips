@@ -7,8 +7,8 @@ MIP92c5-SP#: 1
 Author(s): @Doo_StableNode
 Contributors:
 Tags: PSM
-Status: RFC
-Date Proposed: <2023-01-27>
+Status: Formal Submission
+Date Proposed: 2023-01-27
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip92c5-sp1-vault-setting-amendment-subproposal/19553
 ```
