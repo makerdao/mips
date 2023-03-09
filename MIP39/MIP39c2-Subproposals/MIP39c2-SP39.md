@@ -7,7 +7,7 @@ MIP39c2-SP#: 39
 Author(s): @danik
 Contributors: 
 Tags: core-unit, cu-sas-001, mandate
-Status: RFC
+Status: Formal Submission
 Date Applied: 2023-02-08
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp39-modifying-sidestream-auction-services-core-unit-mandate-sas-001/19738
