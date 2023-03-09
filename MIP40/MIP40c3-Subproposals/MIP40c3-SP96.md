@@ -5,7 +5,7 @@
 MIP40c3-SP#: 96
 Author(s): Tadeo (@tadeo) 
 Tags: cu-budget, cu-din-001
-Status: RFC
+Status: Formal Submission
 Date Applied: 2023-02-08
 Date Ratified: 
 Budget Start Date: 2023-05-01 
