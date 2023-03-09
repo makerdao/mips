@@ -6,7 +6,7 @@ MIP14c2-SP#: 4
 Author(s): @pyramidmaker
 Contributors: 
 Tags: Starknet
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-01-12
 Date ratified: 
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp4-starknet-cu-budget-extension/19403/1
