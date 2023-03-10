@@ -28,13 +28,13 @@ If the [MIP4c2-SP34](https://forum.makerdao.com/t/mip4c2-sp34-expand-facilitator
 
 ### Core Unit ID
 
-Name - Risk
+Name - Risk  
 ID - RISK-001
 
 ### Facilitator name and information
 
-Name - Marko Štemberger
-Forum - @rema
+Name - Marko Štemberger  
+Forum - @rema  
 Discord - mar#9661
 
 ### Motivation
@@ -81,8 +81,8 @@ I do not have any significant exposure to assets or other crypto-related project
 
 ### Facilitator name and information
 
-Name - monetsupply
-Forum - @monet-supply
+Name - monetsupply  
+Forum - @monet-supply  
 Discord - monet_supply#4662
 
 ### Motivation
