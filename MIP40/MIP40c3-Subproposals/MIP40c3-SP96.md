@@ -206,12 +206,12 @@ After completing the aforementioned wind-down, any excess funds (excluding any s
 ### Proposal Parameters
 A ranked-choice voting, with the options as follows:
 
-A: Approve one-year budget of 1,080,001.00 DAI
-B: Approve one-year budget of 972,000.90 DAI
-C: Reject budget
+A: Approve one-year budget of 1,080,001.00 DAI  
+B: Approve one-year budget of 972,000.90 DAI  
+C: Reject budget  
 D: Abstain
 
 For this Ratification Poll to conclude successfully and the contained proposal(s) move to Accepted status, each of the following conditions must be true:
 
-A or B vote-weight must exceed C vote-weight when the poll closes.
+A or B vote-weight must exceed C vote-weight when the poll closes.  
 Winning vote weight must exceed the Minimum Positive Participation value of 10,000 MKR when the poll closes.
