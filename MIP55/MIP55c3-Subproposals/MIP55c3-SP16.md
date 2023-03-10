@@ -1,4 +1,4 @@
-# MIP55c3-SP16: Phoenix Labs-Spark Lend launch (SPF)
+# MIP55c3-SP16: Phoenix Labs - Spark Lend Launch (SPF)
 
 ## Preamble
 
