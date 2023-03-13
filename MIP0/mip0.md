@@ -82,6 +82,7 @@ The Endgame MIPs are:
 - MIP41
 - MIP51
 - MIP55
+- MIP62
 - MIP101
 - MIP102
 - MIP103
