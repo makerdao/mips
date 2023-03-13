@@ -28,7 +28,7 @@ See [Layer 2 Roadmap - History and future ](https://forum.makerdao.com/t/layer-2
 
 SNE-001 will propose in June a joint end-game strategy with PE-001. This proposal will include an ecosystem positioning as well as an additional budget to finish teleport and the contracts required for full MCD on Starknet.
 
-SNE-001 had funding until July 2022. However, given that the dss-teleport and dss-bridge development has taken more time than initially envisioned due to technical complexities on PECU on Starknet sides, we have decided to reduce costs to deliver the same promised deliverables within the same budget. We currently have enough funds in our CU wallet until the end of March. We are requesting a budget extension until June of 65,000 DAI.
+SNE-001 had funding until July 2022. However, given that the dss-teleport and dss-bridge development has taken more time than initially envisioned due to technical complexities on PECU on Starknet sides, we have decided to reduce costs to deliver the same promised deliverables within the same budget. We currently have enough funds in our CU wallet until the end of March. We are requesting a budget extension until June of 123,000 DAI.
 
 ### Reason details
 
