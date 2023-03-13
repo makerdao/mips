@@ -71,7 +71,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 **Week 1, Monday**
 -   MIP Authors move their proposals to **Formal Submission** (Phase 5 described in [MIP0c3](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c3-the-mip-lifecycle)). This phase lasts for 3 days.
 -   Proposals must be moved into the [formal submission](https://forum.makerdao.com/c/mips/fs/16) subcategory on the MakerDAO forums under the [Maker Improvement Proposal](https://forum.makerdao.com/c/mips/14) category (as defined in Phase 5 in [MIP0c3](https://github.com/makerdao/mips/blob/master/MIP0/mip0.md#mip0c3-the-mip-lifecycle)).
--   MIP Editors must be informed by MIP Authors of the status change via commonly used communications channels.
+-   Governance Process Support Ecosystem Actors must be informed by MIP Authors of the status change via commonly used communications channels.
 
 **Week 1, Thursday**
 - The Arbitration Facilitators must come to consensus on whether each submission warrants moving forward to a Ratification Poll.
@@ -84,7 +84,7 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 -   Ratification Polls are published to the [community GitHub](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [Voting Portal](https://vote.makerdao.com/).
 
 **Week 4, Monday**
--   The Ratification Polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the MIP Editors.
+-   The Ratification Polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the Governance Process Support Ecosystem Actors.
 
 ---
 
@@ -109,7 +109,7 @@ In order for a Ratification Poll to conclude successfully and the contained prop
 
 The Minimum Positive Participation value defined in MIP51c2 may be modified via a successful Polling Vote under the Weekly Governance Cycle (MIP16).
 
-If such a vote is successful, the MIP Editors will update MIP51c2 and the change will come into effect in the _following_ Monthly Governance Cycle.
+If such a vote is successful, the Governance Process Support Ecosystem Actors will update MIP51c2 and the change will come into effect in the _following_ Monthly Governance Cycle.
 
 The Minimum Positive Participation value may not be changed for Ratification Polls that are in progress under any circumstances.
 
