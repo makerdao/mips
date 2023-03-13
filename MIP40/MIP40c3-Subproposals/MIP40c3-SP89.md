@@ -12,8 +12,8 @@ Date Applied: 2023-02-06
 Date Ratified: <yyyy-mm-dd>
 Budget Start Date: 2021-12-01
 Budget End Date: 2023-05-31
-Forum URL:
-Ratification Poll URL: https://forum.makerdao.com/t/mip40c3-sp89-modify-core-unit-budget-deco/19690
+Forum URL: https://forum.makerdao.com/t/mip40c3-sp89-modify-core-unit-budget-deco/19690
+Ratification Poll URL:
 ```
 
 ## Sentence Summary
