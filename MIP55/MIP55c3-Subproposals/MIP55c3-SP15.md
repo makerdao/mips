@@ -7,11 +7,13 @@ MIP55c3-SP#: 15
 Author(s): @PhoenixLabs
 Contributors:
 Tags: SPF
-Status: RFC
+Status: Accepted
 Date Proposed: 2023-02-08
-Date Ratified: N/A
+Date Ratified: 2023-03-09
 Amount Requested: 50,000 DAI
 Recipient Address: 0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509
+Forum URL: https://forum.makerdao.com/t/mip55c3-sp15-phoenix-labs-initial-funding-spf/19733
+Ratification Poll URL: https://vote.makerdao.com/polling/QmYBegVf#vote-breakdown
 ```
 
 ## Sentence Summary
