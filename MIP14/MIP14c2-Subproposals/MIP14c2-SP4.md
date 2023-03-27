@@ -6,11 +6,12 @@ MIP14c2-SP#: 4
 Author(s): @pyramidmaker
 Contributors: 
 Tags: Starknet
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2023-01-12
-Date ratified: 
+Date ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp4-starknet-cu-budget-extension/19403/1
-Ratification Poll URL: TBD
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXUiHqH
+Extra: This proposal has been marked as obsolete as per the changes introduced in [MIP0](https://mips.makerdao.com/mips/details/MIP0) via [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ---
 Amount: 123,000 DAI
 ```
@@ -56,3 +57,4 @@ Recipient is SNE-001 CU Multi-sig Wallet.
 Recipient Address: 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1```
 Amount To Transfer: 123,000 DAI
 ```
+

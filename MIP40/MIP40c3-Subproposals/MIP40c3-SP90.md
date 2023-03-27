@@ -7,13 +7,14 @@ MIP40c3-SP#: 90
 Author(s): @Patrick_J, @prose11
 Contributors:
 Tags: budget, cu-budget, gov-001
-Status: Formal Submission
+Status: Obsolete
 Date Applied: 2023-02-07
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Budget Start Date: 2023-04-01
 Budget End Date: 2024-03-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp90-govalpha-core-unit-dai-budget-2023-2024/19712
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmXoH4rE
+Extra: This budget has been marked as obsolete as per the changes introduced in [MIP40](https://mips.makerdao.com/mips/details/MIP40) via [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -266,3 +267,4 @@ In order for this Ratification Poll to conclude successfully and the contained p
 
 * `A`, `B`, or `C` vote-weight must exceed `D` vote-weight when the poll closes.
 * Winning vote weight must exceed the `Minimum Positive Participation` value of 10,000 MKR when the poll closes.
+

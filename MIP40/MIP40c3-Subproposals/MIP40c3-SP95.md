@@ -7,13 +7,13 @@ MIP40c3-SP#: 95
 Author(s): @danik
 Contributors: 
 Tags: core-unit, cu-sas-001, budget, dai-budget
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2023-02-08
-Date Ratified:
+Date Ratified: N/A
 Budget Start Date: 2023-04-01
 Budget End Date: 2024-03-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp95-modifying-sidestream-auction-services-core-unit-budget-sas-001/19737
-Ratification Poll URL: 
+Ratification Poll URL: https://vote.makerdao.com/polling/QmT54pXF
 ```
 
 ## Sentence Summary
@@ -288,3 +288,4 @@ As defined in the Budget Implementation section above, SAS-001 follows the SES A
 * [MIP39c2-SP25: Adding Sidestream Auction Services Core Unit - SAS-001](https://forum.makerdao.com/t/mip39c2-sp-adding-sidestream-auction-services-core-unit-sas-001/10796)
 * [MIP40c3-SP44: Adding Sidestream Auction Services Core Unit MKR Budget - SAS-001](https://forum.makerdao.com/t/mip40c3-sp-adding-sidestream-auction-services-core-unit-mkr-budget-sas-001/10802)
 * [MIP41c4-SP26: Sidestream Auction Services Facilitator Onboarding - SAS-001](https://forum.makerdao.com/t/mip41c4-sp-sidestream-auction-services-facilitator-onboarding-sas-001/10797)
+

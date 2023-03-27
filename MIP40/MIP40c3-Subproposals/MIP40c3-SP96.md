@@ -5,13 +5,14 @@
 MIP40c3-SP#: 96
 Author(s): Tadeo (@tadeo) 
 Tags: cu-budget, cu-din-001
-Status: Formal Submission
+Status: Obsolete
 Date Applied: 2023-02-08
-Date Ratified: 
+Date Ratified: N/A
 Budget Start Date: 2023-05-01 
 Budget End Date: 2024-04-31 
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp96-modify-data-insights-core-unit-budget-din-001/19748
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmUqdiXM
+Extra: This budget has been marked as obsolete as per the changes introduced in [MIP40](https://mips.makerdao.com/mips/details/MIP40) via [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -215,3 +216,4 @@ For this Ratification Poll to conclude successfully and the contained proposal(s
 
 A or B vote-weight must exceed C vote-weight when the poll closes.  
 Winning vote weight must exceed the Minimum Positive Participation value of 10,000 MKR when the poll closes.
+
