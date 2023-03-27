@@ -9,11 +9,12 @@ Author(s): @rune
 Contributors: @juan, @retro
 Tags: endgame, endgame-prelaunch-mip-set
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-09-07
 Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mip83-recognized-launch-metadao-clusters/17709
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTmS5Nf
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

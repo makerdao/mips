@@ -9,7 +9,7 @@ Author(s): Rune Christensen (@Rune23) and Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom
 Tags: process, governance, mip-set, core-governance-mipset
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-2
 Dependencies: n/a
@@ -17,6 +17,7 @@ Replaces: n/a
 Ratification Poll URL: 
 Forum URL: https://forum.makerdao.com/t/mip1-maker-governance-paradigms/1903
 Extra: The Problem Space has been amended. See [MIP1c4-SP1](https://mips.makerdao.com/mips/details/MIP1c4SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/2634c131f47136e50ded3406728630e0f97a3b45/MIP1/mip1.md).
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

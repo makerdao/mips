@@ -8,11 +8,12 @@ Title: Coinbase USDC Institutional Rewards
 Author(s): @CB_Institutional 
 Contributors:
 Tags: 
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-09-06
 Date Ratified: 2022-10-24
 Forum URL: https://forum.makerdao.com/t/mipxx-coinbase-usdc-institutional-rewards/17703
 Ratification Poll URL: https://vote.makerdao.com/polling/QmbMaQ9A
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

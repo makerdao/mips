@@ -8,13 +8,14 @@ Title: Monetalis/Coinbase Appaloosa
 Author(s): @Allan_Pedersen 
 Contributors:
 Tags:
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-09-07
 Date Ratified: 2022-10-24
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip82-monetalis-coinbase-appaloosa/17768
 Ratification Poll URL: https://vote.makerdao.com/polling/QmRVN2SB
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

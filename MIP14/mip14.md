@@ -9,7 +9,7 @@ Author(s): @LongForWisdom, @jtathmann
 Contributors: N/A
 Tags: process, governance, living
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-05-12
 Date Ratified: 2020-10-27
 Dependencies: MIP0
@@ -17,6 +17,7 @@ Replaces: N/A
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip17-weekly-actual-debt-ceiling-and-actual-risk-premium-adjustments/3021
 Extra: This MIP has been amended via [MIP4c2-SP32](https://mips.makerdao.com/mips/details/MIP4c2SP32). The previous version can be found [here](https://github.com/makerdao/mips/blob/7c48429e6362a7a16861dc328ec9a4978dd2e3f9/MIP14/mip14.md.
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

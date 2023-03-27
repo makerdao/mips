@@ -9,7 +9,7 @@ Author(s): Derek Flossman, Brian McMichael
 Contributors: None
 Tags: technical
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-05-12
 Date Ratified: 2021-06-28
 Dependencies: n/a
@@ -17,6 +17,7 @@ Replaces: n/a
 License: AGPL3+  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmPfjETk?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip-54-dssvest/8025/15
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

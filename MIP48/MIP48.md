@@ -9,13 +9,14 @@ Author(s): Payton Rose @prose11, Sam MacPherson (@hexonaut)
 Contributors: @amyjung, @LongForWisdom, @Elihu
 Tags: process, general
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Dependencies:
 Replaces:  
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip48-streaming-payments-via-the-keg/6340
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References
