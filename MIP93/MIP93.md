@@ -9,9 +9,10 @@ Author(s): @prose11, @spengrah
 Contributors:
 Tags: process
 Type: General
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-12-07
-Date Ratified: 
+Date Ratified:
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 ## References
 

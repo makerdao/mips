@@ -9,7 +9,7 @@ Author(s):  Matthew V Rabinowitz (@mrabino1 or mr@6s.capital)
 Contributors: Lev Livnev (@equivrel) & Christopher Mooney (@cmooney)
 Tags: technical, real-world-finance, module, smart-contracts
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-09-01
 Date Ratified: 2020-10-27
 Dependencies: MIP13c3-SP4 (Declaration of Intent - Off-Chain Asset Backed Lender to Onboard Real World Assets as Collateral for a DAI loan)
@@ -17,6 +17,7 @@ Replaces: n/a
 License: n/a
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-october-2020-governance-cycle-bundle-october-26-2020?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip21-real-world-assets-off-chain-asset-backed-lender/3917
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

@@ -9,7 +9,7 @@ Author(s): Rune Christensen (@Rune23), Charles St.Louis (@CPSTL)
 Contributors: @LongForWisdom, David Utrobin (@Davidutro)
 Tags: process, mip-set, core-governance-mipset
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-04-06
 Date Ratified: 2020-05-02
 Last Amended: 2021-04-29
@@ -18,6 +18,7 @@ Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip4-mip-amendment-and-removal-process/1906
 Extra: This MIP has been amended. See [MIP4c2-SP7](https://mips.makerdao.com/mips/details/MIP4c2SP7). The original version can be found [here](https://github.com/makerdao/mips/blob/5cabd4810ffca120355ae242161f99ba1dc8e7fc/MIP4/mip4.md).
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
   ```
 
 ## References

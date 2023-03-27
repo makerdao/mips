@@ -9,7 +9,7 @@ Author(s): Joshua Pritikin (@jpritikin)
 Contributors: @g_dip, @LongForWisdom, @Patrick_J, @ultraschuppi
 Tags:
 Type: process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-10-01
 Date Ratified: 2022-03-28
 Dependencies:
@@ -17,6 +17,7 @@ Replaces: <List of MIP it is replacing>
 Ratification Poll URL: https://vote.makerdao.com/polling/QmTvzCjL?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip61-recognized-delegate-compensation/10640
 Extra: This MIP has been amended. See [MIP4c2-SP24](https://mips.makerdao.com/mips/details/MIP4c2SP24) and [MIP4c2-SP29](https://mips.makerdao.com/mips/details/MIP4c2SP29). The original version can be found [here](https://github.com/makerdao/mips/blob/5861a85a57075f99be0e8a3890189f4e138b42bd/MIP61/MIP61.md).
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

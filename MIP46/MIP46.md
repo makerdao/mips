@@ -9,13 +9,14 @@ Author(s): @LongForWisdom, Sam MacPherson (@hexonaut)
 Contributors: @ultraschuppi
 Tags: governance, ppg
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-03-02
 Date Ratified: 2021-03-25
 Dependencies: None
 Replaces: None
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail  
 Forum URL: https://forum.makerdao.com/t/mip46-parameter-proposal-groups/6341
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

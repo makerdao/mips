@@ -9,13 +9,14 @@ Author(s): @CodeKnight
 Contributors: @CodeKnight
 Tags:
 Type: Process
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-08-13
 Date Ratified:
 Dependencies:
 Replaces: N/A
 Forum URL: https://forum.makerdao.com/t/mip80-maker-compensation-guidelines/17235
 Ratification Poll URL:
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 ## References
 

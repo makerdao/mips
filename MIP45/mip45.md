@@ -8,13 +8,14 @@ Title: Liquidations 2.0 - Liquidation System Redesign
 Author(s):  Smart Contracts Domain Team
 Tags: technical, smart-contracts, liquidations
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-02-03
 Date Ratified: 2021-25-03
 Dependencies: n/a
 Replaces: Liquidation System 1.2 (LIQ-1.2)  
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip45-liquidations-2-0-liq-2-0-liquidation-system-redesign/6352
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

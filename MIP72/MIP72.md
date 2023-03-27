@@ -8,12 +8,13 @@ Title: RWA - Delegated Collateral Attachment - RWA Arranger Application - 6s Cap
 Author(s): Matthew V Rabinowitz (@mrabino1 or mr@6s.capital)
 Contributors:
 Type: General
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-04-06
 Date Ratified: Pending
 Dependencies: n/a
 Replaces: n/a
 License: n/a
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Important Community Disclosure - Please Read

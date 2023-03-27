@@ -8,13 +8,14 @@ Title: Monetalis - Redwood Friesian
 Author(s): @Allan_Pedersen @Sequoia_RMBS
 Contributors: 
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-10-12
 Date Ratified: 2022-11-28
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip88-monetalis-redwood-friesian/18336
 Ratification Poll URL: https://vote.makerdao.com/polling/QmYsXVSx
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

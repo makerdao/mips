@@ -9,10 +9,12 @@ Author(s): @FluidFinance
 Contributors:
 Tags: mips
 Type: General
-Status: RFC
+Status: Obsolete
 Date Proposed: 2023-01-19
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip99-offer-dai-to-cefi-projects-to-enable-real-world-use-cases/19466
+Ratification Poll URL:
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

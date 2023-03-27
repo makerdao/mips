@@ -7,11 +7,12 @@ MIP#: 69
 Title: L2-to-L1 Fast Withdrawals
 Author(s): Protocol Engineering Core Unit (PE-001)
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-03-17
 Date Ratified: 2022-05-23
 Forum URL: https://forum.makerdao.com/t/mip69-l2-to-l1-fast-withdrawals/14041
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWZvSpa
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References
