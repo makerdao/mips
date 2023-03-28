@@ -30,7 +30,7 @@ MIP41: Facilitator Framework describes the processes for onboarding and offboard
 
 ## Paragraph Summary
 
-MIP41: Facilitator Framework describes the processes for onboarding and offboarding Core Unit Facilitators. Facilitators are the accountable individuals responsible for interfacing between Maker Governance, the Contributors, and external resources to achieve the Core Objectives of the Protocol. Facilitators are always attached to one or more Core Units and cannot exist in a void, i.e., Facilitators are Facilitators only *if* they are attached to at least one Core Unit.
+MIP41: Facilitator Framework describes the processes for onboarding and offboarding Core Unit Facilitators. Facilitators are the accountable authorized accounts responsible for interfacing between Maker Governance, the Contributors, and external resources to achieve the Core Objectives of the Protocol. Facilitators are always attached to one or more Core Units and cannot exist in a void, i.e., Facilitators are Facilitators only *if* they are attached to at least one Core Unit.
 
 ## Component Summary
 
@@ -168,9 +168,9 @@ When a Core Unit is offboarded and an Interim Facilitator is judged to be necess
 
 The Interim Facilitator Appointment Process assumes the existence of one or more permanent Governance Facilitators. If this is not the case, MIP41c7 must be considered non-binding. The Governance Facilitators are responsible for the implementation of this process. A majority of Governance Facilitators may modify this process to suit the circumstances by communicating details and reasoning publicly before the process begins.
 
-A voluntarily offboarding permanent Facilitator may publicly nominate a single Interim Facilitator. Subject to the nominated individual's acceptance, they are immediately ratified as the Interim Facilitator.
+A voluntarily offboarding permanent Facilitator may publicly nominate a single Interim Facilitator. Subject to the nominated authorized account's acceptance, they are immediately ratified as the Interim Facilitator.
 
-A single Interim Facilitator may be elected by a majority of Core Units voting in favor of a given individual within 72 hours of the initial Facilitator Offboarding. The individual must be willing to take the role to be eligible for election. Each Core Unit may cast a single vote for or against each candidate. In the event of a Core Unit containing multiple facilitators, they must come to a consensus and cast a single vote for their Core Unit per candidate. In the event an alternative Interim Facilitator is elected, they immediately replace the current Interim Facilitator, if one exists.
+A single Interim Facilitator may be elected by a majority of Core Units voting in favor of a given authorized account within 72 hours of the initial Facilitator Offboarding. The authorized account must be willing to take the role to be eligible for election. Each Core Unit may cast a single vote for or against each authorized account. In the event of a Core Unit containing multiple facilitators, they must come to a consensus and cast a single vote for their Core Unit per candidate. In the event an alternative Interim Facilitator is elected, they immediately replace the current Interim Facilitator, if one exists.
 
 Core Unit Facilitators should refrain from casting votes before the Governance Facilitators publicly communicate the details of the process in this instance. 
  
