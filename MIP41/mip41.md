@@ -16,7 +16,7 @@ Dependencies: MIP38, MIP39, MIP40, MIP4c2-SP10, MIP4c2-SP12
 Replaces: n/a
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-march-2021-governance-cycle-bundle-march-22-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip41-facilitator-framework/6098
-Extra: This MIP has been amended. See [MIP4c2-SP15](https://forum.makerdao.com/t/mip4c2-sp15-core-unit-offboarding-process-amendments/15291). The original version can be found [here](https://github.com/makerdao/mips/blob/7fdb552680486bbd84dfd84b64980e0999249043/MIP41/mip41.md)
+Extra: This MIP has been amended. See [MIP4c2-SP15](https://forum.makerdao.com/t/mip4c2-sp15-core-unit-offboarding-process-amendments/15291) and [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/7fdb552680486bbd84dfd84b64980e0999249043/MIP41/mip41.md)
 ```
 
 ## References
@@ -54,6 +54,10 @@ Specifies what Interim Facilitators are, the situations where they are necessary
 
 **MIP41c7: Interim Facilitator Appointment Process**  
 Specifies the process used to appoint an Interim Facilitator to a Core Unit.
+
+**MIP41c8: Endgame Transition**
+This component defines the special rules of Endgame Transition as they apply to all Core Unit related MIPs.
+
 
 ## Motivation
 
@@ -190,3 +194,14 @@ If after one month the full Interim Facilitator Appointment Process (including t
 
 If any other edge cases occur, a majority of Governance Facilitators may resolve them to the best of their ability.
 
+### MIP41c8: Endgame Transition
+
+In case of conflict, this component supersedes other components in the MIP.
+
+To enable the smooth transition to Endgame, Core Unit related MIPs ([MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md)) continue to function temporarily during the Pregame after the Maker Constitution has passed. They are used only to provide budget continuity for existing, approved budgets, and to provide a temporary solution for designating Responsible Facilitators in the Scopes.
+
+New Core Units can no longer be proposed or be approved, new budgets cannot be proposed or approved, and recurring budgets do not automatically renew. The only exception to the rule against recurring budget is the Strategic Finance Budget which can recur a single time.
+
+All Core Unit roles defined in the Core Unit related MIPs no longer apply, and are superseded by the rules and responsibilities defined in the Maker Constituion or Scope Frameworks. If no direction is given to a Core Unit in the Maker Constitution or the Scope Frameworks, they can fall back on their existing Core Unit mandate, but must also make efforts to support and enable the transition to Endgame, and provide input for how their work can be incorporated in the Scopes.
+
+Over time, all budgets provided from the Core Unit related MIPs will run out, and the Core Units will be transitioned to new budgets and have their work regulated through the Maker Constitution and Scopes. Once the transition is complete and all budgets have run out or been offboarded, and no more payments occur to any Core Unit defined in the Core Unit MIPs, all of the Core Unit MIPs become obsolete and stop having any effect.
