@@ -7,13 +7,14 @@ MIP40c3-SP: #88
 Author(s): @simonkp, @dumitru
 Contributors: @lukaszb, @Artautas
 Tags: core-unit, cu-tech-001, budget, dai-budget
-Status: Formal Submission
+Status: Obsolete
 Date Applied: 2022-12-02
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Budget Start Date: 2023-04-01
 Budget End Date: 2024-03-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-spxx-techops-core-unit-dai-budget/19017
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmWpo8BJ
+Extra: This budget has been marked as obsolete as per the changes introduced in [MIP40](https://mips.makerdao.com/mips/details/MIP40) via [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -371,3 +372,4 @@ This MIP40c3 subproposal provides the following budget options:
 - B: Approve NewBear budget
 - C: Reject budget
 - D: Abstain
+

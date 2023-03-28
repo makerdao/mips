@@ -8,11 +8,11 @@ MIP(s) to be amended: MIP0, MIP16, MIP24, MIP39, MIP40, MIP41, MIP51, MIP55
 Author(s): Rune
 Contributors:
 Tags: constitution, endgame, constitution-mip-set
-Status: Formal Submission
-Date Proposed: 2023-02-6
-Date Ratified: N/A
+Status: Accepted
+Date Proposed: 2023-02-06
+Date Ratified: 2023-03-27
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmbndmkr
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp1-mip-amendment-subproposals/19703
-Ratification Poll URL: 
 ```
 ## Specification
 
@@ -35,3 +35,4 @@ This subproposal amends all the critical MIPs needed to support the Pregame Make
 ### Amendment Pull Request
 
 <https://github.com/makerdao/mips/pull/847>
+

@@ -6,14 +6,14 @@
 MIP40c3-SP#: 93
 Author(s): @Aes
 Contributors:
-Tags: core-unit, cu-sf-001, budget, dai-budget
-Status: Formal Submission
+Tags: core-unit, cu-sf-001, budget, dai-budget, active
+Status: Accepted
 Date Applied: 2023-02-08
-Date Ratified: TBD
+Date Ratified: 2023-03-27
 Budget Start Date: 2023-04-01
 Budget End Date: 2024-04-01
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp93-modifying-strategic-finance-core-unit-budget-sf-001/19728
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmcNS7iz
 ```
 
 ## Sentence Summary
@@ -266,3 +266,4 @@ For this Ratification Poll to conclude successfully and for the contained propos
 - Winning vote-weight must exceed the Minimum Positive Participation value of 10,000 MKR when the poll closes.
 
 Please make sure to rank all of the options during the vote, specifically for approving a budget request. Also, make sure to rank the option to approve the existing budget.
+

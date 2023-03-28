@@ -7,11 +7,11 @@ MIP39c2-SP#: 39
 Author(s): @danik
 Contributors: 
 Tags: core-unit, cu-sas-001, mandate
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2023-02-08
-Date Ratified:
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp39-modifying-sidestream-auction-services-core-unit-mandate-sas-001/19738
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmNSsw6o
 ```
 
 ## Sentence Summary
@@ -48,3 +48,4 @@ To reflect this change (but avoid changing the proven CU acronym), we would like
 * [MIP40c3-SP95: Modifying Sidestream Auction Services Core Unit Budget (SAS-001)](https://forum.makerdao.com/t/mip40c3-sp95-modifying-sidestream-auction-services-core-unit-budget-sas-001/19737)
 * [SAS Monthly Update: January 2023](https://forum.makerdao.com/t/sas-monthly-update-january-2023/19714)
 * [SAS Monthly Update: December 2022](https://forum.makerdao.com/t/sas-monthly-update-december-2022/19336)
+
