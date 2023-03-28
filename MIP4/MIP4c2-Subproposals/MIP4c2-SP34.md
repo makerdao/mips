@@ -4,16 +4,17 @@
 
 ```
 MIP4c2-SP#: 34
-MIP to be amended: <MIP41>
+MIP to be amended: MIP41
 Author(s): @prose11 @layerzero
 Contributors:
 Tags: template
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2023-02-08
-Date Ratified: 
+Date Ratified: 2023-03-27
 Forum URL: https://forum.makerdao.com/t/mip4c2-sp34-expand-facilitator-definition-to-allow-entities/19736
-Ratification Poll URL: 
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmc6GPBi
 ```
+
 ## Specification
 
 This amendment MIP proposes to eliminate any reference to a facilitator as "individual" and replace it by the term  "authorized accounts".
@@ -35,3 +36,4 @@ Governance Facilitators will benefit from still having clear instructions from t
 ### Amendment Pull Request
 
 - [Github PR](https://github.com/makerdao/mips/pull/846/files)
+

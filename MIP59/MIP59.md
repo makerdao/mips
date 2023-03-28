@@ -9,7 +9,7 @@ Author(s): Tal Baneth (@talbaneth)
 Contributors: Sam MacPherson (@hexonaut), Derek Flossman (@Derek) 
 Tags: technical, module, smart-contracts
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-08-26
 Date Ratified: 2021-10-25
 Dependencies: n/a
@@ -17,6 +17,7 @@ Replaces: n/a
 License: AGPL3+  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmNVWmdU?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip59-dsscharter/10028
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

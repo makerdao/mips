@@ -9,7 +9,7 @@ Author(s): Sam MacPherson (@hexonaut)
 Contributors: Chris Mooney (@godsflaw), Brian McMichael (@brianmcmichael), Gonzalo Balabasquer (@gbalabasquer)
 Tags: technical, module, smart-contracts
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-09-25
 Date Ratified: 2020-11-24
 Dependencies: n/a
@@ -17,6 +17,7 @@ Replaces: n/a
 License: AGPL3+
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-november-2020-governance-cycle-bundle-november-23-2020?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip25-flash-mint-module/4400
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

@@ -6,9 +6,11 @@
 MIP58c4-SP#: 1
 Author(s): @dsm
 Contributors: @SebVentures, @Aes
-Status: RFC
+Status: Formal Submission
 Date Applied: 2023-02-27
 Date Ratified:
+Forum URL: https://forum.makerdao.com/t/mip58c4-sp1-rwa-foundation-broker-onboarding-expensing-for-professional-services/19997
+Ratification Poll URL:
 ```
 
 ## Sentence Summary

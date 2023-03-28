@@ -9,13 +9,14 @@ Author(s): @SebVentures, @christiancdpetersen
 Contributors: N/A
 Tags: process, living
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-08-04
 Date Ratified: 2021-09-27
 Dependencies: n/a
 Replaces: n/a  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmXeWtK1?network=mainnet
 Forum URL: https://forum.makerdao.com/t/mip58-rwa-foundations/9680
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

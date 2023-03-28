@@ -9,11 +9,12 @@ Author(s): @retro, @juan
 Contributors:
 Tags: process
 Type: general
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-01-11
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip98-the-work-proposal-framework/19391
 Ratification Poll URL:
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

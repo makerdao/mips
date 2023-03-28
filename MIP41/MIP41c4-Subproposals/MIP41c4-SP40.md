@@ -8,10 +8,11 @@ MIP41c4-SP#: 40
 Author(s): @juan
 Contributors: 
 Tags: core-unit, cu-ces-001, facilitator
-Status: Formal Submission
+Status: Accepted
 Date Applied: 2022-11-22
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2023-03-27
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp40-onboarding-retro-as-ces-001-facilitator/18887
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdLRZGM
 ```
 
 ## Sentence Summary
@@ -59,3 +60,4 @@ By accepting this role, I am committing to these expectations and responsibiliti
 * Operations Wizard before Maker
 * SES Intern
 * CES Interim Facilitator
+

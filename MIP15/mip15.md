@@ -9,13 +9,14 @@ Author(s): Wil Barnes (@wilbarnes), Charles St.Louis (@CPSTL)
 Contributors:
 Tags: process, governance, smart-contracts, living
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-05-21
 Date Ratified: 2020-09-18
 Dependencies:
 Replaces:
 Ratification Poll URL: https://vote.makerdao.com/polling/Qmd7gdkY
 Forum URL: https://forum.makerdao.com/t/mip15-dark-spell-mechanism/2578
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

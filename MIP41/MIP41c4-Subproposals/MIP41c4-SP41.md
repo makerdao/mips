@@ -7,11 +7,11 @@ MIP41c4-SP#: 41
 Author(s): @Primoz, @rema, @monetsupply
 Contributors:
 Tags: core-unit, cu-risk-001, facilitator
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2022-02-08
-Date Ratified:
+Date Ratified: 2023-03-27
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp41-risk-facilitator-onboarding-risk-001/19739
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmYcQDa3
 ```
 
 ## Sentence Summary
@@ -118,3 +118,4 @@ I have received a BA in philosophy and undertook significant coursework in econo
 ### Conflicts of Interest
 
 I am a delegate with external protocols, most notably Compound and Uniswap, with smaller voting support in other protocols, including ENS, GTC, and a few others. Certain protocols where I am a delegate or informal forum commenter may be potentially in competition with Maker, such as Compound and Aave. I currently serve as a reviewer on the Osmosis grants program, which comes with a small stipend. I have made private investments in certain crypto projects and companies, including Lido, B Protocol, Rabbithole, and Neon EVM. I also hold a broad set of public investments in crypto tokens (including some potential Maker competitors) such as AAVE, COMP, EUL, BLD, CMDX, UMEE, FLX, and others. I will provide disclosures for any cases where my work intersects with any personal engagements or investments that could pose or create the appearance of a material conflict of interest.
+

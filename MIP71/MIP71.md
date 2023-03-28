@@ -9,12 +9,13 @@ Author(s): @g_dip
 Contributors: @maxrealestate
 Tags:
 Type:
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-04-05
 Date Ratified: <yyyy-mm-dd>
 Dependencies: MIP21
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip71-huntingdon-valley-bank-collateral-block-exemption/14469
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 ## References
 

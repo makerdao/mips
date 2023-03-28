@@ -7,13 +7,13 @@ MIP40c3-SP#: 89
 Author(s): Codeknight
 Contributors:
 Tags: cu-budget, deco-001
-Status: Formal Submission
+Status: Rejected
 Date Applied: 2023-02-06
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Budget Start Date: 2021-12-01
 Budget End Date: 2023-05-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp89-modify-core-unit-budget-deco/19690
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmU8DR2f
 ```
 
 ## Sentence Summary
@@ -39,3 +39,4 @@ The CU's budget and goals should be reevaluated, so I propose ending their curre
 ### Core Unit ID
 
 DECO-001
+

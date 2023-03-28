@@ -9,13 +9,14 @@ Author(s): Marko Štemberger (@rema)
 Contributors: LFW (@LongForWidsom), Sean Taylor (@Sean), Payton Rose (@prose11), Derek (@derek), Brian L. McMichael (@brianmcmichael)
 Tags: governance
 Type: General
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-05-11
 Date Ratified: 2022-06-27
 Dependencies: None
 Replaces: None
 Forum URL: https://forum.makerdao.com/t/mip74-permissionless-open-market-operations/15095
 Ratification Poll URL: https://vote.makerdao.com/polling/QmaivXCv
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

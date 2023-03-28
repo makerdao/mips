@@ -7,12 +7,13 @@ MIP55c3-SP#: 16
 Author(s): @PhoenixLabs
 Contributors:
 Tags:
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2023-02-08
-Date Ratified: 
+Date Ratified: N/A
 Amount Requested: 347,100 DAI
 Recipient Address: 0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509
 Forum URL: https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734
+Extra: This proposal has been marked as obsolete as per the changes introduced in [MIP55](https://mips.makerdao.com/mips/details/MIP55) via [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -70,3 +71,4 @@ Total Amount: 347,100 Dai
 Wallet Address: 0xD9847E6b1314f0327F320E43B51ca0AaAD6FF509
 Comptroller signers: @Nadia (https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734/15), @0xdeniz (https://forum.makerdao.com/t/mip55c3-sp16-phoenix-labs-spark-lend-launch/19734/17)
 ```
+

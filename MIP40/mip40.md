@@ -13,7 +13,7 @@ Date Proposed: 2022-03-27
 Date Ratified: 2022-05-23
 Dependencies: MIP0, MIP16
 Replaces: MIP40
-Extra: This MIP has been amended. See [MIP4c2-SP19](https://mips.makerdao.com/mips/details/MIP4c2SP19). The original version can be found [here](https://github.com/makerdao/mips/blob/7fdb552680486bbd84dfd84b64980e0999249043/MIP40/mip40.md).
+Extra: This MIP has been amended. See [MIP4c2-SP19](https://mips.makerdao.com/mips/details/MIP4c2SP19) and [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/7fdb552680486bbd84dfd84b64980e0999249043/MIP40/mip40.md).
 ```
 
 ## Sentence Summary
@@ -37,6 +37,9 @@ Describes the process for adding a budget to a new Core Unit or modifying the Co
 
 **MIP40c4: Budget Implementation Details**
 Provides clarity on how the budget payouts are addressed from a practical perspective once approved.
+
+**MIP40c5: Endgame Transition**
+This component defines the special rules of Endgame Transition as they apply to all Core Unit related MIPs.
 
 ## Motivation
 
@@ -173,3 +176,15 @@ If actual spend by the end of the budget period is 600,000, then the minimum tha
 
 Transfers should be made to the DssBlow contract, simply send a standard ERC20 Dai transaction:
 0x0048fc4357db3c0f45adea433a07a20769ddb0cf
+
+### MIP40c5: Endgame transition
+
+In case of conflict, this component supersedes other components in the MIP.
+
+To enable the smooth transition to Endgame, Core Unit related MIPs ([MIP38](https://github.com/makerdao/mips/blob/master/MIP38/mip38.md), [MIP39](https://github.com/makerdao/mips/blob/master/MIP39/mip39.md), [MIP40](https://github.com/makerdao/mips/blob/master/MIP40/mip40.md), [MIP41](https://github.com/makerdao/mips/blob/master/MIP41/mip41.md)) continue to function temporarily during the Pregame after the Maker Constitution has passed. They are used only to provide budget continuity for existing, approved budgets, and to provide a temporary solution for designating Responsible Facilitators in the Scopes.
+
+New Core Units can no longer be proposed or be approved, new budgets cannot be proposed or approved, and recurring budgets do not automatically renew. The only exception to the rule against recurring budget is the Strategic Finance Budget which can recur a single time.
+
+All Core Unit roles defined in the Core Unit related MIPs no longer apply, and are superseded by the rules and responsibilities defined in the Maker Constituion or Scope Frameworks. If no direction is given to a Core Unit in the Maker Constitution or the Scope Frameworks, they can fall back on their existing Core Unit mandate, but must also make efforts to support and enable the transition to Endgame, and provide input for how their work can be incorporated in the Scopes.
+
+Over time, all budgets provided from the Core Unit related MIPs will run out, and the Core Units will be transitioned to new budgets and have their work regulated through the Maker Constitution and Scopes. Once the transition is complete and all budgets have run out or been offboarded, and no more payments occur to any Core Unit defined in the Core Unit MIPs, all of the Core Unit MIPs become obsolete and stop having any effect.

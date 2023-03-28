@@ -9,9 +9,10 @@ Contributors:
 Tags: tech-001, core-unit,
 Status: Formal Submission
 Date Proposed: 2023-02-01
-Date ratified: -
+Date ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp5-requesting-protocol-dai-transfer-to-fund-techops-cu-for-march-2023/19624
-Ratification Poll URL: 
+Ratification Poll URL: https://vote.makerdao.com/polling/Qmdzxxw4
+Extra: This proposal has been marked as obsolete as per the changes introduced in [MIP0](https://mips.makerdao.com/mips/details/MIP0) via [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ---
 Amount: 138,894 DAI
 ```
@@ -55,3 +56,4 @@ Amount To Transfer: 138,894 DAI
 
 - [2023 Revised DAI Budget MIP](https://forum.makerdao.com/t/mip40c3-spxx-techops-core-unit-dai-budget/19017)
 - [TechOps CU Mandate](https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tech-001/12070)
+

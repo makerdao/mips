@@ -6,12 +6,13 @@ MIP#: 26
 Title: DssGov - Governance Contract Redesign
 Author(s):  Smart Contracts Domain Team
 Type: Technical
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-10-06
 Dependencies: 
 Replaces: DSChief
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip26-dssgov-governance-contract-redesign/4589
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

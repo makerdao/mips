@@ -9,13 +9,14 @@ Author(s): @LongForWisdom
 Contributors: Seth Goldfarb (@seth)
 Tags: process, living
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-09-14
 Date Ratified: 2022-02-28
 Dependencies: MIP24, MIP41
 Replaces: N/A  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWDna6r
 Forum URL: https://forum.makerdao.com/t/mip60-intangible-asset-assignment
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

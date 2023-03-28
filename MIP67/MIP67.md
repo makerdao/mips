@@ -9,13 +9,14 @@ Author(s): @luca_pro, @williamr
 Contributors: @eumenes, @teej, @christiancdpetersen
 Tags: mips, rwf-001-cu, love-cu, process, collateral-onboarding
 Type: Process
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-01-07
 Date Ratified: 2022-04-25
 Dependencies: n/a
 Replaces: n/a
 Forum URL: https://forum.makerdao.com/t/mip67-methodology-and-review-process-for-structured-finance-transactions/13737
 Ratification Poll URL: https://vote.makerdao.com/polling/QmWt5fov
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

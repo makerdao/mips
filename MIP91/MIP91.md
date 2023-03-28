@@ -9,12 +9,13 @@ Author(s): @astronautthis
 Contributors: @LongForWisdom, @prose11, @Patrick_J  
 Tags: emergency, governance, process, technical, smart-contracts, pending-implementation  
 Type: General  
-Status: RFC  
+Status: Obsolete  
 Date Proposed: 2022-10-26  
 Date Ratified:  
 Contract address:  
 Dependencies:     
 Forum URL: https://forum.makerdao.com/t/mip91-defender-contract-against-governance-attacks/18534
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## References

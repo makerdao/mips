@@ -12,13 +12,14 @@ Title: Debt Ceiling Instant Access Module
 Author(s):  Smart Contracts Domain Team
 Tags: technical, module, smart-contracts
 Type: Technical
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2020-10-07
 Date Ratified: 2020-11-24
 Dependencies:
 Replaces: Weekly governance executive debt ceiling adjustments
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-november-2020-governance-cycle-bundle-november-23-2020?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip28-operational-support-domain-definition/4627
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

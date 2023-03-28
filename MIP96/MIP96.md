@@ -9,11 +9,12 @@ Author(s): @retro, @juan
 Contributors: @ses-core-unit
 Tags: process
 Type: General
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-01-11
 Date Ratified: 
 Forum URL: https://forum.makerdao.com/t/mip96-the-ecosystem-auditor-framework/19389
 Ratification Poll URL:
+Extra: This MIP has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1)
 ```
 
 ## Sentence Summary

@@ -7,13 +7,14 @@ MIP40c3-SP#: 92
 Author(s): Primoz Kordez (@Primoz)
 Contributors: @rema @monet-supply
 Tags: core-unit-budget, risk-001
-Status: Formal Submission
+Status: Obsolete
 Date Applied: 2023-02-08
-Date Ratified:
+Date Ratified: N/A
 Budget Start Date: 2023-03-01
 Budget End Date: 2024-02-29
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp92-modify-risk-core-unit-budget-risk-001/19741
-Ratification Poll URL:
+Ratification Poll URL: https://vote.makerdao.com/polling/QmSsENPv
+Extra: This budget has been marked as obsolete as per the changes introduced in [MIP40](https://mips.makerdao.com/mips/details/MIP40) via [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -248,3 +249,4 @@ This MIP40c3 subproposal provides the following budget options, fully described 
 * B: Approve Reduced Budget (-10%)
 * D: Reject budget
 * E: Abstain
+
