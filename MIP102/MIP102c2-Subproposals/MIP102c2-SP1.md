@@ -10,7 +10,7 @@ Contributors:
 Tags: constitution, endgame, constitution-mip-set
 Status: Accepted
 Date Proposed: 2023-02-06
-Date Ratified: 2023-03-07
+Date Ratified: 2023-03-27
 Ratification Poll URL: https://vote.makerdao.com/polling/Qmbndmkr
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp1-mip-amendment-subproposals/19703
 ```
