@@ -16,6 +16,7 @@ Dependencies: MIP0, MIP16
 Replaces: MIP3
 Ratification Poll URL: https://vote.makerdao.com/executive/template-executive-vote-approve-may-2021-governance-cycle-may-24-2021?network=mainnet#proposal-detail
 Forum URL: https://forum.makerdao.com/t/mip51-monthly-governance-cycle/7366
+Extra: This MIP has been amended. See [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/4547015a050eb4b2b0dba5442ccde5b450078600/MIP51/mip51.md).
 ```
 
 ## References  

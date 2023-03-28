@@ -16,7 +16,7 @@ Dependencies: n/a
 Replaces: n/a  
 Ratification Poll URL: https://vote.makerdao.com/polling/QmStS4VH?network=mainnet  
 Forum URL: https://forum.makerdao.com/t/mip55-special-purpose-fund-spf/8624
-Extra: This MIP has been amended. See [MIP4c2-SP16](https://mips.makerdao.com/mips/details/MIP4c2SP16). The original version can be found [here](https://github.com/makerdao/mips/blob/4b04a40e758d3c675bfcad877b5da5a9ed08ba97/MIP55/MIP55.md).
+Extra: This MIP has been amended. See [MIP4c2-SP16](https://mips.makerdao.com/mips/details/MIP4c2SP16), and [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/4b04a40e758d3c675bfcad877b5da5a9ed08ba97/MIP55/MIP55.md).
 ```
 
 ## Sentence Summary
