@@ -16,7 +16,7 @@ Dependencies: n/a
 Replaces: n/a
 Ratification Poll URL:
 Forum URL: https://forum.makerdao.com/t/mip0-the-maker-improvement-proposal-framework/1902
-Extra: This MIP has been amended. See [MIP4c2-SP10](https://mips.makerdao.com/mips/details/MIP4c2SP10), [MIP4c2-SP13](https://mips.makerdao.com/mips/details/MIP4c2SP13), [MIP4c2-SP14](https://mips.makerdao.com/mips/details/MIP4c2SP14), [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/2f474bd463b2a239ed9a26dcf6509c3471e8a55b/MIP0/mip0.md).
+Extra: This MIP has been amended. See [MIP4c2-SP10](https://mips.makerdao.com/mips/details/MIP4c2SP10), [MIP4c2-SP13](https://mips.makerdao.com/mips/details/MIP4c2SP13), [MIP4c2-SP14](https://mips.makerdao.com/mips/details/MIP4c2SP14), and [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1). The original version can be found [here](https://github.com/makerdao/mips/blob/2f474bd463b2a239ed9a26dcf6509c3471e8a55b/MIP0/mip0.md).
 ```
 
 ## References
