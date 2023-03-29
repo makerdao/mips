@@ -8,8 +8,8 @@ Title: Dispute Resolution
 Author(s): Gregory Di Prisco (g_dip)
 Contributors: None
 Tags: process
-Type: Obsolete
-Status: Accepted
+Type: General
+Status: Obsolete
 Date Proposed: 2021-05-04
 Date Ratified: 2021-07-26
 Dependencies: MIP3c1
