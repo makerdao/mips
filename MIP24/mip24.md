@@ -47,8 +47,8 @@ A general procedure for managing emergency situations.
 **MIP24c4: Urgent Response Procedure**
 A general procedure for managing urgent situations.
 
-**MIP24c5: Role of Arbitration Facilitators**
-Outlines the tasks of the Arbitration Facilitators during emergency interventions.
+**MIP24c5: Role of Arbitration and Ecosystem Facilitators**
+Outlines the tasks of the Arbitration and Ecosystem Facilitators during emergency interventions.
 
 ## Motivation
 
@@ -75,15 +75,15 @@ There are several important factors to consider before expediting changes to the
 
 ### MIP24c3: Emergency Response Procedure
 
-The ability to declare an emergency will be reserved for Facilitators due to their proximity to, and knowledge of, the Maker Protocol and surrounding ecosystem. If a community member wishes to declare an emergency, they will follow the urgent response procedure outlined in MIP24c4. If an Arbitration Facilitator agrees that the status of the urgent situation should be escalated to "emergency," they will do so.
+The ability to declare an emergency will be reserved for Facilitators due to their proximity to, and knowledge of, the Maker Protocol and surrounding ecosystem. If a community member wishes to declare an emergency, they will follow the urgent response procedure outlined in MIP24c4. If an Arbitration or Ecosystem Facilitator agrees that the status of the urgent situation should be escalated to "emergency," they will do so.
 
 **The emergency response process will be initiated as follows:**
 
 Declare an emergency in the public forum providing sufficient detail regarding the issue and why immediate action is required. If time does not permit, a forum post will be created immediately after or in parallel to taking emergency action. Creating a signal request thread or governance poll is optional.
 
-- If a remedy is known and uncontentious the Arbitration Facilitators will coordinate with necessary Ecosystem Actors to expedite an executive vote.
-- If a remedy is not known or is contentious the Arbitration Facilitators will coordinate an emergency governance call to discuss solutions and a plan for subsequent actions, explicitly inviting known stakeholders.
+- If a remedy is known and uncontentious the Arbitration or Ecosystem Facilitators will coordinate with necessary Ecosystem Actors to expedite an executive vote.
+- If a remedy is not known or is contentious the Arbitration or Ecosystem Facilitators will coordinate an emergency governance call to discuss solutions and a plan for subsequent actions, explicitly inviting known stakeholders.
 
-### MIP24c4: Role of Arbitration Facilitators
+### MIP24c4: Role of Arbitration or Ecosystem Facilitators
 
-Arbitration Facilitators will oversee emergency and urgent situation processes to ensure they are carried out in a civil and consistent manner. They will be responsible for confirming poll outcomes and identifying whether the community or external actors have attempted to abuse or game the emergency voting system, and may block a request for emergency action at their discretion.
+Arbitration or Ecosystem Facilitators will oversee emergency and urgent situation processes to ensure they are carried out in a civil and consistent manner. They will be responsible for confirming poll outcomes and identifying whether the community or external actors have attempted to abuse or game the emergency voting system, and may block a request for emergency action at their discretion.

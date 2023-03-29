@@ -69,7 +69,7 @@ It is important to note that due to the frequency of such changes, the Weekly Cy
 
 **Friday, week 1**
 
-- The Arbitration Facilitators will confirm the Executive Vote contents and deliver the spell copy to the Governance Security Advisory Council. The Governance Security Advisory Council will prepare and review a spell on the Goerli testnet.
+- The Arbitration or Ecosystem Facilitators will confirm the Executive Vote contents and deliver the spell copy to the Governance Security Advisory Council. The Governance Security Advisory Council will prepare and review a spell on the Goerli testnet.
 
 **Monday, week 2**
 
@@ -81,7 +81,7 @@ It is important to note that due to the frequency of such changes, the Weekly Cy
 
 **Wednesday, week 2**
 
-- The Arbitration Facilitator will add the Executive Vote to the voting portal and communicate this to the MakerDAO Community. The Weekly Executive Vote has an expiration of thirty days.
+- The Arbitration or Ecosystem Facilitators will add the Executive Vote to the voting portal and communicate this to the MakerDAO Community. The Weekly Executive Vote has an expiration of thirty days.
 
 #### Overview of the Weekly Governance Cycle
 
@@ -90,8 +90,8 @@ It is important to note that due to the frequency of such changes, the Weekly Cy
 **Important Notes:**
 
 - As the Weekly Governance Cycle runs from Monday until the following Wednesday, there will in effect be two concurrent Weekly Governance Cycles from Monday to Wednesday each week.
-- If there are no substantive changes due to be made to the Maker Protocol, the Arbitration Facilitators, in conjunction with the Protocol Engineering Core Unit, may opt not to publish an Executive Vote. This decision should be announced and justified on the Maker Forum.
-- If a non-standard weekly poll ("signal request") has been proposed, it will also be put in the weekly poll. To create a non-standard weekly poll requires an urgent and apparent reason from a timing perspective to justify it. It is important to note that a non-standard weekly poll cannot be used for long-term decisions and requires consensus from the Arbitration Facilitators before it can be accepted and published.
+- If there are no substantive changes due to be made to the Maker Protocol, the Arbitration or Ecosystem Facilitators, in conjunction with the Protocol Engineering Core Unit, may opt not to publish an Executive Vote. This decision should be announced and justified on the Maker Forum.
+- If a non-standard weekly poll ("signal request") has been proposed, it will also be put in the weekly poll. To create a non-standard weekly poll requires an urgent and apparent reason from a timing perspective to justify it. It is important to note that a non-standard weekly poll cannot be used for long-term decisions and requires consensus from the Arbitration or Ecosystem Facilitators before it can be accepted and published.
 
 ---
 ### MIP16c3: Limiting Governance to MIP-defined processes
@@ -113,7 +113,7 @@ Emergency governance actions are explicitly allowed outside of MIP-defined gover
 
 With the acceptance of this MIP, non-emergency governance of the Maker Protocol must now happen under processes defined by Accepted MIPs. MIPs defining governance processes include [MIP51](https://github.com/makerdao/mips/blob/master/MIP51/mip51.md) and [MIP16](https://github.com/makerdao/mips/blob/master/MIP16/mip16.md), which define monthly and weekly Governance Cycles, respectively.
 
-In addition, the use of the weekly cycle as defined in this MIP should only occur where there is a specific need to use the weekly cycle as opposed to the monthly cycle. Consensus among the Arbitration Facilitators is required in order to make use of the weekly cycle as opposed to the monthly cycle.
+In addition, the use of the weekly cycle as defined in this MIP should only occur where there is a specific need to use the weekly cycle as opposed to the monthly cycle. Consensus among the Arbitration or Ecosystem Facilitators is required in order to make use of the weekly cycle as opposed to the monthly cycle.
 
 Emergency governance actions are explicitly allowed outside of MIP-defined governance processes due to the time-sensitive nature of emergency responses and the permissionless nature of on-chain proposals and voting.
 
