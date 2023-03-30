@@ -6,11 +6,12 @@ MIP41c5-SP#: 14
 Author(s): @Primoz
 Contributors:
 Tags: cu-facilitator, risk-001
-Status: RFC
+Status: Accepted
 Date Proposed: 2022-02-08
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2023-03-30
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp92-facilitator-offboarding-primoz-risk-001/19740
 Ratification Poll URL:
+Extra: As this Facilitator Offboarding was voluntary, no ratification poll took place.
 ````
 ## Sentence Summary
 
