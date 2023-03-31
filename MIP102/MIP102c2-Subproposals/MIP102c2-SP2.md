@@ -4,15 +4,15 @@
 
 ```
 MIP102c2-SP#: 2
-MIP to be amended: <MIP#>
-Author(s): @rune
+MIP(s) to be amended:
+Author(s): Rune
 Contributors:
-Tags: mips-amen
+Tags: subproposal
 Status: RFC
-Date Proposed: 2023-03-01
-Date Ratified: <yyyy-mm-dd>
+Date Proposed:
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp2-mip-amendment-subproposals/20016
-Ratification Poll URL:
+Ratification Poll URL: 
 ```
 ## Specification
 
@@ -22,6 +22,9 @@ This subproposal amends the Maker Constitution and the Scope Frameworks to inclu
 
 ### Amended MIPs and Components
 
+* MIP16
+* MIP24
+* MIP51
 * MIP101
 * MIP103
 * MIP104
@@ -38,4 +41,4 @@ This subproposal amends the Maker Constitution and the Scope Frameworks to inclu
 
 ### Amendment Pull Request
 
-TBD
+[#868](https://github.com/makerdao/mips/pull/868/files)
