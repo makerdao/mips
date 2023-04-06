@@ -1,3 +1,5 @@
+# MIP102c2-SP6: Policy for airdropped tokens
+
 ## Preamble
 
 ```
