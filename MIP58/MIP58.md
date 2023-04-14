@@ -105,7 +105,7 @@ For illustrative purposes, the objects for which the RWA Foundations are establi
 - To provide financial assistance or benefits to beneficiaries as designated or determined under the articles of association. 
 - To do all such things as in the opinion of the Directors are or may be incidental or conducive to the above objects or any of them.
 
-![](https://github.com/makerdao/mips/blob/master/MIP58/diagram.png)
+![](https://github.com/makerdao/mips/blob/master/MIP58/diagram.png?raw=true)
 
 In case this MIP conflicts with the Cayman Islands' laws, the Articles of Association, or the Memorandum of Association of the RWA Foundation; the latter shall prevail. The RWA Foundation MIP applies to any compatible Cayman Foundation regardless of the name of such Foundation.
 
