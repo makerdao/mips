@@ -12,7 +12,7 @@ Date Proposed: 2021-10-06
 Date Ratified: 2021-11-22
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSbiSTX?network=mainnet  
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp42-adding-immunefi-security-core-unit-budget-is-001/10813/11
-Extra: This subproposal has been amended. See [MIP4c2-SP17](https://mips.makerdao.com/mips/details/MIP4c3SP17). The original version can be found [here](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md).
+Extra: This subproposal has been amended. See [MIP4c2-SP17](https://mips.makerdao.com/mips/details/MIP4c2SP17). The original version can be found [here](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP42.md).
 ```
 
 ## References
