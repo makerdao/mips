@@ -135,7 +135,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ##### Facilitator
 
-- Primož Kordež - [MIP41c4-SP1](https://mips.makerdao.com/mips/details/MIP41c4SP2)
+- BA Labs, LLC - [MIP41c4-SP41](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP41.md)
 
 ---
 
@@ -337,7 +337,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ##### Facilitator
 
-- @Retro has been [elected as the interim Facilitator](https://forum.makerdao.com/t/fallback-interim-facilitator-selection-process-ces-001/18911/30) after Robert Jordan's voluntary offboarding via [MIP41c5-SP13](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c5-Subproposals/MIP41c5-SP13.md).
+- @Retro - [MIP41c4-SP40](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP40.md).
 
 ---
 
@@ -582,3 +582,4 @@ New Core Units can no longer be proposed or be approved, new budgets cannot be p
 All Core Unit roles defined in the Core Unit related MIPs no longer apply, and are superseded by the rules and responsibilities defined in the Maker Constitution or Scope Frameworks. If no direction is given to a Core Unit in the Maker Constitution or the Scope Frameworks, they can fall back on their existing Core Unit mandate, but must also make efforts to support and enable the transition to Endgame, and provide input for how their work can be incorporated in the Scopes.
 
 Over time, all budgets provided from the Core Unit related MIPs will run out, and the Core Units will be transitioned to new budgets and have their work regulated through the Maker Constitution and Scopes. Once the transition is complete and all budgets have run out or been offboarded, and no more payments occur to any Core Unit defined in the Core Unit MIPs, all of the Core Unit MIPs become obsolete and stop having any effect.
+
