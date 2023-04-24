@@ -7,13 +7,14 @@ MIP55c3-SP#: 17
 Author(s): @Sebix
 Contributors: @Joserjmz, @Harrizko
 Tags: SPF
-Status: RFC
+Status: Obsolete
 Date Proposed: 2023-03-02
 Date Ratified: (yyyy-mm-dd)
 Amount Requested: 90,000 DAI
 Recipient Address:  0xF411d823a48D18B32e608274Df16a9957fE33E45
 Forum URL: https://forum.makerdao.com/t/mip55c3-spxx-continue-to-fund-the-ambassador-program/20042
 Ratification Poll URL:
+Extra: This subproposal has been made Obsolete following the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
