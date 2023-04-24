@@ -8,11 +8,11 @@ MIP(s) to be amended: MIP16, MIP24, MIP51, MIP101, MIP103, MIP104, MIP105, MIP10
 Author(s): Rune
 Contributors:
 Tags: subproposal
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2023-03-01
-Date Ratified: N/A
+Date Ratified: 2023-04-24
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp2-mip-amendment-subproposals/20016
-Ratification Poll URL: 
+Ratification Poll URL:  https://vote.makerdao.com/polling/QmTYdpaU
 ```
 
 ## Specification
