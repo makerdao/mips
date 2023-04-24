@@ -75,19 +75,17 @@ Proposals submitted into the Monthly Governance Cycle must follow the guidelines
 -   Governance Process Support Ecosystem Actors must be informed by MIP Authors of the status change via commonly used communications channels.
 
 **Week 1, Thursday**
-- The Arbitration Facilitators must come to consensus on whether each submission warrants moving forward to a Ratification Poll.
-    - Arbitration Facilitators may consider blocking a proposal if they believe that moving forward to a Ratification Poll would negatively affect community cohesion.
-    - If the Arbitration Facilitators prevent a proposal from moving to a Ratification Poll, they must clearly communicate their reasons for doing so via the official [forum](https://forum.makerdao.com).
-    - In the event the Arbitration Facilitators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
+- The Arbitration or Ecosystem Facilitators must come to consensus on whether each submission warrants moving forward to a Ratification Poll.
+    - Arbitration or Ecosystem Facilitators may consider blocking a proposal if they believe that moving forward to a Ratification Poll would negatively affect community cohesion.
+    - If the Arbitration or Ecosystem Facilitators prevent a proposal from moving to a Ratification Poll, they must clearly communicate their reasons for doing so via the official [forum](https://forum.makerdao.com).
+    - In the event the Arbitration or Ecosystem Facilitators abuse this power they should be removed from their positions via any method Maker Governance determines is appropriate.
 
 **Week 2, Monday**
--   The Arbitration Facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
+-   The Arbitration or Ecosystem Facilitators publish the set of **Ratification Polls**. The format of these is defined in MIP51c2.
 -   Ratification Polls are published to the [community GitHub](https://github.com/makerdao/community/tree/master/governance/polls), submitted on-chain and appear on the official [Voting Portal](https://vote.makerdao.com/).
 
 **Week 4, Monday**
 -   The Ratification Polls conclude, and each proposal or set of proposals is marked as either Accepted or Rejected by the Governance Process Support Ecosystem Actors.
-
----
 
 ### MIP51c2: Ratification Poll
 
@@ -104,8 +102,6 @@ In order for a Ratification Poll to conclude successfully and the contained prop
 * `Yes` vote-weight must exceed `No` vote-weight when the poll closes.
 * `Yes` vote-weight must exceed the `Minimum Positive Participation` value of 10,000 MKR when the poll closes.
 
----
-
 ### MIP51c3: Minimum Positive Participation Changes
 
 The Minimum Positive Participation value defined in MIP51c2 may be modified via a successful Polling Vote under the Weekly Governance Cycle (MIP16).
@@ -114,10 +110,6 @@ If such a vote is successful, the Governance Process Support Ecosystem Actors wi
 
 The Minimum Positive Participation value may not be changed for Ratification Polls that are in progress under any circumstances.
 
----
-
 ### MIP51c4: Calendar Exceptions
 
 Due to the multitude of cultural and religious holidays occurring in and around the month of December, there will be no Monthly Governance Cycle in the December of each year.
-
----
