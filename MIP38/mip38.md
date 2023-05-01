@@ -159,7 +159,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ##### Facilitator(s)
 
-- Payton Rose - [MIP41c4-SP12](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP12.md)
 - Patrick_J - [MIP41c4-SP37](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP37.md)
 
 ---
