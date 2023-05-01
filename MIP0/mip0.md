@@ -85,18 +85,11 @@ The Endgame MIPs are:
 - MIP62
 - MIP101
 - MIP102
-- MIP103
 - MIP104
-- MIP105
 - MIP106
 - MIP107
 - MIP108
-- MIP109
-- MIP110
-- MIP111
-- MIP112
 - MIP113
-- MIP114
 
 ### MIP0c3: The MIP Lifecycle
 
