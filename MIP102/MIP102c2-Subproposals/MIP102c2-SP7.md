@@ -4,7 +4,7 @@
 
 ```
 MIP102c2-SP#: 7
-MIP(s) to be amended:
+MIP(s) to be amended: MIP0, MIP101, MIP102, MIP104, MIP106, MIP107, MIP108, MIP113
 Author(s): Rune
 Contributors:
 Tags: subproposal
