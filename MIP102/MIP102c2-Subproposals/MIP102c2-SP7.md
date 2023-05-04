@@ -8,10 +8,10 @@ MIP(s) to be amended:
 Author(s): Rune
 Contributors:
 Tags: subproposal
-Status: RFC
+Status: Formal Submission
 Date Proposed: 2023-04-03
 Date Ratified: N/A
-Forum URL:
+Forum URL: 
 Ratification Poll URL: https://forum.makerdao.com/t/mip102c2-sp7-mip-amendment-subproposals/20381
 ```
 ## Specification
@@ -22,18 +22,13 @@ This subproposal amends the Maker Constitution and the Scope Frameworks to take 
 
 ### Amended MIPs and Components
 
+* MIP0
 * MIP101
-* MIP103
+* MIP102
 * MIP104
-* MIP105
 * MIP106
 * MIP107
 * MIP108
-* MIP109
-* MIP110
-* MIP111
-* MIP112
 * MIP113
-* MIP114
 
-### Amendment Pull Request
+[Amendment Pull Request](https://github.com/makerdao/mips/pull/904)
