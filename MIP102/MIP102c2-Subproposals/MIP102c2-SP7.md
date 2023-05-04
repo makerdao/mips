@@ -11,8 +11,8 @@ Tags: subproposal
 Status: Formal Submission
 Date Proposed: 2023-04-03
 Date Ratified: N/A
-Forum URL: 
-Ratification Poll URL: https://forum.makerdao.com/t/mip102c2-sp7-mip-amendment-subproposals/20381
+Forum URL: https://forum.makerdao.com/t/mip102c2-sp7-mip-amendment-subproposals/20381
+Ratification Poll URL: 
 ```
 ## Specification
 
