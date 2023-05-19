@@ -7,10 +7,11 @@ MIP39c3-SP#: 6
 Author(s): @monkey.irish
 Contributors: @dbkcan @zmtong
 Tags: ces-001
-Status: RFC
+Status: Obsolete
 Date Proposed: 2022-11-20
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip39c3-spxx-core-unit-offboarding-ces-001/18863
+Extra: Marked as obsolete as the proposal has been abandoned.
 ```
 
 ## Sentence Summary
@@ -114,4 +115,3 @@ Given the source of this offboarding and after continued attempts, I do not see 
 ### Core Unit ID
 
 CES-001
-

@@ -7,9 +7,10 @@ MIP10c14-SP#: 5
 Author(s): Itamar Lesuisse
 Contributors:
 Tags: oracles
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2020-07-02
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary

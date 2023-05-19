@@ -26,7 +26,7 @@ Sébastien Derivaux has done a great job at creating and bootstrapping the Real 
 
 Now that we enter a new phase where what's already been built needs to be scaled up and further decentralized, I am proposing we offboard Sébastien as the Facilitator and replace him with an Acting Facilitator (MIP following shortly) that can further decentralize the RWA process and prepare it to safely scale into the billions.
 
-In my private conversations with Sébastien he explained that his objective with the RWF Core Unit all along was to bootstrap it to get it to a solid spot, and then pass on the reins so that he can focus on other things in the DAO that are more suitable for his interests and skillset. 
+In my private conversations with Sébastien he explained that his objective with the RWF Core Unit all along was to bootstrap it to get it to a solid spot, and then pass on the reins so that he can focus on other things in the DAO that are more suitable for his interests and skillset.
 
 I know that—should the community agree with this MIP and the subsequent Facilitator onboarding MIP— there is already at least one opportunity available for Sébastien in the decentralized workforce, and wherever he goes he will bring his reputation and trust with him, in particular the trust and track record of having built up one of the first ever Core Units from scratch and then orderly transitioned its power in a decentralized fashion.
 

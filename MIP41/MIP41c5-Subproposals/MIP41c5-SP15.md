@@ -6,11 +6,12 @@ MIP41c5-SP#: 15
 Author(s): @Derek
 Contributors:
 Tags: cu-facilitator, pe-001, mip
-Status: RFC
+Status: Accepted
 Date Proposed: 2022-02-08
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c5-sp15-facilitator-offboarding-derek-pecu-001/19749
 Ratification Poll URL:
+Extra: This is a voluntary offboarding.
 ```
 
 ## Sentence Summary

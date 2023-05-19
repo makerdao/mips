@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-11-27
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -22,12 +23,12 @@ MIP10c3-SP16 onboards the PAXG/USD Oracle.
 
 This Oracle would provide the PAXG/USD price as part of the collateral onboarding process for PAXG.
 
-### Oracle Data Model 
+### Oracle Data Model
 
 |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
 | :----------- | :------------ | :---: | :---------: | :----------: |
 |    Binance   |   PAXG/USDT   |   13  |    Median   |    Median    |
-|    Bitthumb  |   PAXG/USDT   | 
+|    Bitthumb  |   PAXG/USDT   |
 |     Gemini   |    PAXG/USD   |
 |     Kraken   |    PAXG/USD   |
 |    Uniswap   |    PAXG/ETH   |
@@ -38,7 +39,7 @@ This Oracle would provide the PAXG/USD price as part of the collateral onboardin
 **ETH/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    ETH/USD    |    Median    |
 |   Bitfinex    |    ETH/USDT   |              |
 |   Bitstamp    |    ETH/USD    |              |
@@ -49,7 +50,7 @@ This Oracle would provide the PAXG/USD price as part of the collateral onboardin
 **USDT/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    BTC/USDT   |    Median    |
 |   BitFinex    |    USDT/USD   |              |
 |   FTX         |    ETH/USDT   |              |
@@ -60,7 +61,7 @@ This Oracle would provide the PAXG/USD price as part of the collateral onboardin
 ### Oracle Address
 - Medianizer - Mainnet TBD
 - Oracle Security Module (OSM) - Mainnet TBD
-    
+
 ### Supported Tools
 - Setzer - 8d03ca51265e9372716ba89e7063d062b146a85b - [Added support for PAXG/USD](https://github.com/makerdao/setzer-mcd/commit/8d03ca51265e9372716ba89e7063d062b146a85b)
 - Omnia - 55d81d36fd30183c71ce43797c09e0de88102995 - [Added support for PAXG/USD](https://github.com/makerdao/oracles-v2/commit/55d81d36fd30183c71ce43797c09e0de88102995)

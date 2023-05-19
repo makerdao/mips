@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-09-17
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -22,12 +23,12 @@ MIP10c3-SP10 onboards the YFI/USD Oracle.
 
 This Oracle would provide the YFI/USD price as part of the collateral onboarding process for YFI.
 
-### Oracle Data Model 
+### Oracle Data Model
 
     |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
     | :----------- | :------------ | :---: | :---------: | :----------: |
     |    Binance   |    YFI/USDT  |   13  |    Median   |    Median    |
-    |    Coinbase  |    YFI/USD   | 
+    |    Coinbase  |    YFI/USD   |
     |      FTX     |    YFI/USD   |
     |     Gemini   |
     |     Huobi    |    YFI/USDT  |
@@ -39,7 +40,7 @@ This Oracle would provide the YFI/USD price as part of the collateral onboarding
 **USDT/USD (canonical)**
 
     |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
+    | :------------ | :------------ | :----------: |
     |   Binance     |    BTC/USDT   |    Median    |
     |   BitFinex    |    USDT/USD   |              |
     |   FTX         |    ETH/USDT   |              |
@@ -50,7 +51,7 @@ This Oracle would provide the YFI/USD price as part of the collateral onboarding
  **ETH/USD (canonical)**
 
     |    Source     |  Asset Pair   |  Feed Model  |
-    | :------------ | :------------ | :----------: | 
+    | :------------ | :------------ | :----------: |
     |   Binance     |    ETH/USD    |    Median    |
     |   Bitfinex    |    ETH/USDT   |              |
     |   Bitstamp    |    ETH/USD    |              |
@@ -61,7 +62,7 @@ This Oracle would provide the YFI/USD price as part of the collateral onboarding
 ### Oracle Address
 - Medianizer - Mainnet TBD
 - Oracle Security Module (OSM) - Mainnet TBD
-    
+
 ### Supported Tools
 - Setzer - aaabab1cee2676a522782d87b48ea907aa18ecc8 - [Added support for YFI/USD](https://github.com/makerdao/setzer-mcd/commit/aaabab1cee2676a522782d87b48ea907aa18ecc8)
 - Omnia - 6289cf329e85902379fd6ed6b692802d590677a6 - [Added support for YFI/USD](https://github.com/makerdao/oracles-v2/commit/6289cf329e85902379fd6ed6b692802d590677a6)

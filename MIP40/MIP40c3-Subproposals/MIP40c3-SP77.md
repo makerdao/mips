@@ -7,10 +7,11 @@ MIP40c3-SP#: 77
 Author(s): @Ippy
 Contributors:
 Tags: core-unit, is-001, dai-budget, cu-offboarding
-Status: RFC
+Status: Obsolete
 Date Applied: 2022-07-07
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp77-modify-is-001-budget/16436
+Extra: Marked as obsolete as the proposal has been abandoned.
 ```
 
 ## Sentence Summary

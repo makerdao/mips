@@ -7,10 +7,11 @@ Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Oracle Team Name: Green
 Tags: oracles
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2020-09-12
 Date Ratified:
-``` 
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
+```
 
 ## Sentence Summary
 MIP10c7-SP1 adds FTX and Uniswap as price sources and removes Bitfinex.
@@ -19,12 +20,12 @@ MIP10c7-SP1 adds FTX and Uniswap as price sources and removes Bitfinex.
 
 ### Introduction
 
-As markets and liquidity profiles evolve, it is important to revisit Data Models for collateral assets to ensure they accurately reflect the new normal. 
+As markets and liquidity profiles evolve, it is important to revisit Data Models for collateral assets to ensure they accurately reflect the new normal.
 
 *This proposal adds FTX (ETH/USD) and Uniswap (ETH/USDC) as price sources for the ETH/USD Oracle and removes Bitfinex (ETH/USDT).*
 
 
-### Oracle Data Model 
+### Oracle Data Model
 
 |    Source     |  Asset Pair   | Quorum | Feed Model  | Oracle Model |
 | :------------ | :------------ | :----: | :---------: | :----------: |
@@ -44,7 +45,7 @@ As markets and liquidity profiles evolve, it is important to revisit Data Models
 |    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
 | :------------ | :------------ | :---: | :---------: | :----------: |
 |   Bitstamp    |    BTC/USD    |   13  |    Median   |    Median    |
-|   Bittrex     |    BTC/USD    | 
+|   Bittrex     |    BTC/USD    |
 |   Coinbase    |    BTC/USD    |
 |   Gemini      |    BTC/USD    |
 |   Kraken      |    BTC/USD    |
@@ -55,7 +56,7 @@ As markets and liquidity profiles evolve, it is important to revisit Data Models
 | :-------------- | :------------ | :----------: |
 |        1        |       N/A     |      N/A     |
 
- 
+
 ### Supporting Evidence
 
 DeFi has grown exponentially and Uniswap now does significant volume rivaling many centralized exchanges. Similarly, FTX has experienced remarkable growth and now boasts a significant Ethereum volume against USD. Meanwhile there is continued uncertainty over Tether's backing.
@@ -63,11 +64,11 @@ DeFi has grown exponentially and Uniswap now does significant volume rivaling ma
 
 - What is better about the new Data Model?
 This proposal would remove any dependency on USDT from the ETH/USD Data Model.
-It also adds Uniswap as a source which as an AMM is very expensive for an attacker to manipulate. 
- 
+It also adds Uniswap as a source which as an AMM is very expensive for an attacker to manipulate.
+
 ### Oracle Address
 - Medianizer
 - Oracle Security Module (OSM)
-    
+
 ### Supported Tools
 - Setzer -3adfa65dfb926f41a451ee2ce60d48432e7ff69f - [Added FTX/Uniswap & Removed BitFinex](https://github.com/makerdao/setzer-mcd/commit/3adfa65dfb926f41a451ee2ce60d48432e7ff69f)

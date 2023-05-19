@@ -7,10 +7,11 @@ MIP10c19-SP#: 1
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Type: Process Component
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2022-05-17
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip10c19-sp1-update-oracle-expiration-time-for-all-oracles/15236
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Specification
@@ -37,7 +38,7 @@ Modifying the expiration time requires no implementation changes, neither on-cha
 
 As noted above, this parameter’s purpose as a heartbeat is almost vestigial in nature as it is not used by any Oracle consumer, including the Maker Protocol. Therefore, this parameter change is considered low risk from a behavioral perspective.
 
-From data sampled between June 1, 2021 and December 31, 2021, setting the oracle expiration time parameter to 24 hours reduced costs on average by 62% for Oracle Medianizer updates. Note that the scope of this gas cost reduction is exclusively in reference to Oracle Medianizer updates and does not include Oracle Security Module, Spotter, and LP Oracle updates. 
+From data sampled between June 1, 2021 and December 31, 2021, setting the oracle expiration time parameter to 24 hours reduced costs on average by 62% for Oracle Medianizer updates. Note that the scope of this gas cost reduction is exclusively in reference to Oracle Medianizer updates and does not include Oracle Security Module, Spotter, and LP Oracle updates.
 
 ### Supporting Data
 

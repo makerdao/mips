@@ -7,9 +7,10 @@ MIP10c15-SP#: 1
 Author(s): Nik Kunkel
 Contributors:
 Tags: oracles
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2020-05-29
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -37,9 +38,9 @@ The following information was provided by Kyber Network in their MIP10c14 applic
 > * Number of employees: 0
 > * When was the organization founded? 21 March 2018
 > * Who are the major investors in your organization? Kyber Network Reserves Limited is a wholly owned subsidiary of Jedha Holdings Private Limited, a Singapore-incorporated entity. Funding is from Jedha Holdings.
-> 
+>
 > * How much funding has the organization raised either privately or through a token sale? Jedha Holdings Private Limited’s subsidiary, Kyber Network Private Limited, also a Singapore-incorporated entity, raised 200,000 Ethers (equivalent to USD52m based on ETH:USD pricing at the close of the token sale) in an ICO that was completed in September 2017 in Singapore.
-> 
+>
 > * Please provide public references for the above where possible. (https://icodrops.com/kybernetwork/)
 
 ### Light Feeds

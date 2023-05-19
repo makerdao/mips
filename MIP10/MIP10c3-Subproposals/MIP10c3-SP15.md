@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-11-27
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -22,12 +23,12 @@ MIP10c3-SP15 onboards the UNI/USD Oracle.
 
 This Oracle would provide the UNI/USD price as part of the collateral onboarding process for UNI.
 
-### Oracle Data Model 
+### Oracle Data Model
 
 |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
 | :----------- | :------------ | :---: | :---------: | :----------: |
 |    Binance   |    UNI/BTC    |   13  |    Median   |    Median    |
-|    Coinbase  |    UNI/USD    | 
+|    Coinbase  |    UNI/USD    |
 |      FTX     |    UNI/USD    |
 |     Huobi    |    UNI/USDT   |
 |      OKEx    |    UNI/USDT   |
@@ -39,7 +40,7 @@ This Oracle would provide the UNI/USD price as part of the collateral onboarding
 **BTC/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Bitstamp    |    BTC/USD    |    Median    |
 |   Bittrex     |    BTC/USD    |              |
 |   Coinbase    |    BTC/USD    |              |
@@ -50,7 +51,7 @@ This Oracle would provide the UNI/USD price as part of the collateral onboarding
  **ETH/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    ETH/USD    |    Median    |
 |   Bitfinex    |    ETH/USDT   |              |
 |   Bitstamp    |    ETH/USD    |              |
@@ -61,7 +62,7 @@ This Oracle would provide the UNI/USD price as part of the collateral onboarding
 **USDT/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    BTC/USDT   |    Median    |
 |   BitFinex    |    USDT/USD   |              |
 |   FTX         |    ETH/USDT   |              |
@@ -72,7 +73,7 @@ This Oracle would provide the UNI/USD price as part of the collateral onboarding
 ### Oracle Address
 - Medianizer - Mainnet TBD
 - Oracle Security Module (OSM) - Mainnet TBD
-    
+
 ### Supported Tools
 - Setzer - 987efb1706090f05c5a8f086da04bb85e48733a7 - [Added support for UNI/USD](https://github.com/makerdao/setzer-mcd/commit/987efb1706090f05c5a8f086da04bb85e48733a7)
 - Omnia - 55d81d36fd30183c71ce43797c09e0de88102995 - [Added support for UNI/USD](https://github.com/makerdao/oracles-v2/commit/55d81d36fd30183c71ce43797c09e0de88102995)

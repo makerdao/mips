@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-12-05
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -22,9 +23,9 @@ MIP10c3-SP20 onboards the UNI-V2-WBTC-ETH/USD Oracle.
 
 This Oracle would provide the UNI-V2-WBTC-ETH/USD price as part of the collateral onboarding process for the UNI-V2-WBTC-ETH LP token.
 
-### Oracle Data Model 
+### Oracle Data Model
 
-A smart contract utilizing Uniswap primitives and liquidity reserves to calculate the price of a Uniswap Liquidity Provider (LP) token. 
+A smart contract utilizing Uniswap primitives and liquidity reserves to calculate the price of a Uniswap Liquidity Provider (LP) token.
 The reserves of the Uniswap pool, and the supply of the Uniswap LP token are used as inputs to the model. This model utilizes MakerDAO Oracles to price the underlying assets.
 
 This model utilizes the following base assumptions:
@@ -60,7 +61,7 @@ Substitute of (3), (4) and (7) gives us the following model for calculating the 
 **ETH/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    ETH/USD    |    Median    |
 |   Bitfinex    |    ETH/USDT   |              |
 |   Bitstamp    |    ETH/USD    |              |
@@ -71,7 +72,7 @@ Substitute of (3), (4) and (7) gives us the following model for calculating the 
 **WBTC/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Bitstamp    |    BTC/USD    |    Median    |
 |   Bittrex     |    BTC/USD    |              |
 |   Coinbase    |    BTC/USD    |              |
@@ -80,7 +81,7 @@ Substitute of (3), (4) and (7) gives us the following model for calculating the 
 
 ### Oracle Address
 - Mainnet - UniV2LpOracle - TBD
-    
+
 ### Supported Tools
 UniV2LpOracle - [Source Code](https://github.com/makerdao/univ2-lp-oracle/blob/master/src/Univ2LpOracle.sol)
 UniV2LpOracle - [Tests](https://github.com/makerdao/univ2-lp-oracle/blob/master/src/Univ2LpOracle.t.sol)

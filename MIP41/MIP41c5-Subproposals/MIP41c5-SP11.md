@@ -7,11 +7,12 @@ MIP41c5-SP#: 11
 Author(s): Deimos
 Contributors:
 Tags: core unit, cu-sf-001, facilitator, personnel-xboarding
-Status: RFC
+Status: Obsolete
 Date Applied: 2022-08-10
-Date Ratified: 
+Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c5-spxx-facilitator-offboarding-sf-001/17136
 Ratification Poll URL:
+Extra: Marked as Obsolete as the proposal has been abandoned.
 ```
 
 ## Sentence Summary
