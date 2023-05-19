@@ -7,10 +7,11 @@ MIP41c4-SP#: 17
 Author(s): PaperImperium
 Contributors: N/A
 Tags: core-unit, cu-mpcu-001, mandate
-Status: RFC
+Status: Obsolete
 Date Proposed: 2021-06-28
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp17-facilitator-onboarding-maker-portfolio-core-unit/8997
+Extra: Marked as Obsolete as the proposal has been abandoned.
 ```
 
 ## Sentence Summary
