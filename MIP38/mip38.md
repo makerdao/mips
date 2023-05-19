@@ -206,7 +206,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ##### Facilitator
 
-- Nadia Alvarez - [MIP41c4-SP4](https://mips.makerdao.com/mips/details/MIP41c4SP4)
+- MarianoDP has been nominated as Interim Facilitator as part of the offboarding process of @Nadia - [MIP41c5-SP17](https://forum.makerdao.com/t/mip41c4-sp17-facilitator-offboarding-gro-001/20797)
 
 ---
 
