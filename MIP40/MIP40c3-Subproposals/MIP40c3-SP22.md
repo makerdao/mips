@@ -11,6 +11,7 @@ Status: RFC
 Date Proposed: 2021-06-28
 Date Ratified:   
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp22-modify-maker-portfolio-core-unit-budget/8998/3
+Extra: Marked as Obsolete as the proposal has been abandoned.
 ```
 
 ## Sentence Summary
