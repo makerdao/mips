@@ -24,7 +24,6 @@ N/A
 
 ## Sentence Summary
 
-
 MIP38 is the fundamental MIP in the Core Unit MIP Set. The definitions it contains hold the Core Unit MIP Set together.
 
 ## Paragraph Summary
