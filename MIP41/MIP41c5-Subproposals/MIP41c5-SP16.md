@@ -1,4 +1,4 @@
-# MIP41c5-SP16: Facilitator offboarding 
+# MIP41c5-SP16: Facilitator Offboarding (GOV-001)
 
 ## Preamble
 
