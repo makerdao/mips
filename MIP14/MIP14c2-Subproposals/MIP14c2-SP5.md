@@ -7,7 +7,7 @@ MIP14c2-SP#: 5
 Author(s): @simonkp
 Contributors:
 Tags: tech-001, core-unit,
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2023-02-01
 Date ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip14c2-sp5-requesting-protocol-dai-transfer-to-fund-techops-cu-for-march-2023/19624
@@ -17,12 +17,12 @@ Extra: This proposal has been marked as obsolete as per the changes introduced i
 Amount: 138,894 DAI
 ```
 
-## Specification 
+## Specification
 
 ### Sentence Reason
 
 This amount will sustain the team, critical infrastructure, tools and services through the month of March. This is our second and last MIP14 subproposal before the full budget will be resubmitted for voting in March.
-    
+
 ### Reason Details
 
 This amount is a monthly cap of TechOps CU's new revised NewBase [DAI budget](https://forum.makerdao.com/t/mip40c3-spxx-techops-core-unit-dai-budget/19017). After submitting our 2023 budget to the community it was rejected for a number of reasons, including:
@@ -56,4 +56,3 @@ Amount To Transfer: 138,894 DAI
 
 - [2023 Revised DAI Budget MIP](https://forum.makerdao.com/t/mip40c3-spxx-techops-core-unit-dai-budget/19017)
 - [TechOps CU Mandate](https://forum.makerdao.com/t/mip39c2-sp29-adding-techops-core-unit-tech-001/12070)
-
