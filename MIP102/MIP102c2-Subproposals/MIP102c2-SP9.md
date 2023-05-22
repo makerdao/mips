@@ -8,7 +8,7 @@ MIP to be amended: 114
 Author(s): @Psychonaut
 Contributors:
 Tags: RFC
-Status:
+Status: RFC
 Date Proposed: 2023-04-21
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp9-mip-amendment-subproposal/20640
