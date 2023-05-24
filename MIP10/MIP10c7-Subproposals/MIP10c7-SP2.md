@@ -7,11 +7,10 @@ MIP10c7-SP#: 2
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Type: Process Component
-Status: Obsolete
+Status: Accepted
 Date Proposed: 2022-05-17
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: 2022-05-30
 Forum URL: https://forum.makerdao.com/t/mip10c7-sp1-modify-data-models-for-btc-usd-link-usd-mana-usd-usdt-usd-yfi-usd-data-model/15235
-Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Specification

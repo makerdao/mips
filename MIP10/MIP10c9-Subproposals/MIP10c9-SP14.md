@@ -7,10 +7,9 @@ Author(s): Artem K, Daniel L
 Contributors:
 Type: Process Component
 Tags: oracles
-Status: Obsolete
+Status: Accepted
 Date Proposed: 2020-11-19
-Date Ratified:
-Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
+Date Ratified: 2020-11-30
 ```
 
 ## Sentence Summary
