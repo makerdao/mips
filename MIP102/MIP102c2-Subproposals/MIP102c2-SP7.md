@@ -8,7 +8,7 @@ MIP(s) to be amended: MIP0, MIP101, MIP102, MIP104, MIP106, MIP107, MIP108, MIP1
 Author(s): Rune
 Contributors:
 Tags: subproposal
-Status: Approved
+Status: Accepted
 Date Proposed: 2023-04-03
 Date Ratified: 2023-05-22
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp7-mip-amendment-subproposals/20381
