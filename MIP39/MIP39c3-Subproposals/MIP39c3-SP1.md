@@ -7,11 +7,12 @@ MIP39c3-SP#: 1
 Author(s): Deimos
 Contributors:
 Tags: core unit, cu-sf-001, mandate
-Status: RFC
+Status: Obsolete
 Date Applied: 2022-08-10
-Date Ratified: 
+Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip39c5-spxx-core-unit-offboarding-sf-001/17134
 Ratification Poll URL:
+Extra: Marked as obsolete as the proposal has been abandoned.
 ```
 
 ## Sentence Summary

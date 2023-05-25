@@ -7,10 +7,10 @@ Author(s): Artem K, Daniel L
 Contributors:
 Type: Process Component
 Tags: oracles
-Status: Formal Submission
+Status: Accepted
 Date Proposed: 2020-11-19
-Date Ratified:
-``` 
+Date Ratified: 2020-11-30
+```
 
 ## Sentence Summary
 MIP10c9-SP14 whitelists Yearn Finance for YFI/USD Oracle Access.

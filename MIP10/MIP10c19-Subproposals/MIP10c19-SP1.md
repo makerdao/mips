@@ -7,10 +7,11 @@ MIP10c19-SP#: 1
 Author(s): Niklas Kunkel (@NiklasKunkel)
 Contributors:
 Type: Process Component
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2022-05-17
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip10c19-sp1-update-oracle-expiration-time-for-all-oracles/15236
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Specification

@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-09-08
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -22,12 +23,12 @@ MIP10c3-SP8 onboards the LINK/USD Oracle.
 
 This Oracle would provide the LINK/USD price as part of the collateral onboarding process for LINK.
 
-### Oracle Data Model 
+### Oracle Data Model
 
 |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
 | :----------- | :------------ | :---: | :---------: | :----------: |
 |    Binance   |    LINK/BTC   |   13  |    Median   |    Median    |
-|   Coinbase   |    LINK/USD   | 
+|   Coinbase   |    LINK/USD   |
 |     FTX      |    LINK/USD   |
 |    Gemini    |    LINK/USD   |
 |     Huobi    |    LINK/USDT  |
@@ -38,7 +39,7 @@ This Oracle would provide the LINK/USD price as part of the collateral onboardin
 **USDT/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    BTC/USDT   |    Median    |
 |   BitFinex    |    USDT/USD   |              |
 |   FTX         |    ETH/USDT   |              |
@@ -49,7 +50,7 @@ This Oracle would provide the LINK/USD price as part of the collateral onboardin
 **BTC/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Bitstamp    |    BTC/USD    |    Median    |
 |   Bittrex     |    BTC/USD    |              |
 |   Coinbase    |    BTC/USD    |              |
@@ -59,7 +60,7 @@ This Oracle would provide the LINK/USD price as part of the collateral onboardin
 ### Oracle Address
 - Medianizer - Mainnet TBD
 - Oracle Security Module (OSM) - Mainnet TBD
-    
+
 ### Supported Tools
 - Setzer - da31fc37584d925d3b4a2efaffec27a372239396 - [Added support for LINK/USD](https://github.com/makerdao/setzer-mcd/commit/da31fc37584d925d3b4a2efaffec27a372239396)
 - Omnia - dc15687c2b63f120313fe6fb54e44f3b69b116ae - [Added support for LINK/USD](https://github.com/makerdao/oracles-v2/commit/dc15687c2b63f120313fe6fb54e44f3b69b116ae)

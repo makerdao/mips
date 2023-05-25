@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-11-27
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 ## Sentence Summary
 MIP10c3-SP17 onboards the RenBTC/USD Oracle.
@@ -21,12 +22,12 @@ MIP10c3-SP17 onboards the RenBTC/USD Oracle.
 
 This Oracle would provide the RenBTC/USD price as part of the collateral onboarding process for RenBTC.
 
-### Oracle Data Model 
+### Oracle Data Model
 
  **BTC/USD (canonical)**
 
 |    Source     |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
-| :------------ | :------------ | :---: | :---------: | :----------: | 
+| :------------ | :------------ | :---: | :---------: | :----------: |
 |   Bitstamp    |    BTC/USD    |   13  |   Median    |    Median    |
 |   Bittrex     |    BTC/USD    |
 |   Coinbase    |    BTC/USD    |
@@ -41,7 +42,7 @@ N/A
 ### Oracle Address
 - Medianizer - Mainnet - [0xe0F30cb149fAADC7247E953746Be9BbBB6B5751f](https://etherscan.io/address/0xe0F30cb149fAADC7247E953746Be9BbBB6B5751f)
 - Oracle Security Module (OSM) - Mainnet - [0xf185d0682d50819263941e5f4EacC763CC5C6C42](https://etherscan.io/address/0xf185d0682d50819263941e5f4EacC763CC5C6C42)
-    
+
 ### Supported Tools
 - Setzer - 987efb1706090f05c5a8f086da04bb85e48733a7 - [Added support for BTC/USD](https://github.com/makerdao/setzer-mcd/commit/ee89b1835f170eaf0ef585a4ae9f897bb6dfef8d)
 - Omnia - 55d81d36fd30183c71ce43797c09e0de88102995 - [Added support for BTC/USD](https://github.com/makerdao/oracles-v2/commit/03c42aed8bbdc4097df771648213c7f3de99ad61)

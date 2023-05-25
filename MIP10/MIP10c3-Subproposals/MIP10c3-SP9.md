@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-09-08
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -22,12 +23,12 @@ MIP10c3-SP9 onboards the COMP/USD Oracle.
 
 This Oracle would provide the COMP/USD price as part of the collateral onboarding process for COMP.
 
-### Oracle Data Model 
+### Oracle Data Model
 
 |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
 | :----------- | :------------ | :---: | :---------: | :----------: |
 |    Binance   |    COMP/USDT  |   13  |    Median   |    Median    |
-|    Coinbase  |    COMP/USD   | 
+|    Coinbase  |    COMP/USD   |
 |    Huobi     |    COMP/USDT  |
 |    Kraken    |    COMP/USD   |
 |    KuCoin    |    COMP/USDT  |
@@ -38,7 +39,7 @@ This Oracle would provide the COMP/USD price as part of the collateral onboardin
 **USDT/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    BTC/USDT   |    Median    |
 |   BitFinex    |    USDT/USD   |              |
 |   FTX         |    ETH/USDT   |              |
@@ -49,7 +50,7 @@ This Oracle would provide the COMP/USD price as part of the collateral onboardin
 **ETH/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    ETH/USD    |    Median    |
 |   Bitfinex    |    ETH/USDT   |              |
 |   Bitstamp    |    ETH/USD    |              |
@@ -60,7 +61,7 @@ This Oracle would provide the COMP/USD price as part of the collateral onboardin
 ### Oracle Address
 - Medianizer - Mainnet TBD
 - Oracle Security Module (OSM) - Mainnet TBD
-    
+
 ### Supported Tools
 - Setzer - a2cc40d9084c93902fd41b4fc642a83ddf635b2f - [Added support for COMP/USD](https://github.com/makerdao/setzer-mcd/commit/a2cc40d9084c93902fd41b4fc642a83ddf635b2f)
 - Omnia - 6d5ec1bf492431b1eb118171526ba8c545cdd94d - [Added support for COMP/USD](https://github.com/makerdao/oracles-v2/commit/6d5ec1bf492431b1eb118171526ba8c545cdd94d)
@@ -74,6 +75,6 @@ This Oracle would provide the COMP/USD price as part of the collateral onboardin
 
 ### Summary
 
-The COMP token is traded on a wide variety of exchanges. When ranked by wash-trading adjusted volume most of the reputable exchanges trade against USDT. Being overweight in USDT is an undesirable property as it exposes the price model to a potential tether collapse risk. OKEx's COMP/USDT was dropped as a source in favor of Huobi's COMP/USDT as Huobi has more liquidity and as such is more expensive to manipulate. 
+The COMP token is traded on a wide variety of exchanges. When ranked by wash-trading adjusted volume most of the reputable exchanges trade against USDT. Being overweight in USDT is an undesirable property as it exposes the price model to a potential tether collapse risk. OKEx's COMP/USDT was dropped as a source in favor of Huobi's COMP/USDT as Huobi has more liquidity and as such is more expensive to manipulate.
 
 Kraken's COMP/USD was chosen due to USD fiat pairs being preferred for price discovery. Despite the low volume on Kraken relative to others in this set, the market-depth is disproportionally deep and bots arbitraging against Coinbase's COMP/USD have abnormally high activity on Kraken.

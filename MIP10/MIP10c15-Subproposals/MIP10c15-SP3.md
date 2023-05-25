@@ -7,9 +7,10 @@ MIP10c15-SP#: 3
 Author(s): Nik Kunkel
 Contributors:
 Tags: oracles
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2020-06-14
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -44,7 +45,7 @@ If ratified, this subproposal would appoint Etherscan as a Light Feed. Feeds sub
 
 - Does the organization have a strong reputation in the crypto community?
 
-Yes. Etherscan has been a public utility going back many years. It has become the de-facto standard when referencing Ethereum transactions and is used by a diverse array of casual users as well as developers. 
+Yes. Etherscan has been a public utility going back many years. It has become the de-facto standard when referencing Ethereum transactions and is used by a diverse array of casual users as well as developers.
 
 - What contributions has this organization made to the crypto ecosystem?
 
@@ -80,7 +81,7 @@ The Oracle Team was not able to find any public figures relating to the amount o
 
 - the number of employees
 
-The Oracle Team was not able to verify the number of employees. A cursory search through LinkedIn showed 7 profiles claiming to work at Etherscan that correspond to employees listed on the [Etherscan About Us page](https://etherscan.io/aboutus). 
+The Oracle Team was not able to verify the number of employees. A cursory search through LinkedIn showed 7 profiles claiming to work at Etherscan that correspond to employees listed on the [Etherscan About Us page](https://etherscan.io/aboutus).
 
 - the location of incorporation & domicile
 

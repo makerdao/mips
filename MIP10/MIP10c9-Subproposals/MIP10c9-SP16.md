@@ -7,10 +7,11 @@ Author(s): Chris Bradbury
 Contributors: Chris Bradbury, Adam Skrodzki
 Type: Process Component
 Tags: oracles
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: <2022-04-01>
 Date Ratified: <yyyy-mm-dd>
-``` 
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
+```
 
 ## Specification
 
@@ -36,7 +37,7 @@ Oasis.app - chris@oasis.app
 ### Requirements
 For each customer address to be whitelisted:   
 	- Is the contract source code verified on Etherscan? yes  
-	- Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes 
+	- Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes
 	- Is Oracle data written to storage? no  
 		- If Oracle data is stored, is it stored in a private variable? n/a  
 		- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? n/a  

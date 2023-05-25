@@ -7,9 +7,10 @@ MIP10c15-SP#: 1
 Author(s): Nik Kunkel
 Contributors:
 Tags: oracles
-Status: Formal Submission
+Status: Obsolete
 Date Proposed: 2020-05-29
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary

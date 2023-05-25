@@ -7,11 +7,12 @@ MIP40c3-SP#: 81
 Author(s): Deimos
 Contributors:
 Tags: core-unit, cu-sf-001, budget, dai-budget, mkr-budget
-Status: RFC
+Status: Obsolete
 Date Applied: 2022-08-10
 Date Ratified:
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp81-modify-core-unit-budget-sf-001/17135
-Ratification Poll URL: 
+Ratification Poll URL:
+Extra: Marked as obsolete as the proposal has been abandoned.
 ```
 
 ## Sentence Summary

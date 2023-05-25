@@ -8,9 +8,10 @@ Contributors:
 Type: Process Component
 Tags: oracle-onboarding, oracles
 Oracle Team Name: Green
-Status: RFC
+Status: Obsolete
 Date Proposed: 2020-11-27
 Date Ratified:
+Extra: This subproposal has been made obsolete by the passage of [MIP102c2-SP1](https://mips.makerdao.com/mips/details/MIP102c2SP1).
 ```
 
 ## Sentence Summary
@@ -22,12 +23,12 @@ MIP10c3-SP14 onboards the AAVE/USD Oracle.
 
 This Oracle would provide the AAVE/USD price as part of the collateral onboarding process for AAVE.
 
-### Oracle Data Model 
+### Oracle Data Model
 
 |    Source    |  Asset Pair   |Quorum | Feed Model  | Oracle Model |
 | :----------- | :------------ | :---: | :---------: | :----------: |
 |    Balancer  |   AAVE/USD    |   13  |    Median   |    Median    |
-|    Binance   |   AAVE/BTC    | 
+|    Binance   |   AAVE/BTC    |
 |     Gemini   |   AAVE/USD    |
 |     Huobi    |   AAVE/USDT   |
 |      OKEx    |   AAVE/USDT   |
@@ -39,7 +40,7 @@ This Oracle would provide the AAVE/USD price as part of the collateral onboardin
 **BTC/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Bitstamp    |    BTC/USD    |    Median    |
 |   Bittrex     |    BTC/USD    |              |
 |   Coinbase    |    BTC/USD    |              |
@@ -50,7 +51,7 @@ This Oracle would provide the AAVE/USD price as part of the collateral onboardin
 **ETH/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    ETH/USD    |    Median    |
 |   Bitfinex    |    ETH/USDT   |              |
 |   Bitstamp    |    ETH/USD    |              |
@@ -61,7 +62,7 @@ This Oracle would provide the AAVE/USD price as part of the collateral onboardin
 **USDT/USD (canonical)**
 
 |    Source     |  Asset Pair   |  Feed Model  |
-| :------------ | :------------ | :----------: | 
+| :------------ | :------------ | :----------: |
 |   Binance     |    BTC/USDT   |    Median    |
 |   BitFinex    |    USDT/USD   |              |
 |   FTX         |    ETH/USDT   |              |
@@ -72,7 +73,7 @@ This Oracle would provide the AAVE/USD price as part of the collateral onboardin
 ### Oracle Address
 - Medianizer - Mainnet TBD
 - Oracle Security Module (OSM) - Mainnet TBD
-    
+
 ### Supported Tools
 - Setzer - de5dc7819172d440485f521e37fd812b70e31036 - [Added support for AAVE/USD](https://github.com/makerdao/setzer-mcd/commit/de5dc7819172d440485f521e37fd812b70e31036)
 - Omnia - 55d81d36fd30183c71ce43797c09e0de88102995 - [Added support for AAVE/USD](https://github.com/makerdao/oracles-v2/commit/55d81d36fd30183c71ce43797c09e0de88102995)
