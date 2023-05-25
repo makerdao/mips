@@ -38,7 +38,7 @@ Modifying the expiration time requires no implementation changes, neither on-cha
 
 As noted above, this parameter’s purpose as a heartbeat is almost vestigial in nature as it is not used by any Oracle consumer, including the Maker Protocol. Therefore, this parameter change is considered low risk from a behavioral perspective.
 
-From data sampled between June 1, 2021 and December 31, 2021, setting the oracle expiration time parameter to 24 hours reduced costs on average by 62% for Oracle Medianizer updates. Note that the scope of this gas cost reduction is exclusively in reference to Oracle Medianizer updates and does not include Oracle Security Module, Spotter, and LP Oracle updates.
+From data sampled between June 1, 2021 and December 31, 2021, setting the oracle expiration time parameter to 24 hours reduced costs on average by 62% for Oracle Medianizer updates. Note that the scope of this gas cost reduction is exclusively in reference to Oracle Medianizer updates and does not include Oracle Security Module, Spotter, and LP Oracle updates. 
 
 ### Supporting Data
 

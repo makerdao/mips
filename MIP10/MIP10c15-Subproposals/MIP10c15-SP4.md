@@ -92,7 +92,7 @@ The Oracle Team was able to verify that Consensys AG is registered and domiciled
 
 - Given the applicant's major investors, is there a risk adding this Light Feed would give a single investor too much influence over the Oracle protocol?
 
-Not at the moment, though this is something the community needs to monitor moving forward as Token Sets (formerly Set Protocol), Infura, and Gitcoin are all owned at least in part by Consensys.
+Not at the moment, though this is something the community needs to monitor moving forward as Token Sets (formerly Set Protocol), Infura, and Gitcoin are all owned at least in part by Consensys. 
 
 - Given the incorporation and domicile location of the organization, is there a risk adding this Light Feed would give a single jurisdiction too much influence over the Oracle protocol?
 

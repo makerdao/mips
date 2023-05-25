@@ -35,7 +35,7 @@ If ratified, this subproposal would appoint Etherscan as a Light Feed. Feeds sub
 > * Incorporated - 2016
 > * Domiciled - Malaysia
 > * When was the organization founded? - 2015
-> * Who are the major investors in your organization? - BoostVC, Digital Currency Group (DCG), Coinbase Ventures,
+> * Who are the major investors in your organization? - BoostVC, Digital Currency Group (DCG), Coinbase Ventures, 
 > * How much funding has the organization raised either privately or through a token sale? - Etherscan is privately funded
 > * Please provide public references for the above where possible. - https://etherscan.io/aboutus
 

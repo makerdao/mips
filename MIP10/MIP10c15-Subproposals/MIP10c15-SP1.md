@@ -38,9 +38,9 @@ The following information was provided by Kyber Network in their MIP10c14 applic
 > * Number of employees: 0
 > * When was the organization founded? 21 March 2018
 > * Who are the major investors in your organization? Kyber Network Reserves Limited is a wholly owned subsidiary of Jedha Holdings Private Limited, a Singapore-incorporated entity. Funding is from Jedha Holdings.
->
+> 
 > * How much funding has the organization raised either privately or through a token sale? Jedha Holdings Private Limited’s subsidiary, Kyber Network Private Limited, also a Singapore-incorporated entity, raised 200,000 Ethers (equivalent to USD52m based on ETH:USD pricing at the close of the token sale) in an ICO that was completed in September 2017 in Singapore.
->
+> 
 > * Please provide public references for the above where possible. (https://icodrops.com/kybernetwork/)
 
 ### Light Feeds

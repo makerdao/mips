@@ -51,10 +51,10 @@ Things SF-001 did lately:
 - MIP40 amendment [that changes dates to fit its own cycle](https://i.imgur.com/YbfvlcA.png).
 - KPI suggestion.
 - Lots of forum posting: Compared to other CUs, all the members hardly have time to do work.
-- Lots of politics: @madshills confronted them and asked if the CU position was the official position since all the team was doing politics all the time.
+- Lots of politics: @madshills confronted them and asked if the CU position was the official position since all the team was doing politics all the time. 
 - [Open source model](https://forum.makerdao.com/t/signal-request-n6m-target-spend-level/17122#open-source-modelhttpsdocsgooglecomspreadsheetsd1ygfmjogh9mvkskqcd7s9x6ibedgj31credituspsharingouid105675567186538493394rtpoftruesdtrue-7). This is *accountantspeak* for a simple public spreadsheet.
 - Lack of OKRs
-
+ 
 ### Conclusion
 
 @aes alone was doing the same (productive) work before this CU became expensive. Now [their updates](https://forum.makerdao.com/t/reporting-for-strategic-finance-core-unit-may-june-and-july-2022/17037) look like GovComms', with no concrete result.
