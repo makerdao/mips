@@ -4,7 +4,7 @@
 
 ```
 MIP102c2-SP#: 9
-MIP to be amended: 114
+MIP to be amended: 107
 Author(s): @Psychonaut
 Contributors:
 Tags: RFC
@@ -21,7 +21,7 @@ This subproposal ensures continuity of the bug bounty program (i.e., [MIP64](htt
 
 ### Amended MIPs and Components
 
-* [MIP114](https://mips.makerdao.com/mips/details/MIP114)
+* [MIP107](https://mips.makerdao.com/mips/details/MIP107)
 
 ### Amendment Pull Request
 
