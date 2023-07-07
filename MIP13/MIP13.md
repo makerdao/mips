@@ -67,7 +67,7 @@ In each of these cases, there was no formal record of the declaration of intent 
 
 **Definition**
 
-A declaration of intent is a statement that declares an intention Maker Governance has to the wider ecosystem. Such declarations should be made with the aim of prompting action in a certain area.
+A <abbr title="Declaration of Intent">DOI</abbr> is a statement that declares an intention Maker Governance has to the wider ecosystem. Such declarations should be made with the aim of prompting action in a certain area.
 
 There may be other ways to use 'Declarations' outside of intention, this system could be generalized to declaring other concepts, such as beliefs, or goals. However, based on the principles of specificity and brevity, it is suggested that these variations are defined as separate MIPs if they are determined to be needed.
 
