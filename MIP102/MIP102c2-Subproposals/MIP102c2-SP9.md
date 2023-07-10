@@ -7,11 +7,12 @@ MIP102c2-SP#: 9
 MIP to be amended: 107
 Author(s): @Psychonaut
 Contributors:
-Tags: RFC
-Status: RFC
+Tags: 
+Status: Rejected
 Date Proposed: 2023-04-21
-Date Ratified: <yyyy-mm-dd>
+Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp9-mip-amendment-subproposal/20640
+Ratification Poll URL: https://vote.makerdao.com/polling/QmacGCFK#vote-breakdown
 ```
 ## Specification
 
