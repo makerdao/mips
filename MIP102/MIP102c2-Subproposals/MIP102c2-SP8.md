@@ -8,11 +8,11 @@ MIP(s) to be amended:  MIP101, MIP104, MIP106, MIP107, MIP108, MIP113
 Author(s): Rune
 Contributors:
 Tags: subproposal
-Status: RFC
+Status: Accepted
 Date Proposed: 2023-05-05
-Date Ratified: N/A
+Date Ratified: 2023-06-26
 Forum URL: https://forum.makerdao.com/t/mip102c2-spx-mip-amendment-subproposals/20761
-Ratification Poll URL: 
+Ratification Poll URL: https://vote.makerdao.com/polling/QmdnSKPu
 ```
 ## Specification
 
