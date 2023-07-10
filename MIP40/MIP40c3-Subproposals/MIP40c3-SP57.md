@@ -7,11 +7,12 @@ MIP40c3-SP#: 57
 Author(s): @monkey.irish
 Contributors: @lollike
 Tags: core-unit, cu-ces-001, budget, dai-budget, active
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-01-12
 Date Ratified: 2022-02-28
 Ratification Poll URL: https://vote.makerdao.com/polling/Qmb6o8ua
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp57-modify-core-unit-budget-collateral-engineering-services-ces-001/12578
+Extra: This MIP has been rendered obsolete following the voluntary offboarding of CES-001.
 ```
 
 ## Sentence Summary

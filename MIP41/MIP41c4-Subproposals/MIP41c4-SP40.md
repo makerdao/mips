@@ -6,13 +6,14 @@
 ```
 MIP41c4-SP#: 40
 Author(s): @juan
-Contributors: 
+Contributors:
 Tags: core-unit, cu-ces-001, facilitator
-Status: Accepted
+Status: Obsolete
 Date Applied: 2022-11-22
 Date Ratified: 2023-03-27
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp40-onboarding-retro-as-ces-001-facilitator/18887
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdLRZGM
+Extra: This MIP has been rendered obsolete following the voluntary offboarding of CES-001.
 ```
 
 ## Sentence Summary
@@ -21,11 +22,11 @@ MIP41c4-SP40 onboards Retro as Facilitator for the Collateral Engineering Servic
 ## Specification
 
 ### Motivation
-Following the recent self-offboarding of the previous CES-001 Facilitator, and after what it looks like a successful interim process, I am proposing @Retro  for the Core Unit Facilitator role. 
+Following the recent self-offboarding of the previous CES-001 Facilitator, and after what it looks like a successful interim process, I am proposing @Retro  for the Core Unit Facilitator role.
 
 ### Retaining Valuable Talent
 
-Retention of valuable talent is crucial to the success Maker. The commitment and skills of the CES team can help tackle the next milestones for the Endgame  and as well as the technical side of collateral onboarding, governance security, among others. 
+Retention of valuable talent is crucial to the success Maker. The commitment and skills of the CES team can help tackle the next milestones for the Endgame  and as well as the technical side of collateral onboarding, governance security, among others.
 
 ### Retro
 
@@ -38,7 +39,7 @@ Retention of valuable talent is crucial to the success Maker. The commitment and
 
 ### Facilitator name and information
 * Name: Retro
-* Maker Forum handle: @Retro 
+* Maker Forum handle: @Retro
 * Twitter account: @0xRetro
 * Github account: @0xRetro
 * Discord account: @Retro#1428
@@ -60,4 +61,3 @@ By accepting this role, I am committing to these expectations and responsibiliti
 * Operations Wizard before Maker
 * SES Intern
 * CES Interim Facilitator
-
