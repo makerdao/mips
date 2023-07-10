@@ -29,4 +29,6 @@ This subproposal amends the Alignment Artifacts to further improve Maker Governa
 * MIP108
 * MIP113
 
-- [Amendment Pull Request (TBD)]()
+### Amendment Pull Request
+
+https://github.com/makerdao/mips/pull/925
