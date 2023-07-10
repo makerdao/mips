@@ -6,19 +6,19 @@
 MIP40c3-SP#: 82
 Author(s): Deniz Yilmaz (@0xdeniz)
 Tags: core-unit, cu-dux-001, budget, dai-budget, active
-Status: Accepted
+Status: Obsolete
 Date Applied: 2022-09-02
 Date Ratified: 2022-11-28
 Budget Start Date: 2023-02-01
 Budget End Date: 2024-01-31
 Forum URL: https://forum.makerdao.com/t/mip40c3-sp82-development-ux-core-unit-budget-dux-001/17611
 Ratification Poll URL: https://vote.makerdao.com/polling/QmdhJVvN
-Extra: Winning option was Option 2, NewBase.
+Extra: This MIP has been rendered obsolete following the voluntary offboarding of DUX-001.
 ```
 
 ## Sentence Summary
 
-MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from February 1st 2023 through January 31st 2024. 
+MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from February 1st 2023 through January 31st 2024.
 
 ## Paragraph Summary
 
@@ -30,9 +30,9 @@ MIP40c3-SP82 renews the Development & UX Core Unit (DUX-001) budget from Februar
 
 The Development & UX Core Unit (DUX-001) is one of MakerDAO's engineering Core Units, currently focused on maintaining and improving MakerDAO's governance tooling and infrastructure. The Maker protocol has a unique and bespoke governance system, and the MakerDAO organization is continuously evolving its governance processes and organizational structure.
 
-The DUX Core Unit is committed to maintaining and improving Maker's governance tooling and infrastructure today, *and* working towards evolving Maker governance together with the context and needs of both the Maker protocol and the DAO. This budget proposal replaces our current budget [MIP40c3-SP52](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP52.md) which ends in January 2023. This budget proposal represents the resources our Design & Development product team needs to execute our mandate and support other operational Core Units (e.g., GovAlpha, SES, DIN) with technical execution power. 
+The DUX Core Unit is committed to maintaining and improving Maker's governance tooling and infrastructure today, *and* working towards evolving Maker governance together with the context and needs of both the Maker protocol and the DAO. This budget proposal replaces our current budget [MIP40c3-SP52](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP52.md) which ends in January 2023. This budget proposal represents the resources our Design & Development product team needs to execute our mandate and support other operational Core Units (e.g., GovAlpha, SES, DIN) with technical execution power.
 
-As a team we acknowledge the harsh market conditions and broader context of MakerDAO, and therefore optimized for cutting costs without impairing our team's efficacy. After a full year of operating as a Core Unit we have a good understanding of our software expenses and team needs, which is reflected in a more fine-tuned budget and fewer 'buffers'. In addition we have collectively decided to **NOT** add any compensation raises and/or bonuses to this budget proposal as a gesture of good faith to the Maker community. As a Facilitator this puts a smile on my face as it's telling for our team dynamic and commitment to the Maker project. 
+As a team we acknowledge the harsh market conditions and broader context of MakerDAO, and therefore optimized for cutting costs without impairing our team's efficacy. After a full year of operating as a Core Unit we have a good understanding of our software expenses and team needs, which is reflected in a more fine-tuned budget and fewer 'buffers'. In addition we have collectively decided to **NOT** add any compensation raises and/or bonuses to this budget proposal as a gesture of good faith to the Maker community. As a Facilitator this puts a smile on my face as it's telling for our team dynamic and commitment to the Maker project.
 
 This budget proposal provides two distinct budget options, fully elaborated in this proposal:
 
@@ -56,11 +56,11 @@ The ratified budget option will be implemented through a continuous funding mode
 The following multisigs are involved:
 
 1. **The Auditor Wallet** -- A nested, 2-out-of-2 Auditor multisig, composed of 1-out-of-2 role-based multisigs as signers. The Auditor Wallet will have two roles defined for its signers: Auditors and Accountants.
-   
+
     The Accountant Role multisig will have 2 signers---both SES permanent team contributors. The Auditor Role Multisig will also have two signers, also both SES permanent team contributors. SES-001 will conduct the monthly auditing process as described in the Monthly Top-up Cycle, increasing transparency of the auditing process for the community.
-   
+
     The Maker Protocol (`MCD_PAUSE_PROXY`, `0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB`) will be listed as a beneficiary on the Auditor Wallet. This allows the protocol to withdraw up to 1B DAI from the Auditor Multisig wallet, ensuring control over these funds and acting as a backup.
-   
+
     This multisig will hold funds up to the Quarterly Budget Cap in DAI and receive the DssVest stream. All funds pass through this wallet before any are sent to the Operational Wallet.
 
 2. **The Operational Wallet** -- One wallet for DUX operational expenses. This is a 3-out-of-6 multisig controlled by DUX. Signers include the Facilitator, the team lead, and the other DUX team members.
@@ -85,23 +85,23 @@ The Monthly Budget Statements can be found in **[this GitHub repository](https:/
 1. **Monthly Budget Statement Submission** – Within the first 5 days of the month, DUX submits the Monthly Budget Statement to the Auditor Wallet signers. This report is also available for the rest of the community to review.
 
 2. **Transaction Requests Submission** -- In parallel, DUX submits the necessary transaction requests for the Auditor Wallet signers to sign:
-   
+
    - DAI Top-up Transaction – One DAI transaction for the Operational Wallet that adds enough funds to the Operational Wallet to replenish the forecast 3-month runway. Only applies if the Operational Wallet balance is below this forecast.
 
 3. **Returning Excess Funds** – DUX creates and signs any transactions for excess funds that should be returned to the Auditor Wallet:
-   
+
    - Excess DAI Transactions – DAI transactions for Operational Wallets that have a balance above the 3-Month Budget Forecast will be returned to the Auditor Wallet.
 
 4. **DssVest Pull** - The Auditor Wallet signers will pull available funds from the DUX DssVest contract, replenishing the available funds in the Auditor Wallet.
 
 5. **Auditors’ Review** – The Auditor Wallet signers review the Monthly Budget Statement. First, Accountant Role signers will review the initial report submitted by DUX to ensure data accuracy and report completeness. A consistent audit checklist will be followed. The Auditor Role will then receive the Accountant’s report generated from the checklist, and verify the Accountant’s findings.
-   
+
     A summary of each audit cycle’s report will be made available to the Maker Community at the conclusion of the audit cycle on the DUX’s transparency reporting repository on Github.
 
 6. **Transaction Approvals** – Upon acceptance of the Monthy Budget Statement audit, an Accountant Role signer and an Auditor Role signer will sign the requested transactions, sending the DAI top-up amounts to the Operational Wallet.
 
 7. **Auditor Wallet Returns** – The Auditor Wallet signers will return any amount of DAI above 2x the Monthly Budget Cap. The Auditor Wallet, using the **[DssBlow contract described here](https://github.com/Lollike/dss-blow)**, will return the excess DAI directly to the Surplus Buffer.
-   
+
     As such, the Auditor Wallet will then hold up to 2x the Monthly Budget Cap at the start of the month, allowing DssVest to stream DAI up to the Quarterly Budget Cap over the course of the month.
 
 #### Implementation Steps
@@ -117,11 +117,11 @@ The last top-up transaction from the protocol to the Auditor Wallet according to
 
 ### Budget Breakdown
 
-This budget proposal is optimized for reducing our existing budget based on actual needs, without impairing execution of our mandate. 
+This budget proposal is optimized for reducing our existing budget based on actual needs, without impairing execution of our mandate.
 
 #### Budget Details
 
-This section describes the Expense Categories that comprise the budget and how their monthly amount was determined. Note that we're removing a few existing expense categories from our budget all-together as a means of cost-cutting and further simplification. 
+This section describes the Expense Categories that comprise the budget and how their monthly amount was determined. Note that we're removing a few existing expense categories from our budget all-together as a means of cost-cutting and further simplification.
 
 **Compensation and Benefits:** Our team's contributors are paid for their work as independent contractors in DAI, USD, and/or EUR. This expense category does NOT include temporary contracting work—it solely exists to compensate the members of the Core Unit. The DAI amount is based on the salaries we need to cover—this budget proposal offers two budget options which are differentiated by this expense category (more specifically, the inclusion or exclusion of one full-time hire). Details below:
 
@@ -134,13 +134,13 @@ Note that both budget options do NOT include any raises or bonuses to contributo
 
 **Software Expense:** This expense category covers the costs of our SaaS software subscriptions (ie. software we use to coordinate our work) and infrastructure providers (ie. servers, node providers) that our products rely on. The DAI amount is based on our estimated monthly software & infra expenses after a year of running as a CU, with an additional 30% growth buffer to account for increased complexity and traffic over the next 12 months.  
 
-**Gas Expense:** This expense category is reserved for any on-chain gas costs related to our software testing and L2 voting we subsidize for our product's users. The DAI amount is based on a rough estimate. 
+**Gas Expense:** This expense category is reserved for any on-chain gas costs related to our software testing and L2 voting we subsidize for our product's users. The DAI amount is based on a rough estimate.
 
 **Admin Expense:** This expense category is solely reserved for the costs incurred by our team's financial services provider, providing a crypto offramp for the various expense categories covered. The DAI amount is based on the spending pattern of the past 12 months of running as a Core Unit, and the fees set in the active contract with our financial services provider.
 
 **Professional Services:** This expense category is used to procure external services when our context demands it. Examples are hosting and 24/7 monitoring of our products by the TechOps Core Unit, one-off code audits (if deemed necessary), training (if deemed necessary), and hiring specialized engineers/designers (if deemed necessary). The DAI amount is based on an ongoing paid collaboration with the TechOps Core Unit (4500 DAI/mo) and an added 3000 DAI/mo allocation for other external services that will only be spent if necessary.
 
-**Contingency Buffer:** We've decided to move away from a general-purpose 10% buffer in acknowledgement to the community's scrutiny of this practice. Instead, we're reducing this budget from ~20k DAI to 3k DAI and earmarking this buffer as an 'emergency legal fund' that will *only* be used in case one or more of our team's contributors are in need of legal defence as a result of their involvement with MakerDAO. As we are building frontends for end-users *and* as (unfortunately) the DAO currently has **zero** legal risk mitigation (e.g., a [self-insurance fund](https://forum.makerdao.com/t/self-insurance-fund-update/15943)) in place for its workforce, I deem this 'insurance-like' budget component as an absolute necessity for our team. 
+**Contingency Buffer:** We've decided to move away from a general-purpose 10% buffer in acknowledgement to the community's scrutiny of this practice. Instead, we're reducing this budget from ~20k DAI to 3k DAI and earmarking this buffer as an 'emergency legal fund' that will *only* be used in case one or more of our team's contributors are in need of legal defence as a result of their involvement with MakerDAO. As we are building frontends for end-users *and* as (unfortunately) the DAO currently has **zero** legal risk mitigation (e.g., a [self-insurance fund](https://forum.makerdao.com/t/self-insurance-fund-update/15943)) in place for its workforce, I deem this 'insurance-like' budget component as an absolute necessity for our team.
 
 ### Reporting Transparency
 
@@ -176,7 +176,7 @@ Lastly, the DUX Core Unit is first and foremost a product team with R&D capabili
 
 ### Roadmap and Objectives
 
-Our team uses quarterly product roadmaps to allow for accountability whilst preserving flexibility. Every three months we publish a 'Roadmap Spotlight' ([example](https://forum.makerdao.com/t/dux-roadmap-spotlight-q3-2022/16372/)), which is an elaborate forum post and pre-recorded walkthrough to wrap up the past quarter and commit to a focus for the next quarter. In addition we maintain [a public backlog](https://makergovernance.canny.io/) of ideas and projects, which is where prioritisation happens. The top-priority work items are copied over into our sprint board and further broken down for implementation. 
+Our team uses quarterly product roadmaps to allow for accountability whilst preserving flexibility. Every three months we publish a 'Roadmap Spotlight' ([example](https://forum.makerdao.com/t/dux-roadmap-spotlight-q3-2022/16372/)), which is an elaborate forum post and pre-recorded walkthrough to wrap up the past quarter and commit to a focus for the next quarter. In addition we maintain [a public backlog](https://makergovernance.canny.io/) of ideas and projects, which is where prioritisation happens. The top-priority work items are copied over into our sprint board and further broken down for implementation.
 
 Here's a rough list of current roadmap priorities as per our [backlog](https://makergovernance.canny.io/):
 
@@ -210,7 +210,7 @@ In case of unforeseen events that might lead to funding issues, we could decide 
 - More aggressive use of caching to reduce resource usage.
 - Reduce spending on off-sites.
 
-Note that we do not expect the above measures to be necessary since we have a buffer in place for software expenses and have a budget buffer in place for legal services. 
+Note that we do not expect the above measures to be necessary since we have a buffer in place for software expenses and have a budget buffer in place for legal services.
 
 ### Unwinding and Defunding
 
@@ -236,4 +236,3 @@ This MIP40c3 subproposal provides the following budget options, fully described 
 * [Latest DUX CU Budget MIP](https://mips.makerdao.com/mips/details/MIP40c3SP52#paragraph-summary)
 * [Latest DUX CU Monthly Update post](https://forum.makerdao.com/t/dux-monthly-update-july-2022/17005)
 * [Latest DUX CU Roadmap Spotlight post](https://forum.makerdao.com/t/dux-roadmap-spotlight-q3-2022/16372)
-

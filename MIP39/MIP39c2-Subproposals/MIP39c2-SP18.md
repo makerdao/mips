@@ -7,11 +7,12 @@ MIP39c2-SP#: 18
 Author(s): @rafinskipg, @tiago, @adamgoth, @tyler, @philip, @0xdeniz
 Contributors: @wouter, @juanjuan
 Tags: core-unit, cu-dux-001, mandate, active
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2021-08-11
 Date Ratified: 2021-09-27
 Ratification Poll URL: https://vote.makerdao.com/polling/QmSYLL9K?network=mainnet#poll-detail
 Forum URL: https://forum.makerdao.com/t/mip39c2-sp18-adding-development-ux-core-unit-dux-001/9770
+Extra: This MIP has been rendered obsolete following the voluntary offboarding of DUX-001.
 ```
 
 ## Sentence Summary

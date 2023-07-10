@@ -7,11 +7,12 @@ MIP41c4-SP: 32
 Author(s): @0xdeniz
 Contributors:
 Tags: core unit, cu-dux-001, facilitator, active
-Status: Accepted
+Status: Obsolete
 Date Proposed: 2022-01-11
 Date Ratified: 2022-02-28
 Ratification Poll URL: https://vote.makerdao.com/polling/QmR3DeK2
 Forum URL: https://forum.makerdao.com/t/mip41c4-sp32-facilitator-onboarding-to-dux-001-0xdeniz/12559
+Extra: This MIP has been rendered obsolete following the voluntary offboarding of DUX-001.
 ```
 
 ## Sentence Summary
