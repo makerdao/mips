@@ -14,32 +14,32 @@ Forum URL: https://forum.makerdao.com/t/mip39c3-sp9-removing-dux-001/21306
 Extra: This is a voluntary offboarding.
 ```
 
-# Sentence Summary
+## Sentence Summary
 
 This post notifies Governance of Development & UX (DUX-001) end of operations.
 
-# Paragraph Summary
+## Paragraph Summary
 
 With Core Units winding down, we are formally notifying Governance of our voluntary offboarding. The majority of the Core Unit team has bootstrapped the Jetstream Ecosystem Actor and will carry on the mandate of DUX.
 
-# Specification
+## Specification
 
-## Motivation
+### Motivation
 
-### Core Unit Offboarding
+#### Core Unit Offboarding
 
 * The Core Unit model is deprecated which is the main motivation for voluntarily offboarding the Core Unit more than 6 months ahead of the DAI budget running out
 * The majority of the team has been working towards bootstrapping a new Ecosystem Actor called *Jetstream*—an introductory post [can be found here](http://forum.makerdao.com/t/professional-ecosystem-actor-introduction-jetstream/21054?u=0xdeniz).
 * *Jetstream* Ecosystem Actor will be funded for 1.5 years as part of the Launch Project. This project and its funding has been ratified by Governance through [this poll](https://vote.makerdao.com/polling/QmdnSKPu).
 * Jetstream is capable and willing of carrying the mandate of DUX-001 and additional work, as described in the aforementioned introductory post.
 
-## Core Unit Unwinding
+### Core Unit Unwinding
 
-### Work
+#### Work
 
 All ongoing work and responsibilities is taken over by *Jetstream* Ecosystem Actor
 
-### Funds
+#### Funds
 Funding for this Ecosystem Actor will be coming from the Launch Project budget, which will last for 1.5 years. Once the Launch Project ends the Ecosystem Actor will have to find alternate sources of funding. We're working with the Governance facilitators to implement the following budgetary actions on-chain:
 
 **Related to Core Unit offboarding:**
@@ -57,7 +57,7 @@ Funding for this Ecosystem Actor will be coming from the Launch Project budget, 
 > Jetstream auditor multisig wallet address: `0xF478A08C41ad06E8D957d5e6B6Bcde7452cEE962`
 Jetstream operational (4/7) multisig wallet address: `0x3214b48Fc628f33ed0034d66c634F72Af3dF6577`
 
-### Facilitator
+#### Facilitator
 As MIP41c4 does not apply to Ecosystem Actors we can mark MIP41c4-SP32 as obsolete.
 
 In practice @0xdeniz will continue fulfilling a similar role for Jetstream as team coordinator & product lead, in addition to supporting coordination of the Launch Project.
