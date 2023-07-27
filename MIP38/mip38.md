@@ -162,30 +162,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
-#### Protocol Engineering (PE-001)
-
-- **Summary** - The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts, and ensure the safety and correctness of protocol design and implementation.
-- **Ratification Date for the Initial Proposal Set** - 2021-04-27
-
-##### Mandate
-
-- [MIP39c2-SP7](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP7.md)
-
-##### Budget
-
-- **Active Dai Budget** - [MIP40c3-SP68](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP68.md)
-    - **Ratification Date** - 2021-04-25
-    - **Budget Amount** -  7,590,000 DAI / year
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP68 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP68.md#list-of-budget-breakdowns)
-- **MKR Vesting** - [MIP40c3-SP7](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP7.md) - [MIP40c3-SP68](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP7.md)
-
-##### Facilitator
-
-- Derek Flossman - [MIP41c4-SP7](https://mips.makerdao.com/mips/details/MIP41c4SP7)
-
----
-
 #### Growth (GRO-001)
 
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
@@ -309,57 +285,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 ##### Facilitator
 
 - @badgerofthe9d - [MIP41c4-SP20](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP40c4-SP20.md)
-
----
-
-#### Collateral Engineering Services (CES-001)
-
-- **Summary** - To operationalize collateral management within the Maker Protocol allowing anyone to onboard collateral while ensuring the stability and security of the ecosystem.
-- **Ratification Date for the Initial Proposal Set** - 2021-09-27
-
-##### Mandate
-
-- [MIP39c2-SP37]((https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP37.md)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP57](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP57.md)
-    - **Ratification Date** - 2022-02-28
-    - **Budget Amount**
-      * 259,184 DAI for 3-month budget runway shortfall streamed to 0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da
-      * 2,780,562 DAI streamed to 0x25307aB59Cd5d8b4E2C01218262Ddf6a89Ff86da from April 1, 2022 to March 31, 2023
-      * 259,184 DAI wallet top up streamed to 0xD740882B8616B50d0B317fDFf17Ec3f4f853F44f  
-    - **Budget Implementation** - Advanced
-    - **Budget Breakdown** - [MIP40c3-SP57 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP57.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP30](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP30.md)
-
-##### Facilitator
-
-- @Retro - [MIP41c4-SP40](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP40.md).
-
----
-
-#### Development and UX (DUX-001)
-
-- **Summary** - Enabling the best-in-class decentralized decision making for the Maker Protocol by providing a meaningful user experience for all governance participants.
-- **Ratification Date for the Initial ProposalSet** - 2021-09-27
-
-##### Mandate
-
-- [MIP39c2-SP18](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP18.md)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP52](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP52.md)
-    - **Ratification Date** - 2022-01-24
-    - **Budget Amount** - A total of 1,934,300 DAI will be streamed to 0x5A994D8428CCEbCC153863CCdA9D2Be6352f89ad starting 2022-2-1 and ending 2023-1-31.
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP52 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP52.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP27](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP27.md)
-
-##### Facilitator
-
-- 0xdeniz - [MIP41c4-SP32](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP32.md)
 
 ---
 
@@ -567,7 +492,35 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Ratification Date for the Initial Proposal Set** - 2022-04-25
 - **Ratification Date for Offboarding** - 2022-10-24
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-events-001&orderDirection=ASC&hideParents=true&)
+
 ---
+
+#### Protocol Engineering (PE-001)
+
+- **Summary** - The Protocol Engineering Team’s responsibility is to extend the functionality of the Maker protocol, assist with the maintenance and operation of existing smart contracts, and ensure the safety and correctness of protocol design and implementation.
+- **Ratification Date for the Initial Proposal Set** - 2021-04-27
+- **Ratification Date for Offboarding** - 2023-04-30
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-pe-001&orderDirection=ASC&hideParents=true)
+
+---
+
+---
+
+#### Development and UX (DUX-001)
+
+- **Summary** - Enabling the best-in-class decentralized decision making for the Maker Protocol by providing a meaningful user experience for all governance participants.
+- **Ratification Date for the Initial ProposalSet** - 2021-09-27
+- **Ratification Date for Offboarding** - 2023-06-26
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-dux-001&orderDirection=ASC&hideParents=true)
+
+---
+
+#### Collateral Engineering Services (CES-001)
+
+- **Summary** - To operationalize collateral management within the Maker Protocol allowing anyone to onboard collateral while ensuring the stability and security of the ecosystem.
+- **Ratification Date for the Initial Proposal Set** - 2021-09-27
+- **Ratification Date for Offboarding** - 2023-06-19
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-ces-001&orderDirection=ASC&hideParents=true)
 
 ### MIP38c3: Endgame transition
 
