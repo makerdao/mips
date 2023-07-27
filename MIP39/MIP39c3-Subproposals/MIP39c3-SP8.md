@@ -13,15 +13,15 @@ Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip39c3-spx-removing-ces-001/21177
 ```
 
-# Sentence Summary
+## Sentence Summary
 This post notifies Governance of Collateral Engineering Services (CES-001) end of operations.
 
-# Paragraph Summary
+## Paragraph Summary
 With Core Units winding down, we are formally notifying Governance of our voluntary offboarding. Our core unit mandate is carried on by Dewiz.
 
-# Specification
+## Specification
 
-## Motivation
+### Motivation
 
 ### Core Unit Offboarding
 * CES does not have an active Dai budget. 
