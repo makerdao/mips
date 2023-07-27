@@ -6,11 +6,12 @@
 MIP39c3-SP#: 8
 Author(s): @retro
 Contributors:
-Tags: ces-001, offboarding
+Tags: cu-ces-001, offboarding
 Status: Accepted
 Date Proposed: 2023-06-19
-Date Ratified: N/A
-Forum URL: https://forum.makerdao.com/t/mip39c3-spx-removing-ces-001/21177
+Date Ratified: 2023-06-19
+Forum URL: https://forum.makerdao.com/t/mip39c3-sp8-removing-ces-001/21177
+Extra: Note that this is a voluntary offboarding.
 ```
 
 ## Sentence Summary
