@@ -1,58 +1,58 @@
 [
     {
-      abbreviation: 'AVC',
-      expansion: 'Aligned Voter Committee',
+      "abbreviation": "AVC",
+      "expansion": "Aligned Voter Committee",
     },
     {
-      abbreviation: 'AD',
-      expansion: 'Aligned Delegate',
+      "abbreviation": "AD",
+      "expansion": "Aligned Delegate",
     },
     {
-      abbreviation: 'AC',
-      expansion: 'Aligned Conserver',
+      "abbreviation": "AC",
+      "expansion": "Aligned Conserver",
     },
     {
-      abbreviation: 'CAIS',
-      expansion: 'Core Artificial Intelligence System',
+      "abbreviation": "CAIS",
+      "expansion": "Core Artificial Intelligence System",
     },
     {
-      abbreviation: 'DSR',
-      expansion: 'Dai Saving Rate',
+      "abbreviation": "DSR",
+      "expansion": "Dai Saving Rate",
     },
     {
-      abbreviation: 'EDSR',
-      expansion: 'Enhanced Dai Saving Rate',
+      "abbreviation": "EDSR",
+      "expansion": "Enhanced Dai Saving Rate",
     },
     {
-      abbreviation: 'EGF',
-      expansion: 'Easy Governance Frontend',
+      "abbreviation": "EGF",
+      "expansion": "Easy Governance Frontend",
     },
     {
-      abbreviation: 'GAIT',
-      expansion: 'Governance Artificial Intelligence Tools',
+      "abbreviation": "GAIT",
+      "expansion": "Governance Artificial Intelligence Tools",
     },
     {
-      abbreviation: 'GSL',
-      expansion: 'Governance Strategy Link',
+      "abbreviation": "GSL",
+      "expansion": "Governance Strategy Link",
     },
     {
-      abbreviation: 'LR',
-      expansion: 'Lawyer Registry',
+      "abbreviation": "LR",
+      "expansion": "Lawyer Registry",
     },
     {
-      abbreviation: 'PDM',
-      expansion: 'Protocol Delegation Module',
+      "abbreviation": "PDM",
+      "expansion": "Protocol Delegation Module",
     },
     {
-      abbreviation: 'PD',
-      expansion: 'Prime Delegate',
+      "abbreviation": "PD",
+      "expansion": "Prime Delegate",
     },
     {
-      abbreviation: 'RD',
-      expansion: 'Reserve Delegate',
+      "abbreviation": "RD",
+      "expansion": "Reserve Delegate",
     },
     {
-      abbreviation: 'RF',
-      expansion: 'Resilience Fund',
+      "abbreviation": "RF",
+      "expansion": "Resilience Fund",
     },
   ]
