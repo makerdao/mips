@@ -10,6 +10,7 @@ Tags: cu-gov-001, offboarding
 Status: Accepted
 Date Proposed: 2023-08-30
 Date Ratified: 2023-08-30
+Forum URL: https://forum.makerdao.com/t/mip39c3-sp10-removing-govalpha-core-unit/21809
 ```
 
 ## Sentence Summary
