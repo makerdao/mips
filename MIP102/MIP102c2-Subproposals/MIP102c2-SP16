@@ -1,0 +1,31 @@
+# MIP102c2-SP16: MIP Amendment Subproposal
+
+## Preamble
+
+```
+MIP102c2-SP#: 16
+MIP to be amended: 101, 104, 106, 113
+Author(s): @Rune
+Contributors:
+Tags: RFC
+Status: RFC
+Date Proposed: 2023-08-08
+Date Ratified: <yyyy-mm-dd>
+Forum URL: https://forum.makerdao.com/t/mip102c2-sp16-mip-amendment-subproposal/21579
+```
+## Specification
+
+### Motivation
+
+This subproposal seeks to make various updates to the Alignment Artifacts to prepare for Phase 1 of Endgame.
+
+### Amended MIPs and Components
+
+* MIP101
+* MIP104
+* MIP106
+* MIP113
+
+### Amendment Pull Request
+
+<https://github.com/makerdao/mips/pull/962>
