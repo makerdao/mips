@@ -138,30 +138,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
-#### GovAlpha (GOV-001)
-
-- **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
-- **Ratification Date for the Initial Proposal Set** - 2021-03-25
-
-##### Mandate
-
-- [MIP39c2-SP3](https://mips.makerdao.com/mips/details/MIP39c2SP3)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP59](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP59.md)
-    - **Ratification Date** - 2022-03-28
-    - **Budget Amount** - A total of 1,079,793 DAI will be streamed to 0x01D26f8c5cC009868A4BF66E268c17B057fF7A73 starting at 2022-04-01 and ending at 2023-04-01.
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP59 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP59.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP80](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP80.md)
-
-##### Facilitator(s)
-
-- Patrick_J - [MIP41c4-SP37](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP37.md)
-
----
-
 #### Growth (GRO-001)
 
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
@@ -504,8 +480,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
----
-
 #### Development and UX (DUX-001)
 
 - **Summary** - Enabling the best-in-class decentralized decision making for the Maker Protocol by providing a meaningful user experience for all governance participants.
@@ -521,6 +495,15 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Ratification Date for the Initial Proposal Set** - 2021-09-27
 - **Ratification Date for Offboarding** - 2023-06-19
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-ces-001&orderDirection=ASC&hideParents=true)
+
+---
+
+#### GovAlpha (GOV-001)
+
+- **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
+- **Ratification Date for the Initial Proposal Set** - 2021-03-25
+- **Ratification Date for Offboarding** - 2023-09-01
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-gov-001&orderDirection=ASC&hideParents=true)
 
 ### MIP38c3: Endgame transition
 
