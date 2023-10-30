@@ -505,6 +505,15 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Ratification Date for Offboarding** - 2023-09-01
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-gov-001&orderDirection=ASC&hideParents=true)
 
+---
+
+####  Immunefi Securidy (IS-001)
+
+- **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
+- **Ratification Date for Offboarding** - 2023-10-30
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-is-001&orderDirection=ASC&hideParents=true)
+
 ### MIP38c3: Endgame transition
 
 In case of conflict, this component supersedes other components in the MIP.
