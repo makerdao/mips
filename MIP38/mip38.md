@@ -290,32 +290,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
-#### Deco Fixed-Rate (DECO-001)
-
-- **Summary** - The Deco Protocol is a fixed-rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
-- **Ratification Date for the Initial Proposal Set** - 2021-11-22
-
-##### Mandate
-
-- [MIP39c2-SP23](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP35](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
-    - **Ratification Date** - 2021-11-22
-    - **Budget Amount**
-        - Initial seed transfer of 465,625 Dai
-        - 155,208.33 Dai/month streamed continuously
-    - **Budget Implementation** -
-    - **Budget Breakdown** - [MIP40c3-SP35 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP36](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
-
-##### Facilitator
-
-- Vamsi Alluri - [MIP41c4-SP24](https://mips.makerdao.com/mips/details/MIP41c4SP24)
-
----
-
 #### Immunefi Security (IS-001)
 
 - **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
@@ -417,7 +391,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ### Offboarded Core Units
 
-
 #### Governance Communications (COM-001)
 
 - **Summary** - The Governance Communications Core Unit performs a set of programs that focus on MakerDAO's informational accessibility, stakeholder coordination, and communication practices as a decentralized and public organization.
@@ -504,6 +477,17 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Ratification Date for the Initial Proposal Set** - 2021-03-25
 - **Ratification Date for Offboarding** - 2023-09-01
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-gov-001&orderDirection=ASC&hideParents=true)
+
+---
+
+#### Deco Fixed-Rate (DECO-001)
+
+- **Summary** - The Deco Protocol is a fixed-rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
+- **Ratification Date for Offboarding** - 2023-11-25
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-deco-001&orderDirection=ASC&hideParents=true)
+
+---
 
 ### MIP38c3: Endgame transition
 
