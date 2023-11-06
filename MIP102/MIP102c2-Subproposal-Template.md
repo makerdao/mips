@@ -28,7 +28,7 @@ Date Ratified: <yyyy-mm-dd>
 > 
 > If you seek to make Article 1 edits as well as General Edits to an Alignment Artifact, you must submit two separate MIP102c2 Subproposals.
 >
-> Please pick the appropriate alternative from the ones below; remove the other and these lines for the final version:
+> Please pick the appropriate alternative from the ones below; remove the unpicked alternative and this Note for Authors:
 
 - This MIP102c2 Subproposal seeks to amend Article 1 of a Scope Bounded Mutable Alignment Artifact. It is thus considered an Article 1 edit and cannot seek to amend any content except for Article 1.
 - This MIP102c2 Subproposal does not seek to amend Article 1 of a Scope Bounded Mutable Alignment Artifact. It is thus considered a General Edit. An MIP102c2 General Edit cannot modify Article 1 elements.
