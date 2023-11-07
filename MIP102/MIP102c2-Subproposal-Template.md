@@ -16,22 +16,21 @@ Date Ratified: <yyyy-mm-dd>
 
 ## Specification
 
-> **Note for authors**
+> **Instructions for Authors**
 >
-> A MIP102c2 Subproposal must be _either_ 1) an Article 1 Edit _or_ a 2) General Edit.
+> A MIP102c2 Subproposal must be either 1) an Article 1 Edit or a 2) General Edit.
 > 
 > If your MIP102c2 Subproposal seeks to amend Article 1 of a Scope Bounded Mutable Alignment Artifact, it is considered an Article 1 edit and cannot seek to amend any content except for Article 1.
 > 
 > If your MIP102c2 Subproposal does not seek to amend Article 1 of a Scope Bounded Mutable Alignment Artifact, it is considered a General Edit. An MIP102c2 General Edit cannot modify Article 1 > elements.
 > 
-> Please indicate in the Preamble whether your MIP102c2 Subproposal is an Article 1 Edit or a General Edit. 
+> Depending on what type of Subproposal you are submitting, please:
 > 
-> If you seek to make Article 1 edits as well as General Edits to an Alignment Artifact, you must submit two separate MIP102c2 Subproposals.
->
-> Please pick the appropriate alternative from the ones below; remove the unpicked alternative and this Note for Authors:
-
-- This MIP102c2 Subproposal seeks to amend Article 1 of a Scope Bounded Mutable Alignment Artifact. It is thus considered an Article 1 edit and cannot seek to amend any content except for Article 1.
-- This MIP102c2 Subproposal does not seek to amend Article 1 of a Scope Bounded Mutable Alignment Artifact. It is thus considered a General Edit. An MIP102c2 General Edit cannot modify Article 1 elements.
+> 1. Indicate in the Preamble whether your MIP102c2 Subproposal is an Article 1 Edit or a General Edit.
+> 2. Copy and paste one of the two sentences below to populate the Specification section. Remove all other "Instructions for Authors" content.
+> 
+> - This MIP102c2 Subproposal seeks to amend Article 1 of a Scope Bounded Mutable Alignment Artifact. It is thus considered an Article 1 edit and cannot seek to amend any content except for Article 1.
+> - This MIP102c2 Subproposal does not seek to amend Article 1 of a Scope Bounded Mutable Alignment Artifact. It is thus considered a General Edit. An MIP102c2 General Edit cannot modify Article 1 elements.
 
 ### Motivation
 
