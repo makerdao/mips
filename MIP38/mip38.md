@@ -290,35 +290,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
-#### Immunefi Security (IS-001)
-
-- **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
-- **Ratification Date for the Initial Proposal Set** - 2021-11-22
-
-
-##### Mandate
-
-- [MIP39c2-SP24](https://mips.makerdao.com/mips/details/MIP39c2SP24)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP58](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md)
-  - **Ratification Date** - 2022-02-28
-  - **Budget Amount**   
-      * 95,442.5 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2021-12-01
-      * 138,000 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2022-03-01
-      * A total of 366,562.50 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2021-12-01 and ending 2022-08-01
-      * A total of 207 000 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2022-03-01 and ending 2022-12-01
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP58 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP41](https://mips.makerdao.com/mips/details/MIP40c3SP41)
-
-##### Facilitator
-
-- Travin Keith - [MIP41c4-SP25](https://mips.makerdao.com/mips/details/MIP41c4SP25)
-
----
-
 #### Sidestream Auction Services (SAS-001)
 
 - **Summary** - Sidestream Auction Services's mission is to improve security, transparency, and accessibility of the Maker Protocol by providing and maintaining auction services through open-source development.
@@ -480,14 +451,21 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
+####  Immunefi Security (IS-001)
+
+- **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
+- **Ratification Date for Offboarding** - 2023-10-30
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-is-001&orderDirection=ASC&hideParents=true)
+
+---
+
 #### Deco Fixed-Rate (DECO-001)
 
 - **Summary** - The Deco Protocol is a fixed-rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
 - **Ratification Date for the Initial Proposal Set** - 2021-11-22
 - **Ratification Date for Offboarding** - 2023-11-25
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-deco-001&orderDirection=ASC&hideParents=true)
-
----
 
 ### MIP38c3: Endgame transition
 
