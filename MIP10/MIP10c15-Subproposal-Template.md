@@ -45,10 +45,10 @@ Date Ratified: <yyyy-mm-dd>
 **Verification** 
 - Were sufficient public-facing resources provided or found that confirm the information in the application?
 - Was the applicant honest with respect to:
-	- the investors
-	- how much funding was raised
-	- the number of employees
-	- the location of incorporation & domicile
+    - the investors
+    - how much funding was raised
+    - the number of employees
+    - the location of incorporation & domicile
 - Given the applicant's major investors, is there a risk adding this Light Feed would give a single investor too much influence over the Oracle protocol?
 - Given the incorporation and domicile location of the organization, is there a risk adding this Light Feed would give a single jurisdiction too much influence over the Oracle protocol?
 

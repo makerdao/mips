@@ -37,15 +37,15 @@ YFI/USD
 yearn finance - Andre Cronje (andre.cronje@yearn.finance)
 
 ### Whitelist
-	yearn finance - 0x208EfCD7aad0b5DD49438E0b6A0f38E951A50E5f - OSM
+    yearn finance - 0x208EfCD7aad0b5DD49438E0b6A0f38E951A50E5f - OSM
 
 ### Requirements
 For each customer address to be whitelisted:   
-	- Is the contract source code verified on etherscan? yes
-	- Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes   
-	- Is Oracle data written to storage? no
-		- If Oracle data is stored, is it stored in a private variable? not stored
-		- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? not stored
+    - Is the contract source code verified on etherscan? yes
+    - Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes   
+    - Is Oracle data written to storage? no
+        - If Oracle data is stored, is it stored in a private variable? not stored
+        - If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? not stored
 
 ### Fee
 yearn finance - ROMP

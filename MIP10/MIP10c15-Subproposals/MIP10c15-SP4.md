@@ -53,10 +53,10 @@ Yes. Gitcoin dates back to 2017 and has had a strong presensce within the ecosys
 - What contributions has this organization made to the crypto ecosystem?
 
 Most notably it has created a coordination platform for sustainable funding for open source initiatives. This is critical for the Ethereum community which is based on the principles of open source and distributed work between remote entities. Gitcoin Grants provide a unique combination of benefits including:
-	empowering developers to monetize their open source contributions    
-	enabling projects to incentivize developers to learn and hack on their platform    
-	allowing employers to vet potential candidates through real deliverables    
-	creating a method for crowdsourcing features and applications desired by a community     
+    empowering developers to monetize their open source contributions    
+    enabling projects to incentivize developers to learn and hack on their platform    
+    allowing employers to vet potential candidates through real deliverables    
+    creating a method for crowdsourcing features and applications desired by a community     
 
 - Would including the organization as a Light Feed instill a sense of trust in the Oracles?
 
@@ -120,5 +120,5 @@ The Oracle Team recommends that Maker Governance ratify the proposal to appoint 
 Gitcoin is an established member of the Ethereum tribe on a mission to create sustainable funding for open source. Dai is an integral part of the Gitcoin platform. Since its inception grants totalling $2,214,536 Sai/Dai have been awarded accounting for over 70% of all awarded grants. There is a clear alignement of incentives between Gitcoin providing trusted pricing data to the MakerDAO Oracles and Gitcoin's dominating use of Dai on its platform. The Oracle Team was able to verify most of the information provided by Kevin in the MIP10c14 Light Feed application. No confirmed cases of misconduct related to the organization were found.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

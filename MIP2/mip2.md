@@ -63,7 +63,7 @@ As a result, the community should prioritize getting the initial processes in pl
 **Interim Phase 1 commences when the governance timing vote elects that the initial MIPs should proceed with the ratification vote. During Interim Phase 1, the following logic overrides that defined in MIP0:**
 1. The Feedback Period and Frozen Period defined in MIP0 are ignored for both MIPs and Subproposals.
 2. Multiple MIPs and Subproposals and can be voted in with a single vote.
-	- Before the vote, alternatives to the MIPs within the MIP Set can be proposed if they interface correctly with all the other MIPs within the Set.
+    - Before the vote, alternatives to the MIPs within the MIP Set can be proposed if they interface correctly with all the other MIPs within the Set.
 
 **During Interim Phase 1, the following additional logic is applied to the MIPs process defined in MIP0:**
 1. A single vote approves or rejects all MIPs and Subproposals during phase 1.

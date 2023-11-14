@@ -170,9 +170,9 @@ The budget is split into three separate categories: `Permanent Team`, `Grants Pr
 
 2. **The Operational Wallets** -- One wallet for each budget category. These are 2-out-of-3 multi-sigs controlled by SES. Signers include the facilitator, the team lead, and one other SES member from the permanent team, responsible for the associated budget category.
 
-	* The `Permanent Team Wallet`
-	* The `Grants Program Wallet`
-	* The `Incubation Program Wallet`
+    * The `Permanent Team Wallet`
+    * The `Grants Program Wallet`
+    * The `Incubation Program Wallet`
 
 #### Monthly Budget Statement
 

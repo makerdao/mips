@@ -66,13 +66,13 @@ Yes Argent provided numerous sources backed by credible organizations.
 
 - Was the applicant honest with respect to:
    - the investors  
-	- how much funding was raised
+    - how much funding was raised
 
          The Oracle Team found over a dozen sources via a simple [Google Search](https://www.google.com/search?q=argent+series+A&oq=argent+series+A&aqs=chrome..69i57.6186j1j4&sourceid=chrome&ie=UTF-8) confirming the investors as well as the amount raised
-	- the number of employees
+    - the number of employees
 
          The Oracle Team found [25 individuals on LinkedIn](https://www.linkedin.com/search/results/people/?facetCurrentCompany=%5B%2211414677%22%5D) claiming to have current or past associations with Argent. 
-	- the location of incorporation & domicile
+    - the location of incorporation & domicile
        
       The Oracle Team was able to confirm the existence of Argent Labs Limited registered in the United Kingdom at address 9th Floor 107 Cheapside, London, United Kingdom, EC2V 6DN through the [U.K. Companies House Register](https://beta.companieshouse.gov.uk/company/11093638) with Company Number 11093638 and registered on 4 December 2017 as stated in Argent's application.
 

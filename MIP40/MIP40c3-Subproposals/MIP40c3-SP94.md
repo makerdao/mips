@@ -36,12 +36,12 @@ Amounts in the plan will be updated as soon as possible pending feedback from MK
 
 
 ### Vesting Details
-| Property | 	Value |
+| Property |     Value |
 |----------|----------|
 |MKR/USD lock-in Price (New)|Trailing 6-month average|
 |MKR/USD lock-in Price (OG)|MKR = $734.08 (8/8/22 - 2/8/23)|
 |Vesting Period|3 years|
-|Cliff Vest|	12 months|
+|Cliff Vest|    12 months|
 |Vesting Schedule|After the cliff has expired, the monthly MKR amount vests every month
 |Manual Repricing|yes, at a maximum discount of 30%|
 |Auto-Renewal|yes|

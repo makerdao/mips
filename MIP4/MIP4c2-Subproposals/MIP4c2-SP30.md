@@ -55,9 +55,9 @@ This change should not impact any other MIPs.
 **General Note on Governance Involvement**
 * This change reduces the input Maker Governance has over Interim Facilitator selection in favor of speed and maintaining continuity.
 * Empowering the existing Facilitators in this way should be safe given:
-	* The power Maker Governance exercises over funds.
-	* A majority of Facilitators are honest actors.
-	* Interim Appointments are time-limited.
+    * The power Maker Governance exercises over funds.
+    * A majority of Facilitators are honest actors.
+    * Interim Appointments are time-limited.
 
 ### Amendment Pull Request
 

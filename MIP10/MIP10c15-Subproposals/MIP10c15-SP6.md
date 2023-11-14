@@ -68,11 +68,11 @@ It's important to acknowledge the team behind MyEtherWallet team transitioned to
 The Oracle Team was able to identify the existence of the Delaware C Corp MyCrypto through the [Delaware Division of Corporations Register](https://icis.corp.delaware.gov/ecorp/entitysearch/NameSearch.aspx) with file number 6673533 and registered on 12/6/2017. There is a minor discrepancy here as the applicant claimed to be incorporated in 2018
 
 - Was the applicant honest with respect to:
-	- the investors
+    - the investors
         The Oracle Team was able to confirm the investors from both the source provided by the applicant as well as external sources including [Polychain](https://jobs.polychain.capital/companies), [ShapeShift](https://www.crunchbase.com/funding_round/mycrypto-series-a--d1c7877a#section-investors), [BoostVC](https://www.boost.vc/portfolio), [Ausum Ventures](https://www.ausum.vc/portfolio), [Albert Ni](https://www.crunchbase.com/person/albert-ni#section-overview), [Mick Hagen](https://www.crunchbase.com/person/mick-hagen#section-overview), [Chance Du](https://www.crunchbase.com/person/chance-du#section-overview), and [Lily Liu](https://www.crunchbase.com/person/lily-liu-0251#section-personal-investments)
-	- how much funding was raised
-	- the number of employees
-	- the location of incorporation & domicile
+    - how much funding was raised
+    - the number of employees
+    - the location of incorporation & domicile
 
 - Given the applicant's major investors, is there a risk adding this Light Feed would give a single investor too much influence over the Oracle protocol?
 The Oracle Team does not see any conflict of interest arising from amount of influence any single investor may have.

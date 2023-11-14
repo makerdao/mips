@@ -58,10 +58,10 @@ All the amounts in the table below and in this section represent the amount requ
 ![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP47/breakdown-table1.png)
 
 - **Salaries:**
-	- 1 full-time Facilitator
-	- 2 full-time Senior Engineers who are familiar with Cairo and Maker, with prior knowledge of Solidity and validity proofs
-	- 1 Junior Engineer with a focus on Cairo development
-	- 1 part-time Front-end Engineer for 3 months
+    - 1 full-time Facilitator
+    - 2 full-time Senior Engineers who are familiar with Cairo and Maker, with prior knowledge of Solidity and validity proofs
+    - 1 Junior Engineer with a focus on Cairo development
+    - 1 part-time Front-end Engineer for 3 months
 
 ![](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP47/breakdown-table2.png)
 

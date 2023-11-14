@@ -176,17 +176,17 @@ The Total Budget Cap for the Cycle is **$1,479,696**, spanning a 6 month Cycle. 
 
 | **Summary**                | Q1 - Q2        | Q3             | Q4             | 12 Months      |
 | -------------------------- | -------------: | -------------: | -------------: | -------------: |
-| Salary + Benefits + Taxes* |	     $960,781 |       $658,125 |       $658,125 |     $2,277,031 |
-| Travel                     |	      $32,000 |        $24,000 |        $24,000 |        $80,000 |
-| Hardware                   |	      $17,500 |         $3,500 |             $0 |        $21,000 |
-| IT & Subscriptions         |	      $25,000 |        $12,500 |        $12,500 |        $50,000 |
-| Referral & Sign-on Expense |	     $125,000 |        $50,000 |             $0 |       $175,000 |
-| Audits                     |	           $0 |             $0 |             $0 |             $0 |
-| Bug Bounty                 |	           $0 |             $0 |             $0 |             $0 |
-| Gas Costs                  |	      $11,250 |         $5,625 |         $5,625 |        $22,500 |
-| SC Verification & QA       |	           $0 |             $0 |             $0 |             $0 |
-| Professional Services      |	     $100,000 |        $25,000 |        $25,000 |       $150,000 |
-| Contingency Buffer         |	     $208,165 |       $104,082 |       $104,082 |       $416,330 |
+| Salary + Benefits + Taxes* |         $960,781 |       $658,125 |       $658,125 |     $2,277,031 |
+| Travel                     |          $32,000 |        $24,000 |        $24,000 |        $80,000 |
+| Hardware                   |          $17,500 |         $3,500 |             $0 |        $21,000 |
+| IT & Subscriptions         |          $25,000 |        $12,500 |        $12,500 |        $50,000 |
+| Referral & Sign-on Expense |         $125,000 |        $50,000 |             $0 |       $175,000 |
+| Audits                     |               $0 |             $0 |             $0 |             $0 |
+| Bug Bounty                 |               $0 |             $0 |             $0 |             $0 |
+| Gas Costs                  |          $11,250 |         $5,625 |         $5,625 |        $22,500 |
+| SC Verification & QA       |               $0 |             $0 |             $0 |             $0 |
+| Professional Services      |         $100,000 |        $25,000 |        $25,000 |       $150,000 |
+| Contingency Buffer         |         $208,165 |       $104,082 |       $104,082 |       $416,330 |
 | **Total**                  | **$1,479,696** |   **$882,832** |   **$829,332** | **$3,191,861** |
 
 A few notes about the Budget Detail:

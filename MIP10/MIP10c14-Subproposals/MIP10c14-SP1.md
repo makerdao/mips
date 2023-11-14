@@ -57,5 +57,5 @@ Apart from Kyber Network, the various founders have been involved in:
 The Kyber team have gained valuable experience building one of the largest liquidity providers to the DeFi space over the last three years, and their addition as a stakeholder to the trustless Oracles further contributes to the strengthening of the expertise and know-how within the MakerDAO ecosystem.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

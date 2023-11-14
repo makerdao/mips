@@ -102,7 +102,7 @@ Fees and costs will be deducted from the loan’s interest income.
 * Immediately converted via PSM to DAI
 * DAI Immediately paid into Surplus Buffer
 
-***Monthly Interest Cash flow Estimate:   	500M  x  ~5%  x  ~1/12 	~      	2.1M***
+***Monthly Interest Cash flow Estimate:       500M  x  ~5%  x  ~1/12     ~          2.1M***
 
 ### MIP82c2: Verification Conditions for Collateral Onboarding
 
