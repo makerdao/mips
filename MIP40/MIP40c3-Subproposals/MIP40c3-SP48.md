@@ -34,12 +34,12 @@ We used [“Alternative MKR Compensation Guidelines”](https://forum.makerdao.c
 
 ## Vesting Details
 
-| Property | 	Value |
+| Property |     Value |
 |----------|----------|
 |MKR/USD lock-in Price (New)|Trailing 2-month average|
 |MKR/USD lock-in Price (OG)|MKR = $2,605 (10/1/21 - 12/1/21)|
 |Vesting Period|3 years|
-|Cliff Vest|	12 months|
+|Cliff Vest|    12 months|
 |Vesting Schedule|After the cliff has expired, the quarterly MKR amount vests every 3 months and is distributed on July/Oct/Jan/Apr 1st, depending on each individual full-time onboarding|
 |Manual Repricing|yes|
 |Auto-Renewal|yes|
@@ -54,7 +54,7 @@ Manual repricing allows any contributor of SF-001 to calculate a new MKR/USD loc
 
 |Date|MKR Total|
 |--|--|
-|April 2022|	80|
+|April 2022|    80|
 |July 2022|20|
 |September 2022|80|
 |October 2022|20|

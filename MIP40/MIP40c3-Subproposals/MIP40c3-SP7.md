@@ -64,19 +64,19 @@ This budget secures a team of 11 - 16 full-time and part-time smart contract eng
 
 |Summary||
 | --- | --- |
-|Salaries |	$4,240,250|
-|Healthcare |	$228,000|
-|Travel |	$180,000|
-|Hardware |	$45,000|
-|Referral & Sign-on Expense |	$100,000|
-|Audits |	$375,000|
-|Bug Bounty |	$100,000|
-|Gas Costs |	$150,000|
-|SC Verification & Quality Assurance |	$376,000|
-|Legal and Operating expenses |	$28,500|
-|Contingency Buffer |	$297,250|
+|Salaries |    $4,240,250|
+|Healthcare |    $228,000|
+|Travel |    $180,000|
+|Hardware |    $45,000|
+|Referral & Sign-on Expense |    $100,000|
+|Audits |    $375,000|
+|Bug Bounty |    $100,000|
+|Gas Costs |    $150,000|
+|SC Verification & Quality Assurance |    $376,000|
+|Legal and Operating expenses |    $28,500|
+|Contingency Buffer |    $297,250|
 |||
-|Total|	$6,120,000|
+|Total|    $6,120,000|
 
 Illustrating these details as a percentage of the total budget request for overall comparison:
 

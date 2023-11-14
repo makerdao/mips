@@ -32,6 +32,6 @@ Date Ratified: <yyyy-mm-dd>
       - Feed is proven to attempt or succeeded in buying / selling the Feed.
       - Institution backing a Light Feed is proven to engage in dishonest behavior
       - A Dark Feed's identity is doxed in the public domain
-    				
+                    
 ### Relevant Information
 -  Links to evidence further backing the motivation behind the removal of the Oracle.

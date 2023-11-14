@@ -55,5 +55,5 @@ Infura has always been a free service for developers to get an easy entry into E
 Infura will be a trusted addition to the existing oracle light feed providers. Our reputation will add to the already robust group of stakeholders.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

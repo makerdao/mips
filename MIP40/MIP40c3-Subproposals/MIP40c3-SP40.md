@@ -87,12 +87,12 @@ Governance Communications Continuous Operation multi-sig: `0x99E1696A680c0D9f426
 - Implementation: This multi-sig was already funded in full upon successful onboarding of the Governance Communications Core Unit.
 - Access: In order for funds to be accessed from this multi-sig, the Maker protocol must be in a state where it is unable to pay team salaries due to protocol error, shutdown and/or under governance attack.
 - Ownership: The Continuous Operation multi-sig will require 3 of 6 signatures from the following keyholders. This may be expanded to other critical Core Units as they are formed:
-	- `DavidUtro (COM-001): 0xE91f4F5834bB9312A45B2bd75804b32CC3DA8fd3`
-	- `LongForWisdom (GOV-001) : 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
-	- `Primoz (RISK-001): 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c`
-	- `SebVentures (RWF-001): 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
-	- `Brian McMichael (PE-001): 0xC0dE1AB51082442f821bA273273B4F7d32521D8b`
-	- `Nik Kunkel (ORA-001): 0xB4CFf22c0d5a015460Fd503a9328Bf00a24f686c`
+    - `DavidUtro (COM-001): 0xE91f4F5834bB9312A45B2bd75804b32CC3DA8fd3`
+    - `LongForWisdom (GOV-001) : 0x66f40F044E0e2F77bB746e3275E82e88dCBA2D69`
+    - `Primoz (RISK-001): 0x5d67d5B1fC7EF4bfF31967bE2D2d7b9323c1521c`
+    - `SebVentures (RWF-001): 0x0D61C8b6CA9669A36F351De3AE335e9689dd9C5b`
+    - `Brian McMichael (PE-001): 0xC0dE1AB51082442f821bA273273B4F7d32521D8b`
+    - `Nik Kunkel (ORA-001): 0xB4CFf22c0d5a015460Fd503a9328Bf00a24f686c`
 
 #### Continuous Operation
 

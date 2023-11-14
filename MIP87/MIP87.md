@@ -123,7 +123,7 @@ If the contract in MIP87c3 holds less than $100M OUSD, it will still receive the
 
 Although Origin Protocol operates in a decentralized fashion, Origin has taken every possible step to be fully compliant with the laws and regulations of the countries utilizing Origin products. Available upon request, are legal documents including Origin’s business licenses, AML policy, Terms of Service, and token legal opinions for the USA and Cayman Islands from reputable counsel.
 
-There are no lockups, terms, contracts, conditions, or vesting periods with OUSD - withdrawal control is completely in the hands of the Maker team, Maker governance, and MKR holders. MakerDAO can unwind its investment, including in stressed market situations, at the speed of the Ethereum blockchain, without having to involve the Origin team.	
+There are no lockups, terms, contracts, conditions, or vesting periods with OUSD - withdrawal control is completely in the hands of the Maker team, Maker governance, and MKR holders. MakerDAO can unwind its investment, including in stressed market situations, at the speed of the Ethereum blockchain, without having to involve the Origin team.    
 
 ### MIP87c6: Aligning with Maker’s Core Principles
 

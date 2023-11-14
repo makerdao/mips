@@ -116,5 +116,5 @@ Yes.
 The Oracle Team recommends that Maker Governance ratify the proposal to appoint Kyber Network as a Light Feed for the Maker Oracles. Kyber Network has a strong brand and reputation in the ecosystem which are the primary requirements to look for in a potential Feed partner. The Oracle Team was able to verify the information provided by Deniz Omer in the MIP10c14 Light Feed application through government public records and cursory googling. No confirmed cases of misconduct related to the organization were found.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

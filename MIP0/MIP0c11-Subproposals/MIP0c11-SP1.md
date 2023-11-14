@@ -26,21 +26,21 @@ MIP0c11-SP1 onboards Charles St.Louis as MIP Editor.
     - Lastly, I would like to note that the expectation is that the MIPs Framework will start out with a MIP Editor from the Maker Foundation (myself) and that other MIP Editors will join later.
     
 - **Credentials**
-	- **Work Experience**
-		- **Current:** 
-			- **Decentralized Governance Architect @ Maker Foundation**
-				- Responsible for the initiative to further research, architect, and formalize Maker Governance processes on behalf of the Maker Foundation ([Self-Sustaining Maker](https://forum.makerdao.com/t/the-maker-foundation-s-vision-of-a-self-sustaining-makerdao-initiation-of-maker-improvement-proposals-mips-framework/1882)).
-				- Other relevant **public** work: 
-					- [docs.makerdao.com](http://docs.makerdao.com/)
-					- Contributor [blog.makerdao.com](https://blog.makerdao.com/)
-					- Contributor [MCD Whitepaper](https://makerdao.com/en/whitepaper) 
-					- Contributor [Developer Guides](https://github.com/makerdao/developerguides) 
-					- [security.makerdao.com](http://security.makerdoa.com/)
-			- **PM @ Ethereum Cat Herders** (Volunteer / Community Contributor) 
-				- This includes helping out with technical audit coordination, advisor/editor of Ethereum.org, developer growth initiatives, creating PM processes and retroactive reports, and relaying information between Ethereum Core Dev teams.
-		- **Past:** 
-		    - Independent technical consultant and advisor
-			- Developer Experience Lead @ Polymath Network
+    - **Work Experience**
+        - **Current:** 
+            - **Decentralized Governance Architect @ Maker Foundation**
+                - Responsible for the initiative to further research, architect, and formalize Maker Governance processes on behalf of the Maker Foundation ([Self-Sustaining Maker](https://forum.makerdao.com/t/the-maker-foundation-s-vision-of-a-self-sustaining-makerdao-initiation-of-maker-improvement-proposals-mips-framework/1882)).
+                - Other relevant **public** work: 
+                    - [docs.makerdao.com](http://docs.makerdao.com/)
+                    - Contributor [blog.makerdao.com](https://blog.makerdao.com/)
+                    - Contributor [MCD Whitepaper](https://makerdao.com/en/whitepaper) 
+                    - Contributor [Developer Guides](https://github.com/makerdao/developerguides) 
+                    - [security.makerdao.com](http://security.makerdoa.com/)
+            - **PM @ Ethereum Cat Herders** (Volunteer / Community Contributor) 
+                - This includes helping out with technical audit coordination, advisor/editor of Ethereum.org, developer growth initiatives, creating PM processes and retroactive reports, and relaying information between Ethereum Core Dev teams.
+        - **Past:** 
+            - Independent technical consultant and advisor
+            - Developer Experience Lead @ Polymath Network
 
 
 - **Relevant Information**

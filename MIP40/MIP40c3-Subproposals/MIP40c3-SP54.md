@@ -66,7 +66,7 @@ Reasons why the Actual MKR Expenditure could rise closer to the MKR Expenditure 
 - Price floor: -30%. If any Contributor chose to reprice their program, they could do it at a maximum of -30% from the set MKR price.
 
 ### Payment Implementation
-		
+        
 ![Wallet setup](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/supporting_materials/MIP40c3-SP54/wallet-setup.png)
 
 - As defined in [MIP40c3-SP53](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP53.md) and in the [Monthly Budget Statement](https://github.com/MakerOps/tocu-transparency-reporting) will contain the MKR vesting schedule. This schedule specifies when in the future MKR is vesting, and how much.

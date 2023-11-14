@@ -134,8 +134,8 @@ To run the test suite, follow the instructions in the following `README` [here.]
 This is a small upgrade to the Auction Contracts; thus, the implementation risks are minimal. Due to this, any security-relevant design information, decisions, or potential failure modes can be found in the already existing Maker Protocol documentation. More specifically:
 
 - [System Stabilizer Module Documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module#4-gotchas-potential-sources-of-user-error)
-	- [Flopper Documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flop-detailed-documentation#4-gotchas-potential-source-of-user-error)
-	- [Flapper Documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation#4-gotchas-potential-source-of-user-error)
+    - [Flopper Documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flop-detailed-documentation#4-gotchas-potential-source-of-user-error)
+    - [Flapper Documentation](https://docs.makerdao.com/smart-contract-modules/system-stabilizer-module/flap-detailed-documentation#4-gotchas-potential-source-of-user-error)
 - [Collateral Module Documentation](https://docs.makerdao.com/smart-contract-modules/collateral-module#4-gotchas-potential-sources-of-user-error)
     - [Flipper Documentation](https://docs.makerdao.com/smart-contract-modules/collateral-module/flipper-detailed-documentation#4-gotchas-potential-source-of-user-error)
 ---

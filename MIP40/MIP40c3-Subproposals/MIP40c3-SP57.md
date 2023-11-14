@@ -136,15 +136,15 @@ The Total Budget Cap is **2,780,562**, spanning a 12-month Cycle of Q2 2022-Q1 2
 
 | Summary                       | Q2 2022        | Q3 2022        | Q4 2022        | Q1 2023        | 12 Months      |
 | --------------------------        | -------------: | -------------: | -------------: | -------------: | -------------: |
-| Compensation                      |	     477,500 |        477,500 |        477,500 |        477,500 |  **1,910,000** |
-| Benefits, Taxes, Retention, Other |	      51,481 |         59,858 |         76,611 |         76,611 |    **264,562** |
-| Travel                            |	      24,000 |         24,000 |         24,000 |         24,000 |     **96,000** |
-| Hardware                          |	      30,000 |          3,333 |          3,333 |          3,333 |     **40,000** |
-| IT & Subscriptions                |	       9,000 |          9,000 |          9,000 |          9,000 |     **36,000** |
-| Gas Costs                         |	      16,000 |         16,000 |         16,000 |         16,000 |     **64,000** |
-| Professional Services             |	      20,000 |         20,000 |         20,000 |         20,000 |     **80,000** |
-| Audits                            |	      37,500 |         37,500 |         37,500 |         37,500 |    **150,000** |
-| Contingency Buffer                |	      35,000 |         35,000 |         35,000 |         35,000 |    **140,000** |
+| Compensation                      |         477,500 |        477,500 |        477,500 |        477,500 |  **1,910,000** |
+| Benefits, Taxes, Retention, Other |          51,481 |         59,858 |         76,611 |         76,611 |    **264,562** |
+| Travel                            |          24,000 |         24,000 |         24,000 |         24,000 |     **96,000** |
+| Hardware                          |          30,000 |          3,333 |          3,333 |          3,333 |     **40,000** |
+| IT & Subscriptions                |           9,000 |          9,000 |          9,000 |          9,000 |     **36,000** |
+| Gas Costs                         |          16,000 |         16,000 |         16,000 |         16,000 |     **64,000** |
+| Professional Services             |          20,000 |         20,000 |         20,000 |         20,000 |     **80,000** |
+| Audits                            |          37,500 |         37,500 |         37,500 |         37,500 |    **150,000** |
+| Contingency Buffer                |          35,000 |         35,000 |         35,000 |         35,000 |    **140,000** |
 | **Total**                         |    **700,481** |    **682,191** |    **698,945** |    **698,945** |  **2,780,562** |
 
 
@@ -173,13 +173,13 @@ The team consists of eight full- and two part-time Core Unit contributors. As of
 
 #### Team Summary for Q2 2022 - Q1 2023
 
-| **Team Members**	                  |      |
+| **Team Members**                      |      |
 |                                 --- | ---: |
 | _Full Time_                         |      |
-| Core Unit Facilitator/Team Lead     |	    1|
-| Technical Product Owner             |	    1|
+| Core Unit Facilitator/Team Lead     |        1|
+| Technical Product Owner             |        1|
 | Solutions Architect                 |     1|
-| Engagement Manager                  |	    1|
+| Engagement Manager                  |        1|
 | Lead Engineer                       |     1|
 | Software Engineer                   |     3|
 | _Part Time_                         |      |

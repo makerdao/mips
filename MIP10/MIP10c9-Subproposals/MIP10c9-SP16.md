@@ -32,15 +32,15 @@ In order for the automation features to be trustless and verifiable on-chain, Oa
 Oasis.app - chris@oasis.app
 
 ### Whitelist
-	Oasis.app - 0x55Dc2Be8020bCa72E58e665dC931E03B749ea5E0 - OSM
+    Oasis.app - 0x55Dc2Be8020bCa72E58e665dC931E03B749ea5E0 - OSM
 
 ### Requirements
 For each customer address to be whitelisted:   
-	- Is the contract source code verified on Etherscan? yes  
-	- Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes
-	- Is Oracle data written to storage? no  
-		- If Oracle data is stored, is it stored in a private variable? n/a  
-		- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? n/a  
+    - Is the contract source code verified on Etherscan? yes  
+    - Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes
+    - Is Oracle data written to storage? no  
+        - If Oracle data is stored, is it stored in a private variable? n/a  
+        - If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? n/a  
 
 ### Fee
 In accordance with the Responsible Oracle Migration Proposal, fees are waived for the first year and determined by MKR Governance after that.

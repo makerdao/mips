@@ -114,5 +114,5 @@ Yes.
 The Oracle Team recommends that Maker Governance ratify the proposal to appoint Infura as a Light Feed for the Maker Oracles. Infura's reputation within the industry as the backbone of connectivity to the Ethereum blockchain, present in everyday services like MetaMask, makes them a clear favorite to partner with to decentralize and secure Maker’s Oracles. Being owned by Consensys, itself founded and led by Ethereum cofounder Joe Lubin, just further cements the trustworthiness of Infura. The Oracle Team was able to verify the claims made by Infura in their application.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

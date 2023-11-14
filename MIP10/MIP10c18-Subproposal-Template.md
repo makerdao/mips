@@ -21,17 +21,17 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Feed Stipend Model
 - How does the proposed model work?
-	- Is the Feed Stipend static or dynamic?
-	- Is it a flat amount for all Feeds?
-	- Do Dark Feeds and Light Feeds get paid different amounts?
-	- Is the amount based on seniority?
-	- Should the amount be raised to increase security?
-	- Should the amount be lowered to reduce costs?
-	- Is the Feed Stipend higher for Feeds exhibiting higher than average uptime and lower for Feeds exhibiting lower than average uptime?
-	- Is the Feed Stipend proportional to the Dai supply?
-	- Is the Feed Stipend proportional to the value of locked collateral?
-	- Is the Feed Stipend inversely proportional to the number of Feeds?
-	- Is the Feed Stipend proportional to the amount of stability fees?
+    - Is the Feed Stipend static or dynamic?
+    - Is it a flat amount for all Feeds?
+    - Do Dark Feeds and Light Feeds get paid different amounts?
+    - Is the amount based on seniority?
+    - Should the amount be raised to increase security?
+    - Should the amount be lowered to reduce costs?
+    - Is the Feed Stipend higher for Feeds exhibiting higher than average uptime and lower for Feeds exhibiting lower than average uptime?
+    - Is the Feed Stipend proportional to the Dai supply?
+    - Is the Feed Stipend proportional to the value of locked collateral?
+    - Is the Feed Stipend inversely proportional to the number of Feeds?
+    - Is the Feed Stipend proportional to the amount of stability fees?
 
 ### Supporting Data
 - Empirical data supporting your Feed Stipend Model

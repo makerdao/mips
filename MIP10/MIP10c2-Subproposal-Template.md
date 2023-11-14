@@ -25,8 +25,8 @@ Date Ratified: <yyyy-mm-dd>
 
 ### Requirements
 For each address to be whitelisted:
-	- Is contract source code verified on Etherscan? <yes/no>
-	- Is Oracle data used in a permissioned manner that would prevent parasitic behavior? <yes/no>
-	- Is Oracle data written to storage? <yes/no>
-		- If Oracle data is stored, is it stored in a private variable? <yes/no>
-		- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? <yes/no>
+    - Is contract source code verified on Etherscan? <yes/no>
+    - Is Oracle data used in a permissioned manner that would prevent parasitic behavior? <yes/no>
+    - Is Oracle data written to storage? <yes/no>
+        - If Oracle data is stored, is it stored in a private variable? <yes/no>
+        - If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? <yes/no>

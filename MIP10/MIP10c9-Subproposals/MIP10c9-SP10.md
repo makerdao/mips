@@ -30,15 +30,15 @@ BTC/USD
 yearn finance - Andre Cronje (andre.cronje@yearn.finance)
 
 ### Whitelist
-	yearn finance - 0x82c93333e4E295AA17a05B15092159597e823e8a - OSM
+    yearn finance - 0x82c93333e4E295AA17a05B15092159597e823e8a - OSM
 
 ### Requirements
 For each customer address to be whitelisted:   
-	- Is the contract source code verified on etherscan? yes
-	- Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes   
-	- Is Oracle data written to storage? no
-		- If Oracle data is stored, is it stored in a private variable? not stored
-		- If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? not stored
+    - Is the contract source code verified on etherscan? yes
+    - Is the Oracle data used in a permissioned manner that would prevent parasitic behavior? yes   
+    - Is Oracle data written to storage? no
+        - If Oracle data is stored, is it stored in a private variable? not stored
+        - If Oracle data is stored, is the value accessible on-chain exclusively by the protocol? not stored
 
 ### Fee
 

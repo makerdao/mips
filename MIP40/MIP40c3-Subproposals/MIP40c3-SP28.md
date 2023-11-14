@@ -76,9 +76,9 @@ For any budget request beyond December 2021, new sub proposals will be submitted
 * Core Unit wallet address: 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1
 * Keyholder: @badgerofthe9d - 0x83626A05588bbA91DAeDE52346E5282d123e0280
 * **The first disbursement requested is DAI 210,275, which includes**:
-	* DAI 75,000 on October 5th - one-off setup including gas cost, audit fee, and bug bounty. To be included in the executive vote on October 1st
-	* **Monthly transfers**
-		* DAI 3*45,125 streaming - October 1th - December 31th - includes salaries and buffer
+    * DAI 75,000 on October 5th - one-off setup including gas cost, audit fee, and bug bounty. To be included in the executive vote on October 1st
+    * **Monthly transfers**
+        * DAI 3*45,125 streaming - October 1th - December 31th - includes salaries and buffer
 
 #### Starkware payments
 

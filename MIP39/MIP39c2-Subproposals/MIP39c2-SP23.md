@@ -32,15 +32,15 @@ Stability fee volatility means that vault owners are unable to accurately predic
 
 The Deco protocol, in collaboration with MakerDAO, can offer fixed-rate vaults to Maker vault users. By using fixed rates, Maker may smooth out its revenue and achieve some predictability in its cash flow. This proposed integration brings the following immediate benefits to the MakerDAO ecosystem:
 
-*	Boost supply of DAI.
-*	Develop an immediate and reliable revenue stream for MakerDAO.
-*	Attract MakerDAO prospective users who may be intolerant of rate volatility.
-*	Provide a novel product for the Growth Core Unit.
-*	Enhance vault owner capital and operational efficiency.
-*	Improve vault owner retention and discourage vault migration.
-*	Introduce rate-predictability.
-*	Allow stability fees to be discovered by the market through auctions.
-*	Maker may now lock in vault owners and be able to reliably cover its fixed operating costs through the upfront sale of Fee tokens.
+*    Boost supply of DAI.
+*    Develop an immediate and reliable revenue stream for MakerDAO.
+*    Attract MakerDAO prospective users who may be intolerant of rate volatility.
+*    Provide a novel product for the Growth Core Unit.
+*    Enhance vault owner capital and operational efficiency.
+*    Improve vault owner retention and discourage vault migration.
+*    Introduce rate-predictability.
+*    Allow stability fees to be discovered by the market through auctions.
+*    Maker may now lock in vault owners and be able to reliably cover its fixed operating costs through the upfront sale of Fee tokens.
 
 This proposal is for the creation of the Deco Fixed Core Unit and the addition of a new product for MakerDAO by the integration of the [Deco Protocol](https://deco.money/): Fixed Rate Vaults via Deco Protocol. 
 
@@ -77,12 +77,12 @@ By keeping regular vaults virtually untouched throughout the process, we ensure 
 
 The benefits of integration to vault owners and the MakerDAO, include:
 
-1.	**Fixed Stability Fee**: Once purchased, the token issued by Deco and MakerDAO will offset the stability fee with limit to any increase as there is no upper limit.
-2.	**No Vault Management Changes**: Vault owners do not have to make any changes to their vault ownership or management.
-3.	**New Revenue Stream**: This protocol provides a stable and predictable income stream in the form of fixed-rate risk premiums for MakerDAO and gives it the ability to upsell new products to the largest vault owners, and future RWA vaults which also tend to borrow at scale.
-4.	**Vault Owner Retention**: Vault owner stickiness is vastly improved, especially for the largest vaults, since the stability fees have been prepaid and locked into a fixed term.
-5.	**Integration with Gnosis Auction Protocol V2**: Discovery of rates permitting the performance of large sales competitively and transparently.
-6.	**Compatible with Asymmetric Demand**: There is no requirement to find buyers for Zeros or to be able to sell Claims.
+1.    **Fixed Stability Fee**: Once purchased, the token issued by Deco and MakerDAO will offset the stability fee with limit to any increase as there is no upper limit.
+2.    **No Vault Management Changes**: Vault owners do not have to make any changes to their vault ownership or management.
+3.    **New Revenue Stream**: This protocol provides a stable and predictable income stream in the form of fixed-rate risk premiums for MakerDAO and gives it the ability to upsell new products to the largest vault owners, and future RWA vaults which also tend to borrow at scale.
+4.    **Vault Owner Retention**: Vault owner stickiness is vastly improved, especially for the largest vaults, since the stability fees have been prepaid and locked into a fixed term.
+5.    **Integration with Gnosis Auction Protocol V2**: Discovery of rates permitting the performance of large sales competitively and transparently.
+6.    **Compatible with Asymmetric Demand**: There is no requirement to find buyers for Zeros or to be able to sell Claims.
 
 ### High Level Integration Design
 
@@ -93,19 +93,19 @@ The Deco protocol integration has been thoughtfully designed to work with Maker 
 
 Technical documents and usage steps are available at [technical docs](https://docs.deco.money/#/integrations/maker-vaults) for more details about the components in this integration proposal.
 
-### Deco Core Unit Responsibilities	
+### Deco Core Unit Responsibilities    
 
 Fixed rates promise to be a significant product offering for MakerDAO. A fixed rate product lends itself to a self-supporting and independent core unit. The core unit will be staffed to support the Maker integration and work with the growth core unit and governance to achieve Maker’s objectives, while providing for minimal burden to the protocol engineering and risk core units. The core unit is designed to be efficient and performance focused, with the principal objective to support MakerDAO and be a profit generating cost center for Maker. The core unit will manage the integration and serve MakerDAO and its various stakeholders in the required functions.
 
 The core unit will perform the following responsibilities:
 
-1.	Deploy new FEE token and Deco instances for collateral types as needed.
-2.	Develop Spells necessary to issue and manage CLAIM-FEE token issuances and the ZERO-A collateral type.
-3.	Incorporate timely fraction snapshot captures as part of weekly spells.
-4.	Perform data analysis to discover optimum fixed-rate premiums for various collateral types, and help the DAO sell the issued CLAIM-FEE tokens.
-5.	Assist Growth team in product development and ongoing Deco operations, including providing integration support and working with integration partners who wish to incorporate this feature seamlessly into their smart contracts or user interfaces.
-6.	Assist the DAO in ZERO-FEE token sales if the need arises.
-7.	Assist the DAO in setting the Dai Savings Rate if the need ever arises.
+1.    Deploy new FEE token and Deco instances for collateral types as needed.
+2.    Develop Spells necessary to issue and manage CLAIM-FEE token issuances and the ZERO-A collateral type.
+3.    Incorporate timely fraction snapshot captures as part of weekly spells.
+4.    Perform data analysis to discover optimum fixed-rate premiums for various collateral types, and help the DAO sell the issued CLAIM-FEE tokens.
+5.    Assist Growth team in product development and ongoing Deco operations, including providing integration support and working with integration partners who wish to incorporate this feature seamlessly into their smart contracts or user interfaces.
+6.    Assist the DAO in ZERO-FEE token sales if the need arises.
+7.    Assist the DAO in setting the Dai Savings Rate if the need ever arises.
 
 ## Future Directions
 

@@ -120,8 +120,8 @@ The first disbursement requested is **DAI 464,500** which includes what follows.
 ##### Breakdown
 
 * **107,500 DAI** =
-	* **10,000 DAI**  one-off setup / incorporation budget for DI Co +
-	* **97,500 DAI** - one-off interim budget for data and services provided from June to October 2020
+    * **10,000 DAI**  one-off setup / incorporation budget for DI Co +
+    * **97,500 DAI** - one-off interim budget for data and services provided from June to October 2020
 
 
 #### Monthly Transfers

@@ -142,8 +142,8 @@ The Events CU team has been carefully curated to include expertise and skills to
 The goal of the Events team is to be as vertically integrated as possible which is why the team has included a mechanical engineer role in the CU.  The engineer will be responsible for all technical aspects and coordination of visual elements, LED lighting and other event installations.  The engineer will additionally be responsible for the design and manufacturing of set dress, including LED lighting.   Safety analysis of rigging/installations would be performed by the engineer to ensure compliance with any local safety requirements or authorities.
 
 ### The Events Team (FTE)
-* 	Event Manager: John Legg - Forum: @Leggevents
-* 	Facilitator/Mechanical Engineer: Jon Perry - Forum: @PonJerry
+*     Event Manager: John Legg - Forum: @Leggevents
+*     Facilitator/Mechanical Engineer: Jon Perry - Forum: @PonJerry
 
 
 | Role | FTE |

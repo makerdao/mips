@@ -152,8 +152,8 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Active Budget** - [MIP40c3-SP70](https://github.com/makerdao/mips/blob/34cce188049e6d6d1adcfcaf0c4fde1c6e4f7085/MIP40/MIP40c3-Subproposals/MIP40c3-SP70.md) --- winning option was "BearMarket"
     - **Ratification Date** - 2022-06-27
     - **Budget Amount** - 4,210,261.40 DAI / twelve months
-	- **Budget Implementation** - Simple via dssvest
-	- **Budget Breakdown** - [MIP40c3-SP70 internal anchor link](https://mips.makerdao.com/mips/details/MIP40c3SP70#list-of-budget-breakdowns)
+    - **Budget Implementation** - Simple via dssvest
+    - **Budget Breakdown** - [MIP40c3-SP70 internal anchor link](https://mips.makerdao.com/mips/details/MIP40c3SP70#list-of-budget-breakdowns)
 - **MKR Vesting** - [MIP40c3-SP23](https://mips.makerdao.com/mips/details/MIP40c3SP23)
 
 ##### Facilitator
@@ -256,7 +256,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
         - A total of DAI 257,500 (6*42,917) will be streamed to 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1 starting 02-01-2022 and ending 07-31-2022
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP47 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP47.md#list-of-budget-breakdowns)
-	- **MKR Vesting** - [MIP40c3-SP79](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP79.md)
+    - **MKR Vesting** - [MIP40c3-SP79](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP79.md)
 
 ##### Facilitator
 

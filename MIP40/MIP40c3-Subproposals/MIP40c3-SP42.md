@@ -91,18 +91,18 @@ The budget cap will differ from the actual expenses of the core unit. The cap re
 * Controlled by the IS Auditors
 * Address: 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4
 * Signers:
-	* SES Accounting (1:2, 0xA2A855Ac8D2a92e8A5a437690875261535c8320C)
-	* SES Auditing (1:2, 0xB2da57e224949acDDe173a5b8A8160c023ea86e6)
-	* Maker Protocol (MCD_PAUSE_PROXY, 0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB)
+    * SES Accounting (1:2, 0xA2A855Ac8D2a92e8A5a437690875261535c8320C)
+    * SES Auditing (1:2, 0xB2da57e224949acDDe173a5b8A8160c023ea86e6)
+    * Maker Protocol (MCD_PAUSE_PROXY, 0xBE8E3e3618f7474F8cB1d074A26afFef007E98FB)
 
 **IS Operational Wallet (2:3)**
 
 * Controlled by the IS Core Unit team
 * Address: 0x124c759D1084E67B19a206ab85c4527Fab26c342
 * Signers:
-	* 0x2BC5fFc5De1a83a9e4cDDfA138bAEd516D70414b
-	* 0xAcAf835934eE40E0d5ee3F941E283499F8Ad97eD
-	* 0xFfC87601A80d3e4F0aF083a899e3fee203C23cF0
+    * 0x2BC5fFc5De1a83a9e4cDDfA138bAEd516D70414b
+    * 0xAcAf835934eE40E0d5ee3F941E283499F8Ad97eD
+    * 0xFfC87601A80d3e4F0aF083a899e3fee203C23cF0
 
 #### Transaction Amounts
 
