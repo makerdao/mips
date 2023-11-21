@@ -28,7 +28,7 @@ Date Ratified: <yyyy-mm-dd>
 - Links to evidence further backing the motivation, if relevant.
 
 ---
-	
+    
 Urgent or emergency changes to a Vault Setting may utilize the process defined in MIP24.
     
 Vault permissions are customizable and Yearn is able and willing to participate in vault governance and [operations procedures](https://docs.yearn.finance/developers/v2/OPERATIONS) if that is desired as a result of MIP92.

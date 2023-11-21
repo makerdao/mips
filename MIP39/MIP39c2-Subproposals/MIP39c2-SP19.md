@@ -27,8 +27,8 @@ In a volatile, high gas cost environment, DeFi protocols are attempting to build
 * Defi activity has diverged---Ethereum is still the “Capital” of the DeFi activity, but a growing number of other solutions offer their own unique package of security, scale and functionality. As users are expected to use Ethereum competitors more and more, its crucial for Maker to establish footholds on these platforms - in order to keep DAI highly usable and interchangeable among them
 [Derek’s post](https://forum.makerdao.com/t/a-multichain-strategy-and-roadmap-for-maker/8380) highlighted the multi-chain strategy for Maker and was widely discussed amongst community members
 * Furthermore, operating on a scaled and fast environment comes with its own set of unique opportunities:
-	1. This gives the opportunity to inspect improvements to the protocol, which are just too expensive for L1. The ability to mint, trade, liquidate faster brings opportunities for the users and for the protocol itself.
-	2. Increasing transaction speed would be very attractive for some categories of users (e.g., short-term borrowers, shorter-term traders) who can now mint DAI intrablock and hence open use cases that were not possible before. As other Defi protocols are building bridges to L2, not doing so as well would erode the competitiveness of Maker as a protocol.
+    1. This gives the opportunity to inspect improvements to the protocol, which are just too expensive for L1. The ability to mint, trade, liquidate faster brings opportunities for the users and for the protocol itself.
+    2. Increasing transaction speed would be very attractive for some categories of users (e.g., short-term borrowers, shorter-term traders) who can now mint DAI intrablock and hence open use cases that were not possible before. As other Defi protocols are building bridges to L2, not doing so as well would erode the competitiveness of Maker as a protocol.
 
 ### What does it mean to expand maker?
 

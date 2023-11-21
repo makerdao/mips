@@ -71,9 +71,9 @@ Yes, public records were able to verify most of the provided information.
 - the investors
 
 The Oracle Team was able to verify Etherscan:   
-	as a portfolio company on the [BoostVC website](https://www.boost.vc/portfolio).   
-	as a portfolio company on the [Digital Currency Group (DCG) website](https://dcg.co/portfolio/).   
-	as a portfolio company on the [Coinbase Ventures website](https://ventures.coinbase.com/).   
+    as a portfolio company on the [BoostVC website](https://www.boost.vc/portfolio).   
+    as a portfolio company on the [Digital Currency Group (DCG) website](https://dcg.co/portfolio/).   
+    as a portfolio company on the [Coinbase Ventures website](https://ventures.coinbase.com/).   
 
 - how much funding was raised
 
@@ -117,5 +117,5 @@ The Oracle Team recommends that Maker Governance ratify the proposal to appoint 
 Having provided the infrastructure for a compelling web of decentralization and transparency of Ethereum since as far back as 2015, Etherscan has cemented itself as a core member of the Ethereum ecosystem that embodies its values. The Oracle Team was able to verify most of the information provided by Elvis in the MIP10c14 Light Feed application however was unable to confirm the amount of funding raised nor the existance of the legal entity in the claimed domicile.  No confirmed cases of misconduct related to the organization were found.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

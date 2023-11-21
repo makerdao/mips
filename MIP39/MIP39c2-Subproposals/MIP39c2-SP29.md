@@ -167,7 +167,7 @@ The initial list is included below:
 - Collaboration with other Core Units
     - **Protocol Engineering (PE-001)** - Ethereum nodes provisioning, administration and monitoring
     - **Oracle (ORA-001)**
-    	- Administration, Monitoring and new Collateral onboarding
+        - Administration, Monitoring and new Collateral onboarding
         - Addition of each new collateral type touches various systems that need to be reconfigured to accept said collateral. Systems such as Oracle Feeds and Relayers, monitoring, dashboards, keepers, changelog and _spell_ whitelisting.
 
       _Note_: A different MIP will be put forward to the community to transfer the ownership of the current Oracle Feed and Relayers from the Maker Foundation to TECH-001.
@@ -185,13 +185,13 @@ Critical Maker protocol components such as:
 - Blog*
 - Discord administration
 - Various keepers - open source services to facilitate Maker smart contracts operations
-	- [Chief Keeper](https://github.com/makerdao/chief-keeper)
-	- [Cage Keeper](https://github.com/makerdao/cage-keeper)
-	- [D3M Keeper](https://github.com/makerdao/d3m-keeper)**
-	- [Autoline Keeper](https://github.com/makerdao/autoline-keeper)**
-	- ETH Filler
-	- Poker Keeper
-	- Drip Keeper
+    - [Chief Keeper](https://github.com/makerdao/chief-keeper)
+    - [Cage Keeper](https://github.com/makerdao/cage-keeper)
+    - [D3M Keeper](https://github.com/makerdao/d3m-keeper)**
+    - [Autoline Keeper](https://github.com/makerdao/autoline-keeper)**
+    - ETH Filler
+    - Poker Keeper
+    - Drip Keeper
 
   \* **Note**: TECH-001 will only take responsibility for the infrastructure hosting exclusively as Platform Manager, and will not be responsible for the content hosted on these platforms.
 The team will work with the community and follow the procedures laid out in [MIP60](https://forum.makerdao.com/t/mip60-intangible-asset-assignment/10319) to establish Content Managers for the respective platforms.
@@ -207,48 +207,48 @@ At the very minimum the contact details of the Content Manager need to be public
 - Infrastructure design, CI/CD pipelines and staging environments
 - Technical Support: Support CUs we work with, to set up accounts, helping with infrastructure setup and configuration, security best practices education, and so on. 24/7 follow-the-sun support, assessment and remediation
 - Tools administration and development: 3rd party services administration and management, such as:
-	- Development of Discord bots and integration with other services
-	- Grafana dashboards development, which are then made available to others
-	- PagerDuty alarms development and integration with other services
-	- Development of various keeper services (those listed above and others per community needs)
-	- Maintenance of projects used by the keepers (pymaker, pygasprice-client)
+    - Development of Discord bots and integration with other services
+    - Grafana dashboards development, which are then made available to others
+    - PagerDuty alarms development and integration with other services
+    - Development of various keeper services (those listed above and others per community needs)
+    - Maintenance of projects used by the keepers (pymaker, pygasprice-client)
 
 #### General System Administration
 
 - Infrastructure hosting for the CUs that we work with
 - Documentation of critical components
 - Cloud providers management
-	- Multiple cloud providers to prevent lock-in, add pricing options and introduce fault tolerance. Automated with Infrastructure as Code.
+    - Multiple cloud providers to prevent lock-in, add pricing options and introduce fault tolerance. Automated with Infrastructure as Code.
 - Network & Security
-	- Virtual Private Cloud (VPC) and Firewall management
+    - Virtual Private Cloud (VPC) and Firewall management
 - Load balancing
-	- Dynamic upstreams and SSL certificates automation
+    - Dynamic upstreams and SSL certificates automation
 - Testing (services and infrastructure)
 - Database administration
 - Secrets and service credentials management
 - Backups & Restore
-	- Database
-	- Stateful services filesystem
-	- Regular automated restore tests
+    - Database
+    - Stateful services filesystem
+    - Regular automated restore tests
 
 #### DevOps Services
 
 - Infrastructure as Code Automation
-	- Cloud Environment provisioning
-	- Cost management & Optimisations
+    - Cloud Environment provisioning
+    - Cost management & Optimisations
 - Source control and artefacts management
-	- GitHub and Docker repositories
+    - GitHub and Docker repositories
 - CI/CD - Setting up automated delivery and testing pipelines to deploy Maker services to various environments with confidence
-	- Github Actions and other CI systems
+    - Github Actions and other CI systems
 - Monitoring, Metrics & Alerts
-	- Various server metrics
-	- Service availability and performance monitoring
+    - Various server metrics
+    - Service availability and performance monitoring
 - Log Aggregation
-	- Centralised log data storage for easy developer access, analysis and optional alerting
+    - Centralised log data storage for easy developer access, analysis and optional alerting
 - Knowledge Sharing and Training
-	- Expected to be continuously learning
-	- Provide environment for safe experimentation
-	- Regular knowledge sharing presentations within the team and to outside stakeholders
+    - Expected to be continuously learning
+    - Provide environment for safe experimentation
+    - Regular knowledge sharing presentations within the team and to outside stakeholders
 
 ### Roadmap and R&D/POC
 

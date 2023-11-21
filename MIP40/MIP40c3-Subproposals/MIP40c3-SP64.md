@@ -159,7 +159,7 @@ Any changes to these amounts and its disbursement will be reported in the quarte
 | -------- | -------- |
 | MKR/USD lock-in Method | Trailing 6 month average |
 | MKR/USD lock-in Price | USD 2,428.74|
-| MKR Price Floor |	-30% |
+| MKR Price Floor |    -30% |
 | Vesting Period | 3 years |
 | Cliff Vest | 12 months |
 | Vesting Schedule | After cliff has expired, the MKR amount vests every 6 months |

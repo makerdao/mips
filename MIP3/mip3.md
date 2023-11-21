@@ -86,11 +86,11 @@ Proposals submitted must follow the guidelines defined in MIP0.
 
 **Week 2, Monday**
 -   The Governance facilitators publish the set of **Inclusion Polls**, one per proposal. Each poll has two options:
-	-   Yes or no.
-	-   Where the `no` votes simply increase the barrier of the proposal to pass.
+    -   Yes or no.
+    -   Where the `no` votes simply increase the barrier of the proposal to pass.
 -   If the Yes votes for a given option in the inclusion poll are higher than the combination of No votes and the `default inclusion threshold` at the end of the Inclusion Poll, the proposal will be included in the **Governance Poll**.
     -   The default inclusion threshold is set to 3000 MKR.
-	-   If votes: `yes` > (`no` + `default inclusion threshold`) = inclusion in governance poll.
+    -   If votes: `yes` > (`no` + `default inclusion threshold`) = inclusion in governance poll.
 
 **Week 2, Thursday**
 

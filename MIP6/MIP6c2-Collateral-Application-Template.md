@@ -14,7 +14,7 @@
 7.  How is the asset used and does it give any rights to holders? (e.g. financial claims, dividends, governance rights)
 8.  What is the market cap for the asset?
 9.  Where does exchange for the asset occur?
-	9.a  Provide exchange data on market liquidity, volume and order book depth.
+    9.a  Provide exchange data on market liquidity, volume and order book depth.
 10.  Is the asset settled on chain (trustless) or off chain (trusted)?
 11.  If offchain (trusted) settlement: describe what are the involved entities, process and estimated time.
 12.  List any possible oracle data sources for the proposed collateral type.
@@ -33,7 +33,7 @@
 19.  (Optional) Has your project obtained any legal opinions or memoranda regarding the regulatory standing of the token or an explanation of the same from the perspective of any jurisdiction? If so, those materials should be provided for community review.
 20.  (Optional) Describe whether there are any regulatory registrations for the token and provide related documentation (including an explanation of any past or existing interactions with any regulatory authorities, regardless of jurisdiction), if applicable.
 21.  Is issuance of the asset decentralized (trustless) or centralized (trusted)?
-		21.a. If centralized/trusted: by which legal entity, type of entity and jurisdiction?
+        21.a. If centralized/trusted: by which legal entity, type of entity and jurisdiction?
 
 **Technical Questions**
 
