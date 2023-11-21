@@ -75,11 +75,11 @@ Is MakerDAO willing to earmark RWA funds for building the proof of concept of ha
 ### Funding Breakdown
 
 * **25K to develop single asset LLC “code deference” operating agreement and legal forms based on Wyoming LLC organization code.**
-	* Code Deference Agreement template based on Wyoming would be provided to allow MakerDAO legal team to add additional garnish.
-	* Once approved can use a similar mechanism to [LexSummoner](https://lexdao.github.io/LexSummoner/) allowing LLC generation and minting with DAO using DaoHaus framework. This is a basic “push button” organization with a DAO as frontend, with the code deference agreement to manage certain parameters of the operating agreement.
+    * Code Deference Agreement template based on Wyoming would be provided to allow MakerDAO legal team to add additional garnish.
+    * Once approved can use a similar mechanism to [LexSummoner](https://lexdao.github.io/LexSummoner/) allowing LLC generation and minting with DAO using DaoHaus framework. This is a basic “push button” organization with a DAO as frontend, with the code deference agreement to manage certain parameters of the operating agreement.
 * **20K for Smart Contract specifications of Baal to allow for governance shifting of control based on event of payment default.**
-	* Moloch share interests are inherently not bearer instruments. This makes them basically impossible to pledge or hypothecate the membership interests. Newer models will allow more extensibility to allow for DAOs to pledge membership interests (tokens) as collateral
-	* Pledging these tokens would allow a further helper contract to split the ownership of the LLC from its governance. In this way, it can be possible for a remedy of sale or dissolution of the assets held by the SPV.
+    * Moloch share interests are inherently not bearer instruments. This makes them basically impossible to pledge or hypothecate the membership interests. Newer models will allow more extensibility to allow for DAOs to pledge membership interests (tokens) as collateral
+    * Pledging these tokens would allow a further helper contract to split the ownership of the LLC from its governance. In this way, it can be possible for a remedy of sale or dissolution of the assets held by the SPV.
 * **5K for management.**
 
 ### Special Purpose Fund Details

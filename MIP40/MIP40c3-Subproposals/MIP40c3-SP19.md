@@ -114,7 +114,7 @@ Growth CU has a multi-signature wallet to administer the funds allocated to fulf
 - **Budget implementation:** Manual
 - **Payment Frequency**: Transfers should be included in the first executive of the month. In the event of the first executive of the month failing to pass successfully, transfers should be included in the next available executive vote.
 - **Payout Dates:**
-	- August - 637,900 DAI
-	- September - 137,900 DAI
-	- October - 162,150 DAI
+    - August - 637,900 DAI
+    - September - 137,900 DAI
+    - October - 162,150 DAI
 

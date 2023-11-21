@@ -33,7 +33,7 @@ We used [Alternative MKR Compensation Guidelines](https://forum.makerdao.com/t/m
 | --- | --- |
 |Vesting Period|3 years|
 |Cliff Vest|12 months|
-|Vesting Schedulue|	After the cliff has expired, the Quarterly MKR amount vests every 3 months and is distributed on July/Oct/Jan/Apr 1st, depending on each individual onboarding
+|Vesting Schedulue|    After the cliff has expired, the Quarterly MKR amount vests every 3 months and is distributed on July/Oct/Jan/Apr 1st, depending on each individual onboarding
 |Estimated Max Total team MKR After 1 Year (7 FTE)*|560|
 |Estimated Max Total team MKR After 3 Years (7 FTE)*|1,680|
 

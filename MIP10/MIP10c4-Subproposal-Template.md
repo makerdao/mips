@@ -34,6 +34,6 @@ Date Ratified: <yyyy-mm-dd>
       - An asset ceasing to exist 
       - Removal of a collateral type from the Maker Protocol
       - Oracle not being utilized by neither the Maker Protocol nor a 3rd party
-    				
+                    
 ### Relevant Information
 -  Links to evidence further backing the motivation behind the removal of the Oracle.

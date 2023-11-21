@@ -54,5 +54,5 @@ The leading Ethereum Block explorer, analytics and api service provider for the 
 As a Light Feed we believe our ethos of neutrality and impartiality will help in providing a reliable source of pricing data.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

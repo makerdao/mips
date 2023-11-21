@@ -80,28 +80,28 @@ Team Name: The name of the onboarded domain team.
 
 **1. Oracle Domain Teams:**
 - **Team Name:** Green Team
-	- **Sub-proposal Number (MIP7c3-SP):** n/a (Oracle Team was ratified prior to the MIPs process. Reference: [Mandate: Oracle Teams](https://forum.makerdao.com/t/mandate-oracle-teams/443))
-	- **Domain:** Oracle
-	- **Date Added:** 2019-10-7 [Poll: Ratify the Interim Oracle Team Mandate](https://vote.makerdao.com/polling-proposal/qmas1bqrquo2h41qv4fa8hpek9ukb7dlwtpkpn62r5hhmq)
+    - **Sub-proposal Number (MIP7c3-SP):** n/a (Oracle Team was ratified prior to the MIPs process. Reference: [Mandate: Oracle Teams](https://forum.makerdao.com/t/mandate-oracle-teams/443))
+    - **Domain:** Oracle
+    - **Date Added:** 2019-10-7 [Poll: Ratify the Interim Oracle Team Mandate](https://vote.makerdao.com/polling-proposal/qmas1bqrquo2h41qv4fa8hpek9ukb7dlwtpkpn62r5hhmq)
 
 **2. Smart Contracts Domain Teams:**
 
 - **Team Name:** Blue Team
-	- **Sub-proposal Number (MIP7c3-SP):** 1
-	- **Domain:** Smart Contracts
-	- **Date Added:** 2020-05-02 [Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals)
+    - **Sub-proposal Number (MIP7c3-SP):** 1
+    - **Domain:** Smart Contracts
+    - **Date Added:** 2020-05-02 [Ratification Vote](https://vote.makerdao.com/executive-proposal/lower-usdc-sf-add-wbtc-ratify-the-initial-mips-and-subproposals)
 
 **3. Risk Domain Teams:**
 - **Team Name:** Red Team
-	- **Sub-proposal Number (MIP7c3-SP):** 2
-	- **Domain:** Risk
-	- **Date Added:** 2020-06-25 [Ratification Vote](https://mkrgov.science/executive/0x1d51ca29e35b6ce30167f634dd21376da1341d9b)
+    - **Sub-proposal Number (MIP7c3-SP):** 2
+    - **Domain:** Risk
+    - **Date Added:** 2020-06-25 [Ratification Vote](https://mkrgov.science/executive/0x1d51ca29e35b6ce30167f634dd21376da1341d9b)
 
 **4. Collateral Engineering Services Domain Teams:**
 - **Team Name: CES-001**
-	- **Sub-proposal Number (MIP7c3-SP):** 7
-	- **Domain:** Collateral Engineering Services
-	- **Date Added:** 2022-04-25 [Ratification Poll](https://vote.makerdao.com/polling/QmVAD1ZD)
+    - **Sub-proposal Number (MIP7c3-SP):** 7
+    - **Domain:** Collateral Engineering Services
+    - **Date Added:** 2022-04-25 [Ratification Poll](https://vote.makerdao.com/polling/QmVAD1ZD)
 
 **5. Legal Domain Teams:**
 

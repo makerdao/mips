@@ -46,15 +46,15 @@ My commitment as the SF team facilitator is to:
 
 - Serve as a point of contact between the Strategic Finance Core Unit, the Governance community and other facilitators to ensure alignment on team deliverables and objectives
 - Represent the Core Unit to the community by:
-	- Engaging with the community and synthesizing feedback for the team to help iterate on our ideas
-	- Communicating team updates, roadmap, and releases to the community
-	- Demonstrating to stakeholders how our contributions bring value to the protocol
-	- Acting under principles of transparency
-	- Attending relevant meetings and delivering status updates
+    - Engaging with the community and synthesizing feedback for the team to help iterate on our ideas
+    - Communicating team updates, roadmap, and releases to the community
+    - Demonstrating to stakeholders how our contributions bring value to the protocol
+    - Acting under principles of transparency
+    - Attending relevant meetings and delivering status updates
 - Work with SF Team Lead to:
-	- Define Core Unit management framework and team KPIs
-	- Set up the legal structure of the Core Unit
-	- Draft and deliver required MIPs
+    - Define Core Unit management framework and team KPIs
+    - Set up the legal structure of the Core Unit
+    - Draft and deliver required MIPs
 
 ## Facilitator Name and Information
 

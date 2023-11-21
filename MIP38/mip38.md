@@ -138,30 +138,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
-#### GovAlpha (GOV-001)
-
-- **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
-- **Ratification Date for the Initial Proposal Set** - 2021-03-25
-
-##### Mandate
-
-- [MIP39c2-SP3](https://mips.makerdao.com/mips/details/MIP39c2SP3)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP59](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP59.md)
-    - **Ratification Date** - 2022-03-28
-    - **Budget Amount** - A total of 1,079,793 DAI will be streamed to 0x01D26f8c5cC009868A4BF66E268c17B057fF7A73 starting at 2022-04-01 and ending at 2023-04-01.
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP59 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP59.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP80](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP80.md)
-
-##### Facilitator(s)
-
-- Patrick_J - [MIP41c4-SP37](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP37.md)
-
----
-
 #### Growth (GRO-001)
 
 - **Summary** - The Growth Core Unit aims to grow the available distribution channels for the Maker protocol by intelligently deploying the human and financial capital given by the DAO, increasing the supply and demand of Dai in the global markets.
@@ -176,8 +152,8 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Active Budget** - [MIP40c3-SP70](https://github.com/makerdao/mips/blob/34cce188049e6d6d1adcfcaf0c4fde1c6e4f7085/MIP40/MIP40c3-Subproposals/MIP40c3-SP70.md) --- winning option was "BearMarket"
     - **Ratification Date** - 2022-06-27
     - **Budget Amount** - 4,210,261.40 DAI / twelve months
-	- **Budget Implementation** - Simple via dssvest
-	- **Budget Breakdown** - [MIP40c3-SP70 internal anchor link](https://mips.makerdao.com/mips/details/MIP40c3SP70#list-of-budget-breakdowns)
+    - **Budget Implementation** - Simple via dssvest
+    - **Budget Breakdown** - [MIP40c3-SP70 internal anchor link](https://mips.makerdao.com/mips/details/MIP40c3SP70#list-of-budget-breakdowns)
 - **MKR Vesting** - [MIP40c3-SP23](https://mips.makerdao.com/mips/details/MIP40c3SP23)
 
 ##### Facilitator
@@ -280,7 +256,7 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
         - A total of DAI 257,500 (6*42,917) will be streamed to 0x6D348f18c88D45243705D4fdEeB6538c6a9191F1 starting 02-01-2022 and ending 07-31-2022
     - **Budget Implementation** - Simple via dssvest
     - **Budget Breakdown** - [MIP40c3-SP47 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP47.md#list-of-budget-breakdowns)
-	- **MKR Vesting** - [MIP40c3-SP79](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP79.md)
+    - **MKR Vesting** - [MIP40c3-SP79](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP79.md)
 
 ##### Facilitator
 
@@ -311,61 +287,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 ##### Facilitator
 
 - Tadeo - [MIP41c4-SP35](https://github.com/makerdao/mips/blob/master/MIP41/MIP41c4-Subproposals/MIP41c4-SP35.md)
-
----
-
-#### Deco Fixed-Rate (DECO-001)
-
-- **Summary** - The Deco Protocol is a fixed-rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
-- **Ratification Date for the Initial Proposal Set** - 2021-11-22
-
-##### Mandate
-
-- [MIP39c2-SP23](https://github.com/makerdao/mips/blob/master/MIP39/MIP39c2-Subproposals/MIP39c2-SP23.md)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP35](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md)
-    - **Ratification Date** - 2021-11-22
-    - **Budget Amount**
-        - Initial seed transfer of 465,625 Dai
-        - 155,208.33 Dai/month streamed continuously
-    - **Budget Implementation** -
-    - **Budget Breakdown** - [MIP40c3-SP35 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP35.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP36](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP36.md)
-
-##### Facilitator
-
-- Vamsi Alluri - [MIP41c4-SP24](https://mips.makerdao.com/mips/details/MIP41c4SP24)
-
----
-
-#### Immunefi Security (IS-001)
-
-- **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
-- **Ratification Date for the Initial Proposal Set** - 2021-11-22
-
-
-##### Mandate
-
-- [MIP39c2-SP24](https://mips.makerdao.com/mips/details/MIP39c2SP24)
-
-##### Budget
-
-- **Active Budget** - [MIP40c3-SP58](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md)
-  - **Ratification Date** - 2022-02-28
-  - **Budget Amount**   
-      * 95,442.5 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2021-12-01
-      * 138,000 DAI will be transferred to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 on 2022-03-01
-      * A total of 366,562.50 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2021-12-01 and ending 2022-08-01
-      * A total of 207 000 DAI will be streamed to 0xd1F2eEf8576736C1EbA36920B957cd2aF07280F4 starting 2022-03-01 and ending 2022-12-01
-    - **Budget Implementation** - Simple via dssvest
-    - **Budget Breakdown** - [MIP40c3-SP58 internal anchor link](https://github.com/makerdao/mips/blob/master/MIP40/MIP40c3-Subproposals/MIP40c3-SP58.md#budget-breakdown)
-- **MKR Vesting** - [MIP40c3-SP41](https://mips.makerdao.com/mips/details/MIP40c3SP41)
-
-##### Facilitator
-
-- Travin Keith - [MIP41c4-SP25](https://mips.makerdao.com/mips/details/MIP41c4SP25)
 
 ---
 
@@ -441,7 +362,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ### Offboarded Core Units
 
-
 #### Governance Communications (COM-001)
 
 - **Summary** - The Governance Communications Core Unit performs a set of programs that focus on MakerDAO's informational accessibility, stakeholder coordination, and communication practices as a decentralized and public organization.
@@ -504,8 +424,6 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 
 ---
 
----
-
 #### Development and UX (DUX-001)
 
 - **Summary** - Enabling the best-in-class decentralized decision making for the Maker Protocol by providing a meaningful user experience for all governance participants.
@@ -521,6 +439,33 @@ Offboarded Core Units are archived at the end of the list under *Offboarded Core
 - **Ratification Date for the Initial Proposal Set** - 2021-09-27
 - **Ratification Date for Offboarding** - 2023-06-19
 - **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-ces-001&orderDirection=ASC&hideParents=true)
+
+---
+
+#### GovAlpha (GOV-001)
+
+- **Summary** - This Core Unit intends to fulfill MakerDAO's requirement of a consistent and well-run governance process managed by elected facilitators in order to remain stable and secure as it grows.
+- **Ratification Date for the Initial Proposal Set** - 2021-03-25
+- **Ratification Date for Offboarding** - 2023-09-01
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-gov-001&orderDirection=ASC&hideParents=true)
+
+---
+
+####  Immunefi Security (IS-001)
+
+- **Summary** - Immunefi's Mission is to systematically improve security for builders, end users, and other stakeholders in the Maker Ecosystem by providing both reactive and proactive security services.
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
+- **Ratification Date for Offboarding** - 2023-10-30
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-is-001&orderDirection=ASC&hideParents=true)
+
+---
+
+#### Deco Fixed-Rate (DECO-001)
+
+- **Summary** - The Deco Protocol is a fixed-rate protocol designed to be flexible and safe. Its design anticipated that its first and most effective initial application may be on Maker.
+- **Ratification Date for the Initial Proposal Set** - 2021-11-22
+- **Ratification Date for Offboarding** - 2023-11-25
+- **Related Proposals** [see](https://mips.makerdao.com/mips/list?search=$%23cu-deco-001&orderDirection=ASC&hideParents=true)
 
 ### MIP38c3: Endgame transition
 

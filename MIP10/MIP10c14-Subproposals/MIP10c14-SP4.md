@@ -65,5 +65,5 @@ We will be faithful & responsible stewards of the data passed into the MKR Oracl
 Note that DAI/SAI are some of the most used tokens on the Gitcoin platform!  We have a rational economic incentive to keep the price data clean & good!  https://gitcoin.co/leaderboard/tokens?cadence=quarterly&keyword=all&product=all
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

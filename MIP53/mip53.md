@@ -67,23 +67,23 @@ The MKR will be transferred to the Core Unit a full year after ratification of t
 
 Some of the below listed Core Units have yet to submit for unit approval. Other Core Units have provisional unit size. Units not included in the below list could be proposed at a later stage through amendment.
 
-Core Unit			Tier	Unit size	MKR per person per year for internal distribution
-Protocol Engineering		1	16		250
-Oracles				1	16		250
-Risk				2	10		50
-GovAlpha			2	6		50
-Real-World Finance		2	5		50
-Governance Communications	4	5		10
-Growth				3	7		30
-Sustainable Ecosystem Scaling	3	50		30
-Content Production		4	5		10
-Marketing			3	5		30
-Legal				2	3		50
-UX & Frontend			3	6		30
-Integrations			3	5		30
-Smart Contracts 2		3	5		30
-MakerDAO Shop			N/A	N/A		0
-			
+Core Unit            Tier    Unit size    MKR per person per year for internal distribution
+Protocol Engineering        1    16        250
+Oracles                1    16        250
+Risk                2    10        50
+GovAlpha            2    6        50
+Real-World Finance        2    5        50
+Governance Communications    4    5        10
+Growth                3    7        30
+Sustainable Ecosystem Scaling    3    50        30
+Content Production        4    5        10
+Marketing            3    5        30
+Legal                2    3        50
+UX & Frontend            3    6        30
+Integrations            3    5        30
+Smart Contracts 2        3    5        30
+MakerDAO Shop            N/A    N/A        0
+            
 ### MIP53c3: Recommended best practice
 
 Based on internal discussions the MKR Compensation Group has the following list of best practices for Core Units seeking to apply for MKR compensation.

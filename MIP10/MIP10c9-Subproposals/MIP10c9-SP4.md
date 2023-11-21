@@ -54,5 +54,5 @@ For each customer address to be whitelisted:
 In accordance with the Responsible Oracle Migration Proposal, fees are waived for the first year and determined by MKR Governance after that.
 
 ### Changelog
-	- reformatted preamble
-	- added disclaimer
+    - reformatted preamble
+    - added disclaimer

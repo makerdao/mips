@@ -34,8 +34,8 @@ Date Ratified: <yyyy-mm-dd>
 - What is wrong with the current Data Model?
 - What is better about the new Data Model?
 - If possible provide empirical evidence showing the superiority of the new data model.
-	- data
-	- graphs
+    - data
+    - graphs
 
 ### Changelog
 - List of updates

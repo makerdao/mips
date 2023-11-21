@@ -43,10 +43,10 @@ Risk & Legal Work to Support RWA-related Activities
 ### Background of Individuals
 
 Structured Credit – @roo
--	Most recently worked for five years as an analyst and trader at an award-winning structured credit hedge fund and asset manager (>$10bn AUM) 
--	Three years of experience structuring and syndicating Collateralized Loan Obligations for a bulge bracket New York City investment bank
--	One year of experience in institutional investment grade corporate credit sales
--	Education: BA in Computer Science, with a minor in Markets and Management Studies from Duke University
+-    Most recently worked for five years as an analyst and trader at an award-winning structured credit hedge fund and asset manager (>$10bn AUM) 
+-    Three years of experience structuring and syndicating Collateralized Loan Obligations for a bulge bracket New York City investment bank
+-    One year of experience in institutional investment grade corporate credit sales
+-    Education: BA in Computer Science, with a minor in Markets and Management Studies from Duke University
 
 Legal Counsel – TBD
 
