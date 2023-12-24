@@ -1,39 +1,41 @@
-# This is a basic workflow to help you get started with Actions
+name: Deploy to IPFS
 
-name: IPFS
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   push:
-    branches: [ master, RFC, Accepted ]
+    branches:
+      - master
+      - TECH-*
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  deploy:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
+    environment: prod
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v3
+      - name: Checkout
+        id: checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-    - name: Upload to IPFS
-      uses: aquiladev/ipfs-action@master
-      with:
-        # Directory path to upload
-        path: ../mips
-        # Type of target service to upload. Supported services [ipfs]
-        service: ipfs # optional, default is ipfs
-        # IPFS host
-        host: ipfs.komputing.org # optional, default is ipfs.komputing.org
-        # IPFS port
-        port: 443 # optional, default is 443
-        # IPFS protocol
-        protocol: https # optional, default is https
-        # Request timeout
-        timeout: 60000 # optional, default is 60000
-        # Level of verbosity
-        verbose: true
+      - name: Deploy to IPFS
+        id: ipfs
+        uses: aquiladev/ipfs-action@master
+        with:
+          path: ../mips
+          service: filebase
+          pinName: 'mips-${{ vars.ENV }}'
+          filebaseBucket: ${{ secrets.FILEBASE_BUCKET }}
+          filebaseKey: ${{ secrets.FILEBASE_KEY }}
+          filebaseSecret: ${{ secrets.FILEBASE_SECRET }}
+
+      - name: Update DNSLink record in Cloudflare
+        id: cloudflare-dnslink
+        run: |
+          curl --request PATCH \
+            --url https://api.cloudflare.com/client/v4/zones/${{ secrets.CLOUDFLARE_ZONE_ID }}/web3/hostnames/${{ secrets.CLOUDFLARE_HOSTNAME_ID }} \
+            -H "Authorization: Bearer ${{ secrets.CLOUDFLARE_API_TOKEN }}" \
+            -H 'Content-Type: application/json' \
+            --data '{
+            "description": "DNS record for MIPs on IPFS",
+            "dnslink": "/ipfs/${{ steps.ipfs.outputs.cid }}"
+          }'
