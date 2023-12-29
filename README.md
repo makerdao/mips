@@ -70,7 +70,7 @@ Remember that MIP Editors are there to clarify the process and help you. Don't h
 
 | MIP Editor | Discord | GitHub | Forum |
 |-|-|-|-|
-| **Pablo** | blimpa#5322 | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
+| **Pablo** | blimpa_ | [@blimpa](https://github.com/blimpa) | [@blimpa](https://forum.makerdao.com/u/blimpa/summary) |
 
 ## Helpful Resources 
 
