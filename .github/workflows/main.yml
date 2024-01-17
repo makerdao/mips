@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - TECH-*
 
 jobs:
   deploy:
@@ -20,7 +21,7 @@ jobs:
         id: ipfs
         uses: aquiladev/ipfs-action@master
         with:
-          path: ../mips
+          path: ../mips/MIP*
           service: filebase
           pinName: 'mips-${{ vars.ENV }}'
           filebaseBucket: ${{ secrets.FILEBASE_BUCKET }}
