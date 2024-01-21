@@ -81,7 +81,7 @@ This above established structure must set up a relationship with a regulated cry
 
 The Strategic Finance Facilitator must, also through a public forum post, provide a Verification of the Asset Purchase and Allocation Restriction ensuring that only execution of bond strategies appropriate to use as large scale liquid RWA collateral can be acquired with assets provided to the legal structure by Maker.
 
-**Technical Verfication**
+**Technical Verification**
 
 The Collateral Engineering Services Facilitator must, again through a public forum post, provide a Verification of the technical appropriateness of the MIP21 designed solution in accordance with the Collateral Onboarding process ("COB").
 
