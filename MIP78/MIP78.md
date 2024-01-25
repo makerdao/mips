@@ -218,7 +218,7 @@ The parameters that Maker Governance can modify are:
 
 * **Max Compensated MKR (MKR<sub>MAX</sub>):** The maximum amount of delegated MKR for which a Recognized Delegate will be compensated. MKR delegated above this amount will not increase DAI compensation.
 * **Concentration (C\):** The concentration of compensation towards larger Recognized Delegates.
-* **Max Compensation (DAI<sub>MAX</sub>):** The maximum amount of DAI compensation which a Recognized Delegate can recieve for a given month.
+* **Max Compensation (DAI<sub>MAX</sub>):** The maximum amount of DAI compensation which a Recognized Delegate can receive for a given month.
 * **Minimum Performance Threshold (PERF<sub>MIN</sub>):** The theshold of permformance below which Recognized Delegates are not at all compensated.
 * **Good Performance Threshold (PERF<sub>GOOD</sub>):** The theshold of performance below which Recognized Delegates are not fully compensated.
 * **Minimum Performance Multiplier (PERF<sub>MULT</sub>):** The minimum multiplier that applies to Recognized Delegates when they drop below the good performance threshold.
