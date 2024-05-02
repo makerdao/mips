@@ -74,11 +74,11 @@ It is important to note that due to the frequency of such changes, the Weekly Cy
 
 #### Overview of the Weekly Governance Cycle
 
+The weekdays displayed in the image are recommended but may vary based on the decisions made by the Governance Facilitators and the Governance Security Engineering team, with the exception of the days designated for the weekly poll.
+
 | ![image](https://github.com/makerdao/mips/blob/master/MIP16/weekly_governance_cycle.png)) |
 |--|
 | Weekly Governance Cycle |
-
-_The weekdays displayed in the image are recommended but may vary based on the decisions made by the Governance Facilitators and the Governance Security Engineering team, with the exception of the days designated for the weekly poll._
 
 **Important Notes:**
 
