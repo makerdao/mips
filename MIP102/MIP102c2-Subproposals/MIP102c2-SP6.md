@@ -8,11 +8,12 @@ MIP(s) to be amended:
 Author(s): @codeknight
 Contributors:
 Tags: subproposal
-Status: RFC
+Status: Obsolete
 Date Proposed: 2023-03-23
 Date Ratified: N/A
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp6-policy-for-airdropped-tokens/20251
 Ratification Poll URL:
+Extra: This proposal was deferred for longer than 6 months. Thus it is considered Obsolete per MIP0c2.
 ```
 
 ### Summary
