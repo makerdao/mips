@@ -8,11 +8,12 @@ MIP to be amended: <MIP#>
 Author(s): @GFXLabs
 Contributors:
 Tags: mips-amen
-Status: RFC
+Status: Obsolete
 Date Proposed: 2023-03-02
 Date Ratified: <yyyy-mm-dd>
 Forum URL: https://forum.makerdao.com/t/mip102c2-sp5-mip-amendment-subproposals/20034
 Ratification Poll URL:
+Extra: This proposal was deferred for longer than 6 months. Thus it is considered Obsolete per MIP0c3.
 ```
 ## Specification
 
