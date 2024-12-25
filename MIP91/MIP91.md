@@ -81,7 +81,7 @@ Defines the governance process to approve the first instance of `dss-defender`.
 `dss-defender` has three parameters that can be modified by Governance. These are:
 1. `threshold amount`: This is the amount of MKR that must be deposited into an instance of `dss-defender` to activate it.
 2. `cancel-spells duration`: This is the duration for which an instance of `dss-defender` can cancel executive spells using the mechanism detailed in MIP91c2.
-3. `lockup duration`: This is the duration for which MKR deposited to an instance of `dss-defender` is locked by default. This parameter should be significantly larger than the `cancel-spells` duration to prevent a minority of MKR holders from stalling governance. The lockup period can be overriden by two mechanisms detailed in MIP91c3.
+3. `lockup duration`: This is the duration for which MKR deposited to an instance of `dss-defender` is locked by default. This parameter should be significantly larger than the `cancel-spells` duration to prevent a minority of MKR holders from stalling governance. The lockup period can be overridden by two mechanisms detailed in MIP91c3.
 
 RISK-001 should recommend initial choices and changes to these parameters. They may be changed via weekly governance polls or emergency/weekly executive votes. 
 

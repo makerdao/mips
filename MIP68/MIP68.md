@@ -156,7 +156,7 @@ To eliminate ramp-up risks, we will employ the following capital deployment patt
 |Capital Deployment | Requirement|
 |---|---|
 | - 50M| Only refinance existing, performing portfolios with 50% or less left of duration and meeting the requirements of the Strategic Credit Guidelines. |
-|50M -100M| Further refinancing of existing, performing portfolios and add Super Senior facilites with relevant. performing UK Credit funds and Banks with portfolio's meeting the requirements of the Strategic Credit Guidelines.|
+|50M -100M| Further refinancing of existing, performing portfolios and add Super Senior facilities with relevant. performing UK Credit funds and Banks with portfolio's meeting the requirements of the Strategic Credit Guidelines.|
 
 
 **3. EXTERNAL REVIEWS & COMMENTARIES ON CREDIT, MARKET & MONETALIS OPERATIONS**

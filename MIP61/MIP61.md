@@ -161,7 +161,7 @@ Suppose the parameters are set to their initial values. The effect of the Perfor
 
 With 100 MKR delegated, 95% Participation, and 95% Communication, the compensation is calculated as `C*min(1,100^q/10000^q)`. The Performance Modifier is 100% because `min(95%,95%) >= 90%`. This is `100% C*10/100` = 14 400 DAI per year.
 
-With 6772 MKR delegated, 85% Participation, and 95% Communication, The Performance Modifier is `40%+(1-40%)(clamp(min(85%,95%),75%,90%)-75%)/(90%-75%)` simplifing to `40%+60%(85%-75%)/15%`. The compensation is calculated as `C*min(1,6772^q/10000^q)`. This is `80% C*82.29/100` = 94 797.6 DAI per year.
+With 6772 MKR delegated, 85% Participation, and 95% Communication, The Performance Modifier is `40%+(1-40%)(clamp(min(85%,95%),75%,90%)-75%)/(90%-75%)` simplifying to `40%+60%(85%-75%)/15%`. The compensation is calculated as `C*min(1,6772^q/10000^q)`. This is `80% C*82.29/100` = 94 797.6 DAI per year.
 
 Compensation can be visualized by plotting the amount of MKR delegated against the compensation formula,
 

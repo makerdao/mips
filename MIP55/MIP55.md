@@ -121,7 +121,7 @@ This is a component that can have on-chain effects that alter the Maker Protocol
 
 **The proposal parameters**
 
-Requests of less than or equal to 50k Dai may go into the Weekly Governance Cycle, provided the Feedback and Frozen Periods have been fullfilled. Anything above 50k Dai must go through the Monthly Governance Cycle.
+Requests of less than or equal to 50k Dai may go into the Weekly Governance Cycle, provided the Feedback and Frozen Periods have been fulfilled. Anything above 50k Dai must go through the Monthly Governance Cycle.
 
 _Parameters for requests of less or equal to 50K Dai:_
 
